@@ -1,0 +1,53 @@
+name: Generate Telegram RSS
+
+on:
+  # запуск по расписанию
+  schedule:
+    # каждые 3 часа КРУГЛОСУТОЧНО (потом покажу, как ограничить только днём)
+    - cron: "0 */3 * * *"
+  # ручной запуск из UI
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    # нужно, чтобы action мог пушить в gh-pages
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Start RSS-Bridge container
+        run: |
+          docker run -d --name rss-bridge -p 8080:80 rssbridge/rss-bridge
+          # даём PHP+Apache подняться
+          sleep 15
+
+      - name: Generate feeds from Telegram channels
+        run: |
+          mkdir -p out
+
+          while read CHANNEL; do
+            # пропускаем пустые строки
+            [ -z "$CHANNEL" ] && continue
+
+            # убираем @ из имени для имени файла
+            SAFE_NAME=$(echo "$CHANNEL" | tr -d '@')
+
+            echo "Fetching feed for ${CHANNEL} -> out/${SAFE_NAME}.xml"
+
+            curl -sS \
+              "http://localhost:8080/?action=display&bridge=Telegram&format=Atom&username=${CHANNEL}" \
+              -o "out/${SAFE_NAME}.xml" || echo "Failed to fetch ${CHANNEL}"
+
+          done < channels.txt
+
+      - name: Deploy to GitHub Pages (gh-pages branch)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages
