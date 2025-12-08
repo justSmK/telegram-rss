@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
+  <icon>https://t.me/favicon.ico</icon>
+  <logo>https://t.me/favicon.ico</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
+  <updated>2025-12-08T18:37:34+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">New Requirements for Social Media Apps in Australia https://t.co/Tjy7WOfXfj</title>
+    <published>2025-12-08T18:02:54+00:00</published>
+    <updated>2025-12-08T18:02:54+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25465</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25465"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Requirements for Social Media Apps in Australia &lt;a href="https://t.co/Tjy7WOfXfj" target="_blank" rel="noopener"&gt;https://t.co/Tjy7WOfXfj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;&lt;img src="https://cdn4.telesco.pe/file/UdxwOX45YiCdI6bRlJEqJeoI-ltuRxjUL2qosS6i0wDAdWuMiscDTA3SEo8TwjDUUp4LRDZ2yj5k3__D0pN90Igi2SARWtGgt4xxWYHsrurEQpvMxNh7WC_s7jmPBSt18Z3Sa8Bhr2462DgITX_e_Z1NP7fNPCyC4hW3mVmMO4Ei-ndIFHCJfEf_HaYTP-ba-TFoZxmTQYQNZ2xsgEacRBwtH6OHmlHKkhTXKvzUBuW6AyFd7VwsA7wUIdsUIJg7dO49xP1oS6Vh5-BzMT2YUmKYkn7gnEdaHOMrnf7H6RQRpgS7gN6J_upd-8CzELZ2uE9-mC8GDxX2oh7m5Ck7zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;
+New Requirements for Social Media Apps in Australia - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Beginning December 10, 2025, a new Australian law will require certain social media platforms operating in Australia to prevent people under 16 from having a social media account. Impacted developers are responsible for making sure they follow the requirements…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Issue #143 - Engin Kurutepe https://t.co/XACLaa62Fg</title>
+    <published>2025-12-08T16:57:51+00:00</published>
+    <updated>2025-12-08T16:57:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25464</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25464"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Issue #143 - Engin Kurutepe &lt;a href="https://t.co/XACLaa62Fg" target="_blank" rel="noopener"&gt;https://t.co/XACLaa62Fg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XACLaa62Fg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XACLaa62Fg"&gt;
+Issue #143 - Engin Kurutepe - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featuring Engin Kurutepe.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Text Effects using SwiftUI | #apple #animation #ios https://t.co/SNoHC8eoWk</title>
+    <published>2025-12-08T13:52:28+00:00</published>
+    <updated>2025-12-08T13:52:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25463</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25463"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Text Effects using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/SNoHC8eoWk" target="_blank" rel="noopener"&gt;https://t.co/SNoHC8eoWk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;&lt;img src="https://cdn4.telesco.pe/file/P_320AsjV6LbBQQbDoFtY8ZqxSmxN8wZ98sdMXTaap85f5GGdNa2rGdI6EqhVQEFJr_ZWXHXRw3oU5Mnv7kULUeXB6XImyDnks9iufy84akug4Vrjg4FI8EZMGVLcEGClN3zKafCGFVZNKKfJ5hi85HgSfB3Y25T2NlGsRj6aSBvUAmJz6NpCxMXGGV4qMw6qHCvEP59oRcnMxxeI1Z4eYYTaOy_ML7hVKR9pQQeAn-JS0FbwmX_3Njtbl4-SHfUkbQs27qKHqy5hhpNJzhmnIagWP0HScfjb7bpb-kbenh8j5NchFG-FnuDeIp3A0KX6Qy9uBfM59-XHowTUaoOtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;
+Text Effects using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : mhaeuser/Battery-Toolkit https://t.co/2VCEEfN4C6</title>
+    <published>2025-12-08T02:07:24+00:00</published>
+    <updated>2025-12-08T02:07:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25462</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25462"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mhaeuser/Battery-Toolkit &lt;a href="https://t.co/2VCEEfN4C6" target="_blank" rel="noopener"&gt;https://t.co/2VCEEfN4C6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2VCEEfN4C6"&gt;&lt;img src="https://cdn4.telesco.pe/file/T2Kb3IS7J3jWhpAwvZSVh6dWN7t7uFWXEkJ_RxCuhgzz4fUq3VLrmE2Kfk20KtOjuBLZyVADTUDlVoBzsf-X3ovpqomoxorxMxv8H5atneRPavAIBFHRmWYyJU0WPV-mVA1O7_85snGIQkRcnfYdQ7p0R_rrhEDRgJfxWeXwx0iJ1vm4Uy3VcDdb4jgmReY5Od1AAW8vva5mXbcFwGJ210YnSO-z8YRRAhSdYyy-dtG0Qb1shlMZTz7FPn2BAdBi5xLQjb5GihcRPg5UyQHU-Pj1JRhguK4pUBzbTz2H6g-rzjGRFOFjJXCn6vixM-ixgek6O3D-XZ__-0xu65-jrg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2VCEEfN4C6"&gt;
+GitHub - mhaeuser/Battery-Toolkit: Control the platform power state of your Apple Silicon Mac. - GitHub&lt;/a&gt;&lt;br&gt;Control the platform power state of your Apple Silicon Mac. - mhaeuser/Battery-Toolkit&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : airbnb/lottie-ios https://t.co/pqS6Tdbp7o</title>
+    <published>2025-12-08T02:07:23+00:00</published>
+    <updated>2025-12-08T02:07:23+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25461</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25461"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : airbnb/lottie-ios &lt;a href="https://t.co/pqS6Tdbp7o" target="_blank" rel="noopener"&gt;https://t.co/pqS6Tdbp7o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;&lt;img src="https://cdn4.telesco.pe/file/sIeSASmcz5iMZ-t_VoHqAZsvUT0-Tgu_oHeLr0BgNtJ9yuZYw4pRUXxra4ca-tUmNhBCD9wrOk9sORJkVe62R0B0rwZPuqF566tylT4mrpoHFQ9qo9Z_vZH0U-46g2JFE7uFdztLlznKcYvywTSPjK_Wl2DR2QFRZhc3GfbhXyk5Jv5Ob6zppLV2qijaguXq5qn2qzyTfvAsEuUMIltihjsllJ_J_kAApGJKDjDKUOLaZq4kqWhRQpdF6GuHgV4d27IdOqS527fLE3-sEBhNQcpx2pQoWWIysMoh2Ye2DLo5CxMYqhS-zhB2qwdhfpMcKyvz-sEyN5Lhg8hsAo8CeQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;
+GitHub - airbnb/lottie-ios: An iOS library to natively render After Effects vector animations - GitHub&lt;/a&gt;&lt;br&gt;An iOS library to natively render After Effects vector animations - airbnb/lottie-ios&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Animated Tab bar Icons with Symbol Effects Using SwiftUI | #apple #animation #ios...</title>
+    <published>2025-12-07T10:32:30+00:00</published>
+    <updated>2025-12-07T10:32:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25460</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25460"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animated Tab bar Icons with Symbol Effects Using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/eF5Jy6i7NM" target="_blank" rel="noopener"&gt;https://t.co/eF5Jy6i7NM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/eF5Jy6i7NM"&gt;&lt;img src="https://cdn4.telesco.pe/file/Gnzq5JsN5avZBArEGKpC8keN_zeqnHMU2l5OXUYgC87T0lcjQMH8bDmQq-fk9TI9hsSXJ-PSXLIyGL3KEbwwxDCjyWptytQNuY1xsCc42WEx0r_2-g4B4DNcHk_n7VNTwXGKefA7pq5DklixgDFQDwEDjiJzvLLldedKuUOHF2AVoRlxmP4C6ahv_AxcbGyaqQ6PxixBGG9e_-U38SKLekEgS0OWQTONpJQ5GTHHTcOfwgIQX8ISYMElo8sNCRklj8DmocntP92Jy2QLcuPUzMoLAURcsIbPMX_JhqJpWCxRdjLktYN_c6Fu9ZLH1LSyrkKQueds0CRMK6Lv9yv1mQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/eF5Jy6i7NM"&gt;
+Animated Tab bar Icons with Symbol Effects Using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Adopting Liquid Glass: Experiences and Pitfalls https://t.co/unwZxMZhnG</title>
+    <published>2025-12-07T09:42:25+00:00</published>
+    <updated>2025-12-07T09:42:25+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25459</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25459"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adopting Liquid Glass: Experiences and Pitfalls &lt;a href="https://t.co/unwZxMZhnG" target="_blank" rel="noopener"&gt;https://t.co/unwZxMZhnG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/unwZxMZhnG"&gt;&lt;img src="https://cdn4.telesco.pe/file/a_nVMwGHgZpnlIDBEnE5A-nXJoJvRpqlyWfHXkRGldahWKfg-wbI_UTavqLPyblgat4dP4ZN8jbUR6pgcSkj_xD4VYf8GB3oGGXArC6LPuv3xT7NWamYj6-_9EyUoP-dR6KQyll-wa4gL4aqJ3v-hBMKnacA-szAQ26qkZt1T4tJMpWYSWP_3MA_37lItPCHN1DwCdzM4e-bFN2UyFpSTPWBINghmCjfroaWeN5BHnSrmIemttBjfyZFNl8NeOozwEBB8GrEAUSxap5sRDaDT_h-PNJEkqKCNbMw5rJf6Pltnpif4vAl5b8epUutZx4EcXB5YCGvVjKAMGu8rPuBSg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/unwZxMZhnG"&gt;
+Adopting Liquid Glass: Experiences and Pitfalls - Substack&lt;/a&gt;&lt;br&gt;Updated for iOS 26.1 / iPadOS 26.1&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : stripe/stripe-ios https://t.co/LhgPvFoPWo</title>
+    <published>2025-12-07T02:07:41+00:00</published>
+    <updated>2025-12-07T02:07:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25458</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25458"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : stripe/stripe-ios &lt;a href="https://t.co/LhgPvFoPWo" target="_blank" rel="noopener"&gt;https://t.co/LhgPvFoPWo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LhgPvFoPWo"&gt;&lt;img src="https://cdn4.telesco.pe/file/mlv4DEhgnNDPayabc_RXRtCBnY2aloKGyYlKREACd4EVOfbEyOvb8mM71ibIR763Obg2dr6XbSlfzkKRfFBwKRa_NTyct37cOPRaZ8J0imE3WvYup99dbsBzOsETRVVLK70CIkAQpjgEtzSssn9EHXDOeHvic8QH018sWg91VNZkt65vmLc64DFmQlbiTBTZoHGD17dhf94nYvRfE0yH1AzhF0uQq7XzTjrUqf4lIXfJoSBZRMgeHZBTSvr6JY_P87-aWTqi5I_m_M0yRv8ba0JGRaSsd3dUN_3RAEyZruOzsomY46XynIan82lD6BDQ7MyC8sX6ZcRf44bkHBuong.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LhgPvFoPWo"&gt;
+GitHub - stripe/stripe-ios: Stripe iOS SDK - GitHub&lt;/a&gt;&lt;br&gt;Stripe iOS SDK    . Contribute to stripe/stripe-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : ChartsOrg/Charts https://t.co/saVpYLZQRH</title>
+    <published>2025-12-07T02:07:40+00:00</published>
+    <updated>2025-12-07T02:07:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25457</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25457"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ChartsOrg/Charts &lt;a href="https://t.co/saVpYLZQRH" target="_blank" rel="noopener"&gt;https://t.co/saVpYLZQRH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/saVpYLZQRH"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZLTt7TQ-TEVorj0Ikzeek4xi0fy-XF33hTDe-ddJ5iNX-gu_ptO6BBbojuIuKIqUAKE9TnCcQspq5m_TE5y3X8TYOCaqSRq0uu4xdRBR_pfBMsdJtXiSK2axSlQnYai0xAfZKSM4q_w1lIiptocHUc-rEJtuyVLwOodWza4gAf2d00IvlGaWnSw5RYdZnV6H_cEIQZF32azHzEYJA1iyU02-x1lN3mzvWaOn4dLaBeuM8l5mR0hmW3pZuvdxpl4h7_YAJlxtvjn_0bYfJLkltH-6RvILxMZQkfAomGW-iSq-LZRqT2Sli_0PjIj6KZB7HilxleQY9vtqiCRXoo9TfA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/saVpYLZQRH"&gt;
+GitHub - ChartsOrg/Charts: Beautiful charts for iOS/tvOS/OSX&amp;#33; The Apple side of the crossplatform MPAndroidChart. - GitHub&lt;/a&gt;&lt;br&gt;Beautiful charts for iOS/tvOS/OSX&amp;#33; The Apple side of the crossplatform MPAndroidChart. - ChartsOrg/Charts&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : MonitorControl/MonitorControl https://t.co/JVhf2Ng27H</title>
+    <published>2025-12-07T02:07:39+00:00</published>
+    <updated>2025-12-07T02:07:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25456</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25456"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/PJGxUcy_uTnLfIpBbIoYHG9xgcWvbXcHdJhvzaMY4QsGCl1YLT-6QNXHUC1T7qV6RqAroVwNuuF5FsCwMuD86ZtgEUgQo2gMhv_otrd9z8pmXTfcj2tMRal-nIIjwfDDqWk4ICWwNtZJsiSmnjlGU8I9S1VsZa4IzM52QrNh-D7hxJL3hzuRU9ewdqNu1Mq-lAuK7-qSocbM66ULwCRH9YGn2SgDRs2OV3t6rVvZaaMCn0Ej4u2g6oT004SmMLCLKeGSt3cfjzJQlQfHyhGNPWT9rYbZbdOX1FKMPzVrUNNGxa4Wq_xwmEmpCMjytrPD-G87k3Kch8p-d-Ev6iogaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
+GitHub - MonitorControl/MonitorControl: 🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display.… - GitHub&lt;/a&gt;&lt;br&gt;🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. - MonitorCont...&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Beingpax/VoiceInk https://t.co/VWMPkfQfVe</title>
+    <published>2025-12-07T02:07:39+00:00</published>
+    <updated>2025-12-07T02:07:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25455</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25455"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/dfFDr3AD4Iy711bNWKUyFqk2NnrVZrRHHUmzQUyiTD5JPIX9Mv8-_a5q7StXg124WUEXnhpL262F-2uC4Ndp9gAYpha01EX2-jMLbf2remuw9BOTV19E5NU1L-In09RAuhLX5zn29FXb8Tm2EC5AP4j6_odXf49zgARFqg2OutNq1ofi3oIod2WQ6rnXf62cMywd-VSMFYW6yp0u0TNZhqb-icXaiYmFS2u4jb8y_dyFPH_4XuRDXt9gUaZ9hNb5oJxhO3wkEYHhqz4tun_Vn_TGdo9uhp5S8QR7eS2zyreMd8XulVd03XWhHzWVTorjNHkMq2GSrsVvfZx1n9TSFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
+GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : syncthing/syncthing-macos https://t.co/xpP2dqrpqn</title>
+    <published>2025-12-07T02:02:28+00:00</published>
+    <updated>2025-12-07T02:02:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25454</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25454"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : syncthing/syncthing-macos &lt;a href="https://t.co/xpP2dqrpqn" target="_blank" rel="noopener"&gt;https://t.co/xpP2dqrpqn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;&lt;img src="https://cdn4.telesco.pe/file/f2RSfLNqpqCeXj_oYbpjWJSn0HSVnIWCp8oioIFHofxHg2HGV-08_3GMhGHCRLKGl3relqTJigXuf4XxBPwiRexJo7O6hUYsXVA60AEjz18YsPpxWLMeaXSx85PJtTQ22uTfGQ1XSX0braF3AxgxoZ3nB4_cM0M9bFHMayK3X4BDEiUIlpwGXZJI10xxtCCGjEHOiuT8EeCtaxTtgSho8ZQ_7ALGuNj2V7H4Z_33VcBZJuz2J-7nbGyi18XVl6OAlu9npw0YS6nD1cQBQuBdIi7dwVN-NmcciQGm8yNRlsRqc-UQ_T97nWD94sQdOgY95Lvt23GJ6oj51yAt7w60Ow.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;
+GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing application bundle - GitHub&lt;/a&gt;&lt;br&gt;Official frugal and native macOS Syncthing application bundle - syncthing/syncthing-macos&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : sunnyyoung/WeChatTweak https://t.co/iGgfOhfWpR</title>
+    <published>2025-12-07T02:02:27+00:00</published>
+    <updated>2025-12-07T02:02:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25453</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25453"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sunnyyoung/WeChatTweak &lt;a href="https://t.co/iGgfOhfWpR" target="_blank" rel="noopener"&gt;https://t.co/iGgfOhfWpR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;&lt;img src="https://cdn4.telesco.pe/file/uabpF02JXw9vNv1SuQWGWUzk4WpvS6tY7am7SddUO-k_Njs5vr4dk-XN1VPCZFWNhn6Tc_nIpy1MP7Y0paGls3A4U4lkAFrj0b1Uog9on19nJJ_l-WHsLR-QjcheJCg2vaX6YrdUBx-oaOLbTOggxvrfirN3M-kEfBEME3ZCyDHZ_WBwiYZNIMNd2EJnYaNCayjV3G5jWh3C9hFxMFWAgLWOvFxnosWW7HIZ0zQMVcMBF_HqXvbMsxIbhEzW0xD4iztu_vks04q2Uz6M4EYE4U0eK-tsX_FMZS2GJMBEdlY3HN7HHEMqybIKIfIWy417OenbRLQncNqnRWHJJVcrhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;
+GitHub - sunnyyoung/WeChatTweak: A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - GitHub&lt;/a&gt;&lt;br&gt;A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - sunnyyoung/WeChatTweak&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : bugsnag/bugsnag-cocoa https://t.co/Iojg13W080</title>
+    <published>2025-12-07T02:02:26+00:00</published>
+    <updated>2025-12-07T02:02:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25452</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25452"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : bugsnag/bugsnag-cocoa &lt;a href="https://t.co/Iojg13W080" target="_blank" rel="noopener"&gt;https://t.co/Iojg13W080&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Iojg13W080"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Iojg13W080"&gt;
+GitHub - bugsnag/bugsnag-cocoa: BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - GitHub&lt;/a&gt;&lt;br&gt;BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - bugsnag/bugsnag-cocoa&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | #apple #animation #ios...</title>
+    <published>2025-12-06T09:27:10+00:00</published>
+    <updated>2025-12-06T09:27:10+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25451</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25451"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/Jwo7FhGwlr" target="_blank" rel="noopener"&gt;https://t.co/Jwo7FhGwlr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Jwo7FhGwlr"&gt;&lt;img src="https://cdn4.telesco.pe/file/WOFPSBj66_fRv-4UzkOJgSzwrvv8SNpU25V_siYLrcm2xMLAuUKGup4hq5jEBVi0kWsqdj_UU7IE5jGlGHkGPIcoIe_YivWg7l1uUZM7jxbtjI9u_uPcHq4XUZrQoEm4bR27PHTdmrM_-vRdKm-wDR_YqCO1M9Z2qLxHeIc8-aewlvtTIjToECDeYfPoLOcLsDFN39wmrmBYlzwUts25OAljmYvVTahtzExr8bsktVc2A4CmMnZyJ8RBRNGN-ybAeA1NnaKOwjWCGmVPWzdZnZH78VQvmJeIg-WuS4eWEfNgdrorCngpZRXly63IAuYnGgQDfIVJ6mYDtre71qU_og.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Jwo7FhGwlr"&gt;
+Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : TelegramMessenger/Telegram-iOS https://t.co/zEzFXaVpkH</title>
+    <published>2025-12-06T02:12:33+00:00</published>
+    <updated>2025-12-06T02:12:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25450</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25450"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TelegramMessenger/Telegram-iOS &lt;a href="https://t.co/zEzFXaVpkH" target="_blank" rel="noopener"&gt;https://t.co/zEzFXaVpkH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zEzFXaVpkH"&gt;&lt;img src="https://cdn4.telesco.pe/file/XEHVQYUG_HiLo5xg3SfvYoTkNY-FZ5CAQyCXtul2YN9vyARmp0-8QaXFyCXnVFtogKhmUXIWpFgieQ3vld_BV9zdKiAcDfQLvyZp1Ceu_UuOw9jdsLjaewaumS2RUHcpDT6pO3b_Z3LTh2HCqVhGmZmupP3SaKo2XvBHmBxUlQ_wATXOS8vvGctMm0OUhiC0vQpBIeca1IC0omhfMuu3JVwVcN7TuOPmzmzuG8aAtslbkVYLNNnBEpFXeb4_UrJqFU_K8Mpgjvyhpeuf8CNAGZYz8SWR8LExFupSJBu1YAw4huToSaZQfTh66NzAEjDgfDOP3_9cGr_YFtIzxfWuOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zEzFXaVpkH"&gt;
+GitHub - TelegramMessenger/Telegram-iOS: Telegram-iOS - GitHub&lt;/a&gt;&lt;br&gt;Telegram-iOS. Contribute to TelegramMessenger/Telegram-iOS development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : apple/swift-protobuf https://t.co/Yt40KtNHXC</title>
+    <published>2025-12-06T02:12:32+00:00</published>
+    <updated>2025-12-06T02:12:32+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25449</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25449"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-protobuf &lt;a href="https://t.co/Yt40KtNHXC" target="_blank" rel="noopener"&gt;https://t.co/Yt40KtNHXC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Yt40KtNHXC"&gt;&lt;img src="https://cdn4.telesco.pe/file/VUWqoDAp2Bi58T6lAGsunNR0k-Qe2VDkb0kTJWZaMQQmZ7lkE_mg3RFW6UGd31XotWUEtZNcfMOgteu-dGmV2hbM2gmjLTniDu0mHML8v-HbD2vzP7U_9rgkFXxog0xF1yWamYmWbraQDPLv1KL1GKSqeJoO2aBwzCiqh5pnZpmIximR8fPseyFc-qqYSpz5UN90DmACtRhQlWs01PMh_1SwzPktZGNJQarDE0CUs-cL838Nx5WZX8HS-sUMpPUVQiA8Xs4D0KKoQX9a5wYqSGGEoVJeI55NYz21oi9eFokXR8B7ssBHYvhdIDwZ8Xu-EX_Q4BsjQDPHjYlz1QSBDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Yt40KtNHXC"&gt;
+GitHub - apple/swift-protobuf: Plugin and runtime library for using protobuf with Swift - GitHub&lt;/a&gt;&lt;br&gt;Plugin and runtime library for using protobuf with Swift - apple/swift-protobuf&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : appmetrica/appmetrica-sdk-ios https://t.co/dwOQkLPNSv</title>
+    <published>2025-12-06T02:07:36+00:00</published>
+    <updated>2025-12-06T02:07:36+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25448</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25448"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : appmetrica/appmetrica-sdk-ios &lt;a href="https://t.co/dwOQkLPNSv" target="_blank" rel="noopener"&gt;https://t.co/dwOQkLPNSv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dwOQkLPNSv"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ll0C83pwgmA2FuUh7ELsu9aPtLQTrVHyMXn47FF-jd2FYWCQQis4tzzydIKvVBtf3vyEamekpvoZrAdmdz9Gr0e9OMdVXQIV9ovWbadfFVF0_8ZuD_cXClN9pYFnByjO4L_q-Hc-_DYcf1OLMo8rvjcLS5m0gT-tjeVrgHGtpMBPdSgkU95-lrTkCGPvhUex1zpVRaMPk0UCqTCV5ZGxLDueqn76RBSRvMWPwvFo69FlzVd4VUQwTYlZZSfCw-yTzFO6O3fw9LXrVKwRsnMVf_fbx8IbUpFFdOpuX-LusoFLIzPyaObcWMy5lkTnZ99Q8KILvuNhj92_3gwFiH8VuQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dwOQkLPNSv"&gt;
+GitHub - appmetrica/appmetrica-sdk-ios: AppMetrica SDK for iOS - GitHub&lt;/a&gt;&lt;br&gt;AppMetrica SDK for iOS. Contribute to appmetrica/appmetrica-sdk-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : facebookarchive/Shimmer https://t.co/VHoclXVcg1</title>
+    <published>2025-12-06T02:07:35+00:00</published>
+    <updated>2025-12-06T02:07:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25447</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25447"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : facebookarchive/Shimmer &lt;a href="https://t.co/VHoclXVcg1" target="_blank" rel="noopener"&gt;https://t.co/VHoclXVcg1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VHoclXVcg1"&gt;&lt;img src="https://cdn4.telesco.pe/file/EVihCEimAx4vU5kf59ku69HPKULrSgF1Yy9gvpCOYiIA5r4I9QnoD388B9QyyC-igzQcLxigSCrB93UgS6upjCiOGUzmz-SwCyGJFnvQ9BGMcIHzN-NdFgmWqu-UBfMUhwBLNM5hgMGjtPxHvPYW4vNMSNTtQeZYLCZsoI5dPoR2LD4lM5m-km6hyKw8nVgOklKoQ8DKkP6dS-TMrq5PSAO5vKIEtonFbHaRClns0u8g1S67ruTPQhrISQpGpqmGu3byXHOZHtGPHdvTTM-9VGSWi9K26ciMPeQWAtraY9ZRVR-XfTSuk_9tADj53XA4WVfEKRlBVHtpiGAD9nDwMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VHoclXVcg1"&gt;
+GitHub - facebookarchive/Shimmer: An easy way to add a simple, shimmering effect to any view in an iOS app. - GitHub&lt;/a&gt;&lt;br&gt;An easy way to add a simple, shimmering effect to any view in an iOS app. - facebookarchive/Shimmer&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Creating Contacts with SwiftUI https://t.co/zkpy5MRKWN</title>
+    <published>2025-12-05T14:07:24+00:00</published>
+    <updated>2025-12-05T14:07:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25446</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25446"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating Contacts with SwiftUI &lt;a href="https://t.co/zkpy5MRKWN" target="_blank" rel="noopener"&gt;https://t.co/zkpy5MRKWN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zkpy5MRKWN"&gt;&lt;img src="https://cdn4.telesco.pe/file/utFmRVFv9HLe-QR3EqBUFJHV61nzk-y-6yyzi5Xo9Vw3pOAMIiWv_fUrCpncd1b0ie1ZZraxZm3nTaY8nYPNZTHqoWbNSuUVZsdeUIGotyKyTEIx1_VnvjFoG_iWc79c5hsUqstWKyUQS5vOpCNz9wD0Pdy7pdJ9TjfQbLABpj-_sNHaFeI5n3MKEI60S8IlFUTOkKTetF33yYBTnQAH7nBk6uTXLyB4fRLP5N5Pp4BuRL8Ph3tNkEA3wGofMJjD9j5pOjYqbBCb8HAtoczfOzpzKTLoq2_PHt_L-I0SN4iZd0FjVqS4OG7scF0VjManXBYjpO51InmhsRGDz5sATg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zkpy5MRKWN"&gt;
+Creating Contacts with SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to add contacts to the user’s device within a SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
+</feed>

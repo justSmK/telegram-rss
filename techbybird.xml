@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">Воробей (@techbybird) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/techbybird"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird"/>
+  <icon>https://t.me/favicon.ico</icon>
+  <logo>https://t.me/favicon.ico</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
+  <updated>2025-12-08T18:37:43+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">Как сделать так, чтобы российский рынок стал...</title>
+    <published>2025-12-04T12:41:35+00:00</published>
+    <updated>2025-12-04T12:41:35+00:00</updated>
+    <id>https://t.me/techbybird/2091</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2091"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/glvrdru/6458"&gt;&lt;span dir="auto"&gt;Главред Максим Ильяхов&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как сделать так, чтобы российский рынок стал привлекателен для множества международных компаний?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Жениться, родить не менее троих детей и подождать 20 лет.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Почему Павел шарит в маркетинге и получает социальную...</title>
+    <published>2025-11-30T18:53:05+00:00</published>
+    <updated>2025-11-30T18:53:05+00:00</updated>
+    <id>https://t.me/techbybird/2090</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2090"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Павел Дуров&lt;br&gt;
+В качестве логотипа сети Сосун Кокон мы выбрали ИИчко: &lt;tg-emoji emoji-id="5197252827247841976"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;
+&lt;a href="https://t.me/durov_russia/64"&gt;https://t.me/durov_russia/64&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Почему Павел шарит в маркетинге и получает социальную любовь&lt;/b&gt;. Как только не называли Кокон, но реакция Дурова:&lt;br/&gt;&lt;br/&gt;1. Не делать вид что все ок&lt;br/&gt;2. Не поучать что все невежды&lt;br/&gt;3. Присоединится&lt;br/&gt;4. Примером направить куда нужно&lt;br/&gt;&lt;br/&gt;Это сильные качества&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Данный пост не отражает мое мнение о Телеграмм, Павле и...</title>
+    <published>2025-11-18T14:28:14+00:00</published>
+    <updated>2025-11-18T14:28:14+00:00</updated>
+    <id>https://t.me/techbybird/2089</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2089"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Воробей&lt;br&gt;
+Анекдот дня: Дуров зашел в твиттер что бы сообщить о непрерывистой работе Telegram. Но твиттер в это время не работал, по этому никто так и не узнал
+&lt;a href="https://t.me/techbybird/2088"&gt;https://t.me/techbybird/2088&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Данный пост не отражает мое мнение о Телеграмм, Павле и вообще&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Анекдот дня: Дуров зашел в твиттер что бы сообщить о...</title>
+    <published>2025-11-18T13:50:21+00:00</published>
+    <updated>2025-11-18T13:50:21+00:00</updated>
+    <id>https://t.me/techbybird/2088</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2088"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Анекдот дня: Дуров зашел в твиттер что бы сообщить о непрерывистой работе Telegram. Но твиттер в это время не работал, по этому никто так и не узнал&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Добавил в наш бот GPT-5.1. Open AI пишут что она богиня...</title>
+    <published>2025-11-18T07:00:43+00:00</published>
+    <updated>2025-11-18T07:00:43+00:00</updated>
+    <id>https://t.me/techbybird/2086</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2086"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2086"&gt;&lt;img src="https://cdn4.telesco.pe/file/RmXN5Fo8EWaLXICaF9AjAEL82NpeJIMMj_lQ_QtRB9U31lYegaphEiD0HwMJefrR4Q-tUdVNd82Ja2crCFEoMo7-8YvBbQl0C7gLzSSgdFqWdJfv0ULrVhCRdjQA31ryZ-ZxKiKLTV1AZgAigqxbbRrPJFUpto5t-IkX4shfk2pUZPoIgy8prjDSswH2rmza6s5i-m4LrzUN-MfnsBBe_mknZjOaAuInk0PfjR9pscv0rFTAbDu6jzHUjInFrlWHYR1mcAP4GTcmFsTIR3dYnKbbO-_1Ph6swyX1cDyHamETNZ9pGsOcBjO-2MWgAOQVdCU4VzfAD7NV-T57KD7NpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Добавил &lt;/b&gt;&lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;в наш бот&lt;/b&gt;&lt;/a&gt;&lt;b&gt; GPT-5.1&lt;/b&gt;. Open AI пишут что она богиня кодинга&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Переключится на новую модель по команде &lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;/models&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">❌ Скидки на обеды с доставкой&#13;
+✅ Выдумать креативную...</title>
+    <published>2025-11-15T09:54:09+00:00</published>
+    <updated>2025-11-15T09:54:09+00:00</updated>
+    <id>https://t.me/techbybird/2085</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2085"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2085"&gt;&lt;img src="https://cdn4.telesco.pe/file/nOyx1DXr1fpcJ9_cPJfDq4vMZ4xRD_0SWnj7dV3BYaLWLDamKG36_eHdsgKW43Kiy7NY40kmqWM8LAH_d-gR9B7J4n4Us7lrs_LEaQmtjtV9uoajI7M-OLm9iU9G-abQeUPBDsfc-gpt1ExxbMKSpzCfoAADRbk2k_pNSsdMh9vYlp8Kg9DXriLuonquWGeGnq-oa49kG1umLbpj1d71hw8cLQq7G5duRsg13bFESf4CDcCn6BkCGSLrFdtOfqZASMnJk7K1YoIwL1F6xS_hwW_ITeKtHHWolnQt_yfJdyvsoi8X56OikQL37NYIJ97IELOl7QkmSYv8_dxuvtGPjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"&gt;&lt;b&gt;❌&lt;/b&gt;&lt;/i&gt; Скидки на обеды с доставкой&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt; Выдумать креативную хуйню&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Его назвали Air только ради этой картинки</title>
+    <published>2025-11-06T07:51:29+00:00</published>
+    <updated>2025-11-06T07:51:29+00:00</updated>
+    <id>https://t.me/techbybird/2083</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2083"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2083"&gt;&lt;img src="https://cdn4.telesco.pe/file/iUAHEh7BuVywR4XN8mTUJnzaGKkTCUdO9fMipqVo7BHwE8T1uOjUkxXGpdv8Wm5KDSmt2jW_eTdwIYcS6HBhJyupCmwq3YKf3Ab7_I4Gy_JcCOG7Xa7GhkvxoFEnxkHXtQ8-wBglcDA_61NvtInlXIbBfaWE7wUtyTh1GiNRxXcbZ9-tikuEXZ27-TKEV-fH87wNCjGpD0818Zpz2h7libPUciii_L2lY2Gq88t9AraGy00BQE8jEbCO_EmpMxZ7V-WMc2DWzALmjkJZNxEEX4pm6mTo4gpetnTMO8WroFqT9MVNB7zllo35MxNTacJHLUe4CI8e5JtMydCLIlEvrA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Его назвали Air только ради этой картинки&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Павел Дуров показал сосун. Пруф в коментах</title>
+    <published>2025-10-29T12:34:24+00:00</published>
+    <updated>2025-10-29T12:34:24+00:00</updated>
+    <id>https://t.me/techbybird/2081</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2081"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Павел Дуров показал сосун. Пруф в коментах&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Помните, я энролился в русторе?&#13;
+&#13;
+Сейчас меняю UK-юр....</title>
+    <published>2025-10-28T15:29:40+00:00</published>
+    <updated>2025-10-28T15:29:40+00:00</updated>
+    <id>https://t.me/techbybird/2080</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2080"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2080"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q0pb0J-NLE6x6AcYnkHPjd5z-fVgEXZiuVHKv-Qx_IKEPnDamyOZPUxX-pYwuweE-KNDlOnqfaoS0pBEBpzNkbdVmyHmHUlc8HaZOqhDgIVcBruYDNFK_RD5J04y8xQUc99ONRCPfrhG9nmZuuRHz4rYDQ_xMPa6aUAHYVrKtU7unRthvIRbIFfZPDS1MBGFN_igzwWDvo_0HiRih7spvUz5WLdDme4EXI-g1uC50we0Xs1yLF6flG-YNDfLK-yW_Wb-6Q6jzR7ZhbfzxejPQRSor-HfShpo59lVFpQE3PaJCQZKBG02l6AS9xg7hq4-hnzQJTuRU9DCpzesgtiRsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Помните, &lt;a href="https://t.me/techbybird/2044" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;я энролился в русторе?&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Сейчас меняю UK-юр. лицо на РФ. Саппорт сказал зарегать новый аккаунт и они сами все перенесут &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"&gt;&lt;b&gt;❤️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Эпл бы &lt;tg-spoiler&gt;выеб*ли меня и всех паблишеров, кто дышал со мной в одной комнате. Перенос я блин придумал&lt;/tg-spoiler&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Прибыль порше упала на 99%. Моя инвестиционная чуйка за...</title>
+    <published>2025-10-27T08:34:50+00:00</published>
+    <updated>2025-10-27T08:34:50+00:00</updated>
+    <id>https://t.me/techbybird/2077</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2077"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2077"&gt;&lt;img src="https://cdn4.telesco.pe/file/Py2YgApS4Jsu969u7aaKhwHLAsiRHkN8Ea8ja3aNwkHOEW5oJZ7BZBQvmWxn579z6IfLVLoXx8kV77pywtEdwJJffJd6JnMmrqke7qaxQvEGFDfHH7gQquL2zfYoh6QNhbkx9jJXLRbleZvnZCxoNpg6a-YD6oA-PJu6gLufRNzqITt_p-KHcQYNyMaWiRF4Dc1fxijzil76SeVc52G_fYkOojUrFlXj-EB1B-ILuzGVmqgDaosEgtMO1dO7Oab3ahFEYpetdYjVMfdJ0_LEzFZnK_DpNRjeMfo75l3v227cL8e1ksR2Ceq8Cygd-VGFSsAM17n32YuB1eY0dgB9bg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Прибыль порше упала на 99%. Моя инвестиционная чуйка за год до этого:&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Админ тг канала подал в суд на двач за воровство...</title>
+    <published>2025-10-22T08:52:54+00:00</published>
+    <updated>2025-10-22T08:52:54+00:00</updated>
+    <id>https://t.me/techbybird/2075</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2075"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Админ тг канала подал в суд на двач за воровство контента&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Я тоже ругался с Романцевым (тогда над этим каналом работала редакция). Вот разбор для юных админов:&lt;br/&gt;&lt;br/&gt;У двача, у меня раньше, и куче других каналов, главное — срочность. Кто первый запостил, того репостят. Под это держат редакции&lt;br/&gt;&lt;br/&gt;Меня тригерило, когда недоадмин из канала конкурента пиздит пост. Это же МОЁ — мои силы, моё время, моя команда &lt;br/&gt;&lt;br/&gt;Прошел год, моя редакция спилась, канал помер, у Романцева всё заебись &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4B7E2808DE29982.png')"&gt;&lt;b&gt;🤷‍♂️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Не переживайте что у вас пиздят. Делайте что должны, на дистанции станет понятно. Фокусируйтесь на контенте. Кто-что-как спиздил только отвлекает&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;А иск к двачу просто пиар&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Если отправить подарок на канал Романцева или просто...</title>
+    <published>2025-10-19T12:11:24+00:00</published>
+    <updated>2025-10-19T12:11:24+00:00</updated>
+    <id>https://t.me/techbybird/2074</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2074"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2074"&gt;&lt;img src="https://cdn4.telesco.pe/file/JEjB63TbTramXdCkX-BCvx7dFXDNJFo4cWqNgzvelJ6xHL4LSwwJ-ZdizQRxwqj9qCVl3behxByOLoXgUsDR6QTm3rgwhLNa5kRuNisF8m7cCcX-Nd78JqNeffTN3nJCKg1Ibd3-5JOpXFaNr5siXGUQu2Xcu3oEUAnU2pH_D2rlY8NiM3Pd7oBp6478XK8Rc89yVSDEfFbykOWL51cnIdS12an321ggWSEcRBaPXof7ker4-RtuuFKLblMYXyil3nnO4pLidUlMkAUCjJrh8ZwlIPExm1GITIeGIsFLDjsw99uXwU4EkpDlweKfsarUyIlrWGYDm9PEi_BMJMuk2w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если отправить подарок на канал Романцева или просто выставить на маркете — вас заебут попрашайки&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Теперь ваши подарки в блокчейне можно показывать в...</title>
+    <published>2025-10-11T12:40:22+00:00</published>
+    <updated>2025-10-11T12:40:22+00:00</updated>
+    <id>https://t.me/techbybird/2073</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2073"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Теперь ваши подарки в блокчейне можно показывать в профиле, &lt;a href="https://t.me/nft/SwissWatch-7911" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;тык пример&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Доступно обновление телеги с жидким стеклом</title>
+    <published>2025-10-10T16:46:14+00:00</published>
+    <updated>2025-10-10T16:46:14+00:00</updated>
+    <id>https://t.me/techbybird/2072</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2072"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Доступно обновление телеги с жидким стеклом&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Наглядная перекачка BTC в новые телеграм подарки</title>
+    <published>2025-10-10T15:46:34+00:00</published>
+    <updated>2025-10-10T15:46:34+00:00</updated>
+    <id>https://t.me/techbybird/2071</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2071"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2071"&gt;&lt;img src="https://cdn4.telesco.pe/file/GAiQvOLyJsO05wTcajWm5QQAKT6vox152vEQQr26dcjk8zzs_EUfjuS8kz2U3vwIM4pQP1ktS_8tbHn7XnuOe9N34HaTJrsaECAWfG6nNbqSa4BDpJbdZ-x2DO-sKm4ioYhLgcj97TNwDsaOf12JHaPDIeh0VFfNlBQ6ywbNrAgBehDveCN6CskvlSn18wg6n-usML9tF0eyP_B1oqoyWywrUW6jEUIiLDEWjr7y14lJcYkqYsEgfD6-_HjtR1Eg3OBxfosZ3Q5jgqQdygA2xH1oZH7rZoPlTPje9mPgEvC2efGeDoF3OkecBXNQWiG8Wpk6VbZPgLQv_KBx_UGapA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Наглядная перекачка BTC в новые телеграм подарки&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Подарки — чушь, но зацените, какую красоту...</title>
+    <published>2025-10-07T11:26:42+00:00</published>
+    <updated>2025-10-07T11:26:42+00:00</updated>
+    <id>https://t.me/techbybird/2070</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2070"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2070"&gt;&lt;img src="https://cdn4.telesco.pe/file/jWefnSvv8EnEUbw4uk3kvqIl6r4I3ATMzfM0rNV6nb_2lLmDb_eN9KKXwkpBO8jkjMRZHE5r8te-2E6_e6hpBeFvWFnIRrw7GNr8hRSx8ot2NBbq3S09cUHZ53SPHvbBqBC3NN3KSIbQ8HqWJGlOc_bzGfdVgaZr4BDVgcDxy9CTnCSeMy-6pwpthWgOA6nJ3YDF_A9LHCm6Cm-2QNU_15v4fWQbSIkEX5bLkoFVqqzxPuK8nfpM8aykioFOfmfDXqqU4aH94ysabjfkHs5VrJUA2MFoDhBBmKqBozpALEQ3tvDqqATlCNcT6--e0GIxDbkvXvPhr-RYZc09h_XmfQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Подарки — чушь, но зацените, &lt;a href="https://t.me/nft/SwissWatch-7911" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;какую красоту взял&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/nft/SwissWatch-7911" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;&lt;/a&gt;Бывший владелец не в курсе, что за бренд и какой у них логотип&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">❌ Сказать «Взять пики точеные, срубить хуи...</title>
+    <published>2025-10-01T08:36:41+00:00</published>
+    <updated>2025-10-01T08:36:41+00:00</updated>
+    <id>https://t.me/techbybird/2069</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2069"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/techbybird/2069"&gt;
+Media is too big&lt;br&gt;&lt;br&gt;
+VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
+&lt;img src="https://cdn4.telesco.pe/file/Ff9KY8FXvhhayADiqeaWUKiKFJEPKoDGLHZcM8FnZNST02024U503StG5QQnlF4wwxo2slwxhRoIFnfB3Q5w6W7PpEkoBO9K2Bd62RdT1ZQNfpo79DStcWtlZtGSt7gfQ2-31POmbwD8hBRvIlainPb0sghK9hSqwe4yEdvVuZFfwZ9PVzdy5eDlsS6b4y1wC236ebK5cTwhtMTq8U9DWKRcEHAJGfceqdiJ6eJBBmOhyXYgbSEHgzTNbWnuPTlno6DCu3vdErUmbtPo8t7j5JPrZIwyiKsLrflCMBUm3Vfjz42OwNyTdeqkibTfDdhDRu7c0Zxu6ffqOA5Ss5KBtQ"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"&gt;&lt;b&gt;❌&lt;/b&gt;&lt;/i&gt; Сказать «Взять пики точеные, срубить хуи дроченые»&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt; Минуту рассказывать про выбор и инициативу на примере стульев и хуев&lt;br/&gt;&lt;br/&gt;Наглядное пособие по демагогии&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">А вы знали, что за домены можно торговаться. Выбил...</title>
+    <published>2025-09-17T11:43:02+00:00</published>
+    <updated>2025-09-17T11:43:02+00:00</updated>
+    <id>https://t.me/techbybird/2068</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2068"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/techbybird/2068"&gt;&lt;img src="https://cdn4.telesco.pe/file/RlCwBk2pS4QVLjy_mzV1ompKJMMnhwJbFU2yH8j7JsqwnoY74EpyPPemrHD9sWVXc8x5qsOsLCdyIX7IuIuJ1T3qeEwgdFGQnbVJhhZntWgNkw8tbmQFvHsIsg8bLeRKtPmYIDxyiQd3FxDk-AuIupK7Kr1Tm8CK1SIoY78AgkfD8-aejDDZLYZDSVzI0zSd_ZQNPvsFtpLx-rm0-F3rG1nmg5lMqpC51l1cx_ejeA5AzMa7ipDSOKOMBUZ3sL29GgwlsjzYbZcOKtCFI6oS5_3KLmmiiGGgmqgQWNyAkwInutxN9XjewIuvJOQUHvKtbn-rD_uwlbydQ-hFXDC8bw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А вы знали, что за домены можно торговаться. Выбил скидку 1000&amp;#036;&lt;br/&gt;&lt;br/&gt;В следующем году продлевается за 18 баксов&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Взрослые люди, а такой херней занимаетесь</title>
+    <published>2025-09-15T18:24:54+00:00</published>
+    <updated>2025-09-15T18:24:54+00:00</updated>
+    <id>https://t.me/techbybird/2066</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2066"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Воробей&lt;br&gt;
+Прайс на iPhone 17 Pro.reality
+&lt;a href="https://t.me/techbybird/2065"&gt;https://t.me/techbybird/2065&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;a href="https://t.me/techbybird/2066"&gt;&lt;img src="https://cdn4.telesco.pe/file/l74qqsVC6sKWackj31ZLhnzrNlciOPCad3yKVw-0bAHRpVxXtncJDnlbjeIE5sr6cVqitK4_QadHuqb7l_803fZI81MVJb463i1PUXJoma0an7LkALV2wcm1KJf8YlnHSl-_frYYnTs7rmmv-_5sTRngFWQvSmgHAe_y227G6QNkE5Ombln-FwYIEWfGLbHkFnHhcxy0JgRYebgQpkES7EuPFhtxMGEv1__U2DampBPzxjHMeonF_LQOpaKEZbElQrHdBW78YbZZzrUw69_WxvFhWyTF_TG7038AMBQHr13mK-_i7edyZijJMkUSH-8D6hmLDD1d0fy2zhyZOuS-pg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Взрослые люди, а такой херней занимаетесь&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">@techbybird posted an attachment</title>
+    <published>2025-09-15T15:40:38+00:00</published>
+    <updated>2025-09-15T15:40:38+00:00</updated>
+    <id>https://t.me/techbybird/2065</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2065"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">File attachments:&lt;br&gt;Прайс на iPhone 17 Pro.reality -
+522.3 KB&lt;br&gt;</content>
+  </entry>
+</feed>
