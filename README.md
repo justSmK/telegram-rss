@@ -1,4 +1,4 @@
-# telegram-rss
+# [telegram-rss](https://justsmk.github.io/telegram-rss/)
 
 ### Status
 
