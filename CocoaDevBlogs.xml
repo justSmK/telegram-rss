@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-09T14:17:04+00:00</updated>
+  <updated>2025-12-09T17:16:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Ancient Secrets of the Objective-C Runtime https://t.co/Oap0wqIgco</title>
+    <published>2025-12-09T16:12:43+00:00</published>
+    <updated>2025-12-09T16:12:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25473</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25473"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ancient Secrets of the Objective-C Runtime &lt;a href="https://t.co/Oap0wqIgco" target="_blank" rel="noopener"&gt;https://t.co/Oap0wqIgco&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Oap0wqIgco"&gt;&lt;img src="https://cdn4.telesco.pe/file/JQfJYatGld6PUnDnND4Z6DV5w7H86WAHSslpuXyX2uSUNKS0cvOVgiunmu8y6z1MKODhcG6cb9VWFR6F-aZGssl9YZcoyp4WhcZts7IR1C7RFwqPVVpKdPnycxUSstJx7V1Zb0y-ZBWWILfraWQXyRFgNakiMKZzeldTHWL2qeDVXjzt3At8VYxIZr05lUhH9TykO8lTnErhUzDPiRqVednkQycUqSi3KIMbSb3f4K-S_yhXMjDgWRDSb5nkT9TR_VOEURIxYlFK5bQ90qEt9XGtV6wzjiLpMgp-icjk0uf2-TV__qnPGMDceBJDYP4pH2ugnuudjE3jgl12nvFVjA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Oap0wqIgco"&gt;
+Ancient Secrets of the Objective-C Runtime - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Applied ObjC for modern Swift apps&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Designing with people: Creating applications for reality https://t.co/T7Iiqqa1J2</title>
     <published>2025-12-09T14:07:33+00:00</published>
@@ -240,17 +252,5 @@ GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you s
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : syncthing/syncthing-macos &lt;a href="https://t.co/xpP2dqrpqn" target="_blank" rel="noopener"&gt;https://t.co/xpP2dqrpqn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;&lt;img src="https://cdn4.telesco.pe/file/riacixi1aT4nb1A8a91Mo57iIfX2SE2E2xo-hCDVZwQmn3OEAbkjrF6eMY_N2oxer5fAjaEPommDuKZVpF9QI85dtlXKepJmJ6mtrKVodpIRUX4s82DFXpWrFupWJb-QSsOmxKP3IFTCrZ0ZxH7Js2Vj-2Q6XsJUcNJmVBPjBSBPtdK0wY2U-tne1FYCvRx863XC8oWAtDdp1TVHNhPl09r6Uvv8rdK620axSCFrLy6lrej2-iLyXF1A6RYxx8EtF5cafVCZWE3R4aDjbaT-_E5mgC5p8fHhGGRaohkgc50u1kRLrH3HeSW8mWQEDZJcxTVOv_4NtqSE38eXPBGGKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;
 GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing application bundle - GitHub&lt;/a&gt;&lt;br&gt;Official frugal and native macOS Syncthing application bundle - syncthing/syncthing-macos&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : sunnyyoung/WeChatTweak https://t.co/iGgfOhfWpR</title>
-    <published>2025-12-07T02:02:27+00:00</published>
-    <updated>2025-12-07T02:02:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25453</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25453"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sunnyyoung/WeChatTweak &lt;a href="https://t.co/iGgfOhfWpR" target="_blank" rel="noopener"&gt;https://t.co/iGgfOhfWpR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;&lt;img src="https://cdn4.telesco.pe/file/NiCHxo4_xhkVwpfbYpd9HSwSfWzD6kaxxfoJeuTKEs5z-hlpk-o8-ue9_nzRBE5tX_0j-3j7dYpPxDjldaeoEUa9Ko3ruifHdwEf2Sh-21QPDRLv4Xn6Sc08RVQn1LkdE37njbO85dYXWDBVl1gUyxM9I_CPVWq_DIZZZsR_N9--ZJUntgMUhCO8NJT7IUPnb6WGTN5yiJ9f6BvQsAbWRpXpaT_05sS04y6EQ0JpEO-Zg05HOo4fesnOiysrUU5eMGXT1oHh0kAbpzTNEgGur7VJVvsHb6RKWWOFsmllN5Y-taaXiouTVkmzZmrEdrfUW5nx127MdfZ5Pg3cYUFjlw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;
-GitHub - sunnyyoung/WeChatTweak: A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - GitHub&lt;/a&gt;&lt;br&gt;A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - sunnyyoung/WeChatTweak&lt;/blockquote&gt;</content>
   </entry>
 </feed>
