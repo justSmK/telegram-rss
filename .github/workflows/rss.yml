@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Start RSS-Bridge container
         run: |
@@ -25,9 +25,11 @@ jobs:
       - name: Generate feeds from Telegram channels
         run: |
           mkdir -p out
+          # очищаем лог ошибок на этот запуск
           : > out/_errors.log
 
           while read CHANNEL; do
+            # пропускаем пустые строки и комментарии
             [[ -z "$CHANNEL" || "$CHANNEL" =~ ^# ]] && continue
 
             SAFE_NAME=$(echo "$CHANNEL" | tr -d '@')
@@ -38,13 +40,17 @@ jobs:
             success=false
 
             for attempt in 1 2; do
-              if curl -fsS "$URL" -o "out/${SAFE_NAME}.xml"; then
+              if curl -fsS \
+                   -A "Mozilla/5.0 (compatible; TelegramRSSBot/1.0; +https://github.com/justSmK/telegram-rss)" \
+                   "$URL" \
+                   -o "out/${SAFE_NAME}.xml"; then
                 echo "OK: ${CHANNEL} (attempt ${attempt})"
                 success=true
                 break
               else
                 echo "FAIL: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
-                sleep 10
+                # небольшая пауза перед повтором
+                sleep $((5 * attempt))
               fi
             done
 
@@ -52,7 +58,16 @@ jobs:
               echo "GIVE UP: ${CHANNEL} after 2 attempts" | tee -a out/_errors.log
             fi
 
+            # лёгкий rate limit между каналами
+            sleep 1
           done < channels.txt
+
+      - name: Copy index.html and channels.txt
+        run: |
+          mkdir -p out
+          cp index.html out/index.html
+          cp style.css out/style.css
+          cp channels.txt out/channels.txt
 
       - name: Deploy to GitHub Pages (gh-pages branch)
         uses: peaceiris/actions-gh-pages@v4
