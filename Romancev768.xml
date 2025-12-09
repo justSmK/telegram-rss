@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Romancev768 (@Romancev768) - Telegram</title>
+  <title type="text">Романцев768 | Romancev768 (@Romancev768) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/Romancev768"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768</id>
-  <updated>2025-12-09T08:22:19+00:00</updated>
+  <updated>2025-12-09T08:43:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Telegram не имеет адекватного поиска. У нашего фейка около...</title>
+    <published>2025-12-09T08:42:39+00:00</published>
+    <updated>2025-12-09T08:42:39+00:00</updated>
+    <id>https://t.me/Romancev768/14956</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14956"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Романцев768 | Romancev768&lt;br&gt;
+Channel name was changed to «&lt;span class="tgme_widget_service_strong_text" dir="auto"&gt;Романцев768 | Romancev768&lt;/span&gt;»
+&lt;a href="https://t.me/Romancev768/14955"&gt;https://t.me/Romancev768/14955&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Telegram не имеет адекватного поиска. У нашего фейка около 70 000 подписчиков и он активно скамит людей.&lt;br/&gt;&lt;br/&gt;Галочку ждём, на верификацию отправил.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Channel name was changed to «Романцев768 | Romancev768 »</title>
+    <published>2025-12-09T08:31:31+00:00</published>
+    <updated>2025-12-09T08:31:31+00:00</updated>
+    <id>https://t.me/Romancev768/14955</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14955"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Channel name was changed to «&lt;span class="tgme_widget_service_strong_text" dir="auto"&gt;Романцев768 | Romancev768&lt;/span&gt;»&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Сбер добавил «Вжух» на Android&#13;
+&#13;
+Это бесконтактная оплата,...</title>
+    <published>2025-12-09T08:26:20+00:00</published>
+    <updated>2025-12-09T08:26:20+00:00</updated>
+    <id>https://t.me/Romancev768/14954</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14954"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/Romancev768/14954"&gt;&lt;img src="https://cdn4.telesco.pe/file/YufifmrX8U7tcmfNmUx7o7lvgGuXvXojGYxmLcCi6UZqjQH2GtOurNfrjGPfktGCePJvinECwNhpYJh-BCTVEpdrvuAakXMDljmifToB-zm8ya_OxW9Y4EEox8Ss9Hjrtdz3lOHo0y2D_mGILBoGcjG3ChDBYdlqyp1KL8MBn7UICTnsL2Z3adhfsbrsmD8OmxRTLYnIxMjkfkMKbqv6p_X-Mue_AyIthAqNDL4kIO-a98Aw_xSyxj8aYKpaZtyhqikVgUKmf_oEFrdfNkgitHeBO4mfPBDEC25J_CT4d4HIx0gGBHG8bLE3WLo6t_QoRsOCOQiVebwMPUk0kh2Aqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Сбер добавил «Вжух» на Android&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Это бесконтактная оплата, при которой смартфон достаточно поднести к терминалу на небольшое расстояние. Работает даже без интернета.&lt;br/&gt;&lt;br/&gt;Сбер говорит, что Android-смартфонами пользуются 10 млн его клиентов. От этого запуск может чуть растянуться.&lt;br/&gt;&lt;br/&gt;Ранее на айфонах запуск занял несколько недель. &lt;br/&gt;&lt;br/&gt;Все реализовано на технологии «Волна» она не принадлежит «Сберу» и релизы готовят «Т-банк» и «Альфа-банк». &lt;br/&gt;&lt;br/&gt;Функция NFC-оплаты останется на месте.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Базовый iPhone 16 стал самым продаваемым смартфоном в мире...</title>
     <published>2025-12-09T06:05:09+00:00</published>
@@ -17,7 +54,7 @@
     <id>https://t.me/Romancev768/14953</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14953"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14953"&gt;&lt;img src="https://cdn4.telesco.pe/file/VfqyVxwhE3rNrDtNwoWLiXO-1t9HCWeZ_Dp4mDMc566D_agRK3xvMGhrPhfDE1fnlm7m4lWX2jtgK5vnNum5h9qkw59jTyRvpy_kSU2OhEeQPLoMtXet8jOQ0qFF9SU6VrPBYz7IPb9M3u5K05BqrYPcoPXfOCurPPo3J8I7Iu8MZIEYD1q1cYb5Je7rWMtZu--rcxCPWTWxAV-U7xkTwespL_RLU_RF47p_E2xVaLI6X2puJActAanlxNB0E9Pn6hTUblNhMM7pvDvNl2oMZfNkjPNq0uiNGr_q-WhD2sFB4VHoPakYyHTQ0O2b0VSrazvWrgWvZQoILnAAa4HOGQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Базовый iPhone 16 стал самым продаваемым смартфоном в мире в третьем квартале 2025 года&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;В третьем квартале 2025 года iPhone 16 занял первое место в мировом рейтинге &lt;a href="https://t.me/Romancev768/14461" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;продаж&lt;/a&gt; смартфонов по данным Counterpoint Research. Прошлогодняя модель продолжает пользоваться высоким спросом благодаря обновлениям пользователей со старых устройств и активным акциям со стороны реселлеров. В десятке лидеров также оказались несколько устройств &lt;a href="https://t.me/Romancev768/14889?single" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Samsung&lt;/a&gt; из бюджетной серии Galaxy A, что вместе обеспечило двум компаниям около двадцати процентов всех мировых продаж за квартал.&lt;br/&gt;&lt;br/&gt;Но особенно стоит заметить, что iPhone 17 Pro Max &lt;a href="https://t.me/Romancev768/14840" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;вошёл в топ десять&lt;/a&gt; самых продаваемых устройств и стал лидером сентября 2025 года даже несмотря на ограниченную доступность в начале продаж. В отчёте также отмечается рост сегмента &lt;a href="https://t.me/Romancev768/14875" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;складных смартфонов&lt;/a&gt;, где поставки увеличились на заметные 14% по сравнению с прошлым годом, что значительно опережает общие темпы рынка.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/Romancev768/14109" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Голосование рублём&lt;/a&gt; — самое показательное.&lt;/div&gt;</content>
   </entry>
@@ -30,7 +67,7 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14952</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14952"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/oGLgj0J-twnCMlpTWI8WoD-cwvge28gYhJ4ZwGoJOYNjRI5jjFfriSBqckIaon5HWOrx7BX7h2l6PZe4iEEajwQZQpvo-cE7_ePaTTBLdIEIKymDp1zTuJcA9FUtj8cS-oggaNBWyPv3Es_CK_3sIKbqdDhwtfLwEaESYvkjamJ-Ko0zi4BfJWa56uNbdjHQG7eXbLtY0iqYlwKSURoeWuz4NbtYTetjdD14Gc9EC5etMc7xR-IHTI3XUQWFshqrVUSNlB1o7EewRiIBa1TRb3mtN7qSQy0-0uLktSHnzaX53exI_ZucMomka-sbm90UGXxNrM4mxuIubewLX4RbMQ" style="max-width:100%;"&gt;
 	&lt;source src="https://cdn4.telesco.pe/file/6119d02d4f.mp4?token=mdSqn3jgSgXogbLg04rsNDbMfsVODyLiY3Dr-S-ywNLcs5Rkisc5lVjLcTXyd0eqo9fMF3qk0Vc_pi3iBGB70pcjs6hSG2pEw2XEvcGzUJuGuR-p0uw-8Ess3PYl0Ax9Amk_Uaa2wh_UdmS8ucsA95xTUVJ8_XyX5BjHLE_IcagLGQk_89ls1yk5_TeOKNh6iyhgClW3OvrjgfZl3WGKkT0qnIwkkm3EVT5p__kH_9Sk25ZMLxdjCvNEDmLBWE3r3CxEHfJhEDJgIEESBsMXR6CiWgxDSXULCF8DyKfDC7fyosXKLGN3P6r0IHAqYvPzGjXKxrvWRmEF6x_YljU6oA" type="video/mp4"&gt;
@@ -44,7 +81,7 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14951</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14951"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14951"&gt;&lt;img src="https://cdn4.telesco.pe/file/WQ_1TaQ8hjttL-MTf3jChheHmqTuyh4aI_EyIHKyB_k21zwpiZbHIbq9lwf64RUI16MepA12qPUyLT-juLABILKs7EKbw8Pzk_mqyTGNxDkEtmSlyUDSw4DCHex3Z33x2zr_ghzxhQemJQzbeNNqm3Gtbv0Zo6TWQITJEA4QImRIfl-2ls_KWmeULjpbfcPbOtgYqRtzu3o7jzdFz6ySv_lROh09PUUBn31ZLbHIHtLEEyjXJDJeWGcLZDWVb5BCQUlx_DjJ1gL4rCpNU3uqoI4plknmHv562wNbcStTn0JTCtIGrOfqUUBnhYv5B2UPO1ifm17KVZBpQLCFjisrkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Передумал: Джони Сроуджи остаётся в Apple — по крайней мере, на ближайшее время&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;После новостей об уходе ряда топ-менеджеров Apple, на очереди оказался &lt;a href="https://t.me/Romancev768/14929" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;сам Джони Сроуджи&lt;/a&gt; — глава аппаратного подразделения и ключевой архитектор чипов компании. В СМИ появилась информация, что он «серьёзно рассматривает» уход и даже сообщил об этом Тиму Куку. &lt;br/&gt;&lt;br/&gt;Но неожиданно в недавнем внутреннем сообщении Сроуджи заявил, что не планирует уходить в ближайшее время. Он подчеркнул, что любит свою команду, гордится тем, что делает, и намерен продолжать работу. &lt;br/&gt;&lt;br/&gt;Случай Джони стал особенно заметен на фоне &lt;a href="https://t.me/Romancev768/14937" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;масштабного ухода руководителей&lt;/a&gt; и инженеров из Apple: в последние недели из компании ушли более пяти ветеранов разных подразделений — от дизайна и ИИ до юридической и экологической политики. &lt;br/&gt;&lt;br/&gt;&lt;blockquote expandable&gt;Хотя слухи об уходе Сроуджи оказались преждевременными, сам факт обсуждения возможной отставки руководителя такого уровня показывает, что Apple переживает один из самых бурных периодов перестановок за всю историю.&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
@@ -57,7 +94,7 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14950</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14950"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14950"&gt;&lt;img src="https://cdn4.telesco.pe/file/nhhx5j46VonNgWTucoEwU-UUxrZKGewLQE7ahqJvCEiZqK3nHeJE8wqAUqUXwX4nEfjU_Betwi5QFSDF8_JHMmk4ulwEJbw8HVfovI_6bhlf8DB3u4mke-8zl1MxJKUzTZscOelt9zYIpXkFW7X0yoXF59_TIXK-Agt8RutVO-nea79ButwVGOl8-073GZ5omAARcWNYpbNqbuVnvc2wgtzRbeBagRTIIzlhxKxB98LMhzO0G8LJa4Hx9ncQ1QMF8SRS_ktlOXxxDo5UMRR2RvGbAxiV_xStogL3-lAOpWQ81jP2bdSl_qNtsvEY8qDlu8XkIralzuQ4IbabdVuWqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;iPhone 16e продается лучше любого Samsung&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вышли мировые итоги продаж за третий квартал.&lt;br/&gt;&lt;br/&gt;1 iPhone 16&lt;br/&gt;2 iPhone 16 Pro&lt;br/&gt;3 iPhone 16 Pro Max&lt;br/&gt;4 iPhone 16e&lt;br/&gt;5 Galaxy A16 5G&lt;br/&gt;6 Galaxy A06&lt;br/&gt;7 Galaxy A36&lt;br/&gt;8 Galaxy A56&lt;br/&gt;9 Galaxy A16 4G&lt;br/&gt;10 iPhone 17 Pro Max&lt;br/&gt;&lt;br/&gt;Базовый iPhone 16 стал самым продаваемым смартфоном в мире. Не смотря на отсутствие 120Hz.&lt;br/&gt;&lt;br/&gt;В ТОП 10 ни одного китайского бренда. Более того, ни одного флагмана на Android.&lt;br/&gt;&lt;br/&gt;Впечатляет 17 Pro Max. Он стартовал не в начале третьего квартала, но поднялся уверенно.&lt;br/&gt;&lt;br/&gt;Как всегда, решает рынок.&lt;/div&gt;</content>
   </entry>
@@ -71,9 +108,9 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14949</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14949"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/Romancev768/14949" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;blockquote&gt;Romancev768&lt;br&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/Romancev768/14949" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;blockquote&gt;Романцев768 | Romancev768&lt;br&gt;
 Розыгрыш iPhone 17 Pro и лучших AirPods&amp;#33; С каналом Костыль разыгрываем 2 отличных приза:  Призы &lt;tg-emoji emoji-id="5195241184825471421"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;iPhone 17 Pro — лучший iPhone, универсального размера. Цвет выберет победитель  &lt;tg-emoji emoji-id="5195241184825471421"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;AirPods Pro 3 — наушники получит победитель под номером 2  Условия: • подписаться…
 &lt;a href="https://t.me/Romancev768/14919"&gt;https://t.me/Romancev768/14919&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;a href="https://t.me/Romancev768/14949"&gt;&lt;img src="https://cdn4.telesco.pe/file/In-RMqjOJRPduQzrMO5xVOnE9jLYnkVCO36ylUWp_nDt1xiI8ATnJJfkXJwZSVROcvSkbwah3x5qpP-AzKWpDqEqC80mVOe-hiRAAktJB1czTdpGB_JspvWoQn0vyXbSDxyKZnjuvmXr_DPyXv6O7QbMkqFj0L-Qh7XC_00pOE3LLWR-Z7h7dV4jzpyowtgIIebAxK1WWIuiPS6OGGt6an2GwWQG0qUuYx07j1IkcQVDlOpReT5hwuYe5aCkb7a0PCRKzLY-8ouQwlCZ9p3-BOzTzGri7FW62FvUTE6iKC-k_PBVaAiSGd7S7DVGTlJY1Cvhw3Ymy0cMeSPSia--Rw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Розыгрыш новенького iphone 17 Pro Max и AirPods Pro 3&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Призы&lt;/b&gt;&lt;br/&gt;&lt;u&gt;&lt;tg-emoji emoji-id="5195241184825471421"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/u&gt;iPhone 17 Pro — Цвет выберет победитель&lt;br/&gt;&lt;br/&gt;&lt;u&gt;&lt;tg-emoji emoji-id="5195241184825471421"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/u&gt;AirPods Pro 3 — наушники получит победитель под номером 2&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Условия:&lt;/b&gt;&lt;br/&gt;• подписаться на &lt;a href="https://t.me/Romancev768" target="_blank"&gt;@Romancev768&lt;/a&gt;&lt;br/&gt;• подписаться на &lt;a href="https://t.me/kostylofficial" target="_blank"&gt;@kostylofficial&lt;/a&gt;&lt;br/&gt;• нажать на кнопку «Участвовать» под постом &lt;a href="https://t.me/Romancev768/14919" target="_blank" rel="noopener"&gt;https://t.me/Romancev768/14919&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Результаты 19 декабря в 18:00 подведем в прямом эфире&lt;/div&gt;</content>
   </entry>
@@ -86,7 +123,7 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14948</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14948"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14948"&gt;&lt;img src="https://cdn4.telesco.pe/file/oxPqcmAJ1hPyjJgn8qJsc2jgmDRZQzaViAY_OTNUFRo9KBSx3fK1aFy7o8fMpOknGfIV2BQFPj95y4WnOIq6Ns8NustogprOlSzHrLsBj8kDwJqhjZggapUxtWqsWnAT_cZMi3xfA_FsAkQ6W9vLqcHYol8HntTXJYFEORI0icZbDgPyvkFXbu9Hd_MtPWhsZ7QOy3S6QdhnStC0BJ0RfetWDDLqVQtm0TuGrN1GwpKG0cHYkYItxnfDV4dCxHdDEka3fT_NQKJUmOkeVxTCuRhSP__5v6C0P8HPME7pUSqgtkN731DJB1lA3dR6bIPDQE4pACPP6oAj4WhK5cIyYg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Подэкранный Face ID для iPhone 18 уже тестируется.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вероятно это будет фишка 18 Pro и iPhone Fold.&lt;br/&gt;&lt;br/&gt;Apple использует специальное микро-стекло, через которое инфракрасные сенсоры смогут видеть лицо без искажений. &lt;br/&gt;&lt;br/&gt;Вырез не исчезнет полностью, как минимум останется камера. Подэкранные камеры показывают качество хуже чем обычные и на такой шаг Apple не пойдет.&lt;/div&gt;</content>
   </entry>
@@ -99,7 +136,7 @@ Xiaomi выпустила...</title>
     <id>https://t.me/Romancev768/14947</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14947"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/Romancev768/14947"&gt;
 Media is too big&lt;br&gt;&lt;br&gt;
@@ -113,7 +150,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14944</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14944"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">File attachments:&lt;br&gt;Stalman Film 04 (Apple Log).cube -
 874.3 KB&lt;br&gt;Stalman Film 03 (Apple Log).cube -
@@ -127,9 +164,9 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14943</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14943"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
-    <content type="html">&lt;blockquote&gt;Romancev768&lt;br&gt;
+    <content type="html">&lt;blockquote&gt;Романцев768 | Romancev768&lt;br&gt;
 Девушка выиграла iPhone 17 Pro Max 256gb в Яндекс Лавке.  Оказывается это реально работает.   Есть среди нас те счастливчики которым выпало что-то кроме скидки?
 &lt;a href="https://t.me/Romancev768/14936"&gt;https://t.me/Romancev768/14936&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Продолжение истории. Теперь девушка выпускает видео о том как отменила заказ, так как выиграла 240 000 у Яндекса.&lt;br/&gt;&lt;br/&gt;Дело каждого, верить в эту историю или нет.&lt;br/&gt;&lt;br/&gt;Мне кажется это маркетинг Яндекса. История уникальна, пруфов никто не дает, а многосерийность это любимая штука Яндекса. Это моё личное мнение. Я так чувствую. Заранее извиняюсь и ни на чем не настаиваю.&lt;/div&gt;</content>
   </entry>
@@ -140,7 +177,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14942</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14942"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/C_xKj8zY2_Oez4aNFtX7XQydV1e1ARaQddOFLWsaNhxWrbBD793MC8nC9pcnpyPVi9GQP-WnmiM0i2aZhx486h1Y9DUeLfEUAa2LC02wvAQsxdH6l0PtTpMyNAVsMZnyCHqThQn0e1hdGKHmiU8W_XTpfyM02ir09W7N9JwAC8qGWOZm5POotW0ymg96neYRnEuBJYWeCOUXJbTNQBj2ZWvjhh-RVYBQs3BrhS8_S959Qm5ZiNj1UYuMbExxP426mn2zVTYNMXXJZbnsPsfUTPDU30n3ECE8UOpQzJdouWmQrqirOyI_-98r0SVNAdNRT4bmYz5Y7nZ9EbkjV7Pl1A" style="max-width:100%;"&gt;
 	&lt;source src="https://cdn4.telesco.pe/file/3af18185ae.mp4?token=SYuyCRTmPcSpV3zu7RrD3K9XiScqt8PD6uGCtAGWwFUH1sr7JRtFI2Rd0AxVFgfdPe3OBB0ZkYOT6t9aZYZ-5s3FdoQAl2ADQf9Kv7XFRekFNC3ObMDUiEgT6t7uSqKF7qAl-cUgP56WpDnVh64Kt8pUCrC_--GcSU3dNV4aUjveBk178FojkM0ftWbyEAmk9V9zkX5stLdp83LGKwFvLg1YET2u-qD__bC-f5BoFYXnynLEoJaF-oNuqviBw4LnnAKCsyetFELdONmbu2Ju7bIA7obNNTF5WOUByBOvHGYcTJA8O3HpBh-Tb25RGgKClkmkjeDWpF3WxVyRiS1JeA" type="video/mp4"&gt;
@@ -156,7 +193,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14941</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14941"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14941"&gt;&lt;img src="https://cdn4.telesco.pe/file/XMKKV80IKfbSP955AaxDDCcZbDWWGV3HTFyn1v3l6M13pFP64O9CcEpovxaUwQKXqrZpZdILiXjOXSbNkvBGmysCbw5YlwLryUokd_AHzVIGpqqwFtxEPZ5_GUXf3z1ax0w_oy6kCeRI6eRdqmlSQhyXafrYsMix8sFWPYHoOsd9mLSxJ1CSGq4OJ8kPWliXNaOv26hHbgG3wRkpxphx-qnFnbbSKXaKlzNJtt5E2wzsC7g0Br1XGONIqU1Q3Gn9e-ZXrTFWyqoOFj8oIKpctTzOBjBpnAOjfNJxqudQayInazkhMCGIbsro886Mpu0JoGY81cBG75MRPRKUtez3qw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Приложение СБЕРА &lt;/b&gt;&lt;a href="https://apps.apple.com/ru/app/%D1%84%D0%B8%D0%BDa%D0%BD%D1%81%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id6749261529" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;доступно в AppStore&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Это официальное приложение Сбера, доступно оно будет около суток. &lt;br/&gt;&lt;br/&gt;Модерация AppStore не спит, не откладывайте.&lt;/div&gt;</content>
   </entry>
@@ -167,7 +204,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14940</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14940"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14940"&gt;&lt;img src="https://cdn4.telesco.pe/file/oWHCImvxJcdjWxAIhxUoqhSeZGUmZf_n6cMD5T7JOKdP9bPG-3TPjX6-VeAq-KoMqgZRDwR-x7BLT8Ds2Zdqb1y0BFc14XlK8uh900fg0LlhyCncoVnhhhQrU0unzUVjudewaZzbHR-l0VE3ZQyQukv04OVtXw_eIJRSuq6UPZ48EX_lwtUwHWF8XHiK6Zg3K-E0P3jZu1G1jgUqvCXjY-qOqsotlMX_ijhxtDW_7XVAwTbjJU_PaWy6rpL1gs7139WigQZ5ZMuYgd_wMTWafh-xp55cspDqJX16gm4baxUskpNENC6aweNQuQRlHLMxfXN8C_9Z_hCBtCyGdHQpDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В отделе безопасности Apple начался сущий кошмар: компанию могут обязать включить постоянный GPS в Индии&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В Индии рассматривают правило, которое может вынудить Apple активировать постоянный GPS на всех iPhone, &lt;a href="https://t.me/Romancev768/14510" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;продаваемых в стране&lt;/a&gt;. Местные операторы связи считают, что текущей точности определения местоположения через вышки недостаточно &lt;a href="https://t.me/Romancev768/14331" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;для расследований&lt;/a&gt;, и требуют, чтобы смартфоны постоянно отправляли координаты с точностью до метра. В рамках предложения пользователи не смогут отключать GPS, а также даже не будут получать уведомления, если оператор запросит доступ к их геоданным.&lt;br/&gt;&lt;br/&gt;Apple и другие крупные компании, включая Google, естественно выступают против этой инициативы и называют её чрезмерной. В письме индийской ассоциации производителей электроники ICEA тоже пишут, что требование всегда включённой геолокации &lt;b&gt;нарушает базовые принципы приватности&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Окончательное решение по предложению пока не принято, и власти Индии продолжают обсуждать его, учитывая прошлый отказ от похожих инициатив.&lt;/div&gt;</content>
   </entry>
@@ -180,7 +217,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14938</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14938"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14938?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/FjUkSvLiJFyXIiTQw7ldYa4owknPXd4nWQQ9YJZv6kV5oDKlh61bDY-3siOjrKzlRPopPIiVeGgg_gx0RG_ci7lfw_UZY6MbfXmRll6Rl9VT2KuiGhtxeY7fdMA5SP7DuyvDUaZZ2Kq-vvGT3DWKfjeY9ZCQ5UNPyMQFC-u_p25ee_J0fMFuG1Gso2APUfDDaR0V4MzWWuxvGA5kINWyK1KKGcoQIyB8urchdWb-mNJvsZiXabHIqc0PueKvUOlJkN6qI9RT_fkO4q1IFWMRzCfa0pQQsUpXUBfjpWGOqUA6ZefkfN0XLScEGsMT9fHlncVqDstbbHCjuNV-QqlbNg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Romancev768/14939?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/RTxZdqlqfgezxKz8V4q6sHzDN_7PKkqLqmarN-FwGqw2SQ_K1jNfltaK13pXYo7OT7xpRUD3wvXX-nSsJNXx96UdU95YE0stnoIiY_1HYhfy76M_AD5W-b7ab45DUuP0tgns8aYnDWJZNG_wsPCNqTOwPEV1HFwfL3NtC-IoeQgqjMUxCLOrjAGkP6TJpY91tS1IwXQwyCMfO6JWghS8lZ5rX_pasNTuLDxvYFLha1xpLU5fl93Hz26lEHMIilvqo-CEYPfj_lBCjOqJH5yM3MYefeLVhn5aykfXwroEhftBnMYapf0RkWjZbthYLTkC5IsEf4LCS25wlvcAkVwwwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Срочно создайте “Ключ доступа для Telegram”&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;На iOS и Android можно авторизоваться через ключи доступа. &lt;br/&gt;&lt;br/&gt;Так вам не нужно вводить пароль и  одноразовые SMS коды, всё хранится на устройстве.&lt;br/&gt;&lt;br/&gt;Можно использовать 1Password, а так же системы Google, Apple, Samsung и другие.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Как включить:&lt;/b&gt;&lt;br/&gt;Перейдите в «Настройки»&amp;nbsp;→&amp;nbsp;«Конфиденциальность»&amp;nbsp;→&amp;nbsp;«Ключ доступа».&lt;br/&gt;&lt;br/&gt;Ранее начались проблемы с одноразовыми SMS кодами для телеграм.&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
@@ -191,46 +228,8 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <id>https://t.me/Romancev768/14937</id>
     <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14937"/>
     <author>
-      <name>Romancev768</name>
+      <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14937"&gt;&lt;img src="https://cdn4.telesco.pe/file/rIZZ51bdMWpZaGS0w0aK35zRYR7Xzj2MKr62-4ZtlVRkeEFQBKW6QX43Wr-_fXwoHokjqzXUviHrhkON7erRfDUvhsiR8zn8_IQnoNm0t2gEThLngGGhqY86qGwefgqjVj68R45ePZtoLT7-rliP2CvivQuDWZnhtTlMn1BcEogajNkRCxBq_FtxDkvd2OEoDN_VOqdPlJjRIYnVR_YLuxz_uBc55V2KNAQE-mFKgZw1vDXyDdazHYd9PsMgN1ndWDRuVgta98TaEzP7t3XdgmIDYBaF0b30ZimwWl1DwpGhq9wBGui9fuRMTWidc9AdesV61nw6xxnci1WLIQVibQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Джон Тернус может стать новым CEO Apple: что известно сейчас&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;На фоне &lt;a href="https://t.me/Romancev768/14929" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;потери многих ценных управляющих кадров&lt;/a&gt;, в сети продолжают появляться обсуждения о возможном преемнике самого Тима Кука, и всё чаще &lt;b&gt;в этом контексте звучит имя Джона Тернуса&lt;/b&gt; — нынешнего руководителя аппаратного направления Apple. Тернус работает в компании с 2001 года и считается человеком, который сыграл &lt;a href="https://t.me/Romancev768/14929" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;вторую ключевую роль&lt;/a&gt; в переходе Mac на Apple Silicon. Коллеги описывают его как спокойного, уравновешенного и предельно внимательного к деталям лидера, который пользуется полным доверием Кука и способен доводить самые сложные проекты до идеального результата.&lt;br/&gt;&lt;br/&gt;Однако &lt;b&gt;не все в Apple уверены&lt;/b&gt;, что именно Тернус должен возглавить компанию. По данным источников, &lt;b&gt;его критикуют за излишнюю осторожность и нежелание поддерживать более амбициозные инициативы&lt;/b&gt;. Есть и сомнения в том, сможет ли он эффективно работать на внешней арене, где Apple сталкивается с &lt;a href="https://t.me/Romancev768/14510" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;различными геополитическими трудностями&lt;/a&gt;. Поэтому внутри компании не исключают появления неожиданного кандидата, вроде бывшего топ-менеджера Тони Фаделла.&lt;br/&gt;&lt;br/&gt;Кто в итоге заменит Кука, пока остаётся открытым вопросом.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Девушка выиграла iPhone 17 Pro Max 256gb в Яндекс...</title>
-    <published>2025-12-07T15:41:26+00:00</published>
-    <updated>2025-12-07T15:41:26+00:00</updated>
-    <id>https://t.me/Romancev768/14936</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14936"/>
-    <author>
-      <name>Romancev768</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/Romancev768/14936"&gt;
-Media is too big&lt;br&gt;&lt;br&gt;
-VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
-&lt;img src="https://cdn4.telesco.pe/file/Tgvg2t2DmvfU1vGD_5GvMzlHIbQIHu1QpWGrXQEoqrPnQJuuVD4zS_cZBGGdxkOmxkubpgV_QwRSlfZSEiyEyR-XG0-uWWMjkE8yzNTOIAA--SzklxcPC-S8j35xJzaYySLuZvcJGZEMoN8WXbfS_ROj6HVKvrahiuudRDwJ0RgqDinyvF5XrDh2DFRkyaun4BMLyqXxDnC2pe8EQe9RrH51hVvvCSHLsXt805s7teLTBapHbT0eYJzGj9gQpEPnnHlujOcjhR7AnQbVPYdStkZueDs3entQX5TU0DWqQnv2ZT44DQO6iM3qQQSL1hNzVEdsu-6w14K8_JzxbBT2Xw"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Девушка выиграла iPhone 17 Pro Max 256gb в Яндекс Лавке.&lt;br/&gt;&lt;br/&gt;Оказывается это реально работает. &lt;br/&gt;&lt;br/&gt;Есть среди нас те счастливчики которым выпало что-то кроме скидки?&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Когда в следующий раз вам скажут что у Apple уже давно нет...</title>
-    <published>2025-12-07T14:29:48+00:00</published>
-    <updated>2025-12-07T14:29:48+00:00</updated>
-    <id>https://t.me/Romancev768/14935</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14935"/>
-    <author>
-      <name>Romancev768</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Romancev768/14935"&gt;&lt;img src="https://cdn4.telesco.pe/file/vRXKEzLf5Yg_akbOkIj6SaqBGX-mfMLuHGus_58UrFXp7I4TL975UHvfsmuHyBRrZJ9hpUlZucdMuBeW7YNxwWxJU_KbRgAKAqb2U8GzstALN8gbC7c431n7THGFR-q1JL8TJDsrIsA7WCr-pxH2n6Q98VSw270LQ-wPuWQ_hxTCyBNtH8QGnLiMWq-01_SxaYYPoKzgRBo6eYwTXFEtEvhHxA-bxbBcCk9U6vvlLOVRSnDMtxaXLttfXSz52dr3I3yt7HtWuM7zMOUNC6JA3OXKEX11kZlI1TBODH68A2gmLHefXWAnNByY-boYScStWUumYxXkCv-ajMr1Nz8OvQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Когда в следующий раз вам скажут что у Apple уже давно нет инноваций - можно показать эту картинку.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">А МВД уже и опровергло призыв к отключению биометрии.</title>
-    <published>2025-12-07T14:22:07+00:00</published>
-    <updated>2025-12-07T14:22:07+00:00</updated>
-    <id>https://t.me/Romancev768/14934</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14934"/>
-    <author>
-      <name>Romancev768</name>
-    </author>
-    <content type="html">&lt;blockquote&gt;МВД МЕДИА&lt;br&gt;
-&lt;tg-emoji emoji-id="5341576175208650424"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"&gt;&lt;b&gt;⭐️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Официальная информация МВД России  В ряде СМИ распространяется информация о том, что МВД России рекомендует отказаться от использования биометрических данных для входа в приложения банков. Такие сообщения не соответствуют действительности.  Технология распознавания…
-&lt;a href="https://t.me/mediamvd/44095"&gt;https://t.me/mediamvd/44095&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А МВД уже и опровергло призыв к отключению биометрии.&lt;/div&gt;</content>
   </entry>
 </feed>

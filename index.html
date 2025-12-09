@@ -14,32 +14,80 @@
   <div id="errors"></div>
 
   <script>
+    // ---- Relative time formatting ----
+    function formatRelativeTime(date) {
+      const now = new Date();
+      const diffMs = now - date;
+      const diffSec = Math.floor(diffMs / 1000);
+      const diffMin = Math.floor(diffSec / 60);
+      const diffHours = Math.floor(diffMin / 60);
+      const diffDays = Math.floor(diffHours / 24);
+
+      if (diffMin < 1) return 'just now';
+      if (diffMin < 60) return `${diffMin} minute${diffMin === 1 ? '' : 's'} ago`;
+      if (diffHours < 24) return `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
+      if (diffDays < 30) return `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
+      return 'more than 30 days ago';
+    }
+
+    // ---- Main loader ----
     async function loadFeeds() {
       const metaEl = document.getElementById('meta');
       const feedsEl = document.getElementById('feeds');
       const errorsEl = document.getElementById('errors');
+
+      const buildId = document.lastModified;
+
+      // load localStorage state
+      let saved = null;
+      try {
+        saved = JSON.parse(localStorage.getItem('telegramRssState') || 'null');
+      } catch {
+        saved = null;
+      }
+
+      const prevBuildId = saved?.buildId || null;
+      const prevChannels = Array.isArray(saved?.channels) ? saved.channels : [];
+      const isNewBuild = prevBuildId && prevBuildId !== buildId;
+      const prevSet = new Set(prevChannels);
 
       try {
         const resp = await fetch('channels.txt');
         if (!resp.ok) throw new Error('Failed to load channels.txt');
 
         const text = await resp.text();
-        const lines = text.split('\n')
+        const lines = text
+          .split('\n')
           .map(l => l.trim())
           .filter(l => l.length > 0 && !l.startsWith('#'));
 
-        const channelCount = lines.length;
+        const lastModifiedDate = new Date(buildId);
+        const relative = formatRelativeTime(lastModifiedDate);
+        const absolute = lastModifiedDate.toLocaleString();
 
-        const basePath = window.location.origin +
-          window.location.pathname.replace(/\/[^\/]*$/, '');
+        metaEl.textContent = `Channels: ${lines.length} · Updated ${relative} (${absolute})`;
 
-        metaEl.textContent = `Channels: ${channelCount} · Page last updated: ${document.lastModified}`;
-
-        for (const line of lines) {
-          const channel = line;
+        // Build items with new-channel detection
+        const items = lines.map(channel => {
+          const isNewChannel = isNewBuild && !prevSet.has(channel);
           const safe = channel.replace('@', '');
+          const basePath =
+            window.location.origin +
+            window.location.pathname.replace(/\/[^\/]*$/, '');
           const feedUrl = `${basePath}/${safe}.xml`;
 
+          return { channel, safe, feedUrl, isNew: isNewChannel };
+        });
+
+        // Sort: new channels first, then alphabetical
+        items.sort((a, b) => {
+          if (a.isNew && !b.isNew) return -1;
+          if (!a.isNew && b.isNew) return 1;
+          return a.channel.localeCompare(b.channel);
+        });
+
+        // Render feed list
+        for (const item of items) {
           const feedDiv = document.createElement('div');
           feedDiv.className = 'feed';
 
@@ -48,11 +96,11 @@
 
           const nameDiv = document.createElement('div');
           nameDiv.className = 'feed-name';
-          nameDiv.textContent = channel;
+          nameDiv.textContent = item.channel + (item.isNew ? '  (new)' : '');
 
           const urlDiv = document.createElement('div');
           urlDiv.className = 'feed-url';
-          urlDiv.textContent = feedUrl;
+          urlDiv.textContent = item.feedUrl;
 
           mainDiv.appendChild(nameDiv);
           mainDiv.appendChild(urlDiv);
@@ -63,7 +111,7 @@
           const copyBtn = document.createElement('button');
           copyBtn.className = 'copy-btn';
           copyBtn.textContent = 'Copy URL';
-          copyBtn.dataset.url = feedUrl;
+          copyBtn.dataset.url = item.feedUrl;
 
           buttonsDiv.appendChild(copyBtn);
 
@@ -73,7 +121,20 @@
           feedsEl.appendChild(feedDiv);
         }
 
-        // ошибки, если есть
+        // Save state (for next build comparison)
+        try {
+          localStorage.setItem(
+            'telegramRssState',
+            JSON.stringify({
+              buildId,
+              channels: lines,
+            })
+          );
+        } catch (e) {
+          console.warn('Failed to save state to localStorage', e);
+        }
+
+        // ---- Errors block ----
         try {
           const errResp = await fetch('_errors.log');
           if (errResp.ok) {
@@ -100,6 +161,7 @@
       }
     }
 
+    // ---- Copy button handler ----
     document.addEventListener('click', async (event) => {
       const btn = event.target.closest('.copy-btn');
       if (!btn) return;
@@ -111,7 +173,7 @@
         await navigator.clipboard.writeText(url);
         const original = btn.textContent;
         btn.textContent = 'Copied!';
-        setTimeout(() => { btn.textContent = original; }, 1300);
+        setTimeout(() => { btn.textContent = original; }, 1200);
       } catch (e) {
         console.error(e);
         alert('Failed to copy. You can copy the URL manually.');
