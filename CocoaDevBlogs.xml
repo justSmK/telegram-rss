@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-09T05:15:37+00:00</updated>
+  <updated>2025-12-09T07:47:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Add an inner shadow to a symbol image in SwiftUI https://t.co/jeFzS3lzc3</title>
+    <published>2025-12-09T05:37:31+00:00</published>
+    <updated>2025-12-09T05:37:31+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25471</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25471"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Add an inner shadow to a symbol image in SwiftUI &lt;a href="https://t.co/jeFzS3lzc3" target="_blank" rel="noopener"&gt;https://t.co/jeFzS3lzc3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;&lt;img src="https://cdn4.telesco.pe/file/OCKoIRFJXByzJ3PBxy3yFo4V29iVQNf_ZUJ7lA26MGqvqOCFmWnqT3Pc3UD4bjrmvrSfoJvPeVS4FS2Iuk3-3XMroxz8wTIGPwxWnAt0l-qsUC5Kuz3YzKw8KzTkBFZl4Hz2bqubzBR_cCVPtZsBctXHW-j5K3G0fSsdfzJAUzMRQRdMVoODetfAaaUMeZdzXgs4E8mtTPOlqFHjS7ki6g9iNXEdYkFURjr8KN4wkc89Z0Ji1lSKAxbva1DTTW_NZMdA-vb93S0k5YVtE7YMxQw_RVibv4sDQwmvUSwqg9MIRQ4rjtns27z-sCUQMUDNrj4sqHp9mP2obGxc-S3fiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;
+Add an inner shadow to a symbol image in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Create a cut out icon effect in SwiftUI by applying a foreground style with an inner shadow to an SF Symbol image.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : sunnyyoung/WeChatTweak https://t.co/iGgfOhfWpR</title>
     <published>2025-12-09T02:07:40+00:00</published>
@@ -240,17 +252,5 @@ GitHub - sunnyyoung/WeChatTweak: A dynamic library tweak for WeChat macOS - é¦–æ
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : bugsnag/bugsnag-cocoa &lt;a href="https://t.co/Iojg13W080" target="_blank" rel="noopener"&gt;https://t.co/Iojg13W080&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Iojg13W080"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Iojg13W080"&gt;
 GitHub - bugsnag/bugsnag-cocoa: BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - GitHub&lt;/a&gt;&lt;br&gt;BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - bugsnag/bugsnag-cocoa&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | #apple #animation #ios...</title>
-    <published>2025-12-06T09:27:10+00:00</published>
-    <updated>2025-12-06T09:27:10+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25451</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25451"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/Jwo7FhGwlr" target="_blank" rel="noopener"&gt;https://t.co/Jwo7FhGwlr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Jwo7FhGwlr"&gt;&lt;img src="https://cdn4.telesco.pe/file/WOFPSBj66_fRv-4UzkOJgSzwrvv8SNpU25V_siYLrcm2xMLAuUKGup4hq5jEBVi0kWsqdj_UU7IE5jGlGHkGPIcoIe_YivWg7l1uUZM7jxbtjI9u_uPcHq4XUZrQoEm4bR27PHTdmrM_-vRdKm-wDR_YqCO1M9Z2qLxHeIc8-aewlvtTIjToECDeYfPoLOcLsDFN39wmrmBYlzwUts25OAljmYvVTahtzExr8bsktVc2A4CmMnZyJ8RBRNGN-ybAeA1NnaKOwjWCGmVPWzdZnZH78VQvmJeIg-WuS4eWEfNgdrorCngpZRXly63IAuYnGgQDfIVJ6mYDtre71qU_og.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Jwo7FhGwlr"&gt;
-Customizing Toolbars with Transitions &amp;amp; Animations using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
