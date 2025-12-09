@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-09T11:14:54+00:00</updated>
+  <updated>2025-12-09T14:17:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Designing with people: Creating applications for reality https://t.co/T7Iiqqa1J2</title>
+    <published>2025-12-09T14:07:33+00:00</published>
+    <updated>2025-12-09T14:07:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25472</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25472"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Designing with people: Creating applications for reality &lt;a href="https://t.co/T7Iiqqa1J2" target="_blank" rel="noopener"&gt;https://t.co/T7Iiqqa1J2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;&lt;img src="https://cdn4.telesco.pe/file/mkibe4UeJOTUF8aHhG764M79r-ZypnuPVOwqIE6vD_M5rSoWwoQu0kyRd2jIbZhXi9SJJNC8_bATJ9X3eUh6jgZmk1V7kukzWHaS1r345MSPztajK6wFYSJry6GiJGp-4RfOf43cxlLkZDDVlg_fIK2xi8RUs0oRYRU_U37KucL_Ey07cwtkPyCqgvUmlOOaQrqyRE3tKo_h5mS4AYbiQcwauJU_jXD7sUZZL5PgAcLt4bO3kf4W0Z1DC5e_kVh-FUVBhdsqCeedwqhvv9-61tmxZD8_yiZ51OFr_S0OkVf4PRj2PL5sQ70Suh13g7dMFizNHOzxGydRWvUYqJE9qA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;
+Designing with people: Creating applications for reality - Create with Swift&lt;/a&gt;&lt;br&gt;Understand the value of designing applications, including the communities they are for, in the process.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Add an inner shadow to a symbol image in SwiftUI https://t.co/jeFzS3lzc3</title>
     <published>2025-12-09T05:37:31+00:00</published>
@@ -118,7 +130,7 @@ Issue #143 - Engin Kurutepe - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m fe
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Text Effects using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/SNoHC8eoWk" target="_blank" rel="noopener"&gt;https://t.co/SNoHC8eoWk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;&lt;img src="https://cdn4.telesco.pe/file/P_320AsjV6LbBQQbDoFtY8ZqxSmxN8wZ98sdMXTaap85f5GGdNa2rGdI6EqhVQEFJr_ZWXHXRw3oU5Mnv7kULUeXB6XImyDnks9iufy84akug4Vrjg4FI8EZMGVLcEGClN3zKafCGFVZNKKfJ5hi85HgSfB3Y25T2NlGsRj6aSBvUAmJz6NpCxMXGGV4qMw6qHCvEP59oRcnMxxeI1Z4eYYTaOy_ML7hVKR9pQQeAn-JS0FbwmX_3Njtbl4-SHfUkbQs27qKHqy5hhpNJzhmnIagWP0HScfjb7bpb-kbenh8j5NchFG-FnuDeIp3A0KX6Qy9uBfM59-XHowTUaoOtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Text Effects using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/SNoHC8eoWk" target="_blank" rel="noopener"&gt;https://t.co/SNoHC8eoWk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;&lt;img src="https://cdn4.telesco.pe/file/KF8tcc_vGlsJDHX67IJfOuiP9LBS52eLodIA_upQ3sAXpnyetEyVooEBSwzprR80aIh3L8IeDeJtLhcz3v3rwwjurmep1RyEryBLqGi_j868ddbY-cqKwiSVaE9V3EUmNqN9Bw693ApdCq_TgTTecz8RqnE2oDU-lGBpBkwO-RCaXxgfK2d9LEcFd-tWwNe_nvYG5FwltXfLDmlM_Xzunoz-Z30mHCMK-2Ham79aciav612DnHLfOp0M40Vdb61DxSRhTMs5zM9GzxOw7X1P0rxBkmoMXhhdWnT2_dn9FC7uWPzeSRXw9IXeNiiFEFD0sM6O7CHvBXA_NFUGCZNccA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SNoHC8eoWk"&gt;
 Text Effects using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -240,17 +252,5 @@ GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing a
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sunnyyoung/WeChatTweak &lt;a href="https://t.co/iGgfOhfWpR" target="_blank" rel="noopener"&gt;https://t.co/iGgfOhfWpR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;&lt;img src="https://cdn4.telesco.pe/file/NiCHxo4_xhkVwpfbYpd9HSwSfWzD6kaxxfoJeuTKEs5z-hlpk-o8-ue9_nzRBE5tX_0j-3j7dYpPxDjldaeoEUa9Ko3ruifHdwEf2Sh-21QPDRLv4Xn6Sc08RVQn1LkdE37njbO85dYXWDBVl1gUyxM9I_CPVWq_DIZZZsR_N9--ZJUntgMUhCO8NJT7IUPnb6WGTN5yiJ9f6BvQsAbWRpXpaT_05sS04y6EQ0JpEO-Zg05HOo4fesnOiysrUU5eMGXT1oHh0kAbpzTNEgGur7VJVvsHb6RKWWOFsmllN5Y-taaXiouTVkmzZmrEdrfUW5nx127MdfZ5Pg3cYUFjlw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;
 GitHub - sunnyyoung/WeChatTweak: A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - GitHub&lt;/a&gt;&lt;br&gt;A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - sunnyyoung/WeChatTweak&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : bugsnag/bugsnag-cocoa https://t.co/Iojg13W080</title>
-    <published>2025-12-07T02:02:26+00:00</published>
-    <updated>2025-12-07T02:02:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25452</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25452"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : bugsnag/bugsnag-cocoa &lt;a href="https://t.co/Iojg13W080" target="_blank" rel="noopener"&gt;https://t.co/Iojg13W080&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Iojg13W080"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Iojg13W080"&gt;
-GitHub - bugsnag/bugsnag-cocoa: BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - GitHub&lt;/a&gt;&lt;br&gt;BugSnag error monitoring &amp;amp; exception reporter for iOS, macOS, tvOS and watchOS - bugsnag/bugsnag-cocoa&lt;/blockquote&gt;</content>
   </entry>
 </feed>
