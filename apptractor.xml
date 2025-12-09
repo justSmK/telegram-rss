@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@apptractor</id>
-  <updated>2025-12-08T19:10:44+00:00</updated>
+  <updated>2025-12-09T05:15:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -200,7 +200,7 @@ Jetpack Navigation 3 теперь стабилен, и его...</title>
     <author>
       <name>Mobile Development by AppTractor</name>
     </author>
-    <content type="html">			Расширим вчерашний опрос: Как вы оцениваете ваш опыт работы с Android Studio?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - 5&lt;/li&gt;&lt;li&gt;31% - 4&lt;/li&gt;&lt;li&gt;9% - 3&lt;/li&gt;&lt;li&gt;4% - 2&lt;/li&gt;&lt;li&gt;4% - 1&lt;/li&gt;&lt;li&gt;11% - Лучше, чем с Xcode&lt;/li&gt;&lt;li&gt;20% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Расширим вчерашний опрос: Как вы оцениваете ваш опыт работы с Android Studio?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - 5&lt;/li&gt;&lt;li&gt;31% - 4&lt;/li&gt;&lt;li&gt;9% - 3&lt;/li&gt;&lt;li&gt;4% - 2&lt;/li&gt;&lt;li&gt;4% - 1&lt;/li&gt;&lt;li&gt;10% - Лучше, чем с Xcode&lt;/li&gt;&lt;li&gt;19% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Расширим вчерашний опрос: Как вы оцениваете ваш опыт работы с Xcode?</title>
@@ -262,6 +262,6 @@ Live Updates на Android: где макеты врут, a SDK ставит гр
     <author>
       <name>Mobile Development by AppTractor</name>
     </author>
-    <content type="html">			Как вы вы оценили Xcode/Android Studio по пятибальной шкале?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;18% - 5&lt;/li&gt;&lt;li&gt;22% - 4&lt;/li&gt;&lt;li&gt;20% - 3&lt;/li&gt;&lt;li&gt;7% - 2&lt;/li&gt;&lt;li&gt;5% - 1&lt;/li&gt;&lt;li&gt;7% - Пользуюсь другой IDE&lt;/li&gt;&lt;li&gt;20% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Как вы вы оценили Xcode/Android Studio по пятибальной шкале?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;18% - 5&lt;/li&gt;&lt;li&gt;22% - 4&lt;/li&gt;&lt;li&gt;20% - 3&lt;/li&gt;&lt;li&gt;7% - 2&lt;/li&gt;&lt;li&gt;5% - 1&lt;/li&gt;&lt;li&gt;7% - Пользуюсь другой IDE&lt;/li&gt;&lt;li&gt;21% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>

@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-08T19:10:47+00:00</updated>
+  <updated>2025-12-09T05:15:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Creative Coding: Randomness and Noise&#13;
+&#13;
+Интересная статья, в которой...</title>
+    <published>2025-12-09T00:37:59+00:00</published>
+    <updated>2025-12-09T00:37:59+00:00</updated>
+    <id>https://t.me/swift_tips/813</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/813"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/813"&gt;&lt;img src="https://cdn4.telesco.pe/file/jxC_6qHLk66qpqRCpaXlg3E-_ZuJ5wJTTOEvIB2mR3gqjrHJ_Y13boV3q3pQol65ArUlO43NZwjCE9hm7I_nfRouNkHd4PN3Wx-XtV5yTrLZ46XKLLST8Yl4fL03qgOVx56RB5UozkyXBQ-axNV6HkS800Ay1YZcHfpFmTuoVE_zejvamLwq5FF5HYBGEQj6HTrNCUk519ui3cEvfNn6TNH2MCIAvmmw98Y5raG545hn1l-myUkk3C0bQBiAsieFMRJJ1eHdPO9hYYZFNAwhDhZfyY3KxtkiCOJtbYb9xxX1FUpXxgOV2tg4g1HF1LtTxc1up_X_cQ07g_Ndfs0Aiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Creative Coding: Randomness and Noise&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Интересная &lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается как можно преобразить UI проекта, с помощью необычных анимаций.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Автоматизация ревью кода — не роскошь, а...</title>
     <published>2025-12-04T15:01:10+00:00</published>
@@ -239,18 +252,5 @@
       <name>Swift Tips</name>
     </author>
     <content type="html">&lt;a href="https://t.me/swift_tips/786"&gt;&lt;img src="https://cdn4.telesco.pe/file/IE4Mty9ZmI_1ksyTV_A5rfAVJygiw8SCUGdrdPPCqajQg65i0HCIpOCa2heI5Nft92oobIOZAavjvJaXgvWwfTXnDQIQOQmF1BV8K2UDl_HoacE2JdRS8i1Bc6ePk33hLt04lf4wIEj3l1k2OeHJh29hQmjJcxOmE0kzCZn9tW3SN393x2T2eKvbCq4tvNBfTqYaKCJ4k_uNx8-HvtKKnqyZ5ZcfZdTr771bUC2svLCpFj8I3zRu5spc4HdTSkp03trUr5hwK14wXidE_SKkAcENROakOfhz3khBGHaeYgIqPGWUpuc7do3VJ2qLkdYJ17nuGkPvxnt01YCVq6QX6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Игра в SPM&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://habr.com/ru/articles/857364/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; автор делится опытом перехода на Swift Package Manager, проблемами с которыми столкнулся и как их решал. &lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/articles/857364/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Modern Swift Lock: Mutex &amp;amp; the Synchronization Framework&#13;
-&#13;
-В статье...</title>
-    <published>2025-08-01T05:15:09+00:00</published>
-    <updated>2025-08-01T05:15:09+00:00</updated>
-    <id>https://t.me/swift_tips/784</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/784"/>
-    <author>
-      <name>Swift Tips</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_tips/784" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/swift_tips/784"&gt;&lt;img src="https://cdn4.telesco.pe/file/AGmyB97xWWQt64LnZTcbtEkyQloMq0CSZ04rvYrnQImRjRiczH_OITidHXyLJPT21LmEBrgSv90KKH2XKHagfzDby2jwuroy7ZXfveRNwfZ8IqcU7nr5cgBVgGBtrnNlifYF72f4vWAAJd8D0ERjXTgZMGdXIDRdKNuG6dJrmfCm7GQiKRdmx4gE2HSPXs4U0Tao9DLLPGm8cG_WGTfBaBrYj42bjNvc8MBIOt0DkbNXXT13x0iuSiQwbPsOA4QQs_n9E7_dHOg3PfL1NqhSrjvG70CVMJo0RgbVqbD8PQIyxAVmJb6bOCAzq7oJUXxbOfs0Og-NbMEcmlfUzxJaig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Modern Swift Lock: Mutex &amp;amp; the Synchronization Framework&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; разбирается один из механизмов синхронизации – Mutex. Как с ним работать, разница mutex и lock, обработка ошибок и т.д..&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215584915898243758"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/#what-is-a-swift-lock" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;What is a Swift Lock?&lt;/a&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215584915898243758"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/#using-swifts-mutex-lock-from-the-synchronization-framework" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Using Swift’s Mutex lock from the Synchronization framework&lt;/a&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215584915898243758"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/#a-lock-that-works-great-with-swift-concurrency" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;A lock that works great with Swift Concurrency&lt;/a&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215584915898243758"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/#shouldnt-i-use-an-actor-instead-of-locks-in-swift-concurrency" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Shouldn’t I use an actor instead of locks in Swift Concurrency?&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/concurrency/modern-swift-lock-mutex-the-synchronization-framework/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
