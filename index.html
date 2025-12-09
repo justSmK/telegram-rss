@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Telegram → RSS feeds</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Telegram → RSS</h1>
+  <div class="meta" id="meta">Loading…</div>
+
+  <div class="feeds" id="feeds"></div>
+  <div id="errors"></div>
+
+  <script>
+    async function loadFeeds() {
+      const metaEl = document.getElementById('meta');
+      const feedsEl = document.getElementById('feeds');
+      const errorsEl = document.getElementById('errors');
+
+      try {
+        const resp = await fetch('channels.txt');
+        if (!resp.ok) throw new Error('Failed to load channels.txt');
+
+        const text = await resp.text();
+        const lines = text.split('\n')
+          .map(l => l.trim())
+          .filter(l => l.length > 0 && !l.startsWith('#'));
+
+        const channelCount = lines.length;
+
+        const basePath = window.location.origin +
+          window.location.pathname.replace(/\/[^\/]*$/, '');
+
+        metaEl.textContent = `Channels: ${channelCount} · Page last updated: ${document.lastModified}`;
+
+        for (const line of lines) {
+          const channel = line;
+          const safe = channel.replace('@', '');
+          const feedUrl = `${basePath}/${safe}.xml`;
+
+          const feedDiv = document.createElement('div');
+          feedDiv.className = 'feed';
+
+          const mainDiv = document.createElement('div');
+          mainDiv.className = 'feed-main';
+
+          const nameDiv = document.createElement('div');
+          nameDiv.className = 'feed-name';
+          nameDiv.textContent = channel;
+
+          const urlDiv = document.createElement('div');
+          urlDiv.className = 'feed-url';
+          urlDiv.textContent = feedUrl;
+
+          mainDiv.appendChild(nameDiv);
+          mainDiv.appendChild(urlDiv);
+
+          const buttonsDiv = document.createElement('div');
+          buttonsDiv.className = 'buttons';
+
+          const copyBtn = document.createElement('button');
+          copyBtn.className = 'copy-btn';
+          copyBtn.textContent = 'Copy URL';
+          copyBtn.dataset.url = feedUrl;
+
+          buttonsDiv.appendChild(copyBtn);
+
+          feedDiv.appendChild(mainDiv);
+          feedDiv.appendChild(buttonsDiv);
+
+          feedsEl.appendChild(feedDiv);
+        }
+
+        // ошибки, если есть
+        try {
+          const errResp = await fetch('_errors.log');
+          if (errResp.ok) {
+            const errText = await errResp.text();
+            if (errText.trim().length > 0) {
+              const box = document.createElement('div');
+              box.className = 'error-box';
+              box.innerHTML = `
+                <div><strong>Some channels failed to update in the last run.</strong></div>
+                <pre>${errText.replace(/[&<>]/g, c => (
+                  {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]
+                ))}</pre>
+              `;
+              errorsEl.appendChild(box);
+            }
+          }
+        } catch (e) {
+          console.warn('Failed to load _errors.log', e);
+        }
+
+      } catch (e) {
+        console.error(e);
+        metaEl.textContent = 'Failed to load channels.';
+      }
+    }
+
+    document.addEventListener('click', async (event) => {
+      const btn = event.target.closest('.copy-btn');
+      if (!btn) return;
+
+      const url = btn.dataset.url;
+      if (!url) return;
+
+      try {
+        await navigator.clipboard.writeText(url);
+        const original = btn.textContent;
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = original; }, 1300);
+      } catch (e) {
+        console.error(e);
+        alert('Failed to copy. You can copy the URL manually.');
+      }
+    });
+
+    loadFeeds();
+  </script>
+</body>
+</html>
