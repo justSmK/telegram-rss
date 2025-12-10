@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-10T05:16:52+00:00</updated>
+  <updated>2025-12-10T08:21:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Что спрашивают на интервью в команду...</title>
+    <published>2025-12-10T06:02:12+00:00</published>
+    <updated>2025-12-10T06:02:12+00:00</updated>
+    <id>https://t.me/iosgr/4552</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4552"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что спрашивают на интервью в команду Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Инди-разработчика пригласили пройти интервью в команду, которая занимается SwiftUI для macOS. Работу он не получил, но зато принес задачу, которые ему задавали на техническом собесе.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;&lt;img src="https://cdn4.telesco.pe/file/JDy3yknShldHE9di2gSIYSEn4GiqtWaCOqlGmPsschBVzWh9hP7fvsU_Fsc4zZBF7m0Ahwj8m0xR6n3GnpzUoIo16xU9TQspcei5arrm1K4AksUI3mNjppdebBnfD5DtdRxgPfsveWBQBbkEh8y_eMUrOnU8ABq5-BG1qE0_7L68JzvYXZ7fGjzWC_RrHqEDwbEoSWATlSs1LouGcjdjtDeXR16NxqE8ObsWIUgUuPWe8DYPkiA0LGrRMbeK4A8yf-ZIVgmmPTdJgONfH4_gmy7zjVJJoydeVdMaLFBWhCEsZgl0oGsYSflRVuQPZ6KIRFDOWFVnGXeObD9nuqXxag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;
+Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for Apple&amp;#39;s SwiftUI team and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как устроены мобильные приложения VK «под...</title>
     <published>2025-12-09T11:06:42+00:00</published>
@@ -35,7 +47,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Частые проблемы AI-generated Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Уже, кажется, все знают о том, что большинство LLM справляются с задачей по генерации Swift кода существенно хуже, чем с Python, Java, или другими популярными языками. Держите подборку самых частых проблем, которые встречаются в AI коде (можете вообще куда-то в гайдлайны своему агенту закинуть).&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/E-CRdPjHScb3W6w5BnPjYX2DLFf3SKqz9wLvi_6TV15TwvMjfqZLkwKArMvCtGaqMiycjrgLdtJI1_AB0MV6PadL4Mv0rk35ncSgm433yim7IlHEn0C37VlVKc1rH3BgaRNJaZtcQsYTUmT0V-7e0RpV9V3kr2puRj8N6YmKLB9PhiV04xPjEPZ3qqfDF5Q5FfJAfzXHWiT1rGTGEIkITH-dokNCrMevmZQGKkIrL1mdWirhtixtUEETxHKH2nxcatluPAlt7MUdy8D_t2UDSBri1bdiULbvSkCw0EKnQ5FFFDaELjbHv6ZaRh9i6ru-pvnyQ9bav3LEArrGdqaVLw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Частые проблемы AI-generated Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Уже, кажется, все знают о том, что большинство LLM справляются с задачей по генерации Swift кода существенно хуже, чем с Python, Java, или другими популярными языками. Держите подборку самых частых проблем, которые встречаются в AI коде (можете вообще куда-то в гайдлайны своему агенту закинуть).&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/YoFHBUfIrikOqjsPXPn2Il59ZMGv10OH5EzT-7xAO1KkvRbpHov0BCqQN_KcrirprxnGSyiCqILZOyJtcTfeaSo1vx3seyqyYRIRoV4-cz3dYYzcG41YkHUk9244MU0XzjihUceJnLktOi3-EYinc1bR19U39gF9fSqJEFAwnaBEP2ReBsC5KqS-NEQX1iS0JYgE08lu7kIWs1ALea55pfmajjDr-M6dOG460JwqwZ5TSKrkWYoR7KmPjJYFe_hIEXK6TCbgZRf94sdu5bsnuJ4b7qE4YXciUyM_xN33ZNRguO7zBbHIBDMnCHzmH1mrzy6GJui6FiW3nxRLFAwqiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
 What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -60,7 +72,7 @@ What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;A
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Обзор AnyLanguageModel&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я уже рассказывал про новую библиотеку AnyLanguageModel от HuggingFace, которая позволяет заменить локальные модели от Apple вообще на любые другие опенсорсные варианты.&lt;br/&gt;&lt;br/&gt;Держите статью с более подробным ее разбором и планами на будущее.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;&lt;img src="https://cdn4.telesco.pe/file/as2dZh0p6PUv42F_Wa1nQwPnrBe3HjbptW8z7RvHl1QR0XPW5igSY2kxPs9MqptEBUMV0YfxRN5qbOUAYC78c8jdoZgHi_BkfGA8NK-Z3RhdN11jAab6wBQrsGRad6iCwT79wuF_cSNeHfUKcS0q3yeYjP0gNRSTbCFLfalzHFIovp677J0OpL7Y2dN_fqnUKOkI3gbkSnklVCZmU0H5sCHVTidmHuu6-ejwYLzBkJdedahvB2CCkeZYDmpIJXPyOHEZDnEEyH-CBh-nhdaubWWGScjJMxijcLMKyMhfozLMhFBFlEFEevek28Et0n7cRwMXH_10pMDd2RGKm2DcLw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Обзор AnyLanguageModel&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я уже рассказывал про новую библиотеку AnyLanguageModel от HuggingFace, которая позволяет заменить локальные модели от Apple вообще на любые другие опенсорсные варианты.&lt;br/&gt;&lt;br/&gt;Держите статью с более подробным ее разбором и планами на будущее.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;&lt;img src="https://cdn4.telesco.pe/file/b9KqfRhVUHkmOWj2W9IpM8-t7G1ljaXY2v6xEIMiR-Pj50CQm6idlzSb9RIrQ31zELmwgAsTPXB3ciIeniJ5VA1MMnpxygeVrxN_yqsX56UT-3NgdGmT5lsjq-8C_WusbDkJ_am4iJf4sKGzOs6LLOmVmX6kGqcTVYEU-xRrbNKLtC1xNdoMOdn0oJ8PiXYiCJ4XoJAHY0BATGNEGZ1y3Yo_ujBi96INHPDqPw4SzGTVBALbemZtirXz8fiE6Bn3FnXsfnj_RrWcun62Pm2yG3qAgUWU4CqLKf07EYUPQKpOfRH4d2ZYFpMvQJE7PP-0gqPVTSFfZ_-cSeVRKU2bIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;
 Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms - huggingface.co&lt;/a&gt;&lt;br&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/blockquote&gt;</content>
   </entry>
   <entry>

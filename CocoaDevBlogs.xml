@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-10T05:16:51+00:00</updated>
+  <updated>2025-12-10T08:21:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -67,7 +67,7 @@ Designing with people: Creating applications for reality - Create with Swift&lt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Add an inner shadow to a symbol image in SwiftUI &lt;a href="https://t.co/jeFzS3lzc3" target="_blank" rel="noopener"&gt;https://t.co/jeFzS3lzc3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;&lt;img src="https://cdn4.telesco.pe/file/OCKoIRFJXByzJ3PBxy3yFo4V29iVQNf_ZUJ7lA26MGqvqOCFmWnqT3Pc3UD4bjrmvrSfoJvPeVS4FS2Iuk3-3XMroxz8wTIGPwxWnAt0l-qsUC5Kuz3YzKw8KzTkBFZl4Hz2bqubzBR_cCVPtZsBctXHW-j5K3G0fSsdfzJAUzMRQRdMVoODetfAaaUMeZdzXgs4E8mtTPOlqFHjS7ki6g9iNXEdYkFURjr8KN4wkc89Z0Ji1lSKAxbva1DTTW_NZMdA-vb93S0k5YVtE7YMxQw_RVibv4sDQwmvUSwqg9MIRQ4rjtns27z-sCUQMUDNrj4sqHp9mP2obGxc-S3fiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Add an inner shadow to a symbol image in SwiftUI &lt;a href="https://t.co/jeFzS3lzc3" target="_blank" rel="noopener"&gt;https://t.co/jeFzS3lzc3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;&lt;img src="https://cdn4.telesco.pe/file/HEMouF_Abb8bMskNRm4pzf7XxkthB7UjmkRPxepffk2UryqXFQS38Dxf7yS0ob9p1dRDqs4kYzoklqAzC-n9Wvku2JXf7oRWmc-eLbCHuhCZoP9Z9v5HHQZqk5fg0z2-7xE7jz3CGeEicqLWKGVEW2eAUtqk_6FvdwUcQ3uutp9qN-bqkfO8LhrT_2zcL0Mzpr1iUNOhSjyttAZwsWL58IuZCtl3EDw8FQCp-0b-dZ8wFnKAI4u8shmFw7fDNwG1Uj_47Hq9WqySunyJ6qCedgcVO-iCxOogR7sisfiBhMwidwxPCFt_06qsF5HeYlt9c6bLpqnfrylxs9qCY10zrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;
 Add an inner shadow to a symbol image in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Create a cut out icon effect in SwiftUI by applying a foreground style with an inner shadow to an SF Symbol image.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
