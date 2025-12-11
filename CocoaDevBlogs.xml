@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-11T11:14:42+00:00</updated>
+  <updated>2025-12-11T14:18:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The power of ethics in mobile design https://t.co/RPLNFFGkjo</title>
+    <published>2025-12-11T14:02:43+00:00</published>
+    <updated>2025-12-11T14:02:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25485</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25485"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The power of ethics in mobile design &lt;a href="https://t.co/RPLNFFGkjo" target="_blank" rel="noopener"&gt;https://t.co/RPLNFFGkjo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;&lt;img src="https://cdn4.telesco.pe/file/d0bjKdO_iOf-_4l_WHj9qAiusq2jPBl35RwIi-tTkwqnQ8M-MYIJUcx8nNeq8qfadfUVLnYsW0N1JoiGiIDVmNr2pOsnKIFaJPmH3sSHT_Y982PVb2qCrjkCfaORP-UBTUSgaZv0vL8nYRudIAQlOd0Ldu2HFC4Wa8Z3SQrzWeKuiR32lwhAip-vj0f1iM2A0_vxisczK5nOp2zFWQp58pN2--HKqXLK2DtmDSn8MNKIwfG1JLy6AYKyTbVm0Vm_OAzL-oxOioM9_Hnkd48lf6986TTQxbhkMDjxuA3kvvExVgR_EkgLJUtShLFZkm5pEbkpKHPWqA9nvCrPhHtvAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;
+The power of ethics in mobile design - Create with Swift&lt;/a&gt;&lt;br&gt;Mobile design is intimate. They are tools people hold in their hands and check hundreds of times a day. That’s why mobile developers hold a quiet kind of power: we don’t just make interfaces, we shape behavior, expectations, and trust –whether we mean to…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">8 UX decisions that silently increase revenue https://t.co/32uLghc3fv</title>
     <published>2025-12-11T06:42:33+00:00</published>
@@ -162,7 +174,7 @@ Ancient Secrets of the Objective-C Runtime - Jacobstechtavern&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Designing with people: Creating applications for reality &lt;a href="https://t.co/T7Iiqqa1J2" target="_blank" rel="noopener"&gt;https://t.co/T7Iiqqa1J2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;&lt;img src="https://cdn4.telesco.pe/file/AaBQ0d4nhNQMt2EtqOaWvTRP8I3iY9vgujbTznm5qQI94fKfMqU92GYJECE6QgvqRiqjRAMEDwn3bpzA-zE9PUUfETW0MWTeoiHgwFB37z24XcRPNOVSAusnk8QevKtr9HrBuMYSpm2GhtQsNnsH3wbafAptjT2WlCoulwPqON-tkuCEUURQzTLPnCBZe5K8Lrtp4mhnOm03tD5Dnx4GX3HCb0gScAjlcfrXosVsIk7kF57qeLAjwcHqlBs4mOyRMS06j4BNiBTzBiyZU8U_rnOKEvmlMOimfD230ceVuPSCoH7eJ4WVkv_2yUmJ5odU-T_3TQ3ZATU7bdkm6vzDyQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Designing with people: Creating applications for reality &lt;a href="https://t.co/T7Iiqqa1J2" target="_blank" rel="noopener"&gt;https://t.co/T7Iiqqa1J2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;&lt;img src="https://cdn4.telesco.pe/file/KIs7rA-h7QCGfPgVfSAqL995tVDn1K4fx7pKukGYsmOjuegGenKj17phMkPsAEFJ2p0k9lpaZ1SXin5vX7gjRXj67YKosh781pJC3BZeswAle4aWYgRQAyzZmy_8wwN2B--qtM6B2kPCWBnlmx6BBW1VF_uVavDWUcSSBCffdu7tfzcRj253QPF4EJO8KTMC3OPStW2CGy26i47DxMtqGq0Qu8SDUke_3RJk5uIuYQ7yQ2K3yGzwn67XqDuIiYVrvA5RG7b6pmQJaisK3dsYHmUMKoTL7KTubMTyHstS2YFCpteMhnd2wq3jROOsQtqMesWYojjD9lVJmevflyRaRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;
 Designing with people: Creating applications for reality - Create with Swift&lt;/a&gt;&lt;br&gt;Understand the value of designing applications, including the communities they are for, in the process.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -239,17 +251,5 @@ Today, we are in &amp;quot;Pixel Perfect&amp;quot; mode. I’m pulling back the 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.2 RC 2 (23C54) &lt;a href="https://t.co/ceBz7mNTg8" target="_blank" rel="noopener"&gt;https://t.co/ceBz7mNTg8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ceBz7mNTg8"&gt;&lt;img src="https://cdn4.telesco.pe/file/E4Ur4L0JEiAPDW8wPxe6pYrh8Mx6DKKPrw3XxZqtUEfR8PXxHbMCoKZRd799kFjAQno8MfVTflTfgbCHyPHYoT1n5pIiyXbw8wyiiYFWX-QC7_XcnO_9L__TynjhMeZbzRqrZnQuco-5w1dw8dtP9g-ZgC9yw-S2UXlLlYzNbKUgBhp360DG-EVPYYQeMRpnRDI9xVmpNR6SaFm5yimaJqiVYOgc70QYf1Iif1f7FvljXJiRePUaan4CYEo-u8Fp_lF-eT5ESQ1cqimq_joxJuusf-eLmwfvcrnQlRjAOQiHkLGYevlueD90RZSCrN96KUU-kTp11qIuevTPq912tQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ceBz7mNTg8"&gt;
 iOS 26.2 RC 2 (23C54) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">New Requirements for Social Media Apps in Australia https://t.co/Tjy7WOfXfj</title>
-    <published>2025-12-08T18:02:54+00:00</published>
-    <updated>2025-12-08T18:02:54+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25465</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25465"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Requirements for Social Media Apps in Australia &lt;a href="https://t.co/Tjy7WOfXfj" target="_blank" rel="noopener"&gt;https://t.co/Tjy7WOfXfj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;&lt;img src="https://cdn4.telesco.pe/file/RKZcJbOcIfXqBdU7TS9K-bpFHFrB_XIVodK64E1PccHihdsPM7pOBlmj2tukhTsq_DoXrMej_XMHgVDtCwp5bt5YY8Ygw_f_RRDCRkD_c-FtKC1E8quXZiV6cPpExxEn4HKTSo8At1n_FnQ5f8BxOGwxEKjOT_3x2B_V2Yl869ntr_T3xk1rCx2nHttBAiJDlBB7rM2ybV_2bHb3v42ZepKLVrul2aPNpzCg2SPFmcGWFwKNhZf21Y8M4t3CeqS5m8xFsrwRh0601RpfRdW6I9cFNY0oH98SjdK5I3w3dGUEXBvizta7NzdiKO94Qq_MbbJo--1TXj9ZYUFgxxRS0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;
-New Requirements for Social Media Apps in Australia - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Beginning December 10, 2025, a new Australian law will require certain social media platforms operating in Australia to prevent people under 16 from having a social media account. Impacted developers are responsible for making sure they follow the requirements…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
