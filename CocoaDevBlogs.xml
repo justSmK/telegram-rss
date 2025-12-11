@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-11T05:18:19+00:00</updated>
+  <updated>2025-12-11T08:22:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">8 UX decisions that silently increase revenue https://t.co/32uLghc3fv</title>
+    <published>2025-12-11T06:42:33+00:00</published>
+    <updated>2025-12-11T06:42:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25484</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25484"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;8 UX decisions that silently increase revenue &lt;a href="https://t.co/32uLghc3fv" target="_blank" rel="noopener"&gt;https://t.co/32uLghc3fv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/32uLghc3fv"&gt;&lt;img src="https://cdn4.telesco.pe/file/RITqnwx3TyxCaWR1Xrf4YxAfQfBIpf8BY98rxjNSeFbM_f9ZYBOoDNNRUq-9Xftb33uSkKe1ihTC33kqo8B_FJNUGHqOvNhUrfY7CWFRPLrEqsDXeiK_FrcPrF5QmC_mXav_AaZ2kJQA8ZHAciFckvLSaPVBsgZ9HwXrQcI50-j0U3MNZDhVDzDxP90qNYVgvS0z1-byTp2jtHmh4P34ONr5i7KnQt1dk3uKgQj16ptA-MCJ6v84vV9SnQB1_yPAqaUwiKCYyQGnuUIIo8imOfz9AZL2fNNQvxKEpBr2p3u1JiaS1T_MJY0xYghbm1jM3qYSCQRdalwCRkUGSCUGUA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/32uLghc3fv"&gt;
+8 UX decisions that silently increase revenue - Medium&lt;/a&gt;&lt;br&gt;Most people assume revenue comes from big, dramatic ideas. New features. New funnels. New strategies with names that sound too good to be…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Interactive Snippets using SwiftUI | App Intents | #ios26 #apple #swiftui https://t.co/dOSW6ZSvXB</title>
     <published>2025-12-11T03:57:34+00:00</published>
@@ -239,17 +251,5 @@ iOS 26.2 RC 2 (23C54) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Requirements for Social Media Apps in Australia &lt;a href="https://t.co/Tjy7WOfXfj" target="_blank" rel="noopener"&gt;https://t.co/Tjy7WOfXfj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;&lt;img src="https://cdn4.telesco.pe/file/RKZcJbOcIfXqBdU7TS9K-bpFHFrB_XIVodK64E1PccHihdsPM7pOBlmj2tukhTsq_DoXrMej_XMHgVDtCwp5bt5YY8Ygw_f_RRDCRkD_c-FtKC1E8quXZiV6cPpExxEn4HKTSo8At1n_FnQ5f8BxOGwxEKjOT_3x2B_V2Yl869ntr_T3xk1rCx2nHttBAiJDlBB7rM2ybV_2bHb3v42ZepKLVrul2aPNpzCg2SPFmcGWFwKNhZf21Y8M4t3CeqS5m8xFsrwRh0601RpfRdW6I9cFNY0oH98SjdK5I3w3dGUEXBvizta7NzdiKO94Qq_MbbJo--1TXj9ZYUFgxxRS0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Tjy7WOfXfj"&gt;
 New Requirements for Social Media Apps in Australia - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Beginning December 10, 2025, a new Australian law will require certain social media platforms operating in Australia to prevent people under 16 from having a social media account. Impacted developers are responsible for making sure they follow the requirements…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Issue #143 - Engin Kurutepe https://t.co/XACLaa62Fg</title>
-    <published>2025-12-08T16:57:51+00:00</published>
-    <updated>2025-12-08T16:57:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25464</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25464"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Issue #143 - Engin Kurutepe &lt;a href="https://t.co/XACLaa62Fg" target="_blank" rel="noopener"&gt;https://t.co/XACLaa62Fg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XACLaa62Fg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XACLaa62Fg"&gt;
-Issue #143 - Engin Kurutepe - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featuring Engin Kurutepe.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
