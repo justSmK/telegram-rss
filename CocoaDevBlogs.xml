@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-12T18:34:19+00:00</updated>
+  <updated>2025-12-12T18:42:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -175,7 +175,7 @@ TestFlight 4.1 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to avoid retain cycles when working with tasks in Swift &lt;a href="https://t.co/OM9ds6L2Qe" target="_blank" rel="noopener"&gt;https://t.co/OM9ds6L2Qe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OM9ds6L2Qe"&gt;&lt;img src="https://cdn4.telesco.pe/file/a2mEI1ILdl851_RBQuDp6BA0tIC6ZGQ0-_uS209otEUZ02-FOJzDSTPtdzGLiuFqW1hSY2IWwXDuI_2TcpzA8FELK2o-RIDgaK0Rv-lCfPkleIqI-WvsaFpz3qdX_ohHusd-ipXyGFZRGKlNQRWe3HTZmqZfafK2lPIlZ5rBE4AeS5AUVyFjRBSwPKBWY1G52HHPvMX5XmcbAdwR6Sdjkwcae_P5uoHhdCazjw1COsVB8XQLJcfEsd0KBeOYjEhXX5uPFz3mUB7fZw8p3QeN2sIBIa7WD4MOX4awXQCMK_abzmNpWdOzmSc4LtlQHBOKkBkpHU_gxlGfIMAlia4n-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OM9ds6L2Qe"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to avoid retain cycles when working with tasks in Swift &lt;a href="https://t.co/OM9ds6L2Qe" target="_blank" rel="noopener"&gt;https://t.co/OM9ds6L2Qe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OM9ds6L2Qe"&gt;&lt;img src="https://cdn4.telesco.pe/file/B1aCsfFSN9pmuKPMhLRzhO8nmPY0G9T2xBkSZH3tviHHhjZ3rJGe78WIex42x5qfDrhQsF4nqHmagLldviuJUvVSijVNZE4-2qI304sIe5gBvdgQljJQBdYjgSlo91m8ouUQyOpoaG9l4NJE-OO_dfNF4Prg_5B8u2HdIiMs1qcZRjAWkrVPG1yo_My6YxGGnrI74d08uW_ZSoVwiTRENrKVZO51eL8s_-VBiKuVkBX6wxFa3kmHbVHAsg39YbWQiSfbzcQ7GG4Vz-VML2pDrBZp_5BLVMR6dzq8Gio6cKB-wBzxRfmNumbteCTY_KDQnbamooqgRmLQ7kL3zBGVgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OM9ds6L2Qe"&gt;
 How to avoid retain cycles when working with tasks in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how tasks capture values in Swift’s concurrency system, where retain cycles can form, and how to use weak references effectively in async code.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
