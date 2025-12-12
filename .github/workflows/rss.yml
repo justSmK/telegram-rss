@@ -29,6 +29,9 @@ jobs:
           : > out/_errors.log
 
           while read CHANNEL; do
+            CHANNEL="${CHANNEL//$'\r'/}"
+            CHANNEL="$(echo "$CHANNEL" | xargs)"
+          
             # пропускаем пустые строки и комментарии
             [[ -z "$CHANNEL" || "$CHANNEL" =~ ^# ]] && continue
 
