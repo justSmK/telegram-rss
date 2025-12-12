@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-12T11:15:10+00:00</updated>
+  <updated>2025-12-12T14:15:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Understanding scenes for your macOS app https://t.co/AFKMgKESQd</title>
+    <published>2025-12-12T14:02:45+00:00</published>
+    <updated>2025-12-12T14:02:45+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25490</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25490"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding scenes for your macOS app &lt;a href="https://t.co/AFKMgKESQd" target="_blank" rel="noopener"&gt;https://t.co/AFKMgKESQd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;&lt;img src="https://cdn4.telesco.pe/file/ghP8LPKpXqEDxLo9-ay3gCBn4VQzF8a9DGBPkrGIV-R_F76Gje8CCu7LyfHlG6KWYDmYbu8mguDbCQb6XiT-tn4BOHtg1SPUzDqT5SM4dSHaGx0xvJdF-iPMS3IcYxJqI2i4IhtaYFpZiB-T3mZvdIXGXI6WvkU_nRVU0b3cVWQzYqUj6bWFmWOwqPqexiiz0Hb4PBPIk57xv7YMVAdTK7rRiA0UGRS6_Q0Vqw8uUtkBU1h5WaULBxzWwNkx1iexFLjNcVrtyBKsCzQ0y6jV4BT498dfJrpVDZ2wUVjxwTN7JBapxUSCSJdfql1tr5u-SaMQ3-4SUh6Wrz4mO8e1-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;
+Understanding scenes for your macOS app - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to manage scenes and windows within a SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI Responsive Design: Adaptive Layouts for iPhone, iPad &amp;amp; Mac — Complete Guide 2025...</title>
     <published>2025-12-12T06:52:27+00:00</published>
@@ -67,7 +79,7 @@ Swift Configuration 1.0 released - Swift.org&lt;/a&gt;&lt;br&gt;Every applicatio
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The power of ethics in mobile design &lt;a href="https://t.co/RPLNFFGkjo" target="_blank" rel="noopener"&gt;https://t.co/RPLNFFGkjo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;&lt;img src="https://cdn4.telesco.pe/file/d0bjKdO_iOf-_4l_WHj9qAiusq2jPBl35RwIi-tTkwqnQ8M-MYIJUcx8nNeq8qfadfUVLnYsW0N1JoiGiIDVmNr2pOsnKIFaJPmH3sSHT_Y982PVb2qCrjkCfaORP-UBTUSgaZv0vL8nYRudIAQlOd0Ldu2HFC4Wa8Z3SQrzWeKuiR32lwhAip-vj0f1iM2A0_vxisczK5nOp2zFWQp58pN2--HKqXLK2DtmDSn8MNKIwfG1JLy6AYKyTbVm0Vm_OAzL-oxOioM9_Hnkd48lf6986TTQxbhkMDjxuA3kvvExVgR_EkgLJUtShLFZkm5pEbkpKHPWqA9nvCrPhHtvAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The power of ethics in mobile design &lt;a href="https://t.co/RPLNFFGkjo" target="_blank" rel="noopener"&gt;https://t.co/RPLNFFGkjo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;&lt;img src="https://cdn4.telesco.pe/file/YDE4jzrzAAwlYbIhEySs7Ml4WWXw_i81-OowJBJTba_h2ayGtvn22NakDwTT_73Zo3v5n5kRspVMAYeiVLyAWvXx2NCWdhV12E4zHmUgX8xeYOgmBYxff-e85_MS7y2ResLoqFtVirPPn_LdztqNQYV5Zn6EFOmhB-79oKcFNCoSW-Uw6kxv4p9OOrL2sb1c6jCSChbCnZQh7UvSNSF3orOY2u-W7MPmaQleuxrPCDZIujMDTMUyxqggAtsw1QzYqtD8NP7wLrwnAPE6KUUtnBNT6_Vl_gW9h0qeOKQ71cW6752FQ1cz_3P493aqdyc3CKteoae5OzGinXt4IBKb2Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RPLNFFGkjo"&gt;
 The power of ethics in mobile design - Create with Swift&lt;/a&gt;&lt;br&gt;Mobile design is intimate. They are tools people hold in their hands and check hundreds of times a day. That’s why mobile developers hold a quiet kind of power: we don’t just make interfaces, we shape behavior, expectations, and trust –whether we mean to…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -222,7 +234,7 @@ Ancient Secrets of the Objective-C Runtime - Jacobstechtavern&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Designing with people: Creating applications for reality &lt;a href="https://t.co/T7Iiqqa1J2" target="_blank" rel="noopener"&gt;https://t.co/T7Iiqqa1J2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;&lt;img src="https://cdn4.telesco.pe/file/KIs7rA-h7QCGfPgVfSAqL995tVDn1K4fx7pKukGYsmOjuegGenKj17phMkPsAEFJ2p0k9lpaZ1SXin5vX7gjRXj67YKosh781pJC3BZeswAle4aWYgRQAyzZmy_8wwN2B--qtM6B2kPCWBnlmx6BBW1VF_uVavDWUcSSBCffdu7tfzcRj253QPF4EJO8KTMC3OPStW2CGy26i47DxMtqGq0Qu8SDUke_3RJk5uIuYQ7yQ2K3yGzwn67XqDuIiYVrvA5RG7b6pmQJaisK3dsYHmUMKoTL7KTubMTyHstS2YFCpteMhnd2wq3jROOsQtqMesWYojjD9lVJmevflyRaRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Designing with people: Creating applications for reality &lt;a href="https://t.co/T7Iiqqa1J2" target="_blank" rel="noopener"&gt;https://t.co/T7Iiqqa1J2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;&lt;img src="https://cdn4.telesco.pe/file/otFMFDbj3nsBIIZTnTW4HG6m63rASZxrJnALfuhQSklRMxvsfDn9UfkRCgVwUYQr-WlzwTbeZCWTkRQyoU3HDxsv4BjzNpmxXqi5_3NDd01hmMmIM8zJyCsF8HLJlWp32l3NRk7X30J8_0BNPkbEAR_dJoObXVynrlcjHVDasK2aEDrvYXRJbxYIs7XcA6coaPPFzMQhcT_WFAKDn1vJuuZ-Kdh15Egs-DlDkFKvWwDHIEIIGNOBYsujhSSG2oJeaDXLjzvNg4dj-Dw5FeboWS3i3cNxPfxjudM0VqunCYvhVxfGe873GsX-tk7yXbt2JdphePTb_Fs3aAjECERlSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T7Iiqqa1J2"&gt;
 Designing with people: Creating applications for reality - Create with Swift&lt;/a&gt;&lt;br&gt;Understand the value of designing applications, including the communities they are for, in the process.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -236,17 +248,5 @@ Designing with people: Creating applications for reality - Create with Swift&lt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Add an inner shadow to a symbol image in SwiftUI &lt;a href="https://t.co/jeFzS3lzc3" target="_blank" rel="noopener"&gt;https://t.co/jeFzS3lzc3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;&lt;img src="https://cdn4.telesco.pe/file/JBYRp03dsjL0ZN-7UFep0uYHoxFxtyx_RUVOY6sA5SKjoN0J90Sm-q3aMJLyKuTR4osavYoxRb9gGM6Hag-_dYkTK_wVK5fiL1WeK7tFA-W3MIy-C1NsrU-J2DeKbzjT-TMfEOphP-BtAV3MCg_PHxHynta6VqrqN5IMJxhIei4_w4gmkLE5f_c0hfMl43WrPUeix6wx8I_wP-Y0B-mys6XpjVb4E6OA5VwDvx4hb15cyQEyJ1dYVrqAWxsFWp7dxWRP5n_B-stwtqiBAYa-l7cNqHsBtKDi0fLj_pifsAT__cHYQPg2OSJXp_OzOm-CGtH7feVGsW6CnVB_GWKi8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jeFzS3lzc3"&gt;
 Add an inner shadow to a symbol image in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Create a cut out icon effect in SwiftUI by applying a foreground style with an inner shadow to an SF Symbol image.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : sunnyyoung/WeChatTweak https://t.co/iGgfOhfWpR</title>
-    <published>2025-12-09T02:07:40+00:00</published>
-    <updated>2025-12-09T02:07:40+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25470</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25470"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sunnyyoung/WeChatTweak &lt;a href="https://t.co/iGgfOhfWpR" target="_blank" rel="noopener"&gt;https://t.co/iGgfOhfWpR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;&lt;img src="https://cdn4.telesco.pe/file/SqvVF7M6j4FmEWyPUVq258kpGU_2KX2krdwuwcjv7sqY4hak1UKLLIhTcATUkQMBtV8kbAdOmcO1ga0O0ZbL4g6E0JhGYe6Uv4Cr86z-4WSHku9GECodyO1QruGJhlUc7WkLmbY7usnwu-ZirUsefZjghDricf7XL9z10Qqqst54ONWWW5vbWTaXI7FMlpP6_WRhTky6yRMjNbMZCAEG19JoEE1S3fl4ORV1FcWG6eOtgSAbtwxLfavOy3UpfdMdZmKvkATcytV9NU-cXszRJSS9bvaoCeuazn-6v3_VX4PpfLzFJkXZVBvexDCPx-mB0bc1qu6kviL7-8poWP1Azw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;
-GitHub - sunnyyoung/WeChatTweak: A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - GitHub&lt;/a&gt;&lt;br&gt;A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 - sunnyyoung/WeChatTweak&lt;/blockquote&gt;</content>
   </entry>
 </feed>
