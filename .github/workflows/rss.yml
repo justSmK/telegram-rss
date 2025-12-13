@@ -7,6 +7,10 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: telegram-rss
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,8 +24,26 @@ jobs:
 
       - name: Start RSS-Bridge container
         run: |
+          docker rm -f rss-bridge || true
           docker run -d --name rss-bridge -p 8080:80 rssbridge/rss-bridge
-          sleep 15
+
+          READY=false
+          for i in {1..20}; do
+            if curl -sf http://localhost:8080/ > /dev/null; then
+              READY=true
+              echo "RSS-Bridge is ready"
+              break
+            fi
+            echo "Waiting for RSS-Bridge... (${i}/20)"
+            sleep 1
+          done
+
+          if [ "$READY" != "true" ]; then
+            echo "RSS-Bridge failed to start"
+            docker ps -a
+            docker logs rss-bridge || true
+            exit 1
+          fi
 
       - name: Generate feeds from Telegram channels
         run: |
