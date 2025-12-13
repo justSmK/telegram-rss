@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2025-12-13T17:13:44+00:00</updated>
+  <updated>2025-12-13T21:04:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -30,10 +30,10 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/arnoetalee/3006" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/lBM0VPwBXNGvtI6u8aU7xxH_ANDzoQdWu3Nw2wuOB29lNJ9FHuOsFN7sH8aDArBYmiOr0Kyu9CY4vE6NkhR77E0_BYGZG1GDMrf8CfVlbqz5arRIVmW2U51e4WRQs_As2Gj19yxxJf4e1oShGAEv5eSI86zpge49wDxdPKeo7z28JyLJAP5NhoCrqDbuRrHI20f9Uz4tpy3XRn6y1RLU2cL-Y6ZA-zNCdgcqg3y__5n6W7IhXz_oDBSyYrZVHY-dOyphqkfo0z5tmR9xfdh-1lm626OJ5xZhf2DLtGOS4WGrumE1a_NTrlJJSsaOVn2UNDJ3WJ7aeh_haYRt2y8rjw" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/72a7624806.mp4?token=rg2MXsN3eSpM7Ei68Vfg8kGDUCazhbX7qYgnVb8apu9vChpPNeOQkIwvLQK_iG5ory4LdA47IYLt0TWkIBehKxLj8oIiW9Hpk42-u2HSNNIZMYyDWmtxY20i14CW1IiR-pBDwoXiGo1ZIi_XdCjLre--b8LajMwg82az47y8b6M6eVSUYPr3mbjqDTrE6CU2b8p7cpXtCCbEsA2iMEESpCex3GgvZY8hT3YwF8xzrODDPm4z1GINau2bz144Q8MqDppRyFeZuZ2u5lXfJo_FSm4Epg2Ta7Ts2g5TlA07qOR_IyKrKbgEPwF4cNYU6TwrOl-1XSn2t3RdZveX72NqsA" type="video/mp4"&gt;
+    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/arnoetalee/3006" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/A-IoFsGJ7f-NtH-p7vuY8nhZ76FtZpOsOBnCu4DNy9NplQJXaXJAt4bUnZsxBU-OA1IXX1VSQ8mA3zHA9ZwjoCA07T9ayjOCYZFxSJRrTJXTSLJONh3ruxY4YQlemY64jubQdw5jJqnyK0NBWxe30ze3aZLJl4KaSc6vm6-4ZHoFk-xokKVxP9vMo_40n5b_nApAItVpbrj6s1mPiy55Sm5AoyVx1otgxhgFBabvwtcO_yR1gnnBrsAcu-ZYauCMVihlAbZJKF2lwoPwiWfVn9hKthIRN4uAG9BhIqJYZj-fqVnpjafkSL1iPfMHOTtL9I1Vv780Dw0tDj1MS1f6dQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/72a7624806.mp4?token=NhAbgYe748a-TJ2-4w23T4bND4dFXd_JM4iJa89Ie47D0f4Bas8uDYL71DfvwaBChMbRwfP6TGuK-iSIgv4Sp74lNBRMcbO1TrsSexEGWj2KF3bVNYZg_dNHOKG0IGRgfYgf8ZupqGf8SieHVrxlhVS_4p566Z8D9lVdUD69oY0Z3eaPysIgxY29sy1_yCPlR0hM8NSDAL1c-6YRQn8NfcmC9_r5NiI6es0NUYVrhUT1J8y5XZ8qh9v_pVT1wlr2gZiy7dMz0Ps7eCfPNvfuKZegHt9RMO2Xr1z0z_y-9au-hOkGCxS6snm5jzt7hBSTvyEW5CWNh2UhAaJ-1MlgeA" type="video/mp4"&gt;
 &lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/lBM0VPwBXNGvtI6u8aU7xxH_ANDzoQdWu3Nw2wuOB29lNJ9FHuOsFN7sH8aDArBYmiOr0Kyu9CY4vE6NkhR77E0_BYGZG1GDMrf8CfVlbqz5arRIVmW2U51e4WRQs_As2Gj19yxxJf4e1oShGAEv5eSI86zpge49wDxdPKeo7z28JyLJAP5NhoCrqDbuRrHI20f9Uz4tpy3XRn6y1RLU2cL-Y6ZA-zNCdgcqg3y__5n6W7IhXz_oDBSyYrZVHY-dOyphqkfo0z5tmR9xfdh-1lm626OJ5xZhf2DLtGOS4WGrumE1a_NTrlJJSsaOVn2UNDJ3WJ7aeh_haYRt2y8rjw"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/A-IoFsGJ7f-NtH-p7vuY8nhZ76FtZpOsOBnCu4DNy9NplQJXaXJAt4bUnZsxBU-OA1IXX1VSQ8mA3zHA9ZwjoCA07T9ayjOCYZFxSJRrTJXTSLJONh3ruxY4YQlemY64jubQdw5jJqnyK0NBWxe30ze3aZLJl4KaSc6vm6-4ZHoFk-xokKVxP9vMo_40n5b_nApAItVpbrj6s1mPiy55Sm5AoyVx1otgxhgFBabvwtcO_yR1gnnBrsAcu-ZYauCMVihlAbZJKF2lwoPwiWfVn9hKthIRN4uAG9BhIqJYZj-fqVnpjafkSL1iPfMHOTtL9I1Vv780Dw0tDj1MS1f6dQ"/>
   </entry>
   <entry>
     <title type="html">У вас есть на примете какой-нибудь деятель из СССР,...</title>
@@ -89,7 +89,7 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3001"&gt;&lt;img src="https://cdn4.telesco.pe/file/kQkDDasII9ihb_tXOInFaVU4CAfSjkuBpEav0s5OtXLkEboQBIQRzIUppe3aBK0TqRKKCwI7sSISELOfdh2Lhly1XT-3b8GBYqXxCE6SKal2a-zeJ1WBdbWtcCa9PmIYLS9sZCgunqryty_1fhwxK9WFN88sfXmEMmjn0eBjYK1Xf_6v381z5q7YK2ND5h26YheRPTqlwtDkAoqg7wSYKh-QaZrIBJ3FaJW6qP8FnRmgEOYMqdUq79O7fFL3UxLqnGIW6iPIZxEC_wOjRFlINWdKjCk8oPND4-DHhwoITiIhato6EXIe4ounZ_NcmTvkmT0itoC1CX34styALdjrdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Я пару раз заикнулся, что мне пора покупать бабко-тележку для магазинов - и мне подарили её на ДР&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/arnoetalee/3001"&gt;&lt;img src="https://cdn4.telesco.pe/file/ENdkwlCUuBHjTj_UcfOBTFw0UyV8mbuQTRmknfkpI3xC1HJjqKD0vm_P-XquCCbHuEV6a2mv7U8T0ge7OgL1kesUetm7wZXTWLXSBuWHlRhJGe_B32_Ewe8wCD-7DgpR6IvZ_vSNi2y8byeI7WGifI7wDpEoOSNZhunx3My08o8xoKdkCI8WW8IVK-4QbyR9c0IyyyVXm7qHQ_xaE3BDjOV3kxnMtgaD2_wXiLtgRGg6nOlhz2RGBTrA0VLlphzPZaYvqY9H662APG5mK0gsl4Z7aCSmjnAivA_8MPM52mtpGr3otax8q3nF6159hKhfQKBck2Hr6VjVN6aAR1gLEA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Я пару раз заикнулся, что мне пора покупать бабко-тележку для магазинов - и мне подарили её на ДР&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Дьявольский ветер, а.к.а. казнь из пушки. Выглядит...</title>
@@ -144,7 +144,7 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/2994"&gt;&lt;img src="https://cdn4.telesco.pe/file/LeU_9_8uQ0H91uOfLSY63aM-7QLMMa8SYaJCDu3IxPfxa10b9xtIXeMH4SeYqfXiHGMAJR_xY0jxCF6ciYic3dgWAMMu_LQtQsSsuPFYdeVQ3JynrnVoigbBnmwF-wD8j06rXQEGQ47kfi5mUNKFEEy3X1DX_kdav-JvFpg23dhAhvLpkssEZ-chWvU3534TV2TYqPMLnkWSNu9aVzIeGSGLlqbYI_bFecKr_1y-3BhDWTE8_FlPEY6iQOmaSKK41d-SILhN38bvOkG3Mzl-lJce7pQyfpuWrC85YKgc4PjgBuAlDCZa3TcxqH-2BtgrYlcoTAfFjkPgDJv3cPEpDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не в курсе, кто отвечает за раскладку колец в магазине Самсунг, но либо он просто остроумный хрен, либо сныкал где-то ещё 8&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/arnoetalee/2994"&gt;&lt;img src="https://cdn4.telesco.pe/file/YASlmRTxoRAKlE_LCLeS0P2Mi9l9yx0TgTKhx5IBLXKfCQ3V86mil8PY6YhloqZdE9CCz3D62TFKvsdSvtPl00852YTMgscOs5wFwDNzbNy3L_J9dwyZwkaXZQqLw1Kedyaj8F5YDTNYqXLvzvflLqAk7bQU556DmkPztn7dM4HNb3oLf1wTSFB5pW8dylLZEDq0GroWxSF-j2i0avkODs-qZVa-1j0FyBTss6rNlrs6tRqZI7Q7B2x8qXRf7RjTVkZQlt6vyIOfb8en4naOkb64XtJTDu4Yz0E6uA6AU-4VYLp2czGok514pIeXE8T3uAcOD3YsrG8L6m_7n8M6mQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не в курсе, кто отвечает за раскладку колец в магазине Самсунг, но либо он просто остроумный хрен, либо сныкал где-то ещё 8&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html"></title>
