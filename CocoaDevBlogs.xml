@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-13T11:11:49+00:00</updated>
+  <updated>2025-12-13T14:13:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -199,7 +199,7 @@ watchOS 26.2 (23S303) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vi
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding scenes for your macOS app &lt;a href="https://t.co/AFKMgKESQd" target="_blank" rel="noopener"&gt;https://t.co/AFKMgKESQd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;&lt;img src="https://cdn4.telesco.pe/file/ghP8LPKpXqEDxLo9-ay3gCBn4VQzF8a9DGBPkrGIV-R_F76Gje8CCu7LyfHlG6KWYDmYbu8mguDbCQb6XiT-tn4BOHtg1SPUzDqT5SM4dSHaGx0xvJdF-iPMS3IcYxJqI2i4IhtaYFpZiB-T3mZvdIXGXI6WvkU_nRVU0b3cVWQzYqUj6bWFmWOwqPqexiiz0Hb4PBPIk57xv7YMVAdTK7rRiA0UGRS6_Q0Vqw8uUtkBU1h5WaULBxzWwNkx1iexFLjNcVrtyBKsCzQ0y6jV4BT498dfJrpVDZ2wUVjxwTN7JBapxUSCSJdfql1tr5u-SaMQ3-4SUh6Wrz4mO8e1-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding scenes for your macOS app &lt;a href="https://t.co/AFKMgKESQd" target="_blank" rel="noopener"&gt;https://t.co/AFKMgKESQd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;&lt;img src="https://cdn4.telesco.pe/file/sRMaerTUkeEf84TbFO8e3M65YyXwpJFb6UawZ8FtTx4RS42ypNTVztZygy8vzysPhsusJ4UFqTCsJvfDzU06pOkvRMS6L88SbcmQCvxv-gimwMZVL0F_PXDHf4lBvnv2xbQ844rwARE8Ml5vVv09E-wPN7IL5s8kN48aGO2FssiocHo2Wtu56QcbPepHa0ZOXg8XUtgNy4zcUVHkGT7-G4WORUucAZTWs4jZIQojwx6hCTfn-ZBtvecMAjSaMeNjTkmK-eBtybgxE2I2vXR0wEsJkX84x4PEYnSDNEA5w1BDy7jY7PAyWu6w1zyB9iBb5KqLZlUprIUeZqlclc8pzA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AFKMgKESQd"&gt;
 Understanding scenes for your macOS app - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to manage scenes and windows within a SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
