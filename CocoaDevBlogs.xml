@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-13T21:21:51+00:00</updated>
+  <updated>2025-12-13T22:24:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -247,7 +247,7 @@ GitHub - realm/SwiftLint: A tool to enforce Swift style and conventions. - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift Configuration 1.0 released &lt;a href="https://t.co/ahSn2h8Kfr" target="_blank" rel="noopener"&gt;https://t.co/ahSn2h8Kfr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ahSn2h8Kfr"&gt;&lt;img src="https://cdn4.telesco.pe/file/K74ctSXHlNdFCpQxEOwB9bJQHV9ZF_aYcQlB-PNdaC-HO_EH0Cvyps64hlZEWClFyg6DPk5PhSQoyP6C684HqjgMLAoGNB7IXBIUij60rfj92VSSnrWAPHJ6MbCD3pQGvSdlh4Vj9nUVByXV9McDls16UJfh1mt6BDR_utty-deNknQ28MWEVqhuGYct4TjPlTboQupgA9QXpkMgQARVnXU1M18HEaHS40JvUqWE3kEH4h00O_zFEDYo2Rh4SvvgtXsOcd5Jv8r8gE4UDMMhEh3ci9B0807CagotspmQvip3ft7_7gdbzvHJZCRHUBEPlKcMRdOXFDUystsLA_iW7Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ahSn2h8Kfr"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift Configuration 1.0 released &lt;a href="https://t.co/ahSn2h8Kfr" target="_blank" rel="noopener"&gt;https://t.co/ahSn2h8Kfr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ahSn2h8Kfr"&gt;&lt;img src="https://cdn4.telesco.pe/file/APCKPx90st3svups5HVZybV_4-nLDROeaJD0QjoIVM-zpkz5WKEjIah-dyVmzlw8VEcgHYHgYHrnKoeGbvcUIpOcU5fG6Mnxuc4TnyRcYVqdLxExIir_7raXfY6TBQkKKpqXfETA-ei5cElIgnQbXpTb-TprIqXBrWV2LxUqjw2VZsg4tzEzpceNEbR1R35ryiasiOJIo7ZU8CiRk5dlxbpqZ3wFpr-TBzhPcgRYZjgrYSVNB_dDP4ZJ3ICLFiFGXWqDsAwDBI26vAsBaBQWVudFS_RMQVAnq3DsqYuPWWC1qbxAU-2iRGSo1IjYGAstY8NN_ihq_i-wocJJB-Lxnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ahSn2h8Kfr"&gt;
 Swift Configuration 1.0 released - Swift.org&lt;/a&gt;&lt;br&gt;Every application has configuration: in environment variables, configuration files, values from remote services, command-line flags, or repositories for stored secrets like API keys. But until now, Swift developers have had to wire up each source individually…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
