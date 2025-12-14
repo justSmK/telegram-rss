@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-14T18:35:27+00:00</updated>
+  <updated>2025-12-14T19:20:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -134,7 +134,7 @@
     <author>
       <name>Swift Tips</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swift_tips/804"&gt;&lt;img src="https://cdn4.telesco.pe/file/dXv9kYb-KcJOYR0evQpLnsAedjVXWKV8X0oY0ItnBpc-_Yn_duFxV6_Yc_84TWTsCw8bvsQVxJ7qDsRZA8NmuIOiwLTOtioZ5usR0LguXBGxjvqXm3Ei_APiMTBa7GWYTck-kbjqkhdJraq2gtUjKzQUd_ceWfO5XWxSXGRrQjAwlwbAsexzFJBuR1_k8u7MHR6Pu-tqlNTKwvTDWrPqGsvh6Ak_WX2oi1gCEuTlGD4IHOkcSws4GXzU5myhEoVCx55tF9T7TtXSrwPYhC5XKwOPGm8jetVPPOAITVZCp0AdTkICaiqd8cRJZbIuKJEDkTqIegRuu-1I_CxFBTzXpg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Компьютерное зрение + ARKit = AR-навигация внутри зданий&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Крутой материал – ребята из 2ГИС запилили реалтайм навигацию внутри зданий, с помощью AR через камеру.&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; рассказывают, как подошли к задаче с точки зрения компьютерного зрения, какие грабли собрали, как ускоряли локализацию и как боролись с погрешностями ARKit.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swift_tips/804"&gt;&lt;img src="https://cdn4.telesco.pe/file/phyMvfvd3Qxl0AZ3DKAnUUAx_WuLrw4nSrWX_HzoZMnymNchD7xpll7B4tOAEibA9FHdlhV8UqYxLNnYe0XafqY1HKnMgzH8C-2ZsrjGSHyBwHFGDiAY6oqPlkHIJoSu7Nl4uT76EM5DxchMmHwoXtFWUXW7X6kNlhUk1nBqL5Yaa4ilmjfmDO5SRzU-h0f8-jXSuJIbkFw_9VGFa1NbuHIi4x-DA-ELDCkoiqQnwgKQLrvYZFmenQ7_tXNRIAtHPSLkinbdQeQbqhlmRHfHedO8AsjL05x8u3IqKG28XNvOn702xgof_YOs4adsHVPXKsB-eLzPkJ_gqkWUcDdzyg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Компьютерное зрение + ARKit = AR-навигация внутри зданий&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Крутой материал – ребята из 2ГИС запилили реалтайм навигацию внутри зданий, с помощью AR через камеру.&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; рассказывают, как подошли к задаче с точки зрения компьютерного зрения, какие грабли собрали, как ускоряли локализацию и как боролись с погрешностями ARKit.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Как Swift Runtime влияет на производительность...</title>
