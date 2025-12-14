@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-14T15:24:54+00:00</updated>
+  <updated>2025-12-14T16:30:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Style Toolbar Scroll Effect | Toolbar Header Scroll Effect | SwiftUI...</title>
+    <published>2025-12-14T15:37:17+00:00</published>
+    <updated>2025-12-14T15:37:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25513</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25513"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Style Toolbar Scroll Effect | Toolbar Header Scroll Effect | SwiftUI &lt;a href="https://t.co/gp2YK3mAzR" target="_blank" rel="noopener"&gt;https://t.co/gp2YK3mAzR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gp2YK3mAzR"&gt;&lt;img src="https://cdn4.telesco.pe/file/l2AXkig4Y2stcJA5nG7w4b28G3H1be7N5_NcHtX12gzmFP5LYBna-j4dTb5Q6_tdzFeAdafadi_c-ErfyzAYlY6SCjLMcCUyiMLb5xU_DiR9y8k8jGWu9LDUydPbZfkS3xEmVG0ONRIxRsBTRTOjyfaxMvuel9uf4hQbCfD33ZdPqvmeLmjXXrMY3TvO6_i_dx4KPznxDwkpCsoJnS-9MYQO79q5rjd_iVm1qUtG6ubRjFkNURxaL2F2A04zvTOo-pw2dK7REzNb0M3Edrsmwlh0LiuxPx5OUCkD6XJcI2KkrZ6VCPaT--eUTfamj6cjK5kVY7MNgud-7gnaCDzm0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gp2YK3mAzR"&gt;
+App Store Style Toolbar Scroll Effect | Toolbar Header Scroll Effect | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll demonstrate how to recreate the App Store Style ToolBar Scroll Effect With Native SwiftUI APIs.&#13;
+SwiftUI Header Scroll Effect | SwiftUI Toolbar Header Scroll Effect | SwiftUI Toolbar Animations | SwiftUI Scroll Animations…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : tonymillion/Reachability https://t.co/7ungCdj4MO</title>
     <published>2025-12-14T02:07:44+00:00</published>
@@ -237,17 +251,5 @@ macOS 26.2 (25C56) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.2 (23K54) &lt;a href="https://t.co/zlviLZASgG" target="_blank" rel="noopener"&gt;https://t.co/zlviLZASgG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zlviLZASgG"&gt;&lt;img src="https://cdn4.telesco.pe/file/HTH2KDvhoksblleyfd1-4YH-MPIdXsd6BP-DkkbQaJn2rDHp-bxvZnUzJY87pegYEUqaLkA_CfSK2B9znMVAiRYaQhbU3MPucP02_OiYS75VPIyFlMIVq8dlklLanMNR9Q1x4ZlfJarqgRIyLtV10Li0G2_4ugP6vvIJ79jLgS15YghgzOQgsPDCJPcRY24LslPNuTNvj9ApD_NGWJJwIEtYsO33Nrr7K_r6fRvqBAgrAc1a58E_KTTVbBL-S8LDvGkspBplyExo8ApabUhI0-KQxJjR0LF8eDSRkME5TMabVgacsvmd0nBZ2cnCWf9QNG4S6nfNhcAv7osZpG3FHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zlviLZASgG"&gt;
 tvOS 26.2 (23K54) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">visionOS 26.2 (23N301) https://t.co/cLBmwbgU2m</title>
-    <published>2025-12-12T18:42:21+00:00</published>
-    <updated>2025-12-12T18:42:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25492</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25492"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.2 (23N301) &lt;a href="https://t.co/cLBmwbgU2m" target="_blank" rel="noopener"&gt;https://t.co/cLBmwbgU2m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cLBmwbgU2m"&gt;&lt;img src="https://cdn4.telesco.pe/file/WMPJPxnQywfLMCI-7Ra3qgRDJ6UP8BEJoMfpdHaIEUlottv6S1f4aQyU1GOZ-SbEJIxD9l-29LxRDQoEG9I80AzTU0B5vf5yMkO1BRVq2dPmxtCwvd2TtIKsT3ng029iV5xPnXL3EQhY_R1wadn9qRkscSa1pvCdB9Tvzgu_tCC1FBWnP-h61k5g03TYDr9Kk4FTe3TIUYuRVw5NnDX0_I3mik6VfKPFzL3qfJmfefaZjHTrtFEPYXUr0ziBDfmVP7eTSVWGX69_46Sxvez-1smYG2Y7zIbkf9rZO0Yc54vZO5n_EdGQGjEI_a0Z4O7yg14LrzxRllEUcJF7XU8vtA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cLBmwbgU2m"&gt;
-visionOS 26.2 (23N301) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
