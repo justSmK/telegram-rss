@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-15T14:32:06+00:00</updated>
+  <updated>2025-12-15T15:31:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -42,8 +42,7 @@ Visual debugging with Swift Charts - Dimi Chakarov&lt;/a&gt;&lt;br&gt;When you a
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите большой плейлист с недавней конференции Swift server side. Очень много материала на разные темы&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt" target="_blank" rel="noopener"&gt;https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt"&gt;
-2025 - YouTube&lt;/a&gt;&lt;br&gt;Videos from ServerSide.swift 1st-3rd October 2025&lt;/blockquote&gt;</content>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите большой плейлист с недавней конференции Swift server side. Очень много материала на разные темы&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt" target="_blank" rel="noopener"&gt;https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Что нас ожидает в Swift 6.3?&#13;
