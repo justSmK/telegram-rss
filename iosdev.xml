@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2025-12-15T08:39:55+00:00</updated>
+  <updated>2025-12-15T09:38:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Animation Playground - интерактивное приложение для...</title>
+    <published>2025-12-15T09:23:42+00:00</published>
+    <updated>2025-12-15T09:23:42+00:00</updated>
+    <id>https://t.me/iosdev/1815</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1815"/>
+    <author>
+      <name>iOS Dev</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/b7GfYDwQwmwFNBPY0EVmTZpMwIVadwNb0mesYjNy_L2DHmhJpW3MrhjuKPCmKP490GilF3Eb9h2wv77Gmfpz8yHQ6Dy8Q869g05ISA9d0ELSlK923FV0QhaQxVDMwEIGZuRf2VHW08SkhTdCMFsama-EufPHVkFV43FOVxq1jJO_tD79BUlaVedNF5mp76fTMzZzGmJTCjF1sOzGVyhzp1pV7-rtRxIjtdrYPoqwzUZLmF1aQuTWfwC_H1nPB2L5-uGvSP16mkNzCq3_y_l0qS9tGaiJ86cMAaETjYJRsRGNVeapv-rFeFhSgKu4f6IWE5uL_6WNHuVeDqVwFuf8tg" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/f81afcf2f5.mp4?token=jLee4aK336XPtVoQ4jXznefq0gVLye_w0niPboQrX2B3yxmZxuggWqkmoKwhU5XwhBQ0QGcIwrwPMf66JnoENT-7vU9_yv8JSq626J9yxY-85hgkKPPXh_jogY-YercLBk2pt1aUUMdPKWOwH99iun8PQLcCvkCHWbHERZf8V84ZeZaZTxqqJhyf4tls7_pgh6BfWpOkJ-hf5QsW9rvfuARRmIOLq80b88MTjtclSkd6SOaQW-JlPldjPxOEi8_TOe9_ziOWXEHnDHeiWlLWawURTpBtUlwe7DKnYn5CZMj-ycEAvGgXGY_FQElnbERKZx_-E0kTHlezq9mlVpdp1Q" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI Animation Playground - интерактивное приложение для изучения анимаций&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Нашёл ещё один любопытный опенсорс-проект для того, чтобы снизить путаницу при работе с различными типами анимаций.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;Можно посмотреть сразу 9 типов анимаций: &lt;/b&gt;.spring, .smooth, .snappy, .bouncy, .easeIn, .easeOut, .easeInOut, .linear и .interpolatingSpring. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Есть и опции по настройке: &lt;/b&gt; duration, bounce, stiffness, damping и другие.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Затестить можно на разных типах фигур (или добавить свои, все же это опенсорс).&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')"&gt;&lt;b&gt;🛠&lt;/b&gt;&lt;/i&gt; А здесь &lt;a href="https://github.com/josejacas/SwiftAnimPlayground" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылка на github-репозиторий&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/b7GfYDwQwmwFNBPY0EVmTZpMwIVadwNb0mesYjNy_L2DHmhJpW3MrhjuKPCmKP490GilF3Eb9h2wv77Gmfpz8yHQ6Dy8Q869g05ISA9d0ELSlK923FV0QhaQxVDMwEIGZuRf2VHW08SkhTdCMFsama-EufPHVkFV43FOVxq1jJO_tD79BUlaVedNF5mp76fTMzZzGmJTCjF1sOzGVyhzp1pV7-rtRxIjtdrYPoqwzUZLmF1aQuTWfwC_H1nPB2L5-uGvSP16mkNzCq3_y_l0qS9tGaiJ86cMAaETjYJRsRGNVeapv-rFeFhSgKu4f6IWE5uL_6WNHuVeDqVwFuf8tg"/>
+  </entry>
   <entry>
     <title type="html">❄️ Снежинки на вашем рабочем столе c помощью...</title>
     <published>2025-12-12T08:15:22+00:00</published>
@@ -183,16 +197,5 @@
       <name>iOS Dev</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1795" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; </content>
-  </entry>
-  <entry>
-    <title type="html">Вышло обновление лекций Стэнфорда для...</title>
-    <published>2025-11-27T09:08:12+00:00</published>
-    <updated>2025-11-27T09:08:12+00:00</updated>
-    <id>https://t.me/iosdev/1794</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1794"/>
-    <author>
-      <name>iOS Dev</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1794" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosdev/1794"&gt;&lt;img src="https://cdn4.telesco.pe/file/DY5KvCGbM4DATC5bxZz-w3qTO7jn3EyB2BmU2aaPEOE51oJWe43MqlJvNWMLOO63e9hdnEPbhnnUcRZdM9DA_RpY4UzZZv1-jKwOLzrg5Ry92-UY-TacwhQu959Mbvojke-xHLDAovb82n5Ng_HGjHXdSbIwW4N5MS3xI3qSqC9-DVG2Gx2O_njJ8IOjMvEnvSzTe7u4Owym8U-BsTBzQWqdsS0KvQ4U1-IjJksgJ4GnTuVYdAgGEQp5QRhNjcxzzm5sjftShsNUvPv47CpenOqRSbBXyJ7iE2CRH_6u99ZDpce5riHTnltwvprTjwq-Fc28C_TeX_aMbwbDkQGpKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Вышло обновление лекций Стэнфорда для iOS-разработчиков&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот курс - в целом одна из лучших &lt;a href="https://t.me/iosdev/992" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;бесплатных точек входа для iOS-разработчиков,&lt;/a&gt; и буквально недавно вышло большое обновление из 6 лекций: от основ SwiftUI до демонстрации работы с данными.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"&gt;&lt;b&gt;📖&lt;/b&gt;&lt;/i&gt; &lt;a href="https://cs193p.stanford.edu/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Курс целиком доступен здесь&lt;/a&gt; (обещают выложить новые лекции в ближайшем будущем).&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

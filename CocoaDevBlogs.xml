@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-15T08:39:58+00:00</updated>
+  <updated>2025-12-15T09:38:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">9 months of a Swift Concurrency Course https://t.co/U3OZddORHc</title>
+    <published>2025-12-15T09:02:35+00:00</published>
+    <updated>2025-12-15T09:02:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25516</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25516"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;9 months of a Swift Concurrency Course &lt;a href="https://t.co/U3OZddORHc" target="_blank" rel="noopener"&gt;https://t.co/U3OZddORHc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;&lt;img src="https://cdn4.telesco.pe/file/P5qvXW204h7bN4kLlxJahCjYzDlnV160tepGa96x_s9xdhbomeEObpIuXsSTLBQFczJqBWMJWaFVIBnYdaotIAgVPZ2LLFDYGTONDGG1fIm7y3Waja4CEjyd6nt7MLtZgUnkQxDjofEdLnTg-6Awy5PMSPslJTku2uAthMYlFTAhGmLI24avvomyUGV7upiFJPK161fBdl5_-ZnqlSg2xu2zG7TbmjIHVAMysYQ79ccVtC9b2HZJzTNBqW19bsS8qKuYd1VV2DmeHnoVJ1m10z_rO8BMFZkEGZP19o_OoD_WTNi1LX4n7UegM4SQD8CDN99JY1yljY_jQl4dHp6JIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;
+9 months of a Swift Concurrency Course - SwiftLee&lt;/a&gt;&lt;br&gt;What I&amp;#39;ve learned from publishing a Swift Concurrency Course, and how course pricing affects accessible resources.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : WenchaoD/FSCalendar https://t.co/LovnkxXJ6Z</title>
     <published>2025-12-15T02:03:06+00:00</published>
@@ -239,17 +251,5 @@ Xcode 26.2 (17C52) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.2 (23C55) &lt;a href="https://t.co/Di6DmNjoGs" target="_blank" rel="noopener"&gt;https://t.co/Di6DmNjoGs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Di6DmNjoGs"&gt;&lt;img src="https://cdn4.telesco.pe/file/fVBggm0AQ9-iw4BPx12_m3pcPmrqB3Zuep4bD_l1Nu7yvLbZLEkfRJK62rZPKvNdIFjF0eddtDh2AWFtUcnYBSnMHqYzW6kiHzPn-e1RZtt3JMWpb8ZgzrN7p-TVUxJfGmS0PMVjPeq26grJiOuXEi22tAwCBN06edfGNojCpUEnEC1cReAG4BKJNh6V2Y9tigCpjBTwluHyKiXaJmaIh8AobFttydxCRJ9wsHz2ohosH_I5zRDDn1UFSKyNLEQsFCaWIcILrCAxOmLdHe2zOXQgALnErdl7-F6Z55brv9VRlfgWly-Q1q-nvI67QNfQEwTUy5Sm6wl9EyV7HekgFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Di6DmNjoGs"&gt;
 iOS 26.2 (23C55) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 26.2 (23C55) https://t.co/rz1qaTEE2o</title>
-    <published>2025-12-12T18:42:24+00:00</published>
-    <updated>2025-12-12T18:42:24+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25495</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25495"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.2 (23C55) &lt;a href="https://t.co/rz1qaTEE2o" target="_blank" rel="noopener"&gt;https://t.co/rz1qaTEE2o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/rz1qaTEE2o"&gt;&lt;img src="https://cdn4.telesco.pe/file/aQhp6ohChszuqRR8nIlxEXHiNozrj3LK_5cXa2ClJfQaiPSP6MOLHytlEIqzYAGDNsOilrHJcuvLJsCL2NiRAjIhfDiAQF_12tFT72VAhzZyHZ8AX21deoDOOJHSP02b-l6ST571SPYtKfiJSxwaOBus77DNnBiG7b2dKrq2KvN8NE9khVO_zDqd0d55w1ZztZINi-GXYc6t4UpWXGcgiSJGmqFvIahWkLJKKnsG9eWhH-okiLT9C-fbBUR4kIycAFATgSSgtVK7CtPICnvhcMoJHY6qbjFRLoKihmi61Edd4L8s5zbREPKRvtNNETc-JSIv03zofyLdUg4MSC3r9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/rz1qaTEE2o"&gt;
-iPadOS 26.2 (23C55) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
