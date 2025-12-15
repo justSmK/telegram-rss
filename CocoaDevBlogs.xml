@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-15T11:25:50+00:00</updated>
+  <updated>2025-12-15T12:58:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Adding text input actions to iOS push and local notifications https://t.co/dFSzifQVDC</title>
+    <published>2025-12-15T12:32:31+00:00</published>
+    <updated>2025-12-15T12:32:31+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25517</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25517"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adding text input actions to iOS push and local notifications &lt;a href="https://t.co/dFSzifQVDC" target="_blank" rel="noopener"&gt;https://t.co/dFSzifQVDC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;&lt;img src="https://cdn4.telesco.pe/file/v93jMb-E9fNxDyY77WgMf6otNKBXsMqSFRFsAe95WqnOTB8lXXw2dwsbsXC5HgTyXPupQ1OdVDGaLI16xnZ6L7eaVuKXGWvwnJ_-F2dG0dovOSPxox6H-QqGnKJdZCLQLiV5HpSZagAO3XL4_lmVau60vfYjLLyzOEm6ZinhMZ42y-6fWIV2tn1__W8LFrRzN9hI4b1pNJN-I2fSHoCFiyto1KWYYhL7GkKV10RfMIbsDjzZCUrhSRfldtHopgExLq_KLbpl2vIu45dHJWNcAecoohATF9Y-pWo3_RqV-llCkBU94i7eJLDCuG02jh5z2xNgAlybILuW_L4_B9fQRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;
+Adding text input actions to iOS push and local notifications - Tanaschita&lt;/a&gt;&lt;br&gt;Text input actions let us collect quick user responses directly from a notification without launching the app. Learn how to configure categories, add text actions, and handle user input for both local and push notifications in SwiftUI.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">9 months of a Swift Concurrency Course https://t.co/U3OZddORHc</title>
     <published>2025-12-15T09:02:35+00:00</published>
@@ -239,17 +251,5 @@ App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.2 (17C52) &lt;a href="https://t.co/HLWIgVsW5Z" target="_blank" rel="noopener"&gt;https://t.co/HLWIgVsW5Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/HLWIgVsW5Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/veYx7pXOfb5pT5am8_dvpjRysz8sYSMDHvG3O9djFmPpxRGa0WWQE0PGviztUtHxYyPPNo_79G-3Qs2MAjnStmCQT5POQHx2ddsFxDv9j9HO3-6oL8newGZH42myBPdKu_XdwP6LgytJR6EYUFNqwCB2CEp-zkGt8ZChFWmMEgIxCnx-j2FuWO4CDbVMPx6n-rFcT6PCnKijBxhiC7C17JjML6FnZ5ji8LCIO7Z_KO3KsT8nRmjsHfKM6yPQOkk1k1-P2CN38ScCJWHrhnZq5hmr9IeuxL9bGHQRpP8iSKInLN-SRnZ-sOW3HSMuN9-E2ablKBxuuUqvSHSON47D_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/HLWIgVsW5Z"&gt;
 Xcode 26.2 (17C52) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 26.2 (23C55) https://t.co/Di6DmNjoGs</title>
-    <published>2025-12-12T18:42:28+00:00</published>
-    <updated>2025-12-12T18:42:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25496</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25496"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.2 (23C55) &lt;a href="https://t.co/Di6DmNjoGs" target="_blank" rel="noopener"&gt;https://t.co/Di6DmNjoGs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Di6DmNjoGs"&gt;&lt;img src="https://cdn4.telesco.pe/file/fVBggm0AQ9-iw4BPx12_m3pcPmrqB3Zuep4bD_l1Nu7yvLbZLEkfRJK62rZPKvNdIFjF0eddtDh2AWFtUcnYBSnMHqYzW6kiHzPn-e1RZtt3JMWpb8ZgzrN7p-TVUxJfGmS0PMVjPeq26grJiOuXEi22tAwCBN06edfGNojCpUEnEC1cReAG4BKJNh6V2Y9tigCpjBTwluHyKiXaJmaIh8AobFttydxCRJ9wsHz2ohosH_I5zRDDn1UFSKyNLEQsFCaWIcILrCAxOmLdHe2zOXQgALnErdl7-F6Z55brv9VRlfgWly-Q1q-nvI67QNfQEwTUy5Sm6wl9EyV7HekgFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Di6DmNjoGs"&gt;
-iOS 26.2 (23C55) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
