@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768</id>
-  <updated>2025-12-15T05:31:42+00:00</updated>
+  <updated>2025-12-15T06:44:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Все вернулись на Яндекс Музыку&#13;
+&#13;
+Тейлор Свифт, Дрейк,...</title>
+    <published>2025-12-15T06:28:20+00:00</published>
+    <updated>2025-12-15T06:28:20+00:00</updated>
+    <id>https://t.me/Romancev768/15017</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15017"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/Romancev768/15017"&gt;&lt;img src="https://cdn4.telesco.pe/file/GwLzElifjy0uWft3K0J0EGCRHTLbSBQ1b5gdElQKQC4Z8sjSGXzfeuxWjo6-xXozoQ9NyBBwbF19VgzVIecU5lX6GY3a8B56pSzI5zd77f_nBhoUWv668pLDp67ZOEX6uxuFkCaFL0D4I3pVfWUUaGM7RYlbBvt-cpfjkblzt3ADhm_S3z20mpS3eBa8ptrfRqizVL60iVyD9VWzcu1f4_zxwJZeEP29cjmZZ-LmMN_4rsxf0gjwmDeOnK2wCdF6-zLzI6QjkOxbbVB3oxUEg2i-f8t2qmQuiuzoZJHMf2Z6eYaOUxoUTDT6s3LvUUB8ZfjcTVF7-99FkB8lFwqeQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Все вернулись на Яндекс Музыку&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Тейлор Свифт, Дрейк, Билли Айлиш, The Rolling Stones, Imagine Dragons, Linkin Park - все на месте&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Это не решение каждого исполнителя, а решение лейбла Universal Music.&lt;br/&gt;&lt;br/&gt;Один из крупнейших музыкальных лейблов вернулся и вы можете слушать любимых исполнителей.&lt;br/&gt;&lt;br/&gt;Пока что на «Яндекс Музыке» доступны только релизы до 2023 года включительно, без релизов 2024-го. &lt;br/&gt;&lt;br/&gt;Но в фан сообществах пишут что релизы подгрузят в ближайшее время. &lt;br/&gt;&lt;br/&gt;На VK музыке ничего не появилось, а вот Сбер Звук уже пополняется.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">В iOS 26 есть очень интересный баг с красными...</title>
+    <published>2025-12-15T06:02:02+00:00</published>
+    <updated>2025-12-15T06:02:02+00:00</updated>
+    <id>https://t.me/Romancev768/15016</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15016"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/Romancev768/15016"&gt;&lt;img src="https://cdn4.telesco.pe/file/E2nD1QlyTClEAlKttrdAfBRrJxfE6an201S3Da7Bwn8a97U6ZnSoFxKT_Ch4bFWzAsymGVzHyzjczPKgpvrBM4VNDSVZawbuCfPacl-5qCQP8LcfGIwqeG6fhWz_VSmDPFtC2GUC5RsWzMSiPm7_VtZD5_yj90rjFjFsNuJ0TwUGFu8LcOt5QfRiGlOUcJR8wBeNio1TO88Goxu5fqw8HUHt-ZBGgAlUnLRtT_k5-O7D667oN6unu7qt1wB3Kf_6S2FLP3oARV2qZ5czXW2qKEulMc-R2e6gaUQwDu3bibd6ufAE_j3-kr6Maot-DYLB2SgZwQn3zxoYeCdpJNM5jg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В iOS 26 есть очень интересный баг с красными фотографиями с Android&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://t.me/Romancev768/15007" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS 26&lt;/a&gt; нашли необычную ошибку, из-за которой некоторые фотографии, снятые на &lt;a href="https://t.me/Romancev768/15012" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Android смартфоны&lt;/a&gt; и импортированные в приложение Фото на iPhone, отображаются с сильным красным оттенком. При этом миниатюры снимков выглядят нормально, а проблема появляется только при открытии фото и увеличении изображения.&lt;br/&gt;&lt;br/&gt;Судя по всему, сбой связан с некорректной обработкой цветовых профилей таких снимков, из-за чего система применяет ошибочный визуальный эффект. Хорошая новость в том, что это проблема исключительно отображения, а не повреждение файлов. В большинстве случаев фото можно вернуть в нормальный вид, открыв его, зайдя в режим редактирования и выбрав восстановление исходного изображения.&lt;br/&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Пометили, видимо&lt;/tg-spoiler&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Samsung Galaxy Z TriFold - первый Samsung с четырьмя...</title>
     <published>2025-12-15T04:05:48+00:00</published>
@@ -133,7 +157,7 @@ iPhone на Android за Boost&amp;#33;  Эти три слова в одном 
     <author>
       <name>Романцев768 | Romancev768</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/Romancev768/15007"&gt;&lt;img src="https://cdn4.telesco.pe/file/PhxvqvU0HMFX-ONdPdehhnkIQZnLmGL9P4noRsDmSF4zk4s6vGePEjCa0MRKC_Kaa5AHKpkcmTBxmCO5iEtTXhlCvM0vkvsb-o6wCR8CR4yaobSwmfoEjokSgamFtXBwJJAJSp1xu8QuTkAKZVhziyTBtYQFIERnOL0Ih487LQf6KjEJ-7-SnwsFMSYlGx0RVIZwomOj5H7pGNUDPn9eADMM9B-vr4TJjvpdzqAbiz3cPMsAhBx3uyjXTN-ByEhTCCLLaxSXOX-mwq0lend8TYMBlTJmqd4ku6sR5nQrrkB-YnX6tcy3vIXaF6I3ouWCY2zTVIAFAGI8OkQWIxUxZA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В iOS 26.2 появился новый способ обмена файлами через AirDrop&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Apple добавила в &lt;a href="https://t.me/Romancev768/14989" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS 26.2 новую фишку&lt;/a&gt;: AirDrop-коды, которая упрощает и делает безопаснее передачу файлов между людьми, не добавленными в контакты. Теперь при попытке отправки на устройстве получателя появляется одноразовый код, который нужно ввести отправителю для подтверждения соединения.&lt;br/&gt;&lt;br/&gt;После ввода кода оба устройства смогут использовать AirDrop друг с другом в течение 30 дней &lt;b&gt;без необходимости включать &lt;/b&gt;режим приёма для всех или сохранять контакт. Нововведение приходит на смену режиму Для всех на 10 минут и даёт более удобный и контролируемый способ быстрого обмена файлами с незнакомыми пользователями.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/Romancev768/15007"&gt;&lt;img src="https://cdn4.telesco.pe/file/fPKr0TdkXl5-aVuu0tXqSeccdrSOu67FAsv9bNXMzIbDpraTLxWKouzwJ9MY9LwoyjPt0d0by1ys1OQ6qIroBk6AzR6PLiLXVScLO787L1hFpDNeWuxD58mLbz133cgi6XfOZjMx0w3CdD9EuuGni_TBaowOoqiqNO16Fh-eYTn56BsN-b53tzYqMJNhBtDJeqabrP0-KsR7Syp6nEkyd_Q8T9PdBwaGfMlF-Y3XPb6YuK-2nESS-p-NQGsSScgWaM1mmlG_pyJAPfpFlj0IvzVYFebvrMZZPgbHWt8ZAiOrreMCObESNIBjUcnN41a_PdFVUeWocNYpMvA765u4lQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В iOS 26.2 появился новый способ обмена файлами через AirDrop&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Apple добавила в &lt;a href="https://t.me/Romancev768/14989" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS 26.2 новую фишку&lt;/a&gt;: AirDrop-коды, которая упрощает и делает безопаснее передачу файлов между людьми, не добавленными в контакты. Теперь при попытке отправки на устройстве получателя появляется одноразовый код, который нужно ввести отправителю для подтверждения соединения.&lt;br/&gt;&lt;br/&gt;После ввода кода оба устройства смогут использовать AirDrop друг с другом в течение 30 дней &lt;b&gt;без необходимости включать &lt;/b&gt;режим приёма для всех или сохранять контакт. Нововведение приходит на смену режиму Для всех на 10 минут и даёт более удобный и контролируемый способ быстрого обмена файлами с незнакомыми пользователями.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">График раздачи бесплатных игр Epic Games на...</title>
@@ -207,27 +231,5 @@ iPhone на Android за Boost&amp;#33;  Эти три слова в одном 
       <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;a href="https://t.me/Romancev768/14994"&gt;&lt;img src="https://cdn4.telesco.pe/file/AA4JVn40HqcZeniLytlESap3RaQxcgmsAUMZuVtzy0OoL0JQ9WScO3c0TytwkR6WZH8PR0mzuxWm17SbFGsFLLQPxRVGdZwn_NpgfWXnZ4opi5FrUnmjirsw9QMpXlSTJacqlRkl6Rj8eVcYmOJU3hDYedNu9px24rWvDtN00ZdCJk-yAwfIM98v414Fl_pee2ZlNrM9j2H-qOypgPXsf-jZXoKFMYprLzH-x3NOoyAA6m8iTIuGtMgy7s7lKPwKzs2BwYvs4AgHNImK2tdmMkXlOu7C_7W2A8tG650cRTbV2JexDUKsXtMJOv0dhK6LHtnOlzsGwdQZs3EvEa0yNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кольцевая лампа в вашем Mac&amp;#33;&lt;br/&gt;&lt;br/&gt;С MacOS 26.2 на вашем Mac появилась фишка «Освещение по контуру».&lt;br/&gt;&lt;br/&gt;Находится там же где портретный режим и «В центре внимания»&lt;br/&gt;&lt;br/&gt;Включается или автоматически, когда темно или вручную.&lt;br/&gt;&lt;br/&gt;На экране появляется полоска белого света, которая исчезает при наведении курсора - работать не мешает.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Готовы ли вы немного пожертвовать в качестве фронтальной камеры ради совершенного нового визуального стиля iPhone?</title>
-    <published>2025-12-13T06:03:02+00:00</published>
-    <updated>2025-12-13T06:03:02+00:00</updated>
-    <id>https://t.me/Romancev768/14993</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14993"/>
-    <author>
-      <name>Романцев768 | Romancev768</name>
-    </author>
-    <content type="html">			Готовы ли вы немного пожертвовать в качестве фронтальной камеры ради совершенного нового визуального стиля iPhone?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;59% - Да, новый дизайн для меня важнее такой мелочи&lt;/li&gt;&lt;li&gt;41% - Нет, качество фронтальной камеры для меня в приоритете&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Готовы ли вы к компромиссу ради iPhone как из...</title>
-    <published>2025-12-13T06:02:02+00:00</published>
-    <updated>2025-12-13T06:02:02+00:00</updated>
-    <id>https://t.me/Romancev768/14991</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/14991"/>
-    <author>
-      <name>Романцев768 | Romancev768</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Romancev768/14991?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/tYNH90GlJw473xvSHO_C8dVJy2otNY_L6rNAAzBUOwu16FUiP500u0Mrvsnidfon-uUJIj98HI9KA0r2NamkGwn2jqvvIjRzARgne17fBLmgsEyqSCL_6DwcXWPqrMwS81Jc0MmF6gtfQMZvgOnbrqTb9z0b3igiARsyrLlnfll0LCCRkmmB9QNRPZuXBxkCcZ-BHqTQsGO9nsrsqOc7iq-G_pIeXayQpHIRcwzJ-BnTuGGYsi2jm7R7svGO902QsF6O3yjc436h2MB2IBFoZYfwuVoVglfsMhz8FGv7JXEMP4bSH4oWVRligyPH-cf33spfhfAdpxh7KhzXAh-uiQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Romancev768/14992?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/a9tAycd2eVGYv8hkfHgvNdgdt7Aj-l8hMP0R5gzl8oRSc8eVha2UPiS9DWi1ZbXX2hfzabqMytPiKtiYKDvJxA897AR2sm6ZKDcrGbasRPWEutTKPs6nkmPQgjZIeEFeuuLGbbI052HAp4cHjbGz5ruD6aUCrWA2tvfdfG9_iHSI82xMF6xkWc4t5vcNlqK_PsYxMp4fii2H76qO0NYVCQ8uGXQJPBPLVsX2sC4tfWeY-YiwuI23TS-Gp6mELYNF72q-kLtSMdhUuGhERLREtlDn6ZHPmsF8Y9-lAkuYoQwXbL5nqqsSRqS8odpdGBpqOTYQlXY1zaiD2GVAr3yxwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Готовы ли вы к компромиссу ради iPhone как из будущего?&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Apple готовит юбилейный iPhone к 2027 году, и по известной информации компания стремится создать устройство с полностью безрамочным дизайном. &lt;a href="https://t.me/Romancev768/14710" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Никаких вырезов&lt;/a&gt;, Dynamic Island или видимых элементов — только единая стеклянная панель, под которой скрыты фронтальная камера и Face ID: &lt;a href="https://t.me/Romancev768/12091" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;мечта Джони Айва&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Такой дизайн выглядит максимально чисто и &lt;a href="https://t.me/Romancev768/14566" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;футуристично&lt;/a&gt;, &lt;b&gt;но у него есть важный компромисс:&lt;/b&gt; качество селфи ухудшится, поскольку камера будет работать сквозь дисплей.&lt;br/&gt;&lt;br/&gt;Скорее всего, Apple даже изменит название и выпустит не iPhone 19, а, например, iPhone 20 или iPhone Ultra, указав на 20-летие модели. Главный вопрос, который встаёт перед нами: &lt;b&gt;стоит ли такой визуальный прорыв потенциальной потери качества фронтальной камеры?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;b&gt;Для примерного сравнения приложены два фото:&lt;/b&gt;&lt;br/&gt;Первое — обычная фронтальная камера iPhone&lt;br/&gt;Второе — симуляция подэкранной фронталки в будущем iPhone.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
