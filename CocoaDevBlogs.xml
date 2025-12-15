@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-15T15:31:26+00:00</updated>
+  <updated>2025-12-15T16:39:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Copy-on-write teaches you EVERYTHING about Swift Internals 🐮 https://t.co/lQvQiuBow2</title>
+    <published>2025-12-15T16:07:17+00:00</published>
+    <updated>2025-12-15T16:07:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25519</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25519"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Copy-on-write teaches you EVERYTHING about Swift Internals &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F90AE.png')"&gt;&lt;b&gt;🐮&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.co/lQvQiuBow2" target="_blank" rel="noopener"&gt;https://t.co/lQvQiuBow2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lQvQiuBow2"&gt;&lt;img src="https://cdn4.telesco.pe/file/P36LUNXsQKt0W70PhqZGP0XgTFyfFEsxa42MzEWwohnn-VdiGzk98QCj-X9VktvL2TQ6ygo5T6T7bqcbqZWmG54ZNYKKjPkafM3kqH6-8VFbFlsd9uhd_Znh4maQw7ZQ2OatGtfYWXN3UqaeQd181mDTSrMkbbU9Zbp3PM7zXHv9jQF2leOvrLCFg_BHShAWab6CSk_OcU-yz8TW0fUxPv0NuFHLa4LbmHd9JX7OFOZ3X6_M3foPtevs2deqDANkdE6xcrvl9M8JhhGfYuvlAmyAC3C25p4zX82pqSE2adJxvtLCt61elOBKLTW5qPLJ8xqqxGUq44unEVyKpoLmJQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lQvQiuBow2"&gt;
+Copy-on-write teaches you EVERYTHING about Swift Internals 🐮 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;isKnownUniquelyReferenced through the standard library, compiler, and runtime&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ole Begemann : Tracking renamed files in Git https://t.co/vb2Qc0ATH0</title>
+    <published>2025-12-15T15:57:28+00:00</published>
+    <updated>2025-12-15T15:57:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25518</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25518"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ole Begemann : Tracking renamed files in Git &lt;a href="https://t.co/vb2Qc0ATH0" target="_blank" rel="noopener"&gt;https://t.co/vb2Qc0ATH0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vb2Qc0ATH0"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vb2Qc0ATH0"&gt;
+Tracking renamed files in Git - Ole Begemann&lt;/a&gt;&lt;br&gt;I used to think git mv was unnecessary, but using it right actually helps preserve a file’s Git history across renames.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Adding text input actions to iOS push and local notifications https://t.co/dFSzifQVDC</title>
     <published>2025-12-15T12:32:31+00:00</published>
@@ -227,29 +251,5 @@ Xcode 26.2 (17C52) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Icon Composer for Xcode 26.2 &lt;a href="https://t.co/ctoEei9ntj" target="_blank" rel="noopener"&gt;https://t.co/ctoEei9ntj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ctoEei9ntj"&gt;&lt;img src="https://cdn4.telesco.pe/file/huKGVlCo6qHNqIeZhPIe-mpUygjF5pVmyQ90j4RixRYHns0NqrmxW9udnnSkfIgVLtx_SywGdY39HVtdWPZLk6wI4OcEFD7VdZjKb59R1u-U4qJIctYdPkpgicVWsR7YmJWnwIxhdbruvzh8AQs6WdjK8Kg9K9ELiNx8IQ_1CiNr_MxAo6s1WC3xnDbRDzNsHYGBgQ2D8hnx73tQuFLeITfeXn5H1EgMU0jzRAT1CCzmlRB2UeBuVgNSf8QMUFPGyt6rfZ8aD6gm21Dhw1B1c6Qpyb5ihkWuMeV05_zAwPjiiuY9GwvJAwGHUU1q1c5iS3OjyFCmyZh98PmNBrRdXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ctoEei9ntj"&gt;
 Icon Composer for Xcode 26.2 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">App Store Connect Update https://t.co/x3OOfOBauT</title>
-    <published>2025-12-12T18:42:30+00:00</published>
-    <updated>2025-12-12T18:42:30+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25498</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25498"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/x3OOfOBauT" target="_blank" rel="noopener"&gt;https://t.co/x3OOfOBauT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/x3OOfOBauT"&gt;&lt;img src="https://cdn4.telesco.pe/file/fYv1DKF503k_SIakfp0IJ7pIXVOP4ssZvNCGpc-HgwMSlUGJNuZ45ckVXExr4TCuFCZqHvERPZYW5v0QD-0ZB2w-_qd9QI-6VX2bnMWXEBfdh-UuD-9rHfHeJN6XBdvFIXR05i4fQIo0C7tqlbYu57tB8f4s54rMafnIs8bW2WQoDDOn69HhHSoGhxCIXa1jxDmmohlnnkTy7FqGcdvpZ_qreOAd-gSmUt92aVr-Vi5WNJEDOlDuHTG27_G37gkwRRAIjA7SwNJJFDhOnPUGiTm68l71TApcW9qtG1MlVtmK1eycCq7KZIZwAUe1Ed5kP3btYAGHNKCLsy27UWzFkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/x3OOfOBauT"&gt;
-App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Xcode 26.2 (17C52) https://t.co/HLWIgVsW5Z</title>
-    <published>2025-12-12T18:42:29+00:00</published>
-    <updated>2025-12-12T18:42:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25497</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25497"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.2 (17C52) &lt;a href="https://t.co/HLWIgVsW5Z" target="_blank" rel="noopener"&gt;https://t.co/HLWIgVsW5Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/HLWIgVsW5Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/veYx7pXOfb5pT5am8_dvpjRysz8sYSMDHvG3O9djFmPpxRGa0WWQE0PGviztUtHxYyPPNo_79G-3Qs2MAjnStmCQT5POQHx2ddsFxDv9j9HO3-6oL8newGZH42myBPdKu_XdwP6LgytJR6EYUFNqwCB2CEp-zkGt8ZChFWmMEgIxCnx-j2FuWO4CDbVMPx6n-rFcT6PCnKijBxhiC7C17JjML6FnZ5ji8LCIO7Z_KO3KsT8nRmjsHfKM6yPQOkk1k1-P2CN38ScCJWHrhnZq5hmr9IeuxL9bGHQRpP8iSKInLN-SRnZ-sOW3HSMuN9-E2ablKBxuuUqvSHSON47D_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/HLWIgVsW5Z"&gt;
-Xcode 26.2 (17C52) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
