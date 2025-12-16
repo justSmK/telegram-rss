@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2025-12-16T20:31:35+00:00</updated>
+  <updated>2025-12-16T21:27:17+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -215,12 +215,7 @@ Understanding SwiftUI&amp;#39;s Namespace | 知阅百微 见微知著 - 知阅�
     <author>
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Once again, the size of the Gmail iOS app is making waves. Last year, Emerge Tools broke down just how big it was — and now they’ve updated their analysis with fresh data and insights. Worth a look if you care about app optimization and bloat.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250" target="_blank" rel="noopener"&gt;https://x.com/emergetools/status/1943060976464728250&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xtlk3ki2DreVm8JCFf-oL8UWfdCnjMEguVBOykuUJOz5bzbGDoSsEjI6AI-fj1yrNL06u3R66-i2_wSOXeTTdgbtJx72oBEHlxJdnRXOECVzcW-wXi4zZmeNpZRDdC5Dl6vKwDgc38BdADyLv17DFqODRQj4V28zzVNh7metOKImGCrtO_T0YSwhqcSMMyj7q4azJeYe9uDiFIzw09s7BbJUg-zqxOQxotss1MZ6YjnDqUYwl9vtNMuipRSiFsktZEU-huMEW0nxJuo6jmD0_t8iRuJKcFkHfkBQjNZGM6TW9ZZoUKVkFRyXubjglTIUiJS3gJaaU_eujddwDjR9CQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250"&gt;
-Emerge Tools (@emergetools) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;Exactly 1 year ago today, we had our biggest tweet ever about @gmail&amp;#39;s iOS app size&#13;
-&#13;
-And funny enough, Gmail&amp;#39;s size is making the rounds again&#13;
-&#13;
-🧵 Looking at why Gmail is ~700 MB (+ why it&amp;#39;s increased by 100 MB in the last year)&lt;/blockquote&gt;</content>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Once again, the size of the Gmail iOS app is making waves. Last year, Emerge Tools broke down just how big it was — and now they’ve updated their analysis with fresh data and insights. Worth a look if you care about app optimization and bloat.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250" target="_blank" rel="noopener"&gt;https://x.com/emergetools/status/1943060976464728250&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and...</title>
