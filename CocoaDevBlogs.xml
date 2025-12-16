@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-16T06:41:50+00:00</updated>
+  <updated>2025-12-16T07:28:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to Build Your First ChatGPT App https://t.co/To4ad2Ualq</title>
+    <published>2025-12-16T06:42:17+00:00</published>
+    <updated>2025-12-16T06:42:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25535</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25535"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to Build Your First ChatGPT App &lt;a href="https://t.co/To4ad2Ualq" target="_blank" rel="noopener"&gt;https://t.co/To4ad2Ualq&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/To4ad2Ualq"&gt;&lt;img src="https://cdn4.telesco.pe/file/B2L5k1zuq_EqpSBZ5O6H0Cab6Fiy23CrEqQUJXKyWY4sgZU-oOkM51-jywj5sqdTw0-JtzkPiZ2M60HEgvoAZ3aba6wYOVqQKUpuL6XxFSUZPHqg_JZsNaZdYZZ8Z0BtYz8nEHCeIiXxJ7kXSTIMIPK_DlzIYSa_9RArx-zKR9C_m9NcDTdZzu5-wLFarXBMdoRMYuXbX2arszSQSXZJIOQ5QBGC9up47R1Cp92mdNaI83ycc9y6JPkZfjtypa0kiBt_Yg44-Qmnn2EtqEYR0E3NBQvk3oArUkoc1XuyZfyMB37RPaR8f7UVxmhLpmi26wd4UAas0-leeDoIshWNjw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/To4ad2Ualq"&gt;
+How to Build Your First ChatGPT App - Highgrowthengineer&lt;/a&gt;&lt;br&gt;Take advantage of 800 million weekly active users. Build an app that gets in front of millions of people.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Issue #144 - Mustafa Yusuf (Where Are They Now?) https://t.co/MDAe17huGk</title>
     <published>2025-12-16T02:37:26+00:00</published>
@@ -237,17 +249,5 @@ Adding text input actions to iOS push and local notifications - Tanaschita&lt;/a
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;9 months of a Swift Concurrency Course &lt;a href="https://t.co/U3OZddORHc" target="_blank" rel="noopener"&gt;https://t.co/U3OZddORHc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;&lt;img src="https://cdn4.telesco.pe/file/P5qvXW204h7bN4kLlxJahCjYzDlnV160tepGa96x_s9xdhbomeEObpIuXsSTLBQFczJqBWMJWaFVIBnYdaotIAgVPZ2LLFDYGTONDGG1fIm7y3Waja4CEjyd6nt7MLtZgUnkQxDjofEdLnTg-6Awy5PMSPslJTku2uAthMYlFTAhGmLI24avvomyUGV7upiFJPK161fBdl5_-ZnqlSg2xu2zG7TbmjIHVAMysYQ79ccVtC9b2HZJzTNBqW19bsS8qKuYd1VV2DmeHnoVJ1m10z_rO8BMFZkEGZP19o_OoD_WTNi1LX4n7UegM4SQD8CDN99JY1yljY_jQl4dHp6JIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;
 9 months of a Swift Concurrency Course - SwiftLee&lt;/a&gt;&lt;br&gt;What I&amp;#39;ve learned from publishing a Swift Concurrency Course, and how course pricing affects accessible resources.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : WenchaoD/FSCalendar https://t.co/LovnkxXJ6Z</title>
-    <published>2025-12-15T02:03:06+00:00</published>
-    <updated>2025-12-15T02:03:06+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25515</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25515"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : WenchaoD/FSCalendar &lt;a href="https://t.co/LovnkxXJ6Z" target="_blank" rel="noopener"&gt;https://t.co/LovnkxXJ6Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/eAKJgF5YFDwg3etrHXXbXPgHPxJcYq5rbHDDwjYU0BHCSCcYDE4mJO2jwI6bFgecT05f8bayR-3E3PlZWZUuJuCB9DQ4sQ09nt0MXjdOSs-Z4yX3kw58zXaCm6NLXGT0rE7jsIX0lq3qhFRYGy7-MxD7oCflbKE_B1xn5iqm2qo_IoSpLpLly7u8oZB5VaFFOWNpzhFZqpCj8U2WEE2C8YHu-1-bFjuNm8NtKO6_cr8qYukrhfHtiSKi9oRjcgeuPBpwsg8ntE8pWncyHUntR3-VB3UWN1h00ZsJuXvMc4ntXQnCijGRmRP_2FlinFU9jnHWwH7cyhwFzyzMt49iaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;
-GitHub - WenchaoD/FSCalendar: A fully customizable iOS calendar library, compatible with Objective-C and Swift - GitHub&lt;/a&gt;&lt;br&gt;A fully customizable iOS calendar library, compatible with Objective-C and Swift - WenchaoD/FSCalendar&lt;/blockquote&gt;</content>
   </entry>
 </feed>
