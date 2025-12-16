@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode</id>
-  <updated>2025-12-16T08:38:47+00:00</updated>
+  <updated>2025-12-16T09:33:08+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -86,7 +86,7 @@
     <author>
       <name>Код Воробья для iOS разработчиков</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/sparrowcode/705"&gt;&lt;img src="https://cdn4.telesco.pe/file/R5ym5BHPiXoJzHYkUcqHAR_yjqJnpN1DZYzoGZhRpZ1hd-vGj0jCCm0vA2zUWcldcPSR1lFZjy2jUKZ3YDJRHisyAVMX9SCGAL96gjg-XHiZK2gN4sJkLxGwnbZEJqbkVibskuLAzWuytemC--UPH1RZXWw70c60qYKcrbYzuJA9tn6_FjMinEPwu9tGnjPdjHWNH7g5R0CR0JtTuQRPo36xAfMcl02zpdBq1_PS0bLdSHATEO-35b7Tsw6k-w7Js3x7Xo_yYj2tyiBOnCTP8iSw-8KVd8oeqA9M1orlOMsBZKi6fKseF6SSdCw2_FNJ3SsZ6gsoy4R15yrlBnl_xQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Красота в новом Xcode&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/705"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZOMTuO8DEKoVPpagbjSp2JNQLCHD05YZzj1n5iWDr8IHm6J9gFyZTUpu9qChN0f1T3EncczdOo34REq8dqXOSvY6Fup4x8Sm_wwuWDywnSNwuhsdgBQcR4z0rt6RNneBBed0NKI4umT-JFDGxYi8KJU3PVceOubhZKZfgq6JTOqA5eR6V8OeeV7_zELtNa4J1g6BcierLvdH_6JarGCSHW5gOkaKKTnA7GMf5Vr4bo9OOp7aN7pNuX8fq-1A8qHz0sHDmobgHeqA-xo_RQKQ5E8rqgpeKgzOAGKfoVmppG7OEBHsoM9V0l97X_QN3jZmcguRCbZIaP-F_CO-HLegpw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Красота в новом Xcode&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">☁️ Xcode Cloud вырубили для учеток РФ и РБ&#13;
@@ -121,7 +121,7 @@
     <author>
       <name>Код Воробья для iOS разработчиков</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/sparrowcode/700?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/guZiagQ0oydk_z0PmObznIuY0ykLCcBSDz3NGVBV81aKcc8a4_2OHTkyNSffSvXjSI89olhI8Mx9uUvoh1MRkaA4TPLtlEhCiikdoupRIo8Oe_fc8Zj_GPONkllDAhroHLs_8xfHVkbPxbutynIGj3H87lzPdE8qtcw2eP8K8ryZFGNOZrJds0DU1VG15kHt5sEaK38Sz4Twg0aXYyeVpYpBw8a7QLyiji8XLaF3mOzkKvx09CGosWQYWgntJmUUJZyKMUzGT7YKetyNIFyNWybKjc-vLf9SBD1hNz2EdCAfbONEHM1jHY1ZqWqP553Yi7DJWea1DssF_SMwB7az5g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/sparrowcode/701?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/DQAuM4KtTbFzjJ9GQOkqm4FILeHzSFIdB5KMLNWvjGBLbNiTuyqPo3k6VfjIZeOHPPYBXtjnEUztyJIQc28zW4DgG1SpMoP0UaOza44VU4MSNmugK_deon3mWXwMIIqHm1KDhWptYFFO46-ZZSRSUX4orPsgp3eSuPqwSwmnE2buYtRaKvdg39swCeSUB1X37nKPSDT4ZNWKSpPUoNHVI9ohL1SIgLHocWMDRnFsOay88SkNW4nDtt7K-xF_79fGJJqZwhrkrSG1iiXyKyrPYgjqBIKzMPyz4GDlg5ZBDPSq2CiArXUoMtjvACGuO88WWvspjBK3uLwmeISGUY8zZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Когда будете использовать &lt;code&gt;glassEffect()&lt;/code&gt; на кастомных вьюхах — групируйте их в контейнер&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Glass-эффект анализирует контент вокруг себя (для отражений). Два эффекта наслоятся и будет фигня&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Нативные навигации/тулбары в контейнерах из коробки — их оборачивать не нужно&lt;/div&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/700?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/guZiagQ0oydk_z0PmObznIuY0ykLCcBSDz3NGVBV81aKcc8a4_2OHTkyNSffSvXjSI89olhI8Mx9uUvoh1MRkaA4TPLtlEhCiikdoupRIo8Oe_fc8Zj_GPONkllDAhroHLs_8xfHVkbPxbutynIGj3H87lzPdE8qtcw2eP8K8ryZFGNOZrJds0DU1VG15kHt5sEaK38Sz4Twg0aXYyeVpYpBw8a7QLyiji8XLaF3mOzkKvx09CGosWQYWgntJmUUJZyKMUzGT7YKetyNIFyNWybKjc-vLf9SBD1hNz2EdCAfbONEHM1jHY1ZqWqP553Yi7DJWea1DssF_SMwB7az5g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/sparrowcode/701?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/hykM_ph_T5N7iYixeW2Eo3IMABYxdIMRr-nsSTM1kQ1DTLdObmtSthSGciytfi7c5XQRRRnIag7Rkp9JCukYDlNV5w8rD_XnqGKjuSZLO9sXyvrRHEr_UX8wStl8JGEDpafK4tUthpCywDoby8ex2kdqdOYsvrSDjGwgzxW7ABzouPge5vmqF2NX2jyw_MWciG4j0d_613J6w1DYnVDZyOHMTWoefqbE7vQvvcGV2jIriJb_k_vSBEe43wMJvOVUjFVQeyrXSk2WndpnBcyjT4BnvR9Q6SIM3YDKJS9S2kljKoP-95LgTqqXuqizp3Wz7KXduMAkkmlDr8-agzCZIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Когда будете использовать &lt;code&gt;glassEffect()&lt;/code&gt; на кастомных вьюхах — групируйте их в контейнер&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Glass-эффект анализирует контент вокруг себя (для отражений). Два эффекта наслоятся и будет фигня&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Нативные навигации/тулбары в контейнерах из коробки — их оборачивать не нужно&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Новая маска иконок на iOS 26</title>
