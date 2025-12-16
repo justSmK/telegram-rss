@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@apptractor</id>
-  <updated>2025-12-16T12:57:42+00:00</updated>
+  <updated>2025-12-16T13:44:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -120,7 +120,7 @@ ChatGPT — самое скачиваемое приложение в амери
     <author>
       <name>Mobile Development by AppTractor</name>
     </author>
-    <content type="html">			Используете какой-нибудь SDUI?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;14% - Да, и много&lt;/li&gt;&lt;li&gt;20% - Для некоторых экранов&lt;/li&gt;&lt;li&gt;49% - Нет&lt;/li&gt;&lt;li&gt;17% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Используете какой-нибудь SDUI?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;14% - Да, и много&lt;/li&gt;&lt;li&gt;20% - Для некоторых экранов&lt;/li&gt;&lt;li&gt;49% - Нет&lt;/li&gt;&lt;li&gt;18% - Посмотреть&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">RemoteCompose: другая парадигма SDUI в Jetpack Compose&#13;
