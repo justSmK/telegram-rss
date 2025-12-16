@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-15T23:25:54+00:00</updated>
+  <updated>2025-12-16T02:05:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Connect API 4.2 https://t.co/5wxC2Jj3UA</title>
+    <published>2025-12-16T02:02:29+00:00</published>
+    <updated>2025-12-16T02:02:29+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25527</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25527"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.2 &lt;a href="https://t.co/5wxC2Jj3UA" target="_blank" rel="noopener"&gt;https://t.co/5wxC2Jj3UA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;&lt;img src="https://cdn4.telesco.pe/file/GWjZ2afMAwB5OgvNGa3HikBZUG4ijX0oWV0q7e9DpPKLMccyEDOxI2pcr9xXmhznpei4L4aVUKwTczSjIrbmz5AlVSkapzN1VvH6suHbkpFRHu1gGFtK68TE-N8SCoidDWKVlAnIVDwWHVGDqRr0KstrPA40dJzXRGM8AysQtzyxSc51PfNicI-_u4syzPKfyUzBLrHWuK0l8vdgaLZhikUfM_j4AmH1KL16kIwU5k9eV9CI0XtM0p9oKuJDq3z86TpFUjEfZX1hOA5I6Bx8ddR2VOItTb-cdtN5L3R-5g0ffe_AsZBugrVE_z2oj5niYcdKgQkxy7sW_dIBrYguxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;
+App Store Connect API 4.2 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Using Apple Foundation Models to Summarize Text [FREE] https://t.co/7ByjpZJOMi</title>
+    <published>2025-12-16T00:07:07+00:00</published>
+    <updated>2025-12-16T00:07:07+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25526</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25526"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using Apple Foundation Models to Summarize Text [FREE] &lt;a href="https://t.co/7ByjpZJOMi" target="_blank" rel="noopener"&gt;https://t.co/7ByjpZJOMi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ByjpZJOMi"&gt;&lt;img src="https://cdn4.telesco.pe/file/eR2bLAUELyoeFr6QLsUK3Y6krIaN0pfzMg1k4s2Cqba_QpuNQEMFdNa4a77s56G8z8KwnjeglpW6OnbwRmveON36JaSa1dVW9fyZwi8d7nszvKOdzO4jWM4DOjUp0PMn3docRTDnVirfo2hicYEtwamQXjoL9SU8ZrXiRg8HgBMLuBtkePeXO7dA6SLtvliO_Z4RXSuRX5YJ2K6OadrAEEplLHoj1w1gm0dY6veXz-7UxIXFlfZXA09yfr7WU-2p7dEnzXlIU_BiAJXLfofGeWyrKfeAYTZb1Tn7qgfMVleWAjVeCR7Tp0zZV0x-NC8G4bxpfe16agNKsFIqMiymZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ByjpZJOMi"&gt;
+Using Apple Foundation Models to Summarize Text - kodeco.com&lt;/a&gt;&lt;br&gt;Build an on-device text summarizer using Apple Foundation Models and SwiftUI, with step-by-step guidance on availability checks and summarization.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS 26.3 beta (23D5089e) https://t.co/BHoZClwuJL</title>
     <published>2025-12-15T19:42:52+00:00</published>
@@ -139,7 +163,7 @@ Adding text input actions to iOS push and local notifications - Tanaschita&lt;/a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : WenchaoD/FSCalendar &lt;a href="https://t.co/LovnkxXJ6Z" target="_blank" rel="noopener"&gt;https://t.co/LovnkxXJ6Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/GWJa2nNQfmL2kC3bROq3U0rH0bxSwqFzc24FpceGp3GF0CLXSJfI-gv75vHndtOpab9jDMyMspByd4gZs3SrgTZRHV8HqNzfkRpDFej5uBjyfOX1SW4kWio5t_J09mwTQ2bQne-c6hQP7ydizTkPrwnAnoEEdmXe62Y31OyC4e62_4eLNxCrSwokgl7l8nBZt1vyBJp7fyWqHwX3fLp0fQNPxZfYiQudGCIrvaK-QVc8N0qEBjPJmH4_dE547FULEJJfq14usp-khnm8oeGZs7xmMFfp_sthEqfDTlIbnhBtAvyxVZc9gu3T3JsAIzVDhrEjYJZEj1rIlKyfm79rHQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : WenchaoD/FSCalendar &lt;a href="https://t.co/LovnkxXJ6Z" target="_blank" rel="noopener"&gt;https://t.co/LovnkxXJ6Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/eAKJgF5YFDwg3etrHXXbXPgHPxJcYq5rbHDDwjYU0BHCSCcYDE4mJO2jwI6bFgecT05f8bayR-3E3PlZWZUuJuCB9DQ4sQ09nt0MXjdOSs-Z4yX3kw58zXaCm6NLXGT0rE7jsIX0lq3qhFRYGy7-MxD7oCflbKE_B1xn5iqm2qo_IoSpLpLly7u8oZB5VaFFOWNpzhFZqpCj8U2WEE2C8YHu-1-bFjuNm8NtKO6_cr8qYukrhfHtiSKi9oRjcgeuPBpwsg8ntE8pWncyHUntR3-VB3UWN1h00ZsJuXvMc4ntXQnCijGRmRP_2FlinFU9jnHWwH7cyhwFzyzMt49iaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LovnkxXJ6Z"&gt;
 GitHub - WenchaoD/FSCalendar: A fully customizable iOS calendar library, compatible with Objective-C and Swift - GitHub&lt;/a&gt;&lt;br&gt;A fully customizable iOS calendar library, compatible with Objective-C and Swift - WenchaoD/FSCalendar&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -151,7 +175,7 @@ GitHub - WenchaoD/FSCalendar: A fully customizable iOS calendar library, compati
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Peer Lab Community Shut Down &lt;a href="https://t.co/Ud8UwZdX5x" target="_blank" rel="noopener"&gt;https://t.co/Ud8UwZdX5x&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ud8UwZdX5x"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZgDYOmvpWBV0pqlqPefgONqaXzLhyPaEOYGWd4xdf_VS5ML14Q6aZMkGSqr-AihzkxC-_tq20-39xlSSBpd97TE0fCejEEZJX_F8O1NP60dqp-2RRo_AX2VGaggx-bZt4P-ZEXArc0idrMZsksLgUTGFEb58sW5WgaccspBptbtqXFK4ORvrMchiWdki2aVIYJtFGOs1CLwvCX9uGc4HxWSqqN6FYkwShgG9IL5M5RX0SUVHgg0c-lj3L5HY3kiVJwnOA0lqrjZDuqgjJj-5X_Pk5RcrlsV59dh3FPmPmspSRXo0p_xV9megvB2QUZGb3TmWHRJTErNyMv3P9XSBeg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ud8UwZdX5x"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Peer Lab Community Shut Down &lt;a href="https://t.co/Ud8UwZdX5x" target="_blank" rel="noopener"&gt;https://t.co/Ud8UwZdX5x&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ud8UwZdX5x"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y2ydcXcLN5Q_dS0FdHrCdt8EefJGre53uIeyiiYxr1FOyqqms_tdnWrYV3XePC80hXIchtFg1jBMJPNUYOQ2g7XJIOj2fvOI57UfQzpH9V6LYDPZ4SxUY3Qidn0jCDNB30NFydULnbjnPVjh-_m01SR8Onk0w3ODgBIAUNAOmWlfFa7flIMVTACtbeJ6PlB2WHA0t_dtRGIYxNlJ8uG662RxPTEL_Og1hhydMIDc18FIBcHUfAdbLfFhjm1Xjbk-YqRWF0WES9w8ZesvoipZu9ztA0sPPNKCFSoVK2sItw-ba-5fxFCMj0T_4l1K4u9yXvuRG9PVoyx8OIiRVNbFzw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ud8UwZdX5x"&gt;
 Peer Lab Community Shut Down - Ash Furrow&lt;/a&gt;&lt;br&gt;When I lived in Amsterdam, a friend ran a weekly meetup for programmers. He held it on Saturday mornings, to discourage people who only had ideas for apps. The idea was to spend time in a café working on projects around other coders who were working on their…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -177,7 +201,7 @@ SwiftUI Header Scroll Effect | SwiftUI Toolbar Header Scroll Effect | SwiftUI To
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tonymillion/Reachability &lt;a href="https://t.co/7ungCdj4MO" target="_blank" rel="noopener"&gt;https://t.co/7ungCdj4MO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ungCdj4MO"&gt;&lt;img src="https://cdn4.telesco.pe/file/PMrhkoeB-Wdm6VTH2NoFr9Q-FgtrqzYCIdvkMC7OcXCbbha5v5Cd5pGLpTcN28UlSQuY9TfWSlLYGd8kX_O2CYac2pd5_uupPewBvtv9wlB56P1sLXGuEpCz6MqqV8oRAfMKRbY2D_bMNxL3VOoMjFNzEj6ADiHrOivpJl0zgttB7ZXZ9nipRG51Rt-2Lc_iUSAEhfj08h7M-YvoMnuZzmAXtxMSSVY3GsfriAt5UZsN90-YfIq4WT8-Nh52BXmlXQqRm4kooAN__RZ-YBsfdhlKk7Ern3O8MF1zVR0q-GZtvKmCTKxmjkS_riDAnGwN-XHXs8Ln7MmA0ikBV9OxGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ungCdj4MO"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tonymillion/Reachability &lt;a href="https://t.co/7ungCdj4MO" target="_blank" rel="noopener"&gt;https://t.co/7ungCdj4MO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ungCdj4MO"&gt;&lt;img src="https://cdn4.telesco.pe/file/XMUIUf7LV4_TWGOKxkXilqhBqdjYq6hozc51czZXoVAPQRVJEzVV7jLM5Fo9Huxw2oY1bRVhLtPUFLLo8xB_oJbAhNc3S7pBAkVDaX6gHzTHtLkq4BslrhDqFqV0CtTyGEImsL3tEzigVhQS1Sc1rx_In8MvZW-Pxgezr5jeM82udQ4oUFbkYIba_KF2ktcr2_teqfJnISG0Loe9EoY1f1XHqIj7pLC7pHh1NV2FmJ6P5x8TPhMHN5Auy6ODmrSEk62PEN25JfvdLjnpH4T-X0OGafn_wRh3RrcFx2EHifvnH91DdA1hJBEnY8Ay0ASHLJnmcYeEhd7sjY8yabfTJQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ungCdj4MO"&gt;
 GitHub - tonymillion/Reachability: ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability - GitHub&lt;/a&gt;&lt;br&gt;ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability - tonymillion/Reachability&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -189,7 +213,7 @@ GitHub - tonymillion/Reachability: ARC and GCD Compatible Reachability Class for
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : dzenbot/DZNEmptyDataSet &lt;a href="https://t.co/vBgIecDCtv" target="_blank" rel="noopener"&gt;https://t.co/vBgIecDCtv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vBgIecDCtv"&gt;&lt;img src="https://cdn4.telesco.pe/file/tyr8LXlM7dti24fQnztJUdOxDcMHvJIQsXll5GkAYCvHN0YlBa7mfEJU_oy2mdmw6ZAdgyG0Gypj5RpvqDhkoSjJ04QxSuzVSdKe1vIDRpeBpBb4TIPiiDo3IflgwW-sPUJS7drowZjA7fQyHXKJHxTrLfIdBoMALxU29JTnkaOrPRknzcOm4zc-hHHurbiXp9WvjK0fc2LAtAsH77Ew1ultd4hmXrduJvjprB99dSY1DtygWKgt_RYE_kV89G24y5ce-z7crdZnbw0OUmLqCPhyFJa25SH3ReJxQE8pbtCzYkEilOlM_lmhGQpEXe2-O64N2Q69XKBy7f9r2HLWwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vBgIecDCtv"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : dzenbot/DZNEmptyDataSet &lt;a href="https://t.co/vBgIecDCtv" target="_blank" rel="noopener"&gt;https://t.co/vBgIecDCtv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vBgIecDCtv"&gt;&lt;img src="https://cdn4.telesco.pe/file/BoSUlBACgS8GmYH_HMbU-L7WNORkggOyDOh6YpXi7UOaLEqBqJBMbcrPu03LIGGExIbN0LYa9u1_W5HYX7NMMjwVNgobRax9HAhuulu-mUjoDlhD3OGY6V7zKuIiRdHv4yvXE2kVxyqlQF7Fa8IZ2PvF8iUSQxBaatCGSNIP76HQkf3FS6wckFc7UNtZprKBd5GyWFVZwyhb0zmA8Ou3wyFJhwOqZkmhh58tHRjBL3GHexArHiwgWjXMDCnXSOhuKlaej0xJeXfhHUhzp50LcWCCTWk1gc8Sv7oBlqimwLDEiH9MNMZ3Hk_vg-b4vJvwvDkoBIRdaMpyMJBILk9LhA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vBgIecDCtv"&gt;
 GitHub - dzenbot/DZNEmptyDataSet: A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever… - GitHub&lt;/a&gt;&lt;br&gt;A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display - dzenbot/DZNEmptyDataSet&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -201,7 +225,7 @@ GitHub - dzenbot/DZNEmptyDataSet: A drop-in UITableView/UICollectionView supercl
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TTTAttributedLabel/TTTAttributedLabel &lt;a href="https://t.co/WT54CRseAE" target="_blank" rel="noopener"&gt;https://t.co/WT54CRseAE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;&lt;img src="https://cdn4.telesco.pe/file/BFFluNvXAuYa64Vm94jhzKO1WhIXEmTBEE7z9UiSP3Rf1mvWvP1HWHdF_aDwqysT8JGST--3UMEU1wXjfAUVgY6tm9vjPAU6iH1cn9psNjpvLKAh5d7Z_CP6v3QQJAa4qIycroEblFz8XJ4fc_AGfGao94yxiT3LkSAHFoTuRqg092mp-t4QE-tXGK63QA-RsczuJNVOt0ylQ7PMZv0aCRiMQORZUTju2pf6wPsg2Gve7wQDBuzxEYQ_pgKsFaVp4fXv3BmzHp8AGJo-U90FGEFSeWG6RoBMUUfruUHNfCxZaflm8-LVpyVqUYtVTQ4A1mbarFtEzaO8AdVy-A5zxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TTTAttributedLabel/TTTAttributedLabel &lt;a href="https://t.co/WT54CRseAE" target="_blank" rel="noopener"&gt;https://t.co/WT54CRseAE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dp0e-3owfCGsbXQKDn5mo6kvwJl95Rw0dwKUN7ger21eExvYraoeK7yX6g1ecq1PKFK7AX9bGtMfUmiHRsV03qsnJGBYJ30_64J4AKM1C16NA7el8eMBwZb2Ta3aIUM22cY6Cj-lESp-2zKSpFhC7Fx0FTSIi3lHsr2UzkXXkFahKgAoGJ7iNQ7JPIzSxXOQ46j__Z75i25eTp8cPjZAFJ6tFjIMQPlUzE_TkIhfnF6Yl0piZTy4yrtv65Vyn85TPvKGRUth_wfAPLFYhiGTkEA-ouu_NFiNWr-zq7QlZyu1EMozpJ51VsDVp2XOt4h31W3Enbq_zvl7-PsNmeOtdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;
 GitHub - TTTAttributedLabel/TTTAttributedLabel: A drop-in replacement for UILabel that supports attributes, data detectors, links… - GitHub&lt;/a&gt;&lt;br&gt;A drop-in replacement for UILabel that supports attributes, data detectors, links, and more - TTTAttributedLabel/TTTAttributedLabel&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -213,7 +237,7 @@ GitHub - TTTAttributedLabel/TTTAttributedLabel: A drop-in replacement for UILabe
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-log &lt;a href="https://t.co/JCKrzfzak6" target="_blank" rel="noopener"&gt;https://t.co/JCKrzfzak6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JCKrzfzak6"&gt;&lt;img src="https://cdn4.telesco.pe/file/NOxClbm36ullykakYsCIMRG8ZqjdtlqZCG0UFBbYiYEl98wnD9rWcO37SKPoRMW50sPPZCnomVnnN2CeUYGFtFEX8AtEuG_eoKnw3riIhZYw9FUii5tY12qx6Vt7Ingkov14h8_aml07WAGBOEGgqydxwiMdVykuR2kZx5Sp0HSrc2sXIv1DodKgscYxf1BK_32Q7jUnpoaMR9uCGaOCoVnK9DmH54X-idcV5EuNnKcdIupaO-14xBjVf7klwMDZX9LSyaEoLsJZ7ITkXXRb1t8myZpcdDWEVz8PburZh-96bTsfNJQJPg2UWYs9v8IRmOsH_XLp5J6CeN4ppAEnhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JCKrzfzak6"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-log &lt;a href="https://t.co/JCKrzfzak6" target="_blank" rel="noopener"&gt;https://t.co/JCKrzfzak6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JCKrzfzak6"&gt;&lt;img src="https://cdn4.telesco.pe/file/vHdmufJH_eV-zdtbLkd-c8aGsJ7bb-WYR9qT4cegmMv9ImGmGy0PUIclbPptTBZxPWNN8cVxpGnAQNJOZN7u5aXULiH91bW9VZOLH2upVZDdYUj2JpSp8-PswjPog26MA-f7vAZSCavlq7zUrB0VZsrkN2Qp_BO3KwfxQ8E65niiPyXMmTDzhO4StGtMi5v7yxQ2WxTb94KHjS9PEjdq9zOgzAedw-N2utNmCQ5cHLgWfJkamshHPqH6eXGkCkcj8LsQYM387sNLjFEH6j6nFmT2c2d43HizhBPXFrOa-xJozZcV_amBP_YnUElG2HYeCbhNqDMLRHzdCLNjPu-L0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JCKrzfzak6"&gt;
 GitHub - apple/swift-log: A Logging API for Swift - GitHub&lt;/a&gt;&lt;br&gt;A Logging API for Swift. Contribute to apple/swift-log development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -225,31 +249,7 @@ GitHub - apple/swift-log: A Logging API for Swift - GitHub&lt;/a&gt;&lt;br&gt;A 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : KrishKrosh/TrackWeight &lt;a href="https://t.co/GmdDzJl9Zk" target="_blank" rel="noopener"&gt;https://t.co/GmdDzJl9Zk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/GmdDzJl9Zk"&gt;&lt;img src="https://cdn4.telesco.pe/file/LBuGl1-3RNjdmO6o4Va7kHwMIRLkTvHJm3HamJnLqT-vPAAI7vbb-pf3QXxZdVjUj28yP0ypjlgEvoVJTjwJQTX9t5pYyUtBJJwgYf93H0hP0YeBNBQr3RN-z2ho-ZHnFPetaodAY-unApM-AO5b_cpXn9Jgfdem_UHCmOG2prNITP3450fDUbSw0PB0CCnwoO-MsV20AZ2OKb-v8WAfJ-DCcQnH590BEtAFkuJOcpFQG-gLxBHqK5EksQUixjIhFnhNiZ54W-6fX1sWn9h6KEbPCOzpbDpzmpwdbhT79TTy6oVEXDwHYFe1C7nLNYaC_AC9i1Ly2tNHtDjlDwvVOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/GmdDzJl9Zk"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : KrishKrosh/TrackWeight &lt;a href="https://t.co/GmdDzJl9Zk" target="_blank" rel="noopener"&gt;https://t.co/GmdDzJl9Zk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/GmdDzJl9Zk"&gt;&lt;img src="https://cdn4.telesco.pe/file/J1-A8rLhL6nHMCDifNhCd2W1ZUIvNiOMwTfVluLw3_WOr28H_7LMync42yHKdCkZdq0FtvC-YEuSGUPYu1vdpfhGbCe8FhEd5B0QPdMXSRbecWO3fo82AHi84WbIc6214E9-vdN6NvWACKYYm6aTHEDaWbanYkwSpLAk9q6KuMW3MdZ4kcDTMO5ZT6PIwXow5e9eS2WVVH8vnSXPbc9qn8UMydqTCcId3TzHg3gvWEMauZ1n43cBVTRKV-3RQOgYocQsxX0zpuop6PE-A2FTXWcnkoRxajGK2sCKFp8Gfkhd3eB99KdRDJjTdA1lCXCzahCqiTZ-X5JYh04j0piC6w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/GmdDzJl9Zk"&gt;
 GitHub - KrishKrosh/TrackWeight: Use your Mac trackpad as a weighing scale - GitHub&lt;/a&gt;&lt;br&gt;Use your Mac trackpad as a weighing scale. Contribute to KrishKrosh/TrackWeight development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : italomandara/CXPatcher https://t.co/tgawsz8zED</title>
-    <published>2025-12-14T02:07:37+00:00</published>
-    <updated>2025-12-14T02:07:37+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25507</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25507"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : italomandara/CXPatcher &lt;a href="https://t.co/tgawsz8zED" target="_blank" rel="noopener"&gt;https://t.co/tgawsz8zED&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tgawsz8zED"&gt;&lt;img src="https://cdn4.telesco.pe/file/excgAI3JCfVGK8ROUe0hcJTeJkYV3vlR82ArBlhQO-MAEw8au0rr_0kLubBzEPMW1AkhreSsM-vfILlO3ujLdqsbjaioztdiR5GEPrx7WNrpgkrMo12Uj_Uupivch9-s-VGkws1Rr0aiCa7n7CZ0oqthYSU0fpzP6UUbfsMgrnc68jeWjPxhSiFMqNAI6CTxy8GgcQ141L2HWt2rY-sesVvta3IHaMOzbWN0hoJYygcJIreTdEnlige0OKDGuJNyWXqXMZcSEbeIiHkNXRbOSTgzmt1zBeCE7r7Bz6Jz4pLJakJsxVBemY_CKa-oEIDKqZ7hmRwLc3JXyxbAFk_nHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tgawsz8zED"&gt;
-GitHub - italomandara/CXPatcher: A patcher to upgrade Crossover dependencies and improve compatibility - GitHub&lt;/a&gt;&lt;br&gt;A patcher to upgrade Crossover dependencies and improve compatibility - italomandara/CXPatcher&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : FLEXTool/FLEX https://t.co/lNjrqqIuSb</title>
-    <published>2025-12-13T02:07:44+00:00</published>
-    <updated>2025-12-13T02:07:44+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25505</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25505"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : FLEXTool/FLEX &lt;a href="https://t.co/lNjrqqIuSb" target="_blank" rel="noopener"&gt;https://t.co/lNjrqqIuSb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lNjrqqIuSb"&gt;&lt;img src="https://cdn4.telesco.pe/file/YS3mCsS_j6KdouNcuKPiYaYfZzJV-R7YYxscsEfp6YeSWxoDlYAahBrGbaeDy95RP8r2vfOkHUU3yvpdJzRtMqx7LgsguiQXSRvz6q8WgX4Ix7Dig-nY9xdL_JmC730j4BjdihHGDtP1vdLzXpbl-oAE3_Gt831VWgaqzwoJeVd4u0onCll5TyltiThNbDrTk3IiENsGe2HBw_FRSaTbvgMqfzdwByLMqk4-R5XH1MU0UjfMB6KjsxewiePs7Gt1mgpSF1XzcEyiMQig0qxt1SHUPdz7pFtBFXFdF__gNTRQt7XcLWaoiuO0x0zlkOoAxkk-Uh9k_af2IIt9MmwPmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lNjrqqIuSb"&gt;
-GitHub - FLEXTool/FLEX: An in-app debugging and exploration tool for iOS - GitHub&lt;/a&gt;&lt;br&gt;An in-app debugging and exploration tool for iOS. Contribute to FLEXTool/FLEX development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
