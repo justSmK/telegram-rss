@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-16T19:24:23+00:00</updated>
+  <updated>2025-12-16T20:31:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI https://t.co/UCIwDJ97Zf</title>
+    <published>2025-12-16T20:22:32+00:00</published>
+    <updated>2025-12-16T20:22:32+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25541</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25541"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI &lt;a href="https://t.co/UCIwDJ97Zf" target="_blank" rel="noopener"&gt;https://t.co/UCIwDJ97Zf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;&lt;img src="https://cdn4.telesco.pe/file/HKyhU5RAV2z_oIum19oZtY-Lyapt6Q303PZ0iC6i2CVB2LGyih68neXzTjXLg16SZC9Ez3ktFWnpHDsFAu64WHdshwWh-Q13VvwxDZJFtsmxu58kqwwp-DoMKYjj5RgRrAeVfzRcDS6_zwLPSzEQ0QeJwMTVAaaSlTu370uAfnoKZlIPlu2KmtWX7x7mP7L4gq5zQ6ZBaNsUMQwUU4xFxSDanFklwrToN3nNkSNySfXG4pnVTynyNtnt4mEWvHnceDstVDBBJzXNtnM3-Yzqb3ofJziZLf_-F5PXmV-fw-xl3nxbK_nS909zHMQ0GUX7TteofdJHFvN8OwDpdsKHqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;
+Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll show you how to create an expandable text view in SwiftUI. This view expands the truncated text view with a specified line limit to a full text view when tapped.&#13;
+SwiftUI Expandable Text View | SwiftUI Text Truncation Effect…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git https://t.co/JnmJ8MqjaD</title>
     <published>2025-12-16T17:17:17+00:00</published>
@@ -202,7 +216,7 @@ Using Apple Foundation Models to Summarize Text - kodeco.com&lt;/a&gt;&lt;br&gt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta (23D5089e) &lt;a href="https://t.co/BHoZClwuJL" target="_blank" rel="noopener"&gt;https://t.co/BHoZClwuJL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BHoZClwuJL"&gt;&lt;img src="https://cdn4.telesco.pe/file/gW_lgipgpaoYuPtknisNkOLluMq_nR7Ee4idZGxyhjTXg6UK_F198V5mx6STFs1ev4vcJxd6fXWgfGG8j0QUUo-YabwKEuzavuuDOf2xqfN9RsE87VLdebotUDPm3m78VbUSB31nKl8Qp2JbgTBTaGNjqowVmkJQmKl_KGlmj1RGFjGk4nvNYjmkrYYUxjFEYLyIXG5IFctR-TKgvgTzqkZR2hF7D2Rt9kkNHk7c2Y-wVupcduRW7RXoKvnfEUaoyELF06ssuNxuD3xvfRQXT8l7GnBaG8N2A9ecadUZ0w8fs3nTsyPXKopEfyXDuk6nQ89a8JFQwEblHeekJNIcSg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BHoZClwuJL"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta (23D5089e) &lt;a href="https://t.co/BHoZClwuJL" target="_blank" rel="noopener"&gt;https://t.co/BHoZClwuJL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BHoZClwuJL"&gt;&lt;img src="https://cdn4.telesco.pe/file/eVDx69_K5m5MTRvCu_ha69ilaVyMpsVZpmea5t7AfIZ3vGEMjnCRBwmP4j2iuru_GW4ol8OKyXbYD6LHAcoczuTajsg8d6ZJ_kYmL7xpdcMrzhG0uVspVRL37qTAtw1AbVvB4OLM_SWYrssVnX0dHYp_RPe9oZtH5dAxCLlndsDhDZhWwcb2_SvHrkGcJQqbjXhs0AlnFWC26YM0Vs5L5o9DqYPkFWkfQdFS6i1B1wBn71HRLX2BNd08dhyl02MEIEIpRoc6MIGKHpMrJEPK9eZHuWbjJJC8OYm0Bntuzg5XhDEJI5ILleRSYiQNzd4fD1QPJeUxbXbeAAQsO4sxHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BHoZClwuJL"&gt;
 iOS 26.3 beta (23D5089e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -214,7 +228,7 @@ iOS 26.3 beta (23D5089e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 beta (23D5089e) &lt;a href="https://t.co/EGBAqLUeVP" target="_blank" rel="noopener"&gt;https://t.co/EGBAqLUeVP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EGBAqLUeVP"&gt;&lt;img src="https://cdn4.telesco.pe/file/GPSGnPABzYqo4cEnsKF1o4uR0i_F7AlBK9C_68Fcs5a-fivQxaFx4yLTgep4Md1Ol2ZiUpHf-5iixZblwi7Y4vwZAHtTHt-Jfi0GyxeyW32WgTenBO69Az_XkiwpswVY1Zic0c5J-KPowR9FcQWtLnHAzwW6z8mQ9oPYsxuPGxIFoqOHBpX0GK-sg2ByP6dJNsGzQ4ATFB2VoxpvAV1iH76cYpyvEZo-LzS_GWXFKyj8dU69uUBSowJcUkBdjN4fOesTPD2j7qQbIulj2v31F9a2Z0wsh7dHaG-zoUZ1vOIeadcxHWhvhx4GJApTl9TlOzn8lGM0NBaUt_Mv3g9sLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EGBAqLUeVP"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 beta (23D5089e) &lt;a href="https://t.co/EGBAqLUeVP" target="_blank" rel="noopener"&gt;https://t.co/EGBAqLUeVP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EGBAqLUeVP"&gt;&lt;img src="https://cdn4.telesco.pe/file/u9mIA6uYzCTYYY0cBzW6xb-MI6iNhkxZC6PSjh9rIT8Fo3K4D6ZVTibJE6C5UN1erpRyl6HqtqW52m42f7VUkMKWR05PrLhKYCXhpEzz_MHLBXTbDNULoqOI8jmOd8QUxwAlZPCgHC8nJxQohwQF-5nQ5ktgI6au6hNCk0kbhO5UaYiSDMMLygapcfN55fHFToornkd4SapYPAW12vjE_glpPRBdj8bve4H5u1kvCbfjIg9nnDLAD4ViMpnBuioi9VDpBAA3VqQBw2FeU_VgSYB1d4M0HSUS-7kWU60kS-enDhnbor6v9N22NMdgrqT1iV2Z1bfNGvZGiT0eHRAdrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EGBAqLUeVP"&gt;
 iPadOS 26.3 beta (23D5089e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -226,7 +240,7 @@ iPadOS 26.3 beta (23D5089e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 beta (25D5087f) &lt;a href="https://t.co/Iy9uY2lfZp" target="_blank" rel="noopener"&gt;https://t.co/Iy9uY2lfZp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Iy9uY2lfZp"&gt;&lt;img src="https://cdn4.telesco.pe/file/nixRbUVfmD0QNsIGahRFmc8H8zQi6LvA_CP4R96nsbE-HYA_URj7-W8czI-WgfWU2bwVUd9kvkO-_sxPsqoN88obbTHcroazjZXseP4i8dh-HAoD6jPLYcuRqjyh9R1icctI7S8njeI1Xmmc1s62s6JeT3syCtOD2Nro7lBxeFG3CBTsim9pKqpi8hJprwB-CUOCFp2h5eT8iA8uXfEZWQedqK2jHa2QN5IT4ChUtVLynBFtJ6Ahc6S-__Azia4k9uST-83oL8qmCpQBCSnmHtJsQ2FFNJpt6sHoUXiMSnyGpls6S3fBYjDdi53v8NX8kuy3EQ1WLuwO-mCxhAEu6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Iy9uY2lfZp"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 beta (25D5087f) &lt;a href="https://t.co/Iy9uY2lfZp" target="_blank" rel="noopener"&gt;https://t.co/Iy9uY2lfZp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Iy9uY2lfZp"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZPJgFj4y4R9Ihhsh8Q0WckXh6ToXJHIzQMS0SkED_KmsmYWcATJAUhLccTlXWbn7rrV-4zVYU5DrvbqigXlSjomRgdGcta4TQtHQZzjFuWs81-h0kB9jsumBZn9_l4jAlRD1aFlWxRrd-lVnuvsSyIr-x1zI-hGkqpcyEoNxUUEKwg6P7kxiseOG0hAyeVcIchM2sBCSVCnC4TeWjxAmiIfvrjN_dCOvkjwC_OetuKXYyvgknM8ISE3rKqn8XlBaPqn8Tx0MKuIGxqeWYhoqRSdXiiDbhATrAldxCBw2-G1HiIEQA6lJf17rlOBMIViEOIy47mKr8Cog8Oa07o2GvA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Iy9uY2lfZp"&gt;
 macOS 26.3 beta (25D5087f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,19 +252,7 @@ macOS 26.3 beta (25D5087f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 beta (23K5585c) &lt;a href="https://t.co/ZcT8hnYIfG" target="_blank" rel="noopener"&gt;https://t.co/ZcT8hnYIfG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ZcT8hnYIfG"&gt;&lt;img src="https://cdn4.telesco.pe/file/Doc0edWiogmoy2jH-6RWJ3W85EahD-xxLkMXhbpS1njiYZlYsptZm6hOirwQvoHNcfl1bP60SudRV3ia6zeWrEQxdEQY8d7DhYgPZ1VVyOgSqref2uyLJke32oUmFqArSSmepliQaDj9DPZhEeBbAnPdo0_orJky8pODzXyw-VuTiOBzlZHZcVdZ53TaFca2bGciYyRsyHSYC9mopnpGbRRbPp5SSt3bQnwKqlPM2ej-GSyjc6nciziRIo9_JGQefQPgwklc1OxiLSNT_GJ8YSBbeadNSaYxsG3T1ahr0xlrokhx3uchKJhbB9tLHU_OHI9lfXywQx-SXGksVsuAlw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ZcT8hnYIfG"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 beta (23K5585c) &lt;a href="https://t.co/ZcT8hnYIfG" target="_blank" rel="noopener"&gt;https://t.co/ZcT8hnYIfG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ZcT8hnYIfG"&gt;&lt;img src="https://cdn4.telesco.pe/file/AeJtejD9PBl1ILKxSOThSmJz4qhwAQygFX_PZP-_CrsTnk7_027ElE19qgkfbmCO4RN7ag0R-mRn7vRuG-F4XHKupTdaaK2vde2Re2pafLujnObWUCJ-HuVITY-7-G2qv5cLNIqlyQ9algOfgCZJ3YUptPxeXQWbrDhnKwhUgfwR0Ie6E45y6y8GjTgmCeW67dIufpfT5rDiogw1JEK4NPbnfqlZXkCItSNQHzGofiAQKGJURpD3zcKRxOFTSorGnQnrW2VZUbEBHRpt3aogMwZ7my5s84EqboOkCEEJJQHObMDj9yqdu9HnH6QOXY91BtQ5po8DGfDHfUzjzvYTWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ZcT8hnYIfG"&gt;
 tvOS 26.3 beta (23K5585c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">visionOS 26.3 beta (23N5588c) https://t.co/WKlAn1MasD</title>
-    <published>2025-12-15T19:42:45+00:00</published>
-    <updated>2025-12-15T19:42:45+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25521</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25521"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 beta (23N5588c) &lt;a href="https://t.co/WKlAn1MasD" target="_blank" rel="noopener"&gt;https://t.co/WKlAn1MasD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WKlAn1MasD"&gt;&lt;img src="https://cdn4.telesco.pe/file/ajglMBin4wA2lBAPXoxsezC-BjA6VwAqBZ5LmtBEN3MHoumMiM-q9jRThGHRX1SgNVKR0CtlYPSav1n2PllbK3_ev_Mz60LuHrQAsNhlYNESvnVNBVm6dHhS645_cJtEkwQTeJdcaxJGTuOz-L2bDS_FRON32-5U3sqlBlv6KDI01_mvVpUr_Myd8fvKF0NqJNwCFEsRqCXzPQZ-npikujFR-bfBVmgaXLZUU2Q4slxuHsfxMZVqqDesx29ci3Vmgkz62s0Awvkia5AwDJe59eIjJL2Z5RI5mjniHOuifaXci6BJzAui69n2st3j5y6yqcpuOjtag5DncUkdxaIbOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WKlAn1MasD"&gt;
-visionOS 26.3 beta (23N5588c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
