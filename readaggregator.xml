@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2025-12-16T17:29:46+00:00</updated>
+  <updated>2025-12-16T18:40:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -231,7 +231,16 @@ And funny enough, Gmail&amp;#39;s size is making the rounds again&#13;
     <author>
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and it looks like the free tier is more generous. Might be worth checking out first.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA" target="_blank" rel="noopener"&gt;https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;UPD&lt;/b&gt; - Released&lt;br/&gt;&lt;a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noopener"&gt;https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and it looks like the free tier is more generous. Might be worth checking out first.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA" target="_blank" rel="noopener"&gt;https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;UPD&lt;/b&gt; - Released&lt;br/&gt;&lt;a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noopener"&gt;https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;&lt;img src="https://cdn4.telesco.pe/file/LCvriYIgFKm2sPCSDNykidm8m9NdB4hkgoHjceaysv4f4aduOhfUZo68xRV1tX7eCJonX2X97A70wzUBEeModvEkeJBl8kiep3u1tM5c2U2gmPh6bUNDr0e9OKWNjZGA-eIoJyEW8eh4Y9ZASabMKIzmNbw0mhTHJ02wC_Ov25oyEwWowTxL6BWbQoHqcfE0UjOQVYEnkzMzQ4uMuIfG9Zr4J3yNanhy1P5PtSnooUPf9Bx3emRQbpw-jOQLmFVnephC6i_y-q6PyUJ1lctRrr15rZ8jsWabstYsZXPLFgpbaG-JnO1L7SS-xUjAkxmeJRkhuj1hYpRIZ9tisJBE0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;
+Patel Meet (@MeetPatelTech) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;Google accidentally published the Gemini CLI blog post, but now returns 404.&#13;
+&#13;
+What’s inside:&#13;
+🔓 Open-source CLI for Gemini 2.5 Pro&#13;
+🧠 1M token context&#13;
+💸 Free: 60 req/min &amp;amp; 1,000/day&#13;
+🔍 Google Search grounding&#13;
+🧩 Plugin/script support&#13;
+🧑‍💻 VS Code integration (Gemini…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">If you’re interested in digging into llm prompts, the author has reverse-engineered the new Xcode...</title>
