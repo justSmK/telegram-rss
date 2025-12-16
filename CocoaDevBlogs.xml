@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-16T16:37:32+00:00</updated>
+  <updated>2025-12-16T17:29:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git https://t.co/JnmJ8MqjaD</title>
+    <published>2025-12-16T17:17:17+00:00</published>
+    <updated>2025-12-16T17:17:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25540</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25540"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git &lt;a href="https://t.co/JnmJ8MqjaD" target="_blank" rel="noopener"&gt;https://t.co/JnmJ8MqjaD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;
+Use &amp;#39;git mv&amp;#39; to record filename case changes in Git - Ole Begemann&lt;/a&gt;&lt;br&gt;If you’re on a case-insensitive a file system and change the case of a filename, Git will not record the new name — unless you use git mv to perform the renaming.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Back to UIKit, Liquid Glass, Swift Student Challenge, Indie Dev Lift https://t.co/VwNNip5jvn</title>
     <published>2025-12-16T14:27:25+00:00</published>
@@ -240,17 +252,5 @@ tvOS 26.3 beta (23K5585c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&g
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 beta (23N5588c) &lt;a href="https://t.co/WKlAn1MasD" target="_blank" rel="noopener"&gt;https://t.co/WKlAn1MasD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WKlAn1MasD"&gt;&lt;img src="https://cdn4.telesco.pe/file/ajglMBin4wA2lBAPXoxsezC-BjA6VwAqBZ5LmtBEN3MHoumMiM-q9jRThGHRX1SgNVKR0CtlYPSav1n2PllbK3_ev_Mz60LuHrQAsNhlYNESvnVNBVm6dHhS645_cJtEkwQTeJdcaxJGTuOz-L2bDS_FRON32-5U3sqlBlv6KDI01_mvVpUr_Myd8fvKF0NqJNwCFEsRqCXzPQZ-npikujFR-bfBVmgaXLZUU2Q4slxuHsfxMZVqqDesx29ci3Vmgkz62s0Awvkia5AwDJe59eIjJL2Z5RI5mjniHOuifaXci6BJzAui69n2st3j5y6yqcpuOjtag5DncUkdxaIbOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WKlAn1MasD"&gt;
 visionOS 26.3 beta (23N5588c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">watchOS 26.3 beta (23S5586d) https://t.co/YUXq2EiEiV</title>
-    <published>2025-12-15T19:42:44+00:00</published>
-    <updated>2025-12-15T19:42:44+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25520</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25520"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 beta (23S5586d) &lt;a href="https://t.co/YUXq2EiEiV" target="_blank" rel="noopener"&gt;https://t.co/YUXq2EiEiV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YUXq2EiEiV"&gt;&lt;img src="https://cdn4.telesco.pe/file/HZK_AyAWSFoEhcl2AAzFBWo_dJ76BfcaodJ0LeFn-cGo3JFvOP9usGBOFBv--wq12EKIhe987Qd2MD2gOq_Bl3ZHKTx7CuyMv4SgJOkmud7ErUTqUrG528TQqcrEBn_XqJoORxjC0QwOKvkDKV5fecll_IZ29E0ufQNfaKH0YoXs6SG6HDah13A4NGe3kFER92d4OSVolOSfg7D7sgPBZ-7BNx-NKvzfY2zy290ubiz--15VMxaUYasFYUvfTfRwtYL0T4UqZDHOnKrzH9uTe2jyHjM1uaF4JAzQtlXr-2vY0rKoQLEfUxsb6NjNa3Cg_oaQUK3NlR1FTxs41F6BJg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YUXq2EiEiV"&gt;
-watchOS 26.3 beta (23S5586d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
