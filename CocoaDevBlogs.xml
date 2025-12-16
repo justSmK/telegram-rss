@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-16T11:25:35+00:00</updated>
+  <updated>2025-12-16T12:57:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">visionOS: An Introduction [SUBSCRIBER] https://t.co/MXuekH0LLL</title>
+    <published>2025-12-16T12:47:07+00:00</published>
+    <updated>2025-12-16T12:47:07+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25536</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25536"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS: An Introduction [SUBSCRIBER] &lt;a href="https://t.co/MXuekH0LLL" target="_blank" rel="noopener"&gt;https://t.co/MXuekH0LLL&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to Build Your First ChatGPT App https://t.co/To4ad2Ualq</title>
     <published>2025-12-16T06:42:17+00:00</published>
@@ -235,19 +246,7 @@ Tracking renamed files in Git - Ole Begemann&lt;/a&gt;&lt;br&gt;I used to think 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adding text input actions to iOS push and local notifications &lt;a href="https://t.co/dFSzifQVDC" target="_blank" rel="noopener"&gt;https://t.co/dFSzifQVDC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;&lt;img src="https://cdn4.telesco.pe/file/v93jMb-E9fNxDyY77WgMf6otNKBXsMqSFRFsAe95WqnOTB8lXXw2dwsbsXC5HgTyXPupQ1OdVDGaLI16xnZ6L7eaVuKXGWvwnJ_-F2dG0dovOSPxox6H-QqGnKJdZCLQLiV5HpSZagAO3XL4_lmVau60vfYjLLyzOEm6ZinhMZ42y-6fWIV2tn1__W8LFrRzN9hI4b1pNJN-I2fSHoCFiyto1KWYYhL7GkKV10RfMIbsDjzZCUrhSRfldtHopgExLq_KLbpl2vIu45dHJWNcAecoohATF9Y-pWo3_RqV-llCkBU94i7eJLDCuG02jh5z2xNgAlybILuW_L4_B9fQRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adding text input actions to iOS push and local notifications &lt;a href="https://t.co/dFSzifQVDC" target="_blank" rel="noopener"&gt;https://t.co/dFSzifQVDC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;&lt;img src="https://cdn4.telesco.pe/file/KKZR65cu4oWcGGtPYtZLEsQU3S5FlprwWubp-rmKR6q6XcO23Yl3QzKmHmGI_ymYxJdTAKw5-ziHESaouHUMQDOE0fa5_RquiFhPEG0nHtuj2hT3ix5xGq5DoxEJke9MwRa6mg6m2LdTP94NAWXvTSfCAikj_pGuaS41bXlauvHeuKhzOMDalrxmVx-60ALBANi4_mcld2-aQIH4A73Kl-84RE3gryy4TgTMRpKe8Ez3hjmxJRBYc1oB31mjpK98SN6FTqILSYtxvLHhq4BYJ1L9-hNgrX54BYRR92lIWgynsKjlnxvYJ9q1L58LPfJ1Ue7iq0mmaWHB5_GPrwKsLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dFSzifQVDC"&gt;
 Adding text input actions to iOS push and local notifications - Tanaschita&lt;/a&gt;&lt;br&gt;Text input actions let us collect quick user responses directly from a notification without launching the app. Learn how to configure categories, add text actions, and handle user input for both local and push notifications in SwiftUI.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">9 months of a Swift Concurrency Course https://t.co/U3OZddORHc</title>
-    <published>2025-12-15T09:02:35+00:00</published>
-    <updated>2025-12-15T09:02:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25516</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25516"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;9 months of a Swift Concurrency Course &lt;a href="https://t.co/U3OZddORHc" target="_blank" rel="noopener"&gt;https://t.co/U3OZddORHc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;&lt;img src="https://cdn4.telesco.pe/file/Yfey0rydhPAqgRgwXnBSAb5In4At6y5SyN10ipnK2piPU_uJTJuipm0LJp_HxWR2_XVsGnrOo3UWaHxCRjEn-LEmCAq_Sir13rQw3pKdCdsu8U8JrPAkzkOhM-rsF9VtIR8pTQ5wOxtxdKWiP1RQV3r71-staSaxsE7c1ItPBeiRtctzTuaO6a9qzafxYDgPxAo5TUMD__tGStqMv30JOm2Q0HHiFvb1ir09_V3XY8vAhUjjPQ1NxCBxqa420D6FXm8kWcz3QGGvovAYxBaFd4rjpgJTKjQTGWwy2xfuXSPVMucz9aea3e17j9gv3ceBdgGROJHOv1uqwuBk9Ojk0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/U3OZddORHc"&gt;
-9 months of a Swift Concurrency Course - SwiftLee&lt;/a&gt;&lt;br&gt;What I&amp;#39;ve learned from publishing a Swift Concurrency Course, and how course pricing affects accessible resources.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
