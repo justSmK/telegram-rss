@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-17T08:38:03+00:00</updated>
+  <updated>2025-12-17T09:34:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Incremental iOS Builds with Claude Code and XcodeBuildMCP https://t.co/W8eiksg8jE</title>
+    <published>2025-12-17T09:17:30+00:00</published>
+    <updated>2025-12-17T09:17:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25547</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25547"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Incremental iOS Builds with Claude Code and XcodeBuildMCP &lt;a href="https://t.co/W8eiksg8jE" target="_blank" rel="noopener"&gt;https://t.co/W8eiksg8jE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/W8eiksg8jE"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/W8eiksg8jE"&gt;
+Incremental iOS Builds with Claude Code and XcodeBuildMCP - @samwize&lt;/a&gt;&lt;br&gt;When using Claude Code for iOS development, raw xcodebuild commands are slow. While xcodebuild does support incremental builds, it’s not optimized for speed.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">10× faster Xcode CI builds with slot caching https://t.co/phl642TtwE</title>
     <published>2025-12-17T08:37:38+00:00</published>
@@ -242,17 +254,5 @@ GitHub - Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或�
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : khcrysalis/Feather &lt;a href="https://t.co/NyI5TjNYXc" target="_blank" rel="noopener"&gt;https://t.co/NyI5TjNYXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NyI5TjNYXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/bfHyOmja8pGOGBFuBqeJIGsVepFRZqyRUBMq_UIW0KvgvlXGD6q0qSVMuqRzmGgydG2cnn-SJP-ubBLviB0q9PEeI9rpbn_v_lkltdxvzByB1ndYnzWGAmDLYpaiT930CVzYJalghzQ34YSpeQgtTIHzPsSC2qqqQcqKQgHeUxn7dKfJ43kHApVRRqA_olxTDBoHVWOo__mU6seclMeSgjD0jzP4gMVavOeDdCezbzYHrvOOYbkDlDW00KL-d1_uS5CWCivxX7W_UHVrC2yo-LqCobllT4ni78Ee1spw44S0g2R3kCmA3frQtHTYVXYgtyaOpB9K3DbbArA6MrvbIQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NyI5TjNYXc"&gt;
 GitHub - khcrysalis/Feather: Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer… - GitHub&lt;/a&gt;&lt;br&gt;Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. - khcrysalis/Feather&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">App Store Connect API 4.2 https://t.co/5wxC2Jj3UA</title>
-    <published>2025-12-16T02:02:29+00:00</published>
-    <updated>2025-12-16T02:02:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25527</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25527"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.2 &lt;a href="https://t.co/5wxC2Jj3UA" target="_blank" rel="noopener"&gt;https://t.co/5wxC2Jj3UA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;&lt;img src="https://cdn4.telesco.pe/file/Nx07IDqQK4srCeHm4Nfuh6kYDGpa7ci0we_JEhFVF0SQe1ykUvgpJgrbbHps8m_2ZwI-5M27DLFpAtjYmGQooNhT7DeJYHGRtstFLVCHuoq3JEttdXJrSbu0nnMzphQfAkJOTjR9bN4GNVqP2dTpTI2EjTL8Cabd33JR3KCQ_UwtasAu0PMjwGxkWmZODZ0EOOpp0uUEKhKa3diHoQOUPDsg9sAl8lxem5HgSVShdXZ4PeD8_TlGQn86_ziJ3aVkhzonO5LUkaGX6tk9kSkd1zaSVhEpB4DNYYOjNJTdJfTzrBgxeIuw4HMM3xGwZK8NPGPSmF2m9L_TF23rlQ2-lw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;
-App Store Connect API 4.2 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
