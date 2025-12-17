@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-17T07:28:09+00:00</updated>
+  <updated>2025-12-17T08:38:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">10× faster Xcode CI builds with slot caching https://t.co/phl642TtwE</title>
+    <published>2025-12-17T08:37:38+00:00</published>
+    <updated>2025-12-17T08:37:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25546</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25546"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;10× faster Xcode CI builds with slot caching &lt;a href="https://t.co/phl642TtwE" target="_blank" rel="noopener"&gt;https://t.co/phl642TtwE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/phl642TtwE"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/phl642TtwE"&gt;
+10× faster Xcode CI builds with slot caching — featherless software design - Jeffverkoeyen&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : dinoki-ai/osaurus https://t.co/XFI5EoahiR</title>
     <published>2025-12-17T02:12:38+00:00</published>
@@ -242,17 +254,5 @@ GitHub - khcrysalis/Feather: Free on-device iOS/iPadOS application manager/insta
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.2 &lt;a href="https://t.co/5wxC2Jj3UA" target="_blank" rel="noopener"&gt;https://t.co/5wxC2Jj3UA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;&lt;img src="https://cdn4.telesco.pe/file/Nx07IDqQK4srCeHm4Nfuh6kYDGpa7ci0we_JEhFVF0SQe1ykUvgpJgrbbHps8m_2ZwI-5M27DLFpAtjYmGQooNhT7DeJYHGRtstFLVCHuoq3JEttdXJrSbu0nnMzphQfAkJOTjR9bN4GNVqP2dTpTI2EjTL8Cabd33JR3KCQ_UwtasAu0PMjwGxkWmZODZ0EOOpp0uUEKhKa3diHoQOUPDsg9sAl8lxem5HgSVShdXZ4PeD8_TlGQn86_ziJ3aVkhzonO5LUkaGX6tk9kSkd1zaSVhEpB4DNYYOjNJTdJfTzrBgxeIuw4HMM3xGwZK8NPGPSmF2m9L_TF23rlQ2-lw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5wxC2Jj3UA"&gt;
 App Store Connect API 4.2 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Using Apple Foundation Models to Summarize Text [FREE] https://t.co/7ByjpZJOMi</title>
-    <published>2025-12-16T00:07:07+00:00</published>
-    <updated>2025-12-16T00:07:07+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25526</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25526"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using Apple Foundation Models to Summarize Text [FREE] &lt;a href="https://t.co/7ByjpZJOMi" target="_blank" rel="noopener"&gt;https://t.co/7ByjpZJOMi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ByjpZJOMi"&gt;&lt;img src="https://cdn4.telesco.pe/file/Vxs1jIsO4D_tVMwF7xLEWNOUj1EbAYxhVOikYCBPuEeWSGeWtSaCZy9e5ijsoupVaJAgJ2DZvsHtNhwuXEH0Wwkdc6bqSRdU6oaDa9cLKqXuBhOdIxtK1isbsowzOPNGcCtChvo108PQBq32_rt3e1xBbFQO4yR883kDmZ5WT1CFouDZkoxtWiI83862obE_FEdjCCZ2yAXAB4wKPPtWi7_giRQBaxj1cN5m1uyvnyGjai3kN097bFJxlf99vZrB5hJR0s3v5jkAxGN-3HXPl7WShsXE6H7DMhT6gfZ2SzTFXV0527NuZ8n16eKdNQGPkktCdydQQrq9f8GlBR18fA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ByjpZJOMi"&gt;
-Using Apple Foundation Models to Summarize Text - kodeco.com&lt;/a&gt;&lt;br&gt;Build an on-device text summarizer using Apple Foundation Models and SwiftUI, with step-by-step guidance on availability checks and summarization.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
