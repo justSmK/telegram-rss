@@ -6,21 +6,10 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@engineering_path</id>
-  <updated>2025-12-17T11:26:02+00:00</updated>
+  <updated>2025-12-17T12:57:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
-  <entry>
-    <title type="html">Забавно, как быстро поменялся мир: то, что недавно...</title>
-    <published>2025-12-06T08:33:20+00:00</published>
-    <updated>2025-12-06T08:33:20+00:00</updated>
-    <id>https://t.me/engineering_path/160</id>
-    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/160"/>
-    <author>
-      <name>engineering path</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Забавно, как быстро поменялся мир: то, что недавно считалось вайб-кодингом, превратилось в рутину. Зато любой момент, когда ты пишешь код сам — вот где теперь реальный вайб&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA5B4.png')"&gt;&lt;b&gt;🥴&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
-  </entry>
   <entry>
     <title type="html">We wake up in the morning, look out the window, and judge the weather, letting it affect our mood...</title>
     <published>2025-10-26T10:43:03+00:00</published>
@@ -154,5 +143,16 @@ Scheduling time to do...</title>
       <name>engineering path</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Последнюю неделю рубль сильно штормило и, наблюдая за этим, мой мозг в фоне пересчитывал текущие доходы в долларах, а вместе с этим возникало внутреннее ощущение недовольства от происходящего.&lt;br/&gt;&lt;br/&gt;Вчера вечером я в очередной раз наткнулся на кадры войны в Газе, и это заставило меня задать себе вопрос — а действительно ли у меня вообще есть реальные причины для недовольства в жизни?&lt;br/&gt;&lt;br/&gt;Если так посмотреть, у абсолютного большинства из нас есть то, что для кого-то другого является пределом мечтаний, в том числе здоровье, семья, безопасность и крыша над головой, надо только начать &lt;b&gt;замечать и не обесценивать&lt;/b&gt; это.&lt;br/&gt;&lt;br/&gt;Это не значит, что не нужно всегда стремиться к большему, но я думаю, что чтобы быть счастливым, нужно быть благодарным. А чтобы быть благодарным, нужно не забывать хотя бы иногда смотреть на тех, кому в жизни повезло намного меньше.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">«Money is not the root of all evil; there&amp;#39;s nothing evil about it. But the lust for money is...</title>
+    <published>2024-10-11T06:56:29+00:00</published>
+    <updated>2024-10-11T06:56:29+00:00</updated>
+    <id>https://t.me/engineering_path/129</id>
+    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/129"/>
+    <author>
+      <name>engineering path</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;«Money is not the root of all evil; there&amp;#39;s nothing evil about it. But the lust for money is bad. The lust for money is not bad in a social sense. It&amp;#39;s not bad in the sense of &amp;quot;you&amp;#39;re a bad person for lusting for money.&amp;quot; It&amp;#39;s bad for you.&lt;br/&gt;&lt;br/&gt;Lusting for money is bad for us because it is a bottomless pit. It will always occupy your mind. If you love money, and you make it, there&amp;#39;s never enough. There is never enough because the desire is turned on and doesn&amp;#39;t turn off at some number. It&amp;#39;s a fallacy to think it turns off at some number.&lt;br/&gt;&lt;br/&gt;The punishment for the love of money is delivered at the same time as the money. As you make money, you just want even more, and you become paranoid and fearful of losing what you do have. There&amp;#39;s no free lunch.»&lt;br/&gt;&lt;br/&gt;— &lt;i&gt;The Almanack of Naval Ravikant&lt;/i&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

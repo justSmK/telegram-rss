@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-17T11:26:19+00:00</updated>
+  <updated>2025-12-17T12:57:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -97,7 +97,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/684"&gt;&lt;img src="https://cdn4.telesco.pe/file/RpBJugM-2WYVe4v4ZVWk6UiRQTSD26l4WYvJ1AAclxmantBN1N4oNtUAxFLxcyGpfMJnplyWFWB1nN_aoMTLsZGgu70wFDjKnIDonvniltqVQ2_PBP8cLDbHfmAxbst9vCglij8wDhpVvgfmjZGQ2wT30Qd7e9I3EagZYXMbQZzXJ268NFNlCp71UrYipAlzQCcfulYFfe_RSNoEPRMH8dmoc8yMpg2x-rmWReZRInRTVjmCXCnvUH4avEweE-OTOR6ooq6nGqHGvXeqrbhUmmRkuQV3cRStwF0NYr2L7vzE5z6kCIYtkIKDamYqrpZTe8ylIJ-a3CD4UidDFCKNDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вы можете разместить тулбар с элементами прямо над клавиатурой, используя модификатор &lt;code&gt;.keyboard&lt;/code&gt; в placement.&lt;br/&gt;&lt;br/&gt;Отлично подходит для AI-чатов, заметок и любых интерфейсов с быстрыми действиями во время ввода текста.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/684"&gt;&lt;img src="https://cdn4.telesco.pe/file/awIY18W-IJS4LLwAh-qRV-ZOskorZBfwCRdsk0bOcSMWj7LCNx26c9X4BLxztFew7LnJ0nYnX0MEtDjrkeNMwoXBuTtxz981G9zK5Penuh2LHt6vCrbVk3XA1gzGGO4M1OHN_JhQ6ignRspg23BgNsx4ovWa-Xv2K4ETDJ1oSN4ZUfsbVSqzLMgvjGgQW350_3Q4-JxaKKPdcNcgIgRCvnvQuJQKOLMiaLnz83eo7Jcd-WBI40GsdndR71_H4xPkYB3_qaBRhqfvCDnzgaJJ-dzfFq--yKtEtlNsrh6RBA96PXjtxNLXRRAKASv9QbvMh37EGEK-iD98ZhErOiDYFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вы можете разместить тулбар с элементами прямо над клавиатурой, используя модификатор &lt;code&gt;.keyboard&lt;/code&gt; в placement.&lt;br/&gt;&lt;br/&gt;Отлично подходит для AI-чатов, заметок и любых интерфейсов с быстрыми действиями во время ввода текста.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">SwiftUI совет&#13;
