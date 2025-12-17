@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-17T15:30:55+00:00</updated>
+  <updated>2025-12-17T16:36:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Swiftjective-C : A Month of Marketing: A Recap https://t.co/hJhWuVdNl5</title>
+    <published>2025-12-17T16:27:13+00:00</published>
+    <updated>2025-12-17T16:27:13+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25548</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25548"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swiftjective-C : A Month of Marketing: A Recap &lt;a href="https://t.co/hJhWuVdNl5" target="_blank" rel="noopener"&gt;https://t.co/hJhWuVdNl5&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Incremental iOS Builds with Claude Code and XcodeBuildMCP https://t.co/W8eiksg8jE</title>
     <published>2025-12-17T09:17:30+00:00</published>
@@ -242,17 +253,5 @@ GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot test
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Caldis/Mos &lt;a href="https://t.co/uB0VHpJnC4" target="_blank" rel="noopener"&gt;https://t.co/uB0VHpJnC4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uB0VHpJnC4"&gt;&lt;img src="https://cdn4.telesco.pe/file/fGoddT3QmHfZy2TL_j42QFXDmmvrGznFhpL69uFIcBewclltpscd9fA2sFBl2CPuWySRjTikCbuHrHUily39PElsjo2c7SYxiLx3_hbQevhafhT2JYG_E7qB21uU4Sw1I6Pu8vLtlQwUzFba6R-VTJficuZM7YM_95_WxQ3xuAVJmP_87PWN6eDfRfc1GB3FK9mhboHiVke_lI5fKiepB-385-R28dtMa3I0p9TiG9AH-EB_MaepsVzVt8Akz5F2ZZAB14TNDRTVd6F2pPNn4_Jx1tJI6Lo1Mu4WtlpBfK8_jx8o-Jk1pELAn2qXTvkjISa-en7D0gF_8QL5wG4EOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uB0VHpJnC4"&gt;
 GitHub - Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll… - GitHub&lt;/a&gt;&lt;br&gt;一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS - Caldis/Mos&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : khcrysalis/Feather https://t.co/NyI5TjNYXc</title>
-    <published>2025-12-16T02:07:14+00:00</published>
-    <updated>2025-12-16T02:07:14+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25528</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25528"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : khcrysalis/Feather &lt;a href="https://t.co/NyI5TjNYXc" target="_blank" rel="noopener"&gt;https://t.co/NyI5TjNYXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NyI5TjNYXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/bfHyOmja8pGOGBFuBqeJIGsVepFRZqyRUBMq_UIW0KvgvlXGD6q0qSVMuqRzmGgydG2cnn-SJP-ubBLviB0q9PEeI9rpbn_v_lkltdxvzByB1ndYnzWGAmDLYpaiT930CVzYJalghzQ34YSpeQgtTIHzPsSC2qqqQcqKQgHeUxn7dKfJ43kHApVRRqA_olxTDBoHVWOo__mU6seclMeSgjD0jzP4gMVavOeDdCezbzYHrvOOYbkDlDW00KL-d1_uS5CWCivxX7W_UHVrC2yo-LqCobllT4ni78Ee1spw44S0g2R3kCmA3frQtHTYVXYgtyaOpB9K3DbbArA6MrvbIQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NyI5TjNYXc"&gt;
-GitHub - khcrysalis/Feather: Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer… - GitHub&lt;/a&gt;&lt;br&gt;Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. - khcrysalis/Feather&lt;/blockquote&gt;</content>
   </entry>
 </feed>
