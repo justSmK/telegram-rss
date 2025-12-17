@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-17T19:24:43+00:00</updated>
+  <updated>2025-12-17T20:31:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -102,7 +102,7 @@ GitHub - PureLayout/PureLayout: The ultimate API for iOS &amp;amp; OS X Auto Lay
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI &lt;a href="https://t.co/UCIwDJ97Zf" target="_blank" rel="noopener"&gt;https://t.co/UCIwDJ97Zf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;&lt;img src="https://cdn4.telesco.pe/file/HKyhU5RAV2z_oIum19oZtY-Lyapt6Q303PZ0iC6i2CVB2LGyih68neXzTjXLg16SZC9Ez3ktFWnpHDsFAu64WHdshwWh-Q13VvwxDZJFtsmxu58kqwwp-DoMKYjj5RgRrAeVfzRcDS6_zwLPSzEQ0QeJwMTVAaaSlTu370uAfnoKZlIPlu2KmtWX7x7mP7L4gq5zQ6ZBaNsUMQwUU4xFxSDanFklwrToN3nNkSNySfXG4pnVTynyNtnt4mEWvHnceDstVDBBJzXNtnM3-Yzqb3ofJziZLf_-F5PXmV-fw-xl3nxbK_nS909zHMQ0GUX7TteofdJHFvN8OwDpdsKHqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI &lt;a href="https://t.co/UCIwDJ97Zf" target="_blank" rel="noopener"&gt;https://t.co/UCIwDJ97Zf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;&lt;img src="https://cdn4.telesco.pe/file/NV9Uj-SW6u-g0WeTJiSrDrx4pOuYtBmqXOMYv9KpQRz4rOWaG3GtojMROR_ttEfwmL9lE87iJ0dosmuNq_xCzLx7p0QE7Dw2BDIJflVroDBp3VEhLDI1h057WM3XsxSXc7pAzeYcNGsFKCHgDZKzv4mSZm496a5zzlPCplF1q1WxTdTxGoAU-CMEJEJ-BvolloQeRBJUbYq-zfVJLq9smMLevCqCCMPfeHG-2F8X3_eO2KcbBAFyGrcPtAVSPZ1dTtjVGM9qp5-dx9ulu3542gvc1Jjnbrb53OZFBWVipWhIJtLLgASBYcGWQ0jDVzuZrsoZzuT4HGUVDQ4bH9VXMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UCIwDJ97Zf"&gt;
 Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll show you how to create an expandable text view in SwiftUI. This view expands the truncated text view with a specified line limit to a full text view when tapped.&#13;
 SwiftUI Expandable Text View | SwiftUI Text Truncation Effect…&lt;/blockquote&gt;</content>
