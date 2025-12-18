@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-18T05:29:37+00:00</updated>
+  <updated>2025-12-18T06:41:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Animating SF Symbols in SwiftUI https://t.co/MOZURlf4hp</title>
+    <published>2025-12-18T05:47:52+00:00</published>
+    <updated>2025-12-18T05:47:52+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25559</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25559"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animating SF Symbols in SwiftUI &lt;a href="https://t.co/MOZURlf4hp" target="_blank" rel="noopener"&gt;https://t.co/MOZURlf4hp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;&lt;img src="https://cdn4.telesco.pe/file/qaC5NF7_XwmgoOG2rIJkemnGGIHIz26NuWLWLL2Oj-wSWXg1qi2xRgie_Bf6APLsxuIbKUXvKwCovb2TnvCke2VAguxcMdvLI-lV5YOIXAX277GZlq2AQQdCON49OvTFn9wsSApi_D8_h_MpM53487bKivdVMQfF37YSRtEB8WTCKqDmQMd9m1MBJOsVkJB_doym_U3Y77DMyZxfijvn38jXbRaGxgCGKdrNACt1xBvriWsJJ1p4IAXTFdnFeEPktjALTFFrSudatHimmgZTYesmbUPlyATFdzyL6pLHGqf9RkUSm0W-mBiXB0uQEq7WCfJxxvA8M0o6VXUdzrEg6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;
+Animating SF Symbols in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Add symbol effect animations and transitions to symbol images in SwiftUI to handle icon state changes without custom drawing or animation logic.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Changes to iOS in Japan https://t.co/Beplihe01Y</title>
     <published>2025-12-18T02:27:40+00:00</published>
@@ -238,21 +250,5 @@ SwiftUI Expandable Text View | SwiftUI Text Truncation Effect…&lt;/blockquote&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git &lt;a href="https://t.co/JnmJ8MqjaD" target="_blank" rel="noopener"&gt;https://t.co/JnmJ8MqjaD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;
 Use &amp;#39;git mv&amp;#39; to record filename case changes in Git - Ole Begemann&lt;/a&gt;&lt;br&gt;If you’re on a case-insensitive a file system and change the case of a filename, Git will not record the new name — unless you use git mv to perform the renaming.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Back to UIKit, Liquid Glass, Swift Student Challenge, Indie Dev Lift https://t.co/VwNNip5jvn</title>
-    <published>2025-12-16T14:27:25+00:00</published>
-    <updated>2025-12-16T14:27:25+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25539</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25539"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Back to UIKit, Liquid Glass, Swift Student Challenge, Indie Dev Lift &lt;a href="https://t.co/VwNNip5jvn" target="_blank" rel="noopener"&gt;https://t.co/VwNNip5jvn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VwNNip5jvn"&gt;&lt;img src="https://cdn4.telesco.pe/file/OC8_DmPLkcabDYLcj0pbfTasSK2y6K6oyFHLvnJY-oMdysHn9wpFmh3iEbVKwvAYfqzQK4w6J8fqLIz51c4_9NObH2RAyLT8Ibv8H-4V7JqSYs9YqY1FRG9c8Osq6q3-YWFw_hpCZ9qNmt6WRaYriex49jg2Dk7wbtdsxG4zloA9fmnCOgH660EcDkz2AbFcL45acmsG6M7ZkyHBQWmXEe1Ybec2bZbHUy74x9L3W794JMCitxmIxgI-836jXSLBkjqLgPhuQQ7KiDKUd3gI9CsL5kIE9ydRGbHXylV-GrLUnV0F9Nigvg52JjtWyaBYs4I_m4H5bbw9bl7-FNqyaA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VwNNip5jvn"&gt;
-Back to UIKit, Liquid Glass, Swift Student Challenge, Indie Dev Lift - YouTube&lt;/a&gt;&lt;br&gt;My Swift &amp;amp; SwiftUI Courses - https://seanallen.teachable.com/?video=EIsrS4bvWPQ&#13;
-Swift News Newsletter - https://swiftnews.kit.com/newsletter&#13;
-🔗 Swift News Link Repo - https://github.com/SAllen0400/swift-news&#13;
-&#13;
-In this episode of Swift News I keep you up to…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
