@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2025-12-18T22:26:12+00:00</updated>
+  <updated>2025-12-18T23:25:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -246,7 +246,7 @@ Why Large Swift Projects Hit a Wall (And How to Break Through) - tuist.dev&lt;/a
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada" target="_blank" rel="noopener"&gt;https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada?utm_source=substack&amp;amp;utm_medium=email"&gt;&lt;img src="https://cdn4.telesco.pe/file/TLOAUv5YA6G6riHPvvixEmaJWQ0kG2nQvDyUb0ZI56XFtiXadS3rMiw3V9Zsz23jFXoOO6bGeuw5cmU6ns2_35x3hWAK_X-vnp1GeRhUFoDvwzsKZA4pznkQf9hpblJfnxRHlr588iPR5xcL7FM3aAk_e9Ud81cEEmwoxhPoU1sUr6NnUdK5IKtIrZnqfQV9zlDym3Cq0h0Pg2gODT3Lz2prjN-7rhh75b2eolNY3qdVWFu5pHyfBsCz_6-ulWcXrLA69lhjw1_1OlHyWEkAcLlbKt8t-gMLdhXDMlpXVvu2q_FVMK3zTSdy946dHZu5TKdUGi4oUJungxc5_OavdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada?utm_source=substack&amp;amp;utm_medium=email"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada" target="_blank" rel="noopener"&gt;https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada?utm_source=substack&amp;amp;utm_medium=email"&gt;&lt;img src="https://cdn4.telesco.pe/file/u-UxXUvKpmnAbJMDbvhibXfr-yJ05qtrsfTOT1atLaCiD8FRuqD2ZCFfsJgc_x3svAXJSZEC5ioRIA26lO7_MQNXo-deqG8xjyZCG_mqlTgkYOth-LGWt3KCpvj4XV72mfnYlsM38m98Bvhd5M2H3sm58xt6cpPc7cCRei5x7qK6JyZPNLzj5CRABQc9VwYuJsTwGd9SNb_ixe2Z2Z4cJnIwKZ20KjVz6npSDrawgUOjwzD75onsE0Yybr6zN7PIrQ8tqPZxcVE9Jal5Vnnc0cwCaDtLtKWNfFygEwbj-LT0flSI8NmsxkOx-U2yfoX7EqXF9GqyyDGkIK9D2oVChA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada?utm_source=substack&amp;amp;utm_medium=email"&gt;
 SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing and Observation. - Medium&lt;/a&gt;&lt;br&gt;SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing and Observation. Introduction The arrival of SwiftUI in 2019 brought about a major shift in view management. Indeed, views in UIKit …&lt;/blockquote&gt;</content>
   </entry>
 </feed>
