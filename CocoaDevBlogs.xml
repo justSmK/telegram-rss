@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-18T13:41:08+00:00</updated>
+  <updated>2025-12-18T14:29:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Implementing Consumable In-App Purchases with StoreKit 2 https://t.co/H3Xo0hZmXc</title>
+    <published>2025-12-18T14:07:08+00:00</published>
+    <updated>2025-12-18T14:07:08+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25562</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25562"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Consumable In-App Purchases with StoreKit 2 &lt;a href="https://t.co/H3Xo0hZmXc" target="_blank" rel="noopener"&gt;https://t.co/H3Xo0hZmXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/DyO6wRLvRYTUpJacIFYRmbHcEx3Wa80VAff4CMYAL8Ef68O0c0BSvYda5rbO1st89TaWahk2T_D-zcKTQF5Mea4I8zgzhDXaGTOJQtegKHh4ny-nf6rroCUWBUFv8DfzZNql-ZqYMjVAIqUYcpVyzQ_ho9LZWRW95OA5sAMQT2aYntfd1krDI61Q_dmOjOKRjNnFy0AreMmR7KS36nRBZDW58YiaGzH23Qx1WTYHtZuJtMeYSMjgPlN_HOe-AxmcMbHBGVH12CmEtSf4s2Ux1i0pYTGw67733xA-FltJALdRhtKkJjA2exOBSqhnz7_8W7tzBlJlriTXD1sTva_GHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;
+Implementing Consumable In-App Purchases with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to start selling Consumable In-App Purchases in your SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">10 Automation Tools Every Lazy Developer Should Use https://t.co/x1edvPDLjm</title>
     <published>2025-12-18T13:17:47+00:00</published>
@@ -236,17 +248,5 @@ GitHub - argmaxinc/WhisperKit: On-device Speech Recognition for Apple Silicon - 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : QMUI/LookinServer &lt;a href="https://t.co/bgeB6wKg1z" target="_blank" rel="noopener"&gt;https://t.co/bgeB6wKg1z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgeB6wKg1z"&gt;&lt;img src="https://cdn4.telesco.pe/file/JvG1TTslyCplqSqlZf5cHqwct1MRQnKbW6SgkjmDJquisXPkCduTuBClcetYspy1kHIIgsTG1G7m6JlBZ8CK7yGWUZ0smS2iwAM7jRHKuzkyryaGGcLNCGLR3oSXZrN2b3SP3rPXkF54fGOX_wPrfiqthvjFm0KQGMRchp1B4xC4_Zd2mHZ5iPVfSqjBMyR3Z1o--cXFvmq6xOx5woRzhNPrIk85CfJv4vbMNRQ7Jv4Ep-gxzpXfzlds_glYFdQu9BJ2WOAoYpKOSfk_wtvt-DiOO1FXKK-GLFk4WCJd47_S-XtNgi5iuls1SYX7Z5MhXRfkyZ4HKAqKITMmbfK1Gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgeB6wKg1z"&gt;
 GitHub - QMUI/LookinServer: Free macOS app for iOS view debugging. - GitHub&lt;/a&gt;&lt;br&gt;Free macOS app for iOS view debugging. Contribute to QMUI/LookinServer development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : PureLayout/PureLayout https://t.co/VjUBLhGaQX</title>
-    <published>2025-12-17T02:07:36+00:00</published>
-    <updated>2025-12-17T02:07:36+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25542</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25542"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : PureLayout/PureLayout &lt;a href="https://t.co/VjUBLhGaQX" target="_blank" rel="noopener"&gt;https://t.co/VjUBLhGaQX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VjUBLhGaQX"&gt;&lt;img src="https://cdn4.telesco.pe/file/A0NUh0DtctZ_3n3i1HTy_LAv1nqV41XIQu1UQnouX4IygxaFEY0GjP2tsUPE58zHbyQp4by7chrI8zwnFzQqDqx0YHxvnYGrIc-EQ4WMgOozk5x-TB_ud-4jpiFw6GuMjUzf0o1LrgwcLIQR04qd4WMaJ714YX61IP6Cgkgo5yo2a-d-c58utg_sEKSTH6m5TJS5tcY2Lekupxb07X_Vy9_Zqj61ZudKOVZHbAeHiEmJFKZekrKIBK9LbnOxMsBRzBoExn-v6Y1XGCtQ8H8VIYGrSVy3WKtDCPN6f7qNY8ad2i90FqkIh80EtEKKU4nO-y-Rrt6ptY11Y8UeuTAkRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VjUBLhGaQX"&gt;
-GitHub - PureLayout/PureLayout: The ultimate API for iOS &amp;amp; OS X Auto Layout — impressively simple, immensely powerful. Objective… - GitHub&lt;/a&gt;&lt;br&gt;The ultimate API for iOS &amp;amp; OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible. - PureLayout/PureLayout&lt;/blockquote&gt;</content>
   </entry>
 </feed>
