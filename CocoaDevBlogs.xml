@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-18T09:33:17+00:00</updated>
+  <updated>2025-12-18T10:30:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">My Worst iOS Interview Ever — The Senior Reviewer Who Destroyed My Architecture Diagram...</title>
+    <published>2025-12-18T10:07:42+00:00</published>
+    <updated>2025-12-18T10:07:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25560</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25560"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;My Worst iOS Interview Ever — The Senior Reviewer Who Destroyed My Architecture Diagram &lt;a href="https://t.co/rBpTdJwRhw" target="_blank" rel="noopener"&gt;https://t.co/rBpTdJwRhw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/rBpTdJwRhw"&gt;&lt;img src="https://cdn4.telesco.pe/file/nffyhzrBeKNduz00KCNsRPZCieQd3Eojs324YbcwPZSxVqPPA9OEfE2PHONHeJ1NPplN0_3AsezpJAv4FKD3y39z-ZGaivRbo4obO75pLDNZdxvVXFGWMVuMuEVyRUDgNzX75RIV-eboA-xf-KO4EMN0X_q-_8ba7ho3KIp3zej7VBdsXGQfRNidvwyaoRJqu-lM5JVdRFZjBiRcxNvpFXEMNE3s5HyZPqvp_Uc3XwI-WU3aWvLvW8vOZzJTkYwujwkR0ScTdOnCsWVsipBS39zmGHRQlSGZLnlxuCOCn9KKY_hDp-7cRm7GWzoWmXf0GZOZ1dk2yOpAGDeNyC_1cQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/rBpTdJwRhw"&gt;
+My Worst iOS Interview Ever — The Senior Reviewer Who Destroyed My Architecture Diagram - Medium&lt;/a&gt;&lt;br&gt;I walked into that interview confident.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Animating SF Symbols in SwiftUI https://t.co/MOZURlf4hp</title>
     <published>2025-12-18T05:47:52+00:00</published>
@@ -238,17 +250,5 @@ GitHub - PureLayout/PureLayout: The ultimate API for iOS &amp;amp; OS X Auto Lay
 Expandable Text View | Text Truncation Effect | Text Renderer API | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll show you how to create an expandable text view in SwiftUI. This view expands the truncated text view with a specified line limit to a full text view when tapped.&#13;
 SwiftUI Expandable Text View | SwiftUI Text Truncation Effect…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git https://t.co/JnmJ8MqjaD</title>
-    <published>2025-12-16T17:17:17+00:00</published>
-    <updated>2025-12-16T17:17:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25540</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25540"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ole Begemann : Use &amp;#39;git mv&amp;#39; to record filename case changes in Git &lt;a href="https://t.co/JnmJ8MqjaD" target="_blank" rel="noopener"&gt;https://t.co/JnmJ8MqjaD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JnmJ8MqjaD"&gt;
-Use &amp;#39;git mv&amp;#39; to record filename case changes in Git - Ole Begemann&lt;/a&gt;&lt;br&gt;If you’re on a case-insensitive a file system and change the case of a filename, Git will not record the new name — unless you use git mv to perform the renaming.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
