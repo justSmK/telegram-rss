@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-18T15:29:55+00:00</updated>
+  <updated>2025-12-18T16:37:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Animated Custom Menu | Expandable Menu | SwiftUI | Xcode https://t.co/kQ3RNslJnE</title>
+    <published>2025-12-18T15:52:26+00:00</published>
+    <updated>2025-12-18T15:52:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25563</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25563"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animated Custom Menu | Expandable Menu | SwiftUI | Xcode &lt;a href="https://t.co/kQ3RNslJnE" target="_blank" rel="noopener"&gt;https://t.co/kQ3RNslJnE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;&lt;img src="https://cdn4.telesco.pe/file/WOQpeTfQkBvq3RtIeMkTSAcwCta7MrKWZmMpdBCRNQiDuB4HIvEeVKJx3UBwJz8iSrTLac1QP6Ky1H-kE3tp_V25Jp-3udfOeKS0-O78bRd1HLYBQTVMc77zm5NtzkboFz6SAAa6Am6h3Jz-B1to0wuXJGVGwXd0TwZTF_syPc-s0v5HYjoSUekMIQb-ainSQZLlazsJI4dD4YSJ2w_yV1_oTvDpLe7zj_in4h8b5kGwwbeERhlOSYQpvGfCes2g6Ynb8l8mcuDenlakGOEQSHlajjcOW0bfkMYf2c0w_KLpeaLDUiIDlssns_u2luUHdW7bG7w9VvN6MZJdNWZ34Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;
+Animated Custom Menu | Expandable Menu | SwiftUI | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll show you how to create an expandable custom menu with beautiful animations using SwiftUI.&#13;
+Apple Books Custom Menu Using SwiftUI | SwiftUI Custom Menu | SwiftUI Expandable Menu | SwiftUI Complex Animations | SwiftUI Expandable…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Implementing Consumable In-App Purchases with StoreKit 2 https://t.co/H3Xo0hZmXc</title>
     <published>2025-12-18T14:07:08+00:00</published>
@@ -236,17 +250,5 @@ GitHub - dinoki-ai/osaurus: The missing macOS LLM server. Run local or cloud mod
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : argmaxinc/WhisperKit &lt;a href="https://t.co/gAHpexUDxM" target="_blank" rel="noopener"&gt;https://t.co/gAHpexUDxM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gAHpexUDxM"&gt;&lt;img src="https://cdn4.telesco.pe/file/FpA8W9rafuxBaOp7cU5LG-Qv--uDfScUEJGu4bB14u1HmG_ImEtfGSrELB2Ah_liw_KNbmnr5N1l1JL82Tze8yC3BzrpHU2LaPxuwoTOFqCw-LiYa8voiVBvjxaTpLZVaDfdf9AxD2cyMu2ES5T2pyCnmykYwZzyyScG2RgEFicvMNRKCf0se0CbAgH10YI5qFp1EWhWkrPaPX2XlhIi6xHawwCbhjGyncc0ijzraMktJRk72G-rNQmH_Y0dTu_6Y2GJOZhv8fcEd6UPfMgVBEvf3KJ38stK5JV9tRbbq3WWIv9Zg1xUKwI9bSeWEO6kjnlS22CXT82f1ujWm_piTw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gAHpexUDxM"&gt;
 GitHub - argmaxinc/WhisperKit: On-device Speech Recognition for Apple Silicon - GitHub&lt;/a&gt;&lt;br&gt;On-device Speech Recognition for Apple Silicon. Contribute to argmaxinc/WhisperKit development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : QMUI/LookinServer https://t.co/bgeB6wKg1z</title>
-    <published>2025-12-17T02:07:37+00:00</published>
-    <updated>2025-12-17T02:07:37+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25543</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25543"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : QMUI/LookinServer &lt;a href="https://t.co/bgeB6wKg1z" target="_blank" rel="noopener"&gt;https://t.co/bgeB6wKg1z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgeB6wKg1z"&gt;&lt;img src="https://cdn4.telesco.pe/file/JvG1TTslyCplqSqlZf5cHqwct1MRQnKbW6SgkjmDJquisXPkCduTuBClcetYspy1kHIIgsTG1G7m6JlBZ8CK7yGWUZ0smS2iwAM7jRHKuzkyryaGGcLNCGLR3oSXZrN2b3SP3rPXkF54fGOX_wPrfiqthvjFm0KQGMRchp1B4xC4_Zd2mHZ5iPVfSqjBMyR3Z1o--cXFvmq6xOx5woRzhNPrIk85CfJv4vbMNRQ7Jv4Ep-gxzpXfzlds_glYFdQu9BJ2WOAoYpKOSfk_wtvt-DiOO1FXKK-GLFk4WCJd47_S-XtNgi5iuls1SYX7Z5MhXRfkyZ4HKAqKITMmbfK1Gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgeB6wKg1z"&gt;
-GitHub - QMUI/LookinServer: Free macOS app for iOS view debugging. - GitHub&lt;/a&gt;&lt;br&gt;Free macOS app for iOS view debugging. Contribute to QMUI/LookinServer development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
