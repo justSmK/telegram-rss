@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-17T23:26:00+00:00</updated>
+  <updated>2025-12-18T02:01:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -63,7 +63,7 @@
     <author>
       <name>Swift Tips</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swift_tips/813"&gt;&lt;img src="https://cdn4.telesco.pe/file/hZY8sHT6q4HFdsQ-qcLQMPV5VTf4S3Oc2H0eIEAc1HWMCeWzAKh6VnpK4XMbti7y-jXPNvB-2wRAGu4V6GMWFolZ1n1K3Xhps2hOD0YONBZ-ArQje1w77WWBms6w8UMdSirpOdxT-h8-kJy1IVLoy4_vcUVJzGvZhA-0XAtUDzvBrp38C5S3yLzoc_AuGo4fkB2-a92Lddn8Tx2tmqEhQ7Gz-WpDYJH9CvWD4kc5scHRj0TkQHyxmHqr_gvTx5aQ-b3u3z7PBcSXz2p0Ff_fmiIewt3nqTf63LWbHJtsOyBR4pL2-yUeomZZYZcLwmVIY_XaURlTv2JIr-8h_EJRUg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Creative Coding: Randomness and Noise&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Интересная &lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается как можно преобразить UI проекта, с помощью необычных анимаций.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swift_tips/813"&gt;&lt;img src="https://cdn4.telesco.pe/file/feuo6mTUN2it1oCM8_AuVFa0iis83fxNvHE1qQ0ZEL56gKRYkTtr6JcZDtXD3XkU_9Uwo_pHsYOAJgX0xMZxjLuX-MWRYEuyabUsKGbHIDIEuv98w2ev7ulxmzZiYDILkWex4u4IX6W5kDHnckg_o6bOdHcJ3eM_1QaFYTYz9Le4qXMgwfqh2vwWqVEi_43Hn4baYRzY3VSWCXnnNtuVPmb3mYyyt6OULCHWeItQZw0HD5lRhgWl_5CTK6d-WRUp87l0PkENwEonUiDTZZ2hHjTnfCBJhPJ4w1zmgcdg0ykwkljI07pEJSS6eC_cZwjv06GAtoLn_ix3CSC8qRIZXg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Creative Coding: Randomness and Noise&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Интересная &lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается как можно преобразить UI проекта, с помощью необычных анимаций.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Навигация на SwiftUI: чего не хватает и как...</title>
