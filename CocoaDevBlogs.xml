@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-19T13:37:24+00:00</updated>
+  <updated>2025-12-19T14:27:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Contact Management: Working with the Contact Picker View Controller https://t.co/tUaGO6wttN</title>
+    <published>2025-12-19T14:03:39+00:00</published>
+    <updated>2025-12-19T14:03:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25571</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25571"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/Tkzsv6CaB0lalhym20uCbnHKRL8RfSWLMuuAt_VicCFADyXhxa1TnkJHS1rHWol905MeZzFj5_cGz_9bg8AAEhyt1XBbC7yCL6kpPRU6KE6ndVo0MWRMqpd2e2cHN_BdSLNEUkzfDIwS5bZdJ5QLOJi5Ilph8MO9B4ihpIs7WxxMJ_9x5AgUQwHXZPZsqTm1dYwk617sJUxhwxJFX7B5ZCnAg81Grz5mJhRRUb2x-xeQIyU5u8u9nU43ntaAPVgEKrM-Ra-bVbroZynQ8brYWFxqdTjNa9G-X_KspJP1Qi5rjo1GnKiKrKN1ERntx3R-kP0kuj5arhmGwXD_HiX4wA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
+Contact Management: Working with the Contact Picker View Controller - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use the default controls for handling contacts provided by Apple in your SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to Create App Store Screenshots - Fast &amp;amp; Easy https://t.co/8WGktsaVp0</title>
     <published>2025-12-19T13:12:29+00:00</published>
@@ -123,7 +135,7 @@ Apple Books Custom Menu Using SwiftUI | SwiftUI Custom Menu | SwiftUI Expandable
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Consumable In-App Purchases with StoreKit 2 &lt;a href="https://t.co/H3Xo0hZmXc" target="_blank" rel="noopener"&gt;https://t.co/H3Xo0hZmXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/DyO6wRLvRYTUpJacIFYRmbHcEx3Wa80VAff4CMYAL8Ef68O0c0BSvYda5rbO1st89TaWahk2T_D-zcKTQF5Mea4I8zgzhDXaGTOJQtegKHh4ny-nf6rroCUWBUFv8DfzZNql-ZqYMjVAIqUYcpVyzQ_ho9LZWRW95OA5sAMQT2aYntfd1krDI61Q_dmOjOKRjNnFy0AreMmR7KS36nRBZDW58YiaGzH23Qx1WTYHtZuJtMeYSMjgPlN_HOe-AxmcMbHBGVH12CmEtSf4s2Ux1i0pYTGw67733xA-FltJALdRhtKkJjA2exOBSqhnz7_8W7tzBlJlriTXD1sTva_GHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Consumable In-App Purchases with StoreKit 2 &lt;a href="https://t.co/H3Xo0hZmXc" target="_blank" rel="noopener"&gt;https://t.co/H3Xo0hZmXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZyTdiA-H128sLB3cUEfmco9pV32-u_aAMkXKrLo9C-aXQT2OuiAVddI_WOlugt6mJYBVWpF-lDGz_TpgYvbuJIjIm3nXEq8LYKYSzrImfHmhrLscTzAMFlLsCNTUYmZcc3Iq3ROUrrZcsJl4y7fa0Dt63ty0oqwUHLBr1-Nm3MwuCP9sHOVoR3jFwkAz60gXwC3TCm0wFd4CvRrDm-9PHybDhZF-d6qjDMBZL3DXKfAHLb1kYXEoesqFVk6rYI2LdEtmPlNFgKfqpBR48ioty6fhbnNvx8IoFnyK5GRw45SHexPWLL8B7GG4N-9GJhY3yUi-H8asCOzt5l2v3zwcQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;
 Implementing Consumable In-App Purchases with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to start selling Consumable In-App Purchases in your SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -245,17 +257,5 @@ GitHub - PlayCover/PlayCover: Community fork of PlayCover - GitHub&lt;/a&gt;&lt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/container &lt;a href="https://t.co/sAlZSMt7BL" target="_blank" rel="noopener"&gt;https://t.co/sAlZSMt7BL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/sAlZSMt7BL"&gt;&lt;img src="https://cdn4.telesco.pe/file/uM15yDAZFZU--ctPkXs25ulvMX_-xDeR1oUQ-YjI2XPWFUKOoUqjx_V953h-IsQ5YdkGicbn6QwhKetmqXWMnE6iZB3F8PraLn8jl8DLh1Q8qWDQVbc7rZXfIMtpcttR4u7k5Y0N5Srr9eVCFapkwwVC4qwX8fx8qO6U0GjfkDeWRdX5vSkxvKgfDN4H3tlNQmnBp9ZY7_0WGYfKFsYW9Nu69-BtpRa6PFNK0fiY5E2TkQV35ENbFNN0c7QHwFBpyJqU3RgJ1LU0EDcl0FIfmND9ApJgXW6UKP9o_ey8U26zHgS1ay4TNYv6_6sw1yY0wbe3LktiAgU96BC7vFH8IQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/sAlZSMt7BL"&gt;
 GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written… - GitHub&lt;/a&gt;&lt;br&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - GitHub - apple/container: A tool for creati...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : iina/iina https://t.co/ndEQtBDibv</title>
-    <published>2025-12-18T02:02:50+00:00</published>
-    <updated>2025-12-18T02:02:50+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25551</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25551"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : iina/iina &lt;a href="https://t.co/ndEQtBDibv" target="_blank" rel="noopener"&gt;https://t.co/ndEQtBDibv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ndEQtBDibv"&gt;&lt;img src="https://cdn4.telesco.pe/file/DQ6Spct98g5LXDj0sGJ3ujrfp-wDudjHRAQZeEY-ZQN8vfJlCuX2z5l67rr85ITntwkmYLL38sy23UNX7C-L5A4JJxdBoHLZa00Ut0DlhoW1Xc8bMbxeptjjP5eSFgBGXXyJ31I8oxh2WTsUHINZbvZlHCzTGB5gAmVvuv9jaQHyqfypHz4ROcYJEgV4lMGr1z1lpJsBX-I-YG913CReAaYcZjIjLZovzmnq-ufli4jwmBFwKtK4UO6I3EhQC9rfF6kefQnex-YyhZu7rkVqI54SDV0PZksjobzTpKDYVW9M43xLEqsHi-GvW69m2QdWMO_ffyb2qULUMUaW21utBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ndEQtBDibv"&gt;
-GitHub - iina/iina: The modern video player for macOS. - GitHub&lt;/a&gt;&lt;br&gt;The modern video player for macOS. Contribute to iina/iina development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
