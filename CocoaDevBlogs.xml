@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-19T18:49:49+00:00</updated>
+  <updated>2025-12-19T19:21:00+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 737 https://t.co/FbycCxCSCc</title>
+    <published>2025-12-19T19:12:08+00:00</published>
+    <updated>2025-12-19T19:12:08+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25574</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25574"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 737 &lt;a href="https://t.co/FbycCxCSCc" target="_blank" rel="noopener"&gt;https://t.co/FbycCxCSCc&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🎄 I just gifted you 14 days&amp;#39; membership  https://t.co/UC7LwrKHjt</title>
     <published>2025-12-19T17:03:04+00:00</published>
@@ -245,17 +256,5 @@ GitHub - Iemand005/FoxMusic: Music client for Legacy iOS - GitHub&lt;/a&gt;&lt;b
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : microsoftconnect/ms-intune-app-sdk-ios &lt;a href="https://t.co/Gy2bY1ZdWx" target="_blank" rel="noopener"&gt;https://t.co/Gy2bY1ZdWx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;&lt;img src="https://cdn4.telesco.pe/file/pnGhvQ8EokVF3ykJ_KO7J3067lIOi_TIwnvOfI3i1GrCO43MEIWlskHN2mhFyU2FwNoWa86z737iea5TLMMWOYvAghRbiZ7xsabfaDKPhH4iVNuCRomyuPRuT9Fs-ajj6A_I4kmcESCKNNYqe3TueDceHRPMY6hqaqS0TO9uimj38-FD6p5cFS7hOLk87X8xwzamWLc1LherQXMUqydhDG0EXrDNXrqWs35S2sUr7w8T1vAtnfSGrI3hxLmnn9A8ZMPP28LwYFajU5uwN-ExX2FzyxjOMIXFlm0gfVNQg4OiuhPJnV0EMYp4uFRPLAlAYpbil9ftPbXIJQ0_5flwlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;
 GitHub - microsoftconnect/ms-intune-app-sdk-ios: Intune App SDK for iOS enables data protection and mobile app management features… - GitHub&lt;/a&gt;&lt;br&gt;Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile apps with Microsoft Intune - microsoftconnect/ms-intune-app-sdk-ios&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : kstenerud/KSCrash https://t.co/SaDTp3LQin</title>
-    <published>2025-12-18T02:02:56+00:00</published>
-    <updated>2025-12-18T02:02:56+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25554</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25554"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : kstenerud/KSCrash &lt;a href="https://t.co/SaDTp3LQin" target="_blank" rel="noopener"&gt;https://t.co/SaDTp3LQin&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;&lt;img src="https://cdn4.telesco.pe/file/FhaS_pr7SmLs4aNbQSJE7dydLtZiwSERKB_sdYeuOXUrCQAT9jrmnObifMcMigUlMKek6EU8BoUVuF409XnhtB5RjIW68QHqJc6d6XbP2pKrvdc5PiVXUGkRboHg4nn1VoFZkqC0N6TlPKve6bL0rVhWvLOZAMKxH_JaYeo71PQTDE1Ovmn1wNGjFcDzw2qNt4SUhYDAr7wZ1Vo9cUblgsZT8orgXkB-gTHjgK7K1_kFGslChe2E0DErcCAEjchbZBetbdFXb4iPh5OKC9qREh6uvOuf_ZIZGZU665XWSx6UA76qbx6TeTZD6OhD7IzE-BXfWZkBFsqZsxhKyllQ1Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;
-GitHub - kstenerud/KSCrash: The Ultimate iOS Crash Reporter - GitHub&lt;/a&gt;&lt;br&gt;The Ultimate iOS Crash Reporter. Contribute to kstenerud/KSCrash development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
