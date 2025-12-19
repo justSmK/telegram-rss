@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-19T15:29:10+00:00</updated>
+  <updated>2025-12-19T16:34:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">10 SwiftUI Modifiers of iOS 26+ You Probably Missed https://t.co/vGTabMIIjb</title>
+    <published>2025-12-19T15:32:51+00:00</published>
+    <updated>2025-12-19T15:32:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25572</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25572"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;10 SwiftUI Modifiers of iOS 26+ You Probably Missed &lt;a href="https://t.co/vGTabMIIjb" target="_blank" rel="noopener"&gt;https://t.co/vGTabMIIjb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vGTabMIIjb"&gt;&lt;img src="https://cdn4.telesco.pe/file/egleskZjdfQwBWDmwTmUZSljPCdheXbNxJlvImxCQFmv-5DjoS9mjJKuhxXOPjCGvUs2fzzWI5-zwij3V1wdP60SogpyCFsjchiCKDSKChbdW3Q8rFSP7_g0-0DoOsziPuj_eOh0rZuNt-nPePYRVp-0g6-znTtfW7iLXfJzoblW97e7RGd6FEefwiOkqtyfhE6UwfVeG4JVugyXPHxpoBWYNR2dZsghCX2unNHLI4X4xdHQNnXpM6J8kJF6tye5aFqmMDF023WdOSdC2iSt-a9FN1yu8qw-jtHrZHLdop1nlYuDRomEyLjtExqUW3jdSnlMdeylLcjZWeQBCiqkZw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vGTabMIIjb"&gt;
+10 SwiftUI Modifiers of iOS 26+ You Probably Missed - Medium&lt;/a&gt;&lt;br&gt;Not a Medium Member? “Read For Free”&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Contact Management: Working with the Contact Picker View Controller https://t.co/tUaGO6wttN</title>
     <published>2025-12-19T14:03:39+00:00</published>
@@ -121,7 +133,7 @@ Section 3.3.3(A): Specified requirement…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animated Custom Menu | Expandable Menu | SwiftUI | Xcode &lt;a href="https://t.co/kQ3RNslJnE" target="_blank" rel="noopener"&gt;https://t.co/kQ3RNslJnE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;&lt;img src="https://cdn4.telesco.pe/file/WOQpeTfQkBvq3RtIeMkTSAcwCta7MrKWZmMpdBCRNQiDuB4HIvEeVKJx3UBwJz8iSrTLac1QP6Ky1H-kE3tp_V25Jp-3udfOeKS0-O78bRd1HLYBQTVMc77zm5NtzkboFz6SAAa6Am6h3Jz-B1to0wuXJGVGwXd0TwZTF_syPc-s0v5HYjoSUekMIQb-ainSQZLlazsJI4dD4YSJ2w_yV1_oTvDpLe7zj_in4h8b5kGwwbeERhlOSYQpvGfCes2g6Ynb8l8mcuDenlakGOEQSHlajjcOW0bfkMYf2c0w_KLpeaLDUiIDlssns_u2luUHdW7bG7w9VvN6MZJdNWZ34Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animated Custom Menu | Expandable Menu | SwiftUI | Xcode &lt;a href="https://t.co/kQ3RNslJnE" target="_blank" rel="noopener"&gt;https://t.co/kQ3RNslJnE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;&lt;img src="https://cdn4.telesco.pe/file/YwxH1Gqc328MTtcLqGfHVJmL6HXtwi74R7BND9rXuIY_S-nwGKX1x1t-msF2sk6VZX_mW7a3CPjc7aMkM1JreugM7tyimeeiji99c9tgzOC6Uf_8iz1g4DOUB14_Sfcc2F-RYe_RjGx_HMbts1V_GFqY2om8lTp7UrzPSGqfpUggOgvr2IYJQBzD_qSU_aBL1cZRm5Kze84ljfSnUwB7vUuy7o7_V5Qk3VlkW0J1VnSK1gw-7jVUnvfE9k0oKOfdLJ0nPZGqyDYE2G0SNKbOIGZOLZL56TbcLdBgNcA8qJu72HoPAFltfM_nMaPqVQ6EUcVWKUSoc2uegf3YaVjUDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;
 Animated Custom Menu | Expandable Menu | SwiftUI | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll show you how to create an expandable custom menu with beautiful animations using SwiftUI.&#13;
 Apple Books Custom Menu Using SwiftUI | SwiftUI Custom Menu | SwiftUI Expandable Menu | SwiftUI Complex Animations | SwiftUI Expandable…&lt;/blockquote&gt;</content>
@@ -245,17 +257,5 @@ GitHub - kstenerud/KSCrash: The Ultimate iOS Crash Reporter - GitHub&lt;/a&gt;&l
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : PlayCover/PlayCover &lt;a href="https://t.co/7XZdrEUgGk" target="_blank" rel="noopener"&gt;https://t.co/7XZdrEUgGk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7XZdrEUgGk"&gt;&lt;img src="https://cdn4.telesco.pe/file/lvz_zxaOdYlYmBnCuYp7S4t4RmGzItoSrmkNtdjCzySzRPMznufpW_JOk7n14FZkDWeGsdcoJszkIOQzyiRNp1VHVv1SMOMHeRVMzz9JIL5ZLRSem4VEqZpId4XF4qrQDPrRd1tPlkQ0A8pKhqdLMyt0iKMP_4Wo1T5e7BTQwpi0-vO4j8tmaa6EC7zQLsw6A7u8syhNEla4xZBX11S4P4LKtzBzUmFv4so-pebTT144pIhBsLn3zcXZ9rz_l0B0OKofRMuipLuZQtgXotQ_Fvo3yaNABXXAVpqqkXRQA2y0LeDnaRGMsQiF16h3qHPlu-cpmKMSBNKJfcHsAJU_gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7XZdrEUgGk"&gt;
 GitHub - PlayCover/PlayCover: Community fork of PlayCover - GitHub&lt;/a&gt;&lt;br&gt;Community fork of PlayCover. Contribute to PlayCover/PlayCover development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : apple/container https://t.co/sAlZSMt7BL</title>
-    <published>2025-12-18T02:02:51+00:00</published>
-    <updated>2025-12-18T02:02:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25552</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25552"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/container &lt;a href="https://t.co/sAlZSMt7BL" target="_blank" rel="noopener"&gt;https://t.co/sAlZSMt7BL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/sAlZSMt7BL"&gt;&lt;img src="https://cdn4.telesco.pe/file/uM15yDAZFZU--ctPkXs25ulvMX_-xDeR1oUQ-YjI2XPWFUKOoUqjx_V953h-IsQ5YdkGicbn6QwhKetmqXWMnE6iZB3F8PraLn8jl8DLh1Q8qWDQVbc7rZXfIMtpcttR4u7k5Y0N5Srr9eVCFapkwwVC4qwX8fx8qO6U0GjfkDeWRdX5vSkxvKgfDN4H3tlNQmnBp9ZY7_0WGYfKFsYW9Nu69-BtpRa6PFNK0fiY5E2TkQV35ENbFNN0c7QHwFBpyJqU3RgJ1LU0EDcl0FIfmND9ApJgXW6UKP9o_ey8U26zHgS1ay4TNYv6_6sw1yY0wbe3LktiAgU96BC7vFH8IQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/sAlZSMt7BL"&gt;
-GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written… - GitHub&lt;/a&gt;&lt;br&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - GitHub - apple/container: A tool for creati...&lt;/blockquote&gt;</content>
   </entry>
 </feed>
