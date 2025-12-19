@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2025-12-19T12:54:13+00:00</updated>
+  <updated>2025-12-19T13:37:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Every time I read articles about SF Symbols, I’m amazed by the animations, the customization, and...</title>
+    <published>2025-12-19T13:03:45+00:00</published>
+    <updated>2025-12-19T13:03:45+00:00</updated>
+    <id>https://t.me/readaggregator/1109</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1109"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1109" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Every time I read articles about SF Symbols, I’m amazed by the animations, the customization, and how polished everything looks. I think: &lt;i&gt;maybe next year I’ll finally sneak them into a real app…&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Spoiler: yeah… probably never. Most of these ideas live happily in pet projects and playgrounds.&lt;br/&gt;&lt;br/&gt;Maybe there are some lucky people in this chat actually using them in production? If so — envy&amp;#33; As the year ends, here’s my little wish for all of us: may next year finally give us a project brave enough to let us play with them for real&amp;#33; &lt;tg-emoji emoji-id="5321266464571792760"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988E.png')"&gt;&lt;b&gt;😎&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/" target="_blank" rel="noopener"&gt;https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23animations"&gt;#animations&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/"&gt;&lt;img src="https://cdn4.telesco.pe/file/QJq8iucUG8wkbbjPKP-ncvbn6hQ3kvfyheLCPm4Ap6AiMTyRiIdk7qXP027PL6yC6uuXvy1zTa5OupREPLeXVTt0dZmnOtbatb3uq__urvViA2-_MghGuwDiyF2-RspfrNNcqOTxD7phWT83lR6vO3TVN80HR4897lszoQi3j6GfEZQELLizLDQf0KihUKyy0QvTqgILn2OebirFbZQe3TJ8oBWaSWyRWP85P8R5VuF0dkE1jUZblKv5sm0KNhrTE0ZARwpywIsrQcTu52W-6a6_MYArJex3JWEXjcgCrTB-sulGHfcxxIbleM_sCrcKQ1m7m7bmXJuMmgzCc_nAEA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/"&gt;
+Animating SF Symbols in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Add symbol effect animations and transitions to symbol images in SwiftUI to handle icon state changes without custom drawing or animation logic.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Recently had to animate a SwiftUI sheet resizing itself — sounds like a super basic thing, but the...</title>
     <published>2025-12-01T13:59:28+00:00</published>
@@ -248,16 +260,5 @@ What’s inside:&#13;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;If you’re interested in digging into llm prompts, the author has reverse-engineered the new Xcode 26 and examined which prompts it uses.&lt;br/&gt;&lt;a href="https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/" target="_blank" rel="noopener"&gt;https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt; &lt;a href="?q=%23prompt"&gt;#prompt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/"&gt;&lt;img src="https://cdn4.telesco.pe/file/A2tzaTAzgbCCU0Qd_9EZejN2jMPWgKN4cafs4VW-QEX-ZtsaDyRFG93-j6rVgzecDhBERHNglo1h_cqKoZkKajGkhdVmeFKgTcNK6Ve-4v3XA1w6wM88WbMZasb6kplC2bBcEpg3U3QqMIxyq4NfvbuTNO712JvhRKuOore1mqdJ2iBjgS8TYRIUNKtLwWctiGOq2dzLICORLjT-K05eMnHcIOjpgBOWRxZDwVocwJ5yIvUc9pHQm3xB2IBHK3cMOfcI4fMys_U7GSqdJLit5Ilc_jKpzJZrgv1c1GDWyJk13kGTv8jAA1792Fhmn9n5PLd0sr2L7J50iVHR5gOzww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/"&gt;
 Reverse-Engineering Xcode&amp;#39;s Coding Intelligence prompt - Peter Friese&lt;/a&gt;&lt;br&gt;Ever wondered how Xcode&amp;#39;s Coding Intelligence prompt works? In this blog post, we&amp;#39;ll take a deep dive into the prompt&amp;#39;s inner workings and explore how it helps developers write code more efficiently.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">For anyone dealing with background tasks: BGContinuedProcessingTask in iOS 26 lets the system handle...</title>
-    <published>2025-06-15T03:56:01+00:00</published>
-    <updated>2025-06-15T03:56:01+00:00</updated>
-    <id>https://t.me/readaggregator/1088</id>
-    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1088"/>
-    <author>
-      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/readaggregator/1088"&gt;&lt;img src="https://cdn4.telesco.pe/file/KdSZYo9hjs6ZKQAjbnyaHiCp03BWDsdjIrsUANYyu_nM1X6CIOAXCV6qlEDSE6KAMm0rjJ-ndL66PG6bXA_ZnjHEOJTpW5F95zWRPkEfsw3olNuJMqpDFJLIASFVTxPKM-TAsGJcFvLflbKq3f8NiCKHIRTLjWYFbdDZ8kHy5mOm8fmMi3It0tboxEPC_4ppVDEmx20Ng34BIjkgIVwKOVvZFufq7mTgiyICbRGGO-QU6j_hSxxEnvAXi1-w6RoIYvx2hIUBE5tzivAwxs0ZS0oeuAUq8l88xiHVAo_-RZ62uUc4HFvq7gaHbu6ycQI_7R8FvGfDZk3yuLRmT47O5A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For anyone dealing with background tasks: BGContinuedProcessingTask in iOS 26 lets the system handle progress UI, so there’s less need for custom solutions or Live Activities. Worth looking into.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://developer.apple.com/documentation/backgroundtasks/performing-long-running-tasks-on-ios-and-ipados" target="_blank" rel="noopener"&gt;https://developer.apple.com/documentation/backgroundtasks/performing-long-running-tasks-on-ios-and-ipados&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23background_task"&gt;#background_task&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
