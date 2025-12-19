@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-19T05:28:30+00:00</updated>
+  <updated>2025-12-19T06:39:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Observable классы внутри иерархии SwiftUI&#13;
+&#13;
+Разбираемся с...</title>
+    <published>2025-12-19T06:04:38+00:00</published>
+    <updated>2025-12-19T06:04:38+00:00</updated>
+    <id>https://t.me/iosgr/4560</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4560"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/hNih2uHmnM9sMRQVVGaoHH4sazRB-ZvIuVQ2THElSmFwzc0PSo86PGVzpIN-TdSTYgJtoDQg8H8DFjylZWU4i1Zkt98uIyalP3mzQnurPGOXsSyq3yvHN1V0YaZ6t923mbvtisxD5lR_HUT3LhIJRRobvY5jpv7gjZF21WN3P6BxghIWfrjmxA1QeSOs4_aikOxHXQtKv2p5Z-e_zFV7DGCrSlmbkszV9pXPTqSq-jCLbHs_VkqSqkAqjRHbtOF6X2TvMC_O1TNcl0QK26ywuQNZYZcPLqeXPiGj6jNqyH1VB42z-T3fXodaoPM5ovUWW24w9Zc3qoXrNB8CC_mqkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
+Initializing @Observable classes within the SwiftUI hierarchy - Nil Coalescing&lt;/a&gt;&lt;br&gt;Learn the recommended ways to initialize and store @Observable classes in SwiftUI views, and see what can go wrong when observable state is managed incorrectly.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Почему уведомления на macOS отображаются вверх...</title>
     <published>2025-12-18T06:03:31+00:00</published>
@@ -19,7 +33,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4559"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZDf1ti2rZGwt3o1u3j4J_tkUtFMIwlUVgdkcRlaf8DPQ1HHNVFy9eRmmoCrzHMCi7dM3gUT3ouee1PV6SDNQepInLv1WlAvntw4skG6LlX7I9vUvdOc7G2nXgNzLRrknyE0ROB94xZGq-PCUhtVpinLPDKEjCIrewm-4S2YY04qdDpTrsVkJeZIYFTN0LfDgKuiqM1f254li0UeIjbU2XXwiCdSz3Fdw2FLJtQfnegZMLepiu7-_zZ9R06gm5zViI67-VIpWtwQRBfFf_dGsWa3EGT_sbeZ4DT_vyp7_pg2ZtPy0qIdD-srENMPEJfarSdvKmPZRpTUwubEPGwC6Xw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/debugging-strange-calayers-chatgpt#x" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему уведомления на macOS отображаются вверх ногами&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Отличное исследование случайно воспроизводящегося бага, при котором уведомления от macOS приложения ChatGPT отображались вверх ногами, по ходу которого вы узнаете много интересных особенностей CoreAnimation.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4559"&gt;&lt;img src="https://cdn4.telesco.pe/file/LBDCDNArUByno__2w1xORsko_ZfKviZosEnrSKYx8AavSmwCebWRB7-jz9ifC79p7nFwG40GZKmWVdcKG8wCppSndd2EWrrPQN6qzsD73mgfq8Dwo5aWP1L_WG99JY1P421cLiGtIpmlvykddpmQWvmE79EZj868YZXyzTHb54-J6P0DVs_NpnTHtcVqDUvbY2gD_3M7_o1eGqFbMkzRS3nOYN0cQeR8tALIpGGN4iBR2bQe-vfHk34uHiAjG9zjxs61Jx8PfzVtrqUMxgxtaJmlIMLqr_7xkkLdcyQWdnW4QvtG28bYuqUvEkC0lqnF5EHwy9qzax34Cs11An-WeA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/debugging-strange-calayers-chatgpt#x" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему уведомления на macOS отображаются вверх ногами&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Отличное исследование случайно воспроизводящегося бага, при котором уведомления от macOS приложения ChatGPT отображались вверх ногами, по ходу которого вы узнаете много интересных особенностей CoreAnimation.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">SQLiteData – тур по библиотеке&#13;
@@ -32,7 +46,7 @@ Pointfree выпустили бесплатный...</title>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SQLiteData – тур по библиотеке&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Pointfree выпустили бесплатный урок по основам работы со своей библиотекой &lt;a href="https://github.com/pointfreeco/sqlite-data" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SQLiteData&lt;/a&gt; – API-совместимой заменой SwiftData, под капотом которой, как можно догадаться по названию, наш любимый SQLite.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;&lt;img src="https://cdn4.telesco.pe/file/eyRTnQi8QWzr7VIijBRcZpVcB_pqyG0UElJpH8vXPQocBGayHu0hyOVANRW_iJJi_PZPjtkNJbEkW8qvOfEoU4VkVNuccSKybVReq8iVe4A3tZ3sTHkDd-wIxD3uOb8rmuxBiAku5iF9kyMMZM65QJW-90gCu1irJSLtPpbJ6U8xVgGh0cMe7Z7_T3cRWnLF4R_reIBs5GQAQ5j0HcNpffr0w1FTocDscTAX6aHKsAcmpFjzny_9AH904XIc18gtlQeGP18qaj0tQeT9lzjembCMiSqbsJQCKLKMolZ7N0kzYlVPLq2SglUmKQeq2sDBKNFI-FweclJi6AP1wZXPXQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SQLiteData – тур по библиотеке&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Pointfree выпустили бесплатный урок по основам работы со своей библиотекой &lt;a href="https://github.com/pointfreeco/sqlite-data" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SQLiteData&lt;/a&gt; – API-совместимой заменой SwiftData, под капотом которой, как можно догадаться по названию, наш любимый SQLite.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;&lt;img src="https://cdn4.telesco.pe/file/QzZZx_pjgsqyN_2I-c42HbBJectX4GqqvHpPR47gCZd2uMDPlwWdLx9bErz6B6ssN_Kw7YB_zXu5_CF-FkJjhlGEImDEw3uXPu-fo1lGzSKhS-fBMfgEI5hXuz_M14tD6rCwesxD1Y-_SNDE9Y1OFIFNGabgE4Oe54q6whJVKZU_D92DUEZKth75-vz_g2wkduKbyv7dGEdkAv35u3KVe40NuVkGR8dlhQweDDd0y9hCsimq8CoaCcj-9wL6RcskRYIDpvDLKE8HeWWaNOHfA7XIJnkxwocUSSXN4VAdAzKdg1KAZd4Tr-F0C8p8IOjsSqAueqQ4Vx-8e-AYQpR0Kg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;
 Episode #347: Tour of SQLiteData: Basics - www.pointfree.co&lt;/a&gt;&lt;br&gt;We give a tour of our SQLiteData library, a fast and lightweight alternative to SwiftData. We’ll set up a fresh project with the package, define models and configure the database, and even write SQL migrations with the help of Xcode’s Coding Assistant.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -262,17 +276,5 @@ Attach to Multiple Processes - Indie Stack&lt;/a&gt;&lt;br&gt;For the vast major
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Advent of Code in Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Сегодня стартуер ежегодный конкурс Advent of Code. В этот раз, правда, заданий не 25, а всего 12. Вообще, AoC – отличный способ поиграть с новыми языками программирования, до которых у вас руки могут обычно не доходить. Но если вы всем языкам предпочитаете Swift, то по ссылке – небольшая инструкция по тому, как вписаться в официальный лидерборд от Apple.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424"&gt;&lt;img src="https://cdn4.telesco.pe/file/lyXFMGJEWNkkLF-rZpXcOghzC-wrxgBFGQxM3rasvbt_hU4PNjBal2dIvjPCYRcNOx8NNfVdcbBXdl4pwhed6UryjDIUwRfp0DqB9rQTc85Sj-_d4OODK1Ndnmv4NA9VrSb-PZ4ESmUTYrASGB6afKXuX7etqrCXiKvXRedKFLB4L5Nzw7IISqtJwxKoHDEYdtGIzUS5hVMyvBsB6j7HwHg7KfymBaM-e0Ts1udiI0h_0yCwP5o7rZK-d0wNLSlWRVRTMydYN-D9b64mB29LSKGQXVhZHXvMol8DRCr5yMXeB5VOXZF80ByNo1POl-Z2HRC0IQLg1-rJkaxV7eOA6A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424"&gt;
 Advent of Code 2025 - Swift Forums&lt;/a&gt;&lt;br&gt;Hi Swift Community&amp;#33;  It&amp;#39;s the most Wonderful Time Of The Year. Time to spend with Family and Friends  spend on Swift coding challenge fun&amp;#33;  Every December, Eric Wastl publishes Advent of Code, a fun set of coding exercises. One challenge is posted each day…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Напоминаю про наш трехминутный опрос – обмениваю вашу...</title>
-    <published>2025-11-30T10:02:48+00:00</published>
-    <updated>2025-11-30T10:02:48+00:00</updated>
-    <id>https://t.me/iosgr/4540</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4540"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Напоминаю про &lt;a href="https://survey.alchemer.eu/s3/90973072/iOS-Good-Reads" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;наш трехминутный опрос&lt;/a&gt; – обмениваю вашу обратную связь на розыгрыш подписки на Pointfree. Лучший способ завершить неделю&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://survey.alchemer.eu/s3/90973072/iOS-Good-Reads"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://survey.alchemer.eu/s3/90973072/iOS-Good-Reads"&gt;
-iOS Good Reads - survey.alchemer.eu&lt;/a&gt;&lt;br&gt;iOS Good Reads.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

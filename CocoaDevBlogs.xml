@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-19T05:28:29+00:00</updated>
+  <updated>2025-12-19T06:39:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -145,7 +145,7 @@ My Worst iOS Interview Ever — The Senior Reviewer Who Destroyed My Archite
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animating SF Symbols in SwiftUI &lt;a href="https://t.co/MOZURlf4hp" target="_blank" rel="noopener"&gt;https://t.co/MOZURlf4hp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;&lt;img src="https://cdn4.telesco.pe/file/qaC5NF7_XwmgoOG2rIJkemnGGIHIz26NuWLWLL2Oj-wSWXg1qi2xRgie_Bf6APLsxuIbKUXvKwCovb2TnvCke2VAguxcMdvLI-lV5YOIXAX277GZlq2AQQdCON49OvTFn9wsSApi_D8_h_MpM53487bKivdVMQfF37YSRtEB8WTCKqDmQMd9m1MBJOsVkJB_doym_U3Y77DMyZxfijvn38jXbRaGxgCGKdrNACt1xBvriWsJJ1p4IAXTFdnFeEPktjALTFFrSudatHimmgZTYesmbUPlyATFdzyL6pLHGqf9RkUSm0W-mBiXB0uQEq7WCfJxxvA8M0o6VXUdzrEg6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animating SF Symbols in SwiftUI &lt;a href="https://t.co/MOZURlf4hp" target="_blank" rel="noopener"&gt;https://t.co/MOZURlf4hp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qzephn125MYsKLsYeFRd08Ijl3mGf0F-IyFZZ1DMpKm_lFosMrkUNDCCb3VLtFV2E2-QvDr0hR3Y8SAXDpwP-W2dV6_oVHvS3nO7-F7ORFbnMMqeqTERgG9ei1QgIQKCsO-do5tXOyr6RE_v9OJIFfFkbYF8GQITvIB4IGBagQtncpZveUKEggBkfY88c98rXmsVbM23rx7j3Qd32XVIoEXo0KLzd9WNE5jETE_p1Y3w8mbTb4Vnlhof11l61g8kK138lRGSTWSHH5Mir6puMWgTkwQ7X3gtH-gF9dx-mghhhuBAJQIPk3qFvmm69aKtv5h2OnoXzQEeNXmR7zly8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MOZURlf4hp"&gt;
 Animating SF Symbols in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Add symbol effect animations and transitions to symbol images in SwiftUI to handle icon state changes without custom drawing or animation logic.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
