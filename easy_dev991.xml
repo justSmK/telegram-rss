@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2025-12-19T16:33:52+00:00</updated>
+  <updated>2025-12-19T17:22:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">#ios #cursor&#13;
+&#13;
+Если вдруг cursor стал падать в ошибку CoreSimulator...</title>
+    <published>2025-12-19T17:04:00+00:00</published>
+    <updated>2025-12-19T17:04:00+00:00</updated>
+    <id>https://t.me/easy_dev991/288</id>
+    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/288"/>
+    <author>
+      <name>easy_dev991</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/easy_dev991/288"&gt;&lt;img src="https://cdn4.telesco.pe/file/TopIwrrHiwOF83X4rqZtXI9HZXYtrBwLs0_V4WlGHbvdGHiE9oQ1Th3t_gKXwNGOy_oCyp9DTPk9hHs2JMXKgzO91SBdacglhhHXTPgqG_dXSyZSbquqlREVwhWhoz1HHyf1szUu7XnJ_Dz5G12ED6Ammn28QrXRCKdr6cA6TMeQPgld2j2eEdhMcQpMbsSaHNV4Y_I3PrIe5v8RqwXyNxmEdQmn8ZQDzb6ryP55bDROvk_mYOQ0ktOXgB2y7qJg7H19SYzcW7C5rOTRv4H9cUHvoz1IcYOypMImlcYc0RLI1oSbCylgv5FTfwl8VTdztVvUvswbkmi8jFcfbh0LJw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23cursor"&gt;#cursor&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вдруг &lt;code&gt;cursor&lt;/code&gt; стал падать в ошибку &lt;code&gt;CoreSimulator&lt;/code&gt; при попытке запуска тестов или сборки через &lt;code&gt;xcodebuild&lt;/code&gt;, то нужно сказать ему, чтобы для запуска этих команд использовал &lt;code&gt;required_permissions: [&amp;#39;all&amp;#39;]&lt;/code&gt; - это нигде не надо настраивать в проекте, а надо буквально сказать это в запросе.&lt;br/&gt;&lt;br/&gt;Если вы не в курсе: с недавнего обновления &lt;code&gt;cursor&lt;/code&gt; больше не может работать с симуляторами iOS в режиме sandbox, и вот такая простая команда уже не будет работать:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;xcodebuild -project SwiftUI-SotkaApp.xcodeproj -scheme SwiftUI-SotkaApp -sdk iphonesimulator -destination &amp;#39;platform=iOS Simulator,name=iPhone 13 Pro,OS=18.6&amp;#39; build&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Хотя в предыдущих версиях &lt;code&gt;cursor&lt;/code&gt; это нормально работало &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Причем эта же самая команда исправно работает в терминале, но курсор вот брыкается, пока не скажешь ему использовать &lt;code&gt;required_permissions: [&amp;#39;all&amp;#39;]&lt;/code&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9984.png')"&gt;&lt;b&gt;🙄&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">#ios #swift #codable #testing #unittest &#13;
 &#13;
@@ -230,23 +243,5 @@ Announcing the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Swift has ma
       <name>easy_dev991</name>
     </author>
     <content type="html">			Есть разные форматы трудоустройства, и iOS-разработчики не исключение. Давайте узнаем, какой формат сколько людей предпочитает.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;67% - Выбираю работу по трудовому договору или договору ГПХ (с постоянным заказчиком)&lt;/li&gt;&lt;li&gt;2% - Выбираю самозанятость с постоянным заказчиком&lt;/li&gt;&lt;li&gt;6% - Выбираю ИП с постоянным заказчиком&lt;/li&gt;&lt;li&gt;2% - Выбираю фриланс с разными заказчиками (как повезет/кто подвернется)&lt;/li&gt;&lt;li&gt;13% - Стремлюсь начать зарабатывать деньги в iOS-разработке&lt;/li&gt;&lt;li&gt;9% - Для меня iOS-разработка - хобби; не слежу за доходом в этом направлении или не зарабатываю тут&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#ios #swiftui #equatable&#13;
-&#13;
-Наглядный пример использования...</title>
-    <published>2025-10-09T18:21:28+00:00</published>
-    <updated>2025-10-09T18:21:28+00:00</updated>
-    <id>https://t.me/easy_dev991/267</id>
-    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/267"/>
-    <author>
-      <name>easy_dev991</name>
-    </author>
-    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;     &lt;/div&gt;   &lt;blockquote&gt;easy_dev991&lt;br&gt;
-#ios #swiftui #performance  Убираем лишние вычисления body в SwiftUI View
-&lt;a href="https://t.me/easy_dev991/41"&gt;https://t.me/easy_dev991/41&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/ftt05Caz2VK7CI38VS_lsPtzjWX8gc3oD-R6-JniMDw_ARK1TZ2hxGDj16_UD85ecWTM7DsnNWePbQio9JGjr6VbsaJy8r2VLenQb7Fwmr8UiimXQtKS0_OUjwwNXWfy2AsKeumJ8SP8W0CSs3BX8uoyHdBtrQcSana06UeMLSJOyGrWY547XppAZe4GkM6P3Mz2ZwYD96tnbuTbOGZl5d3Av7NfEzFIIwGS5P6QVEdKD2sEAsJBVXhUzO9n_XayQaWis_SgZ58B2b_R5Tk9OAyPPOUHgXeNKop8xmSKFC6AlsFbJQH90dNJU-9k8IW2mY0XnLtEyJggUrzHjokmwQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/8224a2ad2b.mp4?token=juhpwLoJiLX9TC7ubtpiYjbet4FtxadRVs2SBL3RU-KJptW4Oifv64pwUegQsWjeCRS48vpRblQY1lknmiTLp0aX0Ni97pEqAhQ_DGw6Mo7-4Z_L8OAMIa7b6kzzeaiK0Um-oM-oj2d41zAs-AT2C8rUgRZRVpAK06BSxXPT9rg1rXljdtbFp1Jf1CQtWGwWaa-oepu7ywUQFoSzs5eYUmoMVvHaAfjTkjmsSwx_Hb23cawMAZaJZsvCRHrTsh5u9fqaC-Wh3oi_YqOEKqBnlHonRipl5Uu6Sf9MAHcnP1YuebXVFKXfDXTrmJEBbrOhR4YX5PNPvMAFFf3fIq2gWA" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23equatable"&gt;#equatable&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Наглядный пример использования протокола &lt;code&gt;Equatable&lt;/code&gt;, чтобы избавиться от лишних перерисовок вьюхи. На первом видео до исправления, на втором - после.&lt;br/&gt;&lt;br/&gt;Вьюха принимает на вход несколько свойств, и ни одно из них не изменяется при нажатии на кнопку &amp;quot;избранного&amp;quot; в навбаре, но по умолчанию вьюха обновляется при изменении этого &lt;code&gt;State&lt;/code&gt;-свойства на экране.&lt;br/&gt;&lt;br/&gt;Все, что нужно было сделать для исправления проблемы:&lt;br/&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;struct HTMLContentView: UIViewRepresentable, @preconcurrency Equatable {&lt;br/&gt;    static func == (lhs: HTMLContentView, rhs: HTMLContentView) -&amp;gt; Bool {&lt;br/&gt;        lhs.infopost == rhs.infopost &amp;amp;&amp;amp; lhs.fontSize == rhs.fontSize&lt;br/&gt;    }&lt;br/&gt;    // остальной код&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Это первый случай, когда мне пригодился протокол &lt;code&gt;Equatable&lt;/code&gt; с момента публикации статьи об этом, и все же он пригодился &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918C.png')"&gt;&lt;b&gt;👌&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/ftt05Caz2VK7CI38VS_lsPtzjWX8gc3oD-R6-JniMDw_ARK1TZ2hxGDj16_UD85ecWTM7DsnNWePbQio9JGjr6VbsaJy8r2VLenQb7Fwmr8UiimXQtKS0_OUjwwNXWfy2AsKeumJ8SP8W0CSs3BX8uoyHdBtrQcSana06UeMLSJOyGrWY547XppAZe4GkM6P3Mz2ZwYD96tnbuTbOGZl5d3Av7NfEzFIIwGS5P6QVEdKD2sEAsJBVXhUzO9n_XayQaWis_SgZ58B2b_R5Tk9OAyPPOUHgXeNKop8xmSKFC6AlsFbJQH90dNJU-9k8IW2mY0XnLtEyJggUrzHjokmwQ"/>
   </entry>
 </feed>
