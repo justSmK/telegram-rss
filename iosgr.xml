@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-20T19:25:38+00:00</updated>
+  <updated>2025-12-20T20:32:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -129,7 +129,7 @@ Tuist...</title>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что спрашивают на интервью в команду Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Инди-разработчика пригласили пройти интервью в команду, которая занимается SwiftUI для macOS. Работу он не получил, но зато принес задачу, которые ему задавали на техническом собесе.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;&lt;img src="https://cdn4.telesco.pe/file/iDDJVM1GYBShf4GJpENV8jTaMl7GAVNkaTqQymLVO8IVE3nCmgtl9PJ3pNlkHHc0axMsqiDhieCgIxw_1C_xDX1AgFHlQP3Dgd6ZvbQ6WVC35H-36o9R7dBaaN5gTwYxwUH9pDlsoN-Wt6bLPlDJylNXfNTmk896G09cRjhYiH-QUca01jTWtCbzG2fH2WCPGDSNW5qJrQL6fM82ZFffHFV4HNiULmM5lzjLokhtXidlcLgasFQyGUVNpyLJcUqkfyqGYJ-20ELTxrRCGUYMy4-wprqP9CPPkcxEuwK8jawa49DTH-LdZC_ZjbKzC1Co1HIqVdFl_OWHkyR6F_07hQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;
-Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for Apple&amp;#39;s SwiftUI team and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
+Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for a SwiftUI frameworks role and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">Как устроены мобильные приложения VK «под...</title>
