@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-19T23:24:53+00:00</updated>
+  <updated>2025-12-20T01:58:11+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : What&amp;#39;s new in Swift: December 2025 Edition https://t.co/X7fwQSfGlj</title>
+    <published>2025-12-20T01:03:00+00:00</published>
+    <updated>2025-12-20T01:03:00+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25575</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25575"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: December 2025 Edition &lt;a href="https://t.co/X7fwQSfGlj" target="_blank" rel="noopener"&gt;https://t.co/X7fwQSfGlj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/X7fwQSfGlj"&gt;&lt;img src="https://cdn4.telesco.pe/file/tpmzOgsRxZTF9oG9fRe0B2Wcvacsf1Rj3Dbq18_PWIkKFgCqKCPPHEeYSKOghrRv2wbidqdrCTxpGPvGuyUd3IsYznH_AM5rW_l3hUlATA_mCTh0Dn9d9mK09VazLlkFOTCnELV0AIJT9w31hLTi3kVq9n16A63jpmLmU0ECXdsVloNUJ3km_xpW7nr9g35TSS0WNNr9GFR4xwDg8W4MK_sL9xXB3hMVtKRSdFjd_F1-iIGshyLGZwcg7jmw0zREUKuGiqr4DZ_bmirHkXqgh0LMghcC1qgeMjFUpxvXYYQr08vVdl7PMxgZNJ3-7y35okMXirN805v0zcfojDuoFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/X7fwQSfGlj"&gt;
+What&amp;#39;s new in Swift: December 2025 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Welcome to the latest digest of news from the Swift project.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Dev Weekly: Issue 737 https://t.co/FbycCxCSCc</title>
     <published>2025-12-19T19:12:08+00:00</published>
@@ -92,7 +104,7 @@ GitHub - rime/squirrel: 【鼠鬚管】Rime for macOS - GitHub&lt;/a&gt;&lt;br&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : BranchMetrics/ios-branch-sdk-spm &lt;a href="https://t.co/5lm43UqON9" target="_blank" rel="noopener"&gt;https://t.co/5lm43UqON9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5lm43UqON9"&gt;&lt;img src="https://cdn4.telesco.pe/file/gwMKhPB02IcOJDR_1K5dZK9egclxsBAqIl_iRfI54BlmlShuMdUHQfAZvSPMyBUcCEondxXR5kCHpu2g4A2dTmEXk6IeU2hP02ewebWdZnBzy_RYp16dh0qq34-ZtEqcwpF5JGFjkfhgOfKXO3-ySaZk95Fhqsd6VoTkLPpQ4m8QeubG3SlDi2Un_EQbMkKQfnSHv0acux8HLiLUruBZOa_xvF-ew-ghaqkWU7FMp3ZkmXBIEqCG4NlN1g3ctoe5idekAVnRSYgk7lI8rX-b3jwN376bNg1XHNF_NJPdENFz7LaluxN1UDWdZAEOYW0Sk0te0jfO83gdVlpXUC15RA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5lm43UqON9"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : BranchMetrics/ios-branch-sdk-spm &lt;a href="https://t.co/5lm43UqON9" target="_blank" rel="noopener"&gt;https://t.co/5lm43UqON9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5lm43UqON9"&gt;&lt;img src="https://cdn4.telesco.pe/file/P8NYv-1dLkg_kcCIYI5HWmUcHIJysv28Xs2lqe8P1tOnAENXG0eNIiiOFRb29IjeF3JqwSfjXIFo22un33sd9kl-32dEf0zb4sLTK4RdNGRIL46liKyieVBs31c_iLaMrQUyyA5JVypsdhFU8T36m9goRHq1OIpZjcbtoo72VK1SGnPRR6BN5vBI3urVL5allVUb_30pgAueE_9hG18ToSRw5h-VkfMZzfFLCtLCj6PrACJclg1Yjk52d8-CbRdW35vSUhN7EHLr4pPWHFji3GnE2xloO2FQKerqs20lkbp7Cu4Jtn7JW2foklKkEAEuKh57i0F7o98n4jCfqlVM0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5lm43UqON9"&gt;
 GitHub - BranchMetrics/ios-branch-sdk-spm: Branch iOS SDK Swift Package Manager distribution - GitHub&lt;/a&gt;&lt;br&gt;Branch iOS SDK Swift Package Manager distribution. Contribute to BranchMetrics/ios-branch-sdk-spm development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -104,7 +116,7 @@ GitHub - BranchMetrics/ios-branch-sdk-spm: Branch iOS SDK Swift Package Manager 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MortimerGoro/MGSwipeTableCell &lt;a href="https://t.co/wJ3Ro9KNzY" target="_blank" rel="noopener"&gt;https://t.co/wJ3Ro9KNzY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wJ3Ro9KNzY"&gt;&lt;img src="https://cdn4.telesco.pe/file/K7qgBoQxTXHS2dCSlUYFXABbfc7YthfVvFt2wTTWjvJVdHxiCSooNXljbL3JEIokIQtfcuK1_gVaoCK9uaCnMF7nw7-_kCVLfZssYZuzCszRLK5POpiFd2mAvVh8LELHrByv7Zlh7rqitSMz8hOpHaSycNgZROX4xD4lr_BdGKVsioxLaCW_XbNDOdJbRdxEv0py790xh6IBT7fuAHRy9huTWtY2K6Ffo6LaaKZgqXASLWbP9EjWtxJR5xfsMJRFMY0-KZqCuF8L3k3K4FBt1jftsQ0hbBJfQDhxbkz4PvfYbWmtrJ7_2x5b8R4mPlXMUrJ8-6t_EBuANlPm6jKm0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wJ3Ro9KNzY"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MortimerGoro/MGSwipeTableCell &lt;a href="https://t.co/wJ3Ro9KNzY" target="_blank" rel="noopener"&gt;https://t.co/wJ3Ro9KNzY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wJ3Ro9KNzY"&gt;&lt;img src="https://cdn4.telesco.pe/file/RrltzkSD-BkN1-kZNHTS8MJgLOK7h-waHWCwVe0JyEFnpbgSGfYoy7Vr5a0HIkYmrZTYkAHT3S5xdzPgoZybrWRzhJ0qPzIchlGGLynYlGOkGYr_EQRh1jhJV2n7YjFJn_BgNCzGSO8_gkAAhd524t2ySJxI2qaxUIYV7nKY_klQdOzdMYSreyGvg5l2yClc804QslxI5DgF37ZdX3Q2qF_mGF-HCNLIqwgcsdQxH661raFjA0RJmE4zICY_3Slcm7zAniqgxx83AP4uzs5Uskga0vT7hV01OTJsnpBDGHg9XrbLdT08aZGeI5FrYrZPBMPwGtGn9g7OlXiHWwwbJA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wJ3Ro9KNzY"&gt;
 GitHub - MortimerGoro/MGSwipeTableCell: An easy to use UITableViewCell subclass that allows to display swippable buttons with a… - GitHub&lt;/a&gt;&lt;br&gt;An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. - MortimerGoro/MGSwipeTableCell&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -116,7 +128,7 @@ GitHub - MortimerGoro/MGSwipeTableCell: An easy to use UITableViewCell subclass 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sparkle-project/Sparkle &lt;a href="https://t.co/OA6yMGNBxf" target="_blank" rel="noopener"&gt;https://t.co/OA6yMGNBxf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OA6yMGNBxf"&gt;&lt;img src="https://cdn4.telesco.pe/file/imEjvKTievU7zOxZA84gMVHEMCM9DWVdSyqc6J3JAr--iiqrf6KGFG17SueGB9RteX1VUEBgBUqmzeu5ldzlwpRFgmYyGBIAAf4MOLKcJ7SoW72usKBOehcwOgADXRUnM4vz8fmZ1NwAo3MDe6-ebGIS4biU5OSaPiblqmKTpRq17wi7JTEvXR8bdckrUSKAACUoErCkSXwBPCndRr4k7oMADoKgO88nJhStIQksKLa6_OXs08_49PTDRD6yA6BiL-UejFk595eUL4usYmmE6SIUKQt6bHRXoAXRZdxdiPJHgCkLpALSZl2GYsrJvb7ySMnYncePeWENONoqD71NCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OA6yMGNBxf"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sparkle-project/Sparkle &lt;a href="https://t.co/OA6yMGNBxf" target="_blank" rel="noopener"&gt;https://t.co/OA6yMGNBxf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OA6yMGNBxf"&gt;&lt;img src="https://cdn4.telesco.pe/file/rdadaBM8nXvTnyamHkrb3YQmQq2MMbsrACMcgcIsfa6boXBTE14y8f9vTJhEhYj1iaf2ALegtr8FdiU67F4VYQfSO2vqyEY5kRTJCQRM0gLJGao4LMDJBxTvUWr_Wqeusq9xkp0QEBuu21zhe9jJ3GkVllf0AAnzVMTpnq_NTMRXHet2uoNIqU-h6x7ynDUnpv1NWJJcArbVs9tjW8HIanIBwTzSSjwfibTuW3gv4WWwdpoGzcbeCL9Nq2XF3eiQinDhrNsL0jWxNY3dsMeZqHL-hfVF7t7G7A0O9wml98Jh9LrCPjLmw1db2OhPhkyxKi0qV9TjqaUsgtKOLIFOyA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OA6yMGNBxf"&gt;
 GitHub - sparkle-project/Sparkle: A software update framework for macOS - GitHub&lt;/a&gt;&lt;br&gt;A software update framework for macOS. Contribute to sparkle-project/Sparkle development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -230,7 +242,7 @@ Changes to iOS in Japan - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Sequel-Ace/Sequel-Ace &lt;a href="https://t.co/WccnCcdDd7" target="_blank" rel="noopener"&gt;https://t.co/WccnCcdDd7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WccnCcdDd7"&gt;&lt;img src="https://cdn4.telesco.pe/file/pNbzzDFMgroDYnxIxz1kgK72PqS-9prdxRAdPxVf3Gp138fj6XLBbClmBH4zUkUei3UoyFxlCenXPLnSDeNOZo0UpgyBlxEAAVKI9UZ9BKd_JjDWGocZkj7xrWo8e64AWK3Fr1YfN7H4IsZPkaeA8L-BxYNYOC-jBha_vsOSK84l00E5r3TGpqbE-T2F3DVMnoxFahClDBWHqFWgYTVnZoeVY6rkFmw0lqhDrV4mk6pJSkhjpbR8fY6jJesrz07-sXQkKMgk1yCtx43626KTW0f2PtIhxEiKUnZ5pGUZtODo4Wwn4MgY_EO4KwWhyBTynMRCchyaeQBpku-KMSHf5g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WccnCcdDd7"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Sequel-Ace/Sequel-Ace &lt;a href="https://t.co/WccnCcdDd7" target="_blank" rel="noopener"&gt;https://t.co/WccnCcdDd7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WccnCcdDd7"&gt;&lt;img src="https://cdn4.telesco.pe/file/eFpc3xslyBul6SttsPwDxHAhyt1du15gsDAG1WfwnI6cvf_g_e9gU3plQboC46UlSwpPtUiCqOsF2q1xM_SM-JiaMkjskcCx6xRqf0zTfhEjMJEQTxGqCYheTLeMQYjXSO2KlmmJ3tjMLGijKlfUfXbkwO79DI4_Y6S_9I4QnpYRmjyB9rGdUOefds32E-jy1oAzw-bWvXIYyhu3aqlr2CQ0ah6siTuzAHxP4Y7TT6NMM5fldsYujHsEV_bxt7G1PPHtB-V2PsIXL3VqkmF8DeYsVXC5hw_b-pM9n4zTqJ7nvI5a5KJsE_uUKWgTxlU62dWfaDFLU_NMx3FRyeSdSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WccnCcdDd7"&gt;
 GitHub - Sequel-Ace/Sequel-Ace: MySQL/MariaDB database management for macOS - GitHub&lt;/a&gt;&lt;br&gt;MySQL/MariaDB database management for macOS. Contribute to Sequel-Ace/Sequel-Ace development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -242,19 +254,7 @@ GitHub - Sequel-Ace/Sequel-Ace: MySQL/MariaDB database management for macOS - Gi
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Iemand005/FoxMusic &lt;a href="https://t.co/r3F4c4bkGG" target="_blank" rel="noopener"&gt;https://t.co/r3F4c4bkGG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r3F4c4bkGG"&gt;&lt;img src="https://cdn4.telesco.pe/file/VAWCx1mA7qTeFTEUXupbuPU6uiWvti2dVNdBWcVVWhNUV721NkLXmZL051VXNe_1rdUSEe7GsoWuBKJAZXAEPmRgk1YgfhitOzpxySGMmDnJ7Id44jhbpJbk74k73GIvRdKfRTMVejD6VszXqMiP2ck1x8R7-IeJXiMK62xZFL9oEU5sXVor6M5l9PQTCAlW5oEruaCnBQCnZftK7x02NT-4oDaJd2WCIrrlHaBBJRL7ryH7_T7hqXIm1lTHp_F6hLj9055W0S8tau-AAvyt0N5W_PFcyO51lq0MN6Zm9CPMcpDPBDWD84GhQYW8rNWCAkqwv3f08pTcR-9dlRRU4A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r3F4c4bkGG"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Iemand005/FoxMusic &lt;a href="https://t.co/r3F4c4bkGG" target="_blank" rel="noopener"&gt;https://t.co/r3F4c4bkGG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r3F4c4bkGG"&gt;&lt;img src="https://cdn4.telesco.pe/file/SwMp5o4d6H-cxKEhX_gV_IF4vCshNcH6wUDLBEp8-YpCuP7JjSnxhLYUetsSXiZBXo8YQe73Mx9PCamXhDoGwWQNN4W2se5lsgUnSeztX3CrK8N1l7IbMfftFc25fgusyWPpfLLSjMiE78LEzLaFJv-M3UfADba763QbpY-aFqgQeZKT7e4i63fYQoNIiP_SJd3G5b6VkDbytPouGQGXPprN2jDX0BiuHFuME6_EPpd5woNqXCqcdY35Jmqf4zx1298A_nc94hpLi0QJd-EiFhRQM4rKdj43Igg1E3OKE-L1uWKgLzxIz2KLKdx4jpotIsiwd1x3-IGRV5j2j-xamA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r3F4c4bkGG"&gt;
 GitHub - Iemand005/FoxMusic: Music client for Legacy iOS - GitHub&lt;/a&gt;&lt;br&gt;Music client for Legacy iOS. Contribute to Iemand005/FoxMusic development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : microsoftconnect/ms-intune-app-sdk-ios https://t.co/Gy2bY1ZdWx</title>
-    <published>2025-12-18T02:02:57+00:00</published>
-    <updated>2025-12-18T02:02:57+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25555</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25555"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : microsoftconnect/ms-intune-app-sdk-ios &lt;a href="https://t.co/Gy2bY1ZdWx" target="_blank" rel="noopener"&gt;https://t.co/Gy2bY1ZdWx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;&lt;img src="https://cdn4.telesco.pe/file/pnGhvQ8EokVF3ykJ_KO7J3067lIOi_TIwnvOfI3i1GrCO43MEIWlskHN2mhFyU2FwNoWa86z737iea5TLMMWOYvAghRbiZ7xsabfaDKPhH4iVNuCRomyuPRuT9Fs-ajj6A_I4kmcESCKNNYqe3TueDceHRPMY6hqaqS0TO9uimj38-FD6p5cFS7hOLk87X8xwzamWLc1LherQXMUqydhDG0EXrDNXrqWs35S2sUr7w8T1vAtnfSGrI3hxLmnn9A8ZMPP28LwYFajU5uwN-ExX2FzyxjOMIXFlm0gfVNQg4OiuhPJnV0EMYp4uFRPLAlAYpbil9ftPbXIJQ0_5flwlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;
-GitHub - microsoftconnect/ms-intune-app-sdk-ios: Intune App SDK for iOS enables data protection and mobile app management features… - GitHub&lt;/a&gt;&lt;br&gt;Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile apps with Microsoft Intune - microsoftconnect/ms-intune-app-sdk-ios&lt;/blockquote&gt;</content>
   </entry>
 </feed>
