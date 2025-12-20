@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-20T13:31:41+00:00</updated>
+  <updated>2025-12-20T14:23:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -102,7 +102,7 @@ What&amp;#39;s new in Swift: December 2025 Edition - Swift.org&lt;/a&gt;&lt;br&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/Tkzsv6CaB0lalhym20uCbnHKRL8RfSWLMuuAt_VicCFADyXhxa1TnkJHS1rHWol905MeZzFj5_cGz_9bg8AAEhyt1XBbC7yCL6kpPRU6KE6ndVo0MWRMqpd2e2cHN_BdSLNEUkzfDIwS5bZdJ5QLOJi5Ilph8MO9B4ihpIs7WxxMJ_9x5AgUQwHXZPZsqTm1dYwk617sJUxhwxJFX7B5ZCnAg81Grz5mJhRRUb2x-xeQIyU5u8u9nU43ntaAPVgEKrM-Ra-bVbroZynQ8brYWFxqdTjNa9G-X_KspJP1Qi5rjo1GnKiKrKN1ERntx3R-kP0kuj5arhmGwXD_HiX4wA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/dRIHzBSOGYH7yUFSnp7hFEDl-U-oazjfFy59SdvIpKBL2GXu7B_PsUWN1RqvUGYxPfiDNpj9PyVH65frHwEMCcGnnA739VVkVwIbFuyrywt96iobXAI-b-zyWXD3kDSuuUuF-CCDeSPKkiOd2FMh4egmcRuNuFRY881f273x9dHu7bAIV1HprdFM2aTnd2os60iSsrTAi7u52qgyeWINg3AGiMWbqykNH178Zr-VVckWr9z07lWzurW2UAQms9M5fgNhewm-W4Fy4q60qHnfjkvWPGKO9HCCqH69hHIlnQO4hpxbJURf5ZK1uNX8SZIeQmAzDeezQFhRW6q-yEjF2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
 Contact Management: Working with the Contact Picker View Controller - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use the default controls for handling contacts provided by Apple in your SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -218,7 +218,7 @@ Apple Books Custom Menu Using SwiftUI | SwiftUI Custom Menu | SwiftUI Expandable
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Consumable In-App Purchases with StoreKit 2 &lt;a href="https://t.co/H3Xo0hZmXc" target="_blank" rel="noopener"&gt;https://t.co/H3Xo0hZmXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZyTdiA-H128sLB3cUEfmco9pV32-u_aAMkXKrLo9C-aXQT2OuiAVddI_WOlugt6mJYBVWpF-lDGz_TpgYvbuJIjIm3nXEq8LYKYSzrImfHmhrLscTzAMFlLsCNTUYmZcc3Iq3ROUrrZcsJl4y7fa0Dt63ty0oqwUHLBr1-Nm3MwuCP9sHOVoR3jFwkAz60gXwC3TCm0wFd4CvRrDm-9PHybDhZF-d6qjDMBZL3DXKfAHLb1kYXEoesqFVk6rYI2LdEtmPlNFgKfqpBR48ioty6fhbnNvx8IoFnyK5GRw45SHexPWLL8B7GG4N-9GJhY3yUi-H8asCOzt5l2v3zwcQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Consumable In-App Purchases with StoreKit 2 &lt;a href="https://t.co/H3Xo0hZmXc" target="_blank" rel="noopener"&gt;https://t.co/H3Xo0hZmXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/LGlCt2EMSkUTY8eUbtbbHlN_qUAboJS6H6ON0XWwMd6C3XtLPxunMf_eDHE6Z28crkSwEfpkZyGMdEUAj9rK6hVfM1BqOLOgbGOM9gzecBqsycmMmLH5eYhIggUMVaLYFeTG8aSTPUaeoFw1ycS2nEXdhGTibQS1brQA_kHbQnjry46UzrLCOYzRrlpBSLSkqRUSZrLSgsRSkR9vxTiuTvW6sSwvkN7VmmhZpDp0tA9g4fNAbJrY-CZ6z7yQTU9w-Pn3ZqB32X2-JlhUwYRABtPhUo-NEAqbbjoQBQQ5hZRl2mqXhwlScPOHUPEjFjIVkpbsY9RvGoWPyk-gQQsgQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H3Xo0hZmXc"&gt;
 Implementing Consumable In-App Purchases with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to start selling Consumable In-App Purchases in your SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
