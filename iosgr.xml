@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-21T05:35:12+00:00</updated>
+  <updated>2025-12-21T06:46:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -21,7 +21,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/C13FtKrHyqQwyRhHHNiRLRSjpO_ODEyTmmD_fLB0ZtmPCLVUHrnO8OGJlxsjnj1cPUlSOoKcJES8Od7IAEVs-hiIA_YQDdiLfCkElrHJ-lb5YCvA4vyp4q-ngZ7tzIr5pFpYu_IK1n-KtGnJk1MMzh7ovD3Rekhnd3ilFhHz0EqOk5_hNOyLL0j8hf4wMc3wyzy8qw836Wh5A7YAKoyy0rt0UrmqH86siL5lnsOZdNOzhenj0UuP5h2gWWHgmnUsFUvaeZeVOAlcqol0c5HYTmvL9xVMuWbmYwCpcedrgfvBMhOd2sjPmNLF38XOlE0A0j-PIkLDv9yHRp1SBk9ysg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/kS8JGp6zlpA_Bc7qqJQl6buzY0DBq9cPjGAkUIMcwKp54eEoX0b-OY_UqYqwBPdrk-1aLAtlaul8ewEmAm4v1syY57SCvJ3JP-WBmimzKRAUIlTAYrAqUcS4BlmBRTCBlfLn0oIK0hGNbSHOwQ4kIggZ2jnbnDaJHsxFGf8oXH5NGqU0QgqGG_gnvMJbX3q_ghJuOCQzFqlMc5SH_Eetm1aCCFW0xRK7z_Lv9_mhz9Hy5_ktAoX3-nEIZfi92waOFBp8RVSgVA2xScm-pmx1kCBSaLScT4BdmML-y-pMKGXnD1ijkMUrmw0jkqQXw2W1L5t8I2ElBbnXM_tyKBWpsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
 Initializing @Observable classes within the SwiftUI hierarchy - Nil Coalescing&lt;/a&gt;&lt;br&gt;Learn the recommended ways to initialize and store @Observable classes in SwiftUI views, and see what can go wrong when observable state is managed incorrectly.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
