@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-21T18:42:22+00:00</updated>
+  <updated>2025-12-21T19:25:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 https://t.co/RYSkrp0xBl</title>
+    <published>2025-12-21T18:42:41+00:00</published>
+    <updated>2025-12-21T18:42:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25584</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25584"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/L2bFhQxOZpXhaooR9LXJfQKvfcdAjPP_lYZXcftn63X3LuRSm0NoaH2e4n6fkkL64xwXoaYt1S5HMS1N3-12WOZw6cEko0g79XSKXjehp1aV8SMTpXGwnIKev4IcQwVo7WvQigegXuvzgceegPs-OmOUrbSIlbhxMGyZ6PmgCGl1Y_n60Yh4P8CO9XqYCWekAGv2rsW4GCO-amqyqmWwnIS5w8cY67fMA225QQcuPiM2K5z_onN6b1-JoRU0ev2PFo0VQ3UsT0tV6S6BcWcvH1CF2YJDLmj_3LT8lHJHLT1KZspnrpabaefWvqjwD2YgCE4qy4DU4MPCM1MetDRyWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
+Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I&amp;#39;m going to show how to create a custom picker view that can be used to pick height, weight, etc. using SwiftUI | SwiftUI Custom Picker | SwiftUI Wheel Picker | SwiftUI Horizontal Picker | SwiftUI iOS Scroll APIs | SwiftUI Size…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">App Store Style Toolbar Scroll Effect using SwiftUI | #apple #ios #animation https://t.co/kutRlZmWad</title>
     <published>2025-12-21T05:17:44+00:00</published>
@@ -241,18 +254,5 @@ Exploring the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Since the ann
 the Android workgroup has seen a lot of interest in how it works and what’s next.&#13;
 Please read on for some answers to common questions about the technology and its&#13;
 future, and try out the new Swift…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Updated Apple Developer Program License Agreement now available https://t.co/5YzQNxEaHu</title>
-    <published>2025-12-18T18:07:41+00:00</published>
-    <updated>2025-12-18T18:07:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25564</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25564"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Updated Apple Developer Program License Agreement now available &lt;a href="https://t.co/5YzQNxEaHu" target="_blank" rel="noopener"&gt;https://t.co/5YzQNxEaHu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5YzQNxEaHu"&gt;&lt;img src="https://cdn4.telesco.pe/file/fTJSARutCrqIzIG9sKwoAwykVgjJImb4BlezFL6K3vQrlh4vGqlUv5jP9e7HEjjoSG9Nc9cPjvnpY1yrvT2YioKxsSIp00dXJ-wYLjcpCxNrMG0pLUqQssOv0BgFf06UX84yjS_TtT4uvlpykIlUhCErC3X3MyRv9SZE4naWFhfjYgqZOu2B2I4LyO4A0YHGJQWHUtpsKc89uDJuvAtDsfrXwDNLjlIL3EWxvkiE63gnWVxccQBQwLikLRgPas1em9aCXnKIT0f6BfA2WLYT8iykNDMxEQZ04dFduXLt1YqD5hypW__V4t4tc3E5bY5bhHqeGj6esYKjD7SxiNbyrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5YzQNxEaHu"&gt;
-Updated Apple Developer Program License Agreement now available - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The Apple Developer Program License Agreement has been revised to support new features, updated policies, and to provide clarification. Please review the changes and sign in to your account to accept the updated terms.&#13;
-Section 3.3.3(A): Specified requirement…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
