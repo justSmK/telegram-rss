@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-21T22:33:16+00:00</updated>
+  <updated>2025-12-21T23:29:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -249,7 +249,7 @@ GitHub - sparkle-project/Sparkle: A software update framework for macOS - GitHub
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Exploring the Swift SDK for Android &lt;a href="https://t.co/BLpQKvyJFQ" target="_blank" rel="noopener"&gt;https://t.co/BLpQKvyJFQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BLpQKvyJFQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/IrKAghaNz7ilq3trX1Eb3qNg4UZBA2s9gPKcoOT9VA7fu2QtPVZyJq-8lwLD69m2GYSmM-I6QdulK8p0wlV8PuTICI1fLu6tvSgRT0fD6ZPjbj8qfCelxWdhsJh21gbggn71dCVFdA1hXjPgBqcHaRwGlo0Ux3r3hMHd1VPGtOgkX4CgwQU_LZqKjq8N7DndGz8qbrfg464HeSp3Tv75gEj9w_IMvqYU6G9bdNRnQNblk3mTzNrxwgLyW9LHznRrQcgxGv8bbQnmHZ4d7T9kV3ADDMy_YWlPeILzRhkWVdM3gj-xigRV7oHTyzzSdig038PZG8sK5vzSeFN4nnXpDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BLpQKvyJFQ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Exploring the Swift SDK for Android &lt;a href="https://t.co/BLpQKvyJFQ" target="_blank" rel="noopener"&gt;https://t.co/BLpQKvyJFQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BLpQKvyJFQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/prUqw7--spjQLh0hJNp3fOltTZP-dkuQO5k3UrZ33CySJFCUWCNS9_IM9ur8UyP7g-7xwydYtBhZXxEsywTfmEQetp8XRf9kDGGhvQZX0124JU1JqOG-RPMq1-NVXWjK1wbX5rw72Vov-yOF37Di8Crz4XfBo7fpU_1-653O67awwOngHI5at2c3Un9RGjWcqWIbMG_Qv_HHa2ygKojtjhyX_XEeGyFJ21ec6PreJYNC9bU9QXNY3BHnc4LNS6OXBxDrzKVS0NoS9cMObC9cNj9XqYrHGEbSqThZ9gXV1qSHLtoq-L7r16f_yYLH0DZEe3Q6Hu2FhURofHYl7fsrUA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BLpQKvyJFQ"&gt;
 Exploring the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Since the announcement of the preview Swift SDK for Android,&#13;
 the Android workgroup has seen a lot of interest in how it works and what’s next.&#13;
 Please read on for some answers to common questions about the technology and its&#13;
