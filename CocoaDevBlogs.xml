@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-21T04:48:34+00:00</updated>
+  <updated>2025-12-21T05:35:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Style Toolbar Scroll Effect using SwiftUI | #apple #ios #animation https://t.co/kutRlZmWad</title>
+    <published>2025-12-21T05:17:44+00:00</published>
+    <updated>2025-12-21T05:17:44+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25583</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25583"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Style Toolbar Scroll Effect using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="https://t.co/kutRlZmWad" target="_blank" rel="noopener"&gt;https://t.co/kutRlZmWad&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kutRlZmWad"&gt;&lt;img src="https://cdn4.telesco.pe/file/bgTuC_NhytgxZ105Rfcl489x6V0gNRTz431kg20BhXqjkLxcyE7dSg5YzIOuOIQs96qCq73aYiaHF-UzrmTpn6ULBT_nFQyoT8hRrRZf4jIgDQYoF4w8h33YgOUe6qeHLfDsPStNjcd1BkHuDVnfzGp1Vru0f9kW6-BQvhG26TP-G10Vk-QwrCJ8yV7BzPV0DxtcgD577gnNhX6Y0Ot_ZFv-IS-N38uEziUkVRGqnyrlwx6ZkfJ9whOSn1zy92-7SNY9aehtqxw8phom8A0D41mEKxMXYky802uNlndFb7qgmhwfpmRzsXVArHUVV9y51gC0iy2CtLE4Rs8DmLaK9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kutRlZmWad"&gt;
+App Store Style Toolbar Scroll Effect using SwiftUI | #apple #ios #animation - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐In this video, I’ll demonstrate how to recreate the App Store Style ToolBar Scroll Effect With Native SwiftUI APIs.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : mixpanel/mixpanel-iphone https://t.co/DBHyCgxojO</title>
     <published>2025-12-21T02:07:33+00:00</published>
@@ -242,19 +254,5 @@ future, and try out the new Swift…&lt;/blockquote&gt;</content>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Updated Apple Developer Program License Agreement now available &lt;a href="https://t.co/5YzQNxEaHu" target="_blank" rel="noopener"&gt;https://t.co/5YzQNxEaHu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5YzQNxEaHu"&gt;&lt;img src="https://cdn4.telesco.pe/file/U1hfc9mLPta0dXNrgL3mAocsTJPISvNMBzO2CjVbpGCM99lfz5SmSIfGxd9ZnarQz39e8HiJH_B6gnSorXxWWc16t9Wwk3nUNHbzacTWGyqcaNGnhA5wPCZjusE8bXQoIPwiJZAjbrCLP4x05h35N_fjZtuI91HJ9DWsTQS-neerd4UIW2mbiw5nqMK62rT-L00UQEjjCvl3JHgHWEZTzBMI5ep-bfv6gTSrdPoSaQpk9KZOYApjCMzKE833xn9ia-M4raSEbK19g9pQ059qypeGUmbd3mmaEI79nsx-eeC5ubyi0HKy3cMIPEHaNQkd5oP4Ge3XrWhw_cZ64Yfp-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5YzQNxEaHu"&gt;
 Updated Apple Developer Program License Agreement now available - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The Apple Developer Program License Agreement has been revised to support new features, updated policies, and to provide clarification. Please review the changes and sign in to your account to accept the updated terms.&#13;
 Section 3.3.3(A): Specified requirement…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Animated Custom Menu | Expandable Menu | SwiftUI | Xcode https://t.co/kQ3RNslJnE</title>
-    <published>2025-12-18T15:52:26+00:00</published>
-    <updated>2025-12-18T15:52:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25563</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25563"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Animated Custom Menu | Expandable Menu | SwiftUI | Xcode &lt;a href="https://t.co/kQ3RNslJnE" target="_blank" rel="noopener"&gt;https://t.co/kQ3RNslJnE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;&lt;img src="https://cdn4.telesco.pe/file/PFbRTaXi6s31y8W_Cf-MArBfDgZDPfBMq6lcjipWQm_Ce8xvDW8iwEN1OlxM9A7iguJAZUu-a_KDaqdRsaPiCz2pbCx5gUytSOwujp8bMHYDCWSiQ3agpISfD-qCWhbbAl7taNMu_ma371lac3ZTY-2oIQA_ndc4FxLzvsf4xts3SgHMpBINsBicJ9wXz0E8YcAesjA4buCuXTtHwKNvJTTKZM2MACkjqUCNe-Lx6mUJrOqLHxrBwx07MBQUPTZZbBl5hv6gun4YrzCP4RusxftdU4EHIXLKBS_iE4ZXQEVkCpw_FjlrOBNpwyGp5uxslSge15-sQESNEbKBJA_uug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kQ3RNslJnE"&gt;
-Animated Custom Menu | Expandable Menu | SwiftUI | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll show you how to create an expandable custom menu with beautiful animations using SwiftUI.&#13;
-Apple Books Custom Menu Using SwiftUI | SwiftUI Custom Menu | SwiftUI Expandable Menu | SwiftUI Complex Animations | SwiftUI Expandable…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
