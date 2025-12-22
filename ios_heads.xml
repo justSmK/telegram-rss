@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-21T23:29:55+00:00</updated>
+  <updated>2025-12-22T02:29:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -244,9 +244,9 @@ Advanced Codable.&#13;
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/R2_ZcnWySXAXug2wXcazE5ys1PBfjm4Q_nCzGq_GmNKkRA1RvqYyMOpfXiooG1zPAZbWsUEamne7tWihtKLLOBXli-q-m0XLoK8TZrim17bkuwLvm8yIzyrt9EfDiF47l7814aCqGOaBjfTBz60Nxip9LYm2kzPs7b4XDxiZ5Ev5gb2Oe-lkSZIC1ZXW5aATS2PwNni9k7WchUSX-hrKly3A7AooBeLAfs_rABdeUYdk8O_97xKw1X50Oe6_-adFkxhFkwQdN9TShgLq7uUC7JmKA30Id7zTjRBbSsnDtWZzbLhK_vRsPREOPZiAkB9vHRvvoE9kHH16ZR9ybF3Y9A" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/0dcd3eb146.mp4?token=BveN-8bDSyKo5E9RdA8MIkfCrnZK3_sayk43TkEUx4TVhPGA0ofIYDzqSiOfR6qmwLhR3Ocz1n-n3kw75jyqX8yIg4IN0TOQvfgondAISj1If0ar9c3j3LWnJmoGB_veJqbU11iwgeEAdLTSzVvQm4jk7QArJebjYteOiVudSMCnx867uu6GDS7PsU7E2pSrF34O16g-8jHB9LUwwS7I0hSRavTRKKoAHs-PVx8iOVlpF6I1T5p3d23t2SWxDSgsrfwOvFkbq9KBGbHlSoBWTerbiNpAL-30OHH0PnHGeBpx0sR2pSuV6iJ0a08zjDhOULdaSFA8U1ikpTJH4Q9w-Q" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/kD5UgIl_9DTUH5nWhz5DqQyyaXFUsfcsX3VUyuqxiXaRZoVS7WD3DOKkBcfLBiOwwlzlghWyCZ_b8LTlVcZbVrIjo7iKYeoQeO8eHF3diKIhr8hzMkhvmFHV7FksdBGY4YTG7o1amzZcm0w83kGzQRK4S6HNIpQmApRZm4txEwIy8bGqLC98LtDvoH5IvUAHSfHznY1LfKUoGaAt7Nf1j9ZFxI_SpMGpkGuTnG7H1Fify8LaZyezlQuF6KeQeOlv3CZb0fAhVUj4fNGB40zJstsTpNrGr7Ku7L6yv9Gl3eKNLjGC6eGPeABY2YBOfdRUT4xwl5zgNyfXIVhXqjsTMQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/0dcd3eb146.mp4?token=eDFl9MMNT_kznSkhheHE8sriwXliHlylmNjq9zKbIiEdhiaBUEXUWQ_alIeQJjfUEqiAaOq9TqPMGANm9RFPGImcN4R4cyZQP_1qzfrEmmq6-bPnUNN7XJlBao8k_5G1Kcl12L1TDS-GJAlJ7flObhH4xwXXVOZ_Zp9ITKZEBne3Ni9iUlFq_6UEDx2RAVcPVtuwUP2zIlY70mY_crhAPZ53wkyFDbqdoHneOYPCsueUttLBOGB1lbePa_ZehkfHvWVqASEjHec12y1ifrcIUKQUp3fXV1D00T5tgvfYeNu9Nkly3F5cHs3Tq5hEB6qZ_Nf65-4aLc50Ep0MriBuWg" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал (и ссылка на гитхаб) о том, как сделать вот такую вот Apple Intelligence-Style кнопку в SwiftUI&lt;br/&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/R2_ZcnWySXAXug2wXcazE5ys1PBfjm4Q_nCzGq_GmNKkRA1RvqYyMOpfXiooG1zPAZbWsUEamne7tWihtKLLOBXli-q-m0XLoK8TZrim17bkuwLvm8yIzyrt9EfDiF47l7814aCqGOaBjfTBz60Nxip9LYm2kzPs7b4XDxiZ5Ev5gb2Oe-lkSZIC1ZXW5aATS2PwNni9k7WchUSX-hrKly3A7AooBeLAfs_rABdeUYdk8O_97xKw1X50Oe6_-adFkxhFkwQdN9TShgLq7uUC7JmKA30Id7zTjRBbSsnDtWZzbLhK_vRsPREOPZiAkB9vHRvvoE9kHH16ZR9ybF3Y9A"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/kD5UgIl_9DTUH5nWhz5DqQyyaXFUsfcsX3VUyuqxiXaRZoVS7WD3DOKkBcfLBiOwwlzlghWyCZ_b8LTlVcZbVrIjo7iKYeoQeO8eHF3diKIhr8hzMkhvmFHV7FksdBGY4YTG7o1amzZcm0w83kGzQRK4S6HNIpQmApRZm4txEwIy8bGqLC98LtDvoH5IvUAHSfHznY1LfKUoGaAt7Nf1j9ZFxI_SpMGpkGuTnG7H1Fify8LaZyezlQuF6KeQeOlv3CZb0fAhVUj4fNGB40zJstsTpNrGr7Ku7L6yv9Gl3eKNLjGC6eGPeABY2YBOfdRUT4xwl5zgNyfXIVhXqjsTMQ"/>
   </entry>
 </feed>

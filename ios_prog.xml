@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-21T23:29:53+00:00</updated>
+  <updated>2025-12-22T02:29:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -184,7 +184,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/mqszuGyMp2Iupm3RbQPgofAI5clfaJ4dsGLMo6YaZVk-6eZ0PN3Rb3_SETm8dlQF0NJwIFrfYRg2jTJE7TnWzMrE8iL9anoHA4RKejl39L1Hft_73V5W8l1diE2DUcStygcH7RbQOsSK3dkWxA8goX0VmFoBmwpFmNarc0anndOUg1HkVhj2XEkbWM7IKiXGvdkdM0xTbbvPCq74A49vT45LXWG2_exVdMY9eWF4N1w63YjOeQQigELUuGbKBLEbfc6lMKO93kCYvshHosZKop67AEwH9WxEnOMpeWjPmErfdQZCbD3ukeAnXKQR2AAem8t5BXaEcx02wHscBlKehg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/J0uoLYSfG1npVfL05aLkZLg2Ks_jQG0HGilfMfT3aXCOd8ZikBZxjLsmMsIneQaJb_33O47k8HGFYa_1UayprsGmrG-fOGjiprOHjIvzi8rHxJw5pXp2pL08rla4rer-upFQoU5FTr2bwbKfX9mmD0cQ9q0Qu4wXxSqxz2leHd23miQ6-D_euS5vPhTu8qyYShmI6o71AdtrgXcCmKFoOIZEVvuifFEPx5YCzA9CqVEnhbnr1BATzGK_CbEzZ4Zgj7rGUz1B2ZH6YSRDAVkQpHxXslCYmo-_DGos3u0dY4dL39oO6NpPYrOsIBYJuNjZwedYb_b3Mu83tG4wDeLVRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Совет по SwiftUI&#13;
@@ -245,7 +245,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/jEXze3eko0ZImjmbE-qVvClj9R3VAtEikJ9aQl5Y2BatXh8VJ75jPd5WFBsbM12cuUSvP9lJlJFs2sv78njJaHHsyI2cq17M64AUCdjpSzqAD9Gx-hTD0xGG1l2N_kRryS0HYRvFucrI9JNKnt0boLPYN92xabBVTYTQL1zQgfFYoCK4BUHnZaxlX5dwahzWMIFn2CJxsHceQG-C5WS_5cprX4MNCm254F01-5ztMelTM-QuLwPbfjetV8M2KB0g-3Q5n1mANjrc5gsLUvSnP-AJ5YUEQab2mXfiUenRzp-Yf3e6HHEdMfmdQ1AatH_7IeyZbrk0g2eg82gTxJeG-w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/bYuRXQiPDTsYPEKqFDxm6oEu6M0TuiMemAc097H1cKB_wnJXGO3dAJ7WyEGHmYHyYxad1Z9ayC1fE8ieQYy8UAKfIhOi1KXB7v90Mvniki9i_d-r1rqmRMG9CYAHnqJa3FlFMabgOve2H0bmZSd_9j3rn6s9X8VU216U0QYvotgRqz0wLdK-kGrR8bI452N5PRW3SEp5av02Uc2ylyk_mYmcPE3YseOgFT4yjjVkaIsMk_eL9Pi24p7THOPjLHgp148C9ci3hs7tWsqbM5OOJ1eFdIvSyxSiOSUFn66wUgmCHd8KJRgQMNfFPhxX-rZBiUJeUsJHuA8DUXtwr090SA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Настраиваемые физические  движения для SwiftUI.&#13;
