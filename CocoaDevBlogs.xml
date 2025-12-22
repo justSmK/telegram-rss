@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-22T17:21:26+00:00</updated>
+  <updated>2025-12-22T18:35:11+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Issue #145 - Adrian Eves https://t.co/Ip1l6lXrM1</title>
+    <published>2025-12-22T18:07:38+00:00</published>
+    <updated>2025-12-22T18:07:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25589</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25589"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Issue #145 - Adrian Eves &lt;a href="https://t.co/Ip1l6lXrM1" target="_blank" rel="noopener"&gt;https://t.co/Ip1l6lXrM1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ip1l6lXrM1"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ip1l6lXrM1"&gt;
+Issue #145 - Adrian Eves - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featuring Adrian Eves.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Whisky-App/Whisky https://t.co/xz0MzlHXhu</title>
     <published>2025-12-22T02:03:02+00:00</published>
@@ -67,7 +79,7 @@ Upcoming Conference Talk - Ash Furrow&lt;/a&gt;&lt;br&gt;I’m very excited to a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/L2bFhQxOZpXhaooR9LXJfQKvfcdAjPP_lYZXcftn63X3LuRSm0NoaH2e4n6fkkL64xwXoaYt1S5HMS1N3-12WOZw6cEko0g79XSKXjehp1aV8SMTpXGwnIKev4IcQwVo7WvQigegXuvzgceegPs-OmOUrbSIlbhxMGyZ6PmgCGl1Y_n60Yh4P8CO9XqYCWekAGv2rsW4GCO-amqyqmWwnIS5w8cY67fMA225QQcuPiM2K5z_onN6b1-JoRU0ev2PFo0VQ3UsT0tV6S6BcWcvH1CF2YJDLmj_3LT8lHJHLT1KZspnrpabaefWvqjwD2YgCE4qy4DU4MPCM1MetDRyWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/DKbC20_cwjOpVdrs1FVQIG9SLjCGEsPhFLmXUsHsOt2ppRV_aB4CBtPpgGdFDvjfOyuSDPtsuqbAwuuhsIsDroHtjlJ0dDOkcztYyKRduW4ci5eM7aWYRIAi-yCGlQV_HSX53M6I1DJPcC7NRTpHfeZ3SpctfnyV2Oun1olXanqJDm19k0slV_Xb7A9dIUF6Q0W0rYQ_6h2ArPBFG9Wx2hKwBSgl_9F_Ni0AIMkjjAPjLMNtb4P9z5Ndx9QUraogS0U_qauROnxajr6c2RyXq90OdbNtj7xidoQkg1yVEIRZ1C3Y3jqMM3Ne-2GmhrRmQHoAGeaIaAMmm4i3BgGjQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
 Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;m going to show how to create a custom picker view that can be used to pick height, weight, etc. using SwiftUI | SwiftUI Custom Picker | SwiftUI Wheel Picker | SwiftUI Horizontal Picker | SwiftUI iOS Scroll APIs | SwiftUI Size…&lt;/blockquote&gt;</content>
   </entry>
@@ -140,7 +152,7 @@ GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on appli
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/E1PgSEJZczQvjLOvDIHaiX6gzzMWc3eGfm_Xj7sVvogd9i-KgQj_mEXIXhNpYS6rAiK5iw7Uco6Wtl_lBmKX6ndPVXpT-pDdVWXFNbNTKFkVC6wYzWk-AurT0jc6Gu-w4-PNDllO2fJrO2XWyzK0oC3Xh4Wcb4xmhKUoH5Co9GK_v4uZGrS41uW6IHeNo6ovHW-w3hRye1vIK4wcWnhGxjo0SlxSBBSk78_A8KoqLaBdBB_Uu2JiTz3rgcStQVGBKobtLUMpAtmdoCN2u6KadBYiLMMiPO-pXVlq50anyAU8_NyUDa9bUktT4mksPW4S0f0vj2rfeF8VN-78nZm1eg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/AY2e8aFvoD_x2ubx-3UGRUwK6sSSFG23oAJtFWlSTgCwr7HlrqYq45rrd8t5W1q5ZQ6dHPvFkA0T2mcxl8ckQvntVpX9LWaTN1aYDKkFcwI74M05gZllJ8wGNqPc4bVaEqEYXn9mC6_ac5cthhHyN_UihFrAkFoSQhz4WUXaJCwGa3sV7USWwEu2dHwU-ssRqQDUTVQ80AvswmjmU55pQqKuDpGxTnpqf01CKAQtSBqpZLybafT23gj9lyIczDMrYcYc4b97oKRyNm-I9hMi5xcXgAtyvcNUMRga-UyBCHi3uiH2zgagW63ObxiZEJzvBiwzZUPU3HhY7Q0vP2uQ2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
 GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -239,17 +251,5 @@ Contact Management: Working with the Contact Picker View Controller - Create wit
 How to Create App Store Screenshots - Fast &amp;amp; Easy - YouTube&lt;/a&gt;&lt;br&gt;Check out AppScreens at https://appscreens.com/?via=8d5841&#13;
 &#13;
 In this video I show how you can create great looking App Store screenshots fast and easy, even if you&amp;#39;re not a designer. With AppScreens you can choose from a pre-designed template, make any customizations…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : rime/squirrel https://t.co/MvbjmIhvjY</title>
-    <published>2025-12-19T02:03:15+00:00</published>
-    <updated>2025-12-19T02:03:15+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25569</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25569"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : rime/squirrel &lt;a href="https://t.co/MvbjmIhvjY" target="_blank" rel="noopener"&gt;https://t.co/MvbjmIhvjY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MvbjmIhvjY"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MvbjmIhvjY"&gt;
-GitHub - rime/squirrel: 【鼠鬚管】Rime for macOS - GitHub&lt;/a&gt;&lt;br&gt;【鼠鬚管】Rime for macOS. Contribute to rime/squirrel development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
