@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-22T13:02:59+00:00</updated>
+  <updated>2025-12-22T13:46:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -223,7 +223,7 @@ What&amp;#39;s new in Swift: December 2025 Edition - Swift.org&lt;/a&gt;&lt;br&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/tvS1iYdBAMjWWvEvcD-e-dpfK1xX68XTmPt6PIcF5NHItRTdnUbbdMyekgxPOK19ndiWD0km6UAJOvRk6DF49ZTeiD9bA6mUrGpZArMCM2ltD6KCkej-KcrzL2LtngilwHwZHxdgTZUaVAyXR0grNZSQ0pM5B8mRzMgDGzTDJZwgIcHtYcXs7cWOCbwOI0UYyAK13uolCT6-EUVrmEw_X1V-j7LhLqheCWeB4vooIQqoRFykHfY8fE1s66e8oRjMn8LBP0_nKu83i-npa9AtvokaFsCO0ur3r5Sydv34FxQZFWYGnTC_H9LwWv4ILio6AbFWaAE5_Yt46iJaUomigQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/J7ODUybrgU2FRxFVtXe_hNbelm2g5-ry8fdnzUfwo4mky_KBAwk3dY_9GDu-RRfqkc92l5gl0S57fuEUa6tSwwwY9c67UY3gFZRgUjPEMK5KG2mSxOGDkazg-RBo6JSYmeCq7jNYsqrazJAAvJRzPvSd0ZNjePDMui_FlJ6Lsq_xAILPB0F0Vnv5qNqqhszVuvlrv-5Yw4F5BCrLTwZW7ISdOaowBTeHT21en3FOcH7jAa9BVrVi9LeGCGWNl4IH-mlH_SYaNNO_a9xU_8clHPBHqu_ErI9YOXV-RQZMbVaFrWhfoAFJ2n6A8Ns6h_WNliIAmrFo7UxGV0wqS7n1Nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
 Contact Management: Working with the Contact Picker View Controller - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use the default controls for handling contacts provided by Apple in your SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
