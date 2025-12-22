@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-22T18:35:11+00:00</updated>
+  <updated>2025-12-22T19:19:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Final Commit of 2025: Adding &amp;quot;Sign in with Apple&amp;quot; to the browser extensions - with...</title>
+    <published>2025-12-22T19:12:08+00:00</published>
+    <updated>2025-12-22T19:12:08+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25590</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25590"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Final Commit of 2025: Adding &amp;quot;Sign in with Apple&amp;quot; to the browser extensions - with Antigravity&amp;#33; &lt;a href="https://t.co/HO53JzQH8R" target="_blank" rel="noopener"&gt;https://t.co/HO53JzQH8R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/HO53JzQH8R"&gt;&lt;img src="https://cdn4.telesco.pe/file/LR5kFlsXrg9rJGRmCVuUW4bA87b4pZTLCyQBFoJtcRIlSf_8_-gvoNcCQiivJaComG81AogMb8s-f9RhP_oXw6xJI0usFbwF5QPugyuIJEQPJAAEwbKj3IGabc6SW4npqvcwpKFyBg3uAgUuKiHJhG9zqxlD3XvRA4QUfsKLCMUwhHKgVu4LRC6GqZ3QF6E2s0FJ7KO6AquwOKzS91wAAiu5-BjQvlKAe7tk8cbS3HoelVRxHAAZq6nN_YuDHwbOU-JYzzQjyfxtRXM-fnXLszgzvQSaZueldNysavOryUQ3IHxcXSpqi1KCvj0BV8BIT8YN_u0iirgyYhjdA0DmxA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/HO53JzQH8R"&gt;
+The Final Commit of 2025: Adding &amp;quot;Sign in with Apple&amp;quot; to the browser extensions - with Antigravity&amp;#33; - YouTube&lt;/a&gt;&lt;br&gt;Before we fully check out for the holidays, we have one last shiny feature to wrap up. Join me for this end-of-year special where we focus solely on adding Sign in with Apple to the browser extensions I vibe coded in the previous episode. It’s a focused coding…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Issue #145 - Adrian Eves https://t.co/Ip1l6lXrM1</title>
     <published>2025-12-22T18:07:38+00:00</published>
@@ -237,19 +249,5 @@ What&amp;#39;s new in Swift: December 2025 Edition - Swift.org&lt;/a&gt;&lt;br&g
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Contact Management: Working with the Contact Picker View Controller &lt;a href="https://t.co/tUaGO6wttN" target="_blank" rel="noopener"&gt;https://t.co/tUaGO6wttN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;&lt;img src="https://cdn4.telesco.pe/file/J7ODUybrgU2FRxFVtXe_hNbelm2g5-ry8fdnzUfwo4mky_KBAwk3dY_9GDu-RRfqkc92l5gl0S57fuEUa6tSwwwY9c67UY3gFZRgUjPEMK5KG2mSxOGDkazg-RBo6JSYmeCq7jNYsqrazJAAvJRzPvSd0ZNjePDMui_FlJ6Lsq_xAILPB0F0Vnv5qNqqhszVuvlrv-5Yw4F5BCrLTwZW7ISdOaowBTeHT21en3FOcH7jAa9BVrVi9LeGCGWNl4IH-mlH_SYaNNO_a9xU_8clHPBHqu_ErI9YOXV-RQZMbVaFrWhfoAFJ2n6A8Ns6h_WNliIAmrFo7UxGV0wqS7n1Nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tUaGO6wttN"&gt;
 Contact Management: Working with the Contact Picker View Controller - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use the default controls for handling contacts provided by Apple in your SwiftUI app.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How to Create App Store Screenshots - Fast &amp;amp; Easy https://t.co/8WGktsaVp0</title>
-    <published>2025-12-19T13:12:29+00:00</published>
-    <updated>2025-12-19T13:12:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25570</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25570"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to Create App Store Screenshots - Fast &amp;amp; Easy &lt;a href="https://t.co/8WGktsaVp0" target="_blank" rel="noopener"&gt;https://t.co/8WGktsaVp0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8WGktsaVp0"&gt;&lt;img src="https://cdn4.telesco.pe/file/eBpoSs9l3UV4h0SLel4Uo57QCIoSEk4zmEujq4KdtsM2DmCR_6Cn7wH1Nx0UZ8FdhGYaOZfNmDMnaShLfUvgQxVxgyDTOKIMljJUSCwdswQ3FeshTcJwgq09s7TuaGHlZKG-nxEi7GkEKFw0vj283YnCD96LHRsAa2U0dqIG0gHWgBz2XBDaN_TQlPU5rAWw1R8kmP84Znq366nTjkQjIJ9HTcLAt2qPOVY2KAKQIGuDylijGh7qE5gCgUh6PmCtGkHcCXybFQxxcX5uyeQdEGrpyhF6mBYVvLZujwt61r5enrGvathDA9_D-eJvp7oMCgGvBiAqR7_v0LQcb5b0gg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8WGktsaVp0"&gt;
-How to Create App Store Screenshots - Fast &amp;amp; Easy - YouTube&lt;/a&gt;&lt;br&gt;Check out AppScreens at https://appscreens.com/?via=8d5841&#13;
-&#13;
-In this video I show how you can create great looking App Store screenshots fast and easy, even if you&amp;#39;re not a designer. With AppScreens you can choose from a pre-designed template, make any customizations…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
