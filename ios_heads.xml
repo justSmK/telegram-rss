@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-22T13:46:23+00:00</updated>
+  <updated>2025-12-22T14:36:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Небольшой материал о том, что исправлять в...</title>
+    <published>2025-12-22T13:50:15+00:00</published>
+    <updated>2025-12-22T13:50:15+00:00</updated>
+    <id>https://t.me/ios_heads/1100</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1100"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал о том, что исправлять в сгенерированном AI Swift коде.&lt;br/&gt;То есть какие вещи они обычно делают не очень правильно и на что нужно заменить их реализацию&amp;#33;&lt;br/&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener"&gt;https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/Yq4vuKJ-qkVqUS1FQKiPpRyt-fOL80oKi43PkdupJv7j63u4eSub24Ldcg3brnBjttT9NAUwqVp_1v_FuLc-uRF35r8-8PTB7E-jZxHYfGPrzLRKOMsaBDJTooucEG8d0FhywUD4CN4YdrnsAC-Rw-4OGjJyu_B7WTz8v0zL9EtckS8mdboNvV4SlVk71xKGb1VfuC9rs9S_sYJiqEh5hWzjYWOLUlHy6vV-GgX-xymB3C9w-iei9z2pvCcZiyYs7T9nSvmtMQ_6NwRI7bmpBiJDu5bMrOusMKk7Wskifj268lmPLmYZXPDsmdNZycGDBkhE8_BzmJeo8UUOpJzg8g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
+What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Интересный материал о том, что если работаете с...</title>
     <published>2025-12-04T12:41:27+00:00</published>
@@ -234,19 +246,5 @@ Advanced Codable.&#13;
       <name>iOS.Devs</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В принципе в названии всё сказано.&lt;br/&gt;Advanced Codable.&lt;br/&gt;Очень полезно будет новичкам. Просто полезно будет всем остальным&amp;#33;&lt;br/&gt;&lt;a href="https://nothingtocommitworkingtreeclean.com/advanced_codable.html" target="_blank" rel="noopener"&gt;https://nothingtocommitworkingtreeclean.com/advanced_codable.html&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Небольшой материал (и ссылка на гитхаб) о том, как...</title>
-    <published>2025-10-16T12:13:33+00:00</published>
-    <updated>2025-10-16T12:13:33+00:00</updated>
-    <id>https://t.me/ios_heads/1079</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1079"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/kD5UgIl_9DTUH5nWhz5DqQyyaXFUsfcsX3VUyuqxiXaRZoVS7WD3DOKkBcfLBiOwwlzlghWyCZ_b8LTlVcZbVrIjo7iKYeoQeO8eHF3diKIhr8hzMkhvmFHV7FksdBGY4YTG7o1amzZcm0w83kGzQRK4S6HNIpQmApRZm4txEwIy8bGqLC98LtDvoH5IvUAHSfHznY1LfKUoGaAt7Nf1j9ZFxI_SpMGpkGuTnG7H1Fify8LaZyezlQuF6KeQeOlv3CZb0fAhVUj4fNGB40zJstsTpNrGr7Ku7L6yv9Gl3eKNLjGC6eGPeABY2YBOfdRUT4xwl5zgNyfXIVhXqjsTMQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/0dcd3eb146.mp4?token=eDFl9MMNT_kznSkhheHE8sriwXliHlylmNjq9zKbIiEdhiaBUEXUWQ_alIeQJjfUEqiAaOq9TqPMGANm9RFPGImcN4R4cyZQP_1qzfrEmmq6-bPnUNN7XJlBao8k_5G1Kcl12L1TDS-GJAlJ7flObhH4xwXXVOZ_Zp9ITKZEBne3Ni9iUlFq_6UEDx2RAVcPVtuwUP2zIlY70mY_crhAPZ53wkyFDbqdoHneOYPCsueUttLBOGB1lbePa_ZehkfHvWVqASEjHec12y1ifrcIUKQUp3fXV1D00T5tgvfYeNu9Nkly3F5cHs3Tq5hEB6qZ_Nf65-4aLc50Ep0MriBuWg" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал (и ссылка на гитхаб) о том, как сделать вот такую вот Apple Intelligence-Style кнопку в SwiftUI&lt;br/&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/kD5UgIl_9DTUH5nWhz5DqQyyaXFUsfcsX3VUyuqxiXaRZoVS7WD3DOKkBcfLBiOwwlzlghWyCZ_b8LTlVcZbVrIjo7iKYeoQeO8eHF3diKIhr8hzMkhvmFHV7FksdBGY4YTG7o1amzZcm0w83kGzQRK4S6HNIpQmApRZm4txEwIy8bGqLC98LtDvoH5IvUAHSfHznY1LfKUoGaAt7Nf1j9ZFxI_SpMGpkGuTnG7H1Fify8LaZyezlQuF6KeQeOlv3CZb0fAhVUj4fNGB40zJstsTpNrGr7Ku7L6yv9Gl3eKNLjGC6eGPeABY2YBOfdRUT4xwl5zgNyfXIVhXqjsTMQ"/>
   </entry>
 </feed>
