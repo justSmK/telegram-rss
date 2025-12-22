@@ -4,7 +4,7 @@ on:
   schedule:
     # 08, 11, 14, 17, 20 МСК (UTC+3 → 05, 08, 11, 14, 17 UTC)
     # - cron: "0 5,8,11,14,17 * * *"
-    - cron: "17 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 concurrency:
