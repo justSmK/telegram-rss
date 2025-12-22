@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-22T05:38:18+00:00</updated>
+  <updated>2025-12-22T06:50:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Non-exhaustive enums в Swift 6.2.3&#13;
+&#13;
+В Swift 6.2.3 появится улучшение...</title>
+    <published>2025-12-22T06:03:06+00:00</published>
+    <updated>2025-12-22T06:03:06+00:00</updated>
+    <id>https://t.me/iosgr/4561</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4561"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/QdGPbOlo_bmEwwDzjudRcFYM6E1FmSK40R1D79r47uCr-H73qzHKm4-RaSnoZdogOp9QX2DQ_V9MKMIQD3VMDi4qOpSEWgGCMTyZ9EaPHbnkvADhT9-GjV1YrX_Kk3KbmeDANoXeS1byeqH4gDG0VB25-pQuAnY59XAGwHi-37UmWY_L2VIYCNdSSdnBqcmpuU-BUS6HGDr-TMm7zquPx6QhfjG8LQg4e8qrHre5VXoD5TRL7Cktgua7gn45js9c-eXsUg23qHx7SXN7MDxQqEKjVa_ytE7fPJUqmzKo0rVGnkqVlMk7gxNP3iPFZTs9Yv5GgxZhOPs0dETyEO_E3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
+swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-evolution - GitHub&lt;/a&gt;&lt;br&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swiftlang/swift-evolution&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Observable классы внутри иерархии SwiftUI&#13;
 &#13;
@@ -262,19 +276,5 @@ How we built the v0 iOS app - Vercel - Vercel&lt;/a&gt;&lt;br&gt;The v0 engineer
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://indiestack.com/2025/11/attach-to-multiple-processes/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как дебажить приложения, использующие несколько процессов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С такой задачей вы можете столкнуться, например, когда вы разрабатываете экстеншны для iOS, или macOS приложения, состоящие из нескольких XPC сервисов.&lt;br/&gt;&lt;br/&gt;Дефолтное поведение Xcode в этом сценарии не самое очевидное – например, дебаггер не подключается к сервисам, которые написали не вы. Как справиться с этой и другими проблемами как раз и рассказывается в статье.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://indiestack.com/2025/11/attach-to-multiple-processes/"&gt;&lt;img src="https://cdn4.telesco.pe/file/FES2Nvl16gx-EZBtQRVu40p1bjA9QduE8M1Z5gi6HntodX_t1_IRgyBUTHYBhWEZjrT0SJxDJi4ouVmbnaRELmulPbRx88RDkU8decEb02pn0eZZsVZvf_4A8_C0YxsXYAuQVfnuhWT-kCs7m6E5-wp3eHL7YKfb9tu6_-n-DD0Lxpd0ExcThgAgI7zNw1zSDbP7ztKUp53HTnFBkzMJKKP9kZlpQE8dYWjdobAjcu0NSjc259WOIJkteqBof6864NdWrq2jR5n6cafLN4ddkLFBIUpjOG7ZZketCSnaRg_vNzBd8cF5yq44VWPZJe0a26fPC5a6pY1CH2hkQ9vErA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://indiestack.com/2025/11/attach-to-multiple-processes/"&gt;
 Attach to Multiple Processes - Indie Stack&lt;/a&gt;&lt;br&gt;For the vast majority of developers of software for Apple products, the process (har, har) of debugging involves attaching to and inspecting only one process: the main application binary. This is particularly true on iOS-based systems, where spawning subprocesses…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Advent of Code in Swift&#13;
-&#13;
-Сегодня стартуер ежегодный конкурс Advent...</title>
-    <published>2025-12-01T05:05:50+00:00</published>
-    <updated>2025-12-01T05:05:50+00:00</updated>
-    <id>https://t.me/iosgr/4541</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4541"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Advent of Code in Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Сегодня стартуер ежегодный конкурс Advent of Code. В этот раз, правда, заданий не 25, а всего 12. Вообще, AoC – отличный способ поиграть с новыми языками программирования, до которых у вас руки могут обычно не доходить. Но если вы всем языкам предпочитаете Swift, то по ссылке – небольшая инструкция по тому, как вписаться в официальный лидерборд от Apple.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424"&gt;&lt;img src="https://cdn4.telesco.pe/file/bTReF66M1BRLYOI14lI9Ks-y06qE-6tD7o7LVxtc1fqodUOjS6tLKQgPhanICHAd1jgcyfUrdQgiz0Wcho9lhmgKMH-tL-T2ay9wwV0rSb7FmadozgOQbi1VVjDGvMLG9-291qaOeKWtZOOIgwKtZ9gzqyC3_kkj72HBYC8xZc7oT-6O5qs6vSSPWPsuNIiunG9LWXmc-oQpwdvp01DjxQ6NVvJODg2FAuHvcCQ_t_-18pr8ZjQIcrv3Z5DVUw_1_v2SCGL3lKOPXHE9z5rjuqPI_tO4q-WgFZiSPqYtr0eZFasNnINkO8HgNJlBCUOlOxuPnLWuowp2kdoJRlzjUw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://forums.swift.org/t/advent-of-code-2025/83424"&gt;
-Advent of Code 2025 - Swift Forums&lt;/a&gt;&lt;br&gt;Hi Swift Community&amp;#33;  It&amp;#39;s the most Wonderful Time Of The Year. Time to spend with Family and Friends  spend on Swift coding challenge fun&amp;#33;  Every December, Eric Wastl publishes Advent of Code, a fun set of coding exercises. One challenge is posted each day…&lt;/blockquote&gt;</content>
   </entry>
 </feed>

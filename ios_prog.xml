@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-22T05:38:23+00:00</updated>
+  <updated>2025-12-22T06:50:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+В iOS 26.0+ используйте GlassEffectContainer, чтобы...</title>
+    <published>2025-12-22T06:27:57+00:00</published>
+    <updated>2025-12-22T06:27:57+00:00</updated>
+    <id>https://t.me/ios_prog/693</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/693"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/693"&gt;&lt;img src="https://cdn4.telesco.pe/file/cHfoqBP5cnIwu6PAUvF0P1EnfxbR-j3w7ZMCUN2oHn658eWgfdNyf-ajuRqFatzUytKDIkzA1xHPgQMp9DHuY-DxSl2v1eGBAbkAoTYchTk0wG8S2OVQHSBkJDD73zDmgjZFuYenb_8_xiPnRZ7n6BHyR-5ZOfIo4kqhR492xU60flujRJJQduj_Cchhk2amPuxCm2fHuZWASgFFJe7WUYINA4gkqvGMat1Mm_cmEJnnozsi88HUUn1gkkYLvs1xHSfXG4A546I4nTuGN1FjYpJnQRi7E1stu8UoIvR42ZGHzDWYr1AgVBqrosTzG4P3iielXesUsme_X2KGKHDhPg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26.0+ используйте &lt;code&gt;GlassEffectContainer&lt;/code&gt;, чтобы объединять находящиеся рядом glass-вью в одну непрерывную форму Liquid Glass.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🔥 Живой стрим у наших хороших друзей: 2,5 часа кодинга с...</title>
     <published>2025-12-19T08:04:11+00:00</published>
@@ -84,7 +97,7 @@
     </author>
     <content type="html">			Каждый день появляются новые инструменты, которые автоматизируют рутину, пишут код, создают дизайн и помогают тестировать продукты.&#13;
 &#13;
-Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Тестировщики&lt;/li&gt;&lt;li&gt;10% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;10% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;8% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
+Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Тестировщики&lt;/li&gt;&lt;li&gt;11% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;10% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;8% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">🍏 Apple планирует продать 247,4 млн iPhone в 2025 году, что...</title>
@@ -108,7 +121,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/685"&gt;&lt;img src="https://cdn4.telesco.pe/file/XVsEnUVh-633FaEl0vvYeSjqvK0ew0ikU1aWoIsJZTMbgZDdD6qv816Vtr6H9cEMnFn08AxQmnwe0d9Gzxk6Iu_cxzRDj8IxAGyOTTtZTJjFjptvEtq2gvuG9ufIqZmWGIivgtiNpj9vsxasYxqzoY1AhctQpKInEcAEXdb5FxW59NTFkcp5wBCAXPgsnIJpBdKe1uhM40jOLUD89kiahTnKkeQbooaEcg_oK_QQ1aXtvHVHOWbuWbNFYvGKqhv3iZxCM4425kAJETvZJPICLBcZDdOzkWxxNKsTOjIp4zTbPMjQjCQsRcHkn293ZPX5feQlXSWnNdfRymH56F5s6A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Навигация на SwiftUI: чего не хватает и как исправить&lt;/b&gt;&lt;/a&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;&lt;/a&gt;&lt;br/&gt;В статье iOS-разработчик CleverPumpkin Даниил Апальков разбирает ограничения SwiftUI при построении сложной навигации, с которыми команда столкнулась на одном из своих проектов. Он рассказывает, в каких сценариях приходилось подключать UIKit, чтобы сохранять стабильность, показывает варианты подходов и делится выводами, какие инструменты выбирать для контролируемой навигации.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/685"&gt;&lt;img src="https://cdn4.telesco.pe/file/gfAlrxDyXrC8SRY4rg1MzS4R-ox7JDL4XQ5YUlQyN2PyugAiehxCGS5ive3Y-kL4HCGnp8YLP9s93nR-ziiBdUOJoxzZPItFudb4Ly26_DU4AQ7UdUquIGwygd0-45gOP3ehT5dVY1pyi69A6S0M-qXifG8vj6LFbONIVMura_DzOVs-_7hco3ycGc686dkdOM37jsOxlKeNn0glBASKRloUPr2RwCr27ZXdVbWI4K3oHUGNXyWlgo24kf4NBAT_aZQpLDHRV_xcCVIhyIgzB-sPS1lowvE8IKaU2gNLboZduAuoNSqbkVk1owo_wpa5GMVyIF8IWW343JMulr69gQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Навигация на SwiftUI: чего не хватает и как исправить&lt;/b&gt;&lt;/a&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;&lt;/a&gt;&lt;br/&gt;В статье iOS-разработчик CleverPumpkin Даниил Апальков разбирает ограничения SwiftUI при построении сложной навигации, с которыми команда столкнулась на одном из своих проектов. Он рассказывает, в каких сценариях приходилось подключать UIKit, чтобы сохранять стабильность, показывает варианты подходов и делится выводами, какие инструменты выбирать для контролируемой навигации.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">SwiftUI совет&#13;
@@ -246,18 +259,5 @@
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/bYuRXQiPDTsYPEKqFDxm6oEu6M0TuiMemAc097H1cKB_wnJXGO3dAJ7WyEGHmYHyYxad1Z9ayC1fE8ieQYy8UAKfIhOi1KXB7v90Mvniki9i_d-r1rqmRMG9CYAHnqJa3FlFMabgOve2H0bmZSd_9j3rn6s9X8VU216U0QYvotgRqz0wLdK-kGrR8bI452N5PRW3SEp5av02Uc2ylyk_mYmcPE3YseOgFT4yjjVkaIsMk_eL9Pi24p7THOPjLHgp148C9ci3hs7tWsqbM5OOJ1eFdIvSyxSiOSUFn66wUgmCHd8KJRgQMNfFPhxX-rZBiUJeUsJHuA8DUXtwr090SA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Настраиваемые физические  движения для SwiftUI.&#13;
-&#13;
-Kinetics...</title>
-    <published>2025-10-21T11:38:35+00:00</published>
-    <updated>2025-10-21T11:38:35+00:00</updated>
-    <id>https://t.me/ios_prog/673</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/673"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/673"&gt;&lt;img src="https://cdn4.telesco.pe/file/q5ODdBvpJaj3Y3HYSYV9DvWsdtdvESuv6Lw5KUBLaEo4wxeie3axH293O-EYwJhb01ogfeXnPqOtlorYl8rEwrltLX3pE04O4rYX9BN4dpNUOoNN4AdiKGkr6CGn8pFrondRwX9aig--7ZqDjWotbBy-cKhT_CfPVk6XD7L9pH3i7zBUYkohNLOKBNZAoYLcRidIWs1fcLySD6KCFpN12Y9jG54f-lSz8OZMWrDH0dzckwpenTYS-ml8Xhbzrf-yVe3uexMFFJ9EzcunnRA_9pmMXGk0zkV4n0vYaACIg7mjDf9BNx75buTtWsjvBYMLITMGvFLEg_a8-mfPrvFQDw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/roberthein/kinetics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Настраиваемые физические  движения для SwiftUI.&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Kinetics привносит в анимацию SwiftUI ощущение естественности, присущее физике реального мира. Созданный на Swift 6 с соблюдением строгих требований к параллельной обработке, он представляет собой современную и безопасную основу для создания анимации, которая реагирует на действия пользователя, соблюдает границы и выглядит живой.&lt;/div&gt;</content>
   </entry>
 </feed>
