@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2025-12-23T07:26:53+00:00</updated>
+  <updated>2025-12-23T08:33:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -234,7 +234,7 @@ Enabling enhanced security for your app | Apple Developer Documentation - Apple 
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale" target="_blank" rel="noopener"&gt;https://tuist.dev/blog/2025/09/22/scale&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale"&gt;&lt;img src="https://cdn4.telesco.pe/file/T6n6iWhMS3cxncHLyd6pBzDvVbTntfQQ-St_rCeR0WvDzeJUrcUbym_hWh8paOlNd5bPUknNfTLZvutWRXgGTgzFCZc2QJouMrerzecEVW_BSvEsSE06dCdoyXrM5MTvFCx6EwvX5qS-IUUNup1yw2xsI-AVxWn20Vz3QRFX47Jbcfv8kR6tcOy9SK6qM0A1VeTgHsAudWJtruHMe6ZXARg-ZaqiPt5_Lru6cXnr_jTT1R7AQJ7akQdl8pLKrIyu8Vst5mzfLb4GG99GG4X8fK1PItuFttVMnoAQeBxmOJhSWXCBJwviOvuixx4h9_zVZhLx700zNrtylaqYj9epkQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale" target="_blank" rel="noopener"&gt;https://tuist.dev/blog/2025/09/22/scale&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale"&gt;&lt;img src="https://cdn4.telesco.pe/file/Wq5W9QBsblkpyPQlJMrL_cyH-xO9HyUmcpYD3ADYqeNnVIY4umUzgBN1afKgDLbun6QgjYHAqzmA55FUee_9NRTPKvcOwhv--_2g9tYPutn2t97pVvb_S1P74-lB7TkdKAl8iO8stwpjho7lkmhHU_ZZUsXghPj3P0n89uOhFMcftYsNsXg1AyzBH-UUGOehrk-FYUc6hPl1ykol8JxuEOxsUhtPQHP2n5BsF-Pnsndms2Pekh5d709SFVNN-wMUWKkBPjb5S9mxJGENnR9iKkKAA6FlJIi79kFwNBNe8vlwLnJSXEcE9IYrEpxq_6CX-lBMdzl0j-LlNC0FiTesRg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://tuist.dev/blog/2025/09/22/scale"&gt;
 Why Large Swift Projects Hit a Wall (And How to Break Through) - tuist.dev&lt;/a&gt;&lt;br&gt;Large Swift codebases hit walls: slow builds, flaky tests, complex graphs. We dive into why Apple&amp;#39;s toolchain struggles at scale and how teams can overcome these challenges without React Native or Bazel.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
