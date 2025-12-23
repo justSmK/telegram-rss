@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-23T14:24:38+00:00</updated>
+  <updated>2025-12-23T15:26:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Cocoanetics : SwiftText https://t.co/VFISDPFCB8</title>
+    <published>2025-12-23T14:32:29+00:00</published>
+    <updated>2025-12-23T14:32:29+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25597</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25597"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftText &lt;a href="https://t.co/VFISDPFCB8" target="_blank" rel="noopener"&gt;https://t.co/VFISDPFCB8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VFISDPFCB8"&gt;&lt;img src="https://cdn4.telesco.pe/file/l9DY9dQSHBnNEiR5xJN3PqE1xfIbigHhcvw9Ilyq_eqzRb9vTzLlZ9dEL2m6P9hsqAtG3q8K2JFao9EuJHBwwFBtP4id023zmFj936GPDctdcpeiauCAsYYTHytPLHe22w26X4a00M8CZgs72pD4lhghfkeG-JGV7b0MyzwqnSHjSNgQqgKER45I99NUXO8-W6o1KpiEaPMQSp4jSuE_X_QyUNOpuf5FrDZdYNNWDqC3G1yzn6jMJVmKjvRMFyhAWgYvR7jLhxrB5YYobrXTinTP0pAtpCbqsDPeYF2Oaia5KiUPeoT_08NDXnXnxFewKfnVNhWBmSgnA8XZiisFWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VFISDPFCB8"&gt;
+SwiftText - Cocoanetics&lt;/a&gt;&lt;br&gt;Over the course of the last year, I’ve had quite a few side projects that required some way to get text from a variety of sources, with code and frameworks found in a number of private repos.…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">The Company That Rejected Me For Not Knowing ARC Internals — Here’s the Full Story...</title>
     <published>2025-12-23T13:57:24+00:00</published>
@@ -238,17 +250,5 @@ GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on appli
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/AY2e8aFvoD_x2ubx-3UGRUwK6sSSFG23oAJtFWlSTgCwr7HlrqYq45rrd8t5W1q5ZQ6dHPvFkA0T2mcxl8ckQvntVpX9LWaTN1aYDKkFcwI74M05gZllJ8wGNqPc4bVaEqEYXn9mC6_ac5cthhHyN_UihFrAkFoSQhz4WUXaJCwGa3sV7USWwEu2dHwU-ssRqQDUTVQ80AvswmjmU55pQqKuDpGxTnpqf01CKAQtSBqpZLybafT23gj9lyIczDMrYcYc4b97oKRyNm-I9hMi5xcXgAtyvcNUMRga-UyBCHi3uiH2zgagW63ObxiZEJzvBiwzZUPU3HhY7Q0vP2uQ2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
 GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : ReactiveX/RxSwift https://t.co/AvgvjzaI6F</title>
-    <published>2025-12-20T02:07:41+00:00</published>
-    <updated>2025-12-20T02:07:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25577</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25577"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ReactiveX/RxSwift &lt;a href="https://t.co/AvgvjzaI6F" target="_blank" rel="noopener"&gt;https://t.co/AvgvjzaI6F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AvgvjzaI6F"&gt;&lt;img src="https://cdn4.telesco.pe/file/rJywf07EpfgCRHOGqO4PcnbJ5-9LXOxwclVzSjZM-OjE82-0UYzCKGWtD64pMAo2ax-TIzvk-xWyswWUH_uFzkvvg7DIdncgeOtZWOQ6PUHoz4d8_3vM0VB6qd9FH90P0noSGH95fxeJLt9r0C_8kvMIzD7IpHPL-m9BpVGzfLK87gD3JsT_O8dEOqwQMxhK5UYP16JGhcqSuqu0TLqdu0sXHRnscbNNIarbRZ8hwGynaP9Ptn3F6vQ_QeJS_c_RPitWMmv36GXJ-FpNJ1KLsPJ89I9qjl0WP-6GFNQssvFHP604AcxtFm88stz3tYHvaiJauDlwC8Ycft5mPqsDrg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AvgvjzaI6F"&gt;
-GitHub - ReactiveX/RxSwift: Reactive Programming in Swift - GitHub&lt;/a&gt;&lt;br&gt;Reactive Programming in Swift. Contribute to ReactiveX/RxSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
