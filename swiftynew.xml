@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2025-12-23T08:34:20+00:00</updated>
+  <updated>2025-12-23T09:29:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">В Swift приняли **SE-0493 — async в defer.&#13;
+&#13;
+Раньше:&#13;
+defer был строго...</title>
+    <published>2025-12-23T08:59:07+00:00</published>
+    <updated>2025-12-23T08:59:07+00:00</updated>
+    <id>https://t.me/swiftynew/653</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/653"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В Swift приняли **SE-0493 — async в defer.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Раньше:&lt;br/&gt;&lt;b&gt;defer &lt;/b&gt;был строго синхронным.&lt;br/&gt;Даже внутри async-функции нельзя было написать &lt;i&gt;await&lt;/i&gt; в&lt;b&gt; defer&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Из-за этого:&lt;br/&gt;— асинхронный cleanup приходилось дублировать&lt;br/&gt;— или делать Task { } внутри defer (который не ждёт выполнения)&lt;br/&gt;&lt;br/&gt;Теперь:&lt;br/&gt;в defer можно вызывать await, если окружающий контекст async.&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;func load() async {&lt;br/&gt;    await start()&lt;br/&gt;&lt;br/&gt;    defer {&lt;br/&gt;        await cleanup()&lt;br/&gt;    }&lt;br/&gt;&lt;br/&gt;    try await work()&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Что важно:&lt;br/&gt;— defer по-прежнему выполняется при выходе из scope&lt;br/&gt;— порядок defer сохраняется (LIFO)&lt;br/&gt;— await внутри defer ожидается, а не fire-and-forget&lt;br/&gt;— работает только в async-контексте&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md" target="_blank" rel="noopener"&gt;https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md&lt;/a&gt;&lt;br/&gt;Proposal принят и войдёт в Swift.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">что будет результатом выполнения?</title>
     <published>2025-12-12T09:44:15+00:00</published>
@@ -19,7 +33,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			что будет результатом выполнения?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;52% - «-824»&lt;/li&gt;&lt;li&gt;7% - «24»&lt;/li&gt;&lt;li&gt;33% - «42-8»&lt;/li&gt;&lt;li&gt;9% - «42»&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			что будет результатом выполнения?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;52% - «-824»&lt;/li&gt;&lt;li&gt;7% - «24»&lt;/li&gt;&lt;li&gt;32% - «42-8»&lt;/li&gt;&lt;li&gt;9% - «42»&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
@@ -121,7 +135,7 @@ SF Symbols получили новые режимы...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Какой цвет выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;47% - Зеленый&lt;/li&gt;&lt;li&gt;53% - Красный&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Какой цвет выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;48% - Зеленый&lt;/li&gt;&lt;li&gt;52% - Красный&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
