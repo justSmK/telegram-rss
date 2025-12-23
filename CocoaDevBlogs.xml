@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-23T13:37:59+00:00</updated>
+  <updated>2025-12-23T14:24:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Company That Rejected Me For Not Knowing ARC Internals — Here’s the Full Story...</title>
+    <published>2025-12-23T13:57:24+00:00</published>
+    <updated>2025-12-23T13:57:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25596</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25596"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Company That Rejected Me For Not Knowing ARC Internals — Here’s the Full Story &lt;a href="https://t.co/gQo2YeUrLI" target="_blank" rel="noopener"&gt;https://t.co/gQo2YeUrLI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gQo2YeUrLI"&gt;&lt;img src="https://cdn4.telesco.pe/file/WSxrhe-JrRyJ20OdoApGVaeTiyt4zH7d-ykr-FHVjaPkY6YTESnLQgY2XyHb9vv5bMz1PNWQzCuzduZe8KZPHqxk2V8yoUA_zeqg26Uj8VGP1cuXtGTbq9FZYh3rw0aC9zc26aVWtIwuITBxqD87-a71SHi6lN6SrF4NefVlZjld9z6B91a84i6G1BK2bd1ubQmGTOgQVoh-53gMBlEvAldwkU2snofgJ2-_7lwdv7TTpLbOcoNZl_0xQmZ1lDKDE90afNZ2ZYCdTT-NYAoI9YDKN3dlHgLf58vqs_Qqn6BWfxv_YgiiirJUKlLqPHaUmcqRzQUeYROyLTDmKeUzhQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gQo2YeUrLI"&gt;
+The Company That Rejected Me For Not Knowing ARC Internals — Here’s the Full Story - Medium&lt;/a&gt;&lt;br&gt;The interviewer didn’t stop at “What is ARC?” He kept digging — until my confidence collapsed.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">From App Idea to 10K MRR – YouTube Series https://t.co/y2rauJY1e8</title>
     <published>2025-12-23T08:02:49+00:00</published>
@@ -238,17 +250,5 @@ GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you s
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ReactiveX/RxSwift &lt;a href="https://t.co/AvgvjzaI6F" target="_blank" rel="noopener"&gt;https://t.co/AvgvjzaI6F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AvgvjzaI6F"&gt;&lt;img src="https://cdn4.telesco.pe/file/rJywf07EpfgCRHOGqO4PcnbJ5-9LXOxwclVzSjZM-OjE82-0UYzCKGWtD64pMAo2ax-TIzvk-xWyswWUH_uFzkvvg7DIdncgeOtZWOQ6PUHoz4d8_3vM0VB6qd9FH90P0noSGH95fxeJLt9r0C_8kvMIzD7IpHPL-m9BpVGzfLK87gD3JsT_O8dEOqwQMxhK5UYP16JGhcqSuqu0TLqdu0sXHRnscbNNIarbRZ8hwGynaP9Ptn3F6vQ_QeJS_c_RPitWMmv36GXJ-FpNJ1KLsPJ89I9qjl0WP-6GFNQssvFHP604AcxtFm88stz3tYHvaiJauDlwC8Ycft5mPqsDrg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AvgvjzaI6F"&gt;
 GitHub - ReactiveX/RxSwift: Reactive Programming in Swift - GitHub&lt;/a&gt;&lt;br&gt;Reactive Programming in Swift. Contribute to ReactiveX/RxSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : jdg/MBProgressHUD https://t.co/OLv0iQAasH</title>
-    <published>2025-12-20T02:02:52+00:00</published>
-    <updated>2025-12-20T02:02:52+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25576</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25576"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fjf3wN6N7q1eOrPXmMpWmoDpMT2tBk2T4ntzalXGofvWDd7h6ZLy3LjilERrdk2NSnDT1OAEv9mwkVF6Tq1-ucQTXjJtHfUO9gJyWsbU_5NSTtiVk2wU28Rlfs0s48T7zmFeTAdPi_iPSS37xK_G-UJ14hVn5xpi_VuiQJIy8VIsMCnFmp21tyjttxjiOScl6jjigdQYBTCEXZq2Ia60sq0eA-3PB9B00P0ODW2iMpFESCeEkvH7X7Jq763zeIdZj-OM2c_zUsbKKsCzF3x0yFSjDhcm97yNBaLaeS63rs43Tz70HzpVI2LOigLBo4ZmvcyVgyJd80w0KlS5tadrRg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
-GitHub - jdg/MBProgressHUD: MBProgressHUD + Customizations - GitHub&lt;/a&gt;&lt;br&gt;MBProgressHUD + Customizations. Contribute to jdg/MBProgressHUD development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
