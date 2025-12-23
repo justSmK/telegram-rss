@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2025-12-23T05:27:27+00:00</updated>
+  <updated>2025-12-23T06:38:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -210,7 +210,7 @@ Secure your app with Memory Integrity Enforcement | Meet with Apple - YouTube&lt
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app" target="_blank" rel="noopener"&gt;https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app"&gt;&lt;img src="https://cdn4.telesco.pe/file/A8i-IzJLq_vjRg964t_Gu_rQoFw3IoHa9I1EciQClBbBRXlk6eMqgLa15kNzMnyqslV48aFTTORr4M7Dn8zb8USP5EBofibrIBEZQNLMmNRZCSzA3c-os_XlnpXSOksPbMbmWJF01BG7z-1XZBLwQLadiFBctWWUSrDp6xWPToJy834Upu1adqTfNST7Y-k9Cy3INw6sgWpNPoT9J_-dmy9J25w_1u5MYai_5GkeeiVWCvhL3Ci8SIluYaVI8Ct4OB3hbT_i4bvDRkka9Q694FC9e6riIHSsG-PiRZ2r2sAGjLhIXKSo7DGZC0aUdRX1ptrAIWoziopN_8AFM3xSnA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app" target="_blank" rel="noopener"&gt;https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app"&gt;&lt;img src="https://cdn4.telesco.pe/file/pu6KmFccic9wOQGl_4CfkYRfoFj5vRyDwVu4MMXLgYr1uUCMr0vUY9N3D8tf-zsVd63q7-sZwZwpOxi4kY4ZrPw5KxF4jPgxLaHSOzGWZaSi9znbBmBqB2nWqSwufFEGj4hS7tEsxig6BUA-YX1qeCDvU2vsjTDgANFROifleQMJU6OwsTQb5Wmoe1CFqS9xgBshahy3HLonyzOkXskrVkOwNlCS_kLrVqp5X5E294I5wMo_y5kkoSZt8SNgH3b38UAIXSV90h2t-kygvOMBWfPE6qr1EetB7Tf1PUMJDUJBwfXfcswtk0VVMgN2KxtUXtL2c-lwqBkqpsUJTIeabQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/documentation/Xcode/enabling-enhanced-security-for-your-app"&gt;
 Enabling enhanced security for your app | Apple Developer Documentation - Apple Developer Documentation&lt;/a&gt;&lt;br&gt;Detect out-of-bounds memory access, use of freed memory, and other potential vulnerabilities.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
