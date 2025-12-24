@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-24T13:34:46+00:00</updated>
+  <updated>2025-12-24T14:23:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -122,10 +122,10 @@
     <author>
       <name>Swift Tips</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/Dty0qTbNIjZdOJPwV7vHhCYOTrugRjRd13tSWsxhxFcwfYo0v4LsJdxIE3YyTzn-uuXmyFkayLmbtXAwQ_pRlYiSoQh29d_bOJGsNWfa94d3udEctQxtDvQzYnQ3r4FMU3ogc0QlV4gQRa6R0KM3AjbhLOypat8kgD5W42HJKkND6b27qx_orb9TcHR7B_WqSnR35UkTIKAmY-3NIvXBY6YaSnXAmXmT3kssFD9j6ivX5-KZcH6Kr2BP1AByOOqdpHeDDCMx2TgiCxwCKDrbZG8-M3C2aIQZ1i5VLxjLAGVv28gVPPbKfffPXVGdc_3wOG9Pj25Uy2dY6bgNyZU5Fw" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/0c05135bbb.mp4?token=I8MEBhY2xA8w7KmJhyoE49PfXYffG7zfG29ayWQkwIwChXoDVtSf4IjkBWM9szTc4V3-nF90-qe4fjY8zvSgASd3DH3pEpU7RW_RGsNn38cfOQFAZ8F2TVS2iUbmR9qDvg6ExbgscIMFrVVUzn10UxGdZ_42WBHQTmxzvkF0S_kK4eRDCbghWGjkoHOKSEr_8S0P6ixM78DXSQnKvGJ1tKl-yDe9SCjvdVVO4algdCNsFd1xdktFBdTGAlWadMs4g6NnNXvFDGk0SrftavgYKl1u_l5UJzTIgZBbU0FFMs3FRnvuSka2oK9hRuQbTiNPVGEXLekHtyZCDOcL_zUrdA" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/kPRYlPYhPzXmuVyMmWs8mjD68BBdIyGtMVAEQwwHl89r4bAcXYjR3rNBIaq86Do4rAzFxLsrrb5WhzTt2PAm9tuQQDhiCNNHTz0GkURTMZLfORqipFBixtl4GbLDZuqGlhEiy8nSva-7WlVZjp5rMyUWqxJs-OlxdDiBxBq1VlFJ6NeLhanPt1L635jhAuxM-KNriT19a_lLgQWkk3ethMqJp3yN1GLNa6AXT63lbYklhlh9c9z2GDmTQlWaCpjk7a3o-KYtVmzQibxJVWcDJks9mfQPmjuPJyXbs6I2Z6mqsiez208gy8YcpLzOyTnybPKw6dvxwWgRTl1_uhbLSA" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/0c05135bbb.mp4?token=YUOE2DtEl_m_3zHBJ-CBBEnXSZDdVQd_80YcxL8qubWCqigGC5MgKkAmHA3UdmI2xaZAmyS7gcpOVKCtLPwnzvXV1t0VoXmwm8f0HNe-OyjNFkRCpaTYQAHBDEwl9o4j_bKfVQXAFXeeA0iOjwX0ei0mzEgTLGB6eCtnHS-JkAnDn6MJQiuQD-0fS-pfqZEOvE5R06Jno60ldVQvMTKPtLRqwFeXWQnboeVllNVt1rQlT0DSCoxJEnAyMP9fynuPg4wcBK1mSuKOq7kIZ95QhHp9eRyqy2-fF-R11QjXW6Kj-TNd0eOc4bFYAbCzv1o5o7cxs5t6LqYoWWY2_pQdkA" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Livsy90/IntelligenceGlow" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;IntelligenceGlow&lt;/a&gt; – легковесная SwiftUI-библиотека, которая добавляет эффект светящейся обводки в стиле Apple Intelligence к любому элементу InsettableShape.&lt;br/&gt;&lt;br/&gt;Библиотека на GitHub → &lt;a href="https://github.com/Livsy90/IntelligenceGlow" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;IntelligenceGlow&lt;/a&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/Dty0qTbNIjZdOJPwV7vHhCYOTrugRjRd13tSWsxhxFcwfYo0v4LsJdxIE3YyTzn-uuXmyFkayLmbtXAwQ_pRlYiSoQh29d_bOJGsNWfa94d3udEctQxtDvQzYnQ3r4FMU3ogc0QlV4gQRa6R0KM3AjbhLOypat8kgD5W42HJKkND6b27qx_orb9TcHR7B_WqSnR35UkTIKAmY-3NIvXBY6YaSnXAmXmT3kssFD9j6ivX5-KZcH6Kr2BP1AByOOqdpHeDDCMx2TgiCxwCKDrbZG8-M3C2aIQZ1i5VLxjLAGVv28gVPPbKfffPXVGdc_3wOG9Pj25Uy2dY6bgNyZU5Fw"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/kPRYlPYhPzXmuVyMmWs8mjD68BBdIyGtMVAEQwwHl89r4bAcXYjR3rNBIaq86Do4rAzFxLsrrb5WhzTt2PAm9tuQQDhiCNNHTz0GkURTMZLfORqipFBixtl4GbLDZuqGlhEiy8nSva-7WlVZjp5rMyUWqxJs-OlxdDiBxBq1VlFJ6NeLhanPt1L635jhAuxM-KNriT19a_lLgQWkk3ethMqJp3yN1GLNa6AXT63lbYklhlh9c9z2GDmTQlWaCpjk7a3o-KYtVmzQibxJVWcDJks9mfQPmjuPJyXbs6I2Z6mqsiez208gy8YcpLzOyTnybPKw6dvxwWgRTl1_uhbLSA"/>
   </entry>
   <entry>
     <title type="html">Combine – швейцарский нож iOS-разработчика. Или...</title>
