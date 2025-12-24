@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2025-12-24T06:38:05+00:00</updated>
+  <updated>2025-12-24T07:26:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">#ios #swift #xcode #bug&#13;
+&#13;
+Слева - таргет Apple Watch&#13;
+Справа - таргет...</title>
+    <published>2025-12-24T07:02:34+00:00</published>
+    <updated>2025-12-24T07:02:34+00:00</updated>
+    <id>https://t.me/easy_dev991/290</id>
+    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/290"/>
+    <author>
+      <name>easy_dev991</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/easy_dev991/290?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/jM0DMSRl9hITX10lHvamrzZocsil5VP0uXxv9dZEihLaLkHg3ZtjmXVUsygD9OlAJWOGTbF9ryOF49t7z8F37UBcARwlPKbptXjU2wFL-LFuRcOCsimpA4KtaIHzoYK-v8LIIH0cwc4rFKesIg_MUuDZXMTDH827sYlJIwBqZbkTkVMdY1phxj0PhANAbYf5m3FeyOx2dNEZcxxr-SDBcGF3J2XCpE2h9aVGVl4wLltWC2GhJQLHw_qni5D8nNSUJyic3fyi5qNuA9N1B1xMyxvrprl52gSOjX2x6GrxQvF6j8WeFONzGiUuRlkLnnj5ZfE3viKpFEMkPSKKQ98W0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/easy_dev991/291?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/SWNhmaHThIN6pTO28K8qyvi0aJ89HFSvdgJxMtx_CdQxVn3UDXqAYNg3F8tkQ0KrCb7HBjUm8MCVC3RJzVVdlJECKLIlpgkPeazbYZ_bCPPtPfWmxxkCzoxbedlZDdgeR4UxNW-qVtYnoMLg4vDRxytp1sS_JXAHvlYHZmjRxWtAphkz7zb_VH0kP2yw7pgnCC7HZtJU2PSFFI4BpaPabU4pLALIPdDrAARLB0NBPecjG1UWgsWCn1EvSznq5mSJTKEuDYvcoPoUGgDz36ZY3y5hb2QVNDCrXlK8rb3z-ieSPta_NuxeRKUdG5Ls5vdhLjS11xz5rNEYOYVOJP_YZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt; &lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Слева - таргет &lt;code&gt;Apple Watch&lt;/code&gt;&lt;br/&gt;Справа - таргет основного приложения для &lt;code&gt;iPhone&lt;/code&gt;&lt;br/&gt;&lt;br/&gt;В обоих таргетах версия &lt;code&gt;Swift 6.0&lt;/code&gt; в &lt;code&gt;Build Settings&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;Если для часов закомментировать вариант с &lt;code&gt;String(localized:)&lt;/code&gt; и раскомментировать вариант с &lt;code&gt;NSLocalizedString&lt;/code&gt;, то ошибка уходит - чудеса &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9881.png')"&gt;&lt;b&gt;😁&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Баг на баге &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9988.png')"&gt;&lt;b&gt;🙈&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">#ios #appstoreconnect #fastlane #bug&#13;
 &#13;
@@ -215,35 +229,5 @@ GitHub - easydev991/SwiftUI-WorkoutApp: Street Workout Площадки (пет-
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt; &lt;a href="?q=%23news"&gt;#news&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Вчера состоялся превью-релиз Swift SDK для Android, весь анонс и детали можно почитать по &lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Кто знает, вдруг через пару лет можно будет с легкостью разрабатывать андроид-приложения на свифте?)&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/"&gt;&lt;img src="https://cdn4.telesco.pe/file/FBOddjYaDjRqjW2rAWrxj4XXz76KRvsdcQ1P4MdleHoQePVZV55rq2phynanKCLHSot0IKXcOxQ_kQumxHPNzu5JbEyF_IOmmZRHymaiLjM5R6XEeNcHODifVacQM6OshOy3uvm4LlqJNcZ-2Np9l-lWq0UGy-VRLuQdg09pUYr0wyTPSXDBd7JpzdVdrtkOM0vIS7kFcbZQD5iKNuevuiqmPHp8y8MeGqHRsnkIzePDJJkpbtbKILoNnd-v-Nz6VLOsQToj_NLjgc0WiNLSLpKjkgEfBuRNA1bpWBo71cppbvcEpOMOFdqMMnriazCoZbHGhj4-oWPwx9EQcAE26Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/"&gt;
 Announcing the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Swift has matured significantly over the past decade — extending from cloud services to Windows applications, browser apps, and microcontrollers. Swift powers apps and services of all kinds, and thanks to its great interoperability, you can share code across…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#ios #swift #swiftui #navigationview #bug&#13;
-&#13;
-Чиним баг навигации в iOS 26</title>
-    <published>2025-10-21T08:59:23+00:00</published>
-    <updated>2025-10-21T08:59:23+00:00</updated>
-    <id>https://t.me/easy_dev991/271</id>
-    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/271"/>
-    <author>
-      <name>easy_dev991</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt; &lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23navigationview"&gt;#navigationview&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://teletype.in/@easy_dev991/ViOqnhds2XA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Чиним баг навигации в iOS 26&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://teletype.in/@easy_dev991/ViOqnhds2XA"&gt;&lt;img src="https://cdn4.telesco.pe/file/jQAgwtq3uqbOWS8Nk5XHLT1OLo1Os4elT8V0Uyw2d1bjprUv2wcomaRAr79C_JY26JXPVJgbkZmwlcZ5Gz2XozzL5G5AzSUa664zg778VnINoD8iGpzygQ6KmUNQThh4EgusDH1ghH2g8A0Q6lrOaSilmgfqavHLX83odq_Gyq7pD0uWHvF9iUQnmM8VQKS8gwM32ArRCPGNP2h6Wfhi-6XOX0OEukbnLegllWB49t7hBkYLLIizK1JYTVqvRVP92kVa5sNRa1vmCFG-MILR3KyALBItwC9dzTvmavyAqUON3jHkLj5ewjgrjDiSYb0WZKikjjcVY55T9Acq_nVNxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://teletype.in/@easy_dev991/ViOqnhds2XA"&gt;
-133. Чиним баг навигации в iOS&amp;nbsp;26 - Teletype&lt;/a&gt;&lt;br&gt;Недавно заметил в симуляторе iOS 26 сломавшуюся навигацию в нескольких экранах пет-проекта. Расскажу, в чем там было дело и как это...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#ios #ios26 #swiftui #navigationview #bug #contest&#13;
-&#13;
-Представляю вашему...</title>
-    <published>2025-10-19T08:51:46+00:00</published>
-    <updated>2025-10-19T08:51:46+00:00</updated>
-    <id>https://t.me/easy_dev991/270</id>
-    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/270"/>
-    <author>
-      <name>easy_dev991</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/vro8_kfRIXydm9-yQJ0R22_lrtfAN7EqA-imE2HCogGtrn5agxWNdTzxPf7Wx-RVEkR896oLJBJCIlmlH04Gl8MzTdJx9nXMzOfN3gQIANbSsufG8tvg-CJy2KX09NuM-rc4yg8o2Apc7MJM40mhBMKe84FMFjFMZLl88R7rQspGw5-7ORIVKm7BWqPqQvZLGOABU-Qc4jAoAdnrIMXhZ2_e5OzaybnyrhfxJN8_QrOdSzykqFd_GpVgzB_2V1OJ54ZnZ_OrCDHXW5LuH0Jfn2OTCCBGFKfCkVOiuhoM7SMVPQJzy1jERCYnbygsyvemxnYPAMnNNIJQm2oO5BymaA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/67ff91ebc3.mp4?token=k4ggHSQY2EsHtFOxr5jGv33V9xBlueyQSPXefe2iVS2m97Mj6CKktYXZTAySz8OsCDML7xOkmoBLqv9ggDOdFaFF2bxHBjEly23LT6a_Iy5bMRFx1X2R2s_w1eOtH4HJL0Zp6UXgCFdLqVbzDwYFZE1v6DwGm4qQkydmdaLyt9WOXCD-56qAE2UMc36BLRYf_7-verhJegbMqO3-Z_8weVfLpG2b7LpBO9N0aNPKJezz0l935iIdFdgl8lGyV7lAQCLMNy7FYJrab2RtV76ySlUv4ZQDEm4UcMfsJV9O_6xXgNS9bdV0n1RKa8eNOILGtTk8ziLG5UF1ah0xSZbdog" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23ios26"&gt;#ios26&lt;/a&gt; &lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23navigationview"&gt;#navigationview&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt; &lt;a href="?q=%23contest"&gt;#contest&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Представляю вашему вниманию очередной баг iOS 26 при работе с &lt;code&gt;NavigationView&lt;/code&gt;, который отлично работает на всех версиях iOS, в том числе на iOS 26.&lt;br/&gt;&lt;br/&gt;На iOS 26 экран автоматически закрывается при первом вызове любого из &lt;code&gt;menu&lt;/code&gt;/&lt;code&gt;picker&lt;/code&gt;/&lt;code&gt;confirmationDialog&lt;/code&gt;, а вот &lt;a href="https://github.com/easydev991/SwiftUI-WorkoutApp/blob/main/SwiftUI-WorkoutApp/Screens/Parks/ParkFormScreen.swift" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;код этого экрана&lt;/a&gt;, и там нет никаких ошибок, и чинить там нечего &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A6E2808DE29982.png')"&gt;&lt;b&gt;🤦‍♂️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Исправить ситуацию можно как минимум двумя способами, один из которых совсем простой, а второй чуть посложнее, но применяется в проекте во многих местах с другой целью.&lt;br/&gt;&lt;br/&gt;--------&lt;br/&gt;&lt;br/&gt;Позже напишу статью на эту тему, а пока что &lt;b&gt;объявляю мини-конкурс&lt;/b&gt;: кто правильно назовет причину возникновения бага в iOS 26, тот молодец &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"&gt;&lt;b&gt;🚀&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/vro8_kfRIXydm9-yQJ0R22_lrtfAN7EqA-imE2HCogGtrn5agxWNdTzxPf7Wx-RVEkR896oLJBJCIlmlH04Gl8MzTdJx9nXMzOfN3gQIANbSsufG8tvg-CJy2KX09NuM-rc4yg8o2Apc7MJM40mhBMKe84FMFjFMZLl88R7rQspGw5-7ORIVKm7BWqPqQvZLGOABU-Qc4jAoAdnrIMXhZ2_e5OzaybnyrhfxJN8_QrOdSzykqFd_GpVgzB_2V1OJ54ZnZ_OrCDHXW5LuH0Jfn2OTCCBGFKfCkVOiuhoM7SMVPQJzy1jERCYnbygsyvemxnYPAMnNNIJQm2oO5BymaA"/>
   </entry>
 </feed>
