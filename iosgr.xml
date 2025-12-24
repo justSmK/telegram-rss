@@ -6,10 +6,26 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-24T16:29:39+00:00</updated>
+  <updated>2025-12-24T17:20:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Если у вас есть свободный час времени, подключайтесь...</title>
+    <published>2025-12-24T17:04:17+00:00</published>
+    <updated>2025-12-24T17:04:17+00:00</updated>
+    <id>https://t.me/iosgr/4564</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4564"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если у вас есть свободный час времени, подключайтесь на традиционный новогодний стрим подкаста Подлодка – будем подводить итоги года, рассказывать про наши главные открытия, самые полезные книги и всякое такое. А главное – разыграем среди зрителей Switch 2&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.youtube.com/watch?v=s6h99EUWemE" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Начинаем через 10 минут&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=s6h99EUWemE"&gt;&lt;img src="https://cdn4.telesco.pe/file/nbr6av4m01c0XTCI4q-2oFvpk7nIhahsZOhWFqLO_2zo9BhHyYx3_zJSMebOB-nAqOuLupVtorfY6BSkTLc_ivv0JZ50HmInaA3clnGgU0EynpoYddTn9w6OyUdPoXzPnKtswg-pyWk3ykwpyg8rkdm-kDCqvIK7rjJtjDtMahP9RxEtWPTMIOp01bCP0cU_YzYi2KkEOKsdldkPOJPyGl_pDggsUKdWAP0dEYdtify5Ev_Mt8y_B5RBXPG6V84_ZWLprxEYmcU0if5lRX_MvyoQqEQ3xM4z0l5HoyBnIQoC5HSkQvCA7hlLXW8tk0HWfZ0lHgH2j_vcnRuyFvWuiA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=s6h99EUWemE"&gt;
+Новогодний стрим - YouTube&lt;/a&gt;&lt;br&gt;Полезные ссылки:&#13;
+— &#13;
+&#13;
+❓ Хочешь обсудить выпуск или задать вопрос эксперту? Вступай в наш Telegram-чат: https://t.me/podlodka&#13;
+📰  Не любишь чаты, но хочешь оставаться в курсе дел и прокачивать свой IT кругозор? Подписывайся на наш Telegram-канал: там публикуются…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как ваше приложение влияет на батарею&#13;
 &#13;
@@ -272,19 +288,5 @@ Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platfor
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuist.dev/blog/2025/11/26/opening-registry" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Tuist Registry теперь отвязан от их аккаунта&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В начале этого года Tuist зарелизили Tuist Registry – реестр Swift пакетов, соответствующий стандарту, который вы можете поднимать для своего собственного проекта. Основной плюс – скачиваются только те версии пакетов, которые вы реально используете, и это помогает экономить время и место на диске.&lt;br/&gt;&lt;br/&gt;Основной проблемой с адопшном было то, что реестр был привязан к необходимости заведения аккаунта в Tuist. Так вот, теперь реестры полностью отвязали от этого, и вы можете интегрировать их вообще бесшовно.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://tuist.dev/blog/2025/11/26/opening-registry"&gt;&lt;img src="https://cdn4.telesco.pe/file/m0W-lQSudhi1Tdm5ycFkqOeqilAgkrqe4hEvknwe6HKIZqx4RgdG1v2xiM5ZLob-lH1nE9OXHPEjLvnW86wJ_4xEu1kKp_BlQwnp_QU42FQ8SIVOPXi5F2TQR10o8wMw_GN1lDmBXB4EUCXrPyUg9u8rwB6kKWnDIdILzE79Zf3iYabubah6gSD1d6DQGexyrqzqDqL2uqLHo9nN_RDJzhlfO__IykrkTs2f4Hh5UmRrK4F0wf7XwMez-i-UV-bdRW_ZE49flgKJP9yu2hiA787lyWh8qmzxpHUSwn_cT9sn8mBXGk-AVNKIhj2hXwQA6ymjS0_2fGbRa_G7fbh4gg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://tuist.dev/blog/2025/11/26/opening-registry"&gt;
 Opening up the Tuist Registry - tuist.dev&lt;/a&gt;&lt;br&gt;Tuist Registry is now available to all – no authentication or account required.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как устроено приложение Vercel для iOS&#13;
-&#13;
-Шикарная история о...</title>
-    <published>2025-12-03T06:04:59+00:00</published>
-    <updated>2025-12-03T06:04:59+00:00</updated>
-    <id>https://t.me/iosgr/4544</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4544"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://vercel.com/blog/how-we-built-the-v0-ios-app" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроено приложение Vercel для iOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Шикарная история о том, с каким уровнем продумывания разработчики Vercel подошли к разработке первой версии своего приложения. Их целью было сделать UI/UX, достойный получить Apple Award – и в статье они разбирают, как реализованы основные дизайнерские решения. Сразу предупреждаю, что технический стек – не натив, а React Native с Expo.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://vercel.com/blog/how-we-built-the-v0-ios-app"&gt;&lt;img src="https://cdn4.telesco.pe/file/vdIgSHScqQxPSvzQygvfE-yWK7PIfll_zU3Iehslw38iAsCA1Qac42bT6urZ3MlsbaRCm_a8IM5XYStVwKj6RJ5thTEFKNJ7_rTPnVXLjzIbR6qD7CJSUwo_0SiyZQzMNmyn0lnKK7OdFKAu5cBb4UwZBy4nBFb2TwBJLUkY8E8BRF2yTEJyLUndRRsU9dL6NdssvTOugczgc5R3lba3plVbU_An7xaK69Ar4O83ovwK4G0_tG2hPKzow7TkSbdGRPehFjHLfMKtmL4cMdcXDH9A6s5by1qZENTlbBK8ZloYVUIt8rIM_co-rXBU591Phw7hRgJZgFGD8DiotxbDGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://vercel.com/blog/how-we-built-the-v0-ios-app"&gt;
-How we built the v0 iOS app - Vercel - Vercel&lt;/a&gt;&lt;br&gt;The v0 engineering team breaks down the challenges and decisions behind building the v0 app for iOS.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
