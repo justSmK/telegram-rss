@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-24T17:20:13+00:00</updated>
+  <updated>2025-12-24T18:34:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -247,7 +247,7 @@ Upcoming Conference Talk - Ash Furrow&lt;/a&gt;&lt;br&gt;I’m very excited to a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/foeCsm5Glq3esl28RECAPJ3V4l7y1lQF6p83vV-Phji7VA_Hm3dqbO85D5KzkB4_g7XEhwmW8D2nUGz_q7QZwaMjMKIfE3nx8lqFuj2n1tLeAz1IepD7-CI4Tk2f4tF4VrTY_oKtB2c58HC1IqiQtYHXuHUyB32DQZtZfRFi6Snav4vIsKWL1bfpaCVMDbfE0j46BDOmwuAR0zZ52GsPwQFXWaOToyA0knF_99YzS4_-WgPIj84WnMrwQjHRfUoTUIIhhEfoDLEIRl9d7aFZjlb7SF30ex0FfLsBgGk2ztXkLWbml1yqo9Y7AHRZnV4waYeGpoPDUrsm1nXv0KO9EQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/sEg9_5QDVfMYLdPj7oiRV94zM9MtgeFH9osK9uqp1UyxI6C_iv-ZkoYgHeivnxdD8Uy8Jh8Ie7Ci6G8U6S6JQWMOkhq8tLLb_8-zOokWcaAQ_UNQkC7m3zZI3_fIkvYBhtUEHde8LrJxnVGeMt6Ao7kl1TFhSkUOlGCBZNJ3E9k-7jTT9Cb7yE--USyeNUsovNWCbzO1xfArM043ujEVmQE5j7Fe26ZQMjSzCW5-dL_s-RK-IoVCMXC06RJY2R_2gfNkLF8dfFb55bmUKzOBfbcY5vMOpmCPW-GP_K8-ocMJYceSIrg8-Fu0Xf54CO4rEU20lb_Pr3Kx7FIAvD6pqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
 Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;m going to show how to create a custom picker view that can be used to pick height, weight, etc. using SwiftUI | SwiftUI Custom Picker | SwiftUI Wheel Picker | SwiftUI Horizontal Picker | SwiftUI iOS Scroll APIs | SwiftUI Size…&lt;/blockquote&gt;</content>
   </entry>

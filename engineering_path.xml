@@ -6,10 +6,25 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@engineering_path</id>
-  <updated>2025-12-24T17:20:03+00:00</updated>
+  <updated>2025-12-24T18:34:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">3 лучшие книги за 2025&#13;
+&#13;
+1. 48 Laws of Power — Robert Greene&#13;
+&#13;
+Одна из...</title>
+    <published>2025-12-24T18:15:16+00:00</published>
+    <updated>2025-12-24T18:15:16+00:00</updated>
+    <id>https://t.me/engineering_path/162</id>
+    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/162"/>
+    <author>
+      <name>engineering path</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;3 лучшие книги за 2025&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. 48 Laws of Power — Robert Greene&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Одна из лучших книг, которую я когда-либо читал. Некоторые из описываемых в книге законов на первый взгляд довольно неоднозначны. Например, седьмой закон формулируется довольно ценично:&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;Get others to do the work for you, but always take the credit&lt;/b&gt;&lt;i&gt;&lt;br/&gt;&lt;br/&gt;&lt;/i&gt;Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Если читать его поверхностно, может возникнуть отторжение, мол как это так, однако если посмотреть глубже, это буквально один из принципов корпоративной культуры. Наёмные «муравьи» трудятся, но признание общественности достаётся CEO, с именем которого связывают продуктивность, мышление и инновации, реальные же инноваторы часто остаются за кулисами.&lt;br/&gt;&lt;br/&gt;И таких «неоднозначных» законов в книге хватает. Необязательно применять каждый из них, но иметь о них представление и учиться на исторических примерах, описанных в книге, стоит.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. The Dark Forest&lt;/b&gt;&amp;nbsp;&lt;b&gt;— Cixin Liu&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Не буду долго тут останавливаться. Серьёзно, вся трилогия, начавшаяся с «Задачи трех тел» — это лучший sci-fi, который я когда-либо читал. Нереальный рекомендасьон&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;3. Refactoring — Martin Fowler&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;После прочтения этой книги, я задумался о том, что &lt;s&gt;я говнокодер&lt;/s&gt; за все годы работы, я по пальцам одной руки могу пересчитать людей, чей код мне стабильно было приятно читать в силу его чистоты и простоты, уж не знаю, читали ли все эти люди Фаулера.&lt;br/&gt;&lt;br/&gt;Вообще, основная идея, доносимая (на практических примерах) в книге заключается в том, что чистый код — это не вопрос вкуса, а вопрос системной дисциплины — умения читать свой собственный (ну, в смысле, LLM-ый) код, упрощать его, избавляться от всего, что «пахнет».&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;Code is read more often than it is written.&lt;/b&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">We wake up in the morning, look out the window, and judge the weather, letting it affect our mood...</title>
     <published>2025-10-26T10:43:03+00:00</published>
@@ -143,16 +158,5 @@ Scheduling time to do...</title>
       <name>engineering path</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Последнюю неделю рубль сильно штормило и, наблюдая за этим, мой мозг в фоне пересчитывал текущие доходы в долларах, а вместе с этим возникало внутреннее ощущение недовольства от происходящего.&lt;br/&gt;&lt;br/&gt;Вчера вечером я в очередной раз наткнулся на кадры войны в Газе, и это заставило меня задать себе вопрос — а действительно ли у меня вообще есть реальные причины для недовольства в жизни?&lt;br/&gt;&lt;br/&gt;Если так посмотреть, у абсолютного большинства из нас есть то, что для кого-то другого является пределом мечтаний, в том числе здоровье, семья, безопасность и крыша над головой, надо только начать &lt;b&gt;замечать и не обесценивать&lt;/b&gt; это.&lt;br/&gt;&lt;br/&gt;Это не значит, что не нужно всегда стремиться к большему, но я думаю, что чтобы быть счастливым, нужно быть благодарным. А чтобы быть благодарным, нужно не забывать хотя бы иногда смотреть на тех, кому в жизни повезло намного меньше.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">«Money is not the root of all evil; there&amp;#39;s nothing evil about it. But the lust for money is...</title>
-    <published>2024-10-11T06:56:29+00:00</published>
-    <updated>2024-10-11T06:56:29+00:00</updated>
-    <id>https://t.me/engineering_path/129</id>
-    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/129"/>
-    <author>
-      <name>engineering path</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;«Money is not the root of all evil; there&amp;#39;s nothing evil about it. But the lust for money is bad. The lust for money is not bad in a social sense. It&amp;#39;s not bad in the sense of &amp;quot;you&amp;#39;re a bad person for lusting for money.&amp;quot; It&amp;#39;s bad for you.&lt;br/&gt;&lt;br/&gt;Lusting for money is bad for us because it is a bottomless pit. It will always occupy your mind. If you love money, and you make it, there&amp;#39;s never enough. There is never enough because the desire is turned on and doesn&amp;#39;t turn off at some number. It&amp;#39;s a fallacy to think it turns off at some number.&lt;br/&gt;&lt;br/&gt;The punishment for the love of money is delivered at the same time as the money. As you make money, you just want even more, and you become paranoid and fearful of losing what you do have. There&amp;#39;s no free lunch.»&lt;br/&gt;&lt;br/&gt;— &lt;i&gt;The Almanack of Naval Ravikant&lt;/i&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
