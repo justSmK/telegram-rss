@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-24T19:18:47+00:00</updated>
+  <updated>2025-12-24T20:26:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 https://t.co/bgcRhHRfBa</title>
+    <published>2025-12-24T19:57:11+00:00</published>
+    <updated>2025-12-24T19:57:11+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25604</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25604"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/SPSosEXqoc5jv53yLCc3UEKWcazNbcFNwXct77o4Nn1amj1-LkvzCQCJxye07Rb9EYjUjWUQXmpNkO1w_NbR1LB89svs8qyu5JZeEyxw_TNH1M7r-dPZj0b5YwtRnbOCrEVJ3kDv3OHbo1LPhcAbFlMJeXO7F8ZlznvYivn1dq1CufT5EqY2V9GjuxTeijspe79c2FFY8xld4zeAwkuYySsygJILYCxOI5VnfD2IFLgBDSsS4NziO7FYChYyoSDiaVh1CYiBiCNKan0n9Vpn4pJu8_USPVepYRX6iFr8SX7EgfHCUThnig8sVpapowrsjh0EGb6dppJsBl-EijNN3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
+SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I&amp;#39;m going to show how to create a custom carousel with page curl metal shader effect using SwiftUI.&#13;
+SwiftUI Page Curl | SwiftUI Page Curl Carousel | SwiftUI Custom Carousel | SwiftUI Metal Shaders | SwiftUI Layer Effect | SwiftUI…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : apple/swift-configuration https://t.co/LHsMsGNbLl</title>
     <published>2025-12-24T02:07:38+00:00</published>
@@ -237,18 +251,5 @@ GitHub - AFNetworking/AFNetworking: A delightful networking framework for iOS, m
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming Conference Talk &lt;a href="https://t.co/xlx7taqk0l" target="_blank" rel="noopener"&gt;https://t.co/xlx7taqk0l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fa80fAw4olV7T5agMuhLgTFlVMxifhXymlDJzV_0rop4BZO9vEdYYov1CAKOm2t4E15x2rCssTbZDnyqnDYYEwOSYgy5bjbrSbeCdwR05nVgXNw6XIp0HNTq54tZihavtR-C02CAowx1qCTH-0N9Pi4OtWx8mE1ovEZ6GnkoHDc84aye0niQLoxbtnha71ixEnU0dOBoFHn8tnhJzi7SbuAtcXKaxrY4ftRGrs-jCsfTxr9KqlAxjC40I4UcW0PVbC2b9J1J4xTjnnziSrtMyIofsVEqyzXLgy-qInQ_Ae6VcT26Py7rSO7BYXn7NUjm2Sa9J7FGBwVOp4GNbpOMtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;
 Upcoming Conference Talk - Ash Furrow&lt;/a&gt;&lt;br&gt;I’m very excited to announce that I’ll be speaking at the Swift Rockies conference for iOS developers next July in Calgary. This will be my first conference presentation in over five years&amp;#33;&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 https://t.co/RYSkrp0xBl</title>
-    <published>2025-12-21T18:42:41+00:00</published>
-    <updated>2025-12-21T18:42:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25584</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25584"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 &lt;a href="https://t.co/RYSkrp0xBl" target="_blank" rel="noopener"&gt;https://t.co/RYSkrp0xBl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;&lt;img src="https://cdn4.telesco.pe/file/sEg9_5QDVfMYLdPj7oiRV94zM9MtgeFH9osK9uqp1UyxI6C_iv-ZkoYgHeivnxdD8Uy8Jh8Ie7Ci6G8U6S6JQWMOkhq8tLLb_8-zOokWcaAQ_UNQkC7m3zZI3_fIkvYBhtUEHde8LrJxnVGeMt6Ao7kl1TFhSkUOlGCBZNJ3E9k-7jTT9Cb7yE--USyeNUsovNWCbzO1xfArM043ujEVmQE5j7Fe26ZQMjSzCW5-dL_s-RK-IoVCMXC06RJY2R_2gfNkLF8dfFb55bmUKzOBfbcY5vMOpmCPW-GP_K8-ocMJYceSIrg8-Fu0Xf54CO4rEU20lb_Pr3Kx7FIAvD6pqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RYSkrp0xBl"&gt;
-Apple Style Horizontal Wheel Picker - Custom Picker - iOS 18+ - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I&amp;#39;m going to show how to create a custom picker view that can be used to pick height, weight, etc. using SwiftUI | SwiftUI Custom Picker | SwiftUI Wheel Picker | SwiftUI Horizontal Picker | SwiftUI iOS Scroll APIs | SwiftUI Size…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
