@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2025-12-24T15:24:53+00:00</updated>
+  <updated>2025-12-24T16:29:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Почему у них есть, а у нас...</title>
+    <published>2025-12-24T16:15:53+00:00</published>
+    <updated>2025-12-24T16:15:53+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3621</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3621"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Почему у них есть, а у нас нет?????&lt;br/&gt;&lt;br/&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii" target="_blank" rel="noopener"&gt;https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii"&gt;&lt;img src="https://cdn4.telesco.pe/file/Jx_89j58Q7tyfOWcWBgMGL6yZ6tg5L2-XXWJ7Eo_SQCIjBvqLlTwQa1JroB4XpLXRE1Q-3FGY9uj3xDZYAjFUmz5qB0hxoq0mSr8pV8TVQLLIGV0FqulxLgmMP1V6n8VishfmsN2k7352a3AvVam3dysef9aWFhGnkh3XseuOhNRbDM9LDi92W-NkklmIFUymWlidywPuQ9OxsVV8xDByRuvOf1Hzv9_DJmOJyBOn6jla_d18aMAy1wAV5Rcixjib6QwlLdHz3UyFsnks28ipP3dpeTKEu3dYBnYoO-aGZXTnZEJunTo_57xb0W5IOJ4ms152rNalVFfGG_sHBIZng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii"&gt;
+Apple разрешит пользователям в Бразилии устанавливать приложения из сторонних магазинов и совершать платежи в обход App Store - vc.ru&lt;/a&gt;&lt;br&gt;Изменения вступят в силу в 2026 году.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Итоги 2025 года часть 1&#13;
 &#13;
@@ -84,7 +96,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Зачем ходишь на конференции и согласен ли, что они умирают?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - Хожу за докладами. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;12% - Хожу за нетворком. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;11% - Хожу за докладами. согласен, что вымирают &lt;/li&gt;&lt;li&gt;13% - Хожу за нетворком. согласен, что вымирают &lt;/li&gt;&lt;li&gt;27% - Ходил, перестал ходить.&lt;/li&gt;&lt;li&gt;17% - Никогда не был на конференциях и не хочу&lt;/li&gt;&lt;li&gt;20% - Никогда не был на конференциях, но хочу побывать&lt;/li&gt;&lt;li&gt;7% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Зачем ходишь на конференции и согласен ли, что они умирают?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - Хожу за докладами. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;12% - Хожу за нетворком. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;10% - Хожу за докладами. согласен, что вымирают &lt;/li&gt;&lt;li&gt;13% - Хожу за нетворком. согласен, что вымирают &lt;/li&gt;&lt;li&gt;27% - Ходил, перестал ходить.&lt;/li&gt;&lt;li&gt;17% - Никогда не был на конференциях и не хочу&lt;/li&gt;&lt;li&gt;20% - Никогда не был на конференциях, но хочу побывать&lt;/li&gt;&lt;li&gt;7% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Подборка статей про BDUI&#13;
@@ -254,16 +266,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.reddit.com/r/iOSProgramming/s/8X0fnimEG7" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Почему не надо идти в iOS сейчас&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Очередное обсуждение что лучше iOS vs Backend для начала карьеры.&lt;br/&gt;&lt;br/&gt;Я, как и многие у нас в чате, уже давно советуют идти в иос не ради денег, а по любви.&lt;br/&gt;&lt;br/&gt;Тот же бэкенд уже давно обогнал по вилкам мобилки. А ML улетели в космос.&lt;br/&gt;&lt;br/&gt;Комментаторы подсвечивают, что эпоха, когда всем нужны были приложения - уже закончилась. Сейчас безопасная зона только в бигтехах и фаангах. На долгосрочной поддержке.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.reddit.com/r/iOSProgramming/s/8X0fnimEG7"&gt;&lt;img src="https://cdn4.telesco.pe/file/p-NXuSUvIZek2_yMsrkCY8Z5P1LBL4S5fys-fuKxJmjfzekj11n2kjbSicOd4ELk2PFjJ81FUcr57cCCgidswqIEfYBdDy9GAfa0yfP9nmJWvjkUtLb8wsVya6Q0k6b0Ot0cdT16oOVGlz2P8ng3MmUyrFHcsZYYPM0PzP_CgKykLGYgUAG6GYaEAmZytmegszsgB3sksTZ23hpx9TD7ZFbpu4Pwx39EUwMvTwcI5AJ7N39ZB1EBbMz3IWYl8oMeCb891IdhhXGBalEMfOU17EdDwXzmxNm_gd1ZF3h30ezvDgjt8fFdsCi_39L405tcWV85PeQ25dSFX-7xnhiIWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.reddit.com/r/iOSProgramming/s/8X0fnimEG7"&gt;
 PatientIll4890&amp;#39;s comment on &amp;quot;iOS vs Backend Career&amp;quot; - Reddit&lt;/a&gt;&lt;br&gt;Explore this conversation and more from the iOSProgramming community&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">wtf? Ждем переезда в Max?</title>
-    <published>2025-12-12T16:30:45+00:00</published>
-    <updated>2025-12-12T16:30:45+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3599</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3599"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3599"&gt;&lt;img src="https://cdn4.telesco.pe/file/PWiBFkC1PltPF74IvFFwke8_SQZe0GVHFJYYoyPyk3w45DsaXpAXoivBHzpsSdP83co-TUVysMDn0ciNjuumlzToDO-B7CKYqsqVw2m81_ghP2O4Wy2QpHzKJhazynvWZv5Gf63uQR1xLoQUD2dSnRUDRlaYz7rEDizASpHUcoQQEgsgcLJlE7I5rIefNI2CfcRAaqp9Y6F2j-z8g2VvzOSyw1c5FwP4it5XqoHlIo12Ar-uE3NojXjGNyIgesagk2jrgdi-ZY68BZT8LVvVXsTxK2JtCPWYuMy4xSSwihfP7mOOAtFQYBTjnoNkybHa2QImnXI-PL7mY3Y2gSoNuw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;wtf? Ждем переезда в Max?&lt;/div&gt;</content>
   </entry>
 </feed>
