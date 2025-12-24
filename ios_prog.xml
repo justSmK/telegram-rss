@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-23T23:22:08+00:00</updated>
+  <updated>2025-12-24T01:52:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -197,7 +197,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/CxoT-x3uLxfEIhv3LdgKeuMFiSnFDYimLTZrANJ8ovfyYiIJv7HoEH3VVfDdFld1u89_kYLIDAMrqLQgSd6Bo6vRI8BUnqMfEBs_nrqBm4ldtgSMVyqByo1zK3K0J33K70Y43ecRJpnT3VdtUdqXuiyhuekyinczEDfvykTjlvVgyikUQokfcn6XUOpnVYM_l1Lxtw1OvTXFgSzTxdr74RdoxkSy6hrLGETHrRyg3zGUTgnH8WIAmTBDrdKNFLzw0dwd56ggGS-A4GiIDr39vm5KgYDUsNv99rI5QBkn21B4CGwO13gH29H8d1cq4QRi0ovZxM_rXeeJbtuieib-gg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/JtKIKJaOMnDaU_myvBK1TpA2VzTDHR0XH6CNszJqRzBbjEIzIutj9xw8Sah91cQ46dKHoGCq161QlbpHg8a95mPO0p7P6SzG8FtaFlacfkFQKgalYk_Svy-NYvho2b3wqGx8MPyoBh-nGqMCwSmHQf0St0iI3YBUITP-kyvXCcWAoWYPmF2DNVE90hTiRwWKeAPNhseaC8sE0idcdL3YoNb6zuKV4ihws7UiRcrvSsrnEm2rD8c7da25KqwQpb5fOOtyQsWAGcRx7nTwZZiFUELwkRjThLb34Wo614YX2OHfuFFzDH_mCtQrDLo7lJ9wz0oJ3KG4ZDysu7_Jy9WPPg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Совет по SwiftUI&#13;
@@ -258,6 +258,6 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/Oz37SYDXrfMjkvHMX0knD-Mwuh5TKODuPZDv9efPAWKvmBmXMAupolbdAIJI1xmeua8aA2gG1lCXPADaFwOGJhpfWZRBoCsnIfVGOoR3Vxd0-6rLpe23ixmh4SgfJBU3YUV183tAI47WLmQgIDSTT0Q1F08mUJ8VP7RGkDxadBDvEFt0eEBty9KXuyE_Lq6TV6xxU74lv_PzE9tLFSthxlegkcu3P6693K2Wt209rBmysXM3jAPJ-mQgUKBb8ds9wIUEjai7V-hSxmIeKTxKr2MdPCFIMQrjgpyRHViNBKXqpiDObRHydkVkZLt5PEMCvWumkNEPwarIG8mVgpjMOg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/WGoMgDLsdUojcQbuQublD4F9ZboZnID0sYMYwXm_8eRwKTKbfuBhhhUGpD-k_Nm0zH6I7Ll_Nq2DRAZe8BxMw5wV_gA5ME0FAOxtQOCHycqGEeAoocUAH1P5MbgcEPVEN7JlslQGCSNo_9AlFQ0MOrQJdydefS6yb3HN2oJ4_zsHlaJhELpw_K1Ys6bQPVKJ2RM4bqIOSyWu_sjOLb4lwK4OOXsGMEwpH9RWPKyDTfI_if9Pi71XvQxKf34IqO2Zc76uCO7jBeUS40c2p_aUhlfsZz0del4RGbuDIyoRZywQsxHvZ0MFM_oz2pHfx4BOkeJVgM_HsJvaLAMiHBV4Tw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

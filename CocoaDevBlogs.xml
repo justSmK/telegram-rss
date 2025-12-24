@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-23T23:22:02+00:00</updated>
+  <updated>2025-12-24T01:52:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Update on age requirements for apps distributed in Texas https://t.co/uWbgoyXkWa</title>
+    <published>2025-12-24T01:17:42+00:00</published>
+    <updated>2025-12-24T01:17:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25598</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25598"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Update on age requirements for apps distributed in Texas &lt;a href="https://t.co/uWbgoyXkWa" target="_blank" rel="noopener"&gt;https://t.co/uWbgoyXkWa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;&lt;img src="https://cdn4.telesco.pe/file/mxYVmwf2fGAbGEb56nFg3YadEZXbKl6qqOGtiXhfLtGbcy2DSg3HSwH24W9XmjJ0MAg5JZdLPVptQWMt1AeCtcJyKaZVi4h_5O7UREiRMz8NxdJ1nexkEHfUd56e53xS631plGU5JkUEpFtaDFcpG_YMi6g7yJpfppXz30VsMmt2DiNuZcUkhx6M8q9LQl0uSN8SixNI0o9TGOfoOxdxpSEtdJrPEY9J72k3Vg-Sv0JkmuBQhSMyK6IPcdBVCzcEpYare8NlriB2ivAfnr70N_EDQh6xi8Xf2Ym2TtJGPem3OyqYsfxeOKaL-qSvzGR0oZmCmskOVitdiyIZ12oLTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;
+Update on age requirements for apps distributed in Texas - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Cocoanetics : SwiftText https://t.co/VFISDPFCB8</title>
     <published>2025-12-23T14:32:29+00:00</published>
@@ -127,7 +139,7 @@ Issue #145 - Adrian Eves - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Whisky-App/Whisky &lt;a href="https://t.co/xz0MzlHXhu" target="_blank" rel="noopener"&gt;https://t.co/xz0MzlHXhu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;&lt;img src="https://cdn4.telesco.pe/file/pmFt9rPp1qCWBZ4pMmjrZcfYQn2wV3V34_ujBAEwbu8Dv_2noQPT7Imk6ENMesWGtTkofDl6tF8GxHAJe1oYB7BTDnVF3oEiSWPORUq-mgmpameA1sd4KBK4sh35FGDUCb0_atBi7ychfpph0yCXxFihSHGipHfaVWFp-qO2JlMfenxnSslqGmpGFuPdirDiEWlqq3-UM2qbOlqvfTCvrUQ6xmjaVr8MWZ7AjXCoYMU925VHUgxrdXAox4LWXqUmfT_frWODD8lBcIS6RZdv7_gZd6n8DI-9Wqma-KIVvJoRBPrlcK2fQGlEQMrPKw5kHgmS2DxEazx2PD_U3OyR0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Whisky-App/Whisky &lt;a href="https://t.co/xz0MzlHXhu" target="_blank" rel="noopener"&gt;https://t.co/xz0MzlHXhu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;&lt;img src="https://cdn4.telesco.pe/file/lSWJ1QfuMgeKK_NXX84d5Kg5Sw8rvlAuklpioBmf015Ko2kQCBZGMD7QixaE7firEP7ni7fNpU-bZl07PxjopMSr1Az9E_oFXFHgZ2FYs5HPyomwyrmTlq7CofTtStzoqTG_8pnsg5XqlK-ba68LWyJK5rKwodI6VHkQa6jdyilPG0uQ7KCEo9xto8C-cvc55uLpy0NFFWQCnhCiWckp0hIIfHd13knIeAD0Od2bs_V6J7Ss6ltTXfucuC5KUkCtmHVXydJXiUrtx2460rwy-W5rW9mjYTTlM6_ceknsSjFuWqeVwQqvS86P8IVbxI0B-dyLNM7tnowcvbcGfGbAtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;
 GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI - GitHub&lt;/a&gt;&lt;br&gt;A modern Wine wrapper for macOS built with SwiftUI - Whisky-App/Whisky&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -139,7 +151,7 @@ GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI -
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/giAKO0wmVryFQHnkwdBBrNv71KFCQQJ3CZNC6mYIyWKFZGF3sN7ZGCdqtDnwmraYNjVZh80zoPQri1Vw1VwjPdcgasEMWxE3Pji1znnmf8zHH0qJkKRAMuVIBuRPcAV25niz9iTQMlxfHr1Rt1xvE9yO0atTb1I2t8G6i6FgoWM79wX2dXhNPFucZu7lfKMFRqnY4fTzYHzayVPXRcEvA1ggQ2Ul_KgBKT-sB2nBSdI8F8lwvCLiIJ3bIAE55gloLLKfKP6_zzMXooZT0NLOHNXumwCzzR19SHhtZM0deLEq8i2aEuPpdq_r7m1SAr_Sp5B-D5FCI-G7KuMW7hLjew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/Bn-NeHuLX6rTAxlITwymLM2YhHywxzoEfboiz6AVwJlEqViTw6Tebyym29xJN376zM_Cpz7zS6xmP6w_oiyWiQcR3yeJ-fpyqJSUPthGQJKI7sMFVIRUvcEOKoRk2nQJvuIkWLY7dkY7pxyDrIGCNARFE4vDVGlwwdyQ5tFshqROUR-Pz6bVM9pIbI5vIHXQH693XXMFsls1GjfMmYi5L1fO60v_KXldtZp1nvZzf21kZHGQp0CN3Ae3rbzker3upznqUDOZWQXb3IP9_lusHTn-9T1axA8LRB-eH_Y2dTFMIU4dv9TvMseXXHU5BR7ChL5oeCxCfl6ay64weL3KJw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
 GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -151,7 +163,7 @@ GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : AFNetworking/AFNetworking &lt;a href="https://t.co/k7niRUN3l0" target="_blank" rel="noopener"&gt;https://t.co/k7niRUN3l0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;&lt;img src="https://cdn4.telesco.pe/file/BFLRXmcKD8dvLVDicdc3-orGi4KzdY1NlvzMYoEhu_JaBA6oHIH5mj59lZh_QI7r29U8sqYX_qGHZniXWcWW1F3R6Sexb3H6Y2z6dssYG5-xp_gR02KXQl9ZW3a3Rl5K4kYNx9AFsFmyKLZlVHxMk_ZZFKrOPRIbE3v11nK-nNmixPkrLtTGCNi0cEyECKBEe9M6d3ASBtl6MkvzMtBQb5JuuGrDjSiPHLi2XHsVcof-nYuSiTI_8gQ6Rs0bDA8gPqnnR9a9rzrBZg1gcTZBg-v5zkoCR6M-N1nP14JKtMLB6wyfNzWFFK2CaCypHivgjN_E55flm2lByypg0FhPfQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : AFNetworking/AFNetworking &lt;a href="https://t.co/k7niRUN3l0" target="_blank" rel="noopener"&gt;https://t.co/k7niRUN3l0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;&lt;img src="https://cdn4.telesco.pe/file/D4itaT7Qduqkr-ZyGGHnOWFnUXzrBuIjbrskLe19edj4GSLwFzY56eAF0rIEbLSCFsonc6Izd1xRTvxBY9DnFZ2IWY1Za7TZH3zIV4lqX_FXdMFgVHcJ2Y3JdRb_YxG2wWVvU8HZGhlUp4gwigwWbdWlm42wZ9D83t6OBEkxOhLRF32EnSTk3w14OLimVafDD697yzjGV5AdHLf2McbPbQTHS6gXicZ564uMfBk-jiep_oLfiVl83c3BzsvgGHgkdRdU1X34PSlnNQ8HXKp-tBYKNWg1UxzzKk8_iP-Py6S6ceQ5kPOYznHalMtmLLMCFNeNcMHvhV1pnj3jD5VlVw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;
 GitHub - AFNetworking/AFNetworking: A delightful networking framework for iOS, macOS, watchOS, and tvOS. - GitHub&lt;/a&gt;&lt;br&gt;A delightful networking framework for iOS, macOS, watchOS, and tvOS. - AFNetworking/AFNetworking&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -163,7 +175,7 @@ GitHub - AFNetworking/AFNetworking: A delightful networking framework for iOS, m
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming Conference Talk &lt;a href="https://t.co/xlx7taqk0l" target="_blank" rel="noopener"&gt;https://t.co/xlx7taqk0l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;&lt;img src="https://cdn4.telesco.pe/file/We7VVSo_rsoIRJwc2e5Sz3Rdw_1lIJeOD43mN2SR-dyf-21s6S3HB4b3KPRByiSUxOJr2MsfxZGTM4pVTIuQ0zNWKMoliVQ3xA3dwaOCVQoGRYujyqRrQl0zPZoBR4L1Sb9qaHagH7E6168k_tCKtpfLj233gr4Akaro3D0erJbHLfPi0vqFfzpLJd8U30qJxQXX_kVqog_opsSzMa5QAWFU6ykoGN-MhZaARq-BDwE50eZ0gn60KV1YOFcjeHNuupOGZJ0uXKAv2gqmLe2uPmss9XBrQfWowJnVb4etT8ieJyQH7MwKl16OOH1vuVy1Pa-YJCWV44Y4hBQMrugAww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming Conference Talk &lt;a href="https://t.co/xlx7taqk0l" target="_blank" rel="noopener"&gt;https://t.co/xlx7taqk0l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fa80fAw4olV7T5agMuhLgTFlVMxifhXymlDJzV_0rop4BZO9vEdYYov1CAKOm2t4E15x2rCssTbZDnyqnDYYEwOSYgy5bjbrSbeCdwR05nVgXNw6XIp0HNTq54tZihavtR-C02CAowx1qCTH-0N9Pi4OtWx8mE1ovEZ6GnkoHDc84aye0niQLoxbtnha71ixEnU0dOBoFHn8tnhJzi7SbuAtcXKaxrY4ftRGrs-jCsfTxr9KqlAxjC40I4UcW0PVbC2b9J1J4xTjnnziSrtMyIofsVEqyzXLgy-qInQ_Ae6VcT26Py7rSO7BYXn7NUjm2Sa9J7FGBwVOp4GNbpOMtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;
 Upcoming Conference Talk - Ash Furrow&lt;/a&gt;&lt;br&gt;I’m very excited to announce that I’ll be speaking at the Swift Rockies conference for iOS developers next July in Calgary. This will be my first conference presentation in over five years&amp;#33;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -200,7 +212,7 @@ App Store Style Toolbar Scroll Effect using SwiftUI | #apple #ios #animation - Y
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mixpanel/mixpanel-iphone &lt;a href="https://t.co/DBHyCgxojO" target="_blank" rel="noopener"&gt;https://t.co/DBHyCgxojO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DBHyCgxojO"&gt;&lt;img src="https://cdn4.telesco.pe/file/Yj_QH-JZS-Y711GNoG4zYflycPZZbLa7vVXbEXBIZNYfS1fR8JaschpNdYImRsBudlONUM4YM2Lb93fX_KA_aQYi1PU2YaDy6qedkj1Zz2z6DWVjIchnb6vL57ySByjQ5ET2xluulEh4btlQZF5R7l9NfR-LZw4DtPvLVPiRRXo7MO_XKOacaYeR6DjroWJGrUASWudy7MNZPIaX7uYzMlEL1VohEFqJ6Ezh6SQIY6ml38nkCqc1LA3eMh-cwVuCb_FyHpZeuEmR23zSx1dYnlTJ7qD9PLLBW-lgsEMGo97GfL25guIwuX2HVyOjzax4WaJgd73pUa0-36mFFil7xA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DBHyCgxojO"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mixpanel/mixpanel-iphone &lt;a href="https://t.co/DBHyCgxojO" target="_blank" rel="noopener"&gt;https://t.co/DBHyCgxojO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DBHyCgxojO"&gt;&lt;img src="https://cdn4.telesco.pe/file/hasmsF-Bb6-bzOUBpXy3uyFTq2iVmz9jqWuANiBkkn-1_AixS5iIGoGp431lSRcvTg-EdrOzgQAtq_Sq8-HX2av2Xq6bDGR_v6RO0sLdH7l8OJcquGBzQ_jCP0Xej6OFKEVvvh4ygFRrsswwe6V-XYkPX6orby7z0Y0BLFMuu5OhGxFgXa0Ou_SqmBgZ5A8ntasnyGOO-nTwbB-D_2r3jEXXoylQ-Fz7gE_uI383TtrH_DGWJySTTOMe1lvFTPYcbl8TcNmG66JuTahofnVThMTq7h0aWCjwKVmoukKZ1YC33a1HcDLLPQHBMu9nJ0qgqvDojxd5P53g9Eh1O1wlPA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DBHyCgxojO"&gt;
 GitHub - mixpanel/mixpanel-iphone: Official iOS (Objective-C) Tracking Library for Mixpanel Analytics - GitHub&lt;/a&gt;&lt;br&gt;Official iOS (Objective-C) Tracking Library for Mixpanel Analytics - mixpanel/mixpanel-iphone&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -212,7 +224,7 @@ GitHub - mixpanel/mixpanel-iphone: Official iOS (Objective-C) Tracking Library f
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : permissionlesstech/bitchat &lt;a href="https://t.co/JGD2sSGDJz" target="_blank" rel="noopener"&gt;https://t.co/JGD2sSGDJz&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JGD2sSGDJz"&gt;&lt;img src="https://cdn4.telesco.pe/file/iHT0BXTnSYeOxDUrVyOS1QrTs9cF5W0AFmQeDTFCTTGTgusmzpZ7c1DdDuJQg6r8Mb0UmRPvtM38wxqlY8upjEJw_oOv2c-zmDonohrtNfom_6edNP7hJATcqHPi5CYZqmpGGWV92YYUTOLyy-eJGDJY8a28xFsRV7hzySf439OoR1R-iAzt_n_cFGWKPPORBg-DLTOHYbPe8nrCAMnWsPXBqiYZUGdZsFM-Dx66ZaGjY-3R827kyfqAW5EaE6DVzevsZ6yliMHwdo0nCJu1fZLGILoTYpZp9pnecYI4oQkaQApizPqdzhGQFnXyBG38pm2DXMdqG9WGttDFOuCceQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JGD2sSGDJz"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : permissionlesstech/bitchat &lt;a href="https://t.co/JGD2sSGDJz" target="_blank" rel="noopener"&gt;https://t.co/JGD2sSGDJz&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JGD2sSGDJz"&gt;&lt;img src="https://cdn4.telesco.pe/file/h4LXncSfPFh_ooYvGhsHOZsJfhwyT8fb2p_FuY8jd6LyElNKGre9sOACbmKu17xDfSbQd7hcsFFKqk_xXWbcIPQG72t1iW-ZE16c9XeUuECmfPP2vzXcbK6tEsFHfiM45cKRPK_1MDFLlpEcIaneANnO54N-dnafC3snnn8C4UU2m6lRX6dVMJrW_XbiT1wUvW1OXPTAgGCKX-VbETcuBZbNb1rkrmEg-Mj49NZCiDhjrStJbrR9eK-HjA6fzQKFRrMtXKd9kRVQNMB4NC-OgJoA3y0aN5hTCNycaZFSElWVAA1Ve0nbe-RsL_Z5w6ynrj2qAk45GwdDiIp_LxtZbw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JGD2sSGDJz"&gt;
 GitHub - permissionlesstech/bitchat: bluetooth mesh chat, IRC vibes - GitHub&lt;/a&gt;&lt;br&gt;bluetooth mesh chat, IRC vibes. Contribute to permissionlesstech/bitchat development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -224,7 +236,7 @@ GitHub - permissionlesstech/bitchat: bluetooth mesh chat, IRC vibes - GitHub&lt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tuist/tuist &lt;a href="https://t.co/Uu2v4OW6w4" target="_blank" rel="noopener"&gt;https://t.co/Uu2v4OW6w4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;&lt;img src="https://cdn4.telesco.pe/file/u5RXNQei_whFilkR6DrgeEOLn8VNZjRNI52v8cLqzj-RYymTYVOqxzcq3GsJniVcfjQJTxg6xcktn8nBw8E0SLMhgYKeqodVRKliRl7YoAGqb14d9tm03HtyvEQ8uaOAdFy7S6FfRZ-bl-z5dfHF_RpcxdYdLDBwpSdWwA-zbipG_Ep7t146pytWj5mMnv5WLP7Pe7htslsCDZNVpXFn9lQ5hkCKoatJ-taPVO_hCWRhcdORSiqHFJnS8qLdCcw9Fh_7kT4LHyvrHEHAy4jH9uaIeSfOjOPwza3nBWNnpBM7F9hRSaSF8WCOec6wr7U_pNIBLj8x3JIYUV6q-dCQjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tuist/tuist &lt;a href="https://t.co/Uu2v4OW6w4" target="_blank" rel="noopener"&gt;https://t.co/Uu2v4OW6w4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;&lt;img src="https://cdn4.telesco.pe/file/mIJbG2BZQo-k8PKvIbidAGThg-anPcLQxFGDrFz9jPL9X84cQjpa_qBLJnrXRPeMMUbxrflH1MRc9imBv8G9Gy-KgfcqlDcFb508dWKQEkm3DXB8CyepJhnVIOBODDh4Az5SORX5_fEZKJ01wkv3qk6QlgQvRrJaadGBuyeCZprvX5Zup9I9g_kxaQgmdS6WHmq4XWF77QWX97eR9zDH_YbaW6Dxbp7oGmMcmaFvZVpagQBIN289LLEFpmgM3v6iMOreCIQeB7UgQeCkElmGYUBrL1hYGajUUzjS4FcXeTKvsx-oU_diK8RcowJCrJ50OgstsmTVb0Ol7AHrgsSKag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;
 GitHub - tuist/tuist: A virtual platform team for mobile devs who ship - GitHub&lt;/a&gt;&lt;br&gt;A virtual platform team for mobile devs who ship . Contribute to tuist/tuist development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -236,19 +248,7 @@ GitHub - tuist/tuist: A virtual platform team for mobile devs who ship - GitHub&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : groue/GRDB.swift &lt;a href="https://t.co/i54OeYV17h" target="_blank" rel="noopener"&gt;https://t.co/i54OeYV17h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;&lt;img src="https://cdn4.telesco.pe/file/FCqPre_ls5mWHHbxbK3wrQ77i48HZB92AfJJg78EPwbVBOMl6qctoEXRX7VC36AeChT6mqEKiAofVSStIR_xOi2Xh6D5swgl5iX4dwP5AT95GP6GDkmQY-jA98X4D4XLuynf4ry33iCMrc7vv1Hn7xMuJKC6Q94WrO8Glk5TkLsov7EnIi0E-060swTQToZTrxxVuNRRAj-pVRMdmGteifS5NZ8ZWZe_kzA261wLGjLW7XaRgbBi0Y3LnZOIcn10uiBuuOs6-LZACnaMATKWUw_KTEfD71AX5fhmYnTP9ycxpYoDpm14wCW23PoZ7z1N1HJfsfzMBXV02mHXfD5UXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : groue/GRDB.swift &lt;a href="https://t.co/i54OeYV17h" target="_blank" rel="noopener"&gt;https://t.co/i54OeYV17h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;&lt;img src="https://cdn4.telesco.pe/file/voQQgEQnEkzR-OW8PTwDc5JLYDoI1KRwQIOcdBADAB1c5imIucNq_92TPz1HRAtMF7g8GNM_HwBcjKdjXveVG1vUGtqUySAo3VjuV8nm-Z1DScTM_q9AMQZ1wioDHcMvk0XJYBz8PzHpQjuhiRBQxhyh1NEGfqgDxpWy7HES6mutrx9ZS9hr5xjaFjtYr1QBHGlLNzbkbzcuV8ZpiO8sSqSBIo3AkjAgHO-5go0jECs2r9OBFh-jk2YjAEey0T9jsxi2nj81DqX3JdcxeQdDRQX2W3UtGR7yW86IpxlC_QW_NJVBJFSsnHOz5wq_GBatSvxLDCEZOhR9WS8pwzk8Rw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;
 GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on application development - GitHub&lt;/a&gt;&lt;br&gt;A toolkit for SQLite databases, with a focus on application development - groue/GRDB.swift&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Beingpax/VoiceInk https://t.co/VWMPkfQfVe</title>
-    <published>2025-12-20T02:07:42+00:00</published>
-    <updated>2025-12-20T02:07:42+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25578</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25578"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/NHFIWjDKKXpbxXisZ0kFsugoG-ozoOdTWAax-j5PM4Jm_v07NOqEsKelPVWMgJreWT9yFi5Q5XH9uNGLVe_Jw2tpC2rU1Mpv2-yqIzUM1bshxjlZX7sCXWab01R_0gi-H5y8NOoLk6WAjwz9BY3vMOIbPFfAJYH6HTAq52uVwDYLhf0MO4kiEBMhEbIwZUbGEyF8eH4NZVej0VtGUFhLqE2VHTPMI6Z9echZ4NSYrUoDGhRUzQsJrJ4oL8xy6KVVwjKBT4BI7XZV_x6Qy2JHmb4yKXQtj4L_-iEIBSJM2aa9adJ4HFbDNUAVyAQUHTYE2CURRgcD8jqmNKbdQIeaOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
-GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
   </entry>
 </feed>
