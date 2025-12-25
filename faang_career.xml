@@ -1,278 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Карьера в FAANG (@faang_career) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/faang_career"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@faang_career"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@faang_career</id>
-  <updated>2025-12-25T01:55:15+00:00</updated>
+  <updated>2025-12-25T03:39:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Расскажите о своих сильных и слабых сторонах? Part II.&#13;
-&#13;
-В...</title>
-    <published>2025-12-11T13:19:21+00:00</published>
-    <updated>2025-12-11T13:19:21+00:00</updated>
-    <id>https://t.me/faang_career/86</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/86"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Расскажите о своих сильных и слабых сторонах? Part II.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://t.me/faang_career/85" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;предыдущем посте&lt;/a&gt; я рассказал, что нужно &lt;a href="https://t.me/faang_career/56" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;нанимающему менеджеру&lt;/a&gt; в ответ на этот вопрос. Кандидат, который предоставил нужную информацию, уже выглядит на голову выше тех, кто отвечает био-нейро-слопом и очевидными фэйками. Сегодня я расскажу, как выглядеть на две головы выше. Помимо собеседований, это осознание помогает и в непосредственной работе и развитии.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Каждая сильная сторона -- одновременно и слабая.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Что? Как это так, это же антонимы? А вот так. Вообще-то, нас всех этому учили еще с детского сада: быть камнем -- сильная сторона, когда перед тобой ножницы, но слабая, когда перед тобой бумага. Пример сильной стороны из прошлого поста -- “я хорош в работе, где непонятно что делать”, становится слабой стороной в другой ситуации -- “я теряю интерес, когда все понятно; большой объем понятной работы я сделаю медленно”. Альтернативно, может быть вы можете писать тысячи строк продакшен кода в неделю, чтобы быстро запускать новые продукты? Вероятно, это также значит, что вы не можете пол года смотреть на графики и медленно тюнить десять строк конфига формулы ранжирования. Что, можете? Тогда, скорее всего, вы не можете спокойно ждать, когда команда напишет этот код в три раза медленнее, что ее разовьет.&lt;br/&gt;&lt;br/&gt;Каждая сила -- это слабость в другой ситуации. Чтобы выглядеть как по-настоящему высокоранговый кандидат и мастер рефлексии, на вопрос о сильных и слабых сторонах отвечайте одной и той же способностью, но с разных углов.&lt;br/&gt;&lt;br/&gt;Не забывайте про это правило и после собеседования. При выборе работы, как для максимизации профита, так и для максимизации своего развития, всегда имейте ввиду свои стороны, и где они сильны, а где слабы. Осознанный выбор работы поможет вам расти быстрее.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Расскажите о своих сильных и слабых сторонах? Part...</title>
-    <published>2025-12-09T14:57:20+00:00</published>
-    <updated>2025-12-09T14:57:20+00:00</updated>
-    <id>https://t.me/faang_career/85</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/85"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Расскажите о своих сильных и слабых сторонах? Part I.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Это популярный вопрос на собеседовании в топовые компании. Естественный инстинкт в погоне за оффером -- попытаться предсказать, что хочется услышать собеседующему, и сконструировать ответ с целью максимизировать его позитивные ощущения. Например -- &lt;i&gt;я очень хорошо работаю, но из слабостей я трудоголик и не имею хобби&lt;/i&gt;.&lt;br/&gt;&lt;br/&gt;В целом, это правильная идея. Проблема в том, что кандидаты понятия не имеют, что же нужно нанимающим их компаниям, что приводит к совершенно дурацким ответам, в стиле примера выше, а следовательно и отказам.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Что же хотят услышать нанимающие?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Начну с того, что нанимающие хотят услышать вдумчивый ответ, а не био-нейро-слоп. Вообще непонятно, при чем тут ваши хобби, мы на собеседовании или где? Это не просто филлер, а конкретный вопрос, заданный с конкретными целями и ваш ответ важен.&lt;br/&gt;&lt;br/&gt;От вас ждут ответ с настоящей информацией. Задача &lt;a href="https://t.me/faang_career/56" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;нанимающего менеджера&lt;/a&gt; -- строить команду. Ваш ответ на этот вопрос поможет менеджеру понять, как вас правильно встроить в его команду. Вы не знаете, что у него за команда, чего в ней не хватает, а чего в достатке. Потому, не пытайтесь угадать, чего ему недостает. Говорить правду -- это равновесная стратегия. Ведь лучше, если вас наймут там, где вы нужны, чем вы угадаете нужду менеджера и будете ошибочно наняты и быстро уволены за несоответствие. Это же относится и к слабым сторонам. Не надо их прятать. Все равно на работе не спрячете.&lt;br/&gt;&lt;br/&gt;От вас ждут ответ про вас. Не нужно говорить общие фразы, которые может сказать любой кандидат. “Я хорошо работаю” добавляет ноль бит информации в ваш кейс и никак не помогает менеджеру понять, как вас встроить в команду. Ответ должен быть специфичен лично для вас. Например, “я хорош в работе, где непонятно что делать”. Если у менеджера как раз есть проблема, где никто ничего не понимает, он будет рад вас видеть в команде и похлопочет за вас о хорошем оффере.&lt;br/&gt;&lt;br/&gt;От вас ждут разнообразия. Не бывает, чтобы у человека была одна сильная сторона, или не было слабых. Они всегда есть. Демонстрация себя с разных сторон не только дает больше информации менеджеру, но и показывает, что кандидат self aware, что ценно само по себе.&lt;br/&gt;&lt;br/&gt;Ответ, удовлетворяющий этим критериям, будет уже хорош. В следующем посте я поделюсь лайвхаком, как сделать из хорошего ответа по-настоящему высокоранговый.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Вышло видео с Димой Senior Software Vlogger по моей серии performance...</title>
-    <published>2025-07-07T17:54:44+00:00</published>
-    <updated>2025-07-07T17:54:44+00:00</updated>
-    <id>https://t.me/faang_career/84</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/84"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вышло видео с Димой Senior Software Vlogger по моей серии performance review. Немного пересказываю серию постов, но дополнительно мы отлично обсудили множество связанных вопросов. Получилось хорошо&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=POmPyB11LiQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=POmPyB11LiQ&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23perf"&gt;#perf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=POmPyB11LiQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/NwG393niieDjr2ExFECs-jxlgewLtmxt3OwZLuKzW-57bzuPPp25HU5Uaiop6QrX6TfdQl8IYaEAJ933ztTnCK7sbpUJEPXmiWWZJs4PkkCX248eH6RSyYVPW03vjJAQuYuN72pdmA7CyGp1Qq1xZJnH4KR8vafRZuC13xMDTaYJur4PUrhhSR_aXGcNYuSdlIoLFuut8lFWiyX9LLdTwFgBBzRa3_ByP9yc23hKUz6iVinkg67J4Q0xJUtmXZ3H2e5JvAHt265N30V_4J9sWsdLVews9IWbw9n6yU5dD6ncUwo7ND92NNfQBg2jOnhQW-GBvlyMMl6NW-8DENoaLg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=POmPyB11LiQ"&gt;
-Хакнуть БИГТЕХ performance review и promo с Максимом Страховым - YouTube&lt;/a&gt;&lt;br&gt;С Максимом Страховым разбираем как хакнуть performance review / promo в Бигтехе. Практические советы и масса годноты. &#13;
-&#13;
-Видео про лидерство в Бигтехе: https://youtu.be/7XPyBonXG9s&#13;
-Канал Максима про FAANG https://t.me/faang_career&#13;
-Линкедин https://www.lin…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Завтра стрим в 21:00 мск&amp;#33;&#13;
-&#13;
-Разберемся как стать из...</title>
-    <published>2025-06-03T21:33:11+00:00</published>
-    <updated>2025-06-03T21:33:11+00:00</updated>
-    <id>https://t.me/faang_career/83</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/83"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/faangtalk_news/278"&gt;&lt;span dir="auto"&gt;FaangTalk Channel&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Dima V&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Завтра стрим в 21:00 мск&amp;#33;&lt;br/&gt;&lt;br/&gt;Разберемся как стать из простого инженера ЭЙ-АЙ инженером&lt;br/&gt;&lt;br/&gt;Жмите Notify чтобы не пропустить&lt;br/&gt;&lt;br/&gt;В гостях &lt;br/&gt;Макс &lt;a href="https://t.me/faang_career" target="_blank"&gt;@faang_career&lt;/a&gt; &lt;br/&gt;Майк &lt;a href="https://t.me/pixels_science" target="_blank"&gt;@pixels_science&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtube.com/live/pLg89I1jabY?feature=share" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;u&gt;https://youtube.com/live/pLg89I1jabY?feature=share&lt;/u&gt;&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtube.com/live/pLg89I1jabY?feature=share"&gt;&lt;img src="https://cdn4.telesco.pe/file/l39I9BG0n1Rasr2xWYv1YK8p7UUfEdSL0r5mBBoIFrcGY7JzWRonoxcAH0uKBOsVjl2ITZZnhq-aGwklE9lUXEvSl4D0WSCsHe34djP0Tk1vYaSrI0vdg374HOCOMbSgdNMv-wyIEup9lhzb2bXs4kfRc2zVDzGNcY8Db6KxdjzLZA1b_qOxCGsHTD_n86cyeOXBQJOXWxlpvTCphvSaRITxGB78EMfQV5BhxrmIolv_6RQijDiIWXpkLM_xcuMw8iom4-EuhXG2pFJXKS4-dTygivfqrqnyX_37cFt2_aDAEC3V6Ilq87Pv5mMitVcvD83f18xubR3vrucOSB3rnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtube.com/live/pLg89I1jabY?feature=share"&gt;
-#FaangTalk 83 - &amp;nbsp;AI Инженер: войти через индустрию или академию - YouTube&lt;/a&gt;&lt;br&gt;Канал с анонсами https://t.me/faangtalk_news&#13;
-Чат по подготовке к интервью: https://t.me/faangtalk&#13;
-&#13;
-В гостях &#13;
-Макс https://t.me/faang_career&#13;
-Миша https://t.me/pixels_science&#13;
-&#13;
-Хост&#13;
-Дима https://t.me/javaswag&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Я рассказал, как писать половину performance review -- self assessment...</title>
-    <published>2025-05-31T15:43:40+00:00</published>
-    <updated>2025-05-31T15:43:40+00:00</updated>
-    <id>https://t.me/faang_career/82</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/82"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Я рассказал, как писать половину performance review -- &lt;a href="https://t.me/faang_career/79" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;self assessment документ&lt;/a&gt;. В этом, завершающем цикл, посте поговорим о том, как писать вторую половину -- &lt;b&gt;peer feedback&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Ваши коллеги тоже пишут свой performance review, после чего просят вас написать им фидбэк. Вам нужно будет прокомментировать их работу. Но не просто прокомментировать, а так, чтобы ваши комментарии были полезны оценивающему людей комитету. Эту часть нельзя забывать. Так же, как и в вашем собственном документе, в фидбеке неуместны произвольные возгласы похвалы или критики.&lt;br/&gt;&lt;br/&gt;Прежде, чем советовать, что делать, посоветую, чего не делать: не нужно помогать коллеге дописать его self assessment своим фидбэком. Не нужно писать -- ах вот тут еще забыл такую-то деталь&amp;#33; Если приходят такие мысли, передайте их автору приватно. Во-вторых, не стоит комментировать человека. Вы даете фидбэк не человеку, а документу. Человеку можно дать фидбэк лично, или его менеджеру, если есть желание. Ваша работа -- строго прокомментировать существующий контент документа.&lt;br/&gt;&lt;br/&gt;В недавнем посте я писал про &lt;a href="https://t.me/faang_career/77" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;артефакты&lt;/a&gt;, как один из важнейших инструментов написания качественного perf документа. Так вот, вы, автор фидбэка, и есть источник самого главного артефакта. От вас требуется подтвердить заявления автора, которые он не смог подтвердить сам. Допустим, автор снизил p50 latency на 30%. Он может это доказать, приложив ссылку на мониторинг. Но он не может доказать, что это вообще было нужно делать. Поэтому, он просто заявляет, что это улучшило UX. А вы, старший UX дизайнер, подтверждаете это заявление. Если подтверждений нет совсем, надо их подтвердить. Если уже есть артефакты (например, снижение time to first byte), надо их контекстуализировать своим экспертным мнением: я, UX дизайнер шестого уровня, подтверждаю своим авторитетом, что снижение time to first byte доказано положительно влияет на долгосрочные бизнес метрики.&lt;br/&gt;&lt;br/&gt;Отсюда следует, что не стоит соглашаться писать фидбэк всем подряд, а кому соглашаетесь, не комментируйте весь документ, а только конкретные места. Спросите себя -- можете ли вы быть артефактом для этого заявления? Есть ли у вас признание вашей экспертности в необходимом автору домене, или будет ли ваш комментарий проигнорирован? Пишите фидбэк только о том, где у вас есть признанный организацией авторитет.&lt;br/&gt;&lt;br/&gt;Автор фидбэка, запомни: ты -- &lt;a href="https://t.me/faang_career/77" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;артефакт&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Разумеется, к фидбэку так же применимы и правила написания самого документа -- &lt;a href="https://t.me/faang_career/79" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;максимально цитировать ладдер&lt;/a&gt; и &lt;a href="https://t.me/faang_career/76" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;быть структурным&lt;/a&gt;.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Стрим завтра, 8 мая 20:00 мск&#13;
-&#13;
-Разбираемся в разнице...</title>
-    <published>2025-05-07T21:33:25+00:00</published>
-    <updated>2025-05-07T21:33:25+00:00</updated>
-    <id>https://t.me/faang_career/81</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/81"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/faangtalk_news/268"&gt;&lt;span dir="auto"&gt;FaangTalk Channel&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Dima V&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Стрим завтра, 8 мая 20:00 мск&lt;br/&gt;&lt;br/&gt;Разбираемся в разнице систем дизайн интервью в корпорации и стартапе&lt;br/&gt;&lt;br/&gt;В гостях Макс C и Дима К &lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtube.com/live/pZBve6IJ3WI?feature=share" target="_blank" rel="noopener"&gt;https://youtube.com/live/pZBve6IJ3WI?feature=share&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtube.com/live/pZBve6IJ3WI?feature=share"&gt;&lt;img src="https://cdn4.telesco.pe/file/XoHT8URkBMMtOSqirvjN6mL0UV4xU3L05bg8kRiLqXKFuI9aLqk28qDHBVm7FztcBzg2hMkxU_UpUgCiPgCeMhOhi8jip4hGCczNBf7BUzcL2QYd3wwSppuMifWbi0iBu5w4fuv93tn9mpXETNFS63R2i0X116KG1Me77ZbXCWUCN9Agdruu1rFGig32zY39j6VYLejeF9T28N_30IqNvbG7fTsJRy8ly4RhvzhQgedQax5C8hsiWRQdR8RUf0q0mIhZrOFwkS1WJLNwSl6p0ukFWBpesLa79-JNWQ7bdITNzchdc7ZZsxLdXIt1qMd1HMXK1wobqbf8_lje0758lQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtube.com/live/pZBve6IJ3WI?feature=share"&gt;
-#FaangTalk 81 - Систем Дизайн в БигТехе vs в Стартапе - YouTube&lt;/a&gt;&lt;br&gt;Канал с анонсами https://t.me/faangtalk_news&#13;
-&#13;
-Чат по подготовке к интервью: https://t.me/faangtalk&#13;
-&#13;
-В выпуске разбираем Систем Дизайн Интервью в FAANG и в Стартапе&#13;
-&#13;
-В гостях &#13;
-Max Strakhov https://t.me/faang_career&#13;
-Dima Korolev https://www.youtube.com/@UC…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Привет&amp;#33; Сегодня стрим в 21:15 мск&#13;
-&#13;
-Разбираем мок...</title>
-    <published>2025-04-02T11:28:00+00:00</published>
-    <updated>2025-04-02T11:28:00+00:00</updated>
-    <id>https://t.me/faang_career/80</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/80"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/faangtalk_news/259"&gt;&lt;span dir="auto"&gt;FaangTalk Channel&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Dima V&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Привет&amp;#33; Сегодня стрим в 21:15 мск&lt;br/&gt;&lt;br/&gt;Разбираем мок систем дизайн интервью&lt;br/&gt;&lt;br/&gt;В гостях &lt;br/&gt;Max Strakhov &lt;a href="https://t.me/faang_career" target="_blank"&gt;@faang_career&lt;/a&gt;&lt;br/&gt;Dima Korolev &lt;a href="https://t.me/SysDesignMeetup" target="_blank"&gt;@SysDesignMeetup&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;Кликайте Notify Me чтобы не пропустить&lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtube.com/live/OLksql9yEG0?feature=share" target="_blank" rel="noopener"&gt;https://youtube.com/live/OLksql9yEG0?feature=share&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtube.com/live/OLksql9yEG0?feature=share"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtube.com/live/OLksql9yEG0?feature=share"&gt;
-- YouTube - Youtube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В прошлом посте я начал говорить об ожидаемом...</title>
-    <published>2025-01-08T13:12:05+00:00</published>
-    <updated>2025-01-08T13:12:05+00:00</updated>
-    <id>https://t.me/faang_career/79</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/79"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В &lt;a href="https://t.me/faang_career/77" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;прошлом посте&lt;/a&gt; я начал говорить об ожидаемом содержании performance review документа и поговорил о необходимости подтверждающих заявления артефактов. Сегодня же я хочу поговорить о том, как правильно делать эти заявления.&lt;br/&gt;&lt;br/&gt;Инструмент 4: ladder description&lt;br/&gt;&lt;br/&gt;В бигтех компаниях уровни (&lt;a href="?q=%23level"&gt;#level&lt;/a&gt;) более или менее точно описаны. Где-то есть официальный ladder документ на всю компанию, где-то с локальной спецификой организации, где-то он вообще может передаваться устно. Но независимо от формы, содержание описания уровней существует и понятно старожилам. Такие документы &lt;a href="https://t.me/faang_career/36" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;могут быть написаны непонятным корпоративным языком&lt;/a&gt;, но это не значит, что они бесполезны. Просто их нужно уметь читать, с чем я помогаю в этом канале. Понимание этого документа -- самый главный ассет сотрудника, желающего расти в бигтехе.&lt;br/&gt;&lt;br/&gt;К каждому заявлению в perf документе возникает вопрос: &amp;quot;чем докажешь?&amp;quot;, на который отвечают ссылки на артефакты. После него возникает второй вопрос: &amp;quot;и что?&amp;quot;. Кандидат снизил latency сервиса вчетверо? И что? Увеличил прибыль на &amp;#036;XXX/год? И что? Запустил сложное изменение? И что? Каждому сотруднику за его работу платят зарплату. Почему вся вышеперечисленная работа должна быть вознаграждена дополнительно? На этот вопрос отвечают ссылки на ladder документ. Сложное изменение требовало leadership, чтобы организовать и синхронизировать работу нескольких команд? В ladder документе написано, что такой организацией занимается &lt;a href="https://t.me/faang_career/35" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Senior&lt;/a&gt;. Значительно снизить latency безуспешно пыталось много квалифицированных людей в течении долгого времени? В ladder написано, что &lt;a href="https://t.me/faang_career/49" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Staff&lt;/a&gt; решает проблемы, которые не может решить большинство коллег. &amp;#036;XXX -- число, заметное на уровне VP? В ладдере написано, что &lt;a href="https://t.me/faang_career/57" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Senior Staff&lt;/a&gt; приносит масштабный импакт.&lt;br/&gt;&lt;br/&gt;Отсюда вытекает самое важное правило при написании perf пакета: &lt;b&gt;пишите perf цитатами из ladder документа&lt;/b&gt; (или цитатами руководителей об уровнях, если документ отсутствует).&lt;br/&gt;&lt;br/&gt;При чтении этих цитат, ни мнение кандидата о работе, ни его же мнение об его уровне / оценке, не оставляют сомнений. Если вы пишите о себе цитатами из Senior уровня, очевидно, вы намекаете на повышение до Senior. Ревьюеры могут не соглашаться с вашей оценкой работы, но по крайней мере они совершенно точно поймут эту вашу оценку и не запутаются в том, что происходит в вашем пакете. Было бы обидно описать крутой проект, только чтобы ревьюеры прочитали ваше описание, похлопали вам, и сказали, какой же классный вы инженер на вашем уровне, вместо того, чтобы увидеть сигналы на следующий уровень, не правда ли? Помимо всего прочего, старшие коллеги, которые занимаются ревью perf пакетов, затерли ladder документ до дыр, и вы сделаете оценку вашего пакета на порядок проще и быстрее, если не будете придумывать свои формулировки, а вставите стандартные и уже знакомые ревьюерам.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23perf"&gt;#perf&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Зачем топовые инженеры работают в корпорациях?&#13;
-&#13;
-Я...</title>
-    <published>2024-11-13T15:38:59+00:00</published>
-    <updated>2024-11-13T15:38:59+00:00</updated>
-    <id>https://t.me/faang_career/78</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/78"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Зачем топовые инженеры работают в корпорациях?&lt;br/&gt;&lt;br/&gt;Я много писал про уровни в бигтех компаниях (&lt;a href="?q=%23level"&gt;#level&lt;/a&gt;). Список навыков, требуемых от этих уровней варьируется от &amp;quot;&lt;a href="https://t.me/faang_career/27" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;быстро учиться сложным вещам&lt;/a&gt;&amp;quot; до &amp;quot;&lt;a href="https://t.me/faang_career/64" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;трансформировать индустрию&lt;/a&gt;&amp;quot;. Меня часто спрашивают, а почему же такие крутые люди работают на корпорации, когда уже &lt;a href="https://t.me/faang_career/35" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Senior инженер&lt;/a&gt; умеет самостоятельно достигать бизнес-целей. Чего же все эти люди не основывают свои компании и сказочно богатеют? Поговорим, почему так происходит.&lt;br/&gt;&lt;br/&gt;Причина номер один: дай мне достаточно большой рычаг и я переверну мир.&lt;br/&gt;&lt;br/&gt;Топовые инженеры работают на корпорацию. Но и корпорация работает на них&amp;#33; Присоединиться к бигтех компании означает получить доступ к гигантскому масштабу. Да, работать сложнее, но зато, когда вы разработали продукт, то им пользуется несколько миллиардов человек еженедельно. Получив такой большой рычаг, топовый инженер может менять мир гораздо быстрее и сильнее, чем в 99.9% случаев основания своей компании. Знать, что результатом твоих трудов пользуются миллиарды людей, сильно повышает мотивацию и качество жизни.&lt;br/&gt;&lt;br/&gt;Причина номер два: фокус.&lt;br/&gt;&lt;br/&gt;Основать свою компанию -- это непрерывные раунды финансирования, найм, бухгалтерия, бюрократия, юридические вопросы, организация и перманентный аврал. В такой среде остается очень мало времени, чтобы сесть и заняться непосредственно изменением мира к лучшему. Вместо этого, фаундер все время занят наладкой машины компании, чтобы уже его сотрудники могли менять мир. Когда хочется сделать что-то конкретное, нет ничего лучше корпорации, которая уже работает вокруг вас, как отлаженная машина. Когда все уже работает, можно спокойно сфокусироваться на своих идеях.&lt;br/&gt;&lt;br/&gt;Причина номер три: люди.&lt;br/&gt;&lt;br/&gt;Бигтех славится тем, что собирает большое количество классных людей. Работать в такой среде -- большое удовольствие, которое еще и позволяет учиться у лучших и быстрее расти над собой. В небольшой компании тоже могут быть крутые люди, но так как компания небольшая, их и будет немного, что снижает вероятность найти менторов и коллег, с которыми сложится эффективная работа. В бигтех корпорации найти классных людей и поработать с ними гораздо проще.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В прошлом посте я показал несколько простых...</title>
-    <published>2024-10-21T12:46:18+00:00</published>
-    <updated>2024-10-21T12:46:18+00:00</updated>
-    <id>https://t.me/faang_career/77</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/77"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В &lt;a href="https://t.me/faang_career/76" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;прошлом посте&lt;/a&gt; я показал несколько простых инструментов для написания performance review документа, который будет читаем и понятен оценивающим его людям. Закончив с формой, пора поговорить о содержании.&lt;br/&gt;&lt;br/&gt;Инструмент 3: артефакты&lt;br/&gt;&lt;br/&gt;Большинство пакетов при чтении вызывает мысль: ууух, понаписал-то&amp;#33; Каждый норовит описать себя супергероем. Настоящего супергероя же отличает одна критически важная деталь -- пруфы. Каждый факт нужно подтверждать таким пруфом, которые еще называют артефактами. Имплементировал фичу? Прикрепи PR. Придумал дизайн? Прикрепи дизайн документ. Пишешь, что фича была важна? Прикрепи оживленные дискуссии. Пишешь, что поднял метрики? Прикрепи графики (а еще лучше ссылки на систему мониторинга). Пишешь, что починил критический баг? Прикрепи пользовательские жалобы. Вся информация, которая не подкреплена артефактами, считается hearsay, и, в теории, не учитывается при принятии решения. На практике же, сбор пруфов ляжет на плечи вашего менеджера, причем в кратчайшие сроки, пока заседают комитеты. Стоит ли удивляться, что он плохо справится с этой задачей.&lt;br/&gt;&lt;br/&gt;Разумеется, чтобы прикреплять артефакты, нужно собирать артефакты. Это очень удобно делать в баг-трекере: создаешь себе задачу и дампишь в нее все ссылки и важную информацию по мере работы над проектом. А уж список проектов за полгода-год запомнить обычно не составляет труда, хотя можно и создать задачу с задачами.&lt;br/&gt;&lt;br/&gt;Собрать артефакты -- простая часть. Вот вы своим улучшением серверного фреймворка уменьшили p90 latency на 10% на всех серверных приложениях вашей команды. Сделали скриншоты метрик latency &amp;quot;до&amp;quot; и &amp;quot;после&amp;quot;, красиво показав снижение в момент деплоя вашего изменения. Сделали еще скриншот долгосрочной стабильности новых значений в течении недели. И уже потираете руки, как вас отблагодарят за это бонусом&amp;#33; Однако, рано радоваться. Да, вы собрали артефакты, подтверждающие ваше заявление об улучшении. Но вы не собрали самого главного артефакта, который дает ответ на вопрос: и чо?&lt;br/&gt;&lt;br/&gt;Невозможно отрицать, что снижение p90 latency на 10% -- это улучшение. Но есть не менее важный второй вопрос: а насколько это лучше? Если вы разрабатываете рекламную платформу с 1M QPS, то это революционная технология. А если batch сервис, который вызывается раз в неделю, то это эквивалент сэкономленных пяти центов в год. Вторая половина артефактов должна подтвердить, что ваши улучшения действительно полезны, и насколько. Как это сделать? Пока не изобретен объективный прибор, измеряющий пользу, для этого мы пользуемся коллективным мнением более опытных коллег. Иначе говоря, пользу подтверждает артефакт под названием peer feedback. Вы просите коллег, которые считаются экспертами в том деле, в котором вы считаете, что принесли пользу, подтвердить и квантифицировать эту пользу. Да-да, комментарии от коллег собираются исключительно для решения этой задачи. Написание коллегами хвалебных поэм кандидату совершенно бесполезно, и игнорируется при принятии решений. В фидбэке должно быть написано: &amp;quot;признанный эксперт X в домене Y подтвердил, что достигнутый кандидатом результат Z в домене Y действительно важен и сложен на уровень L&amp;quot;.&lt;br/&gt;&lt;br/&gt;Итого, кандидат должен предоставить артефакты, подтверждающие достижение результата; коллега-эксперт должен предоставить артефакт (peer feedback), подтверждающий ценность и сложность этого результата, а также вклад кандидата в этот результат. Менеджер кандидата же должен всех напрячь, и убедиться, что на все эти вопросы есть нужные ответы.&lt;br/&gt;&lt;br/&gt;Меня часто спрашивают, что делать, если артефакты собрать сложно? Кандидат что-то отрефакторил, ну и что тут измеришь? Во-первых, если есть коллега-признанный эксперт в этой системе, то его фидбэк -- это уже вторая половина необходимых артефактов. Но на одних словах не выедешь, действительно нужна еще первая половина. Но тут все максимально просто: если просто ваш пулл реквест сделал жизнь кучи людей проще, то он и есть необходимый артефакт, подтверждающий проделанную работу. Чтобы выглядеть совсем хорошо, можно приложить статистику вызовов вашего кода командами тех коллег, которые подтверждают важность этой работы.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В предыдущих постах я рассказал, что такое perf и о его...</title>
-    <published>2024-10-13T12:35:52+00:00</published>
-    <updated>2024-10-13T12:35:52+00:00</updated>
-    <id>https://t.me/faang_career/76</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/76"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В предыдущих постах я &lt;a href="https://t.me/faang_career/71" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;рассказал, что такое perf&lt;/a&gt; и о его &lt;a href="https://t.me/faang_career/72" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;главной проблеме&lt;/a&gt; -- сложности. Сегодня я расскажу, как эту сложность снизить с помощью простых инструментов.&lt;br/&gt;&lt;br/&gt;Инструмент 1: структура&lt;br/&gt;&lt;br/&gt;- Писать тексты сложно&lt;br/&gt;  - Писать тексты, понятные другим людям, еще сложнее&lt;br/&gt;- Вместо текста, можно писать структурно:&lt;br/&gt;  - Составлять списки фактов (например: запустил фичу X, померял Y% DAU increase MoM)&lt;br/&gt;  - Использовать буллеты&lt;br/&gt;    - Перечислять факты&lt;br/&gt;    - Группировать факты&lt;br/&gt;    - Сопровождать факты дополнительным контекстом&lt;br/&gt;  - Типичный перф-пакет состоит из:&lt;br/&gt;    - Списка проектов&lt;br/&gt;    - Для каждого проекта:&lt;br/&gt;      - Краткого описания&lt;br/&gt;      - Списка фактов о принесенной проектом пользе&lt;br/&gt;      - Списка фактов о сделанных действиях&lt;br/&gt;      - Артефактов (о них ниже)&lt;br/&gt;      - Иногда, пояснений некоторых неочевидных фактов&lt;br/&gt;- Минусы этого подхода:&lt;br/&gt;  - Получится большая простыня буллетов, которую:&lt;br/&gt;    - Долго читать&lt;br/&gt;    - Приходится суммаризировать в голове, для построения полной картины&lt;br/&gt;  - Выглядит очень длинно&lt;br/&gt;  - Тяжело использовать на L6+ уровнях, так как сложно передать когерентную историю&lt;br/&gt;- Плюсы:&lt;br/&gt;  - Максимально просто писать: перечисляешь себе факты, и все&lt;br/&gt;  - Максимально просто редактировать: буллеты легко двигать и выделять в группы&lt;br/&gt;  - Все-таки легко читать: принимающие решения люди могут:&lt;br/&gt;    - Сканировать список&lt;br/&gt;    - Прикидывать независимое решение по каждому факту&lt;br/&gt;    - Считать что-то вроде среднего/минимума в конце для финальной оценки&lt;br/&gt;&lt;br/&gt;Этот формат идеален для начинающих перфо-писателей, так как не требует высоких навыков коммуникации через тексты, и кандидат, скорее всего, не напишет что-то, что покажется членам комитета несвязным бредом. Даже когда вы научитесь хорошо писать тексты, этот формат все еще останется полезным для написания драфта, который уже потом можно переписывать в более когерентную историю.&lt;br/&gt;&lt;br/&gt;Инструмент 2: стиль языка&lt;br/&gt;&lt;br/&gt;Помимо структуры, сам стиль используемого тоже должен быть специализирован. Лучшая практика -- уложиться в 1000 слов. Это нужно не только для экономии время читающим, хотя это тоже важно. Но главным образом, форсированная краткость позволяет сфокусироваться на самом главном, и отбросить ненужное. Это самое ненужное вполне может испортить о вас впечатлении: да, вы сделали 2 проекта на L5 и вроде готовы к повышению, но почему в пакете еще 5 проектов на L4? Не были ли эти L5 проекты удачей, если кандидат в основном работает работу L4? Краткость -- ваш друг.&lt;br/&gt;&lt;br/&gt;Дополнительно к общему принципу сухого и краткого изложения, есть еще конкретные эвристики. Например, удалите из вашего текста все прилагательные. Прилагательные (обычно, позитивные) -- это просто пустая хвальба себя. В вашем тексте их быть не должно. Вместо каждого прилагательного должен быть приложен артефакт. Сделали &amp;quot;сложную&amp;quot; систему? Удалите. Вместо этого приложите дизайн документ, в котором описана сложная система. Работали в &amp;quot;кросс-функциональной&amp;quot; команде? Удалите. Вместо этого, приложите список ключевых людей из разных функций и попросите их подтвердить работу с вами в фидбэке.&lt;br/&gt;&lt;br/&gt;Используя эти базовые инструменты, вы превратите свои пакеты из &amp;quot;praising word soup&amp;quot; в адекватный и полный документ о достижениях, по которому можно понять, кто вы такой и что вы умеете делать. В следующем посте я расскажу про более продвинутый инструмент, который поднимет уровень вашего пакета до ~80% качества.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Вышел подкаст со мной. Поговорили о техническом...</title>
-    <published>2024-10-07T20:04:05+00:00</published>
-    <updated>2024-10-07T20:04:05+00:00</updated>
-    <id>https://t.me/faang_career/73</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/73"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вышел подкаст со мной. Поговорили о техническом лидерстве, карьере в FAANG, и создании стартапов. Получилось душевно&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtu.be/7XPyBonXG9s?si=KwtQOzD0AcgBSsQk" target="_blank" rel="noopener"&gt;https://youtu.be/7XPyBonXG9s?si=KwtQOzD0AcgBSsQk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/7XPyBonXG9s?si=KwtQOzD0AcgBSsQk"&gt;&lt;img src="https://cdn4.telesco.pe/file/g71Dhy70LL2kaOOqB6jv0epa_1CsEF4_0nj55gxHdCIzQbWTcStPpaPeZLGlWB997ycJFTgFaCZtQGnCvRLIAlaxtYVccKU4tPJ8cLfG0fcXXNus688wypozbvex_eCQE3BxFMVFjgSf3O-WE1l8AH7JJbyZSXEyf-2NP92fNZIq8aLTlPeahSttZD0sUpfAdXjif5RPtypjJ0juLo347sJJdXIpGVjrQyAynzVpin4t0hFek5JWqRqmdzzoTT7-2ZVDe8xUzkF-93jd4ZcFc1xUxD-8sbesIFB3TZ7SoO3fW0dH2sRTHxKdSTeiXksaeNSVjiDM0Xbw9BZS5ue0Xw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/7XPyBonXG9s?si=KwtQOzD0AcgBSsQk"&gt;
-Секреты бигтеха от Principal Engineer в Apple. Максим Страхов | Team Lead Talks Ep.38 - YouTube&lt;/a&gt;&lt;br&gt;Попадая в бигтех, некоторые люди теряются, потому что не понимают, что от них ожидают в этих компаниях. Это происходит даже с лучшими инженерами. Наш гость — Максим Страхов работает в Apple на должности Principal Engineer. Максим объясняет людям особенности…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В прошлом посте я рассказал, что такое perf, как он...</title>
-    <published>2024-09-28T16:03:06+00:00</published>
-    <updated>2024-09-28T16:03:06+00:00</updated>
-    <id>https://t.me/faang_career/72</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/72"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В &lt;a href="https://t.me/faang_career/71" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;прошлом посте&lt;/a&gt; я рассказал, что такое perf, как он происходит и почему он спроектирован именно таким. Сегодня я хочу поговорить о главной проблеме этой системы.&lt;br/&gt;&lt;br/&gt;В комментариях под прошлым постом было бурное обсуждение на тему проблем с перфом. Была упомянута реальная проблема: stack ranking (она же curve fitting, она же бюджетирование). Я не считаю это проблемой именно перфа, потому, что не считаю ее частью перфа. Это отдельная, независимая система, приделанная сбоку, уже значительно позже разработки самого процесса перфа. Было недовольство мотивацией (a.k.a. promo-driven development). По нему моя позиция, что это не баг, а фича. Финансовое давление помогает фокусироваться на важном и игнорировать неважное. Ну и было много ругани на менеджеров, чего я совсем не понимаю, ведь они меньше всех влияют на результат. А теперь поговорим о главном наблюдении очень старших инженеров в тех гигантах.&lt;br/&gt;&lt;br/&gt;Главная проблема перфа -- он очень сложный. Это была идеальная система во времена духа Bell Labs или раннего/среднего Google. Но за последние 10 лет Big Tech вырос с десятков тысяч до нескольких сотен тысяч человек. Очевидно, это не могло произойти без понижения планки качества нанятых людей. Ну и конечно, пик снижения планки мы все наблюдали в ковид. Чем дальше, тем больше становилось компромиссов по скиллам кандидатов. И если технические знания поддерживать проще, то очень тяжело держать планку по скиллу рефлексировать о своей собственной работе, детально разбирать каждое свое действие, и описывать их в хорошо оформленном и понятном случайному инженеру из другого угла компании. В итоге, на это просто забили, и решили, что фиг с ним, там научатся. Ну или не научатся, и уйдут сами. &lt;i&gt;Если читателю кажется, что этот мой вывод звучит очень снобско, мол понанимали средненьких новобранцев, то я смею заверить этого читателя, что на входе в бигтех я сам не обладал этим скиллом, и кто знает, наняли ли бы меня самого без этого компромисса. К счастью, я смог довольно быстро научиться: я был &lt;/i&gt;&lt;a href="https://t.me/faang_career/27" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;i&gt;хорошим джуном&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt; Но проблема остается проблемой. Писать perf -- это очень сложная работа, которая каждый раз сопровождается месяцем нытья на внутренних форумах компаний. В результате производится гигантский объем низкокачественной писанины, что создает кучу работы и для написания peer review, и для менеджеров, и для комитетов. Эта работа выглядит неэффективно, вынуждая старших экзекутивов давить на менеджеров, чтобы они брали на себя часть ответственности. Это приводит к тому, что люди так и не научатся этому скиллу, а планка снижается еще сильнее. В итоге мы видим спираль, которая раскручивается прямиком на дно.&lt;br/&gt;&lt;br/&gt;Я не смогу научить читателя писать крутой и легкий перф. Этого можно достичь только упорной самостоятельной работой. Но я смогу помочь читателю сделать первые шаги и помочь перейти из режима &amp;quot;я не знаю, что тут писать&amp;quot; в режим &amp;quot;могу написать хороший перф, а теперь надо научится писать идеальный&amp;quot;. И начну я с нескольких простых инструментов, которые решают 80% проблемы. В следующей серии.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Прежде чем давать советы по оптимизации карьерных...</title>
-    <published>2024-09-10T10:49:41+00:00</published>
-    <updated>2024-09-10T10:49:41+00:00</updated>
-    <id>https://t.me/faang_career/71</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/71"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Прежде чем давать советы по оптимизации карьерных документов, давайте разберемся в общем процессе. Если вы уже знаете правила, не спешите закрывать этот пост, дайте ему шанс передать вам новую перспективу.&lt;br/&gt;&lt;br/&gt;Итак, в Big Tech компаниях существует процесс под названием performance review. Каждый сотрудник хочет бонус побольше. Большинство сотрудников хотят повышения позиции. Чтобы жизнь организации не превратилась в хаос все время клянчущих денег сотрудников, эти естественные желания официально признаны, и организованы в стандартизированный процесс, который и назвали performance review, или, в простонародье, perf (перф). Прежде чем обсуждать суть дела, быстро про форму:&lt;br/&gt;&lt;br/&gt;- Заранее готовится сетка требований для уровней, о которой я &lt;a href="https://t.me/faang_career/64" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;много писал&lt;/a&gt;&lt;br/&gt;- 1-2 раза в год в фиксированные даты объявляется perf&lt;br/&gt;- Каждый сотрудник пишет документ, который называется self assessment. В этом документе сотрудник описывает, что он полезного сделал для мира и компании, что у него получилось особенно хорошо, а где он в себе обнаружил слабые стороны&lt;br/&gt;- Сотрудник так же просит коллег, с которыми работал, написать ему &amp;quot;peer feedback&amp;quot; -- то же самое, что и self assessment, только вкратце и с точки зрения коллеги&lt;br/&gt;- Сотрудник сам пишет peer feedback для коллег&lt;br/&gt;- Лиды организации собираются в calibration committee и обсуждают все self assessment документы, анализируют и соглашаются (или нет) с тезисами&lt;br/&gt;- Дальше идет процесс stack ranking, который изобрел лично дьявол, поэтому я про него тут писать не буду (а еще потому, что о нем бесполезно писать, все равно кандидат ничего не может сделать, чтобы на него повлиять)&lt;br/&gt;- В результате обсуждения self assessment документов сотруднику назначается &amp;quot;рейтинг&amp;quot;&lt;br/&gt;- От рейтинга напрямую и значительно зависит годовой бонус -- можно заработать вплоть до x1.5 от ожидаемого&lt;br/&gt;&lt;br/&gt;Дополнительно, сотрудник может номинировать себя на повышение уровня. Да, именно так: ты просто говоришь: по сетке требований я работаю на уровень выше, вот в моем self assessment все доказательства. Потому повышайте меня, чтобы моя работа на уровень выше была и оплачена тоже на уровень выше. В этом случае добавляется несколько шагов:&lt;br/&gt;&lt;br/&gt;- Self assessment документ становится больше / полнее / сложнее написать, ведь нужны дополнительные доказательства для новой аудитории читателей&lt;br/&gt;- Дополнительно к calibration committee собирается promo committee, обычно из более старших коллег (а в Гугле раньше еще и из случайных коллег со всего Гугла)&lt;br/&gt;- Второй комитет решает, одобрить ли номинирование сотрудника или нет&lt;br/&gt;- Senior leaders (обычно VP) подписывают одобренные номинации, делая повышение официальным&lt;br/&gt;&lt;br/&gt;Такова форма, а в чем же суть? Суть процесса в том, чтобы главным по процессу получения бонусов и повышений был самый заинтересованный в них человек -- сам сотрудник. Именно он сам для себя изучает ладдер, весь год выбирает правильную работу, которая ему поможет на перфе, сам собирает все нужные доказательства, сам составляет self assessment -- презентацию своих аргументов, сам анализирует, что нужно изменить в работе в следующий цикл, чтобы в следующий раз составить еще более впечатляющий документ, который приведет к еще большим бонусам. Кандидат больше всех заинтересован в финансовом вознаграждении, а значит никто больше не сможет так хорошо доказать, что он его достоин. Такой процесс убирает гигатонны микроменеджмента, назначения задач, слежки, кто что сделал. Ведь perf рассудит.&lt;br/&gt;&lt;br/&gt;Это теория. Реальность, как всегда, вносит свои коррективы. Их я буду обсуждать в следующем посте, а сейчас я предлагаю читателям (вы же инженеры&amp;#33;) найти уязвимости в этом процессе и мы обсудим их в комментариях.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23perf"&gt;#perf&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">All your packets are awful.&#13;
-&#13;
-Так называется внутренний документ,...</title>
-    <published>2024-09-03T10:19:15+00:00</published>
-    <updated>2024-09-03T10:19:15+00:00</updated>
-    <id>https://t.me/faang_career/70</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/70"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;All your packets are awful.&lt;br/&gt;&lt;br/&gt;Так называется внутренний документ, написанный одним из опытных членов промо комитетов в Гугле. И я не смог бы придумать лучшего названия: подавляющее большинство промо пакетов, а также self-assessment документов на performance review просто ужасны.&lt;br/&gt;&lt;br/&gt;Предполагается, что кандидат пишет про свою работу с целью дать старшим коллегам всю необходимою информацию, чтобы они смогли защитить заявку кандидата на повышение (промо пакет) или на высокий рейтинг (обычный self-assessment). Стоит ли говорить, что большинство этих документов не достигают поставленной цели. При их чтении возникает стойкое ощущение, что кандидат даже не знал, что такая цель существует, чего только там не пишут. Это приводит не только к отказам кандидатам в повышениях и рейтингах, но и к выгоранию коллег, чья работа -- читать эти документы. Быть обязанным тщательно изучить и дать детальный фидбэк по потоку нерелевантного текста -- совершенно неприятная работа, особенно когда ты взял на себя ее делать из мотивации помогать классным людям.&lt;br/&gt;&lt;br/&gt;Ну и конечно, плохо составленный документ снижает шансы самого кандидата на на желанное повышение или высокий рейтинг. Чтобы спасти ваши бонусы, я решил написать серию постов про performance review. В этой серии я расскажу, что такое performance review, как правильно писать self-assessment и promo packet, как правильно просить и давать peer feedback. Эти инструкции помогут вам &amp;quot;думать как промо комитет&amp;quot;, делать их работу проще и приятней, и соответственно улучшать их настроение. Не важно, состоит ли промо комитет из случайных старших коллег, которые вас не знают, или из лидов вашей организации. Они все думают примерно одинаково, и эта серия поможет вам &amp;quot;хакнуть&amp;quot; одну из компонент процесса роста в Big Tech компании.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23perf"&gt;#perf&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Повышение уровня в FAANG транслируется в повышение...</title>
-    <published>2024-08-15T12:03:07+00:00</published>
-    <updated>2024-08-15T12:03:07+00:00</updated>
-    <id>https://t.me/faang_career/69</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/69"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Повышение уровня в FAANG транслируется в повышение материального достатка, но более сложную рабочую жизнь из за повышения ответственности. Но мало кто знает, что, одновременно с этим, повышение уровня еще и облегчает инженеру работу. Поговорим о том, почему так получается.&lt;br/&gt;&lt;br/&gt;Многие люди на интуитивном уровне думают, что повышение уровня -- это вознаграждение за хорошую работу. Это заблуждение. Вознаграждение -- это нечто одностороннее. А повышение уровня -- это двусторонний &amp;quot;контракт&amp;quot; между работником и компанией. И я не имею в виду буквальный переподписанный контракт на новую ЗП. Я говорю о неформальном контракте. Все понимают, что при повышении сотрудник обязуется выполнять работу на следующем уровне. Но мало кто знает, что этот контракт двусторонний -- &lt;b&gt;компания обязуется дать сотруднику свободу работать на этом следующем уровне&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Что это значит -- дать свободу работать? У этого обязательства есть две части: формальная и неформальная. Формальная часть заключается буквально в том, что с вами нельзя работать, как с сотрудником предыдущего уровня. Разберем на примере: главная разница между &lt;a href="https://t.me/faang_career/27" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Junior&lt;/a&gt; и &lt;a href="https://t.me/faang_career/34" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Middle&lt;/a&gt; уровнями -- способность самостоятельно выполнять задачи. Когда сотрудник на Junior уровне доказывает эту свою способность, ему предлагают повышение до Middle позиции, где он уже обязуется продолжать консистентно выполнять сложные задачи самостоятельно. Но одновременно с этим компания (в лице менеджера, техлида, коллег) так же обязуется уважать эту способность сотрудника и не лезть к нему с попытками смотреть на его работу из за спины, требовать частых чек-инов, пытаться вести его за руку через сложности. Вся та помощь, которая была очень полезна Junior инженеру, чтобы быстро учиться, превращается в препятствие, только мешающее работе Middle инженера. И компания обязуется устранить это препятствие, что повышает его эффективность, и сильно упрощает его жизнь.&lt;br/&gt;&lt;br/&gt;Помимо формальной части, есть и неформальная: коллеги, узнавая ваш уровень, автоматически доверяют вам делать работу на этом уровне. Доверие -- это очень мощный ресурс, который умножает ваши усилия. Вы познакомились с коллегой из другой команды и предложили ему интеграцию систем? Если вы уже &lt;a href="https://t.me/faang_career/35" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Senior&lt;/a&gt; инженер, то коллега автоматически знает, что вы способны достигать поставленных целей и уверен, что вести с вами дела надежно. Вам значительно проще убедить его работать с вами в команде. Делать работу в атмосфере доверия гораздо проще и приятнее. Этот эффект дает мощный буст в качестве жизни.&lt;br/&gt;&lt;br/&gt;И формальное и неформальное обещание компании дать вам свободу работать на вашем уровне -- это серьезная проблема для компании в целом, а так же для вашего руководителя и команды, в том случае, если эту свободу дали вам по ошибке. Это еще один фактор, почему повышения в FAANG так сложны. Нужно серьезно доказать, что когда кандидат получит новую свободу, он не растеряется и не провалит новые задачи.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23promo"&gt;#promo&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В этом канале я рассказываю про FAANG и похожие Big Tech...</title>
-    <published>2024-08-12T10:49:18+00:00</published>
-    <updated>2024-08-12T10:49:18+00:00</updated>
-    <id>https://t.me/faang_career/68</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/68"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В этом канале я рассказываю про FAANG и похожие Big Tech компании. Но мир на них не заканчивается. В мире есть большое разнообразие компаний, подходов и индустрий. Меня часто спрашивают, как получить релевантный опыт для попадания в FAANG, работая в совершенно другой среде? На этот вопрос нет единого ответа. Но есть принцип, который работает всегда: чтобы старшие коллеги делились с вами информацией, скоупом и свободой самовыражения, нужно хорошо разобраться в вашем окружении, понять его правила и нужды людей. Мне сложно с этим помочь в широком мире, так как мой опыт в основном происходит из Big Tech компаний. К счастью, я не один рассказываю, как устроен IT-мир. Хочу поделиться &lt;a href="https://t.me/addlist/CidpeALk4WJiODJi" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;папкой с каналами&lt;/a&gt; про разработку, менеджмент и тимлидство. Несколько из них я сам читаю&amp;#33; Мои коллеги по образовательной деятельности пишут на самые разные рабочие темы, и у каждого есть хороший шанс найти информацию про среду, похожую на вашу, которая поможет вам разобраться, как найти возможности и получить опыт для желанного развития вашей карьеры.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/addlist/CidpeALk4WJiODJi"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/addlist/CidpeALk4WJiODJi"&gt;
-Тимлидство - Telegram&lt;/a&gt;&lt;br&gt;Egor Tolstoy invites you to add the folder “Тимлидство”, which includes 19 chats.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Рассказал на Подлодке о карьере в FAANG -- теме этого...</title>
-    <published>2024-08-06T11:16:38+00:00</published>
-    <updated>2024-08-06T11:16:38+00:00</updated>
-    <id>https://t.me/faang_career/67</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/67"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Рассказал на Подлодке о карьере в FAANG -- теме этого канала.&lt;br/&gt;&lt;br/&gt;На такую тему сложно читать лекции, слишком много нюансов и ситуаций. Потому, я постарался рассказать об общих принципах. А вместо разбора всех возможным гипотетических сценариев, я предлагаю всем советую задать вопросы в комментариях тут в канале или на Ютубе. И мы устроим стрим, где меня можно будет закидать вопросами вживую.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/podlodka/94291" target="_blank" rel="noopener"&gt;https://t.me/podlodka/94291&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/podlodka/94291"&gt;&lt;img src="https://cdn4.telesco.pe/file/Sntx0DJWfWOYQ1583qv3_WN6U2XB1tfGdCIHX2BcF5QGwdw0HDRT4g6Sa_UR6L5cpM-pCmtPY2Cd_xziU8-exovwBavI11Hhm-t_rSokcdM3FIn0PgEOAQHOe-i38qqdf7IsMZ0dW2u6ozIuCk4fX0j7H9YtKeG3laSru0hyoqfL2XhbCAOY_1dTu6useAz5WO49a5NyHwqPClTQrX9ldwZHnzy_TN0lA3ZftBqIRHcqG7ZQsdPgfNYMAca6joCt-4yihkNyz2Ju1fYj607f62_8NT4UVeoTuOR8cRQtvAd6NShsFqVaMRUfVRYqDZEG4Xbjng4vfh6xScfcJnVqAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/podlodka/94291"&gt;
-Podlodka Podcast – анонсы и новости подкаста про IT in Podlodka – IT Podcast - Telegram&lt;/a&gt;&lt;br&gt;Podlodka #384 – Карьера в FAANG&#13;
-&#13;
-Существует популярное мнение – делай свою работу быстрее и лучше других, и продвижение по карьере не заставит себя ждать. На ранних этапах карьеры это еще справедливо, но чем дальше – тем больше правила игры меняются. Особенно…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Всем привет&amp;#33;&#13;
-&#13;
-Скоро я буду записывать подкаст с Podlodka...</title>
-    <published>2024-07-27T15:19:36+00:00</published>
-    <updated>2024-07-27T15:19:36+00:00</updated>
-    <id>https://t.me/faang_career/66</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/66"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всем привет&amp;#33;&lt;br/&gt;&lt;br/&gt;Скоро я буду записывать подкаст с Podlodka про карьеру в FAANG.&lt;br/&gt;&lt;br/&gt;Сделаю краткий пересказ карьерной части этого канала, но так же хочется более интерактивно поотвечать на вопросы читателей.&lt;br/&gt;&lt;br/&gt;Поэтому, предлагаю всем задавать вопросы про карьеру (не про собеседования&amp;#33;) в комментариях к этому посту и я постараюсь включить ответы на все вопросы в мой рассказ.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Principal позиция в FAANG.&#13;
-&#13;
-В прошлый раз я рассказывал про...</title>
-    <published>2024-07-22T11:39:35+00:00</published>
-    <updated>2024-07-22T11:39:35+00:00</updated>
-    <id>https://t.me/faang_career/64</id>
-    <link rel="alternate" type="text/html" href="https://t.me/faang_career/64"/>
-    <author>
-      <name>Карьера в FAANG</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Principal позиция в FAANG.&lt;br/&gt;&lt;br/&gt;В прошлый раз я рассказывал про &lt;a href="https://t.me/faang_career/57" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Senior Staff&lt;/a&gt; позицию, на которой от сотрудника ожидается импакт большого масштаба. Сегодня поговорим о занятиях людей на следующей после Senior Staff позиции.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Principal&lt;/b&gt; позиция в FAANG описывается одним словом -- &lt;b&gt;transformative (трансформация)&lt;/b&gt;. Сотрудник на этой позиции существенно изменяет, как работает компания.&lt;br/&gt;&lt;br/&gt;Один из признаков transformative impact в FAANG -- влияние на индустрию. FAANG -- очень большие компании. Потому они редко принимают новые способы работать первыми. Если инженер смог повлиять на то, как работает много компаний в индустрии, это хороший сигнал для изменения в работе тех гиганта, необходимого для Principal позиции.&lt;br/&gt;&lt;br/&gt;Сложно дать определение трансформации. Это проект, который значительно меняет, как работает компания. Что значит значительно, что значит работает? В реальности, никто не дает более детальных определений. Оценка проекта как &amp;quot;трансформационного&amp;quot; дается в сравнении с другими проектами, которые были признаны трансформационными ранее. Поэтому, этот пост отличается от предыдущих постов про уровни. Для этого уровня я только приведу примеры проектов, и расскажу, почему они считались трансформационными.&lt;br/&gt;&lt;br/&gt;Система сборки кода Гугла Blaze, опубликована в Open Source как &lt;a href="https://bazel.build/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Bazel&lt;/a&gt;. Еще очень давно это был проект с масштабным импактом -- эта система сборки эффективно собирать терабайты кода десятка тысяч инженеров в Google. Бывшие сотрудники Гугла имплементировали аналогичные решения внутри Facebook и Twitter, поэтому было понятно, что эта технология имеет большой потенциал. Публикация этой системы в Open Source, организация конференции, создание коммьюнити, все это привело к адаптации этой технологии в значительном количестве компаний. Это заметное изменение индустрии разработки программных систем, и несомненно привело к нескольким повышениям до Principal позиции (Sr. Staff &lt;a href="https://t.me/faang_career/56" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;TLM&lt;/a&gt; -&amp;gt; Director для менеджера команды, &lt;a href="https://t.me/faang_career/57" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Sr. Staff SWE&lt;/a&gt; -&amp;gt; Principal SWE для техлида). Тут стоит заметить, что Bazel не трансформировал, как работает сборка внутри Google. Внутри она всегда была так устроена, и Bazel был лишь итерацией для улучшения UX. Этот проект трансформировал индустрию именно при публикации в Open Source.&lt;br/&gt;&lt;br/&gt;Новая платформа для рекламных B2B приложений. Рекламные продукты в Google создает команда из десятка тысяч инженеров. B2B приложения создавались на GWT (это был такой компилятор Java для браузеров), но без какого-то общего подхода. В какой-то момент, все эти приложения переделали на новый стек -- Material UI, Angular, Dart. Для этого был разработан фреймворк на Dart, поверх Angular-Dart, со стандартными компонентами Material UI и другими подходами к разработке. Читателю могут не нравиться какие-то из этих технологий, но вне всякого сомнения этот проект сильно изменил, как тысячи инженеров разрабатывают критически важные для компании приложения.&lt;br/&gt;&lt;br/&gt;Замена Bigtable на Spanner. Bigtable -- eventually consistent база данных, использовавшаяся в Google для всего подряд. Для некоторых задач это идеальное, дешевое решение. Но как только требуется strong consistency, Bigtable начинает создавать боль в виде редких, плохо воспроизводимых багов консистентности данных. Эта проблема породила зоопарк кастомных решений поверх Bigtable, добавляющих неидеальные аналоги консистентности, для конкретных приложений. Spanner -- другая база данных, разработанная позже, и обладающая strong consistency. Проект по апгрейду всего Гугла с Bigtable на Spanner несомненно изменил, как десятки тысяч людей разрабатывают серверные приложения, почти всегда в лучшую сторону. Этот проект наверняка привел в нескольким повышениям до Principal позиции. Специально замечу, что речь идет не о самой разработке Spanner, там был свой трансформационный импакт. Проект по апгрейду всего Гугла на уже готовый Spanner был трансформационным сам по себе.&lt;br/&gt;&lt;br/&gt;Получить оффер на Principal позицию очень просто: кандидату нужно показать, что он трансформировал технологическую индустрию, связанную с бизнесом компании. Нет смысла вдаваться в детали: если вы трансформировали индустрию, это будет очевидно всем.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23level"&gt;#level&lt;/a&gt;&lt;/div&gt;</content>
+    <title type="html">Bridge returned error 0! (20447)</title>
+    <published>2025-12-25T03:39:28+00:00</published>
+    <updated>2025-12-25T03:39:28+00:00</updated>
+    <id>urn:sha1:47a3a61e2a4735502f03a0e0049b6063d07bd25b</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@faang_career"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Operation timed out after 5002 milliseconds with 0 bytes received: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/faang_career        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@faang_career    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Operation+timed+out+after+5002+milliseconds+with+0+bytes+received%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Ffaang_career&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Operation+timed+out+after+5002+milliseconds+with+0+bytes+received%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Ffaang_career+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40faang_career%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-25T01:54:44+00:00</updated>
+  <updated>2025-12-25T03:38:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : adjust/ios_sdk https://t.co/Uyl2eETIhe</title>
+    <published>2025-12-25T02:02:33+00:00</published>
+    <updated>2025-12-25T02:02:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25607</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25607"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : adjust/ios_sdk &lt;a href="https://t.co/Uyl2eETIhe" target="_blank" rel="noopener"&gt;https://t.co/Uyl2eETIhe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;&lt;img src="https://cdn4.telesco.pe/file/oypH42Yrxy8w1RJy5VEmRldwFLr40Kbt1mFuSTEA1b8K5vLPxqkp3oXteZxNQWNpkSCBbxVZxka5Ul_IWTdG0dfpS35PFG_TToHWWoY3UuIdPBxztQxJjJ5i0xW0Oul6zByEengWz3u8pDz1oGT2a83BFJl89qQGHXlrkLFJ8o9YhVWJ34bVJF2V9VlDD-4nYTM_W3Kjj4dE2htwPwq6Y9XdKbZXzkzT8TSGOi3effZVnxBBPuoIMMz4xcxTgaH0Ehkvx2WP2bROA3wJ6GVS9diIrKpeXCA-IxCUdNUIR3OsuN4XyFupXG_f99Hk2a3VjZv6MHgsYasbiDmenrdpwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;
+GitHub - adjust/ios_sdk: This is the iOS SDK of - GitHub&lt;/a&gt;&lt;br&gt;This is the iOS SDK of. Contribute to adjust/ios_sdk development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : openid/AppAuth-iOS https://t.co/9jwUtRFZqM</title>
+    <published>2025-12-25T02:02:33+00:00</published>
+    <updated>2025-12-25T02:02:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25606</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25606"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : openid/AppAuth-iOS &lt;a href="https://t.co/9jwUtRFZqM" target="_blank" rel="noopener"&gt;https://t.co/9jwUtRFZqM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9jwUtRFZqM"&gt;&lt;img src="https://cdn4.telesco.pe/file/YY1J51U4sbX3xPdGTugF6fAnAfxtnsxNaUJjepv2PqBEdNqucLEF_sZlCALMnptyOAh43zqBluqp6WdnkaE6SByTnCTZBv1eGtWDfOWTPBPgb08v0253mlE-f0a15Ln_3G-jFmN1m675gknnZrDSGb_gdzHQT_7T_vt_0DPyupsnQxT9PHhoobaauO8aAcXUlp4kXz_ZSZs0YehJQhOd-wF6DtXwK4X3dg7_MAehAG-tLO1qqvIP5ZxkowdwL86Pz2v6lu4kzMmpk2Z4bv2tiByGF1R1EUSvxGccvWc5Xumnzxl_I9xQB4FroGhoPS0ndc7HgpY7ALzw094CQU4ZOg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9jwUtRFZqM"&gt;
+GitHub - openid/AppAuth-iOS: iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers. - GitHub&lt;/a&gt;&lt;br&gt;iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers. - openid/AppAuth-iOS&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Understanding SwiftUI&amp;#39;s Grid container https://t.co/uRMS4JyQDy</title>
     <published>2025-12-25T00:17:14+00:00</published>
@@ -45,7 +69,7 @@ SwiftUI Page Curl | SwiftUI Page Curl Carousel | SwiftUI Custom Carousel | Swift
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-configuration &lt;a href="https://t.co/LHsMsGNbLl" target="_blank" rel="noopener"&gt;https://t.co/LHsMsGNbLl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LHsMsGNbLl"&gt;&lt;img src="https://cdn4.telesco.pe/file/bR6QVFCHFvbikAauYrWh6Ba2-cDWolbyQzA1fj_H0xs_bhXYGKaOFEMAcQB6rcddagSeYYxfZDuv9vXjgxWH01XQkcAWqG5QgURBz5GiImuHAzswqqDALLLS_MP6yNi8dQ1oAc0X8BXpFJxlcQyy_sR1YkrgI2Vr2rofpJrzxZnE2P0MwKfqhsZjC7avVXBPBJ2oY92DUCdjA39qhdDKDq9Qus9RYJDdiSptzODWp7GDfLrLWEPNkcqstdb_CrqFxx7u_kKuqfgIeR6zZ0ICnFbKxIsy6bZBYcENum34Xl2MsrlxcUnL1HBKULV9AafMa_E-Fax_SLYacR_ob8tFWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LHsMsGNbLl"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-configuration &lt;a href="https://t.co/LHsMsGNbLl" target="_blank" rel="noopener"&gt;https://t.co/LHsMsGNbLl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LHsMsGNbLl"&gt;&lt;img src="https://cdn4.telesco.pe/file/gn2AQEzER8INOJTOitQ77tsXYGhzhiCBt7Hw-IS-9EgjDX_2xvq5MK32pRR_iXpvsGJgnRzfSJ43yyzP9JkpjJuDZoIzHLxcSUoaDnyMbuRnrLO3JG6gGZ19-0TFnszZf_4qDwByjqohUyiLWda8QqpleKMJanIMj06OCHNE6kdFU4h-YfoytGwxAGtWsmh70gXXFjMPniN8QvFCN9pKA9esszVz5kN4O2rE3oMsFbanMn1k2slxoELY2FGVbKrK5rpJdHcf3X7VNa5V6lJIl3krSBCs0N7y6K8gj7WKr14heLf8956IOH51Qal64ALn7AO-lfbDLVhu8URjNhgBZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LHsMsGNbLl"&gt;
 GitHub - apple/swift-configuration: API package for reading configuration. - GitHub&lt;/a&gt;&lt;br&gt;API package for reading configuration. Contribute to apple/swift-configuration development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -57,7 +81,7 @@ GitHub - apple/swift-configuration: API package for reading configuration. - Git
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MrKai77/Loop &lt;a href="https://t.co/IOfH1eaBha" target="_blank" rel="noopener"&gt;https://t.co/IOfH1eaBha&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;&lt;img src="https://cdn4.telesco.pe/file/mA1froo8xof5A6Vtp_HyFc5yXV-VdOrL2lJwnhnkt3j3jDYxBt3XrP5GZQJHaVm9FcfH5MP_7dqqNRNEyA99GrMMMzR_wGYLtOMBzr4bH45P_gRTceDTcL1GqD0H7_8HQjnZvMDn0Cjw-n2y-HLJLkyvomNjMjXZX_gEUnnhnwYk2sU9ltw0ODogieTS7UuC6u7CwS2gkOQaHZ9WwevK1bh-RECRqYs9DWxz9bpRS26T0fjTiLKHPoZBO8W3aV_5RH1EjreX-0JGiHQSOWsuIygd8M6mS1MbA5CdjPw7bPaHWzkP6xYeUo7awgZTg9bLi-mCijR3z798K3IYy2kxgQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MrKai77/Loop &lt;a href="https://t.co/IOfH1eaBha" target="_blank" rel="noopener"&gt;https://t.co/IOfH1eaBha&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;&lt;img src="https://cdn4.telesco.pe/file/ClKjutasaR-fc1eF8NZhphcyWbhV-acWJe9cdhNUjInBCoCsid7OFaUatmbHtDKZcskUzXm-0U_R-x5Ke25xvZ9Ctmm_35VTQPz-xyuuTK9eDmbkh96yzVnqdapDIC4U079NtFQZggb8pRKQ2mu7g9XZqIBp6l9DNs-NTm4kc4_otk9WCIPjTmTvUc_lW2HOhfVKauAyhKAAL8nYSKJSxzhM-YOE--De9Pnv266LgtAVY-YoLi1TFimsjiFacx8xPaOVH2Z1PevffDiXPFAh0fCCqT87KanC9SVXG1PjHBAa5bHM31SjzSAsQSr_jgC307k5V4Ik7vq0GN1j6Lphww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;
 GitHub - MrKai77/Loop: Window management made elegant. - GitHub&lt;/a&gt;&lt;br&gt;Window management made elegant. Contribute to MrKai77/Loop development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -69,7 +93,7 @@ GitHub - MrKai77/Loop: Window management made elegant. - GitHub&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : RoversX/LaunchNext &lt;a href="https://t.co/7hRElUi4gS" target="_blank" rel="noopener"&gt;https://t.co/7hRElUi4gS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;&lt;img src="https://cdn4.telesco.pe/file/LVtNnq3FiF4KIoL5ycPmVPXtdUfPzFF_bWaQEt2UOuHb1HKF5hi3AIn2Vj-wAusbMdPCaHD2EKSOqVNGsauRBk5rhII8e7ipRWwvfRJ96yThHEgeclyhvhh4WdFE9PoJ8ec5mGWe15nebobHkYAr5LfHllofSW0SI1j69Gl6L-bI6AE5cAmc6JDkLB4hpilYSJDcQRICfYcnaop-n57DpES0I1jwad4FyAvU0IBwTx9reRmC0_UfZoc8LFlpevESMzJXioRxm_kdc_rpLaONE9TEHlwrvJ91se-nblPUwsVmCghQxf2zoJ655qDu2lzjl8cey7RF2QLmevRXDlVTyA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : RoversX/LaunchNext &lt;a href="https://t.co/7hRElUi4gS" target="_blank" rel="noopener"&gt;https://t.co/7hRElUi4gS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;&lt;img src="https://cdn4.telesco.pe/file/qv7bo5KIgepkxBtNk11wMaE7VSbR24rEbgVa19zt_fkVuAsWw3UbT04ZnBzOJGM65SjVomw7NpZuURZqBNXnWcACC9nwirKgwmg_8yfkPkdopzugtJBzSmO_V8gikRyYFjm7J6NtMptG_Wk0AnrfazALiAJ44a6dLE9ZOpNGN29Jvoq6ZYjkHWcNFWESXiaCvOLUxzxVaRsQaVmsxvqXCjKmujhJGJFzincLQCOPl__pNKyRkMQ8IxOjyXBJSfmr-bdtfeJFiMLhlw5rKOVm31LI4byDki3W-MNjrHfY6sgwkZcOqMmWLmypsGPsaamVRkyjMKUhIwjVW8Lho2nBhw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;
 GitHub - RoversX/LaunchNext: Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. - GitHub&lt;/a&gt;&lt;br&gt;Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. - RoversX/LaunchNext&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -81,7 +105,7 @@ GitHub - RoversX/LaunchNext: Bring your Launchpad back in MacOS26+ ,highly custo
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : PojavLauncherTeam/PojavLauncher_iOS &lt;a href="https://t.co/0do7ez4wWb" target="_blank" rel="noopener"&gt;https://t.co/0do7ez4wWb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0do7ez4wWb"&gt;&lt;img src="https://cdn4.telesco.pe/file/sMWF6YDe9Gq7-LRNe0WWtMRgXLEVB0MH7PUBjz9x2ylRzfDDLaSX4W3RW3PFcIJJ1FHi_RNOFLia_o4vKxnrlNvA-sKJRKiVWXwSMv__0z5feQbIDVcXmrVim8Tk0IDV8K9mbJl3ZUVeYeZYsUUX5rQG80NOpiHfD1NPBAkRMJ18qXNioUClQaNSYSjT0Xi6N9gEOKAqxeqaYBpicC7OnMPhLizLXcj1xQ99pM_kWE5__blspy2TbwpxlULBFxs14k06UR_KTmMvOSBQqlQZFXNz8SQR5WvnVwFG7GunRlLnPw2JxRf2LibPn6VZtbQeOEs0SJMkSkYurERJrslV7Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0do7ez4wWb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : PojavLauncherTeam/PojavLauncher_iOS &lt;a href="https://t.co/0do7ez4wWb" target="_blank" rel="noopener"&gt;https://t.co/0do7ez4wWb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0do7ez4wWb"&gt;&lt;img src="https://cdn4.telesco.pe/file/YehtfY4xTospQentx1gRQ9oUhYMjnQ409_V7k603ocpuJawexngRBeFNpjNos3V1ZH1hjEuMs6MY3yP6dFjFLU7CiPUL3cTRaanrXqXEleCbLCoWpHdjRkS74iM2FPex_BSRYn67xyL_OLo1lJVnUNDgu2fxvX5BYdUZhSTtNLbNxjpDHlGzmokA4Mi72Y-WWVma-RMv8D0ywhJpjaXuJYU8DRxWoCTwkAieEjwlL3vCS58Kln9Ugd5wakPGPnh74qErZQ2Ev7tSuBLLUCNk8_PGyh6LEt1KL0jSqDNHTHABIfds5gpVNxcmqPqDOPZPN4QUmob16uXm6RA6_b8TPA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0do7ez4wWb"&gt;
 GitHub - PojavLauncherTeam/PojavLauncher_iOS: A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded… - GitHub&lt;/a&gt;&lt;br&gt;A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS - PojavLauncherTeam/PojavLauncher_iOS&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -93,7 +117,7 @@ GitHub - PojavLauncherTeam/PojavLauncher_iOS: A Minecraft: Java Edition Launcher
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : noah-nuebling/mac-mouse-fix &lt;a href="https://t.co/3e5v9wKFmH" target="_blank" rel="noopener"&gt;https://t.co/3e5v9wKFmH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3e5v9wKFmH"&gt;&lt;img src="https://cdn4.telesco.pe/file/GqpWa9Yq7TnSQFiWDzWIDJjMq0i-qdnTk_tHgJJeNXG4tge_gSeo8PpUuaVsQUDAU9kExT2wy1UW74mwxz-Lzr3EjjZZfWBIk9w8ifAcIBYkJWZHDUvYAKhn4xc-e9AiRPaPld5C0iGLhGp1Ut8v-LKkM8U767rWOsz1PRfikwmypXiJMp17Z8YK_Ow1eADVzdVcx654YnnoL3JpKxf3zJ0AmmBeOGOysQ-gXIcMf6Pd5Ux_xQTgYNG2mQLBzoMHHkNwa6TCpX4s3_Q0-FUPsxJBr7l-O6dfkJPHcaI3idqXmMyTu00hC1jIGTNw7wxfBtOShx4Wh-vnVQDql4D_vQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3e5v9wKFmH"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : noah-nuebling/mac-mouse-fix &lt;a href="https://t.co/3e5v9wKFmH" target="_blank" rel="noopener"&gt;https://t.co/3e5v9wKFmH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3e5v9wKFmH"&gt;&lt;img src="https://cdn4.telesco.pe/file/kIYkUx9PCFtruSUOiJN1EhrLSjLAW6m1AuzsbrVUfx-K1SnuA46_ylRoajfkrbJyCUPGZFxAe05EUnJWWoKO5NDyiBuz0OQWLSEP6XdkmTZ61f40P0yWxMPv6BC2g03oGeH-k4wZAzCZcWsLZ9g2yqmv6MJUqLl3SJawRkOvM0e30ba74gs_YIEk_RwGVuU2uJr1x7y3Xn5a7QOEKD6At_gN68CkgyatGoFX4j2-IBcmaufJEe2v7ghzKHIhtzOYpaLkLDa1mjXZeCX0wcRO6nO0xWofjJLAbSSZs54vUhc3GjGk96FtnW-Fdl7NosityXK2-gWmdk9nrYbNOmy8ig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3e5v9wKFmH"&gt;
 GitHub - noah-nuebling/mac-mouse-fix: Mac Mouse Fix - Make Your &amp;#036;10 Mouse Better Than an Apple Trackpad&amp;#33; - GitHub&lt;/a&gt;&lt;br&gt;Mac Mouse Fix - Make Your &amp;#036;10 Mouse Better Than an Apple Trackpad&amp;#33; - noah-nuebling/mac-mouse-fix&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -153,7 +177,7 @@ From App Idea to 10K MRR - YouTube Series - SwiftLee&lt;/a&gt;&lt;br&gt;Learn ho
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : objective-see/LuLu &lt;a href="https://t.co/YsV4huB88F" target="_blank" rel="noopener"&gt;https://t.co/YsV4huB88F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YsV4huB88F"&gt;&lt;img src="https://cdn4.telesco.pe/file/QC3tq2k_VmxSS74b_Eb66ItuhUIXfKsH3gW3ac4xWs7-Uk0SEw-eFLbVNuiQ-MUX69bbeBXTzIsOiBLLULc1LWa3B_hEG2u6dZbMWs6dVwejSTAInXTs41u97g9H7p6jrw1miv3XIxGUjy_T3IA9kCznB4cZxTcu89uxSx1LXEjdoJN3-iJQ4YiUCfWctsHPspVkD8wki5n3ljD4r80iXEwhb_VBO_Jn8jy_kylLKX7ylYe5aCgy-loq8MXSOFO8fXmSMn37CZuvPD2tJxV303EaVu8oYlxtH0puyByAdKQbkdH186yVoUY0G_ongZXh-9xXaxOxkhvhNVgSJtUU3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YsV4huB88F"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : objective-see/LuLu &lt;a href="https://t.co/YsV4huB88F" target="_blank" rel="noopener"&gt;https://t.co/YsV4huB88F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YsV4huB88F"&gt;&lt;img src="https://cdn4.telesco.pe/file/fM47REzJqz30770eRsXt9c_ktJDwcQhL52SCADybFK3laYGiOxpcOm725-Y1uN6gT6stRdQJsJ8RCji5rV6Lgboom0AR_aSr8_2HIJE8fRLE20USx_hLJZ7gOiF9UHe8Ax_COo_G5lLAe2e5cbeq4KU40AqMiXk7VRtknZU3lTKnkGOIbcmYvr4iqxxNXCTz0peLOYHClawS-TY9_oiJhcUq_stpwxUP2IZZpUnxTjUqx1JYbPx0BAkxB2Rmyrc2tKT19FscEa_2vWr2GULcSPvdgkEXZDeXGDaptZhjURCmLntZXlbc1mWmELK1UMcGZZ8tjfp9DqAZ1HqqoTgjAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YsV4huB88F"&gt;
 GitHub - objective-see/LuLu: LuLu is the free open-source macOS firewall - GitHub&lt;/a&gt;&lt;br&gt;LuLu is the free open-source macOS firewall. Contribute to objective-see/LuLu development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -165,7 +189,7 @@ GitHub - objective-see/LuLu: LuLu is the free open-source macOS firewall - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : michaeltyson/TPKeyboardAvoiding &lt;a href="https://t.co/1tateURTAU" target="_blank" rel="noopener"&gt;https://t.co/1tateURTAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1tateURTAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/pV5RPbMhHYSagPt3cmQ946RrV2vZkX6bcRBVvFkmSLMoiFnP3OohBflR5jHJIpDbfWrAHhNTXHliRZg1r_5Yhp1RSdQec4aW1Sxf6gYuKVPV_E_0GvJHzGEuN-1z9DXN9nTdyp5sEdr2WohC4VHH_t4Lez_8XBva_7nDeJqNGU9POrrCAdqKsSF-TYxCNQwoIhkCyso2e_js1niwE5XebKBVgAhVpDo0y6OCRQ7yK7aYpVFg_XiOOnNjVtETRTJSGqFS_YB8RE1cizpiVEqGqop6nPlocccAjHrA_j6T-Bo2hW0ZZDK5_ABZtKz9i8utraAr_6JRqLMym1pz7ZmeUw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1tateURTAU"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : michaeltyson/TPKeyboardAvoiding &lt;a href="https://t.co/1tateURTAU" target="_blank" rel="noopener"&gt;https://t.co/1tateURTAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1tateURTAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/NFftWyUhD_kfPpIAEPrVVgZpq0PNcwGhpPuzI4hLJDiUXSsTsggvEc6d2GIhgMx2CcMRjM3aRk3iJzcdvPrs_zPGrAG4NXYfxUkGEfKjwHfWgLJnq7btFJPf6r8LO7aIaMRlJslypXYL5MLGvEf4HQ3OxZOC1sPeJl0MGFDJiMFIbFOvxJKnO2d-NDPjRSBe3sQSKqZ0ZXvOAwiC8Stvp7SqJiVyixQ5kWlxIKfF_KwyD04Edk4jMTZRbrH4j7P4l6ObgxTJJFgJ38ti5roNnf-0DMssXJXoVM9i7l_kIpNOrn05mE5-D22qV53UamP9mxLyclChH2T_9A7kgchEtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1tateURTAU"&gt;
 GitHub - michaeltyson/TPKeyboardAvoiding: A drop-in universal solution for moving text fields out of the way of the keyboard in… - GitHub&lt;/a&gt;&lt;br&gt;A drop-in universal solution for moving text fields out of the way of the keyboard in iOS - michaeltyson/TPKeyboardAvoiding&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -177,7 +201,7 @@ GitHub - michaeltyson/TPKeyboardAvoiding: A drop-in universal solution for movin
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swisspol/GCDWebServer &lt;a href="https://t.co/9tZtgJ9Gzc" target="_blank" rel="noopener"&gt;https://t.co/9tZtgJ9Gzc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;&lt;img src="https://cdn4.telesco.pe/file/SqDyn-oyqR_04T9YSP4XYNOw2JTRPuj9tu1ecVI1EA7PLPVKlmJCFF_mPUNGMANRlMSKg7AuwFCqxiCNErR2uCNc53pyvmZZjpHyyasoWBGlf72F6IQim-SA5hFyzfher0a_uRNHeLjriGzXu0V5DHl0A48O-vSY0CyGpGzDdMbIYcfWkiu_Kyw7paLgcMY8yDzl-am90IjT085V8DMbaCAOEVI1iXEI1Vm-D6WxY1hq7-O89RLXEfPXwHq41nxgnuXFSfuRop09JAV8ipI6Xuw2yI4Rp7xCbgagVTzeKv6sAkOeC8dTGXb43zFxy_QnfVhbJl-LKY1KupOcaCqN0w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swisspol/GCDWebServer &lt;a href="https://t.co/9tZtgJ9Gzc" target="_blank" rel="noopener"&gt;https://t.co/9tZtgJ9Gzc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;&lt;img src="https://cdn4.telesco.pe/file/dFB7K_Kdju52yFgnDxFycyW5mJmtcz1f5MGsUz6eAZYQAD1rpLbveWDscsXZIGI1KGlf0EJQigp6cx_heUTWnBrTAVDknj5xuuJ0c0GwNEb6dh8cKXB0X1uulVeRTMmexPO0Pw1HY8oC5piwPOSkkBNg6uIDPbyUwybymHVI4rNPMrlQPuLH02f7MJhza-DxrG2RmAVv6nuUYrXafDpQeJI4dWJiIDTsMAkrMONEYDKxVfkp2sgX2UksGL3n5vwldTvbsSAqk-qQbHL9xn6uMWuvNhMEVTUCzqE47O299frooJ17UHkkHUnP9E_msuhzo3uDme5cGPv4vuphWIDHXg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;
 GitHub - swisspol/GCDWebServer: The #1 HTTP server for iOS, macOS &amp;amp; tvOS (also includes web based uploader &amp;amp; WebDAV server) - GitHub&lt;/a&gt;&lt;br&gt;The #1 HTTP server for iOS, macOS &amp;amp; tvOS (also includes web based uploader &amp;amp; WebDAV server) - swisspol/GCDWebServer&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -189,7 +213,7 @@ GitHub - swisspol/GCDWebServer: The #1 HTTP server for iOS, macOS &amp;amp; tvOS
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : utmapp/UTM &lt;a href="https://t.co/YF9yWJmcqI" target="_blank" rel="noopener"&gt;https://t.co/YF9yWJmcqI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;&lt;img src="https://cdn4.telesco.pe/file/vadSbFx-NnB9fmvErRyEiqIXmsruN5wX0OyToEdbx5QGy1AUtYMrJKR8TEc7Kbp8IW6GCfLDLBxk6cGe3UnQDHv9Bu3Bn9Qc0hc7VFZPWq15FC2Tl8Tp-I8IFolFrkvwkoiroXyD0o4BDeyXSlBGd136iLfs9jbm2W2_gF_n0gZyZeyPGObRvL0m8CMFnbsq1JZZ8DbNRsHrwutN7oM_QBcQPaBV-mnq4Sm957pNMbn06dusxQoDEuVLcyqwrHiNU9JhhthH87GtT6OB-21akDk82RHKN5ETPCdHMq-4zZIiLRVoNzabBrPiewfg20HxGWYk9asnE0LvBaEPh_m3RQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : utmapp/UTM &lt;a href="https://t.co/YF9yWJmcqI" target="_blank" rel="noopener"&gt;https://t.co/YF9yWJmcqI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;&lt;img src="https://cdn4.telesco.pe/file/hDkST1NKqJ7mIKPT1MeDV-qY_Y5Mk4-FmpYAZeuqB3Xc2BgammGXTh8INdzwu2pO-XKpkJUDQgbwBizc7UVXqcN1yMrekX3SFdJkLjPNRdLobLj60z-MGhRfjJCwksmcom6732Pye1yEeJXUDhQsu_RrDZxshrmt3_LsVAMe5qPGvfYPq14wvunu5K_X2SuhE9lTELIYa6AFT7P9zLzJK0iWZd3Sdebmaql_pHKwmK3yeRLlSzahPOsM98BYcAgcg-2FimoE4VUianV0dWKQvGvrxU63DflO2bug5Yfc4WYy4hYaGaebLPcEaM4GArqD0tu1wfAffmVkCQ_TItYfpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;
 GitHub - utmapp/UTM: Virtual machines for iOS and macOS - GitHub&lt;/a&gt;&lt;br&gt;Virtual machines for iOS and macOS. Contribute to utmapp/UTM development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -227,29 +251,5 @@ Issue #145 - Adrian Eves - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featu
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Whisky-App/Whisky &lt;a href="https://t.co/xz0MzlHXhu" target="_blank" rel="noopener"&gt;https://t.co/xz0MzlHXhu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ifs96YuslkYOQ5cki-0vt2QgJkrz43alzB6GeZNC6aMdTSg7T9HphB2va7jYk9cN8pcDmHoBbROXzkna0TPwbznwS4hEgK-s6QU7WcesVv7_n3jPA_qgyLpC3zthaEnzJCsiVF5bzOgtd1iDZxi60Uvjzl4RSmJWt4AUBkvuJsu9xX4z5tJus3c1va2N73wEXJ9qind4qdtxRirAWfxj4DNKWQrIlH8669N_AQhVbmZbS8mE1jh0UwyH7qNZdfh69unxFKyYHxwvoAt4uZxjIYbZkNO1I5gpCOzNA4z3cB7_Mqa1ETrtjehIUlVlHYLyZVmfkdwYRfniHpDyr3WDTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;
 GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI - GitHub&lt;/a&gt;&lt;br&gt;A modern Wine wrapper for macOS built with SwiftUI - Whisky-App/Whisky&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : github/CopilotForXcode https://t.co/lojG2xlxWB</title>
-    <published>2025-12-22T02:03:01+00:00</published>
-    <updated>2025-12-22T02:03:01+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25587</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25587"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/SgL-djWtm9KzSWvlxAPkCCOVmqWM9TVtQmBRiA2J8SrwI_dJQLT43AOUzxrUPlrfAWUjf85OmDftYkqTNtwOKXn1zXEBAa98b8U02sUTxIqTjtbPcriH_TST3zLud8xJAif-Q_L80PVbIosVk5hCrevQjLKuma0tMGU6CSZGyPKg1qHOMtxcQQbgH2oQdS57wisl35Ng_Ykdzz8we8dNLCEzgHxkLBAH69yMbdexVtBu1Ijl_7wQ6CZa907r6eoWLpVUMtbn097Qhldc1_swnFC47nEXmJziK73Cq8sPHtv9Yz6G1S6AGr6E3wbOCG--sHPQ8SjLXErRyxwGETSgDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
-GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : AFNetworking/AFNetworking https://t.co/k7niRUN3l0</title>
-    <published>2025-12-22T02:03:00+00:00</published>
-    <updated>2025-12-22T02:03:00+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25586</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25586"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : AFNetworking/AFNetworking &lt;a href="https://t.co/k7niRUN3l0" target="_blank" rel="noopener"&gt;https://t.co/k7niRUN3l0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;&lt;img src="https://cdn4.telesco.pe/file/XVieSoqqeh0OVQtCOFIfNpNkntY_B308ODZT8xrx9Ad5LbNYc8VFA9IoAfrOkUYOps9HudvM21aAdlslnFGACZhJg4TfsyXotqR001JtV7Dn1fpTAUa222KnkONUOgNWZjNV5aCXOQzczW9A9N0aZZAOQIIwHAH7sSOq8TIXLToT3-wsyrcLknd-TC7elE0mfLvzuL5yXmFos-cJV7X2m7byoXAALzlN1xMb0Bmu5pdoE2YsMqCgTYiMhef3R07mfLgaqe-dfdHtxTJX1i6Ci_Fu4S4QfsOEIV5QXUxDBWHdlA4dWoHBurNzM3Ls6X5Ej17ZJ8USEipyulpxchPDwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;
-GitHub - AFNetworking/AFNetworking: A delightful networking framework for iOS, macOS, watchOS, and tvOS. - GitHub&lt;/a&gt;&lt;br&gt;A delightful networking framework for iOS, macOS, watchOS, and tvOS. - AFNetworking/AFNetworking&lt;/blockquote&gt;</content>
   </entry>
 </feed>
