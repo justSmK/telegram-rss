@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-24T23:22:21+00:00</updated>
+  <updated>2025-12-25T01:54:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Understanding SwiftUI&amp;#39;s Grid container https://t.co/uRMS4JyQDy</title>
+    <published>2025-12-25T00:17:14+00:00</published>
+    <updated>2025-12-25T00:17:14+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25605</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25605"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding SwiftUI&amp;#39;s Grid container &lt;a href="https://t.co/uRMS4JyQDy" target="_blank" rel="noopener"&gt;https://t.co/uRMS4JyQDy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZUCvUa2nN9TSxqwFM815CDi2DWS2265sqIdizDT7Ojssbcrj0RmAkRFQdArMwmA08uFqKC4dpNXEGUhMEW04kmV9sqHvXJcEZBNUPlwr0-gshMNR5jVSOaqjUK3broOIaK_MNR5MRGue-YKCZpUlVOGEmaa9WQFa6GPWWX7_NLKluoAP0QXKEEJ__33XggWaK3-7aq2k86Gq9wEG_kofS2sAPLaCW-ti-_G-WKZp1UJm9DYHmvR_TpTYItnwIEF6yIJv3IuFLnIdf_lKx5DTWtwYQRrkrxPL0CewaOgHfWLEOAgizFfObHWNBWOEnqsZuny7bHUwPkJkwlgDfhqpSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;
+Understanding SwiftUI&amp;#39;s Grid container - Tanaschita&lt;/a&gt;&lt;br&gt;SwiftUI’s Grid container lets us arrange content in rows and columns without manually nesting stacks. In this article, we walk through how the grid works, how to structure rows and cells, how spacing and alignment behave, and where the limitations are—especially…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 https://t.co/bgcRhHRfBa</title>
     <published>2025-12-24T19:57:11+00:00</published>
@@ -93,7 +105,7 @@ GitHub - noah-nuebling/mac-mouse-fix: Mac Mouse Fix - Make Your &amp;#036;10 Mou
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Update on age requirements for apps distributed in Texas &lt;a href="https://t.co/uWbgoyXkWa" target="_blank" rel="noopener"&gt;https://t.co/uWbgoyXkWa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;&lt;img src="https://cdn4.telesco.pe/file/mxYVmwf2fGAbGEb56nFg3YadEZXbKl6qqOGtiXhfLtGbcy2DSg3HSwH24W9XmjJ0MAg5JZdLPVptQWMt1AeCtcJyKaZVi4h_5O7UREiRMz8NxdJ1nexkEHfUd56e53xS631plGU5JkUEpFtaDFcpG_YMi6g7yJpfppXz30VsMmt2DiNuZcUkhx6M8q9LQl0uSN8SixNI0o9TGOfoOxdxpSEtdJrPEY9J72k3Vg-Sv0JkmuBQhSMyK6IPcdBVCzcEpYare8NlriB2ivAfnr70N_EDQh6xi8Xf2Ym2TtJGPem3OyqYsfxeOKaL-qSvzGR0oZmCmskOVitdiyIZ12oLTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Update on age requirements for apps distributed in Texas &lt;a href="https://t.co/uWbgoyXkWa" target="_blank" rel="noopener"&gt;https://t.co/uWbgoyXkWa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;&lt;img src="https://cdn4.telesco.pe/file/RCrFwDE-U2ExcNvVbBQI6G068aBy50E0365SaRD_yHX9soW6UmB4yK_rZg6UuHobrwGI4G3LNql2u7uVDG-DBvFRGJDlXJLXYGH3PN18kHUYpmv7czOZ3SO9k0YEK_VmIEQAw4kRpbMe6jxrwj3sOCNkxhNHNm9zXhsPFCHt_pOYQfbSxP74ul2Uwc7_q-3u8as8jcKvPrb4VUwUuE_ySNqZX1Zz5JmElu1LLcJmml9KNReu67rEPgUB4Z9kRqu90HQno074lX2RRQpa4QZNfQm5eO_Iy0BqJnxnKVgtAKkh0GdBtdLl-a8c5EkfUqW-sm-YdlpNLoauGt5ZX5_tEQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uWbgoyXkWa"&gt;
 Update on age requirements for apps distributed in Texas - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -213,7 +225,7 @@ Issue #145 - Adrian Eves - Indie Dev Monday&lt;/a&gt;&lt;br&gt;Today I’m featu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Whisky-App/Whisky &lt;a href="https://t.co/xz0MzlHXhu" target="_blank" rel="noopener"&gt;https://t.co/xz0MzlHXhu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;&lt;img src="https://cdn4.telesco.pe/file/lSWJ1QfuMgeKK_NXX84d5Kg5Sw8rvlAuklpioBmf015Ko2kQCBZGMD7QixaE7firEP7ni7fNpU-bZl07PxjopMSr1Az9E_oFXFHgZ2FYs5HPyomwyrmTlq7CofTtStzoqTG_8pnsg5XqlK-ba68LWyJK5rKwodI6VHkQa6jdyilPG0uQ7KCEo9xto8C-cvc55uLpy0NFFWQCnhCiWckp0hIIfHd13knIeAD0Od2bs_V6J7Ss6ltTXfucuC5KUkCtmHVXydJXiUrtx2460rwy-W5rW9mjYTTlM6_ceknsSjFuWqeVwQqvS86P8IVbxI0B-dyLNM7tnowcvbcGfGbAtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Whisky-App/Whisky &lt;a href="https://t.co/xz0MzlHXhu" target="_blank" rel="noopener"&gt;https://t.co/xz0MzlHXhu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ifs96YuslkYOQ5cki-0vt2QgJkrz43alzB6GeZNC6aMdTSg7T9HphB2va7jYk9cN8pcDmHoBbROXzkna0TPwbznwS4hEgK-s6QU7WcesVv7_n3jPA_qgyLpC3zthaEnzJCsiVF5bzOgtd1iDZxi60Uvjzl4RSmJWt4AUBkvuJsu9xX4z5tJus3c1va2N73wEXJ9qind4qdtxRirAWfxj4DNKWQrIlH8669N_AQhVbmZbS8mE1jh0UwyH7qNZdfh69unxFKyYHxwvoAt4uZxjIYbZkNO1I5gpCOzNA4z3cB7_Mqa1ETrtjehIUlVlHYLyZVmfkdwYRfniHpDyr3WDTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xz0MzlHXhu"&gt;
 GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI - GitHub&lt;/a&gt;&lt;br&gt;A modern Wine wrapper for macOS built with SwiftUI - Whisky-App/Whisky&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -225,7 +237,7 @@ GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI -
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/Bn-NeHuLX6rTAxlITwymLM2YhHywxzoEfboiz6AVwJlEqViTw6Tebyym29xJN376zM_Cpz7zS6xmP6w_oiyWiQcR3yeJ-fpyqJSUPthGQJKI7sMFVIRUvcEOKoRk2nQJvuIkWLY7dkY7pxyDrIGCNARFE4vDVGlwwdyQ5tFshqROUR-Pz6bVM9pIbI5vIHXQH693XXMFsls1GjfMmYi5L1fO60v_KXldtZp1nvZzf21kZHGQp0CN3Ae3rbzker3upznqUDOZWQXb3IP9_lusHTn-9T1axA8LRB-eH_Y2dTFMIU4dv9TvMseXXHU5BR7ChL5oeCxCfl6ay64weL3KJw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/SgL-djWtm9KzSWvlxAPkCCOVmqWM9TVtQmBRiA2J8SrwI_dJQLT43AOUzxrUPlrfAWUjf85OmDftYkqTNtwOKXn1zXEBAa98b8U02sUTxIqTjtbPcriH_TST3zLud8xJAif-Q_L80PVbIosVk5hCrevQjLKuma0tMGU6CSZGyPKg1qHOMtxcQQbgH2oQdS57wisl35Ng_Ykdzz8we8dNLCEzgHxkLBAH69yMbdexVtBu1Ijl_7wQ6CZa907r6eoWLpVUMtbn097Qhldc1_swnFC47nEXmJziK73Cq8sPHtv9Yz6G1S6AGr6E3wbOCG--sHPQ8SjLXErRyxwGETSgDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
 GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,19 +249,7 @@ GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : AFNetworking/AFNetworking &lt;a href="https://t.co/k7niRUN3l0" target="_blank" rel="noopener"&gt;https://t.co/k7niRUN3l0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;&lt;img src="https://cdn4.telesco.pe/file/D4itaT7Qduqkr-ZyGGHnOWFnUXzrBuIjbrskLe19edj4GSLwFzY56eAF0rIEbLSCFsonc6Izd1xRTvxBY9DnFZ2IWY1Za7TZH3zIV4lqX_FXdMFgVHcJ2Y3JdRb_YxG2wWVvU8HZGhlUp4gwigwWbdWlm42wZ9D83t6OBEkxOhLRF32EnSTk3w14OLimVafDD697yzjGV5AdHLf2McbPbQTHS6gXicZ564uMfBk-jiep_oLfiVl83c3BzsvgGHgkdRdU1X34PSlnNQ8HXKp-tBYKNWg1UxzzKk8_iP-Py6S6ceQ5kPOYznHalMtmLLMCFNeNcMHvhV1pnj3jD5VlVw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : AFNetworking/AFNetworking &lt;a href="https://t.co/k7niRUN3l0" target="_blank" rel="noopener"&gt;https://t.co/k7niRUN3l0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;&lt;img src="https://cdn4.telesco.pe/file/XVieSoqqeh0OVQtCOFIfNpNkntY_B308ODZT8xrx9Ad5LbNYc8VFA9IoAfrOkUYOps9HudvM21aAdlslnFGACZhJg4TfsyXotqR001JtV7Dn1fpTAUa222KnkONUOgNWZjNV5aCXOQzczW9A9N0aZZAOQIIwHAH7sSOq8TIXLToT3-wsyrcLknd-TC7elE0mfLvzuL5yXmFos-cJV7X2m7byoXAALzlN1xMb0Bmu5pdoE2YsMqCgTYiMhef3R07mfLgaqe-dfdHtxTJX1i6Ci_Fu4S4QfsOEIV5QXUxDBWHdlA4dWoHBurNzM3Ls6X5Ej17ZJ8USEipyulpxchPDwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/k7niRUN3l0"&gt;
 GitHub - AFNetworking/AFNetworking: A delightful networking framework for iOS, macOS, watchOS, and tvOS. - GitHub&lt;/a&gt;&lt;br&gt;A delightful networking framework for iOS, macOS, watchOS, and tvOS. - AFNetworking/AFNetworking&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Upcoming Conference Talk https://t.co/xlx7taqk0l</title>
-    <published>2025-12-22T00:37:43+00:00</published>
-    <updated>2025-12-22T00:37:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25585</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25585"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming Conference Talk &lt;a href="https://t.co/xlx7taqk0l" target="_blank" rel="noopener"&gt;https://t.co/xlx7taqk0l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fa80fAw4olV7T5agMuhLgTFlVMxifhXymlDJzV_0rop4BZO9vEdYYov1CAKOm2t4E15x2rCssTbZDnyqnDYYEwOSYgy5bjbrSbeCdwR05nVgXNw6XIp0HNTq54tZihavtR-C02CAowx1qCTH-0N9Pi4OtWx8mE1ovEZ6GnkoHDc84aye0niQLoxbtnha71ixEnU0dOBoFHn8tnhJzi7SbuAtcXKaxrY4ftRGrs-jCsfTxr9KqlAxjC40I4UcW0PVbC2b9J1J4xTjnnziSrtMyIofsVEqyzXLgy-qInQ_Ae6VcT26Py7rSO7BYXn7NUjm2Sa9J7FGBwVOp4GNbpOMtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xlx7taqk0l"&gt;
-Upcoming Conference Talk - Ash Furrow&lt;/a&gt;&lt;br&gt;I’m very excited to announce that I’ll be speaking at the Swift Rockies conference for iOS developers next July in Calgary. This will be my first conference presentation in over five years&amp;#33;&lt;/blockquote&gt;</content>
   </entry>
 </feed>
