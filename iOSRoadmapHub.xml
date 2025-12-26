@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2025-12-26T06:36:57+00:00</updated>
+  <updated>2025-12-26T07:24:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">КАК Y COMBINATOR УЧИТ СТАРТАПЫ ВАЙБ-КОДИНГУ: КОРОТКИЙ...</title>
+    <published>2025-12-26T06:38:35+00:00</published>
+    <updated>2025-12-26T06:38:35+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/307</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/307"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iOSRoadmapHub/307?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/mIuzFMWfmiiIGG-9XFVSqMZhq9DKvoZCNApeJwfZHu4kPzHCekPT9L_ixl3lwMGM0jVkzbfLFtaAdQ3WNDT_UI8uG8NTyO0Xjfc_JrFlurawohMjrsUunJ9OV1neI9Amw55FJZxSMokrNF4870MMs0I5_ODBG97FZ7HhZEWGELpwIgZY34RYSr2GdsCu1kaKqsIVxde0FM4fifup50pdcURRwpxS_lnYBB6HNNj_1D3jUWlVmbI5CS4L7H3bWAz2ZCt9Ythd_riGCl6Kac1f8p-trfltbujD1oO-SBXXjddFwT0OsO2fqBXBi0LjDowQ28ASfp91b3d-5pN-0M7wRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iOSRoadmapHub/308?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/nhkpM_gyMB5QnzROGgTtA0-nB8ee2TgDRnpPf_2mMtpRVnP10YYyNLbgiy0XtlPtickWu1K4maxnbgyGDkoxCWM1qZKMbIb6LInaBz3QrM-GUqGkKe4GQyXWOBiW5MKYC4ZeeaGd58c0wjHMda8mh-2-7sZlocrgiLvQkJr_hPVbPn2aGGWsbhrSMWCvjNlQ-THE-YBRLpBVW2lUxFYUmyjp6tGcH6ddN5VT5zBIiWxoH4CGhHAnCQptAW6I48320_NeC5_FwLbPpJ6th7BF5HTbBpgBm90lHejtr3QkED6uje5xMW14GWD_t8atiRtRNaENEqLS_XshRBUXLzJkxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;КАК Y COMBINATOR УЧИТ СТАРТАПЫ ВАЙБ-КОДИНГУ: КОРОТКИЙ ГАЙД&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот гайд основан на нескольких компаниях, которые в том или ином виде используют vibe coding.&lt;br/&gt;&lt;br/&gt;Не знаю кто им помогал, но ощущение, что рука технаря и не сильно то коснулась данных документов.&lt;br/&gt;&lt;br/&gt;К примеру любой джюн скажет, что фичи лучше деливерить изолированно - Git Workflows.&lt;br/&gt;&lt;br/&gt;Но если-что ИИ это не остонавливает от:&amp;quot;&lt;b&gt;Похоже мы не на той ветке, надо смёржить&amp;#33;&lt;/b&gt;&amp;quot;&lt;br/&gt;&lt;br/&gt;В целом материалы от части полезные, так как обозначают необходимые на &lt;b&gt;подумать темы&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Но любой вайбкодер со стажем скажет и покажет, чего и где не хватает.&lt;br/&gt;&lt;br/&gt;В начале января уже будет воркшоп, где поделюсь своим опытом на основе мини апы, с конкретными кейсами, ошибками и нужным материалом.&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Доброе утро, так как у бусти постоянно проблемы с...</title>
     <published>2025-12-24T07:25:08+00:00</published>
@@ -257,27 +268,5 @@ Git. Скачем между ветками как древесные лягуш
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/288" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23mini"&gt;#mini&lt;/a&gt; &lt;a href="?q=%23app"&gt;#app&lt;/a&gt; &lt;a href="?q=%23%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE"&gt;#сообщество&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Чтобы вы понимали, разработка идёт уже почти 3 недели, позавчера была начата V3 с нуля, так как V2 был отфармотирована Claude Code и при этом он потёр коммиты для отката.&lt;br/&gt;&lt;br/&gt;Теперь только через pull-request&amp;#39;ы и строгий GITFLOW с защитой Master, вот такой прикол этот **** отчибучил, причём такой команды в описании не было, он просто подключал Redis и переводил на ZOD архитектуру для большей типизации ошибок, и по какйо-то причине РЕШИЛ, ЧТО НАДО ОТФАРМОТИРОВАТЬ МНОЖЕСТВО КЛЮЧЕВЫХ ФАЙЛОВ и ВИДМО С НУЛЯ НАПИСАТЬ КРИВО, А чтобы придать бодрости духа - потереть коммиты, рил, как-будто дэмон в него вселился вовремя работы, вот так &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9884.png')"&gt;&lt;b&gt;😄&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Так - что всем тем, кто считает, что ИИ уже завтра заменит программистов - большой привет&amp;#33; &lt;tg-emoji emoji-id="5431538418456744322"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918B.png')"&gt;&lt;b&gt;👋&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Я понимаю зачем нужны associated values и умею с эти работать и применять</title>
-    <published>2025-09-08T06:26:31+00:00</published>
-    <updated>2025-09-08T06:26:31+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/287</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/287"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">			Я понимаю зачем нужны associated values и умею с эти работать и применять&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;17% - 100% / 100%&lt;/li&gt;&lt;li&gt;18% - 80% / 80%&lt;/li&gt;&lt;li&gt;11% - 60% / 60%&lt;/li&gt;&lt;li&gt;18% - 50% / 50%&lt;/li&gt;&lt;li&gt;7% - 40% / 40%&lt;/li&gt;&lt;li&gt;29% - Не знаю / не умею&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Пока так, асуждаю&amp;#33;</title>
-    <published>2025-09-02T20:08:48+00:00</published>
-    <updated>2025-09-02T20:08:48+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/286</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/286"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iOSRoadmapHub/286"&gt;&lt;img src="https://cdn4.telesco.pe/file/AMiOgwDES9DwQqK_K5kUWZ0UK3q11yG7U9fqOXCbYFHObMWRMgyHDAya0RC_ZZ-V0hEyR5YZF2I_cLvXIOQOaSmFvCaC18Kqjb92KGvYLvutYyfftoUWB__FuOSlnRdIGmpgUQw1EvNamg5VbRnA_GSHWCzoCWNMIDo7mzwWs5eEDyL8RzVk32ObNvWxR34sjkTwbeDipfCjBFx3L3yKk-8H-aTm-xhV489SCUze2ysOZWkMo4aAiqcCMoA1-LWtH4gQzVK5eIRXMkDav7QLDhpdKSZWfoVfMXGjv-gWAboEbciXbZeTFn0HLCxKm9jXZve4AEzTyHqX8V_w-eX92g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Пока так, асуждаю&amp;#33;&lt;/div&gt;</content>
   </entry>
 </feed>
