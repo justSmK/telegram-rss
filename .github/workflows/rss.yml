@@ -76,7 +76,7 @@ jobs:
                    -o "$TMP_FILE"; then
                 if [ -s "$TMP_FILE" ] \
                   && grep -Eq '<\?xml|<feed\b|<rss\b' "$TMP_FILE" \
-                  && ! grep -Eq 'Bridge returned error|cURL error|HttpException|Trace|&lt;div class="error"|class="error"' "$TMP_FILE"; then
+                  && ! grep -Eq 'Bridge returned error|cURL error' "$TMP_FILE"; then
                   mv "$TMP_FILE" "out/${SAFE_NAME}.xml"
                   echo "OK: ${CHANNEL} (attempt ${attempt})"
                   success=true
