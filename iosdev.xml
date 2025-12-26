@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2025-12-26T11:47:55+00:00</updated>
+  <updated>2025-12-26T12:48:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			Сколько кода за вас пишет ИИ? Рассчитываю на честный ответ&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - 0% (не доверяю или запрещено в компании)&lt;/li&gt;&lt;li&gt;26% - &amp;lt; 10% (обращаюсь изредка, сложные алгоритмы)&lt;/li&gt;&lt;li&gt;27% - 10 - 30% (тесты, бойлерплейт)&lt;/li&gt;&lt;li&gt;36% - &amp;gt; 30%&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Сколько кода за вас пишет ИИ? Рассчитываю на честный ответ&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - 0% (не доверяю или запрещено в компании)&lt;/li&gt;&lt;li&gt;27% - &amp;lt; 10% (обращаюсь изредка, сложные алгоритмы)&lt;/li&gt;&lt;li&gt;27% - 10 - 30% (тесты, бойлерплейт)&lt;/li&gt;&lt;li&gt;35% - &amp;gt; 30%&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Сатирический взгляд на жизнь разработчика в...</title>
