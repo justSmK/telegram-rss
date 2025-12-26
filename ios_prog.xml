@@ -1,155 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Telegram Bridge</title>
+  <title type="text">iOS Такой 🍏 (@ios_prog) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/ios_prog"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-26T09:28:27+00:00</updated>
+  <updated>2025-12-26T10:16:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Bridge returned error 0! (20448)</title>
-    <published>2025-12-26T09:28:27+00:00</published>
-    <updated>2025-12-26T09:28:27+00:00</updated>
-    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
-    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/ios_prog        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #20 lib/http.php(185)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@ios_prog    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fios_prog&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fios_prog+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40ios_prog%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    VerifiedJoseph&lt;/p&gt;</content>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+В iOS 26.0+ используйте GlassEffectContainer, чтобы...</title>
+    <published>2025-12-22T06:27:57+00:00</published>
+    <updated>2025-12-22T06:27:57+00:00</updated>
+    <id>https://t.me/ios_prog/693</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/693"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/693"&gt;&lt;img src="https://cdn4.telesco.pe/file/Av7jHR9XeyrpG6kpyq0OYydxXQCN_kkM5WtYJMFj1GbToAdsw6KSj_uPKOYslaLl8Ncv_JBoBal_ssU0PcxjZeBW4SpSd1vBL6sxGFkGxvrOvo9re4Pw1r20uGO2By0AF84KV6zAquK1Au4DGuTofS27OszE5BOnXiLHbF7PDeYWzQ-wegzJ_Cfz2fbQf2MQ-mUS8-5SFkMQr3RwB4AHH1ofvvIUV42J0f6Dia-_kimPGa4H8YuPfsW5-utiZFtUzJEveVbPeYD0WD1yvW7Hw2s6UmrfNs4uizSpyuKr52M1OOjcj7GeOw7krSV7RrOh2CEbJcwZRc7G5_csxfv_nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26.0+ используйте &lt;code&gt;GlassEffectContainer&lt;/code&gt;, чтобы объединять находящиеся рядом glass-вью в одну непрерывную форму Liquid Glass.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🔥 Живой стрим у наших хороших друзей: 2,5 часа кодинга с...</title>
+    <published>2025-12-19T08:04:11+00:00</published>
+    <updated>2025-12-19T08:04:11+00:00</updated>
+    <id>https://t.me/ios_prog/692</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/692"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/692"&gt;&lt;img src="https://cdn4.telesco.pe/file/XVCu_rjPTvJ87NgGjcFw-BBBTs6aGrk4B-bKicFsGxXXQqpDx_udYY25TkdcYPHf2LCpUJ9WtmPpacUfJmnlPfnptEirOurIAFK2tEQO7hUsqVDhI8mOB3TIEDwXw2ISSh0HnRbl2T1PaCr_SvnRDNUX8O6Y8PfXQYgY4bZmEfknV8kA2xSoLXdbfJFjYSZJkKNru6oTCQaZx3jbIKRPcWiqYQ_FViJfOedFCOtDFXleU_xVZMffKZ7_WdoDMebx9BGQMgNdhqDXG5KoRVShlyRfB-hiTgFzpri52qjY0OqMy_CVdt500lsSgm3v1ycluVsRyReJPmK6wN_YKpTJpA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt; Живой стрим у наших хороших друзей: 2,5 часа кодинга с ИИ&lt;br/&gt;&lt;br/&gt;28 декабря, воскресенье, в 21:00 по Москве мы с моим другом, Senior Go-разработчиком Игорем Геренко, устраиваем большой лайв-стрим, где будем реально кодить с применением ИИ-инструментов и показывать, как мы используем их в рабочем процессе.&lt;br/&gt;&lt;br/&gt;Что будет на стриме&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png')"&gt;&lt;b&gt;👨‍💻&lt;/b&gt;&lt;/i&gt; Лайв-кодинг с шарингом экрана&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"&gt;&lt;b&gt;💡&lt;/b&gt;&lt;/i&gt; Реальные задачи «как на работе», а не учебные примеры&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt; Наши живые флоу работы с ИИ:&lt;br/&gt;&lt;br/&gt;что поручаем ассистентам,&lt;br/&gt;&lt;br/&gt;что дописываем руками,&lt;br/&gt;&lt;br/&gt;как проверяем и улучшаем ответы&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"&gt;&lt;b&gt;💬&lt;/b&gt;&lt;/i&gt; Постоянное общение с чатом: вопросы, разборы, импровизация&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9884.png')"&gt;&lt;b&gt;😄&lt;/b&gt;&lt;/i&gt; Неформальный тон, шутки, «живой вайб», без занудных слайдов и официоза&lt;br/&gt;&lt;br/&gt;Кому будет интересно&lt;br/&gt;&lt;br/&gt;Разработчикам любых стеков – подсмотрите, как сеньоры реально юзают ИИ в работе&lt;br/&gt;&lt;br/&gt;Лидам и техлидам – идеи, как встроить ИИ в процессы команды&lt;br/&gt;&lt;br/&gt;Джунам и тем, кто только заходит в IT – увидите, как думают и принимают решения опытные инженеры&lt;br/&gt;&lt;br/&gt;Всем, кто пользуется ChatGPT/копилотами и хочет делать это быстрее, умнее и безопаснее&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9385.png')"&gt;&lt;b&gt;📅&lt;/b&gt;&lt;/i&gt; Когда: 28 декабря, 21:00 (Мск)&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FB1.png')"&gt;&lt;b&gt;⏱&lt;/b&gt;&lt;/i&gt; Длительность: ~2,5 часа&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')"&gt;&lt;b&gt;🎧&lt;/b&gt;&lt;/i&gt; Формат: кодим, общаемся, шарим экран, прикалываемся – максимально живой и интерактивный стрим.&lt;br/&gt;&lt;br/&gt;Приходите в чат, задавайте вопросы, бросайте челленджи и идеи.&lt;br/&gt;Без зрителей стрим – не стрим, так что забивайте слот в календаре и залетайте&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"&gt;&lt;b&gt;🚀&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Добавляй в календарь&amp;#33; Будет жарко&amp;#33;&lt;br/&gt;&lt;a href="https://calendar.app.google/PUXTPqNfbUonNGY9A" target="_blank" rel="noopener"&gt;https://calendar.app.google/PUXTPqNfbUonNGY9A&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Codable в Swift&#13;
+&#13;
+Быстродействие мобильных приложений —...</title>
+    <published>2025-12-18T11:48:50+00:00</published>
+    <updated>2025-12-18T11:48:50+00:00</updated>
+    <id>https://t.me/ios_prog/691</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/691"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/691"&gt;&lt;img src="https://cdn4.telesco.pe/file/iCGh3NBQDCmlJ2mk31XgmGMFUBjlYUxFf6I4rFUO6hXMqKZTV6SjKNBT-QTRgh0oT5_X5iuA5BsfWZJ3d_sNuSPb_CgSDYFbGhSsC2HvwAyOhX9FNaBrWZv6qj2q2e0vM0Gqbwc6_np8yUVbi5brRm5gN5Al6tcT7LIYXSKN7_l_iHYQ8qSmtRM-XkLsU07-avhCck-jKxFFFT088QShpQDdaKVpvL1SX5n5_SE_-xozKbzNQCaKMThIowS-ERHCd4e6sk7Ylp1HTJYlVYdX7t9mmMUI7DtOecWeNZ0sRprMJVpvHi39ADTkPBx4fDM5yECclXYsUOAcr1leyoaPxg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Codable в Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось множество исследований, где оптимизации в сотни миллисекунд увеличивали конверсию и другие важные метрики приложения.&lt;br/&gt;&lt;br/&gt;Особое внимание должно уделяться производительности кода в стандартной библиотеке языка, так как этот код используется почти во всех приложениях, которые написаны на этом языке.&lt;br/&gt;&lt;br/&gt;В статье сосредоточимся на анализе производительности внутренностей Codable: KeyedDecodingContainer, KeyedEncodingContainer, в особенности на JSONDecoder/JSONEncoder.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+Используйте submitLabel(), чтобы изменить кнопку...</title>
+    <published>2025-12-16T10:57:31+00:00</published>
+    <updated>2025-12-16T10:57:31+00:00</updated>
+    <id>https://t.me/ios_prog/690</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/690"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/690"&gt;&lt;img src="https://cdn4.telesco.pe/file/dHXdjNnMG150lKRaEdZA2fjkMF5xUnLsbglgnElW7GZ3QfqN4wWQ0WOyC1gmvwAZfXxentbDmZiJi3NpeHuzxglqr68D8M5b6qmtZc9E5hDOiQLK_TizZltCHrXQeFY4tYqAH2mOnW8hvOTK3zV4iAhwRdAi8xMU3kZBwSWkAic-k12_qoLs767MKWMCYntp4B0lUkFqOPD7sFoZjU4A2sdobkyCXv01bRAi6p5Dv_F-a_BkQmevVxx2IfHhPU0wUNJQlbfn3652Br1eVJ9B63cakk922Vu6tp7Qw_Xa08LIZOitr97O9XvU4_JrwBMrLXs58BwAD-EdrUdBr1W6Uw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Используйте submitLabel(), чтобы изменить кнопку отправки на клавиатуре на варианты вроде Next, Join, Search или Done.&lt;br/&gt;&lt;br/&gt;(Обновлено для iOS 26)&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+В iOS 26+ вы можете добавить деления на Slider,...</title>
+    <published>2025-12-15T08:28:34+00:00</published>
+    <updated>2025-12-15T08:28:34+00:00</updated>
+    <id>https://t.me/ios_prog/689</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/689"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/689"&gt;&lt;img src="https://cdn4.telesco.pe/file/pjhVxWGl6fi1W83BYXDC57I8DprFEll1nIs6gzubQwJXSdz49iMFeuh2-oOA2cBbBrAw1WyVGoe7ghkvWzjvTcXDUlsdf-xQXME4wYAUSJuQ6Yg7Mbp_x_OMvHniBLYRc1jnYX3ht4vX_WmhFyseaZcqvvGzqQ_pPBjgXfBy7uoreB4nNRYNAXwc0pmNDrKgqPfj2cV-ianXEN8cpzJIrHdr0dcB2CMjPRJB5EDc1ugmWXss0TMNzauaNgTi19qo-MhcUeSg8Xw1TzXflrUa3fd2ObKm2p5TdQCyxaWxosmcV0xOs2UtDc0lADo9OkHNRluxAAeFBKa91Mrgm79sdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26+ вы можете добавить деления на &lt;code&gt;Slider&lt;/code&gt;, используя параметр &lt;code&gt;ticks&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;Отлично подходит для таких вещей, как яркость, громкость или уровни прогресса&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Итак, я iOS-разработчик и ищу классную команду&amp;#33; 💎 ...</title>
+    <published>2025-12-05T07:26:28+00:00</published>
+    <updated>2025-12-05T07:26:28+00:00</updated>
+    <id>https://t.me/ios_prog/688</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/688"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итак, я iOS-разработчик и ищу классную команду&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928E.png')"&gt;&lt;b&gt;💎&lt;/b&gt;&lt;/i&gt;  &lt;br/&gt;&lt;br/&gt;До конца декабря работаю в Premier — в компании я уже 2,5 года.  &lt;br/&gt;Суммарно в iOS-разработке больше 4 лет.&lt;br/&gt;&lt;br/&gt;Активно ищу проект и команду, с которыми можно расти дальше &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"&gt;&lt;b&gt;🚀&lt;/b&gt;&lt;/i&gt;  &lt;br/&gt;&lt;br/&gt;Последние пару лет плотно работаю с новым стеком: участвовал в разработке Apple TV, писал и внедрял тесты, создавал сложные UI-элементы, переписывал проект на новую архитектуру, настраивал аналитику, фиксил краши и выполнял другие задачи.&lt;br/&gt;&lt;br/&gt;Если ты или твои друзья ищут iOS-разработчика — напишите мне в личку &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918B.png')"&gt;&lt;b&gt;👋&lt;/b&gt;&lt;/i&gt;  &lt;br/&gt;Буду рад знакомству&lt;br/&gt;&lt;a href="https://t.me/new_repository" target="_blank"&gt;@new_repository&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Каждый день появляются новые инструменты, которые автоматизируют рутину, пишут код, создают дизайн и помогают тестировать продукты.&#13;
+&#13;
+Но вот главный ...</title>
+    <published>2025-12-04T15:34:38+00:00</published>
+    <updated>2025-12-04T15:34:38+00:00</updated>
+    <id>https://t.me/ios_prog/687</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/687"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">			Каждый день появляются новые инструменты, которые автоматизируют рутину, пишут код, создают дизайн и помогают тестировать продукты.&#13;
+&#13;
+Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Тестировщики&lt;/li&gt;&lt;li&gt;11% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;10% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;8% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🍏 Apple планирует продать 247,4 млн iPhone в 2025 году, что...</title>
+    <published>2025-12-04T09:53:09+00:00</published>
+    <updated>2025-12-04T09:53:09+00:00</updated>
+    <id>https://t.me/ios_prog/686</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/686"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/686" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/686"&gt;&lt;img src="https://cdn4.telesco.pe/file/dAe36IOyVy7N7Anm5cVnryhHBsWrbB_lW6h7xxieZsgO0XHgZNYNk7QCmafrvFOKgZXZg0vqagkGBWS6Mh9JuNHw4ytzSXIfL-gNyLU5FcUM2vPez9_0sudYT-U2IbAuqcXCOiMZggymOfV0gWDR-ghCdYhA28Rh_kLNLksDahlQhNlK3hqI7Y02KPyD-mSmAoZEAjPShTkKSjKTjWCRMxiNR-5jafZdYxmm0Dk2_eaL4a57yhnIssNgL2vyVa7lCVniNKw7VjzpWHlkM3jwYhAgY6I7-PXOIweOzWHA0mKoEPGDnUmZ7RRP1iy63GigQ15PrLy6QFBa1ZgavmfIAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5398012024003246287"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Apple планирует продать 247,4 млн iPhone в 2025 году, что станет рекордом за всю историю компании.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Навигация на SwiftUI: чего не хватает и как исправить&#13;
+&#13;
+В...</title>
+    <published>2025-12-03T08:42:42+00:00</published>
+    <updated>2025-12-03T08:42:42+00:00</updated>
+    <id>https://t.me/ios_prog/685</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/685"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/685"&gt;&lt;img src="https://cdn4.telesco.pe/file/kgRKx9dZGS4sEOBuWdiIHJjc4PjLHFuv4sUSKpoW5iVjzswSMILqrDSmUj5q-j1VivRvXqXy7xVmPWC57m0FvOj6PDQmBlsxPlpq3J1BlDoYcCI9PEUoMUFlCl8MKgWxO5msQ1gK8ZngVWnsG3N_JQ_Zt0_j9eN1pQluLiEfD704OolU8UeChoHY2h2-tnpBC5CDrzV6cJ7df6HvkYKURcNj6xXWePTnlzGddOcr0smOkbAMOYdas7MQGxoX8bOb4UYFJUXQgCYY4R6WTs168am5hQKYMiI638TsACR5KuFseDdftG3JqW90ns3jZQQbwCKnX0OcEU-gNHxVgz4l6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Навигация на SwiftUI: чего не хватает и как исправить&lt;/b&gt;&lt;/a&gt;&lt;a href="https://apptractor.ru/info/articles/navigatsiya-na-swiftui-chego-ne-hvataet-i-kak-ispravit.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;&lt;/a&gt;&lt;br/&gt;В статье iOS-разработчик CleverPumpkin Даниил Апальков разбирает ограничения SwiftUI при построении сложной навигации, с которыми команда столкнулась на одном из своих проектов. Он рассказывает, в каких сценариях приходилось подключать UIKit, чтобы сохранять стабильность, показывает варианты подходов и делится выводами, какие инструменты выбирать для контролируемой навигации.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+Вы можете разместить тулбар с элементами...</title>
+    <published>2025-11-26T13:27:52+00:00</published>
+    <updated>2025-11-26T13:27:52+00:00</updated>
+    <id>https://t.me/ios_prog/684</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/684"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/684"&gt;&lt;img src="https://cdn4.telesco.pe/file/iY3Y8wJwrK5R_m1EYmYIjr2FgpKjc2y97RQGPeRUFnil0OkufbKn0yQTn7SvpZsHy_PFH_XU70KZ2zi_4HN39Yzl8PONslUyRWLtSlTNa9YnJL-TXh8c8H9eQuDPflG8CZq40MMEDp428jfvesQhIdYB7w9JNlxagNFcW8HxrYNjmj8_iH1Vd9FwDJzn9JmiSPO5OLjjp3Se3pATYVBTC07OE1vQePISl2RUGG01y4-B9NSfkbYjkd3dzUgJTRHYufUbg992HbRGTQdRix0P89aSRp2FGYcNyjy5e4aceqJPCFwIS4hRwV-MBdL4Q3UDBxOXydPUtmkZS_0b1MaBjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вы можете разместить тулбар с элементами прямо над клавиатурой, используя модификатор &lt;code&gt;.keyboard&lt;/code&gt; в placement.&lt;br/&gt;&lt;br/&gt;Отлично подходит для AI-чатов, заметок и любых интерфейсов с быстрыми действиями во время ввода текста.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+В iOS 18.0+ можно использовать .presentationSizing(.fitted)...</title>
+    <published>2025-11-24T06:39:44+00:00</published>
+    <updated>2025-11-24T06:39:44+00:00</updated>
+    <id>https://t.me/ios_prog/683</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/683"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/683"&gt;&lt;img src="https://cdn4.telesco.pe/file/RKMIx9vgjpbBKIsyZGvPrnMWMlKJaHarVi317V1SfVYEr1nEwRSv2cJGEiGcXT9-uk7WTu0vW2DQyr2RPylg8TWDr7N6pEqDlMLH1Az8XQq7adRCD9GzF4XXvirpxYJs9JyjkvTrMBUQXyDXavHHhtau7R1w4sx5dSiKTHcCIu6c631UGt48QA95PJuXAK_rH1-gq0Eu3mBkW1GKJRo9dxbUoM9ZS-AxBEtgYAkevFvygD5P0J9yVYHw2EQ4faWm_mICzeDdZ3p1VNa1zkG74plZ6qVu9iR6snOtQjv_s2I7_ZTCUa1uZV7ubOsjscXuz8ga1jHNHrc8BQRHD4qvDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 18.0+ можно использовать &lt;code&gt;.presentationSizing(.fitted)&lt;/code&gt; для &lt;code&gt;sheet&lt;/code&gt;, чтобы модальное окно подстраивалось под свой контент, а не занимало почти весь экран, идеально для компактных попапов в виде карточек.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Маленький совет по SwiftUI: получайте информацию о сети и...</title>
+    <published>2025-11-21T07:55:12+00:00</published>
+    <updated>2025-11-21T07:55:12+00:00</updated>
+    <id>https://t.me/ios_prog/682</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/682"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/682"&gt;&lt;img src="https://cdn4.telesco.pe/file/SZpHrI1ABkOXFL7EV6Ffno9J35Wr4IqL3MxVTHQL7WWkDuNz1q__BQJxRsKG4KJbtru8viRfygcpD4UBlJt8bdO2iQd11UW_oVxxxWVkQ3N5BtK8f9CEocu3xw3hz3oIbCXB-qfe7jdgcMN0BOh7zL1Xw6-0iXUOfq4kpE7iJUEoBzQ9vOz4DW_Yii_j55OISPenSa2yIw8NrJiPtA7GQryf5f_otlyr-PiG-VMNZV2OKQZprURRnnKjTdyC-FyIXrcv5aWNeJRGyqVNu5yhvDLKgn_Vv_moFq2WMsxnF-Cbop062_mK5xvCAVd6pHMIZIsVCa1pVY5x7JxTIp5HEQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/swiftui-set.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Маленький совет по SwiftUI: получайте информацию о сети и отслеживайте изменения&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В некоторых сценариях нам может понадобиться получить/просмотреть информацию о сети устройства пользователя. Например, нам может понадобиться проверить, подключен ли пользователь к Wi-Fi, а не к сотовой сети, перед загрузкой большого объёма данных. Мы можем проверить, поддерживает ли сеть IPV6. Настроен ли DNS-сервер. И так далее.&lt;br/&gt;&lt;br/&gt;В данной статье рассказывают про NWPathMonitor, об основных принципах его использования и о том, какую информацию мы можем из него получить.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Совет по SwiftUI&#13;
+&#13;
+Легко отображайте интерактивные карты...</title>
+    <published>2025-11-11T07:20:14+00:00</published>
+    <updated>2025-11-11T07:20:14+00:00</updated>
+    <id>https://t.me/ios_prog/681</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/681"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/681"&gt;&lt;img src="https://cdn4.telesco.pe/file/XJnzjlSXaJlkozjcxHnQ4BENZP6OrxWJidk8mEGbZLwbpBHna_J_ph4UonezMGUAEMV3hUuUJqnZhK8motXZmy7MtgkJUSOssLmNWADjHUAmyR4l7cEiMV2cYrNFOtdqVT4YI8Msw08WKTHIQiPTl-ScvsVjvrqDSlXfCKO7AJ2rxPxGlXGT5xaSj3L3FI598n_DC0k4-gI9GcQUUw2qsxRr4BEfzs2x_gQnjZdmvzgnGHorxpgO8KWJ4_k4D7BU6sQhKjBu7aJ71SPzQ4L9Wz3-SZ571KNfQ9d0vUayXmnn5pNTViDaZzQRkjPwqO1srkeoamOOplhwDKY4zBhhMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Легко отображайте интерактивные карты с помощью представления Map.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Совет по iOS-разработке &#13;
+&#13;
+Вы можете отслеживать...</title>
+    <published>2025-11-10T12:40:21+00:00</published>
+    <updated>2025-11-10T12:40:21+00:00</updated>
+    <id>https://t.me/ios_prog/680</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/680"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/680"&gt;&lt;img src="https://cdn4.telesco.pe/file/cROmMxIGlcqBILG8Uq6MWxJkDfIvexO_7kOEMr41yCpl1xgtb9tIPiKsMRlSCQxegJGnDIWuHEiF41nqYjIQ1az1gNHvZe1ng_GvN_YptMJHUNpigO6BlO6vRe9Ikxxb17zGAJnHxUHixED9zqGlJbO1N59qZcfDsVXFDq9UheXOaqauW5OBL6d8KBAT8JdycoAWNjNNMCoS1jVNbFj1PdDI4Fx8iRsyNOXkKHfICe4ygGx0ztKyh1oL-hMiiXFpp-S_ockwI8RZREsJE9Wt-vBv3_JdQiUY-FFwiLNw17pP_aIK2A1A9KZwcWrYv0N0QxGuRJxfAvrSFR0svCpbCg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по iOS-разработке &lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вы можете отслеживать &lt;b&gt;тепловое состояние устройства&lt;/b&gt;, чтобы при перегреве корректировать производительность приложения, просто проверьте: ProcessInfo.processInfo.thermalState&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Совет по SwiftUI&#13;
+&#13;
+В iOS 26 строка поиска по умолчанию...</title>
+    <published>2025-11-06T07:24:05+00:00</published>
+    <updated>2025-11-06T07:24:05+00:00</updated>
+    <id>https://t.me/ios_prog/679</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/679"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/HT89ow7zK1FLjMmN-Hbf6aOh-p9RPiG0SN5NBU-xkUGi27uF1fYFJVKNxNonI5fwZ_ceH6K3etLmGqTR2dkdtlEhs9EIhApzMtD4SEmhVYYvt9qB7SR2wKHiJgS019shF5pph3DtIpcdSpWW9uPNtUAIgx-BhGr9mtuosooXCdl89yf2-HWOK2bPWUPVMN1hNY6PvvPlfphZEQs8vYOMSpOC-IOwfUqjbPydtL1AtSlYBxxts8diQ8Tza80-56zLWUzX63-c8DIYiXekhzn1tsjSypdjP9729rxPx3l8d9UUovL3CFpDBY2OH_t5RpNPvtFf8_jsjgcJrZZudn849Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Совет по SwiftUI&#13;
+&#13;
+Если вью не реагирует на тапы как...</title>
+    <published>2025-11-05T07:19:58+00:00</published>
+    <updated>2025-11-05T07:19:58+00:00</updated>
+    <id>https://t.me/ios_prog/678</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/678"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/678"&gt;&lt;img src="https://cdn4.telesco.pe/file/osAhSJ-uYxfYy8T4eSPKkg1ceKrk326Zk-MFkOk6MO_hBt4NCz7yJfaNXXTRIp2Ith063uHn0rf4gau07H7jLEdxNEMlsS4MaFB0ByQGfW8GgHrQUCnwP1Qmr5i8_MlmCabRW9ZRfEIUGeRdu_jeN_MggE9gMcfPtHBH5QPLB7WDWKwMhSUJBTJLXS3Cc1ce_lT1EvUpDB4NNrnWibDi0Qn3X30LzZkVFUmdmqcgqO_jH-SccY0hDvKHEej5ECdPSfaIBstMBZ0CfOVWBnYoyjjOegbm4Zw-RHv5_pWFz4XUuyvD3k72BZHHk65x2MPmmld9DswjLEswl2wL49W2bw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Если вью не реагирует на тапы как ожидается, используйте &lt;code&gt;contentShape()&lt;/code&gt;, чтобы задать её интерактивную область&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🍏 В сети показали потенциальные цвета iPhone 18</title>
+    <published>2025-11-01T08:43:21+00:00</published>
+    <updated>2025-11-01T08:43:21+00:00</updated>
+    <id>https://t.me/ios_prog/677</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/677"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/677" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/677"&gt;&lt;img src="https://cdn4.telesco.pe/file/jlcCMcHi-2k3pEIeq7ZYgeLgHthwIFRVD3TNW5XHO69PMad2gyx3myo6QFjPKc2MT162d5eB54naSf_p_ok251i1EOwS96IVFaLSoGUkcNzd3rWYiCWGVgsYzXs1g9UdIu5RAASORmAm3ydJOQ79VWZbq7au5w5WSLFP1xJ6qml1mBiDf79byApVdB1raQ-MkKvqo-tcDFtuD56MbeKjoBnuv1onJWtsMG8LRdyyT-6XjiZ8LZSDCc5eH5hY_YGooKAAm9fo4Cn4yDiry1koTDFI5Mxzqs9Epb8YR703KDfH3_XO7SPotboco1dDKJfn07EaIuCNFM2GSGRZhUhixQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5398012024003246287"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; В сети показали потенциальные цвета iPhone 18&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Бережливое управление людьми — менеджмент без...</title>
+    <published>2025-10-30T11:02:38+00:00</published>
+    <updated>2025-10-30T11:02:38+00:00</updated>
+    <id>https://t.me/ios_prog/676</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/676"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/676"&gt;&lt;img src="https://cdn4.telesco.pe/file/HbdEBE0MP-Zv4BB5aNvnkCXF4fAN15uydNXMcn3po8agt-08LVdg4EELYg_ld_6v37_sJ1qELcEQhy4lx-lar7VUIJqX4BfdAhSviSm6oMzK9zb4jZoEyGwuqe-xvtS9513isH4On406mYTouYbl3SMAgQ6rmkjLHpj4T1DMdLNYAxeC65ru_T8Do1WLgIgAV-seWBdj6JIKUxbLxw7YiElRfSP5Qo-sWyHitlsxaCVBoJtsYKOez-x3AStHiQg0YyECq9R8V583p_E1T1isezgkOCrdNia8g0IIIfuV1XSwaBD_fxmPRwMgwzBoty5cq6Zy3GFRhORVGzLxeCBRVQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://youtu.be/E4WH_OZvSRA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Бережливое управление людьми — менеджмент без переработок и выгорания&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Интересный выпуск про то, почему важно управлять людьми бережливо, и чем бережливое управление отличается от бережного. Гость поделился, что его зацепило в теме выгорания руководителей и почему важно рассматривать это не только как личную проблему, но и как организационный сбой. Конечно же, поговорили про переработки: в каких количествах они допустимы, а в каких уже нет. Обсудили подходы к человекоцентричному управлению и, наконец, то, почему счастье сотрудников – это не просто красивый лозунг, а экономически выгодная стратегия.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">👍 В iPhone 20 не останется ни одной физической кнопки&#13;
+&#13;
+•...</title>
+    <published>2025-10-30T07:02:49+00:00</published>
+    <updated>2025-10-30T07:02:49+00:00</updated>
+    <id>https://t.me/ios_prog/675</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/675"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/675" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/675"&gt;&lt;img src="https://cdn4.telesco.pe/file/clKd7Kwy5QD0Dcgpo-lgJO69dHH-Zdi8A-DtTHeK4_QgfB7hkcv4cOomMehxL2Yz-dJMQ07hjnvAag_eiQ1mxCK4_1rUUQ-UJtKlW23KBqesb95dnd0gv4-M4Q1aZpahy3rJN4ncxnkNbOQQ4dYKQxvfb-_otqpJU3KBE-5vYc5c3bYYc2cR5Mq6vf9A5yHi-VpLYMrgSlIVvJWCNq75MnuZqNUirBpiuCSBHYd3_1qGm6dWFqj4j49N3TKs4RAGc6Vy-5zjssPt7aiD2_TSAVXAQGHtSMidzhrI7AN3Mtgrvdaq9LdbviYfstpDT6P2S-ewMAJS7MC_6cweOp1mDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5262717242759463011"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"&gt;&lt;b&gt;👍&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;В iPhone 20 не останется ни одной физической кнопки&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Вместо них будут использоваться сенсорные кнопки с виброотдачей.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftUI совет&#13;
+&#13;
+В iOS 16+ можно сделать так, чтобы TextField...</title>
+    <published>2025-10-28T06:33:14+00:00</published>
+    <updated>2025-10-28T06:33:14+00:00</updated>
+    <id>https://t.me/ios_prog/674</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/674"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/hfqG7wOEjpLW3Xk_75ZkM5hpOx4m8yQ9JcQ-KuaM5yMd-u4CZKz7Oiob-X-L_OAlryBmS2RP3b6HAPZ8KJ-nD91I54lYBEqMHKJVdDm4Y_obRJyToW9281Te_tY790Ic-DKH-YTMoS_VYVhbKlVVcKmnFdx8j2Gbf0gyUfaF2VWEFDXTBCJ-QTMq7RSnWk6TZDOMqZSI9gj8jL8a6fNviO2iuQipLo3j9CBvfQW2P4rsiq5SFT-qsITu7lLhEmDTEijXW-TIWyeoFCVKskrot9eLHZ0b44OLswDq1cjkTDxSRP0z-0MEFLbFCk-a2RQpWD7Dj_0IQmBgSq0jvzA9Qg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

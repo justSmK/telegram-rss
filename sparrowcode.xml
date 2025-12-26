@@ -1,155 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Telegram Bridge</title>
+  <title type="text">Код Воробья для iOS разработчиков (@sparrowcode) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/sparrowcode"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode</id>
-  <updated>2025-12-26T09:30:40+00:00</updated>
+  <updated>2025-12-26T10:16:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Bridge returned error 0! (20448)</title>
-    <published>2025-12-26T09:30:40+00:00</published>
-    <updated>2025-12-26T09:30:40+00:00</updated>
-    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
-    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/sparrowcode        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #20 lib/http.php(185)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@sparrowcode    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fsparrowcode&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fsparrowcode+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40sparrowcode%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    VerifiedJoseph&lt;/p&gt;</content>
+    <title type="html">Раскатил фискальный календарь Apple на 2026 год (календарь...</title>
+    <published>2025-12-05T09:35:49+00:00</published>
+    <updated>2025-12-05T09:35:49+00:00</updated>
+    <id>https://t.me/sparrowcode/714</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/714"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/714"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q63mE3zGjwG_ukyT2J4FSpjjE-KWwoOqmhE4Fn9F5wUk84UsrwNJz8aG171f_G_6H8HKGWOIKSrt1mUKnnx7lqQ8GpQ16PofMaQZt_TXXwUp7bgPlxjNTNm59R_CdaGlXD2pVqzpARm5z-KwbFjRXUSsNARSXfzVA99mkQ4nikWnC7CKLGO3kW1zfX139COv1oFmnLGqGL_KMPS_Td8-TxAjCaKFWULVNqYVWo3ei48UUQ3nc8Ym2PhQV5qwRvv8qrMncyI2CEYFvcp9zrreb6oT7qmNTrRexlCtZ0g0KbGEczxAS5zAFV7eQB0CzOEPs0QMWeXUBtnv26xm2mMHvA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Раскатил &lt;b&gt;фискальный календарь Apple на 2026 год &lt;/b&gt;(календарь выплат)&lt;br/&gt;&lt;br/&gt;Интерактивная страница. Наводишь на дату выплаты — подсвечивается перид:&lt;br/&gt;&lt;a href="https://sparrowcode.io/ru/apple/fiscal-calendar/2026" target="_blank" rel="noopener"&gt;https://sparrowcode.io/ru/apple/fiscal-calendar/2026&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">👨‍💻 Apple обновила гайды. Снимаем стресс и разбираем...</title>
+    <published>2025-11-14T04:11:10+00:00</published>
+    <updated>2025-11-14T04:11:10+00:00</updated>
+    <id>https://t.me/sparrowcode/712</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/712"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/sparrowcode/712" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5219778693764762534"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png')"&gt;&lt;b&gt;👨‍💻&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Apple обновила гайды. Снимаем стресс и разбираем два новых пункта&lt;br/&gt;&lt;br/&gt;&lt;blockquote expandable&gt;4.1(c): This new guideline specifies that you cannot use another developer’s icon, brand, or product name in your app’s icon or name, without approval from the developer.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Вчера была лазейка: если компания в США + реджект по использованию айдентики, то подогнать &lt;b&gt;под критерий добросовестного использования &lt;/b&gt;и приложение пройдет &lt;tg-emoji emoji-id="5456432998092133477"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;Паблишеры хотят запихнуть в название «OpenAI» и «ChatGPT». Теперь такие приложения будут отлетать по новому пункту вообще не попадая в стор. &lt;tg-spoiler&gt;Ночью парочка отлетела &lt;/tg-spoiler&gt;&lt;tg-spoiler&gt;&lt;tg-emoji emoji-id="5456271146544548564"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')"&gt;&lt;b&gt;🛑&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/tg-spoiler&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Для энрола аккаунта компании всё ещё звонят (не...</title>
+    <published>2025-10-08T08:15:11+00:00</published>
+    <updated>2025-10-08T08:15:11+00:00</updated>
+    <id>https://t.me/sparrowcode/711</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/711"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/slb3QosGj-wkzpFzArJ-YGrM2IMP5aBng5WA-_Ivc1xptixnICKJ0aMhXzjiSZ1JHYrwtpbfnHSyeP4oiLyFvwq-2ugYOPn4FPJVit9LpCHimOZMILa57_2Ox4vYml480Y97s-4iivIeQRH9xWB84z095uAdDH_MM_3zSfOHcrx9IDyUfx5Dy-iT4Dbd7hAdPgkPEMvfonKOM_TNn1bOxSZDiQlrHV7_nOQrLk_0gdweYzl2XLf-1KSW3v0sVA6Ty7vnMJ0XBpSblaPzFDeOYJnFWYgtuu26UtduMOpybkugbU7fBArEI8qPtNU8sCTJ6B-oQIoSSGIdTutXpUfx2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Для энрола аккаунта компании всё ещё звонят (не всегда)&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Постарайтесь избегать РФ и виртуальных номеров&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">У мобильного клиента коннекта новая иконка и...</title>
+    <published>2025-10-06T10:28:27+00:00</published>
+    <updated>2025-10-06T10:28:27+00:00</updated>
+    <id>https://t.me/sparrowcode/710</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/710"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/710"&gt;&lt;img src="https://cdn4.telesco.pe/file/CGxldbJJNRyQc17NaXtYSf3Q9w9ZhAE5S70Px8cHkCU6DUs_u2yLMyOtMTAppkpCvKp2mf6-ScM3MgXkx8-e1Gn8Ge4lvfjNdwwZK9AJ9T56teK-c1JstPjny71eCGNrWFg7gsso1gG9UNxJYNSg_0qfPkfSESZVfMYpmZVj9quD0gHGL5ZXX6iatPBUSsQfDsP877di9y8IGmN9yJlV_rffcwNQf0ondMbCJqNfZ_uJ-16S7AOR3pZauCc0wp7fDldCwcULIftS3B3LYI5EETd3pVoMNRNCyRCcsVHqS5bOhMcmIwN2WnhZbEj5uC_9thD4aCsyJhe7-qerbDGILA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;У &lt;a href="https://apps.apple.com/app/id1234793120" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;мобильного клиента коннекта&lt;/a&gt; новая иконка и сортировка отзывов&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">✅ Домен invoice-maker.com 3800&amp;#036; &#13;
+✅ Компания Invoice Maker LTD 2000&amp;#036;...</title>
+    <published>2025-09-22T09:59:13+00:00</published>
+    <updated>2025-09-22T09:59:13+00:00</updated>
+    <id>https://t.me/sparrowcode/708</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/708"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;&lt;span dir="auto"&gt;Качаю ASO твоим конкурентам&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt; Домен &lt;a href="https://t.me/techbybird/2068" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;invoice-maker.com&lt;/a&gt; 3800&amp;#036; &lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt; Компания &lt;a href="https://find-and-update.company-information.service.gov.uk/company/16718973" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Invoice Maker LTD&lt;/a&gt; 2000&amp;#036; &lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"&gt;&lt;b&gt;❌&lt;/b&gt;&lt;/i&gt; Аккаунт разработчика за 100&amp;#036;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Красота в новом Xcode</title>
+    <published>2025-08-19T11:07:12+00:00</published>
+    <updated>2025-08-19T11:07:12+00:00</updated>
+    <id>https://t.me/sparrowcode/705</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/705"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/705"&gt;&lt;img src="https://cdn4.telesco.pe/file/gHIfvzzQqFrESc2gMyBFjGp81iOI5edKBFBdD6nQiAQGdps6kc26W4VNF8q70YGw11hK_IQQ3vg7s74dKFCcp4qqjHz_kPwbotssTmEHye-ZyYeeoQSWgp5UhbPKbVPSBLlO-dYKmvPmOxFOO_WY4uA8-XaChfwIR437Bbm6L39nWUbWHJV4nlvtN7nqVG1QiT-ClaGDCkv0_bVgdhf_5h5nks86P7TySc48YDlUOjDnmqhHMwnzbD_dSSMCAx5mhiP_wNdyl70SopynxEqQNY9G-0w2P0MtPPCJu2cDAZEhI1gne51-8hrDPqG4ic4u0OEEvEyWwR562doZ9HzXMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Красота в новом Xcode&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">☁️ Xcode Cloud вырубили для учеток РФ и РБ&#13;
+&#13;
+Для физиков:...</title>
+    <published>2025-08-01T08:58:15+00:00</published>
+    <updated>2025-08-01T08:58:15+00:00</updated>
+    <id>https://t.me/sparrowcode/704</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/704"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/sparrowcode/704" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/sparrowcode/704"&gt;&lt;img src="https://cdn4.telesco.pe/file/EFx64wtIxeN9YxvMMnMg7--bXP0VgHFwPgzA2F9qpGtW3Qw2-tlDfTdqF6MNanAS2cR5zOF_iN843H-mMW6-6cBlpIEbW1w2rprXRY8htXN_dHXkbxBVPEtOEWvLkc9R1LZxps_pNc7XKUXOLy83NhGUhZsxyuiV14xyFRxlAXFAfHZd54BcAUg8SJTONEDFVKtU4eIziPmxRZh53AhDJK2NNppgV3Rs0WHOzEeh63Moky_cWT1Cr6Ps8cxI_sV8KmXZcU8ll8SqUByrm0iOprP2YWcwkqRYoaklVJI-1uFeRMhgUEpmEYyyUZ5lJ2pnxex3BwGrsGWlv_G4zbUfFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5314791930222103412"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29881.png')"&gt;&lt;b&gt;☁️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;b&gt; Xcode Cloud вырубили для учеток РФ и РБ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Для физиков: &lt;/b&gt;смотрят реальное гео. Если аккаунт в Казахстане, но входите из мск — тоже вырубят. Даже с VPN как-то определяют&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Для юриков&lt;/b&gt;: смотрят только регион аккаунта (не гео). Даже если добавленные в учетку разработчики в РФ — всё работает&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;a href="https://sparrowcode.io/ru/business/company_registration" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Мы открываем компании в UK&lt;/a&gt;, на которые открывается Apple Developer Program без санкций&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Опубликовали официальные дизайн-сорсы iOS 🍎</title>
+    <published>2025-07-22T08:44:24+00:00</published>
+    <updated>2025-07-22T08:44:24+00:00</updated>
+    <id>https://t.me/sparrowcode/703</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/703"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/sparrowcode/703" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/sparrowcode/703"&gt;&lt;img src="https://cdn4.telesco.pe/file/vfTobpA5UnjFG4jege0f0L1IW5Vajxl09cnwGvMIllBYf1yfFdvkf6xZADMFJtoL3KkO8ejIVvmPDQ7u3lK5w1OKKTPMlA7qEK0MEHnXw_rou4zRIIZnpeShjGJ94FZBtmqXhoGGEpr9H7tHV3-RLu1CpF7pNDHcC6VRKblYafSkt3cPRZD_BdPeWmWXhDAAIdEdopxuwdtQDU5jwNxUrryf_3bDr3U6enIlr0fHnhZTvJplnquyAlmexQZtrCnd36mhFAydRHpQVa0-3FOBMlC3tsGKMnolLQFWiTQoWLjtdMOICmdgxFvOZM1liY8-rE26KY5nIHYnq7DBDHGPZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Опубликовали официальные &lt;a href="https://developer.apple.com/design/resources/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;дизайн-сорсы&lt;/a&gt; iOS &lt;tg-emoji emoji-id="5350803362688301495"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8E.png')"&gt;&lt;b&gt;🍎&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Когда будете использовать glassEffect() на кастомных вьюхах...</title>
+    <published>2025-06-18T14:44:21+00:00</published>
+    <updated>2025-06-18T14:44:21+00:00</updated>
+    <id>https://t.me/sparrowcode/700</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/700"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/700?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/YhVGB9EiBCuDLXF60TciTiuKgLuBLelHUnwePp_LgUdqen0JhvkZsVrZxS745NCFIbNZeuJDxF9qdlbywigI4IxxH0ZscD9jG1ygIGPaMQMbP-3y7v-mRXlavmFVUprXSluZtwZNfFjo_qBRRuN1j23fiJUtNJVZBLSTrianzHFbLksisLg97KDAr9q4dw2jB3SY1ua9iD2t3vmyLqp6diJIxIwQuB5v0ta6Lem_auexmjhnSb9mwN2bF-CtH-tL4k2YKnZ303AG6ijkmLUHyvb8hSuhEajKwm3zd9ywGin1-W9nSkB3uAhicQGqwtPtIKTGGzB4rdbJotUGqgOpvA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/sparrowcode/701?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Isjbs8RgPAWbNsU2WMgv8k864ifHbCSDOg7jnVAheQ5lg5tuzS6ZEIFbuAr3ZtJGR8pH0yMqBbYycLAn6Rfc_9lBWxVcCxSjBp6aHH8uenOI7YBcmvzfpyLOS0d7Gz02XFcwnzHroWpV9dXwTjT3wkoJU6M2EV89sRyeOFqRdaAMFZclIeCakXA1SAsPsdFy3tkzoUUO_O46PVrpKZBpVe9ZpQL8_avPAwH10i7YWoyHsjqGKFvqUDmqNd21alaTRRhqr9B6Lld0DlY8LWiKImoRieGzQr0zanZXnOh5mlq6YbNxjH8s0_fz7lYXSTK02UTe47uD3l_OXxRTyYKAIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Когда будете использовать &lt;code&gt;glassEffect()&lt;/code&gt; на кастомных вьюхах — групируйте их в контейнер&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Glass-эффект анализирует контент вокруг себя (для отражений). Два эффекта наслоятся и будет фигня&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Нативные навигации/тулбары в контейнерах из коробки — их оборачивать не нужно&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Новая маска иконок на iOS 26</title>
+    <published>2025-06-11T16:51:27+00:00</published>
+    <updated>2025-06-11T16:51:27+00:00</updated>
+    <id>https://t.me/sparrowcode/699</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/699"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/699"&gt;&lt;img src="https://cdn4.telesco.pe/file/RURgj_SthtGQOLVgHT_cXhFrfq6fE4RlRdfiGk5NaGD4j69ucxn45gFLnONV0emjm7X1IWWj_vcPgV68VXax1ZoEhyc9kwZggT8bDJjlTda3CIiaPMmlU0YbOllHt-CFELLlDuntInBG88HmCCOiUs-LHxZSzKgerHZtSCT2lje9DBwCvVRXGgEFxmwdgxZO14GZsvZMvfg8BI0dTXjhhYyFaqYX95t2NZE39korWfsJkfJpWdI8w0_hTI5PPIcyyQED95FGRsgCZz5wp8S3taRJDo9AsF4V4r38imIKoeJr23ufLXgqQg5C3tXrXm_6xV-AzowNoHhkw1qKSs_Q3g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новая маска иконок на iOS 26&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🔨 Если что, бету Xcode можно ставить на релизную macOS....</title>
+    <published>2025-06-10T18:24:01+00:00</published>
+    <updated>2025-06-10T18:24:01+00:00</updated>
+    <id>https://t.me/sparrowcode/698</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/698"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/sparrowcode/698" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/sparrowcode/698"&gt;&lt;img src="https://cdn4.telesco.pe/file/O2ROTwc2VY4yl7RZgif21qAfhDin3L5O-8vKlJN89--7na7GyV90MQl5_7ttOSQMA2Y_z7hVI6f_vc_m34d6g4-T3unzqdFg7mPFF5e5wfodKfSRwgu4n_Zfk0jqq1lezJq47v_1gdoJ3MHLY8wmk-bi-GxiVw5b5Gy9N9pDvBgv0EFfFcU6EXKDA6pC274HyN_WEsNp_3eImCQra_EReMU1rctJpe5n4GxQzezmUrNv_tNc8tB73QFTfiu_jgdlLMv_aM11_Or_oCMXZs6_xyyV6onJnHnpendNKwMjHaSvRdnLo_2aEYY00ov7ZByCtb_r7FRT5mY2meWKwtuqlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5456312597273923475"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Если что, бету Xcode можно ставить на релизную macOS. Рядом с релизным Xcode&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Что буду смотреть и обозревать в канале. Всё остальное...</title>
+    <published>2025-06-10T17:18:21+00:00</published>
+    <updated>2025-06-10T17:18:21+00:00</updated>
+    <id>https://t.me/sparrowcode/697</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/697"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/697"&gt;&lt;img src="https://cdn4.telesco.pe/file/fz3zGxDEG40kTuDbMQkplub6OhZ52sYjH9fFBX9TWWk26UVLaM3LEy7xO5VZcdMVZ7CYpGYcLHCtgQjmx84eqh6WiGRP7VVcO2T51KoPswynCflAONVds6CZmDZgkCyv5sXcliizl2mFpi7v6R4ZCUFVDlWzIZY-uU31KkAmGHZ-JwyKVNF1NOZj1aADJ_wHunq2bpKo16VI8yjxAF2drqe6Vd88HIqEzK-QGHl2-fGsyJddia8Wy0aGt1_ckFL1CUfG7gvZkssL-vWDfbGk66GgGx6iqwSmq-VeV6I5A3I0CPR56x8W08_8SdVW0TasPiI7nugkdEucg_ZJIEBWgg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Что буду смотреть и обозревать в канале. Всё остальное скипаю&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">@sparrowcode posted a video</title>
+    <published>2025-06-09T18:40:52+00:00</published>
+    <updated>2025-06-09T18:40:52+00:00</updated>
+    <id>https://t.me/sparrowcode/689</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/689"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/hoJhoSVwpzsl80I0gUYj5-Bkh_sYkh-HbizXRPbPlZ4BS46NlTIhhNsDoNQ246MjMBIgQFANhHhjGDmeugVdQunrMobabTlQbCAs7wvB2Omzh91HvNLPzLOAxYLKTL4EOabNO5czPBFqohqSQUyjqUStgEnNnefikGA0rgseAD18UFyZutN8h39P7QWa6lstxurNlmn1Bd6Ytr-Tkskk3XYek0JW0kXMRTTUKdKKA2wr6aKbBvVlmpXLSiG8IpaMVWJTfcL_vxDrxdnCNA_0LG_G_JVFYnFlo1R7YIJbvoUZPcTrtNeVhRhqwlUOUSlbSyE8fWWgmPDJWpuvu030ug" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/2b387d2b3c.mp4?token=lqEuIzjKE8TLnq0TN5rg7r1r0cd5DCiMv85lB-hla25L7Z9aZwF13UNVdkfkXTvo_yoKkPUW3IurgxiJ1Q7yb1ODnaylUaZi0BfLfkaR-w5lIbK7pC6oSQMEL1rtOlz_8qlLX7ST0jfzn15FkvR0QKd72n6DT9rzrfi7YqUTCa7jbqqQwFAdRzD_emHxjPMbF2n5_1HqkPUb30aO72__luCnadUdkyiwpgjpNvDgALJU5usa_SK9jnU1dkRgdbRVrYuArEDy5RIMosoNd5bewD6I1a2NKvANtEjyAOEbkjtKcDO3PExb_zoacArs45QlfL7n8cUsrtiEL0AHT1e3iA" type="video/mp4"&gt;
+&lt;/video&gt;&lt;a href="https://t.me/sparrowcode/691?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/nnrMewDb4L3J1VAykGQjHxoCC7_FFaJypNB5d0-583gg7EB-xuI9OLLIy56qTFPInW2ySP9Sb85kr2DreZyaSOPsIcsozAERpfyk30XHjGt7DO5LPAmYpasGLqmT5u5Drk6z_gGnJG5q3B0OUK3Fp-_RNaQVEeDDwqi8n8_6PZFmNgRpjfq_1t1dymZsL_zSRn4YETjvubNQYWOZkvTRyX17_CWl8GZwkllhkMn9bPWmrvEYSlG37yJHrB28EF9BgE5QkRtQc97-hosoJSahF3KTOgax3oi0oHLm1_IpDT8wW9XvQ3w8bXSBFXeb7RJQkQORZ7cDi0zRqQMOXbGuUg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/sparrowcode/692?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/LGc4yqiaB3HiZ82A_9tHkKyprNjpAwcJYnxm7rS3jcHB769lqW0wSCDfCSIFjRPKFd_Y_3qQgHNgnzKlO17XjZGldmvq6iKnLflDHx-6pu_ZFsMgz05YszjP6V1Eq0l5hOhxtOlqYlodXZ9jyeMzMu1CtFsMu14Gr50mHniiq9KgCYyrc9WK96Gn5jfoiJX03YYiHaGs6IQPwqJoHKYpPw9T4CsYOMpxfy88lLr9oQ2ykitZziFRyLF6uLjr1GlmDrLU2ByZwJH0elD_wijPG3R0LgyPOD7VgVVgB4Cesy24H55gDsirR4DuzjF8YRDtywPqEtFAuAiKvm7D5uJsXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/hoJhoSVwpzsl80I0gUYj5-Bkh_sYkh-HbizXRPbPlZ4BS46NlTIhhNsDoNQ246MjMBIgQFANhHhjGDmeugVdQunrMobabTlQbCAs7wvB2Omzh91HvNLPzLOAxYLKTL4EOabNO5czPBFqohqSQUyjqUStgEnNnefikGA0rgseAD18UFyZutN8h39P7QWa6lstxurNlmn1Bd6Ytr-Tkskk3XYek0JW0kXMRTTUKdKKA2wr6aKbBvVlmpXLSiG8IpaMVWJTfcL_vxDrxdnCNA_0LG_G_JVFYnFlo1R7YIJbvoUZPcTrtNeVhRhqwlUOUSlbSyE8fWWgmPDJWpuvu030ug"/>
   </entry>
 </feed>

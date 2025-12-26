@@ -1,155 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Telegram Bridge</title>
+  <title type="text">Swift Tips (@swift_tips) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/swift_tips"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-26T09:29:40+00:00</updated>
+  <updated>2025-12-26T10:16:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Bridge returned error 0! (20448)</title>
-    <published>2025-12-26T09:29:40+00:00</published>
-    <updated>2025-12-26T09:29:40+00:00</updated>
-    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
-    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5001 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/swift_tips        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #20 lib/http.php(185)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@swift_tips    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5001+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fswift_tips&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5001+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fswift_tips+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40swift_tips%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    VerifiedJoseph&lt;/p&gt;</content>
+    <title type="html">Конец года, и снова заканчиваются все подписки...</title>
+    <published>2025-12-26T07:30:41+00:00</published>
+    <updated>2025-12-26T07:30:41+00:00</updated>
+    <id>https://t.me/swift_tips/821</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/821"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobilehubvk/62"&gt;&lt;span dir="auto"&gt;Mobile VK Hub&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/RwZVcV4W2hMiNgXKNDJEMhzAz9xNL264jPeRhIUmsqcx-EFksnSgtT8e2V6NR42A0dBBB_WIDDn3cuP4rdMzXjiGcCNNnvqW6rtVjXf4WEaYfmPbsoYMzmUiAqXIn0aM8jpMOUpJb-V_UDrsvWigXSTlp-lmD6UnYnN8IJfD1EkUDNHAML8oEZ9N1MrkCz0uxy3PmabAYg5SOjuxZUw2dq2qOWNn-OP-E6l2RqUpmbGdl6GKXfM8ctVEbwQc-R21oD12zzv-RAK7lWfMP7AscDSG8ekxnFHblR93oIBd9LjQCXp5nIAnqWgAnxgN_Zta3a6p3SE0KFpTmNmougUrWQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/e6ab715fc4.mp4?token=uRJqD662Ks-cVKikrCgECDH0z9a-L1nEVnHpBpQ-zFbhOQkJTXu9HrMABy9lKbzBTAgDqnYj0xLrhwcd6tpZqW39eLHcpX39oOWBt8DYhC0Lpb85rj5ARWF5HSIxxhLAOXRwxuNEwAlfn3dMZNkOjWLuSiJKE308W6HhchFszUsV2tQbpnKEB8xH61vz7dwFH5FZz9-WI1pvP2dnoWcTsDmEHy1I6KeQFgRobPSkm4XLPjnbGwZCEqb8xUs6Dh4f-TANT_5vp0kY64sPZMeM4ba4LwGcJqGYnf7NpR0Er2_GwPT2eqJ6QH-3d16E9daYWWRZEEyKWuvm1SS2OVmELYccEw5XNawo99L61Acq4KBAjJrSanBU5RPRS78JBuP7cIIK22nrambNCL7Fj05DMhQeTE22hnuI4t8TbVN2GlLiYH5SlwaxV1qh8lk4rSuL55tn9bJVUrR222FrYrG1a3yXuVDjurUxcIaErQihpNPJYezwQA3BXTPH1t0kNCW5whgps6JV6eavh6SKx8k3qTPIx6OX3l3baFsyNwdj_vyL8T9daHhKbgFRo0JodHo-XGuQ0amIukGxFmr8tPS1ZUnIxY51T7sNyIquPun8Fwai-a4Dzt53C-pdzH-8TzajRHl9Wu9Io9x2YKkJv8D-syC4eLhei63Od_7N8zFtxKs" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Конец года, и снова заканчиваются все подписки &lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"&gt;&lt;b&gt;😱&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Узнали? Согласны? Не беда — мы как раз разыгрываем промокоды на год от Облака Mail и VK Музыки&amp;#33;&lt;br/&gt;&lt;br/&gt;Условия участия простые:&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; подпишитесь на наш канал &lt;a href="https://t.me/mobilehubvk" target="_blank"&gt;@mobilehubvk&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt;нажмите кнопку «Участвовать»&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; дождитесь 30 декабря — в этом посте мы выберем случайным образом 6 победителей&lt;br/&gt;&lt;br/&gt;Информацию об организаторе, правилах и призах ищите по &lt;a href="https://bit.ly/4s9U3Si?erid=2VtzqxAsNAW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Удачи&amp;#33;&lt;/b&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/RwZVcV4W2hMiNgXKNDJEMhzAz9xNL264jPeRhIUmsqcx-EFksnSgtT8e2V6NR42A0dBBB_WIDDn3cuP4rdMzXjiGcCNNnvqW6rtVjXf4WEaYfmPbsoYMzmUiAqXIn0aM8jpMOUpJb-V_UDrsvWigXSTlp-lmD6UnYnN8IJfD1EkUDNHAML8oEZ9N1MrkCz0uxy3PmabAYg5SOjuxZUw2dq2qOWNn-OP-E6l2RqUpmbGdl6GKXfM8ctVEbwQc-R21oD12zzv-RAK7lWfMP7AscDSG8ekxnFHblR93oIBd9LjQCXp5nIAnqWgAnxgN_Zta3a6p3SE0KFpTmNmougUrWQ"/>
+  </entry>
+  <entry>
+    <title type="html">Big O notation&#13;
+&#13;
+Статья с интерактивными примерами и...</title>
+    <published>2025-12-26T05:15:11+00:00</published>
+    <updated>2025-12-26T05:15:11+00:00</updated>
+    <id>https://t.me/swift_tips/820</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/820"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobile_native/1684"&gt;&lt;span dir="auto"&gt;Mobile Native ️️&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/SKT0s3MUxMZ9dC0olaGtSmK-N6TvWSkAtOZCut68GdJbinSLqujA2uwTS9tcFDogxmZXFq6x4zIb6kpxAUz8D_H2aXFx2tI9iYid6hDCsRjZwHef9YriilYjyYsG93GCXQsM9j_g56s_d2Dl6_D1lvbsFkocbhPyHDpxCJeJvLzbPrcvYdVs5NghCNH8qaFJlhZKHWvSgFI7RXoiy56PvTHT2X5ReowKRByKGNULxSHQthElKUdakW_BovHMu9TgFw5P_2yNmAhm5vjRXlJ0dulNjTl8nVKrBlq4c-R5loqyfvMp6Gx8UUzBlqlaH0k1NCV2ttsqQZ0dt8Ap45Tt0Q" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/6163c2710a.mp4?token=JvWNuZTvuyrDoJiQEGDED9CgpHJQz8JN5c8-yq0_zUm8DoNfcs9Ip3Ik4XjLjlX7G1qPC_3xG11clj7-ODyRP7j0_hEShv-6V_InE79idIwQbU2MF4op48eQ4RIosb8DtmI1SwfmQxtZxWmkUANJejzUoILkHF6x9WKKCqv_qHIny_5pZdJcIyYZ87Wq3ug0EMVO24iGRX6t76tK7M5T92fBrJamampS2EQqqWbi58D9dwy8RuY8PZmVK6dYrNob3FU0NPFgcOZnh6sSVplZOqiVbS7pkgAdok9eIY-imLN8k_Hk7HMbX9LVtISMLZ-htXoBW1ANMN6pxgvkDwiUng" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Big O notation&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://samwho.dev/big-o/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Статья&lt;/a&gt; с интерактивными примерами и разбором Big O нотацией.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;b&gt;O(1) &lt;/b&gt;– constant time (best&amp;#33;)&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;b&gt;O(log n)&lt;/b&gt; – logarithmic time&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;b&gt;O(n)&lt;/b&gt; – linear time&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;b&gt;O(n^2)&lt;/b&gt; – quadratic time&lt;br/&gt;&lt;br/&gt;&lt;a href="https://samwho.dev/big-o/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/SKT0s3MUxMZ9dC0olaGtSmK-N6TvWSkAtOZCut68GdJbinSLqujA2uwTS9tcFDogxmZXFq6x4zIb6kpxAUz8D_H2aXFx2tI9iYid6hDCsRjZwHef9YriilYjyYsG93GCXQsM9j_g56s_d2Dl6_D1lvbsFkocbhPyHDpxCJeJvLzbPrcvYdVs5NghCNH8qaFJlhZKHWvSgFI7RXoiy56PvTHT2X5ReowKRByKGNULxSHQthElKUdakW_BovHMu9TgFw5P_2yNmAhm5vjRXlJ0dulNjTl8nVKrBlq4c-R5loqyfvMp6Gx8UUzBlqlaH0k1NCV2ttsqQZ0dt8Ap45Tt0Q"/>
+  </entry>
+  <entry>
+    <title type="html">Find the SwiftUI Views that Update the Most Using Instruments&#13;
+&#13;
+Статья-заметка о...</title>
+    <published>2025-12-25T23:14:07+00:00</published>
+    <updated>2025-12-25T23:14:07+00:00</updated>
+    <id>https://t.me/swift_tips/819</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/819"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/819"&gt;&lt;img src="https://cdn4.telesco.pe/file/C0inKHISCf4pfSu7ghEh-AU508fE3u9QpLA638iAa3rb9zFeegkObaqVPnqXB87Ay17InfmJOJLhIjqZV8iNJusDPuJx4NJ6v5DWvAU-9W0cbmXk2PqW2H0cI7XOCW9oj6RC2sUbVTz9SJRrOzZepRieW1LkGZkTkqcP7G0uRg0UTGUh6VnayJMxaYiYhiZBZuP4ITMqu-KbInzURmnH-dMbm85aVyy2XikGP3N9mdRPjDFsaT6BVfoccAW2f4_QF4qUxOxti7bVnAWpZSk4P14GffBUlsn2wtOb1bcnyv_2R75rzl7trChglOn5GQY3aM2PUBZ2Ef6wxUg-fkexRQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Find the SwiftUI Views that Update the Most Using Instruments&lt;/b&gt;&lt;br/&gt;&lt;a href="https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;Статья-заметка&lt;/a&gt; о том, как с помощью Instruments в Xcode 26 найти SwiftUI Views, которые обновляются чаще всего и определить причину таких обновлений.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Все не так с Codable&#13;
+&#13;
+Ребята из Т-Банĸ провели большой...</title>
+    <published>2025-12-22T06:15:10+00:00</published>
+    <updated>2025-12-22T06:15:10+00:00</updated>
+    <id>https://t.me/swift_tips/818</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/818"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_tips/818" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/swift_tips/818"&gt;&lt;img src="https://cdn4.telesco.pe/file/K68W_-urUc-bA8NQmhkb-wsMAYUjIEnk1xvECYTavJ_MXDYFSPxjEQTMqkuMCu4odxQPuuapWkLuEy5Tdixi_A9gDua4RGee3uSGju9fFAmg7ZDNZqXFOdcsJ11oJ9mYTIFEV5ZVeDcSFW0bAPHVMr8ZpfWJwhy6vMghYpVg4BW8jkQ_vUHkfOAHXt3BSY0PTPbMWHCixeO_N7xwABacKmQP6qGpBlXMSG7kbL10jN0FXxnlRN1lXDCZE2xbLHw_fEXzoyL2dyYZyWxjpeN-hqEJHeIwDCSrwvXgw-yiIFxbz1faOQgJ2sThTV7XybCzLOHA-NyR3iNFZkqN7nt-Iw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Все не так с Codable&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Ребята из Т-Банĸ провели большой анализ производительности &lt;code&gt;Codable&lt;/code&gt;. В &lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; рассказывают какие оптимизации внесли в &lt;code&gt;JSONEncoder/JSONDecoder&lt;/code&gt;, ускорив сериализацию и десериализацию в два раза и как сделали PR в swift-foundation.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;code&gt;JSONEncoder/JSONDecoder&lt;/code&gt; не такой быстрый&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Обходим касты стороной&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Уходим от оверхеда из-за generic-ов &lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Измеряем бенчмарком первый decoding / encoding&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Бенчмарк Apple&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;PR в Swift-Foundation&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Заключение&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Многие приложения используют Codable для десериализации сетевых ответов, сохранения данных в UserDefaults или для записи данных в файлы. Поэтому производительность Codable в целом, а особенно JSONEncoder/JSONDecoder влияет на производительность большей части iOS-приложений.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Kotlin Multiplatform становится одним из ключевых инструментов...</title>
+    <published>2025-12-18T08:36:42+00:00</published>
+    <updated>2025-12-18T08:36:42+00:00</updated>
+    <id>https://t.me/swift_tips/817</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/817"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/817"&gt;&lt;img src="https://cdn4.telesco.pe/file/mVyCsC8o4Zwv10Ku5N6GIojXTqed2E2tumqbyV351lAfzuo_XqgbVrAjgsmz0It3pdRjNih7sbCDMMFxWQJqPP6KyJS1rtdlFEpmijxUiYR6p_M1un-D016_hohQ_oUrEPIl2kUHZw8VG1B_RBZu-iewej4moqf8HmBQZ8pbV4ki_v8hlyotvVkQsMjbGDvKYRa7GwulaIL-243f4yjYucaepQZK8iZfpJsfMUsWdPhGekbTABZoYtUbx12n83uDvn_ggZrU99K4DSlE4t4yUm6M6RHJ8RtY0My90FPm7T9r-2gMMKpSmVgqSyqHYmt3P_JXKozm-QFycRI1sZBAzg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Kotlin Multiplatform становится одним из ключевых инструментов для разработки кросс-платформенных приложений, а использование gRPC открывает возможность создавать быстрые и прозрачные сетевые взаимодействия.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;На открытом уроке мы разберём, как настроить KMP-проект, построить сетевой слой на gRPC, интегрировать это с iOS и учесть особенности платформы. Мы покажем структуру приложения, разберём реальные кейсы и обсудим, где KMP действительно даёт преимущества мобильным разработчикам.&lt;br/&gt;&lt;br/&gt;Урок будет полезен разработчикам, которые изучают iOS, интересуются кросс-платформенными технологиями и хотят усилить архитектурную насмотренность. Это возможность посмотреть на KMP и gRPC без абстракций, на уровне практических решений и интеграции в реальные проекты.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Встречаемся 22 декабря в 20:00 МСК в преддверие старта курса «iOS Developer. Professional». Регистрация открыта: &lt;/b&gt;&lt;a href="https://otus.pw/WbPz/?erid=2W5zFGRos9S" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;https://otus.pw/WbPz/&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Реклама. ООО &amp;quot;ОТУС ОНЛАЙН-ОБРАЗОВАНИЕ&amp;quot;, ИНН: 9705100963&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Гид по Git — глазами бывшего джуна&#13;
+&#13;
+Отличная...</title>
+    <published>2025-12-11T09:09:09+00:00</published>
+    <updated>2025-12-11T09:09:09+00:00</updated>
+    <id>https://t.me/swift_tips/816</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/816"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobile_native/1680"&gt;&lt;span dir="auto"&gt;Mobile Native ️️&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/swift_tips/816"&gt;&lt;img src="https://cdn4.telesco.pe/file/PUDPF8ePV86nPqrPXn7K9vsxn0hFE0UwPlMBEuzqaQPFCnaduHF1g1d8OODy8gbmILC4C3S9oGg-7nBhSFpEoep7ZiQw_bkmYjYfr_SgIa1cap6Vn4P_3O3v8aAD5K-YqTj4xZDCr7AVL859_gMC6VIvTh_7kyDeMrLS0MIHKtOI2pr7aY4bgnmcjV_L0bUIPtHtJFqCphODlov5T5fbz_N9NC1n97nMSQ69GXzTRkARrEUZ5gaIBQW82BBp4LXCAa9q7qQlXWhRqtIQiz-VM4S_b68Cbl_TTo0jnvwcxqey3eN-SfbvBG3X7_AxnsPQM-DjX7k-IM6HrNq5BKpuwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Гид по Git — глазами бывшего джуна&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Отличная &lt;a href="https://habr.com/ru/companies/surfstudio/articles/973304/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья-шпаргалка&lt;/a&gt;, в которой разбирается базовый минимум и чуть больше команд для ежедневной работы с Git`ом.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/surfstudio/articles/973304/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Маленький экран — серьёзный вызов&amp;#33;&#13;
+&#13;
+В VK мобильные...</title>
+    <published>2025-12-09T12:30:21+00:00</published>
+    <updated>2025-12-09T12:30:21+00:00</updated>
+    <id>https://t.me/swift_tips/815</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/815"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/fhKRu8dFKxV-MCGzjt2mjD0_h0j4tJRjGiwJIs_QTLb7lE8ju1xXxFrUxHT9fZ7YIQbmEYLzt7Kp5NhjHmV4AV9Rs-CsWrh5MYbG9oeGbwEyoG9lrlNuitw8RG2hcQ5fEJ84_VlFFK3a846DYr3I5wlY8EuH_49s7b5Xy4HY20EZOMYwoOrjR7d5fZa9mVEAQ157HP_yH70xbPveUiIsOai86lrvTcOpgg3sIOka6j3nV4pTxpt0oYuj_z-yE2Tbyap4U4IR74BcpbUosCd8ySJvetxXbXEDP7XSLTr-ll8c4BvoD5ZLqa3Y8cy_JFB1wFBJciZ4J0hTgucQ1tNSYQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/bd817e9867.mp4?token=a2fhPqNq2czqAf6cdRmWm3re71NTBT0J2yLVNNTBvOzPNSpe_COFfVlRsCmZnupKE06-6UEFemjbDWrTbif5-etl-I14sZLi_X6lgpgJI4nt6aUl1e5W1I_Zontd7Hyq7wlDfX0pK9bBGbezslqkFYK8kBnYJz1hl9UbHdbn6OIj2xeQaS6kk_81X7eaBNJj-1JDC5xkp38oEyGbD6tthU0XGrveXw-CFZN4nlgmHoaeH-cOm8UZV7TF8Yssh8_4RNHwAlm1f88Jvkinct4tyK773mQDYz5Ea2bTMdl1AXl7blvuxsfH2Zu6yB-nMyOw8EE38_rzDOQuhrddZbX_GlIHK_kwyoubyKLEwhWXCtdRyxSSqsWSyupxduzXJ1I6GrNfrD90y1CHeT7ouSnlNc-xx05zSbRoSpvhwuN_gtWXTP90Ei2csoxT8xvQ_wuc4eFks7UzwSUl95_cSA91b4355OfWWVkDnGGAdQx3HDA1npX3YJKmFmbtC0G2T5sciKbnY5AlzLhGFrvRlXu54b2p9EQUE2gGS-SwkENe0yFBpJXU6gs82GnOrwzZVnYnwbGcbRqlWdzbUcCcGgjrIuBw-8BRyXjVRuL4UbgYeYqpFZL9jcLi06t_cyPFux_tEbDkXBcR3_-PGHVN_5kJDYPN0QwbLcf-HvvEv06ZRAM" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Маленький экран — серьёзный вызов&amp;#33;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://bit.ly/4pNpksc?erid=2VtzqvKxE6D" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;VK&lt;/a&gt; мобильные разработчики создают опыт, который помещается в карман, но работает на миллионах устройств. Узнайте об их подходах к сложным задачам и ключевых результатах. По &lt;a href="https://bit.ly/4pNpksc?erid=2VtzqvKxE6D" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt; — ролики и даже вакансии&amp;#33;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/fhKRu8dFKxV-MCGzjt2mjD0_h0j4tJRjGiwJIs_QTLb7lE8ju1xXxFrUxHT9fZ7YIQbmEYLzt7Kp5NhjHmV4AV9Rs-CsWrh5MYbG9oeGbwEyoG9lrlNuitw8RG2hcQ5fEJ84_VlFFK3a846DYr3I5wlY8EuH_49s7b5Xy4HY20EZOMYwoOrjR7d5fZa9mVEAQ157HP_yH70xbPveUiIsOai86lrvTcOpgg3sIOka6j3nV4pTxpt0oYuj_z-yE2Tbyap4U4IR74BcpbUosCd8ySJvetxXbXEDP7XSLTr-ll8c4BvoD5ZLqa3Y8cy_JFB1wFBJciZ4J0hTgucQ1tNSYQ"/>
+  </entry>
+  <entry>
+    <title type="html">Stanford CS193P 2025 - Developing Apps for iOS&#13;
+&#13;
+Вышел обновленный курс...</title>
+    <published>2025-12-09T05:30:00+00:00</published>
+    <updated>2025-12-09T05:30:00+00:00</updated>
+    <id>https://t.me/swift_tips/814</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/814"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_tips/814" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/swift_tips/814"&gt;&lt;img src="https://cdn4.telesco.pe/file/rildwsmrzKnbyw88Q9W7wfz43cCBlsByEhI2egNSfFM84DwWddyGc8hiCefXSxnlv39Ak-Spyn-RMmYrP5GWxCg_u1XwXF6vjXaUjJug7TdlPBM_rcNY2Rb8EXWPwJ4IfibDU9fc9SoQGCvnAp0SYQLWwYxF-2mxAYIHCm2ZCPohX5IthJx2VN8S7W2iCDIKiZl1FPpN3V2YWBgkH9BYUmGBDPoEjGizstCjtKAxDNIdVXReLMENcMs77hfO01_9kdCJ3XtByw99z0r7s9451FcTYF0_C_hQrehNqV0gU7rIQ2j1exwZjazoUJnILrExaLX-wTAZvrr6wsWjAAs7fA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Stanford CS193P 2025 - Developing Apps for iOS&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вышел обновленный &lt;a href="https://cs193p.stanford.edu/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;курс&lt;/a&gt; Стэнфордского университета CS193P по основам разработки приложений для iOS. Уже опубликовано 12 лекций, в скором времени ожидается ещё 4.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Getting Started with SwiftUI&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;More SwiftUI Basics&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Model and UI / Swift Type System&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Building CodeBreaker&amp;#39;s Model&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Layout / Data Flow&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Data Flow Demonstration&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Generics and Views / Animation&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Animation Demonstration&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Elapsed Time / Protocols&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;List and Navigation&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;iPad / Sheets&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;CodeBreaker Editor&lt;br/&gt;&lt;br/&gt;&lt;a href="https://cs193p.stanford.edu/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=kCjDulwChRQ&amp;amp;amp;list=PLoROMvodv4rPHblRXKsJCQs8TLGpiCTrG&amp;amp;amp;index=3&amp;amp;amp;pp=iAQB" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Смотреть (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Creative Coding: Randomness and Noise&#13;
+&#13;
+Интересная статья, в которой...</title>
+    <published>2025-12-09T00:37:59+00:00</published>
+    <updated>2025-12-09T00:37:59+00:00</updated>
+    <id>https://t.me/swift_tips/813</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/813"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/813"&gt;&lt;img src="https://cdn4.telesco.pe/file/gw_nTK9OzqlyOHbt9rlBCLuAsuSfr8Iz08E-XotdwZ7Qr-LljR5ZZ8YC4HA3TPtWp-5KRsF7RTx3Y7JE9UvWlx2szKlg8lib8budQk4bGrWG8wKkqfGCqmY1Y62ooYUZkM-h7G7-nASLHqDRgVMzJ7IgjRb4tB_k3gAlQlaZ0mTNE-cpeK8rI8YK42mbB0BOFQrVi-1T0Fe0hC2qQYgQW5cE5wt15280322pZoVilVpyp1dfieh92ZCntpTHzLqkbZKDYo5O4tC7ntLcX6yWL-OK5YYRWxtlkahWWeCRCsYnQvR8UUgiCpwfKRE9M_YQ9LfjBRMmtPFr0dMKVV-gqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Creative Coding: Randomness and Noise&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Интересная &lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается как можно преобразить UI проекта, с помощью необычных анимаций.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Навигация на SwiftUI: чего не хватает и как...</title>
+    <published>2025-12-04T13:03:16+00:00</published>
+    <updated>2025-12-04T13:03:16+00:00</updated>
+    <id>https://t.me/swift_tips/811</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/811"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/811"&gt;&lt;img src="https://cdn4.telesco.pe/file/eVPJqdC2DVgx2g7g4LH9f479Ayhz_7Kp9leQwYOyd0FEEIR2gjmCe07mAMZ_tbYB9Gkowu5QOL1OgtP4ZK5P5OsTuBDb64HMtqr2Hma1YVlQGhwCiYC8FKG1uBqi0EuKkTSDGarT3WUjz8JJ9TpbChuQwTcyXEEuKYAVwX9C0mLwKviJf-J4ChZEzeIgibGh1rUPULXdn6fypoKqEuEtbSg2PKj-K-_VjIVBNkOekooNQdfQajYE5SCRO3kyCsOUbMs2Mo-bFN16MSANWz2JacwL8gqKNrthk7MRatoPfczoIlL1Qa1osAFatC8IR3dtN0eR-VFDy5jpLA7id9Ijbg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Навигация на SwiftUI: чего не хватает и как исправить&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Разработчик из CleverPumpkin &lt;a href="https://habr.com/ru/companies/cleverpumpkin/articles/972810/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;рассказывает&lt;/a&gt; с какими SwiftUI ограничениями столкнулись в части навигации на проекте, какие обходные решения применяли и разбирает в каких ситуациях какие инструменты использовать для контролируемой навигации.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/cleverpumpkin/articles/972810/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Thread-Safe Classes: GCD vs Actors&#13;
+&#13;
+Небольшая статья про...</title>
+    <published>2025-11-18T23:06:14+00:00</published>
+    <updated>2025-11-18T23:06:14+00:00</updated>
+    <id>https://t.me/swift_tips/809</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/809"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/809"&gt;&lt;img src="https://cdn4.telesco.pe/file/YU7aS6yBHkyTD11YHZ56DjtSQ75cSMLizN7jZEm3YxbNtxd6Tir5ksgVGuNGpDLYFs2g0x8ikqonlxF7zneS-2DgxRsxEjGkKXvMnfsYIZzxQeka-ke5WoXKKDLl-hK5OoKqGc6VFXqC2O6d2Joyhub-fEh9rZ0fDc3fTMUXnIghOcEjluIsUETpAhy5xQNrvZPnbINTF7bEfByVOXq_V3IJijzpoBGJIvYx2sxezwyU0JNDvspBSkugC_7JddND9ERnOdLfVcfiYBwquZNBLg6a__cn9ohLpjCXYQ4OERMUxO4v6viBeQ-jQC0zFZcHPjNJkfhNax6r-sZSKnFvzQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Thread-Safe Classes: GCD vs Actors&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Небольшая &lt;a href="https://antongubarenko.substack.com/p/thread-safe-classes-gcd-vs-actors" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt; про многопоточку, а именно про то, как организовать потокобезопасные операции чтения/записи разными способами, чтобы избежать  распространённых проблем по типу race condition. А в конце статьи, сводная таблица с сравнением подходов.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://antongubarenko.substack.com/p/thread-safe-classes-gcd-vs-actors" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">IntelligenceGlow – легковесная SwiftUI-библиотека, которая...</title>
+    <published>2025-11-17T20:13:14+00:00</published>
+    <updated>2025-11-17T20:13:14+00:00</updated>
+    <id>https://t.me/swift_tips/808</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/808"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/iYHz-z2TqqZPEcbh_UBpu_um3SBJAcixOO_O_apL3Z8iH1w-VvnsLlr3G5Xqeqyg2KwAlvOSwBDQRtDCpE2Djolyn9UfUUacf6Bsm28YsjvoxtOCaiOP56UUxkW4yqf5CPQ3kN_11FPFXs4JhYbDppnJ5sBh8SOuJEEEbe_sie193-zdXEWlakGtYKSzEm-0jfEkKMHj1W-EiaFZCKloZGTw7eXGjdrmQ3gkLclg8S5e-3WzIhmZNCgrDRhvG8YF_9GZat5g5BvR0NrEZzyZajwbjnx-LNxb195FSSsOpQpWZ5uyPGLZTJwLyh8qVgCsf6fgHFOYwmxwTYdrnlNXbQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/0c05135bbb.mp4?token=ir-cspxhx9Hek7vd8MmL0IEbOOskn239OfEL8TMNHmnnRVXDNS3jQQ8VJVYobWPA1s4ta-Avbmb_xq2xygLhmspKK_1Beh7bywKPeCB3uRtbr2KbBQEgj0XBsH23yH6U8xEiO4PdL3xNu4SL8DOdXhcZWQprXocURdwSxGG8zA5DVOTEZhxpk7QoIyi-68MaQkxyaZkjTucgN57_tsyPFWYcKK2KILp0Nse3xTLVmqHrXdrl-1PTmbIjSJzJ7D27Ho3T_1vSj8YR4eZ-OyV7wq8pqFrDlygTY-H4aG7s9nkJJz1QNcv1ztQ4Q5WcLRRmaKPNn-otjirvfZ0fT40s6Q" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Livsy90/IntelligenceGlow" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;IntelligenceGlow&lt;/a&gt; – легковесная SwiftUI-библиотека, которая добавляет эффект светящейся обводки в стиле Apple Intelligence к любому элементу InsettableShape.&lt;br/&gt;&lt;br/&gt;Библиотека на GitHub → &lt;a href="https://github.com/Livsy90/IntelligenceGlow" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;IntelligenceGlow&lt;/a&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/iYHz-z2TqqZPEcbh_UBpu_um3SBJAcixOO_O_apL3Z8iH1w-VvnsLlr3G5Xqeqyg2KwAlvOSwBDQRtDCpE2Djolyn9UfUUacf6Bsm28YsjvoxtOCaiOP56UUxkW4yqf5CPQ3kN_11FPFXs4JhYbDppnJ5sBh8SOuJEEEbe_sie193-zdXEWlakGtYKSzEm-0jfEkKMHj1W-EiaFZCKloZGTw7eXGjdrmQ3gkLclg8S5e-3WzIhmZNCgrDRhvG8YF_9GZat5g5BvR0NrEZzyZajwbjnx-LNxb195FSSsOpQpWZ5uyPGLZTJwLyh8qVgCsf6fgHFOYwmxwTYdrnlNXbQ"/>
+  </entry>
+  <entry>
+    <title type="html">Combine – швейцарский нож iOS-разработчика. Или...</title>
+    <published>2025-10-27T06:20:08+00:00</published>
+    <updated>2025-10-27T06:20:08+00:00</updated>
+    <id>https://t.me/swift_tips/806</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/806"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/806"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zl73wikm8zUSC0te5BJswhHpdAD9QUCMPJYnxv7ibF545mNoefuRLjCxuTgzWyXv4FbrZvOmpMXZBEv7zIxZ6bs8fv4NXyyhI_LIPQRkAA_amFgbl2NFSnlFQ-zKuPBlBjSK_y-x1Kz_wBV2T1kH5flRF0Mo40PXiqdkgrE5z024aA2LvrMDNBQWSLQ2emYO7Y04xiGiNFUvpA7vOC1S_rmhNOgCbvPhSNvPAAE1kutzJi-_kT9NdOQXpA8oTaJHb4uWfSgeGe8hsl_37yQBft8eeHKjJ50lTYpVAXKvfsHO-9K8FwTm36YaeBMPGfJ7IgHl_OrulbVQ9tgrq5xzqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Combine – швейцарский нож iOS-разработчика. Или нет?&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Большая &lt;a href="https://habr.com/ru/companies/banki/articles/958650/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt; с обзором Combine: как устроен фреймворк, какие сущности лежат в основе и примеры использования.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Небольшая сводка: Combine – фреймворк для работы с асинхронными событиями в декларативном стиле. Он помогает разработчикам управлять потоками данных, избавляя от множества колбэков, ручного управления очередями и других сложностей, связанных с асинхронностью.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/banki/articles/958650/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Xcode: ключевые инструменты для ручного тестирования...</title>
+    <published>2025-10-21T19:46:23+00:00</published>
+    <updated>2025-10-21T19:46:23+00:00</updated>
+    <id>https://t.me/swift_tips/805</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/805"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/805"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dtd4-0SVoog2tdWIZvMxaAijZ_6rZjclAfMlKZNuFd8XPrP6ITHfl3UYJZnoQ21fsHrA8kk2QYRjF8dzg8VjEEUdCtILNEFabrf3P6vJotHEQNOFIpLPm7il58KkL75h8T4GRUu1fMcVtX6Vk2O81KmyvboiApsR3QOwPYPaYcVYqJoXNm0WurIzHDZf4RJ0Z3NSBX_75FMcRbTfMWDVNvcG-UYhFSY0j2WUWS6EiqDRd-n86JsAHGONcrU6pLT3IkoGePlf7gHxFnl2QlxNjB3D_6LXLLrVB-juPrPLq9xu0aNxiDMON-TCtFCaUB4uZq6J094C9_IRKyCq7hUVhQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Xcode: ключевые инструменты для ручного тестирования мобильных приложений&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Автор &lt;a href="https://habr.com/ru/companies/sovcombank_technologies/articles/956112/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статьи&lt;/a&gt; делится опытом тестирования мобильных приложений в Xcode для обнаружения критических багов в iOS-приложениях на этапе разработки. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; Симулятор устройств и управление конфигурациями&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; Работа с логами и анализ крашей&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; Инспектирование верстки&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; Мокирование сетевых запросов&lt;br/&gt;&lt;br/&gt;&lt;i&gt;P.S. Материал может быть полезным для QA&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/sovcombank_technologies/articles/956112/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Компьютерное зрение + ARKit = AR-навигация внутри...</title>
+    <published>2025-10-15T06:30:56+00:00</published>
+    <updated>2025-10-15T06:30:56+00:00</updated>
+    <id>https://t.me/swift_tips/804</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/804"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/804"&gt;&lt;img src="https://cdn4.telesco.pe/file/TuortlMMsYMavAZ82dSNVVTm_HMFtldWD9ONfR8kkNe6iXzw1MkR42a5GQg9MIdIUb3R5ag6b6hjYyyls8-9JES-HvU1CjSEaCu3cJZpyjuB_BEqGJEzWgQBU3LQTIm5_8ccLGL9vElC8POAL6sAIGaGcWVmhiYVQWxs2yQaJ3TVHNF_KVqEl6650ixiMmCy1WsUkJlJ9_yQj_hFIwrb4NZGxQOOfOcKYGp1NNGZPgnn4-KvzPP_DSn5qHDvgjFkL9lCk8Jss8c5jtG1fodYY5pq8Pu_0T9NmM7kpIMZ7d951pThJLq79FODIdYNV1IFuuap2LPyCW0hJMYssi2w7Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Компьютерное зрение + ARKit = AR-навигация внутри зданий&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Крутой материал – ребята из 2ГИС запилили реалтайм навигацию внутри зданий, с помощью AR через камеру.&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статье&lt;/a&gt; рассказывают, как подошли к задаче с точки зрения компьютерного зрения, какие грабли собрали, как ускоряли локализацию и как боролись с погрешностями ARKit.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/2gis/articles/951526/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Как Swift Runtime влияет на производительность...</title>
+    <published>2025-10-03T06:34:08+00:00</published>
+    <updated>2025-10-03T06:34:08+00:00</updated>
+    <id>https://t.me/swift_tips/802</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/802"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/802"&gt;&lt;img src="https://cdn4.telesco.pe/file/s_xKRJem9TIki4zWbA0u-t2Yqb5ntLJVHS25AhcCgjXVogGLFfRyMO8SBBSWUjFhpOXfORw68dxDhf_nCkfdDYPJfHIA8pbOUUW4uMZNkj5jykIWEd6yjH9CmWhyqGHorZmAJThrv4PK1AxygNZlvk_FYs2MZj7s57EgU5SYeI1xDQ0qQLRvJ77gQAp1sWUAr4FlElDETCE4BuQdWaRqHvX5EdsC9BdLEARlgPqVTCFrs1f7mDY0wREEh2O4-7I18GOoTZAXh-0ZMir5zAkLDR-6VxK5BNsCKR8krn69UFuWuel_QT0bjrWNO3nBe5gTOa3GWpYpRiWJ1tAlKzpyfw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как Swift Runtime влияет на производительность iOS-приложений&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Большая &lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается про механизмы приведения типов и создания generic-типов внутри Swift Runtime и разбирается метод &lt;code&gt;swift_conformsToProtocolMaybeInstantiateSuperclasses&lt;/code&gt;, ĸоторый является узĸим местом в производительности приложения, ĸогда и почему он вызывается и ĸаĸие стратегии использовать для смягчения негативного воздействия.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Миграция на SPM: что мы выиграли и что...</title>
+    <published>2025-09-28T23:22:30+00:00</published>
+    <updated>2025-09-28T23:22:30+00:00</updated>
+    <id>https://t.me/swift_tips/801</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/801"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/801"&gt;&lt;img src="https://cdn4.telesco.pe/file/gsr-GvE3CTIhOyydPAcS3qljk-E3mYjrCRmPwXeol5nLPeU7dCwiiFNBWFlpz4BKaJRWPvJwKzZJJJcAR9xtx4b5lsEdqj3BXz4ihNdU_6O7FaI7nA993s988ZFp2oYtracueEyWYrMHtLDlGSXm6zxgMD6LDhB8ql8ZJ6RI8bcHcG0-jpvUxG33Muj0RzC8n0r2byJ9qGEIwDGHx5AGzN_QRiLhDHPiMMpn6aIxwrfaii3bWMgHDlO9pXTNT3w9z83el0HCtU0SSrqA6Mf23dftAVP2Wi3nVIHNbUih4IhDAT05DxTu9LS1o1aH-kyJB1ULAJ2XmcbxY49rnN3bPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Миграция на SPM: что мы выиграли и что потеряли&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Разработчик из Core-команды Туту &lt;a href="https://habr.com/ru/companies/tuturu/articles/948276/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;рассказывает&lt;/a&gt; про опыт миграции с CocoaPods на SPM, проблемы с которыми можно столкнуться в процессе и на что стоит обратить внимание.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/tuturu/articles/948276/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Новые подходы в Swift для тестирования: разбор...</title>
+    <published>2025-09-26T06:05:12+00:00</published>
+    <updated>2025-09-26T06:05:12+00:00</updated>
+    <id>https://t.me/swift_tips/800</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/800"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_tips/800" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/swift_tips/800"&gt;&lt;img src="https://cdn4.telesco.pe/file/uGGQOpwDdg5LiE0KARvyKKr_ds_j36nM7gGpVzZKcGKM2MPShTXIXnN6b3JM_Iy8_Z6MY-DgLf1ze0vCFYuoiOXI7cSraxVv7wy6TIc2qiW294HeZv37-peO_nW34nPYEud70BNZUsMR-dgk0sdFqUluOnyi52R1E28bFj79aNjBNoWspje7mix-pKKsNaFOYufRkRu0tnuV-y5mQp8H8Varj2HiEHjxdg5cYCgAhjX8wOvZBgPkLJCfZ8ZpIOvOqaRbzXsqjz2eX0xYg6d0jJ-qvvHtHqas1F06G0wC2p9gs-9B2UQI7vfpdhbeLiyd-pdYPJDSCZhSOlUrMi-XVA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Новые подходы в Swift для тестирования: разбор технологии Swift Testing&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/vk/articles/949260/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Статья&lt;/a&gt; с разбором нового фреймворка для юнит-тестирования от Apple, представленного на WWDC 24 – &lt;a href="https://developer.apple.com/documentation/Testing" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift Testing&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Немного о Swift Testing&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Expectation&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;withKnownIssue&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Кастомизация тестов&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Параметризованные тесты&lt;br/&gt;&lt;tg-emoji emoji-id="5199879367253050516"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')"&gt;&lt;b&gt;🟢&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Возможности миграции с XCTest к Swift Testing&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/vk/articles/949260/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Swift на Android: создаём библиотеку&#13;
+&#13;
+В Swift 6 появилась...</title>
+    <published>2025-09-19T00:22:44+00:00</published>
+    <updated>2025-09-19T00:22:44+00:00</updated>
+    <id>https://t.me/swift_tips/799</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/799"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/799"&gt;&lt;img src="https://cdn4.telesco.pe/file/nA1wZlrzL42IjeG6WZUSrrGjpV8rUlJ2BMdK2W0Sz8tsESXYeEPLGTk2voTINKC4jwvYFm8MD4PLm-IIeJmUTctvMSubI8CNWltTbMEe11UWGBaAuW3ihlNka3FooNqwDpAcCemG7TIg8jhaAL4QbMdDTMgD3Iyv54N-1mlGq-ilNdvf89I8S_CqyObbl_Y6gSr9OB4yJI2JvjWYUBvjFCZwxfsRX7H0hBN6gKGjDNgtA3eyk5Kk1IMx_TzFFgLSy1jHOQA_b70BoHD7U8S78fUI3734dAC1OvDm4FlSB7kzRaRS9eOttFRfEqm9fjrpR06DJxwkv33kC9KgZD2wIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Swift на Android: создаём библиотеку&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6 появилась возможность работать с &lt;code&gt;Android NDK&lt;/code&gt;. Это значит, что мы можем писать код на Swift`е и в последствии, &lt;s&gt;с минимальной болью&lt;/s&gt; вызывать его из Android среды (Java, Kotlin) c помощью JNI*.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;code&gt;Java Native Interface (JNI)&lt;/code&gt; – это мост который позволяет нативному коду обращаться к &lt;code&gt;Java Virtual Machine (JVM)&lt;/code&gt;. Когда вы пишете Java код, то вы используете Android SDK. Но когда вы используете языки как Swift или C++, которые не компилируются в Java байткод, вам уже нужен Android NDK для коммуникации с Java через JNI.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Ловите подробную &lt;a href="https://habr.com/ru/articles/946224/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;гайд-статью&lt;/a&gt; от &lt;a href="https://t.me/imike3049" target="_blank"&gt;@imike3049&lt;/a&gt;, как это всё можно завести.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/articles/946224/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Swift Concurrency и CoreBluetooth: как построить современный...</title>
+    <published>2025-09-15T22:38:26+00:00</published>
+    <updated>2025-09-15T22:38:26+00:00</updated>
+    <id>https://t.me/swift_tips/797</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_tips/797"/>
+    <author>
+      <name>Swift Tips</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_tips/797"&gt;&lt;img src="https://cdn4.telesco.pe/file/AshpKGYNjulMt28eRZMskdTQ94BVS14iDo0fWD_1B3NdhWgWkG3VryH0G7Pww_CGc6qaDSKao-w6p2JQs1H6wPlAWDzjnjGXIncTEdS2R6WqdvwFdL3gh7nFzQHXBMt05iYod_4vSCUUjb6VDWQG_CGzOZnbvMczBaYOwoVXU7x4d5oqEuKLnCDBu9mO2kRawHwyYwqa8d2cKudQGWWzwpXZvdSRkaRsPCdcZ-uyLNrqAaOgTmPGtoHyKGqgVXDunGnnNHhHb6Yx0aWLcWPOg_5JFhCRQ4TmZWPInG9ptYhMUVDfYbUOloTlTe8iGpmk0vQ0d6d1E-tduoHUbD1n_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Swift Concurrency и CoreBluetooth: как построить современный BLE-сервис&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Автор &lt;a href="https://habr.com/ru/companies/citydrive/articles/946328/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статьи&lt;/a&gt; рассказывает про подводные камни, с которыми столкнулись при совмещении structured concurrency и callback-ориентированного API, как их обойти и на что стоит обратить внимание, если вы тоже решите «прикрутить» современные async/await к старому API.&lt;br/&gt;&lt;br/&gt;И всё это на довольно нетипичном кейсе – управление дверьми машины каршеринга через Bluetooth, на случай отсутствия интернет соединения.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/citydrive/articles/946328/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

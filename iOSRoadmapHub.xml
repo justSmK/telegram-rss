@@ -1,155 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Telegram Bridge</title>
+  <title type="text">iOS Roadmap - Полезное | Swift, SwiftUI, Интервью (@iOSRoadmapHub) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iOSRoadmapHub"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2025-12-26T09:28:16+00:00</updated>
+  <updated>2025-12-26T10:16:12+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Bridge returned error 0! (20448)</title>
-    <published>2025-12-26T09:28:16+00:00</published>
-    <updated>2025-12-26T09:28:16+00:00</updated>
-    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
-    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/iOSRoadmapHub        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #20 lib/http.php(185)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@iOSRoadmapHub    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2FiOSRoadmapHub&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2FiOSRoadmapHub+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40iOSRoadmapHub%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    VerifiedJoseph&lt;/p&gt;</content>
+    <title type="html">КАК Y COMBINATOR УЧИТ СТАРТАПЫ ВАЙБ-КОДИНГУ: КОРОТКИЙ...</title>
+    <published>2025-12-26T06:38:35+00:00</published>
+    <updated>2025-12-26T06:38:35+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/307</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/307"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iOSRoadmapHub/307?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/LRz0qNLvswGAIDSrK0dLagy5dGWMKsdNZJVO6qYCzQLhan4YrgcfDPI5UTqwb-qA6mC4sPZKzf1RvcA431DaU-rOOoZOERWwWfWdvz_rvXTrTyeSb9l0Gv55TA8DCEj7ZYP4sPPneW_qkBd5N6iw4-WXov3PCaeb76vudhbIfYqKBTPs-d1_FLvr_sbfz3SeM-5DUQxcO9Fu5TaiSugUaUI465ASceWb7qU_rQXXxN9OG0A0tTfR8Z0TRpqafc8LtC1omx1yrybDHPfGQK-IuWsDayR9tYWqxYXOGYJ3z7ynk4wf8RjREkYJUgiqKTHk8qjSmo-9RkWtcW1Z8zUWcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iOSRoadmapHub/308?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/alSuZQLpMCuVWERN3sdgDGWSWDg-cMhV5JM0cuHUKQciEW75z7rnsGCUrVfx497dQKAyeiVrqbH6NOER3dmUYQECtuzmNIKK_fu4JcXGkQp7r9OQOATMf78UMkp0C_YcodmtTOWOa2Mls21Zoquo1RIQnCsWJL6D5bq_IkUenz78wNzJAQ-2xcEV71IkkutFB-w4aRUfPUmfI77oi5IXHAAjW9vs173EIf9U3eKbnBd8EeKzVnxlg4nC1aElDT4pShzEfdFUYDpvlKr00cMK09JjXLxEKU2xENe7ciwkWhwBUXpucJf9q3MzX9-OwYlZW4e_il5aQyPLXj4FG4cP4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;КАК Y COMBINATOR УЧИТ СТАРТАПЫ ВАЙБ-КОДИНГУ: КОРОТКИЙ ГАЙД&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот гайд основан на нескольких компаниях, которые в том или ином виде используют vibe coding.&lt;br/&gt;&lt;br/&gt;Не знаю кто им помогал, но ощущение, что рука технаря и не сильно то коснулась данных документов.&lt;br/&gt;&lt;br/&gt;К примеру любой джюн скажет, что фичи лучше деливерить изолированно - Git Workflows.&lt;br/&gt;&lt;br/&gt;Но если-что ИИ это не остонавливает от:&amp;quot;&lt;b&gt;Похоже мы не на той ветке, надо смёржить&amp;#33;&lt;/b&gt;&amp;quot;&lt;br/&gt;&lt;br/&gt;В целом материалы от части полезные, так как обозначают необходимые на &lt;b&gt;подумать темы&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Но любой вайбкодер со стажем скажет и покажет, чего и где не хватает.&lt;br/&gt;&lt;br/&gt;В начале января уже будет воркшоп, где поделюсь своим опытом на основе мини апы, с конкретными кейсами, ошибками и нужным материалом.&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Доброе утро, так как у бусти постоянно проблемы с...</title>
+    <published>2025-12-24T07:25:08+00:00</published>
+    <updated>2025-12-24T07:25:08+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/306</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/306"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Доброе утро, так как у бусти постоянно проблемы с оплатами, а в этом месяце так вообще, уже человек 10 написали, что &amp;quot;деньги есть, всё ок - не списывает. Ждал несколько дней, любые карты - не принимает.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;То есть аналог в виде Tribute&lt;/b&gt;, где есть скидки кстати не только на первый и шесть месяцев, но и на 12 месяцев.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Скидки причём на всю оплату, а не как у бусти на первый месяц только&lt;/b&gt;. Если подписаны на бусти, то имеет смысл отписаться и переподписать на Tribute тоже, спасибо за внимание&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.me/tribute/app?startapp=sJgT" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Небазовый тир&lt;/a&gt;: на каждый период сделал скидку в виде меньшей цены&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/tribute/app?startapp=s1z6" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href="https://t.me/tribute/app?startapp=s1z6" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Базовый тир&lt;/a&gt;: на каждый период сделал скидку в виде меньшей цены&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/tribute/app?startapp=s1z6"&gt;&lt;img src="https://cdn4.telesco.pe/file/P-_BJfccjJqlcIrWHOQmcnmwfk3dBFSP4uE_Tg9SjXasIR8EEfL2kMUKhpxAgn4Auxy_P4U_X_8s7qHoCH7kL3WDJFW0igH3X25Gi8QE4FXcKD6w-pZYbeIVe6DIymtEiCyLUqFyNXWEDtj8O9j-fJoJQoGe0ofBiiPIY5e_Is6rqq-MZ8TgYUdcd-GQgmQ-hMfM8tbXx5ouJ17MUB3dWcHG2Z3ER0Bhl70jJK5QKAah-rwhB0P_IoGufH9Fx18gk2Wos8LF_1S3SpXEu99O9BSQPRWZOU9bp_w91Lkfoo5P58B7roDX3GDpA33UDsvye1b-2V7ReLg9Pb4Qz9e9Dw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/tribute/app?startapp=s1z6"&gt;
+Tribute - Telegram&lt;/a&gt;&lt;br&gt;This bot helps content creators receive financial support from their followers directly in the app.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#swift #ios #backend&#13;
+&#13;
+What&amp;#39;s new in Swift: December 2025 Edition&#13;
+&#13;
+Команда Swift...</title>
+    <published>2025-12-22T09:20:44+00:00</published>
+    <updated>2025-12-22T09:20:44+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/305</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/305"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/305" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iOSRoadmapHub/305"&gt;&lt;img src="https://cdn4.telesco.pe/file/sF5enKKrW0xoqJmICyVEnEOrukHBolL1_1eAhR5lmCZnuGvxZMzxthX-MU1oden9810yNcnEvXmkw35ot8w43wQky7lHFLZFjGX4zH2ez-lkGdDy1aqZAgdqioGUUxTdflmWfa8PzHttxpT_Ioi_DY-Xp4twqGzMM37MfxGeQ6utlzpSZ_Y2ZDwAVQeP4aJkid7y83XXLcBPPyUC-ooTq4lb4Dz2fcti94ITchYUTZbiQyYFpYEAhKxFGcc4gYTqYqEtxOfgwrGpCnmkWUqHX-4ko4xyM6hxDr8exRBpQM8ZodyZWrQ35LnXMLEoWCKVwQnP45gX2wlRxdnODtiw4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23backend"&gt;#backend&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;What&amp;#39;s new in Swift: December 2025 Edition&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Команда Swift выложила декабрьский дайджест - и там есть о чём почитать.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.swift.org/blog/swift-6.2-released/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift 6.2&lt;/a&gt;&lt;b&gt;:&lt;/b&gt;&lt;br/&gt;- WebAssembly support&lt;br/&gt;- Глубокая C++ interoperability&lt;br/&gt;- Улучшения memory safety&lt;br/&gt;- Более доступный concurrency с progressive disclosure&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Платформы:&lt;br/&gt;&lt;/b&gt;- &lt;a href="https://forums.swift.org/t/swift-on-freebsd-preview/83064" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;FreeBSD 14.3&lt;/a&gt;+  preview уже доступен&lt;br/&gt;- Android: ежедневные snapshot-сборки и end-to-end демо&lt;br/&gt;- AWS: Amazon официально поддерживает Swift в Amazon Linux + AWS Lambda Runtime&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Swift Evolution:&lt;/b&gt;&lt;br/&gt;- async / await &lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;теперь можно использовать&lt;/a&gt; в &lt;b&gt;defer-блоках&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Блоги и доклады:&lt;br/&gt;&lt;/b&gt;- &lt;a href="https://www.swift.org/blog/exploring-the-swift-sdk-for-android/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift SDK для Android&lt;/a&gt;&lt;br/&gt;- &lt;a href="https://www.swift.org/blog/swift-temporal-sdk/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Temporal Swift SDK&lt;/a&gt;: workflow orchestration на Swift&lt;br/&gt;- &lt;a href="https://www.swift.org/blog/swift-configuration-1.0-released/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift Configuration 1.0&lt;/a&gt;: единый подход к конфигурациям&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=I3lYW6OEyIs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Кстати советую посмотреть&lt;/a&gt;:&amp;quot;Separate code from configuration with Swift Configuration - Honza Dvorsky&amp;quot; весьма наглядно и доходчиво&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5332755643822520488"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"&gt;&lt;b&gt;🔗&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;Читать&lt;/b&gt;: &lt;a href="https://www.swift.org/blog/whats-new-in-swift-december-2025/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/whats-new-in-swift-december-2025/&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#линкедин #резюме #работа &#13;
+&#13;
+https://t.me/piu_nastya/1051</title>
+    <published>2025-11-25T12:30:35+00:00</published>
+    <updated>2025-11-25T12:30:35+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/304</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/304"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BB%D0%B8%D0%BD%D0%BA%D0%B5%D0%B4%D0%B8%D0%BD"&gt;#линкедин&lt;/a&gt; &lt;a href="?q=%23%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5"&gt;#резюме&lt;/a&gt; &lt;a href="?q=%23%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0"&gt;#работа&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/piu_nastya/1051" target="_blank" rel="noopener"&gt;https://t.me/piu_nastya/1051&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/piu_nastya/1051"&gt;&lt;img src="//telegram.org/img/emoji/40/F09F9A80.png"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/piu_nastya/1051"&gt;
+ПИУ, НАСТЯ 🚀 - Telegram&lt;/a&gt;&lt;br&gt;Где оставить свои контакты на LinkedIn, чтобы вам написал рекрутер, которого нет в контактах?&#13;
+&#13;
+В комментариях под прошлым постом вы просили добавить шпаргалку, как это сделать. Делюсь&amp;#33;&#13;
+&#13;
+Делаем действия в двух разделах:&#13;
+&#13;
+1. В контактых данных &#13;
+сделать видимость…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#swiftui #task&#13;
+&#13;
+SwiftUI: почему task не перезапускается при смене...</title>
+    <published>2025-11-18T15:11:12+00:00</published>
+    <updated>2025-11-18T15:11:12+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/303</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/303"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23task"&gt;#task&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SwiftUI: почему task не перезапускается при смене данных&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;- &lt;b&gt;task {}&lt;/b&gt; и &lt;b&gt;onAppear&lt;/b&gt; &lt;b&gt;не имеют автоматического&lt;/b&gt; трекинга зависимостей.&lt;br/&gt;- Они запускаются только при “появлении” view, а &lt;b&gt;что именно считается появлением&lt;/b&gt; - в SwiftUI до сих пор размыто.&lt;br/&gt;- Если внутри &lt;code&gt;task&lt;/code&gt; используется &lt;code&gt;url&lt;/code&gt;, а &lt;b&gt;значение меняется&lt;/b&gt; - &lt;b&gt;код не выполнится повторно&lt;/b&gt;, потому что задача не пересоздаётся...&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;For example, the task will re-run when you put the image loader in a List and scroll it out of bounds and back into bounds. Likewise, when you put the image loader in a tab view, the task will also run again when switching tabs.&lt;/blockquote&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/uBNfm_C2vt-HaPHBPHJnCiLjFG2cLVFLGFcN6f-ZJPykDQKGEGxxi7AXOZ0HG1fEJcbbhgihEMuzbJUCUErU3gdMBBDpliilHfwGcNW7yK4pbeGFWTYta-02NluC7Rhmo0c0NB2sMZ0QYRQVoe_-LIRbcbywHGBH-0ZBzu29BXDIuSxZrr5smlC9SNjeeBQ5EldsCO7b3WxPrTdetEMB1r7s8sxmRtLOoIZ8SQ7ZHoWUqxRHnfrQVI1SS1GyL27nWPM1fafnS_ToaguePcsTrHv84ZpoaThMFXUkTa44MwdV43lDjHrfFmsoHlZMFKBdWxAisyBiATp3qLrk41p8Sw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
+Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#autolayout #uikit&#13;
+&#13;
+Представь, что ты делаешь интерфейс приложения, которое должно корректно работать как при LTR: left-to-right, так и RTL: right-t...</title>
+    <published>2025-11-18T10:37:20+00:00</published>
+    <updated>2025-11-18T10:37:20+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/302</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/302"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">			#autolayout #uikit&#13;
+&#13;
+Представь, что ты делаешь интерфейс приложения, которое должно корректно работать как при LTR: left-to-right, так и RTL: right-to-left, языках. Какие констрейнты следует использовать и почему?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;7% - A) Использовать left и right, потому что они автоматически переворачиваются при RTL.&lt;/li&gt;&lt;li&gt;82% - B) Использовать leading и trailing, потому что они зависят от направления и адаптируются при RTL.&lt;/li&gt;&lt;li&gt;5% - C) Нет разницы, Auto Layout сам всё перевернёт, независимо от выбранных якорей.&lt;/li&gt;&lt;li&gt;5% - D) Использовать leading только для текста, а для вью - left.&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#материалы #swiftui #изучение #attributegraph&#13;
+&#13;
+В последнем...</title>
+    <published>2025-11-06T08:27:10+00:00</published>
+    <updated>2025-11-06T08:27:10+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/301</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/301"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B"&gt;#материалы&lt;/a&gt; &lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5"&gt;#изучение&lt;/a&gt; &lt;a href="?q=%23attributegraph"&gt;#attributegraph&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtu.be/HSTK1RUwGQk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;В последнем разборе задачи code-review&lt;/a&gt;, которое спрашивают в одном крупном биг техе - я оставил ссылки для дополнительного изучения &lt;b&gt;AttributeGraph&lt;/b&gt; в &lt;b&gt;SwiftUI&lt;/b&gt;. Но я хотел бы поделиться этоми ссылками здесь и дополнить рекомендации.&lt;br/&gt;&lt;br/&gt;Если ты планируешь идти на &lt;b&gt;собеседование&lt;/b&gt; или &lt;b&gt;изучить SwiftUI&lt;/b&gt; для своего развития - это &lt;b&gt;100% знания, которые тебе помогут&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;1. &lt;a href="https://chris.eidhof.nl/presentations/attribute-graph/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Attribute graph by Chris Eidhof&lt;/a&gt;: статья и &lt;a href="https://www.youtube.com/watch?v=dCSf9nR6SOQ" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;презентация в видео на YouTube&lt;/a&gt;&lt;br/&gt;2. &lt;a href="https://github.com/OpenSwiftUIProject/OpenAttributeGraph" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;OpenAttributeGraph&lt;/a&gt;: open source implementation of Apple&amp;#39;s Private framework - AttributeGraph which is a high performance computing engine written in C++ and Swift.&lt;br/&gt;3. &lt;a href="https://rensbr.eu/blog/swiftui-attribute-graph/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Untangling the AttributeGraph&lt;/a&gt;: редко где увидеть можно, но очень полезная&lt;br/&gt;4. &lt;a href="https://www.objc.io/books/thinking-in-swiftui/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Thinking in&amp;nbsp;SwiftUI&lt;/a&gt;: настоящая кладезь, п.1 на основе этой книги сделан&lt;br/&gt;5. &lt;a href="https://www.notion.so/SwiftUI-Layout-Engine-f7ed921ff50444cfb47ec906ad3f0d66?source=copy_link#c5cccabb74b94b1aa59d1dba49487c02" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Сами знаете где&lt;/a&gt; и на русском языке&lt;br/&gt;&lt;br/&gt;AttributeGraph - это приватный фреймворк. Знание и понимание концепций его работы, это уже очень многое тебе даст, как я уже говорил и в работе и на собеседовании.&lt;br/&gt;&lt;br/&gt;Из-за того, что по нему мало информации в интернете - эти знания будут твоим большим преимуществом. Советую изучать даже в общих чертах, если не хочется погружаться.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Эта группа теперь открыта&lt;/b&gt;, поэтому &lt;b&gt;можешь смело делать репосты&lt;/b&gt; полезных и интересных постов себе в избранное или друзья и коллегам.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#собеседование &#13;
+&#13;
+До конца этого года планирую...</title>
+    <published>2025-11-01T13:54:19+00:00</published>
+    <updated>2025-11-01T13:54:19+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/299</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/299"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/299" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;До конца этого года планирую записать моковые собеседования план &lt;b&gt;минимум - одно собеседрвание&lt;/b&gt;, &lt;b&gt;максимум - два собеседования&lt;/b&gt;, сегодня сяду за материал.&lt;br/&gt;&lt;br/&gt;Хочу отдельно по UIKit и отдельно Многопоточности, если есть материалы какие-то полезные, пожелания или просто фидбек, как-всегда в лс можно отписать &lt;tg-emoji emoji-id="5924633670861197599"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8697.png')"&gt;&lt;b&gt;🆗&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">MainActor привязан к конкретному thread?</title>
+    <published>2025-10-31T10:58:28+00:00</published>
+    <updated>2025-10-31T10:58:28+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/298</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/298"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">			MainActor привязан к конкретному thread?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;68% - Да&lt;/li&gt;&lt;li&gt;32% - Нет&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">На самом деле количество проблем можно выделить...</title>
+    <published>2025-10-30T10:56:14+00:00</published>
+    <updated>2025-10-30T10:56:14+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/297</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/297"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/297" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;На самом деле количество проблем можно &lt;b&gt;выделить разное&lt;/b&gt;, &lt;b&gt;но сводиться они будут к одному&lt;/b&gt;. &lt;b&gt;&lt;u&gt;Ниже спойлер задачи сверху&amp;#33;&lt;/u&gt;&lt;/b&gt; &lt;tg-emoji emoji-id="5429139425818854423"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949E.png')"&gt;&lt;b&gt;🔞&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Давайте ниже рассмотрим, в чём же есть проблемы:&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;&lt;tg-spoiler&gt;&lt;b&gt;1.&lt;/b&gt; &lt;b&gt;var id: UUID { UUID() } &lt;/b&gt;- каждый раз, когда мы обращаемся в &lt;b&gt;ForEach&lt;/b&gt;, мы &lt;b&gt;получаем другое UUID&lt;/b&gt;. Из-за того, что id реализовано как computed property - &lt;b&gt;id генерируется при каждом вызове&lt;/b&gt;.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;- Можно поправить как &lt;b&gt;var id: String&lt;/b&gt; и внутри &lt;b&gt;switch self&lt;/b&gt; и написать значения&lt;br/&gt;- Можно поправить как &lt;b&gt;var id: Self { self }&lt;/b&gt; и всё тип-топ&lt;br/&gt;- Можно поправить как добавление String или Int к enum и реализовать &lt;b&gt;var id: Int { rawValue }&lt;/b&gt; / &lt;b&gt;var id: String { rawValue }&lt;/b&gt;&lt;/tg-spoiler&gt;&lt;br/&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;2&lt;tg-spoiler&gt;&lt;b&gt;.&lt;/b&gt; &lt;b&gt;VStack вместо LazyVStack / List&lt;/b&gt;. Тем самым при имении user.achievements равном даже как 100-300 элементов, мы можем иметь просадки в начале, потому-что сразу всё в память.&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Зависит от того, что за элемент и что он показывает и т.д. Что уже говорить про 1-2К.&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;3&lt;tg-spoiler&gt;. &lt;/tg-spoiler&gt;&lt;a href="https://t.me/State" target="_blank"&gt;&lt;tg-spoiler&gt;&lt;b&gt;@State&lt;/b&gt;&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;b&gt; var user: User&lt;/b&gt; Хоть мы и передаем весь объект ProfileView, где используем только `user.bio`, у нас всё-равно будут ненужные re-evaluate и re-draw, даже когда мы не меняем bio.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;4&lt;tg-spoiler&gt;. &lt;b&gt;HStack / VStack&lt;/b&gt; по-умолчанию имеют от 8 до 12 точек отступов, соответсвенно если явно не указать `spacing:0`, то будет расхождение с дизайном.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;Если ты дополнишь этим пунктом, хоть он и не стоит в основной задаче, ты покажешь свою точность, что тебе &lt;b&gt;важен не только код&lt;/b&gt;, &lt;b&gt;но и сам продукт и его итоговый результат&lt;/b&gt;&amp;#33;&lt;br/&gt;&lt;br/&gt;Соответсвенно важно не количество правильных минусов, а какие минусы ты нашел, что они пораждают и так-далее&amp;#33;&lt;br/&gt;&lt;br/&gt;Поэтому я каждый раз и говорю, что такие практически задания на собеседование - это ТОП&amp;#33;&lt;br/&gt;&lt;br/&gt;Проверяется не знания ради знания, а то, что ты будешь использовать каждый день в работе.&lt;br/&gt;&lt;br/&gt;В этом плане у практических по &lt;b&gt;UIKit&lt;/b&gt; с его ранлупами и прочим, есть большое поле на вопросы и познания глубины, но не достаёт практичности в применении на работе.&lt;br/&gt;&lt;br/&gt;— &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/Code-Review-29932442656b80cca19afe6001066c16?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;Эта задача в ноушене&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;br/&gt;— &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/13732442656b8096ac4be53e0a1d93a7?v=13732442656b8103b415000c33e99047&amp;amp;amp;source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;Секция практических задач по SwiftUI&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;br/&gt;— Моковые собеседования по SwiftUI: &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-system-design-b1a856e558e7485aa0bebf32df3553d6?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;один&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;, &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-Structured-Concurrency-f7b3e243f03643b7a127b1eb2c282f73?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;два&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;, &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-Combine-Structured-Concurrency-80-20-1d532442656b80b281a5fd2f686d1afd?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;три&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;P.S. Ставь лайк - если понравилась задача и разбор&lt;/b&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Сколько проблем в коде выше?</title>
+    <published>2025-10-30T10:17:42+00:00</published>
+    <updated>2025-10-30T10:17:42+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/296</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/296"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">			Сколько проблем в коде выше?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;12% - 0&lt;/li&gt;&lt;li&gt;7% - 1&lt;/li&gt;&lt;li&gt;19% - 2&lt;/li&gt;&lt;li&gt;21% - 3&lt;/li&gt;&lt;li&gt;21% - 4&lt;/li&gt;&lt;li&gt;21% - 5&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#swiftui #собеседование #middle&#13;
+&#13;
+Code Review: экран с проблемами...</title>
+    <published>2025-10-30T08:20:39+00:00</published>
+    <updated>2025-10-30T08:20:39+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/295</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/295"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;a href="?q=%23middle"&gt;#middle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Code Review: экран с проблемами производительности&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Ты открываешь Pull-Request и видишь такой код на review. Здесь может-быть:&lt;br/&gt;&lt;b&gt;1. Всё отлично&lt;br/&gt;2. Что-то ОК, что-то не ОК&lt;br/&gt;3. Множество чего не ОК&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;import Foundation&lt;br/&gt;import UIKit&lt;br/&gt;import SwiftUI&lt;br/&gt;&lt;br/&gt;enum Achievement: Identifiable {&lt;br/&gt;    case notable&lt;br/&gt;    case cool&lt;br/&gt;    case minor&lt;br/&gt;    &lt;br/&gt;    var id: UUID { UUID() }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct User {&lt;br/&gt;    var avatar: UIImage?&lt;br/&gt;    var name: String&lt;br/&gt;    var bio: String&lt;br/&gt;    var achievements: [Achievement] = []&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UsernameView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        HStack {&lt;br/&gt;            if let avatar = user.avatar {&lt;br/&gt;                Image(uiImage: avatar)&lt;br/&gt;            }&lt;br/&gt;            &lt;br/&gt;            Text(user.name)&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct ProfileView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        Text(user.bio)&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct AchievementView: View {&lt;br/&gt;    var achievement: Achievement&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // ...&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UserView: View {&lt;br/&gt;    @State var user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        ScrollView {&lt;br/&gt;            VStack {&lt;br/&gt;                UsernameView(user: user)&lt;br/&gt;                ProfileView(user: user)&lt;br/&gt;                &lt;br/&gt;                ForEach(user.achievements) { achieve in&lt;br/&gt;                    if achieve &amp;#33;= .minor {&lt;br/&gt;                        AchievementView(achievement: achieve)&lt;br/&gt;                    }&lt;br/&gt;                }&lt;br/&gt;                &lt;br/&gt;                TextField(&amp;quot;Username&amp;quot;, text: &amp;#036;user.name)&lt;br/&gt;                TextField(&amp;quot;Bio&amp;quot;, text: &amp;#036;user.bio)&lt;br/&gt;            }&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Пока-что можешь оценить, но но не запускай его в playground или проекте - это &lt;b&gt;проверка себя&lt;/b&gt;, впервую очередь.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#заметка Во вторник будут открыты двери для всех, кто...</title>
+    <published>2025-10-23T19:51:19+00:00</published>
+    <updated>2025-10-23T19:51:19+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/294</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/294"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/294" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0"&gt;#заметка&lt;/a&gt; Во вторник будут открыты двери для всех, кто подписан через &lt;b&gt;BOOSTY&lt;/b&gt; / &lt;b&gt;Telegram&lt;/b&gt; в &lt;b&gt;MINI APP&lt;/b&gt; &lt;tg-emoji emoji-id="5924646916540337386"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29880.png')"&gt;&lt;b&gt;☀️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#заметка&#13;
+&#13;
+Через 15 минут OpenAI будут представлять свой...</title>
+    <published>2025-10-21T16:43:50+00:00</published>
+    <updated>2025-10-21T16:43:50+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/293</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/293"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0"&gt;#заметка&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Через 15 минут OpenAI будут представлять свой браузер общественности, интересно&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY" target="_blank" rel="noopener"&gt;https://www.youtube.com/live/8UWKxJbjriY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY"&gt;&lt;img src="https://cdn4.telesco.pe/file/P4umZ6U-syX9z_MJTOEiW5EKj2BMQ_XMlQjKn5gY9-FGiLJEWrAryj3a6ksb0wjIbQLjwUkuUnHY-lrtkc-69tIJFQK7h1GpFi9ku3bHrTKyvoppim0YzpC1BqbpK1d39INYfhEcaTgaD-OCqVvWaxMKnU6eA4mtMO4LWfZ99c-zG7WrsheYv8tVF21AvAtTGXOpCzY-hS4XdXfW-IljjaV1zHO4bOwU7oUNmVl9fp3mYSuytrK8PFoo2vjuUviNnMOE1hW9T7nikbux21wqCouADiaTL0VVSsHmWy2H7IFwT4w8kZUYQM-3o9odAejIuvSW5YCeuLEkGxtMaNRpnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY"&gt;
+Introducing ChatGPT Atlas - YouTube&lt;/a&gt;&lt;br&gt;Introducing our new browser, ChatGPT Atlas.&#13;
+&#13;
+Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O’Rouke, Justin Rushing, and Pranav Vishnu introduce ChatGPT Atlas — our new browser. Now available globally on macOS. Windows, iOS, and Android are coming…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Is this project dead? - Не такие слова хочется видеть в...</title>
+    <published>2025-10-21T09:18:33+00:00</published>
+    <updated>2025-10-21T09:18:33+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/292</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/292"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Is this project dead?&lt;/b&gt; - &lt;a href="https://github.com/fastlane/fastlane/issues/29713" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Не такие слова хочется&lt;/a&gt; видеть в репозитории фастлейна. Но что делать, если всё к этому идет, и нужно какое-то решение?&lt;br/&gt;&lt;br/&gt;Мой друг Макс не остался в стороне и законтребьютил решение. &lt;b&gt;У себя в Plata они уже давно его используют&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;У нас cli поверх всех этих реп собирает все в единый вид. Подразумевается, что люди будут свой cli писать и собирать по кусочкам из нашего конструктора себе нужный результат.&lt;/blockquote&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Blimp&lt;/b&gt; - это &amp;quot;&lt;b&gt;фастлейн на Swift&lt;/b&gt;&amp;quot;: CLI / библиотека для автосборки и выката iOS-приложений, собранная как конструктор из SPM-пакетов и Swift Argument Parser.&lt;br/&gt;&lt;br/&gt;Сейчас умеет архивировать, загружать билд в ASC, ждать обработку, раскидывать по TestFlight группам и отправлять на ревью. &lt;br/&gt;&lt;br/&gt;Сертификаты &lt;b&gt;пока не ведёт&lt;/b&gt; - для этого авторы предлагают временно юзать fastlane match.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Ключевые отличия:&lt;br/&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;b&gt;Blimp&lt;/b&gt; - нативный Swift (SPM), минимум внешних зависимостей; легко встраивается в Swift-проекты / утилиты.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Уже закрывает ключевой happy-path&lt;/b&gt;: архив -&amp;gt; загрузка -&amp;gt; TestFlight группы -&amp;gt; ревью, но ещё не управляет сертификатами / профилями.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Удобно тянуть как библиотеку&lt;/b&gt; в свои Swift-утилиты: BlimpKit + чистый типобезопасный код.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;На сегодня не управляет профилями / сертификатами - берём гибрид с fastlane match.&lt;br/&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Если кто пропустил воркшоп с Максом и как он в крупной компании лупендит CI / CD в соляного, &lt;a href="https://www.notion.so/Mobile-devops-engineer-7badfc9c762c4eaa898a38f754fc7b20?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;то вот здесь крайне советую послушать&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/platacard/blimp" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Буду рад и признателен каждому&lt;/a&gt;, &lt;b&gt;кто поставит звёздочку данному проекту&lt;/b&gt;: больше звёзд -&amp;gt; выше выдача -&amp;gt; больше людей контрибьютящих и помогающих в поиске багов.&lt;br/&gt;&lt;br/&gt;(Текст не редактировать,информацию в скобках удалить,оплата назначается через 15 минут после публикации)&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#собеседование #middle&#13;
+&#13;
+Есть популярная задача на capture list,...</title>
+    <published>2025-10-08T13:21:02+00:00</published>
+    <updated>2025-10-08T13:21:02+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/291</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/291"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;a href="?q=%23middle"&gt;#middle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Есть популярная задача на &lt;b&gt;capture list&lt;/b&gt;, &lt;b&gt;value type и reference&lt;/b&gt; &lt;b&gt;type&lt;/b&gt; в одном листе&amp;#33;&lt;br/&gt;&lt;br/&gt;На этапе собеседования происходит жанглирования требя этими вещами:&lt;br/&gt;— Убирается или добавляется &lt;b&gt;capture list&lt;/b&gt;&lt;br/&gt;— У объекта меняется семантика: &lt;b&gt;был class&lt;/b&gt; -&amp;gt; &lt;b&gt;стал struct&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.notion.so/Reference-type-capture-list-13732442656b80cd908aebf30766df0c?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Текстовый разбор&lt;/a&gt; этой задачи &lt;b&gt;как-всегда есть в ноушене&lt;/b&gt;, а вот &lt;a href="https://www.youtube.com/watch?v=7FJQ3TtybrA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;видео обзор&lt;/a&gt;, причём &lt;b&gt;грамотный&lt;/b&gt; и &lt;b&gt;по-полочкам разложенный нашел&lt;/b&gt;.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=7FJQ3TtybrA"&gt;&lt;img src="https://cdn4.telesco.pe/file/tdN0Mto4crg6n4R9NHweJEyrq_2KufrQ94AJwgbuAg9Z9hneGPXuLtDhOkG3aK1W7nPRcdNgpFR1cgjRX0gR-TNikEpTWaZK-ndqhqvtwzyT8vi7HB8ludkpNVsM36Z15TdOz_wekheAliCHBluIYV4n6f_hlH-mqIZVMzeAh4EezzT3YioAPgfjbCDEU1SFdaA3W--6jXr0EzMLdoaxoBJAeV_I7T4Ilwf7VZoB4QiAOBrrfxgcnBCmDfV2cGIvijc824zP15JZF-nLjb5h-SRa2kaM11a3vMnPQlSMAQuzhQBqQne0oqY6iJA2pAA78fw_meANp8UnNe3UGE7n1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=7FJQ3TtybrA"&gt;
+Задача из Tinkoff: iOS Собеседование - YouTube&lt;/a&gt;&lt;br&gt;Помогу получить оффер: https://www.alexeyparkhomenko.com&#13;
+Потренироваться проходить собеседования: https://www.alexeyparkhomenko.com&#13;
+&#13;
+Консультации: https://www.alexeyparkhomenko.com&#13;
+&#13;
+0:00 Введение&#13;
+0:47 Разбор задачи&#13;
+2:50 Пример 1: Struct, Capture List&#13;
+5:45…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">У кого есть аккаунт Paypal, можете на год взять бесплатно...</title>
+    <published>2025-09-30T09:54:36+00:00</published>
+    <updated>2025-09-30T09:54:36+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/290</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/290"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;У кого есть аккаунт Paypal, можете на год взять бесплатно подписку: &lt;a href="https://www.perplexity.ai/join/p/paypal-subscription" target="_blank" rel="noopener"&gt;https://www.perplexity.ai/join/p/paypal-subscription&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.perplexity.ai/join/p/paypal-subscription"&gt;&lt;img src="https://cdn4.telesco.pe/file/U6P7lePqKb44sceXgkMyuJEPDkFyX1wbnp7FOo-4pq4LLdlhjZl948xzV-_idVLdOtB07iso2PoeGqQtB2GzGK4G6n4pWaTbOui4QD-Y04oO1C4_ZSHcrrEEf9h0QWeF6_vYhR3L68w8uPDgimTtSKNgplPUI4HtWgtpa7chaYgN8VbZ3t8cwvFuHG5TuELegYfqoIcy70jFYtt1GR-tJjJlUcHYI8aPFObNETAgENOT7GI_7LarXJ7C1zHEmjzzIdWANLTA9lvTLY38cE0oRO1vIBkdNE7_Yb20GZvHXPh1B2q7MhTEe7FQEJWAb5SzyWpA27iQucx--lkFezo-yA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.perplexity.ai/join/p/paypal-subscription"&gt;
+ - Perplexity AI&lt;/a&gt;&lt;br&gt;Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Решение для работы с множественными ветками&#13;
+&#13;
+Увидел в...</title>
+    <published>2025-09-29T07:55:09+00:00</published>
+    <updated>2025-09-29T07:55:09+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/289</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/289"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/289" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Решение для работы с множественными ветками&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Увидел в чате отличную статью о том, &lt;a href="https://habr.com/ru/articles/826260/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;как перестать терять время при переключении между ветками Git&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Проблема, которую решает:&lt;br/&gt;&lt;/b&gt;- Потеря незакоммиченных изменений при смене веток&lt;br/&gt;- Пересборка проекта после каждого переключения&lt;br/&gt;- Неудобство при code review чужих веток&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Суть решения - git worktree&lt;/b&gt;: Вместо переключения веток создаём отдельные рабочие копии проекта, каждая смотрит на свою ветку. При этом все копии используют общий .git репозиторий.&lt;br/&gt;&lt;br/&gt;Статья небольшая, внутри статьи находятся ключевые команды, преимущества над альтернативами и ограничения&amp;#33; &lt;tg-emoji emoji-id="5402394299394452255"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9985.png')"&gt;&lt;b&gt;🙅&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/articles/826260/"&gt;&lt;img src="https://cdn4.telesco.pe/file/aAaLLrGNv_wKaCiaJSRcpZ5DXZIlu5pvyq8Rr0XEhp1xQn_tATXYaBVnx7HQxl4AaPNxgoKEgutPRdWkG968u-09gARESuaPE6A8hsu9CXaimKLX-LsbxIrjpcNthwlc4Q2jy7NPLtI9blbjZKq1vpep6qEHcknkvWvD-00ILVDmpeg70xkQhymQKNbxsIfOcZYPT-gd3vuESE5s-ru6ZEE9-7XzZoS_vdCd-bCtGY_LC7nksgZ-5qxgSJNesbDC7E82RaPTjtuhN7UDVc8bX4dW_oXBzke5WBDLg6qymTm869X02dvvS72DWwACfA8h6woxXd4CvCtuaCixxtjXtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/articles/826260/"&gt;
+Git. Скачем между ветками как древесные лягушки - Хабр&lt;/a&gt;&lt;br&gt;Статей на тему много, но, видимо, недостаточно. Последние 10 лет в 4-х разных компаниях время от времени слышу от коллег: «Не могу пошарить экран с кодом, у меня другая ветка сейчас». «Не хочу...&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#mini #app #сообщество&#13;
+&#13;
+Чтобы вы понимали, разработка идёт...</title>
+    <published>2025-09-12T06:58:14+00:00</published>
+    <updated>2025-09-12T06:58:14+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/288</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/288"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/288" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23mini"&gt;#mini&lt;/a&gt; &lt;a href="?q=%23app"&gt;#app&lt;/a&gt; &lt;a href="?q=%23%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE"&gt;#сообщество&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Чтобы вы понимали, разработка идёт уже почти 3 недели, позавчера была начата V3 с нуля, так как V2 был отфармотирована Claude Code и при этом он потёр коммиты для отката.&lt;br/&gt;&lt;br/&gt;Теперь только через pull-request&amp;#39;ы и строгий GITFLOW с защитой Master, вот такой прикол этот **** отчибучил, причём такой команды в описании не было, он просто подключал Redis и переводил на ZOD архитектуру для большей типизации ошибок, и по какйо-то причине РЕШИЛ, ЧТО НАДО ОТФАРМОТИРОВАТЬ МНОЖЕСТВО КЛЮЧЕВЫХ ФАЙЛОВ и ВИДМО С НУЛЯ НАПИСАТЬ КРИВО, А чтобы придать бодрости духа - потереть коммиты, рил, как-будто дэмон в него вселился вовремя работы, вот так &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9884.png')"&gt;&lt;b&gt;😄&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Так - что всем тем, кто считает, что ИИ уже завтра заменит программистов - большой привет&amp;#33; &lt;tg-emoji emoji-id="5431538418456744322"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918B.png')"&gt;&lt;b&gt;👋&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

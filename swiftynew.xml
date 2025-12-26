@@ -1,155 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Telegram Bridge</title>
+  <title type="text">SwiftyGroup (@swiftynew) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/swiftynew"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2025-12-26T09:30:02+00:00</updated>
+  <updated>2025-12-26T10:16:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Bridge returned error 0! (20448)</title>
-    <published>2025-12-26T09:30:02+00:00</published>
-    <updated>2025-12-26T09:30:02+00:00</updated>
-    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
-    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5001 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/swiftynew        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #20 lib/http.php(185)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@swiftynew    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5001+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fswiftynew&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5001+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fswiftynew+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40swiftynew%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    VerifiedJoseph&lt;/p&gt;</content>
+    <title type="html">Конец года, и снова заканчиваются все подписки...</title>
+    <published>2025-12-26T07:57:29+00:00</published>
+    <updated>2025-12-26T07:57:29+00:00</updated>
+    <id>https://t.me/swiftynew/654</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/654"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobilehubvk/62"&gt;&lt;span dir="auto"&gt;Mobile VK Hub&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/XC_P_2aY4mUFfBSi4_899Jumz9okhMolZGoHSfpXdXCLZUYC89cjjKUBqjPKIuEdD7tg4u_j_x_OYJ6pVno1bNJccceAb0RGJ6HZK4pOC_7kpt41QLzbRBG-zd2BV8LJzn5UryNRM8T0qcqmZEZDBzy5QC0VaegDuKAyLrYJSZ6o-qJRlCU0sTtR-K5jChjJ3QPoKAjdvxXQWj1oPdRF22iP6ta-RgVo1QJOeqEs4-7e1bQhZhh-9CXaPVKX2QwmX66JJI3iK5DL6Y9cF8Ni-TxHsX4I8c4MtN3k67-56iIdihD7GT4A2BziUIQ0b5QpOIBRQ6jvtJi2A-JPyhGYDg" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/e6ab715fc4.mp4?token=pnGiKqW6ymTlktdphAsqiEIwd4KG0DolYjtTxxQdWxkv8MyNHWLd8MrcexV9JXuRoPHtTSFsLbJ7kiIekeZlM6yeKb6_mVtxWKMZotWVs2-wMKdO9tBt9W_8JNrB5H-ZAad7m19jcaLEz2VHJwDRDzQusXpQ8ltesO1uGFGjnyY1cS5TMmIIMRSOhvJbjCQ2aCjDrcOemZyXcRlCqhLK8UTPMOBZTgkx1V8ZE4YXkCWNiwX3As6HLw51x5Gu8wsV8gJwWJCvm2uD2uq-5yjQXEep5TP9ST0vQm7Q9jp8xMqZeJo4OTthBUXisDPm7w7_Dw3ILE-MR-NeB5aEnx4-XAV506Xd9bAltWsYPZqPtV1yR1cx8BGXzLO0eaarrnyTJr38lwr6BtN-g-UTdcTS8qRnVL29KeCNLFv2XUApcZIWa2vgs-7nmJ-PDFe7xqHZpMaSwU1J99pjf73ibIaSf2yYU4rKphdBg_nVZIDclJvTfDNvGa7Rpkcp9uy7z067hrdzFb47A6Kh2J5nSgZurt2y1Cr4Z5n1frU0DFcQTIsn1cldQaVy-jIY3qkttp059xgKFUIFgkL36Mm-3Pnm_N2AmLwN08V1XjRi5Lpa6EXv_rhav4LqbD7MVdHnNFWI4E9j5hgAfKojQq5I3JJk0ea-rg4BnuRbK5Zir2RDgl0" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Конец года, и снова заканчиваются все подписки &lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"&gt;&lt;b&gt;😱&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Узнали? Согласны? Не беда — мы как раз разыгрываем промокоды на год от Облака Mail и VK Музыки&amp;#33;&lt;br/&gt;&lt;br/&gt;Условия участия простые:&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; подпишитесь на наш канал &lt;a href="https://t.me/mobilehubvk" target="_blank"&gt;@mobilehubvk&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt;нажмите кнопку «Участвовать»&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; дождитесь 30 декабря — в этом посте мы выберем случайным образом 6 победителей&lt;br/&gt;&lt;br/&gt;Информацию об организаторе, правилах и призах ищите по &lt;a href="https://bit.ly/4s9U3Si?erid=2VtzqxAsNAW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Удачи&amp;#33;&lt;/b&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/XC_P_2aY4mUFfBSi4_899Jumz9okhMolZGoHSfpXdXCLZUYC89cjjKUBqjPKIuEdD7tg4u_j_x_OYJ6pVno1bNJccceAb0RGJ6HZK4pOC_7kpt41QLzbRBG-zd2BV8LJzn5UryNRM8T0qcqmZEZDBzy5QC0VaegDuKAyLrYJSZ6o-qJRlCU0sTtR-K5jChjJ3QPoKAjdvxXQWj1oPdRF22iP6ta-RgVo1QJOeqEs4-7e1bQhZhh-9CXaPVKX2QwmX66JJI3iK5DL6Y9cF8Ni-TxHsX4I8c4MtN3k67-56iIdihD7GT4A2BziUIQ0b5QpOIBRQ6jvtJi2A-JPyhGYDg"/>
+  </entry>
+  <entry>
+    <title type="html">В Swift приняли **SE-0493 — async в defer.&#13;
+&#13;
+Раньше:&#13;
+defer был строго...</title>
+    <published>2025-12-23T08:59:07+00:00</published>
+    <updated>2025-12-23T08:59:07+00:00</updated>
+    <id>https://t.me/swiftynew/653</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/653"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В Swift приняли **SE-0493 — async в defer.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Раньше:&lt;br/&gt;&lt;b&gt;defer &lt;/b&gt;был строго синхронным.&lt;br/&gt;Даже внутри async-функции нельзя было написать &lt;i&gt;await&lt;/i&gt; в&lt;b&gt; defer&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Из-за этого:&lt;br/&gt;— асинхронный cleanup приходилось дублировать&lt;br/&gt;— или делать Task { } внутри defer (который не ждёт выполнения)&lt;br/&gt;&lt;br/&gt;Теперь:&lt;br/&gt;в defer можно вызывать await, если окружающий контекст async.&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;func load() async {&lt;br/&gt;    await start()&lt;br/&gt;&lt;br/&gt;    defer {&lt;br/&gt;        await cleanup()&lt;br/&gt;    }&lt;br/&gt;&lt;br/&gt;    try await work()&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Что важно:&lt;br/&gt;— defer по-прежнему выполняется при выходе из scope&lt;br/&gt;— порядок defer сохраняется (LIFO)&lt;br/&gt;— await внутри defer ожидается, а не fire-and-forget&lt;br/&gt;— работает только в async-контексте&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md" target="_blank" rel="noopener"&gt;https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md&lt;/a&gt;&lt;br/&gt;Proposal принят и войдёт в Swift.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">что будет результатом выполнения?</title>
+    <published>2025-12-12T09:44:15+00:00</published>
+    <updated>2025-12-12T09:44:15+00:00</updated>
+    <id>https://t.me/swiftynew/652</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/652"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">			что будет результатом выполнения?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;52% - «-824»&lt;/li&gt;&lt;li&gt;7% - «24»&lt;/li&gt;&lt;li&gt;32% - «42-8»&lt;/li&gt;&lt;li&gt;9% - «42»&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#квиз</title>
+    <published>2025-12-12T09:20:10+00:00</published>
+    <updated>2025-12-12T09:20:10+00:00</updated>
+    <id>https://t.me/swiftynew/650</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/650"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/650"&gt;&lt;img src="https://cdn4.telesco.pe/file/kZGpbrGN-dTSSfkOsw-6pnyOgFqXWkBdoeISUM-vEGFl8x3yNXEGtlrjF4p04gvpUdEwwijmQFzeIMeTUxfbhKINJtvgqjeos6ctHyNXYwQ3AxSQGwGmIjC11-ZcjGEMaVqQC_holxRxlwYrMXk2kRPLLdcCGLR0k6tCdQzw36xpzLOFkbTQwWH72lzrKw1i_6Yof3jUSExOf607pbx741c75JLdnDICI2FKurWfmqv0ctqvsBSmjNPMsyXh4n6OQr5kZbPyjB-G4WDZYnsMp6Hz-_nMqFJsiCG3qO7cnzKvaze1lb5E4S71LQGuAavb56jDHs2SriiWkRVdF2XAiQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🔍 ObservedObject vs @Observable в SwiftUI — в чём разница?&#13;
+&#13;
+Если ты всё...</title>
+    <published>2025-12-11T08:36:07+00:00</published>
+    <updated>2025-12-11T08:36:07+00:00</updated>
+    <id>https://t.me/swiftynew/649</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/649"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"&gt;&lt;b&gt;🔍&lt;/b&gt;&lt;/i&gt; &lt;b&gt;ObservedObject vs &lt;/b&gt;&lt;a href="https://t.me/Observable" target="_blank"&gt;&lt;b&gt;@Observable&lt;/b&gt;&lt;/a&gt;&lt;b&gt; в SwiftUI&lt;/b&gt; — в чём разница?&lt;br/&gt;&lt;br/&gt;Если ты всё ещё используешь ObservedObject, самое время понять, почему новый &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; меняет подход к управлению состоянием в SwiftUI.&lt;br/&gt;&lt;br/&gt;Вот краткое и понятное сравнение &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"&gt;&lt;b&gt;👇&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"&gt;&lt;b&gt;🆕&lt;/b&gt;&lt;/i&gt; 1. &lt;a href="https://t.me/Observable" target="_blank"&gt;&lt;b&gt;@Observable&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Swift 5.9 / SwiftData / iOS 17+)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Что это?&lt;br/&gt;Новый макрос от Apple, который автоматически генерирует логику наблюдения без:&lt;br/&gt; • ObservableObject&lt;br/&gt; • &lt;a href="https://t.me/Published" target="_blank"&gt;@Published&lt;/a&gt;&lt;br/&gt; • objectWillChange&lt;br/&gt;&lt;br/&gt;Преимущества:&lt;br/&gt; • меньше шаблонного кода&lt;br/&gt; • быстрее работает благодаря compile-time генерации&lt;br/&gt; • более чистые модели данных&lt;br/&gt;&lt;br/&gt;Пример:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;@Observable&lt;br/&gt;class UserSettings {&lt;br/&gt;    var username: String = &amp;quot;Puneet&amp;quot;&lt;br/&gt;    var isLoggedIn: Bool = false&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA793.png')"&gt;&lt;b&gt;🧓&lt;/b&gt;&lt;/i&gt; 2. &lt;b&gt;ObservedObject&lt;/b&gt; (устаревающий, но всё ещё поддерживается)&lt;br/&gt;&lt;br/&gt;Что это?&lt;br/&gt;Старый механизм слежения за классами, реализующими ObservableObject.&lt;br/&gt;&lt;br/&gt;Минусы:&lt;br/&gt; • обязателен ObservableObject&lt;br/&gt; • нужно ставить &lt;a href="https://t.me/Published" target="_blank"&gt;@Published&lt;/a&gt; на каждое поле&lt;br/&gt; • больше кода&lt;br/&gt; • наблюдение работает в рантайме → медленнее&lt;br/&gt;&lt;br/&gt;Пример:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;class UserSettings: ObservableObject {&lt;br/&gt;    @Published var username: String = &amp;quot;John&amp;quot;&lt;br/&gt;    @Published var isLoggedIn: Bool = false&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"&gt;&lt;b&gt;💡&lt;/b&gt;&lt;/i&gt; Вывод&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; — будущее SwiftUI: чище, быстрее, удобнее.&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"&gt;&lt;b&gt;➡️&lt;/b&gt;&lt;/i&gt; ObservedObject стоит использовать только для поддержки старых iOS.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🏷️ UIKit 26 — фича №13&#13;
+&#13;
+Bottom Accessory в UITabBarController&#13;
+&#13;
+В iOS 26 Apple...</title>
+    <published>2025-12-09T07:58:46+00:00</published>
+    <updated>2025-12-09T07:58:46+00:00</updated>
+    <id>https://t.me/swiftynew/648</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/648"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FB7.png')"&gt;&lt;b&gt;🏷️&lt;/b&gt;&lt;/i&gt; &lt;b&gt;UIKit 26 — фича №13&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Bottom Accessory в UITabBarController&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 Apple впервые добавила официальный способ размещать плавающую панель над таббаром — как в Music или Podcasts.&lt;br/&gt;Раньше все делали это костылями через additionalSafeAreaInsets и ручное добавление subviews.&lt;br/&gt;Теперь есть нормальный API.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"&gt;&lt;b&gt;🆕&lt;/b&gt;&lt;/i&gt; &lt;b&gt;UITabAccessory + bottomAccessory&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Чтобы добавить нижний аксессуар:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let accessory = UITabAccessory(contentView: customView)&lt;br/&gt;tabBarController.bottomAccessory = accessory&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;А чтобы показать/скрыть с анимацией:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;tabBarController.setBottomAccessory(accessory, animated: true)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Это может быть мини-плеер, панель состояния, быстрые действия — всё, что раньше приходилось “прибивать гвоздями”.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A6.png')"&gt;&lt;b&gt;📦&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Поведение таббара: сворачивание и расширение&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 таббар умеет минимизироваться при скролле,&lt;br/&gt;и bottom accessory тоже меняет состояние вместе с ним.&lt;br/&gt;&lt;br/&gt;Режимы задаются:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;tabBarController.tabBarMinimizeBehavior = .onScrollDown&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Доступные варианты:&lt;br/&gt; • .automatic — система сама решает&lt;br/&gt; • .never — не сворачивать&lt;br/&gt; • .onScrollDown — свернуть при скролле вниз&lt;br/&gt; • .onScrollUp — свернуть при скролле вверх&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"&gt;&lt;b&gt;🌐&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Определение состояния аксессуара&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;UIKit вводит новый enum:&lt;br/&gt;&lt;br/&gt;UITabAccessory.Environment&lt;br/&gt;&lt;br/&gt; • .regular — аксессуар в полном размере&lt;br/&gt; • .inline — компактный (в минимизированном таббаре)&lt;br/&gt; • .none — не в среде таб-аксессуара&lt;br/&gt; • .unspecified — ещё не отобразился&lt;br/&gt;&lt;br/&gt;Состояние можно получить так:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;traitCollection.tabAccessoryEnvironment&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AD.png')"&gt;&lt;b&gt;🧭&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Новый layout guide&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Чтобы правильно размещать контент над таббаром и аксессуаром:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let guide = tabBarController.contentLayoutGuide&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Вью, прикреплённые к этому layout guide, автоматически адаптируются&lt;br/&gt;к изменениям высоты таббара и состоянию аксессуара.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt; В итоге: теперь можно официально и красиво делать “мини-плееры”&lt;br/&gt;и любые нижние панели поверх таббара — без костылей, багов и ручных отступов.&lt;/div&gt;File attachments:&lt;br&gt;tab-bar-controller-tab-bar-minimize-behavior-demo.mp4 -
+400.8 KB&lt;br&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🎨 UIKit 26 — фича №12&#13;
+&#13;
+SF Symbols получили новые режимы...</title>
+    <published>2025-12-02T08:42:27+00:00</published>
+    <updated>2025-12-02T08:42:27+00:00</updated>
+    <id>https://t.me/swiftynew/647</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/647"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/647"&gt;&lt;img src="https://cdn4.telesco.pe/file/X9HRMax2S-fJwUuChFra7-euJuCdrNoCZ9UIuAbT9isvqdzZtrdfkHdYXmbHj7INW8Ab_HlthIt7O9a_5LFDNwUADrJHt7XtZFJqRc4TCvl7pZHL-9kG4hddVQAhrpjM1qLK1Ce68l9ydfe4r35n18Z8TI5kRMph3muaslhokRp5Obglv5KEyKfY0Aeyo1vTuzfOm_I3o0TMXaOSoa4aIIPPCPrMNVlBiwesDJy3Ck9hpfIXyQ9Oayns7v33kiiiJ756PU873uF8JXjtXqfIlZYrw4Byp_heEaCUZdiDJVJXb8SOBXlE-mUVIZ-eZVVhKd01j_lo3RZdUIA_fx4C3A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA8.png')"&gt;&lt;b&gt;🎨&lt;/b&gt;&lt;/i&gt; &lt;b&gt;UIKit 26 — фича №12&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;SF Symbols получили новые режимы рендеринга.&lt;br/&gt;Теперь символы могут выглядеть ярче, объёмнее и “живее” — без кастомной графики.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; 1. &lt;b&gt;Градиентный рендеринг&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;image = image.applyingSymbolConfiguration(&lt;br/&gt;    .init(colorRenderingMode: .gradient)&lt;br/&gt;)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Символ автоматически получает мягкий системный градиент (в стиле iOS 26 / visionOS).&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; &lt;b&gt;2. “Draw” режим&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Символ выглядит как будто нарисован кистью:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;image = image.applyingSymbolConfiguration(&lt;br/&gt;    .init(variableValueMode: .draw)&lt;br/&gt;)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Полезно для декоративных UI, заметок, творчества.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt;&lt;b&gt; 3. Variable Value + Color mode&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Теперь “живые” символы можно рендерить цветом:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;image = image.applyingSymbolConfiguration(&lt;br/&gt;    .init(variableValueMode: .color)&lt;br/&gt;)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Например — индикаторы (заряд, прогресс, температура).&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🚨 Скидка 70% на все подписки Boosty и Tribute&amp;#33;&#13;
+&#13;
+Решил...</title>
+    <published>2025-11-28T09:53:06+00:00</published>
+    <updated>2025-11-28T09:53:06+00:00</updated>
+    <id>https://t.me/swiftynew/646</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/646"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/646" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="4988063550288167435"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"&gt;&lt;b&gt;🚨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;Скидка 70% на все подписки Boosty и Tribute&amp;#33;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Решил сделать большую скидку — минус 70% на все виды подписок. Сейчас самое время залететь, потому что внутри уже лежит огромное количество материала, который я собираю каждый день.&lt;br/&gt;&lt;br/&gt;Что получите по подписке:&lt;br/&gt; • &lt;tg-emoji emoji-id="5875253663059938765"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FB4E2808DE298A0.png')"&gt;&lt;b&gt;🏴‍☠️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Записи реальных собеседований iOS&lt;br/&gt;Вопросы уровня Middle/Senior, мои ответы, разборы ловушек, tricky-моменты, async/await, KVO, memory warnings, SOLID-антипаттерны и многое другое.&lt;br/&gt; • &lt;tg-emoji emoji-id="5931538676898074286"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AB0.png')"&gt;&lt;b&gt;⚰️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Большая база задач&lt;br/&gt;Комплексные Swift-задачи «что выведет», edge cases, сложные примеры, практические задачи, подробно разобранные решения.&lt;br/&gt; • &lt;tg-emoji emoji-id="5776343456746050867"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')"&gt;&lt;b&gt;💯&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Гайды и шпаргалки&lt;br/&gt;REST vs WebSocket, KVO, память, архитектура, работа с CoreData/SwiftData, RxSwift → Combine → async/await, Actors, UIView/SwiftUI тонкости.&lt;br/&gt; • &lt;tg-emoji emoji-id="5873067632080456721"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"&gt;&lt;b&gt;😊&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Переводы статей и документации&lt;br/&gt;Популярные материалы с Medium/Dev/Reddit, а также переводы официальной Swift-доки.&lt;br/&gt; • &lt;tg-emoji emoji-id="5902439277035261677"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F8DB3.png')"&gt;&lt;b&gt;👨‍🍳&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Фреймворки, лайфхаки и паттерны&lt;br/&gt;Подборка библиотек, настройки проекта, примеры рефакторинга, «грязные» хаки, которыми мы все иногда пользуемся.&lt;br/&gt; • &lt;tg-emoji emoji-id="5866034601658420604"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"&gt;&lt;b&gt;🎁&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; И ещё: доступ к закрытому чату, обновлениям, переводам, моим заметкам и всем новым материалам.&lt;br/&gt;&lt;br/&gt;Скидка действует ограниченное время.&lt;br/&gt;Если думали подписаться — сейчас лучший момент &lt;tg-emoji emoji-id="5240066289614987080"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')"&gt;&lt;b&gt;💳&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;Boosty: 70% &lt;a href="https://boosty.to/buik" target="_blank" rel="noopener"&gt;https://boosty.to/buik&lt;/a&gt;&lt;br/&gt;Tribute: 70% &lt;a href="https://t.me/tribute/app?startapp=ssYu" target="_blank" rel="noopener"&gt;https://t.me/tribute/app?startapp=ssYu&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Всем привет🍷&#13;
+По реакциям вижу марафорн мой не особо...</title>
+    <published>2025-11-27T10:06:22+00:00</published>
+    <updated>2025-11-27T10:06:22+00:00</updated>
+    <id>https://t.me/swiftynew/645</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/645"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/645" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всем привет&lt;tg-emoji emoji-id="5888757495505095853"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8DB7.png')"&gt;&lt;b&gt;🍷&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;По реакциям вижу марафорн мой не особо заходит &lt;tg-emoji emoji-id="5902234231001583082"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9895.png')"&gt;&lt;b&gt;😕&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;, поэтому подготовил для вас перевод базовой статьи, чтобы загладить вину, сделал все красиво в Телеграфе, как советовали подписчики&lt;tg-emoji emoji-id="5877561499311934833"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"&gt;&lt;b&gt;🙏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ковариантность и контравариантность в Swift &lt;/b&gt;&lt;br/&gt; • Возвращаемые типы у функций/замыканий — ковариантны.&lt;br/&gt; • Параметры функций/замыканий — контравариантны.&lt;br/&gt; • Свои generic-типы — инвариантны, а стандартные коллекции Swift ведут себя «особенно» благодаря магии компилятора.&lt;br/&gt;&lt;br/&gt;Подробное объяснение — тут:&lt;br/&gt;&lt;a href="https://telegra.ph/Kovariantnost-i-kontravariantnost-v-Swift-11-27" target="_blank" rel="noopener"&gt;https://telegra.ph/Kovariantnost-i-kontravariantnost-v-Swift-11-27&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Всем пис&amp;#33;&lt;tg-emoji emoji-id="5936097965071404224"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9988.png')"&gt;&lt;b&gt;🙈&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">✨ UIKit 26 — фича №11&#13;
+&#13;
+Сегодня разберём обновления...</title>
+    <published>2025-11-25T08:15:18+00:00</published>
+    <updated>2025-11-25T08:15:18+00:00</updated>
+    <id>https://t.me/swiftynew/644</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/644"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/644"&gt;&lt;img src="https://cdn4.telesco.pe/file/j3r2-pL5tx7R9zCeSXezOSBz2bo22NCTWc7uueVqOieHWWQdCAlAJAa6r-iy6aeexA551cb7lD5rV970L9sYKelzNNIjrFb9X7dkRtUdqGzdPFQD4K--ylv9i9WY38oW-UCtY0-ywgGpZ85AmHjV7PkIVOrGf8XJf16-pQmdWc7BC-OzKMi42w01hYA6Qjph0tJV6Nt_5F0pNtZaKXFhlf--p6obV08gFEin_l03119d6TDZzlzUued52vlpUDwj6PEkaLNquqW0wDxZD3y6tvJVAucEEuWeXyASfroo1izs1nTfhaYunWPl_IKa8lWA3fBChTX2SBt07vNrB0S10Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"&gt;&lt;b&gt;✨&lt;/b&gt;&lt;/i&gt; &lt;b&gt;UIKit 26 — фича №11&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Сегодня разберём обновления UIButton.Configuration, которые Apple добавила в iOS 26.&lt;br/&gt;Это две небольшие, но очень важные фичи, которые одновременно улучшают визуальную часть и дают более современное поведение кнопок.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA78A.png')"&gt;&lt;b&gt;🧊&lt;/b&gt;&lt;/i&gt; 1. &lt;b&gt;Новые Liquid Glass-кнопки&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;UIKit получил готовые конфигурации кнопок в стиле Liquid Glass —&lt;br/&gt;полупрозрачные, блестящие, с мягкими бликами и эффектом стекла.&lt;br/&gt;&lt;br/&gt;Добавлены 4 новых статических метода:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;UIButton.Configuration.glass()&lt;br/&gt;UIButton.Configuration.clearGlass()&lt;br/&gt;UIButton.Configuration.prominentGlass()&lt;br/&gt;UIButton.Configuration.prominentClearGlass()&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Как они отличаются?&lt;br/&gt; • .glass() — стандартная стеклянная кнопка&lt;br/&gt; • .clearGlass() — более прозрачная, менее акцентная&lt;br/&gt; • .prominentGlass() — акцентная версия, похожа на .prominent стиль&lt;br/&gt; • .prominentClearGlass() — акцентная, но с лёгкой прозрачностью&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt; 2.&lt;b&gt;  symbolContentTransition&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Теперь UIButton.Configuration умеет анимировать смену SF Symbol&lt;br/&gt;в кнопке автоматически, без вашего кода анимации.&lt;br/&gt;&lt;br/&gt;Добавлено новое свойство:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;var symbolContentTransition: UISymbolContentTransition? { get set }&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Теперь всякий раз, когда вы меняете image:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;button.configuration?.image = UIImage(systemName: &amp;quot;heart.fill&amp;quot;)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;UIKit сам сделает плавную анимацию&lt;br/&gt;(замена, появление, масштабирование — в зависимости от выбранного transition).&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EAC.png')"&gt;&lt;b&gt;🎬&lt;/b&gt;&lt;/i&gt; Поддерживаемые переходы&lt;br/&gt;&lt;br/&gt;UISymbolContentTransition(.replace)&lt;br/&gt;UISymbolContentTransition(.scale)&lt;br/&gt;UISymbolContentTransition(.reveal)&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23ios26"&gt;#ios26&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Какой цвет выведет принт?</title>
+    <published>2025-11-21T09:03:38+00:00</published>
+    <updated>2025-11-21T09:03:38+00:00</updated>
+    <id>https://t.me/swiftynew/643</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/643"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">			Какой цвет выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;47% - Зеленый&lt;/li&gt;&lt;li&gt;53% - Красный&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#квиз</title>
+    <published>2025-11-21T09:03:12+00:00</published>
+    <updated>2025-11-21T09:03:12+00:00</updated>
+    <id>https://t.me/swiftynew/642</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/642"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/642"&gt;&lt;img src="https://cdn4.telesco.pe/file/In5eeUIa1Dc6eKiWo4-gVoI97TyqjQEhOEBWz_u3MEI71t97iC9l6wsFXzjgPyjwIoUCxPwiJmPdrvTjdTqXDWWEO2D1XHEsz3HtcgSXcjMjqQGrpGMsasE5WDyupDv8jZ3P1orZIKW-0gYblqLiI5hzPj-yATdj6leoPtEUKYQv6FOUFoWrCtsnzWWv5Xp05afgW2EkKNjsaF1zYwRBBruUshhUMcKENCEp4YBiK2GlyFC4anwfOKxA9qr-gzK0Ipu99m02-grEUShnAeuAJpZxNlpwqfaymy6c7iuaomj6P0hkqcg53LfRrMT-2CgWrljGiYGl-hhaI6uMwe9qJQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🧩 UIKit 26 — фича №10&#13;
+&#13;
+Сегодня разберём одно из самых...</title>
+    <published>2025-11-20T10:01:42+00:00</published>
+    <updated>2025-11-20T10:01:42+00:00</updated>
+    <id>https://t.me/swiftynew/641</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/641"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/641"&gt;&lt;img src="https://cdn4.telesco.pe/file/BdkbGeLTSW9P5O22SspVi6hVq-S-4wBw0aG4J4TJYbVujzBVO81kx8mNeIKDFh3B2i6q1uwzr44Bad1PqQ3usQ7_Ev3tYdulcYC0tX0Csy9We8jqqK4ZxRNKwhjF3gJ_ZbNk6y9p33iM--c0zluYoBhn2AKCs0wCPDJMOCPc2yIg-Qov-FIIm3sigCTKaOGv1j6Vt2OxV1J93xTQJXqbU3kwerLb7_QwfyCCCLClrcekluZlwn8a4_VHmKFLlVNPyR8HsGErthThrgAPwFw-MsHsG5CaJksnlSR2y_4pK-zQW41sJ_xo_i-OjHsF5sqv2Fid_LBMp07qZHR8N0CtMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A9.png')"&gt;&lt;b&gt;🧩&lt;/b&gt;&lt;/i&gt; UIKit 26 — фича №10&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Сегодня разберём одно из самых заметных обновлений для iPad iOS 26 —&lt;br/&gt;новые возможности работы с системным меню-баром на iPadOS.&lt;br/&gt;&lt;br/&gt;В iPadOS теперь есть полноценное меню как на macOS: File, Edit, View, Find…&lt;br/&gt;И с приходом iOS 26 разработчики наконец могут гибко управлять этим меню:&lt;br/&gt;добавлять свои пункты, подменять системные, скрывать ненужные и менять структуру прямо в рантайме  —&lt;br/&gt; без хаков, без обходных путей и без пересборки всего меню целиком.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"&gt;&lt;b&gt;🆕&lt;/b&gt;&lt;/i&gt; Новые идентификаторы меню&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;UIMenu.Identifier.newItem&lt;br/&gt;UIMenu.Identifier.findPanel&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt; • .newItem пришёл на замену устаревшему .newScene.&lt;br/&gt; • .findPanel — отдельная группа команд для поиска (Find, Replace, Search Options).&lt;br/&gt;&lt;br/&gt;Это пригодится, когда вы хотите кастомизировать системные меню, но не переписывать структуру полностью.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')"&gt;&lt;b&gt;🛠&lt;/b&gt;&lt;/i&gt;&lt;b&gt; Новые методы UIMenuBuilder&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Теперь можно динамически модифицировать меню по отдельным элементам.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Замена&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;builder.replace(menu: .file, with: newMenu)&lt;br/&gt;builder.replace(action: .paste, with: newPasteAction)&lt;br/&gt;builder.replace(command: &amp;quot;myCmd&amp;quot;, propertyList: nil, with: newCommand)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E95.png')"&gt;&lt;b&gt;➕&lt;/b&gt;&lt;/i&gt;&lt;b&gt; Вставка&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;builder.insertElements([element], beforeMenu: .edit)&lt;br/&gt;builder.insertElements([element], afterMenu: .view)&lt;br/&gt;builder.insertElements([element], atStartOfMenu: .file)&lt;br/&gt;builder.insertElements([element], atEndOfMenu: .file)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9791.png')"&gt;&lt;b&gt;🗑&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Удаление&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;builder.remove(action: .duplicate)&lt;br/&gt;builder.remove(command: &amp;quot;customCommand&amp;quot;, propertyList: nil)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Полный контроль над структурой без пересоздания меню — наконец-то нативно.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')"&gt;&lt;b&gt;🧠&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Когда это полезно&lt;/b&gt;&lt;br/&gt; • скрыть/показать пункты меню в зависимости от состояния приложения&lt;br/&gt; • выделять специфические команды (например, режим редактирования)&lt;br/&gt; • подменять стандартные команды на свои&lt;br/&gt; • динамически вставлять быстрые действия&lt;br/&gt; • отключать определённые действия при отсутствии контекста&lt;br/&gt;&lt;br/&gt;Раньше всё это делали через костыли, теперь же API официально поддерживает подобные сценарии.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">📱 Combine — тайное оружие iOS-разработчика, о котором все...</title>
+    <published>2025-11-13T11:53:00+00:00</published>
+    <updated>2025-11-13T11:53:00+00:00</updated>
+    <id>https://t.me/swiftynew/640</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/640"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"&gt;&lt;b&gt;📱&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Combine — тайное оружие iOS-разработчика, о котором все слышали, но мало кто реально понимает&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;На Хабре вышла большая статья от Банки.ру, где Combine объясняют не как «ещё один фреймворк», а как фундаментальную модель работы с данными в iOS. И реально раскладывают всё по полочкам.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"&gt;&lt;b&gt;🔍&lt;/b&gt;&lt;/i&gt; Что важно понять про Combine&lt;br/&gt;• Это не просто Publisher и Subscriber — это целая реактивная модель.&lt;br/&gt;• SwiftUI под капотом живёт на Combine.&lt;br/&gt;• &lt;a href="https://t.me/Published" target="_blank"&gt;@Published&lt;/a&gt;, ObservableObject, цепочки операторов — всё это работает как поток данных, а не как «просто переменная».&lt;br/&gt;• Combine заставляет думать декларативно: данные текут → UI реагирует.&lt;br/&gt;• Автор показывает, как это работает на самом низком уровне — даже создаёт свой мини-Combine.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"&gt;&lt;b&gt;⚙️&lt;/b&gt;&lt;/i&gt; Почему это полезно&lt;br/&gt;• Лучше понимаешь, что именно делает SwiftUI, когда ты меняешь состояние.&lt;br/&gt;• Перестаёшь бояться операторов и подписок.&lt;br/&gt;• Видишь, где Combine силён, а где — проще использовать async/await.&lt;br/&gt;• Понимаешь, как писать код, который не разваливается от гонок состояний.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"&gt;&lt;b&gt;🚀&lt;/b&gt;&lt;/i&gt; Что это меняет&lt;br/&gt;• В продакшене Combine остаётся важным инструментом — особенно в больших проектах.&lt;br/&gt;• Async/await не убил реактивный подход — наоборот, он отлично его дополняет.&lt;br/&gt;• Знание Combine = сильнее понимание архитектуры и потоков данных.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣️&lt;/b&gt;&lt;/i&gt; Вывод&lt;br/&gt;Combine — это не модный фреймворк, а фундамент. Если понимать его «мозги», SwiftUI и реактивный код становятся намного проще.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/banki/articles/958650/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать статью →&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">👆 UIKit 26 — фича №9&#13;
+&#13;
+В iOS 26 UINavigationController получил новый...</title>
+    <published>2025-11-12T09:21:59+00:00</published>
+    <updated>2025-11-12T09:21:59+00:00</updated>
+    <id>https://t.me/swiftynew/639</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/639"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/639" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5350315858130389079"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"&gt;&lt;b&gt;👆&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;UIKit 26 — фича №9&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 UINavigationController получил новый жест,&lt;br/&gt;который делает возврат назад намного естественнее.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"&gt;&lt;b&gt;🆕&lt;/b&gt;&lt;/i&gt; &lt;b&gt;interactiveContentPopGestureRecognizer&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Раньше жест “свайп назад” работал только от левого края экрана.&lt;br/&gt;Теперь появился новый распознаватель — interactiveContentPopGestureRecognizer,&lt;br/&gt;который позволяет начинать свайп из любой точки контента, а не только с границы.&lt;br/&gt;&lt;br/&gt;Пример использования&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let gesture = navigationController?.interactiveContentPopGestureRecognizer&lt;br/&gt;myScrollView.panGestureRecognizer.require(toFail: gesture&amp;#33;)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;или просто активировать его вручную:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;override func viewDidAppear(_ animated: Bool) {&lt;br/&gt;    super.viewDidAppear(animated)&lt;br/&gt;    navigationController?.interactiveContentPopGestureRecognizer.isEnabled = true&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"&gt;&lt;b&gt;💡&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Что это даёт&lt;/b&gt;&lt;br/&gt; • Жест “назад” становится доступным по всему экрану,&lt;br/&gt;даже если контент перехватывает касания.&lt;br/&gt; • Больше не нужны костыли с кастомными pan-распознавателями.&lt;br/&gt; • Переходы становятся естественнее и плавнее, но при этом&lt;br/&gt;всё ещё остаются интерактивными и работают с анимациями UINavigationController.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"&gt;&lt;b&gt;📱&lt;/b&gt;&lt;/i&gt; Итого: теперь свайп-назад работает так, как многие всегда хотели —&lt;br/&gt;в любом месте экрана, без попадания строго в край и без конфликтов со scrollView.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23ios26"&gt;#ios26&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">❓ Почему так происходит?&#13;
+&#13;
+• Array в Swift — структура (value...</title>
+    <published>2025-11-10T12:17:52+00:00</published>
+    <updated>2025-11-10T12:17:52+00:00</updated>
+    <id>https://t.me/swiftynew/638</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/638"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/638" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;blockquote&gt;SwiftyGroup&lt;br&gt;
+Что выведет принт?
+&lt;a href="https://t.me/swiftynew/637"&gt;https://t.me/swiftynew/637&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5935889225365851277"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"&gt;&lt;b&gt;❓&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;Почему так происходит?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Array в Swift — структура (value type),&lt;br/&gt;значит сам массив копируется.&lt;br/&gt;&lt;br/&gt;• Но внутри массива лежат объекты класса —&lt;br/&gt;а класс это reference type (копируется только ссылка на объект).&lt;br/&gt;&lt;br/&gt;• Когда мы делаем var teamB = teamA,&lt;br/&gt;создаётся новый массив, но оба массива содержат ссылки на одни и те же объекты.&lt;br/&gt;&lt;br/&gt;• Изменяя teamA[0].name,&lt;br/&gt;мы изменяем сам объект, а не массив —&lt;br/&gt;поэтому изменения видны и в teamB.&lt;br/&gt;&lt;br/&gt;• А вот операция &lt;i&gt;removeLast()&lt;/i&gt; влияет только на сам массив teamA,&lt;br/&gt;поэтому teamB по-прежнему хранит все три элемента.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Что выведет принт?</title>
+    <published>2025-11-07T09:38:56+00:00</published>
+    <updated>2025-11-07T09:38:56+00:00</updated>
+    <id>https://t.me/swiftynew/637</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/637"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">			Что выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;24% - [Alice, Bob, Charlie]&lt;/li&gt;&lt;li&gt;42% - [Diana, Bob]&lt;/li&gt;&lt;li&gt;31% - [Diana, Bob, Charlie]&lt;/li&gt;&lt;li&gt;3% - [Alice, Bob]&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Пятничный квиз📣&#13;
+&#13;
+class Person: NSObject {&#13;
+    var name: String&#13;
+    init(name:...</title>
+    <published>2025-11-07T09:38:14+00:00</published>
+    <updated>2025-11-07T09:38:14+00:00</updated>
+    <id>https://t.me/swiftynew/636</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/636"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/636" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Пятничный квиз&lt;tg-emoji emoji-id="5764713501352270309"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"&gt;&lt;b&gt;📣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;class Person: NSObject {&lt;br/&gt;    var name: String&lt;br/&gt;    init(name: String) { self.name = name }&lt;br/&gt;    override var description: String { name }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;var teamA: [Person] = [&lt;br/&gt;    Person(name: &amp;quot;Alice&amp;quot;),&lt;br/&gt;    Person(name: &amp;quot;Bob&amp;quot;),&lt;br/&gt;    Person(name: &amp;quot;Charlie&amp;quot;)&lt;br/&gt;]&lt;br/&gt;&lt;br/&gt;var teamB = teamA&lt;br/&gt;teamA[0].name = &amp;quot;Diana&amp;quot;&lt;br/&gt;teamA.removeLast()&lt;br/&gt;print(teamB)&lt;/pre&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🎨 UIKit 26 — фича №8&#13;
+&#13;
+Цветовой выборщик в iOS 26 стал...</title>
+    <published>2025-11-06T07:55:50+00:00</published>
+    <updated>2025-11-06T07:55:50+00:00</updated>
+    <id>https://t.me/swiftynew/635</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/635"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swiftynew/635"&gt;&lt;img src="https://cdn4.telesco.pe/file/HnSul0aQihCpzlzw38FKuYdfvdDUSkSAM7X-RzmTkw32G4FMZaO_I49TAgVgx1wdQYfzM7P7IICWfIEFa2GvxvD6OxUVc9J0WRaho5jXNaAOI7yvEf1obTTflf-zwkFR1CAo6Aoh-6u0R_McOkObH4c9u71A4CAcL_-TUUvsgo_ILfxtrKkN0PPqW3f3aG2TlILNLRGbr-YJZOYwy-D7sdTLMYsGz6kciGeux1s0qgW2qblpuUzDMyTc4IYqQvmkSS668PBzHDaPRfbOeG-kyDT3T-P_Q1x5-2Hqu7opliEwLbVsKL0oAE2LX85WfW4cTLHQ9178IpiCI2oDChBbDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA8.png')"&gt;&lt;b&gt;🎨&lt;/b&gt;&lt;/i&gt; &lt;b&gt;UIKit 26 — фича №8&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Цветовой выборщик в iOS 26 стал умнее.&lt;br/&gt;Теперь UIColorPickerViewController и UIColorWell поддерживают HDR-цвета и позволяют пользователю использовать пипетку (eyedropper) прямо в UIKit.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AA.png')"&gt;&lt;b&gt;🧪&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Новые свойства&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Для UIColorPickerViewController&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;var maximumLinearExposure: CGFloat { get set }&lt;br/&gt;var supportsEyedropper: Bool { get set }&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Для UIColorWell&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;var maximumLinearExposure: CGFloat { get set }&lt;br/&gt;var supportsEyedropper: Bool { get set }&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"&gt;&lt;b&gt;💡&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Что это даёт&lt;/b&gt;&lt;br/&gt; • maximumLinearExposure — определяет максимальную яркость (HDR-headroom),&lt;br/&gt;которую можно выбрать при работе с расширенным диапазоном цветов.&lt;br/&gt; • supportsEyedropper — включает или отключает пипетку,&lt;br/&gt;чтобы пользователь мог выбрать цвет с экрана.&lt;br/&gt;&lt;br/&gt;Пример использования&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let picker = UIColorPickerViewController()&lt;br/&gt;picker.supportsEyedropper = true&lt;br/&gt;picker.maximumLinearExposure = 1.5&lt;br/&gt;present(picker, animated: true)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;или если используете UIColorWell:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let colorWell = UIColorWell()&lt;br/&gt;colorWell.supportsEyedropper = true&lt;br/&gt;colorWell.maximumLinearExposure = 1.5&lt;br/&gt;view.addSubview(colorWell)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23ios26"&gt;#ios26&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🌈 UIKit 26 — фича №7&#13;
+&#13;
+Цвета в iOS 26 стали умнее: теперь UIColor...</title>
+    <published>2025-10-30T11:24:28+00:00</published>
+    <updated>2025-10-30T11:24:28+00:00</updated>
+    <id>https://t.me/swiftynew/634</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/634"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/634" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5404870433939922908"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C88.png')"&gt;&lt;b&gt;🌈&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;UIKit 26 — фича №7&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Цвета в iOS 26 стали умнее: теперь UIColor умеет работать с HDR-яркостью и “головой” экспозиции.&lt;br/&gt;Это особенно важно для экранов с поддержкой Display HDR, где можно выводить более яркие и насыщенные цвета без пересветов.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AA.png')"&gt;&lt;b&gt;🧪&lt;/b&gt;&lt;/i&gt;&lt;b&gt; Новые инициализаторы&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;UIKit добавил два новых способа создавать цвет с контролем экспозиции:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;init(red: CGFloat, green: CGFloat, blue: CGFloat, alpha: CGFloat, exposure: CGFloat)&lt;br/&gt;init(red: CGFloat, green: CGFloat, blue: CGFloat, alpha: CGFloat, linearExposure: CGFloat)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;exposure — задаёт, насколько сильно цвет выходит за пределы SDR.&lt;br/&gt;linearExposure — линейный вариант для точного HDR-рендеринга.&lt;br/&gt;&lt;br/&gt;Пример&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let brightBlue = UIColor(red: 0.0, green: 0.4, blue: 1.0, alpha: 1.0, exposure: 1.5)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Этот цвет будет выглядеть обычным на SDR-дисплеях, но ярче и “глубже” на HDR-экранах.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AD.png')"&gt;&lt;b&gt;🧭&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Новые свойства&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;var linearExposure: CGFloat { get }      // текущее значение линейной экспозиции&lt;br/&gt;var standardDynamicRange: UIColor { get } // SDR-эквивалент цвета&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Можно получить версию цвета, ограниченную обычным динамическим диапазоном,&lt;br/&gt;чтобы корректно отображать контент на не-HDR устройствах.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"&gt;&lt;b&gt;⚙️&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Управление “головой” HDR&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;func applyingContentHeadroom(_ value: CGFloat) -&amp;gt; UIColor&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Позволяет уменьшить или увеличить “headroom” — запас яркости,&lt;br/&gt;который система использует для плавных переходов между SDR и HDR.&lt;br/&gt;&lt;br/&gt;Пример:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;let hdrRed = UIColor(red: 1, green: 0, blue: 0, alpha: 1, exposure: 2.0)&lt;br/&gt;let tonedDown = hdrRed.applyingContentHeadroom(0.5)&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"&gt;&lt;b&gt;📺&lt;/b&gt;&lt;/i&gt; Теперь можно проектировать интерфейсы, которые корректно выглядят на HDR-дисплеях&lt;br/&gt;и при этом остаются совместимыми со стандартными SDR-экранами.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23ios26"&gt;#ios26&lt;/a&gt;&lt;/div&gt;File attachments:&lt;br&gt;Снимок экрана 2025-10-30 в 14.24.19.png -
+328.2 KB&lt;br&gt;</content>
   </entry>
 </feed>
