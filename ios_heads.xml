@@ -1,254 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">iOS.Devs (@ios_heads) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/ios_heads"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-26T08:32:23+00:00</updated>
+  <updated>2025-12-26T09:28:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Большой видеоматериал на 50 минут, где автор...</title>
-    <published>2025-12-24T11:50:06+00:00</published>
-    <updated>2025-12-24T11:50:06+00:00</updated>
-    <id>https://t.me/ios_heads/1101</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1101"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой видеоматериал на 50 минут, где автор рассказывает, какой воркфлоу собрал для работы с AI в Xcode&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=o4iKnSYlhBQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/MdBR5QeobnPxCkbaWucFoe3jSJy90bF5j0t2Yqs1Cm4-2B2xWT04daVjmkq1UZSe-zl4v3R-Pi5icNnEsvFdjioQmAuOLGoNOEiTF_fdRL8MaYjl4P9FqdMFRmxXfDVxxEKi8ZB1DaQJg4gnRj1Z8lF59-evgFmgZsUn1qTS_qyTbCj418u61rg0xyhrdb1IVgzNY0fbwQ42r7lBcYMzSpCN5r2JeQ58PZqbtfnepiH7ultEK-JQ7FpqX22q4bR72l34uruPZ7MXp2wZc6bQe6qdoGXzvUYzmJ0L9lTpImJ_tCysDUE4nOxni7Eua4Bi9aT4DgRwxW5HBYqInQtncQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;
-How I use Codex GPT 5.2 with Xcode (My complete workflow) - YouTube&lt;/a&gt;&lt;br&gt;❌ Stop wasting time on dumb build errors. &#13;
-Leverage 3 tips to keep your iOS/macOS builds green ✅. Your agent needs to have eyes to see what is happening in your app to be productive. &#13;
-&#13;
-1. Build Scripts&#13;
-2. Make Build Failures Obvious&#13;
-3. Give Your Agent Eyes…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Небольшой материал о том, что исправлять в...</title>
-    <published>2025-12-22T13:50:15+00:00</published>
-    <updated>2025-12-22T13:50:15+00:00</updated>
-    <id>https://t.me/ios_heads/1100</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1100"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал о том, что исправлять в сгенерированном AI Swift коде.&lt;br/&gt;То есть какие вещи они обычно делают не очень правильно и на что нужно заменить их реализацию&amp;#33;&lt;br/&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener"&gt;https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/VPTzBzXGzySKGENWPiHhn9cNRRTq-ey0FO1qitExKqpxHL_vGIPxhg2E30w4cnr6hZZscQiJqTgFtUTef1kVi-X9TfJ8KYSErXdioX1jvvF1YH85wnS-ezYKylPxtIAzSWnl2lY-Fzh33mMbAgEAux3lGk2O3LAb4oHTszezcCSL8UnproUe-6HvnSMfSjpbi22iYOtj8_P8Qa3FzsC8Yw99ZL12WCd3PBiU2RrUEx0huMVUw9rlWov-Re0UzEQx9v1RecTX1hqWcE7iG_Kz-KucoMP0MyLNKS_T8n1FwS5k715NX4LFnlxiiIaxxuPA1GPRTDDL_9GX-pLkQjIYxA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
-What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Интересный материал о том, что если работаете с...</title>
-    <published>2025-12-04T12:41:27+00:00</published>
-    <updated>2025-12-04T12:41:27+00:00</updated>
-    <id>https://t.me/ios_heads/1099</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1099"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Интересный материал о том, что если работаете с алгоритмами, то, возможно, вам стоит пораньше добавить какие-нибудь чарты в проект, чтобы это можно было удобно тестировать. Тут на примере «программирования поведения лифта». Выглядит интересно&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"&gt;&lt;b&gt;👍&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://dchakarov.com/blog/visual-debugging-with-Swift-Charts/" target="_blank" rel="noopener"&gt;https://dchakarov.com/blog/visual-debugging-with-Swift-Charts/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dchakarov.com/blog/visual-debugging-with-Swift-Charts/"&gt;&lt;img src="https://cdn4.telesco.pe/file/kLdo7VzaBiXCSszomT3feShZ379Nr8D7SDxLiIlnaz5v34bAhAIovq_PnTPVoferA3XDqq4_r5DC8s3RS_Lu8n0CSn586dwHEk6bnLrgXmi5cCJ8XQ_xAy_aOEkelgmsGVicfVl7aXqFGGMpbKxwa29q2xEJEHNgYvS1ZuMOYN-HWnCVQokqnVVYtESiLyM0xzh69p_rQf6e-07lJBgioY7HHSpX2d45O3onh0WyFB094O43P5B02ntWBESJ9VkTno-gghHSXV7CimnmVEnMB91PGNUxgsSO-6qTjTxbeQziVLc1LIN6KGAAM0M_XVgawOB2RnYPysAz346hlJaKlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dchakarov.com/blog/visual-debugging-with-Swift-Charts/"&gt;
-Visual debugging with Swift Charts - Dimi Chakarov&lt;/a&gt;&lt;br&gt;When you are working with a lot of data, it is hard to see what is going on. Swift Charts can help you visualise your data and spot issues.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Уже завтра проведём заключительный вебинар этого года...</title>
-    <published>2025-12-02T14:15:01+00:00</published>
-    <updated>2025-12-02T14:15:01+00:00</updated>
-    <id>https://t.me/ios_heads/1098</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1098"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_heads/1098"&gt;&lt;img src="https://cdn4.telesco.pe/file/HNZLAZBxdUHiWeBClAaenqfSrmiVSiJoXoq65S04DUcZfBPL5ELwRD6r2bU6o_Fw1-XNF8uvye3efk6x-Y0KnirKtyT8rckgbbxB3K3BjnQRWiztetMO9Jc5IkHA5koKnoS_-BQe0tk7z8yRrO_A7yHs8s-aASwVYaR_Co_bDgPQv4iRNQfCBjOPrUIVlYmcktebjssM3ESM3aPzeTMv4N9O_l4tI-QiwU3Qh4x4hiXgadauTkpIodDx-hCDRUQBNVlx6zEuez2cUmQdbp_RVRmVExmYNj7luCczKRk1FQkPT4tIfnW6TrBSz8IFtKa1T6gHn9JtJu1zcFS96IvgbA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Уже завтра&lt;/b&gt; &lt;b&gt;проведём заключительный вебинар этого года&lt;/b&gt; — разберём, почему для многих приложений онбординг работает “в стол”, и дадим простой фреймворк, по которому можно пересобрать цепочку за один вечер. &lt;br/&gt;&lt;br/&gt;Вместе посмотрим:&lt;br/&gt;&lt;br/&gt;• какие шаги онбординга действительно двигают trial start rate, а какие только создают шум&lt;br/&gt;• как правильно выстроить порядок экранов&lt;br/&gt;• когда короткий онбординг выигрывает, а когда — длинный &lt;br/&gt;• какие мелкие изменения дают неожиданные +5–20% к метрикам&lt;br/&gt;• как всё это быстро создавать и тестировать с помощью &lt;a href="https://go.qonversion.io/wUWC" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Qonversion No-Code Builder 2.0&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;А еще подарим 5 участникам вебинара кастомный&lt;/b&gt; &lt;b&gt;дизайн оффер-экрана для их приложения&lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"&gt;&lt;b&gt;🎁&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;a href="https://go.qonversion.io/UlXh" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Присоединяйтесь&amp;#33;&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;Одна регистрация = запись вебинара + дополнительные материалы.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Держите большой плейлист с недавней конференции Swift...</title>
-    <published>2025-12-01T13:07:53+00:00</published>
-    <updated>2025-12-01T13:07:53+00:00</updated>
-    <id>https://t.me/ios_heads/1097</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1097"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите большой плейлист с недавней конференции Swift server side. Очень много материала на разные темы&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt" target="_blank" rel="noopener"&gt;https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Что нас ожидает в Swift 6.3?&#13;
-Вот...</title>
-    <published>2025-11-28T10:31:01+00:00</published>
-    <updated>2025-11-28T10:31:01+00:00</updated>
-    <id>https://t.me/ios_heads/1096</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1096"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Что нас ожидает в Swift 6.3?&lt;br/&gt;Вот &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"&gt;&lt;b&gt;👇&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.swift.org/blog/embedded-swift-improvements-coming-in-swift-6.3/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/embedded-swift-improvements-coming-in-swift-6.3/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/embedded-swift-improvements-coming-in-swift-6.3/"&gt;&lt;img src="https://cdn4.telesco.pe/file/gkUTdbTNMCCJ5J98mH4SADfolVgmIir_i0aQVaxvKgjENAQkm_Sz6NaISgm0eaPIFI0WlTzH1qUpUukBB38csmThAiM0Y9ZqdWwQd8JBWGOUbyQkW1c-FEgMpOfq0XQ5QpBcmyzQXWKIBiktnA98LC3detdlljJV9yvBGO3ue-tkaVxBAtQRnSU6AUgrXlUi_p4fspY8W1Qhs7DLKVkX6GkuNTwRUxvpEXWIJHQ6U-SliIkvieHoyxvHG7_gmXwQQddDtMcxPFqobCRVL2yo5P-41HiovUMLkPnlG4VDkpZDaHryOn_txCCpJoiMHSpoNMD1W39YBtOFmSAYfXvk1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/embedded-swift-improvements-coming-in-swift-6.3/"&gt;
-Embedded Swift Improvements Coming in Swift 6.3 - Swift.org&lt;/a&gt;&lt;br&gt;Embedded Swift is a subset of Swift that’s designed for low resource usage, making it capable of running on constrained environments like microcontrollers. Using a special compilation mode, Embedded Swift produces significantly smaller binaries than regular…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Большой и подробный материал о том, как в компании...</title>
-    <published>2025-11-27T10:41:37+00:00</published>
-    <updated>2025-11-27T10:41:37+00:00</updated>
-    <id>https://t.me/ios_heads/1095</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1095"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой и подробный материал о том, как в компании «сокращали» время ожидания, пока CI что-то сделает. И в конце итог, сколько это примерно в деньгах экономии &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA491.png')"&gt;&lt;b&gt;🤑&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://tuist.dev/ru/blog/2025/11/17/smart-before-fast" target="_blank" rel="noopener"&gt;https://tuist.dev/ru/blog/2025/11/17/smart-before-fast&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://tuist.dev/ru/blog/2025/11/17/smart-before-fast"&gt;&lt;img src="https://cdn4.telesco.pe/file/RtpamWUnC_30MzgTyGuLJpDgzQlyK5dNS4MmcGCM1rOXjqp3DDAln9zquRvsHJK53i7fDJq42Rdiwl_l7qU8UDNUBcuCGQcnaFPgwtgOVhC3cVlKlwwNekgXsxGyl0JtLFKkWhm_ywLJHA_Wj2r5byF4sYkAECILjPOtPPBCiiBknNhi2_Vxo1-LEYiNqSufaIt1wvvOfdzMk9DXHisIRDe7BL9FahMzwM6xeFmSY4MCyZDOJ1A5j0cyyYBplwJg9OwpERLAU9be0kDh8LY9VGSZhgUUtdftukuWbINA1qoSrytFwqMml1hW9GxFMyDd7xe6ns1TH_nDNjA5nJY01A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://tuist.dev/ru/blog/2025/11/17/smart-before-fast"&gt;
-Build Smart Before You Build Fast - tuist.dev&lt;/a&gt;&lt;br&gt;Discover how merge throughput evolves as your team grows, and why optimizing build and test times becomes critical for business velocity&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Очень полноценный и полезным материал про Approachable...</title>
-    <published>2025-11-25T15:04:24+00:00</published>
-    <updated>2025-11-25T15:04:24+00:00</updated>
-    <id>https://t.me/ios_heads/1094</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1094"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень полноценный и полезным материал про Approachable Concurrency в Swift. Внутри есть видеоформат на 28 минут &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/"&gt;&lt;img src="https://cdn4.telesco.pe/file/E8Rhoha_rBZi2J-lUzWp3ZvOn-CZC-ZtMO8EjeVXYZsMyJiUxupj65hZ9SO9gJgG6MytuCePSHA6i4iPzGbvd6usEjfuRfkwvv_H1Swsm16ao0pkMZnlDRIfNvMNPJm4VFMhtRtng7g1lrptzXu5LZT4SHofWR4T864BdwC-1hmLotncQjUNtkGxpy1htNs14RG_U2izJ6BcHu5sE8YPFVfOc7BG6_ToonAzyVLIznwq22p9VSTuCbXLLICkvv9guVwyTdGq4pg8IAWP3vwo1eGL36sJ06AZfZUOKA0g19X7OmQywbdCK9XBfpDzGmT8I8hP9a8admQF0_aE_idnOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/"&gt;
-Approachable Concurrency in Swift 6.2: A Clear Guide - SwiftLee&lt;/a&gt;&lt;br&gt;Discover what ‘Approachable Concurrency’ means in Swift 6.2. Learn how it simplifies async/await, helping developers write safer Swift apps.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Про зум в SwiftUI&amp;#33; Даже и добавить особо...</title>
-    <published>2025-11-21T11:15:34+00:00</published>
-    <updated>2025-11-21T11:15:34+00:00</updated>
-    <id>https://t.me/ios_heads/1093</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1093"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Про зум в SwiftUI&amp;#33; Даже и добавить особо нечего&lt;br/&gt;&lt;a href="https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/" target="_blank" rel="noopener"&gt;https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Интересные рассуждения про Task в SwiftUI на примере...</title>
-    <published>2025-11-18T11:10:42+00:00</published>
-    <updated>2025-11-18T11:10:42+00:00</updated>
-    <id>https://t.me/ios_heads/1091</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1091"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Интересные рассуждения про Task в SwiftUI на примере загрузки картинкки. Про проблемы и даже от команды Apple есть ответ&amp;#33;&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener"&gt;https://chris.eidhof.nl/post/swiftui-task-identity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/egbtbfhQNyKFxXEoNKW2F8CWxw04P9EiWWXaD_rojvKgTXkcESLrQh5YOHBcU5vnT8HRqbqnsRZSDHbMNZo11VLuCYW21WqMXPnEu35t5Q9IRxZvV0G_tCmamaiNaeRAvbkvC6D8ZpRP5lm2iXeZgAid-sDsyI9C9WtyK88ma6hiEu_LBdkX3aa17wRvBYVMnee5MxQZes6zaQmFlYyndfv1RukiKhh7hr1-QfvSiwdIwpqxOnnSojwcq2tm0mmK4z-JfXR1vr9FHuDoWiUd29Da0rKraB6wxoOvQONwWCEq6BSmhfxKxHuWMQypDqmQioFJWp6eskQ3gOhsKsmRxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
-Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Ошибки — неотъемлемая часть любого роста. Новый сезон...</title>
-    <published>2025-11-17T09:20:10+00:00</published>
-    <updated>2025-11-17T09:20:10+00:00</updated>
-    <id>https://t.me/ios_heads/1090</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1090"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_heads/1090"&gt;&lt;img src="https://cdn4.telesco.pe/file/TBT6ShbOrDYdmnJndBl9VIEr0VLCwSrewhxENfAlxfcW3DpOs2sw7-2ARN7Oql774CvHAy3brrQh1Hywt53UelAphQ8BXyND24Mq43Gt5bv_yAfNjFYWK5PEvsfCBgRJIKsto3pm__pS4qsFN90mQfhyxWzW2hu1TGjF-TN2ONuTUhfuU-uAqJVKscztPGM9yZ9vLHrGanA4hRZ3QO1xzuDhNMSRdAwsV2LauC4h5zT0AinkSAvAFuYu3IoS-ID19BsqKvJmsGqihGY7_LoADNOhkq8tNOGe6ZvViKsDrHcsaoQHqgsWOJC7D_qFr9yiTCwkaO0EAtuzesp6vKRiYg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ошибки — неотъемлемая часть любого роста. Новый сезон &lt;a href="https://podlodka.io/softcrew?utm_campaign=early_bird_soft_crew_6&amp;amp;amp;utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_content=ios_heads" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Podlodka Soft Skills Crew&lt;/b&gt;&lt;/a&gt;&lt;a href="https://podlodka.io/softskillscrew" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(24–28 ноября) &lt;/b&gt;посвящён умению ошибаться — как перестать бояться промахов, извлекать из них пользу и превращать факапы в источник развития.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"&gt;&lt;b&gt;📌&lt;/b&gt;&lt;/i&gt; В программе:&lt;br/&gt;&lt;b&gt;• Чистый код мышления — &lt;/b&gt;почему мозг боится ошибок и как “починить” когнитивные баги (Ксения Ильянович)&lt;br/&gt;&lt;br/&gt;&lt;b&gt;• Ошибайся — позорься до конца — &lt;/b&gt;чем ошибки полезнее успехов и как перестать стыдиться факапов (Вера Стёксова)&lt;br/&gt;&lt;br/&gt;&lt;b&gt;• Fail night: Я ошибся, и мир не рухнул — &lt;/b&gt;честные истории промахов от экспертов и выводы, которые сделали их сильнее&lt;br/&gt;&lt;br/&gt;&lt;b&gt;• Ошибки, которые можно, и ошибки, которые нельзя — &lt;/b&gt;как разные культуры и руководители реагируют на промахи (Станислав Тагиев)&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"&gt;&lt;b&gt;💡&lt;/b&gt;&lt;/i&gt; Ошибки перестают пугать, когда их разбирают честно.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"&gt;&lt;b&gt;🗓&lt;/b&gt;&lt;/i&gt;24–28 ноября &lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"&gt;&lt;b&gt;🔗&lt;/b&gt;&lt;/i&gt;Подробности и билеты: &lt;a href="https://podlodka.io/softcrew?utm_campaign=early_bird_soft_crew_6&amp;amp;amp;utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_content=ios_heads" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;https://podlodka.io/softskillscrew&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;А промокод ios_heads дает скидку 500р&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"&gt;&lt;b&gt;🎁&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Материал о том, как сделать concurrency-safe нотификации при...</title>
-    <published>2025-11-12T12:20:48+00:00</published>
-    <updated>2025-11-12T12:20:48+00:00</updated>
-    <id>https://t.me/ios_heads/1089</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1089"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Материал о том, как сделать concurrency-safe нотификации при помощи новых MainActorMessage и AsyncMessage протоколов&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/concurrency/mainactormessage-asyncmessage-concurrency-safe-notifications/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/concurrency/mainactormessage-asyncmessage-concurrency-safe-notifications/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/concurrency/mainactormessage-asyncmessage-concurrency-safe-notifications/"&gt;&lt;img src="https://cdn4.telesco.pe/file/gFqFssvUoTOMRiichBycDnLTqyejsDFfuT9_kUrDKpeX4wKh651QxyYU089Q1kmhn0K3SAPlBoLkVoNocWXZH0ADJ1C-ke-h7zbO87uGUGaL3ompP90ydf5kDxSaKo69uO1GKqEaKM_ODtlg_dB_SKSCNUCXq6eDJhqSaMIApDDIUWUgNJuWMIBxyv5MpSdDI1cUwTw62SDPNbBmb0ssu7jra3x_8qTgAckixoaHqtfEZmgOO-89uE5kgtiXf0ngfLresE42ffRCBObd_XatpU0nZxQKe5TH2OrGi1iS9HRNi984631O1EKDOD8z7Uin1I0wJvoIhmM5THhh9Ey-TQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/concurrency/mainactormessage-asyncmessage-concurrency-safe-notifications/"&gt;
-MainActorMessage &amp;amp; AsyncMessage: Concurrency-safe notifications - SwiftLee&lt;/a&gt;&lt;br&gt;Dive into notifications and Swift concurrency. Discover the updated notification API that ensures thread safety.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Очень крутой и подробный материал о том, как сделать...</title>
-    <published>2025-11-11T11:52:03+00:00</published>
-    <updated>2025-11-11T11:52:03+00:00</updated>
-    <id>https://t.me/ios_heads/1088</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1088"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень крутой и подробный материал о том, как сделать креативные решения с анимациями в своем проекте&amp;#33;&lt;br/&gt;Много всяких красивых вещей &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener"&gt;https://www.createwithswift.com/creative-coding-randomness-and-noise/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/"&gt;&lt;img src="https://cdn4.telesco.pe/file/NwSo_L0LB0vaaceaREruqQTy6Y_aJOttuR1WNOmxfqKXnNxM3zKJwr1gssNC16tJmgeL51j7ZsOdTqX56g1LGV-ZNKVtkM-HKDhEXkNZkEoKdBVQ0p34MJAA5tgDoJJaMFwO4Hvis7iF_MHVW-tV7M5l5WlZIEwKmB-rORan4uGc2z28-4wPP0f_b1_ViMhT0rd-gZW4Up148WIwLNSBSKl8FUqrj4b7qnKmvLf0JOyVkVFYhnrOmeJD6ddeywrqoCMm7vQmT0ZPutrSk3kuv-nAqH1dRkvALtFEhdndZ-sWOxLQhCGuxLj1xvoxwC9Cjlbr-RKCL7RRE2AOS9Gw4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/"&gt;
-Creative Coding: Randomness and Noise - Create with Swift&lt;/a&gt;&lt;br&gt;Understand how to introduce noise in your algorithms to create smooth variations that change across time and space.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Совсем небольшой материал о том, как при помощи...</title>
-    <published>2025-11-10T13:05:29+00:00</published>
-    <updated>2025-11-10T13:05:29+00:00</updated>
-    <id>https://t.me/ios_heads/1087</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1087"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Совсем небольшой материал о том, как при помощи профилировщика найти view в SwiftUI, которая обновляется чаще остальных&amp;#33;&lt;br/&gt;&lt;a href="https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/" target="_blank" rel="noopener"&gt;https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Ребята запускают цикл статей What’s new in Swift на каждый...</title>
-    <published>2025-11-06T12:40:26+00:00</published>
-    <updated>2025-11-06T12:40:26+00:00</updated>
-    <id>https://t.me/ios_heads/1086</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1086"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ребята запускают цикл статей What’s new in Swift на каждый месяц.&lt;br/&gt;Вот первая за октябрь.&lt;br/&gt;Рассказывают, что интересного появилось, что намечается, что интересного было на конференциях и так далее.&lt;br/&gt;Последим, вдруг будет интересно?&amp;#33;&lt;br/&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/whats-new-in-swift-october-2025/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/"&gt;&lt;img src="https://cdn4.telesco.pe/file/A9w3U6vEDiC2X09vc0lBrF84CZGjAu3fnsGIJba4L2UyZrfom-5akVXTj_8o0OOQrdCe_DBlOWFn8m40OplU2Esy388UQMUYKiJ2wMBahdlhAYwo4bQMcSXAbuq6UxF6TDp4J1g3NwnI8xBpS1FGTPlRGp3EusxMpoib-QbLf9lUPLMKrRNqGdO_EYPa94Mnj_fEY48Lx0L2qi8EIved3hf_1PfarUhaJSneqdh6eh0ugDJP9fVyz30mY0A4XyYdk5kmhEP3Mk7iJpmF80_qtuXr4iK4Xf6y8d03nVHeJ0nwgQfd_1CBl9SebPJUWwdw8EgiZLBAQKycO5FehI_6QQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/"&gt;
-What&amp;#39;s new in Swift: October 2025 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Editor Note: This is the first of a new series, What’s new in Swift, a monthly digest featuring what’s new in the Swift project and ecosystem, with insights and perspectives from across the Swift world. This October edition covers highlights from the Server…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Обещанные апдейты от Apple подъехали, что касается ревью...</title>
-    <published>2025-11-04T12:59:12+00:00</published>
-    <updated>2025-11-04T12:59:12+00:00</updated>
-    <id>https://t.me/ios_heads/1085</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1085"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Обещанные апдейты от Apple подъехали, что касается ревью приложений, их компонентов и про оффер коды еще.&lt;br/&gt;Не знаю, что именно из этого может быть полезно для вас. Не сказал бы, что супер крутой апдейт, но вот часть с оффер кодами приятная.&lt;br/&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6" target="_blank" rel="noopener"&gt;https://developer.apple.com/news/?id=gf6mgrs6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6"&gt;&lt;img src="https://cdn4.telesco.pe/file/qAhzuObh0IvcsViT3Ck5c_acbRuPh9a3y_CRKVRvnnZ4kzsmFMKN1gM4xLfVlQKxo2QxAF5Ft4djYhHDQMqoQtsDtmH4K88odBvAW7yyII1mokuPW154PgtsLVc-wKAru4cJTXN1ue9wndOY_e6vkQcZm7sruWUOgPkQ7S57F0X0MDYmVds2zSVEW-91haQ4SVEOrBzRq7TxeOEW0piSl77VmOzqlp5ZPeT2ceR85BP6fnF_FAxWqupdhQr58uhIWzd1PqzM-9bJiQGrMJhR3T0ilL50xoufbWvwkPBMuMRlqRH9r51QpmTtoYXyQvbVemAkAiaOSYzPur2EAj0x7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6"&gt;
-Enhancements to help you submit and market your apps and games - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;As part of our ongoing commitment to helping developers succeed on the App&amp;nbsp;Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of custom product pages, and offer codes for all In-App Purchase…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Не знаю насколько вам это нужно, но на всякий случай...</title>
-    <published>2025-11-03T11:15:48+00:00</published>
-    <updated>2025-11-03T11:15:48+00:00</updated>
-    <id>https://t.me/ios_heads/1084</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1084"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не знаю насколько вам это нужно, но на всякий случай держите.&lt;br/&gt;Про синглтон в Swift Concurrency, если вдруг не знали что-то&amp;#33;&lt;br/&gt;&lt;a href="https://www.massicotte.org/singletons" target="_blank" rel="noopener"&gt;https://www.massicotte.org/singletons&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;
-Singletons with Swift Concurrency - massicotte.org&lt;/a&gt;&lt;br&gt;Singletons mean global state. Global state and concurrency can mean trouble.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Обучающий материал о том, как сделать вью с «реал-тайм...</title>
-    <published>2025-10-29T15:51:17+00:00</published>
-    <updated>2025-10-29T15:51:17+00:00</updated>
-    <id>https://t.me/ios_heads/1083</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1083"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Обучающий материал о том, как сделать вью с «реал-тайм камерой» внутри в SwiftUI.&lt;br/&gt;Из коробки такой вьюшки нет, поэтому смотрите детали по ссылке&amp;#33;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/" target="_blank" rel="noopener"&gt;https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;&lt;img src="https://cdn4.telesco.pe/file/KIlqF6VjBzk1jtvUzcR9Ds0PYMt6A0bo5bGQgpkoKG3Cod7_5rIug7qYEtb1NdSizDBbqIuSGU4FZGkaIruDzytUu-FOy3rMfgFMiP2U7paffbs_c5jhVSWklrOFf3XFy-DeZmxeGIIJbWMAw7oQMy-a1Mb6eZAZxEzPzkgYh1q-zdWp0WsP5Qm81caPEaCLcjfU-fwYUXxiEhxkPGHFIReeveJwRxDcLHZCaevK4XFBadVLD8mDzVPn7dUj0B4-1u8d2XhZnZdwg8jDeZWgwfKgtdGWM4fEIVg-lD5OjcXCJGEswFb123lYsPWKqDttcaMCA4cbDoaP9RgzoT131A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;
-Integrating Device Camera in SwiftUI Apps - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to bridge UIKit and AVFoundation with SwiftUI to integrate camera functionality.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Очень классный и подробный материал на тему того, как...</title>
-    <published>2025-10-27T12:58:46+00:00</published>
-    <updated>2025-10-27T12:58:46+00:00</updated>
-    <id>https://t.me/ios_heads/1082</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1082"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень классный и подробный материал на тему того, как уменьшить время билда вашего проекта&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/optimization/analysing-build-performance-xcode/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/?utm_campaign=coschedule&amp;amp;utm_source=twitter&amp;amp;utm_medium=twannl&amp;amp;utm_content=Build%20performance%20analysis%20for%20speeding%20up%20Xcode%20builds"&gt;&lt;img src="https://cdn4.telesco.pe/file/eSAqSFIASiguUnsM9Io54RtmXV8mjUkmw73ePmDTyDaMMzLQVzOlgy7-RHnkmWg0oLlNutzCtmS4iLXfdDumbuErTGaiha8kqPt5ksvuG6I290KxiYdn6xswSi98Ts7GFcrWE1iP4t-73M0hQD0UNYwq8CXV62xShx4_iN_gZVZgVG6Ha3Wd9L5luyCGamg-R9_9V84cRIP1miEO8MIn7Z_sPEtkDTswZsrfk5UC-rt7rFiLspbIqDxCApMPzqkxGcl6F_UQ3mODl0PgUZj2HZUVLywMBYBiQ2iACg87Tpz0IJY1zHPWCf8Lzz7gKSodtLP_AxrtFSvYfZAhk9u-iQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/?utm_campaign=coschedule&amp;amp;utm_source=twitter&amp;amp;utm_medium=twannl&amp;amp;utm_content=Build%20performance%20analysis%20for%20speeding%20up%20Xcode%20builds"&gt;
-Build performance analysis for speeding up Xcode builds - SwiftLee&lt;/a&gt;&lt;br&gt;Speed up Xcode Build Performance by gaining insights using Build Timing Summary and various techniques that can save you a lot of time.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В одно время каждая первая статья была про...</title>
-    <published>2025-10-23T09:52:01+00:00</published>
-    <updated>2025-10-23T09:52:01+00:00</updated>
-    <id>https://t.me/ios_heads/1081</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1081"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В одно время каждая первая статья была про архитектуру. К счастью, сейчас этого стало меньше, но вот вам статья про архитектуру в SwiftUI&amp;#33; Пока вроде бы не так заезженно. Может что-то полезное для себя подчерпнёте &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA49E.png')"&gt;&lt;b&gt;🤞&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ubDxYQjDgYqmdo_ULgCdM2r2tUGvbRfSbqQWpw1taO5oJjH06J_p26n-9aAC9y7ablZRMix8rXpKHATKZSYZfgyxtYnczJcRII31jkSj-Awcd_UerlFRzuJZUauHBuZZYgEW-1-ond370sqr9GISfT7BcjpmM_2AfEjut8jFai3OmGe4rlkKqhwHWLdMvH8unSbql_C56z8CIu4Z-T8WQSCWYJd93RjrzAfPZ1Cac2bCZ4uW5whXvY3RgQObB5672sOg09RGDWg0C2J5SezNe1_PeoaQPhfkfSvVQoubch6Jx-s7YIrlE6ohcmdtyC6OhFWzbHj164bkbPD8hWgUcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/"&gt;
-SwiftUI Architecture: Structure Views for Reusability and Clarity - SwiftLee&lt;/a&gt;&lt;br&gt;Learn how SwiftUI architecture can simplify your long view bodies with techniques for clearer, more reusable designs.&lt;/blockquote&gt;</content>
+    <title type="html">Bridge returned error 0! (20448)</title>
+    <published>2025-12-26T09:28:37+00:00</published>
+    <updated>2025-12-26T09:28:37+00:00</updated>
+    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/ios_heads        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@ios_heads    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fios_heads&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fios_heads+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40ios_heads%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>

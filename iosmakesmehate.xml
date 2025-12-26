@@ -1,245 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">iOS Makes Me Hate (@iosmakesmehate) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosmakesmehate"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2025-12-26T08:32:18+00:00</updated>
+  <updated>2025-12-26T09:28:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Нужен ли чистый код в эпоху его гниения? Эволюция...</title>
-    <published>2025-12-26T06:27:27+00:00</published>
-    <updated>2025-12-26T06:27:27+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3627</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3627"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Нужен ли чистый код в эпоху его гниения? Эволюция отношения к коду.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Есть правило, что никакой код не вечный. У него есть инфляция, энтропия и &lt;a href="https://habr.com/ru/companies/vdsina/articles/534696/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;гниение&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; Меняется контекст. &lt;br/&gt;Требования, продукт, команда, интеграции. То, что было элегантно при задаче А, становится обузой при задаче B. В стартапах или продуктах с низкой определенностью писать сразу &amp;quot;понятный и идеальный&amp;quot; код - опасно и неблагодарно. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; Меняется платформа и язык. &lt;br/&gt;Swift быстро развивается: concurrency, macros, новые API, новые бест практики. Код, который был правильным в 2020, в 2025 может выглядеть как кусок говна.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; Меняешься ты.&lt;br/&gt;Ты начинаешь видеть вещи, которых не видел раньше: границы модулей, места для инверсии зависимостей, контрактов, тестируемости. Прошлый ты не был херовым. У него были другие ограничения.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"&gt;&lt;b&gt;4️⃣&lt;/b&gt;&lt;/i&gt; AI генерация&lt;br/&gt;Читать напрямую код стало всем меньше людей. Даже по нашему опросу люди чаще &lt;a href="https://t.me/iosmakesmehate/3357" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;читают чужой код&lt;/a&gt; (и даже книги) с помощью нейронок. Фронтенд может писать код для бэкенда. И наоборот.&lt;br/&gt;&lt;br/&gt;Пока ты джун, ты реально часто не знаешь, что ты не знаешь. И либо пишешь &amp;quot;как получится&amp;quot;.  Либо пытаешься писать &amp;quot;как в книжке&amp;quot;, но без понимания контекста и цены абстракций. Для меня чистый код это не про &amp;quot;правильно потому что правильно&amp;quot;. Это когда всем становится понятнее. &lt;br/&gt;&lt;br/&gt;Да и я вообще считаю, что по-настоящему чистый код ты не можешь писать если сам:&lt;br/&gt;- не пишешь автотесты всех уровней пирамиды&lt;br/&gt;- не проектируешь архитектуры&lt;br/&gt;- нет общепринятого стандарта &amp;quot;понятности и чистоты&amp;quot; в команде&lt;br/&gt;- нет культуры избавления от легаси&lt;br/&gt;&lt;br/&gt;Интересные статьи:&lt;br/&gt;- &lt;a href="https://www.reddit.com/r/programming/comments/1dxee8a/entropy_why_code_rots_and_technical_debt_grows/?show=original" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Entropy — Why Code Rots And Technical Debt Grows&lt;/a&gt;&lt;br/&gt;- &lt;a href="https://www.reddit.com/r/ExperiencedDevs/comments/jbfhue/is_writing_clean_code_overrated/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Is writing clean code overrated&lt;/a&gt;&lt;br/&gt;- &lt;a href="https://medium.com/javarevisited/why-clean-code-is-overrated-the-data-driven-reality-check-385648c0fcfe" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Why Clean Code is Overrated: The Data-Driven Reality Check&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ставьте &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')"&gt;&lt;b&gt;🖤&lt;/b&gt;&lt;/i&gt; если пишите &amp;quot;чистый&amp;quot; код, и &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9280.png')"&gt;&lt;b&gt;💀&lt;/b&gt;&lt;/i&gt; когда &amp;quot;достаточно понятный&amp;quot;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/vdsina/articles/534696/"&gt;&lt;img src="https://cdn4.telesco.pe/file/cpAOk3qw1BNBwrhS-Py9C5zWcGSzC8dJt_n53s6EVlYNYwheAQvg_gpBVXEjUcRuU-9PsokWKPElsPXIfYMYB0qb-_L76QGZDbpl23_zq_z5z1Kz0eEUL-ojWbwNvKlMDIjfBrhzWEEi0H8tAZUrk7lj4Pd8n3ba73BIs-LC3EOevfYcJSw_VMt_988wO2e0dw8gUT8iS9d21ip6mlfkCxMgZeIewmTuzi7ew9Gi-crlLK63GqtRVoF1fmGRnJUDJm6l1-FV0EJKhDoevgkxOUoVFeiwwzyZMV7vLby693UzTzPpwMr3gXvmvkqeyAitLF39Qw_Ue404oY-KMjG47w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/vdsina/articles/534696/"&gt;
-Как избежать гниения ПО - Хабр&lt;/a&gt;&lt;br&gt;Недавно я наткнулся на историю столь же удивительную, сколь и ужасную: Один из моих клиентов занимался поддержкой нескольких пенсионных фондов, входящих в сотню лучших по миру. У него была еженочная...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">мем жизни</title>
-    <published>2025-12-25T18:44:18+00:00</published>
-    <updated>2025-12-25T18:44:18+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3626</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3626"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3626"&gt;&lt;img src="https://cdn4.telesco.pe/file/nS4c5KuMXV4ztpf0lEOAMqtKE4aTYDMUYgcz8tpGsYRBY4dDleu1yxAlKLXIW08dEdAFuFZ3L8a0kELGd7tAFFdXGGfjSdp03By3bym7oHxHEPPYGLXzZ7vWfOfnGGjIa6tQUabQZ0AUhRl-8R3PL7h1FHGFD42NOxNhObMCXKZOICDIHDkRc9kyY7WftWELgd66kkqhGBVEKv4Z9nvE_-RBhRJIsTjZY-4BvLAyDAm4GMYXVw1cqxGoe-rWAPFrtT_zDNISggkvduC36xyM1MU14J6RJwtGkK4xJdctcXLlKFMirz9RtrcrvqBRxKSqQeseWZWgprw9QJn1xKn7WA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;мем жизни&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Не смог не побыть corporate girl не захватить хайповый мерч...</title>
-    <published>2025-12-25T10:13:47+00:00</published>
-    <updated>2025-12-25T10:13:47+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3623</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3623"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3623?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Z3PVAPI8keTNCMTWtLMoYk5NplImehV0Xv0AzYrhWqnV75EGY_vgZdiy90kgHWVlUVlmUe61MOPznzRjpmeCJ548EtAYOt2hM1m7aDUn8pfptB0X13M49reNoxaQzrNmp0kXgo2ekzztkjk5waJ2iRRN5ixoMvVfvVeRFtORdP__sZbbjQcY4OfbGlNR_JJK3Q0KcXx8Bqmnr9gf8rBax5favdDyEJBfEtqKhrsfeXpdvFWN6gx-2CZ8KTpwfzJeVRZEqNz94RPYeqhtv8DmXXGp6k_4x-xQBm0LekPEEAhYWJslqk1bDY7hUWtzjcUz5azYHFXbYaBbnbLZuPiK8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosmakesmehate/3624?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/XB-sJRCJT7k0n_-habb2wqT9U2ShhYDb1cMOqa40wxVRZ-iIdgPfr8UUYFfSscTOXDZklDUhVWrY8RgRFPfW-cNFc83IGkOUQezzp8PmtrRFYVt92rZdtD5JWQaFxU108_jp28-P_Q6-LkWVwcGc8WEUYTbHL37ozkfFb2gvhSOuJv5dzPFNx_Hb17q61PNaQ8fPkdkNHFkFBQFxcNiboXyGzk2-9AVSTe8YMcv6tMlwtbJKxis-lD39Kz_8cxl9ga5ek3S-XKQcDSsmgEdOiwXTUu97ImSjnd-Oo6X2iQpk9yztTdczEmWstkidM8zfDRnuCp3zDMFWwtsdab-TnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosmakesmehate/3625?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/BJ5fr0iRI6R-jTgKg93gu1mGrkn7xfSwhesWYwHo9_a2M7dA-l7HQNRoe3kvc2Dm4w_CG2W_koJ5qO1QGzYWe6wfQCDCwDJeziZ49Zz2fvoMcLaqa7jeBIY6p-CsDI_v9MNCSUlJQDPIMJ4iPgGK-Kx1uO87Z4wdYKwx0neEycWdXPbGhHOe439QvC8fWNbJmAUk9jayC7c3SCZ36x1CUjZfrzpZQo_191zxeDXYxNsa3hGWv8PaRMB331XUg6vCYHYfiu-NIM7mMGRUQfWbtEo0ZpM03GJ6wO_uyhpBC48d-LOWxb3tNJaYJVXzNTnmCtInVZzCrcjZ5GsM13V36w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не смог не побыть corporate girl не захватить хайповый мерч от яндекса&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📺 Swift Concurrency + Swift 6 на практике&#13;
-&#13;
-Предновогодний подгон....</title>
-    <published>2025-12-25T08:37:23+00:00</published>
-    <updated>2025-12-25T08:37:23+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3622</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3622"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosmakesmehate/3622" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://youtu.be/EDKX38kNOxs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"&gt;&lt;b&gt;📺&lt;/b&gt;&lt;/i&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://youtu.be/EDKX38kNOxs?si=gKvPTKUkNuk4VnVz" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift Concurrency + Swift 6 на практике&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Предновогодний подгон. Опубликовали в открытый доступ видос по Swift 6 + Swift Councurrency. &lt;br/&gt;&lt;br/&gt;Пообщались о том, как в реальной практике живется на современном стэке.&lt;br/&gt;&lt;br/&gt;В выпуске:&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;с какими неожиданностями пришлось столкнуться при переводе боевоего проекта&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;насколько документация Swift Councurrency помогает в реальных задачах&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;что изменилось в правилах языка и почему об этом важно знать&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;практическими советами и лайфхаками для разработки&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;лучшие материалы для обучения&lt;br/&gt;&lt;br/&gt;Доступ к другим видео и материалам &lt;b&gt;&lt;tg-emoji emoji-id="5296401966887345356"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"&gt;&lt;b&gt;💰&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;a href="https://boosty.to/lionbond/purchase/2403202?ssource=DIRECT&amp;amp;amp;share=subscription_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;тут&lt;/b&gt;&lt;/a&gt;&lt;b&gt; или &lt;/b&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5237783261094106941"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"&gt;&lt;b&gt;⭐️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;a href="https://t.me/iosmakesmehate/2975" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;тут&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/EDKX38kNOxs?si=gKvPTKUkNuk4VnVz"&gt;&lt;img src="https://cdn4.telesco.pe/file/tV46IaMce9RL_T_Dc9u8GSOQZ2locJi0DQ_M6Y05Ygav9FqAJ7DgE0VtS9bJ_aFJCPUdRzOd3vrH26CIhECUDnpLdazGyYv6zmz_BQB6BoiJd5PCW-T8V03HLYcy-LJ8WZ4F1YjgnXboqzoF5jqZBx6hOG7gxJZ1YWduklw9ouL0Zb4cAwxIWI9uzQ6wLT4H4_z4SGP3cKiE-jlkOPEPGmqb9X-V8SSTEJKPgp0m_Cmt66Fmpg7jfBWNtfyJgLue0mmL1dbYlW2_Pdczv535CzskvzdiDrrHgowqQzlLb-_Ku7grYXKWJNAbHuOpV0KSXsJiy71s15vnj7zQDl6JZA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/EDKX38kNOxs?si=gKvPTKUkNuk4VnVz"&gt;
-Swift Concurrency + Swift 6 на практике - YouTube&lt;/a&gt;&lt;br&gt;Канал об iOS разработке от практиков: https://t.me/iosmakesmehate/&#13;
-Канал спикер: https://t.me/ios_iss_blog/&#13;
-&#13;
-Наш ДОРОГОЙ друг Савва — ведущий инженер, который уже перевел несколько крупных приложений на Swift Concurrency и Swift 6. В своем канале он подробно…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Почему у них есть, а у нас...</title>
-    <published>2025-12-24T16:15:53+00:00</published>
-    <updated>2025-12-24T16:15:53+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3621</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3621"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Почему у них есть, а у нас нет?????&lt;br/&gt;&lt;br/&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii" target="_blank" rel="noopener"&gt;https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii"&gt;&lt;img src="https://cdn4.telesco.pe/file/iovwPxpmBtPkdUaFQ3bBLUCaZQVnt1q9wKBkDBvE5642xH3M1V6kIURv6LeQiJWl4xanfMfsbdeqsRtsv-lqFo2MAQWaqPReP4UFKU8bKrmxPl_bQLQUpK3xrkwyixUpAnEWvkX4s1tP78NVhZeXuIwdZUhzkncyaRWYECNALplRUQZYgOo9yKy8xL43RrsO2xRrvYguyl6YE51w16iWGEjxnD8DNqRNu8gwmk8ikZcF7RitOAf2R_85Md0XQl_qoj_osUGinfP_oPKaHPu0cd6RI723cJ3i-8UG8RqEzf08sVHHWK1onobQ_GbN0to3IyUDydW6A-Qe1HWHXq6LOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://vc.ru/apple/2665260-apple-razreshit-storonnye-prilozheniya-i-platezhi-v-brazilii"&gt;
-Apple разрешит пользователям в Бразилии устанавливать приложения из сторонних магазинов и совершать платежи в обход App Store - vc.ru&lt;/a&gt;&lt;br&gt;Изменения вступят в силу в 2026 году.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Итоги 2025 года часть 1&#13;
-&#13;
-Потихоньку решил писать итоги...</title>
-    <published>2025-12-23T19:56:45+00:00</published>
-    <updated>2025-12-23T19:56:45+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3620</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3620"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Итоги 2025 года часть 1&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Потихоньку решил писать итоги года и разделю это на несколько частей.&lt;br/&gt;&lt;br/&gt;Этот год для меня является годом переездов. &lt;br/&gt;&lt;br/&gt;Я наконец переехал, выбравшись из небольшого городка. Мигрирую за границы своего телеграм канала. Делаю трансфер в сторону разных форматов. И становлюсь смелее с каждым шагом, вырываясь из стеклянных потолков и невидимых стен, которые сам себе когда-то поставил.&lt;br/&gt;&lt;br/&gt;Перестал скептично относиться к нейронкам. Занялся активно изучением проектирования сложных систем. Но парадоксально поменял отношение к потреблению контента. &lt;br/&gt;&lt;br/&gt;Я уже года полтора не читаю другие каналы про иос разработку, а твиторы никогда не читал. Меня не привлекает ютуб контент. А с всплеском нейродерьма стало еще хуже. Теперь мое потребление заменили книги и коллеги.&lt;br/&gt;&lt;br/&gt;Я хочу развивать навык дип ресерча и поэтому весь мой контент, который я профессионально потребляю, часто связан с книгами. Мне не хочется становиться книжным блогером, но много беру по структуре и форме именно там. Навык долгой концентрации и усидчивости на тиктоках не прокачаешь.&lt;br/&gt;&lt;br/&gt;Чтением в этом году я не сильно доволен, мог бы лучше, но наконец сделал в своей комнате огромную книжную полку. В детстве у моей бабушки была огромная стена книг, где подходя к ней, я чувствовал свою незначительность и глупость. Сейчас моя полка напоминает мне, что следующий год нужно поднажать, чтобы прочитать хоть половину.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Fucking Approachable Swift Concurrency&#13;
-&#13;
-Достали занудные правильные...</title>
-    <published>2025-12-23T09:00:41+00:00</published>
-    <updated>2025-12-23T09:00:41+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3619</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3619"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Достали занудные правильные документации? Хочется чего-то народного и без цензуры? Устали от корпоративного дресскода? &lt;br/&gt;&lt;br/&gt;Если хочешь наконец разобраться в теме и понять все простыми словами, без тяжелого профессионального жаргона, то поможет этот сайт. &lt;br/&gt;&lt;br/&gt;Мне, если честно, гораздо ближе такая форма. Прямая, простая, без лишних терминов.&lt;br/&gt;&lt;br/&gt;Не отвлекает от сути и быстро вводит в курс дела без лишних аккуратностей&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
- - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Кстати, по ленте. Еще около года назад скинули фотку...</title>
-    <published>2025-12-22T09:24:12+00:00</published>
-    <updated>2025-12-22T09:24:12+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3618</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3618"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosmakesmehate/3618" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosmakesmehate/3618"&gt;&lt;img src="https://cdn4.telesco.pe/file/HINNV0oiT8GJdolTZHrNP_QOiaGLyPRENlccDYKqhKmZougVvDjzDbEjtU-V2pIjBYnvBl1nP_qxTJHoLYos_QuA03BEd3JBIK3AGt-rDxofu6vafq-ZDsbkMGTD05z1iZrRcVMDoNP0fMLuqTZ6axdkVZaYeahAaw-yyct51ilLG67BX8VjCjfpwCRhBGP0q6VdLqZCkPktaQs0X_tinT3XPvS4-G1AcX9ZsjTvlqD19OYPJ2uWCWiyUEXtcpA0GAcAf-sm31wHFLM4srx_B44mGkza_urgy2AcVsHp3epJo2I3jRusSpArQOwxySiFrVtKRhDVLczrr9QlYY40UA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кстати, по ленте. Еще около года назад скинули фотку как результаты опроса из нашего канала использовали в докладе&lt;br/&gt;&lt;br/&gt;Тогда это был доклад Саши Сычева &lt;a href="https://t.me/headOfMobile" target="_blank"&gt;@headOfMobile&lt;/a&gt;. Он был кросс-лидом Feed в Яндекс Го&lt;br/&gt;&lt;br/&gt;По выбранному ответу можно сделать все же выводы, что не всегда Feed можно комфортно сделать на BDUI &lt;tg-emoji emoji-id="5364007415006109286"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABA3.png')"&gt;&lt;b&gt;🫣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Проектирование реальных фич: Feed App ч 2&#13;
-&#13;
-В первой части...</title>
-    <published>2025-12-22T07:53:05+00:00</published>
-    <updated>2025-12-22T07:53:05+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3617</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3617"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosmakesmehate/3617" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosmakesmehate/3617"&gt;&lt;img src="https://cdn4.telesco.pe/file/bbqFXJBEvUB7fzRHXeCtuL_upkQ_MFKXlHeQ-4pzCOJMJ8YPNdMxeJVeqPMzBvUulCa03nfw7EnXuGo8HRvWY_nCc9ZHOrx9uvO4Rb6pMA1OhhmSY-KaYLoVvyKc8uCb_7raPZd25GFsSIlckqwTwp1UFoWODX4NvS0kKKcPfx1f9M_z58AJT6JVuTH-Egnz-k64-Fdtb0GG3dcquvcrIjg95K2YcUaOG8YPzlfZPChstUmPpTZFmVCpD2-AhapMP3mqJTBe1PQLGz-mLwNjaVYrQ70X-E-Ml5mjPUflUGX4EC-jkXG6Qu7h1y3i2DQ8Vz0uSAb7hUtOZsiq_yF4Zg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Проектирование реальных фич: Feed App ч 2&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://t.me/iosmakesmehate/3596" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;первой части&lt;/a&gt; мы поговорили про требования и про главный выбор: pull vs push. Во второй спускаемся на уровень &amp;quot;а что конкретно проектируем?&amp;quot;.&lt;br/&gt;&lt;br/&gt;Какие экраны, какие API, какие модели, как пагинировать, как устроить клиент, чтобы все было быстрым и живым.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; Все начинается с уточнения скоупа работ:&lt;br/&gt;- Feed: бесконечный скролл, лайк и шаринг, тапы, детальная страница, форма для создания поста.&lt;br/&gt;- Create Post: текст + вложения (картинки/видео)&lt;br/&gt;- Post Detail: полный контент + действия&lt;br/&gt;&lt;br/&gt;И отдельно важная скрытая фича, которую часто ждут на интервью — это prefetching (подгрузить посты заранее, чтобы открыть ленту быстрее)&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; API&lt;br/&gt;&lt;br/&gt; Дальше идем в проектирования API-контракта. Смысл API-дизайна в интервью простой. Вот вы договорились как клиент и сервер будут говорить, и дальше не спорите “а откуда это берется”. Здесь очень важно не перезагружать данными модели. Нужно их обрезать чтобы не перегружать сеть; не убивать память/CPU клиента; не тянуть тяжелые вложения без необходимости&lt;br/&gt;&lt;br/&gt;Особенно когда с интернетом беда.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Пагинация&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Для ленты почти всегда выбирают cursor-based pagination. Я еще делился прикольным &lt;a href="https://t.me/iosmakesmehate/3457" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;докладом про пагинацию тут&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Почему offset не идеальный вариант:&lt;br/&gt;- лента часто обновляется: пока ты листаешь, сверху приходят новые посты, а окно может смещаться&lt;br/&gt;- чем глубже offset, тем хуже производительность запросов на больших объёмах данных &lt;br/&gt;&lt;br/&gt;Cursor-подход лучше, потому что опирается на индексируемое поле и дает стабильный следующий блок даже если сверху добавились новые посты&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"&gt;&lt;b&gt;4️⃣&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Архитектура клиента: слои и поток данных&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Классический подход в структуре — разделять на слои&lt;br/&gt;&lt;br/&gt;UI layer — это экраны (Feed / Detail / Create). А за состояниями овечаются ViewModel и Presentor. Навигация должна быть в отдельном компоненте. &lt;br/&gt;&lt;br/&gt;Data layer — желательно разделять все на репозитории, data source&amp;#39;ы, а медиа хранить на CDN. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"&gt;&lt;b&gt;5️⃣&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Offline-first и “Single Source of Truth” на клиенте&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В той &lt;a href="https://bytebytego.com/courses/mobile-system-design-interview/news-feed-app" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;самой книге по проектированию автор говорит&lt;/a&gt;, что для мобильной ленты это прям must-have, потому что сеть бывает медленная, нестабильная и пропадает во время скролла. Автор советует:&lt;br/&gt;- все, что пришло с бэка, нужно сразу писать в локальную БД&lt;br/&gt;- UI читает данные из локальной БД, даже когда интернет есть&lt;br/&gt;- при оффлайне показываем кэш и аккуратно сообщаем, что обновиться не можем. Это и есть &amp;quot;Backend -&amp;gt;  Local Storage -&amp;gt; UI&amp;quot; как единый стабильный пайплайн&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215192162613866090"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Что интервьюер хочет услышать?&lt;br/&gt;- Нужно отдавать в ленту Preview, чтобы не тянуть тяжелые данные&lt;br/&gt;- Пагинация cursor, потому что лента часто обновляется&lt;br/&gt;- Клиент offline-first, local DB — SSOT, UI читает из нее&lt;br/&gt;- Статику раздаем через CDN, чтобы ускорить ленту и снять нагрузку&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Этот обзор вы не просили, но я принес</title>
-    <published>2025-12-20T14:11:34+00:00</published>
-    <updated>2025-12-20T14:11:34+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3616</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3616"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosmakesmehate/3616"&gt;
-Media is too big&lt;br&gt;&lt;br&gt;
-VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
-&lt;img src="https://cdn4.telesco.pe/file/pWExZOnQ4RwtmBOOEXUlOXn8XslKMH6M9kkH0E7cf4CzJcIcy78X105wbCqqps2CIT1rO3t2mYimVbvzSjrmorlZZJAjWWiLZy10JB4yt1OnQpBP5V-dKzyCdCG7SciJcxUWUN83fIo-6bOxhyPiVeLMhO7OODysOlh7k3CmW6dkoJ_gJj4nrDmkJg9IGN9saZCRYfQngNFoiXcoal0ZteDg1LMAFsJWq4ySig-ylQfRvQ-LWmMeB9Ob7SWg09o07hHFk0DRKd_ynjTvLoMsegF-VQCeuN7MjqRbhtupknHf3UftdANJUUAjDzk0hd98ppQ1EofYEDfZz6MCM1bPLA"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Этот обзор вы не просили, но я принес&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Зачем ходишь на конференции и согласен ли, что они умирают?</title>
-    <published>2025-12-20T11:27:19+00:00</published>
-    <updated>2025-12-20T11:27:19+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3615</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3615"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">			Зачем ходишь на конференции и согласен ли, что они умирают?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - Хожу за докладами. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;12% - Хожу за нетворком. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;10% - Хожу за докладами. согласен, что вымирают &lt;/li&gt;&lt;li&gt;13% - Хожу за нетворком. согласен, что вымирают &lt;/li&gt;&lt;li&gt;28% - Ходил, перестал ходить.&lt;/li&gt;&lt;li&gt;17% - Никогда не был на конференциях и не хочу&lt;/li&gt;&lt;li&gt;20% - Никогда не был на конференциях, но хочу побывать&lt;/li&gt;&lt;li&gt;7% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Подборка статей про BDUI&#13;
-&#13;
-Хочу сделать глобальный и...</title>
-    <published>2025-12-20T11:16:04+00:00</published>
-    <updated>2025-12-20T11:16:04+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3614</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3614"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Подборка статей про BDUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Хочу сделать глобальный и детальный опрос про использование BDUI. Лично я знаю множество разработчиков с разными мнениями. Кто-то даже использовал данные и опросы из моего канала в реальных докладах. Поэтому будем идти по data driven development. Отбрасывая эмоции, пузыри и слепые догмы. Идем за объективностью.&lt;br/&gt;&lt;br/&gt;Но сначала решил собрать самые &amp;quot;честные статьи&amp;quot;. И здесь не будет докладов с конференций. Все чаще слышу, что конференции умирают и никто туда не ходит. Почему? Мне отвечают, потому что там мало искренности и правды. Поэтому поищу самые на мой взгляд детальные и наполненные разными мнениями.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; &lt;a href="https://gravityfield.ai/ru/blog/chto-takoe-bdui-i-kak-on-pomogaet-rasti-e%E2%80%91commerce/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему BDUI актуален именно сейчас в e‑commerce&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Эта статья мне понравилась тем, что можно взглянуть кому именно продается BDUI. А это владельцы е-commerce приложений. А ведь чаще так и есть. Если у тебя сложный лайаут, мессенджер, карты, навигации, то BDUI ложится очень плохо. Но вот если у тебя какой-то маркетплейс, то в целом можно заменить 90% нативщиков.&lt;br/&gt;&lt;br/&gt;Вкратце, если вы хотите работать с BDUI, то идите в e-commerce&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.digia.tech/post/server-driven-ui-vs-native-data-sync-speed" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Server-Driven UI vs Native: Data Sync Speed&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Здесь идет классический разбор Server-Driven UI и натива. Особый упор делается, что SDUI сильно зависим от хорошего интернета. Для меня лично является очень странным решением выбирать онли SDUI если у нас в регионах очень плохо с интернетом. Когда же натив лучше работает с оффлайном (некоторые маркетплейсы идут в эту сторону тоже).&lt;br/&gt;&lt;br/&gt;Если вам важен оффлайн (мессенджеры, видео, медиа) то тут выбор очевидный — натив. Пусть даже ценой медленного изменения UI. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.reddit.com/r/androiddev/comments/1ejngo9/server_driven_ui_is_this_really_worth_it/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Пост на реддите &amp;quot;Server Driven UI - is this really worth it?&amp;quot;&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;На удивление, форумы и чаты, стали новым источником искренности. Туда еще не проник маркетинг и фальш из конференций. Не добралась рука модераторов и программных комитетов, которые обрезают всю неудобность. Что пишут? Много разных мнений. Можно почитать самому.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://gravityfield.ai/ru/blog/chto-takoe-bdui-i-kak-on-pomogaet-rasti-e%E2%80%91commerce/"&gt;&lt;img src="https://cdn4.telesco.pe/file/vnhzM03T9VgYr57CnBAmEE-cR4RmhHCJmro-OFNnxxa7Q95nXI2umrrCbL2ONrW5pxMNxG0K6cE4KW1f4OLHahpQVGnSjeqddvqg1LFBhLtLqtafUd8loCaRqsfm_fAM76u4SMBw4NfBdlSmV1y8Xy1Wpoke9GIx6x50Pw2E-vPrl4OSW1L82_nouTeTANfG-Bcqk8I__3lEXskMGkB2HltiFkjL2Zcpz203Ig3ePhCNXrHMG6vPtJ_lMRPktzGfTs0KtsAL55tnjHFPAzYpSZ2JBQX8JNmfH7_Y81COm6FuidFmKuvVjLq5B2SxBxrfBnhHwJ7SVUjP9PRGGOhM8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://gravityfield.ai/ru/blog/chto-takoe-bdui-i-kak-on-pomogaet-rasti-e%E2%80%91commerce/"&gt;
-Что такое BDUI и как он помогает расти e‑commerce | Gravity Field - Gravity Field&lt;/a&gt;&lt;br&gt;Узнайте, как BDUI (Backend-Driven UI) помогает командам e-commerce быстрее запускать гипотезы, адаптировать приложение под пользователей и отстраиваться от конкурентов без лишних затрат. Закажите демо платформы Gravity Field и увидьте рост ваших ключевых…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Мобильная разработка — это бесконечный тюнинг:...</title>
-    <published>2025-12-19T12:03:35+00:00</published>
-    <updated>2025-12-19T12:03:35+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3613</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3613"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/Jb6NTwlgIP8DHV1PJlTm-doraavP6vJ8NnIqGa0XYzbf756dWD2yLRj5TLcsOMDVvMJSxwef8nLKNYtWZ0YQ2-8IJHZEFmYjHgbSTthEobpyClBN1CQeC5XHuoDZjkM7v7ebjQRbHBify2U9LCCtMuUaei1k-CCZfSzmrP3voW3aW3u7Y21p8Y77ayySYtYgJwt-09gQ4J91Og63yzbadVMJK_HIWn_hjwYYkgB-FJNVT4mwv6NALj9I92lZv6zZUxN435wQT3_lsCcomiy6-07SEIQDhpG3dKADYQISITEXsQ_KWvcWcQOdRWA9T93W30RpAU6URyLSKPMoxbpziA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/6fb23e8e04.mp4?token=fOfpJzIQX3PriWfl2NBVGQGhAhtnW1GgEr_inOWgREiaFn216IgClOUbWcE97MJYZwW1PM5g3ay1hzrZxhJGSysbVJn9NmJD44cV1G2AYhMdmzZKvmfz3uZ95KFdnFiW-by1J-ezQNMJewOR0XTAk6ebII1PipfFCKsGQUcO5wJtEHpic1h451fpJyxIzAPC5J8ZVgkOmQAzppObhrjUUYcmzStTi8Hp99PrMe5CVtNuSZ_g6NRS3Xqd10JEODHytYwPpVz2kVPO95xdCPHoIxI3Go1DHWQCJ9TXNhTVEsTspo6GcQfiAUsprqjNWBd37ZjR-QNFNw33wt-cvQmaGA" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Мобильная разработка — это бесконечный тюнинг: память, производительность, UX, разные устройства.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В &lt;a href="https://bit.ly/4j54LWj?erid=2VtzqxDedJ9" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Mobile VK Hub&lt;/b&gt;&lt;/a&gt; делятся тем, как это решается в таких масштабных продуктах, как ВКонтакте, RuStore, VK Музыка, VK Видео.&lt;br/&gt;Практики, экспертиза, исследования, вакансии — всё в одном месте.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://bit.ly/4j54LWj?erid=2VtzqxDedJ9" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Подписывайся&lt;/a&gt;, если хочешь разбираться глубже.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Реклама. ООО &amp;quot;ВК&amp;quot; ИНН 7743001840&lt;/i&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/Jb6NTwlgIP8DHV1PJlTm-doraavP6vJ8NnIqGa0XYzbf756dWD2yLRj5TLcsOMDVvMJSxwef8nLKNYtWZ0YQ2-8IJHZEFmYjHgbSTthEobpyClBN1CQeC5XHuoDZjkM7v7ebjQRbHBify2U9LCCtMuUaei1k-CCZfSzmrP3voW3aW3u7Y21p8Y77ayySYtYgJwt-09gQ4J91Og63yzbadVMJK_HIWn_hjwYYkgB-FJNVT4mwv6NALj9I92lZv6zZUxN435wQT3_lsCcomiy6-07SEIQDhpG3dKADYQISITEXsQ_KWvcWcQOdRWA9T93W30RpAU6URyLSKPMoxbpziA"/>
-  </entry>
-  <entry>
-    <title type="html">Ваше отношение к BDUI/SDUI?&#13;
-&#13;
-С учетом глобального тренда многих компаний хочу разобрать эту тему глубоко.   Собрать все мнения и детально разобрать ...</title>
-    <published>2025-12-19T07:07:35+00:00</published>
-    <updated>2025-12-19T07:07:35+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3612</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3612"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">			Ваше отношение к BDUI/SDUI?&#13;
-&#13;
-С учетом глобального тренда многих компаний хочу разобрать эту тему глубоко.   Собрать все мнения и детально разобрать отношение и опыт&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;10% - Нет опыта. Мнение положительное. Считаю это наше светлое будущее писать 90% на BDUI&lt;/li&gt;&lt;li&gt;38% - Нет опыта. Отношусь скептично по отзывам коллег&lt;/li&gt;&lt;li&gt;6% - Есть большой опыт. Все нравится.&lt;/li&gt;&lt;li&gt;12% - Есть большой опыт. Не нравится.&lt;/li&gt;&lt;li&gt;22% - Есть небольшой опыт. Не нравится.&lt;/li&gt;&lt;li&gt;7% - Есть небольшой опыт. Все нравится&lt;/li&gt;&lt;li&gt;12% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Опенсорс-библиотека Implicits от Яндекс Браузера: новый...</title>
-    <published>2025-12-18T11:32:39+00:00</published>
-    <updated>2025-12-18T11:32:39+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3610</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3610"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/yandex/articles/976898/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Опенсорс-библиотека Implicits от Яндекс Браузера: новый шаг в передаче зависимостей Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;У коллег из яндекс браузера вышла огромная статья на 49 (&amp;#33;) минут чтения &lt;tg-spoiler&gt;(теперь не говорите мне что мои статьи большие)&lt;/tg-spoiler&gt;. Много кода и аргументаций зачем пишут свое решение с DI. &lt;br/&gt;&lt;br/&gt;Тема DI очень актуальная. Знаю что как минимум 4 компании в этом году занимались переосмыслением и актуализацией своих DI.&lt;br/&gt;&lt;br/&gt;Это понятно. Особенно когда у тебя сложный продукт, который стал держать в себе много технологий и модулей: UIKit и SwiftUI для UI слоя. Множество зависимостей и чужих SDK. Кроссплатформы и BDUI.&lt;br/&gt;&lt;br/&gt;Почитайте, очень интересно&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/yandex/articles/976898/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=181225"&gt;&lt;img src="https://cdn4.telesco.pe/file/L04kUh-ys7s3XNBg9TPPkQpKkVJHjaXj2BlT6H4ifo3kqG74NjnV945Ot-q1YMaTv-uJZ4IJMMGXoduw1iRMGTA6A4Bd14UuGibo0Y37FGDCxpQDP1D4kqAa9yUoypVF2fsczozwzackeXdgFetil7qiaeegZ28Y5h54VjJMBh0rrsvIbujkl-w-Hgh6bx4rtvS4rULsHD1hK_SpD4xvEwgjRl5X2X0N8_9MLqjmrt6mfv0GiTib002UZt51S2zlxyiInwIFAh4wbHMH21SjMdWRQA8Bswdu1y0Ni7AwYkvh_DwtQ1cycKHBnzHglx7flsAXdEVr8AdvIwpDcJ64Kg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/yandex/articles/976898/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=181225"&gt;
-Опенсорс-библиотека Implicits от Яндекс Браузера: новый шаг в передаче зависимостей Swift - Хабр&lt;/a&gt;&lt;br&gt;Когда iOS‑приложение вырастает до&amp;nbsp;сотен тысяч строк, появляется проблема: добавление зависимости в&amp;nbsp;глубокий компонент требует изменений во&amp;nbsp;всех промежуточных функциях. Эти функции...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Network: 2G, 3G, LTE, 5G&#13;
-&#13;
-Еще одно заблуждение, что типы...</title>
-    <published>2025-12-18T08:06:27+00:00</published>
-    <updated>2025-12-18T08:06:27+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3609</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3609"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3609"&gt;&lt;img src="https://cdn4.telesco.pe/file/TXn4YZl4uLUNsutXYsuI5SQx_-gy0C7uJE7vY7XQIgrVs35xTtaMLZoj2lsXdatVkRbYV2El-D6G5SIjxHpYs2pbPD7MvMKrrUVbL8st8lFqijG4llo0veY5stVdjj1PNFcnMYDZsZ0-UGRUb6HSpqJ42d4GHHU5VR26gAManzWlGL4JHv_cQhXF-myZScDEe2piWY7kSwRI_YJzxxzrY7573MQ34RPbK7anfODVDJYokTDW0Ry42ZK6UekFNjx1GNyDopa9zVV5-RL369QQvXUdj3baQXGF5H4cmPLNnc9iC4yXkXr6KTJDHYBNSm6d81T-uuriTo2RqAtJXSvKcA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Network: 2G, 3G, LTE, 5G&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Еще одно заблуждение, что типы мобильных сетей == это просто скорость. В реальности это совершенно разные условия, ограничения и проблемы, с которыми сталкивается приложение.&lt;br/&gt;&lt;br/&gt;Иногда 4G может дать больше проблем, чем 3G. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;1G&lt;/b&gt;&lt;br/&gt;Только голос. В 1G не существовало понятия “скорость интернета” потому что интернета не было.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2G&lt;/b&gt;&lt;br/&gt;Во времена какой-нибудь нокиа 3310 это была связь и минимум данных. Скорость была в пределах 100–200 кбит/с &lt;br/&gt;&lt;br/&gt;Проблемы: экономия каждого запроса&lt;br/&gt;&lt;br/&gt;3G&lt;br/&gt;Расвет мобильного браузинга. iPhone 3G. Социальные сети мой мир, первые фейсбуки и вк. Скорость могла быть на пике до 2–10 мбит/с.&lt;br/&gt;&lt;br/&gt;Проблемы: борьба с latency. Первый байт приходит долго. Нужны прогревы запросов.&lt;br/&gt;&lt;br/&gt;4G&lt;br/&gt;От 20–100 до 300+ мгбит/с. Покрытие интернета стало массовым. Появились онлайн игры и видеостриминги. Весь трафик перешел из веба в мобилку.&lt;br/&gt;&lt;br/&gt;Проблемы: нестабильность сети и появляются потери пакетов. Качество сети прыгает и приходится адаптироваться.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;5G&lt;/b&gt; &lt;br/&gt;От 100–1000 мбит/с до 10–20 гб/с. Видосы 8к. Автопилоты тачек и роботы. Инфраструктура смарт сити. Мобильный облачный гейминг.&lt;br/&gt;&lt;br/&gt;Проблемы: конкурекция за каналы. Один канал делят все приложения. Видео, аналитика, API  конкурируют между собой&lt;br/&gt;&lt;br/&gt;Каждое поколение сети бросало новые вызовы. В идеале хорошее приложение должно стабильно работать в каждой.&lt;br/&gt;&lt;br/&gt;Интересные статьи:&lt;br/&gt;- &lt;a href="https://rantcell.com/comparison-of-2g-3g-4g-5g.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;What are the differences between 2G, 3G, 4G LTE, and 5G networks?&lt;/a&gt;&lt;br/&gt;- &lt;a href="https://www.researchgate.net/publication/372980205_Exploring_the_Generations_A_Comparative_Study_of_Mobile_Technology_from_1G_to_5G" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Exploring Mobile Technology from 1G to 5G&lt;/a&gt;&lt;br/&gt;- &lt;a href="https://shalaginov.com/2020/01/13/6831/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Ликбез 11-5. Поколения сотовой связи (5G)&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Почему-то считается, что дизайнеру или программисту...</title>
-    <published>2025-12-17T12:54:03+00:00</published>
-    <updated>2025-12-17T12:54:03+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3608</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3608"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/nikitonsky_pub/960"&gt;&lt;span dir="auto"&gt;Стой под стрелой&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Nikita Prokopov&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Почему-то считается, что дизайнеру или программисту круто бы думать об интересах бизнеса, что инженер, который о них думает, ценнее, чем тот, который не думает.&lt;br/&gt;&lt;br/&gt;А мне кажется наоборот. У вас уже есть бизнесмен, пусть он о них думает. Зачем компании два бизнесмена, один хороший, другой плохой? Мне кажется, дизайнер должен думать про дизайн, программист — про программы. И целью своей себе ставить сделать хороший дизайн или хорошую программу, а не угодить бизнесу. И вот в их конфликте возникнет некое целое, которое больше частей, их синтез.&lt;br/&gt;&lt;br/&gt;Грубо, дизайнера должно заботить, чтобы интерфейс хорошо выглядел и им было удобно пользоваться, а не метрики. Метрики будут заботить бизнес. Если дизайнера будут заботить метрики, и бизнес будут заботить метрики, получится не конфликт и поиск его решения, а повторение и топтание на месте.&lt;br/&gt;&lt;br/&gt;Я много раз разговаривал с инженерами, которые жаловались, что бизнес не дает им времени на рефакторинг или сделать нормально. Ну так он и не должен давать&amp;#33; Бизнес интересует бизнес, а вас, как инженера, должно интересовать, как сделать качественно, устойчиво, эффективно. К вам никто никогда снаружи с этим запросом не придет, это должна быть ваша собственная мотивация, ваши собственные ценности, ваши собственные стандарты, понимаете?&lt;br/&gt;&lt;br/&gt;И к вам приходят, чтобы вы их продавливали. А бизнес бизнес и без вас сделает.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Network: Мобильная связь и квота пропускного...</title>
-    <published>2025-12-17T07:33:43+00:00</published>
-    <updated>2025-12-17T07:33:43+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3607</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3607"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosmakesmehate/3607"&gt;
-Media is too big&lt;br&gt;&lt;br&gt;
-VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
-&lt;img src="https://cdn4.telesco.pe/file/B4nUJDGmRr9Wy2s3L2RVBzwzY96cu95F15bULoLemImJa2RfCOyu0zGXkK6-08wKFr0q5iZ7xZ0GcOQRdbswaOKCCji9aPanzgBW2XnX9koKC-pFI5I14U7FdCdayDkTFnd9F0B1ALtm8I-29Vt9ZrXhxERcUxa_Cieh8hBGw5szfY5OJ3fwd3NWsrZ_mHnL9zYqbPqfTn7NJfdWH1tlGbQw9zpZHIpPCcqhahkYFN-K5jMcJxy0Ass8REpSfXO800gH1J_AMpGAOxSfoGyM_rWpMbX_c_1A8xkA-U2jtw_T9LkltYlhJqkjJTZ6LBsXXfck5oEOOch53nXsQzHXTw"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Network: Мобильная связь и квота пропускного канала&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Зачем думать о 2G интернете? Ведь далеко не все тестят свои апки в этой сети.&lt;br/&gt;&lt;br/&gt;Тема мобильной сети — гиперчувствительная. И при этом сильно недооцененная в мобильной разработке.&lt;br/&gt;&lt;br/&gt;Недавно я брал консультацию у core команды Яндекс Плеера о том, как оптимизировать видео. Формально разговор был про форматы, коллекции и устройство плеера. Но самым откровенным и очевидным для меня оказался совсем другой пласт — это нетворк-квоты и приоритизация запросов. Казалось бы, очевидно. Но почему мы не задумываемся об этом?&lt;br/&gt;&lt;br/&gt;Об этом редко задумываются, когда речь идет об обычной верстке или стандартных апи-запросах. Но в видео все иначе: общий трафик, количество соединений и их приоритет критически важны.&lt;br/&gt;&lt;br/&gt;Да, в некоторых крупных компаниях есть платформенные или перфоманс-команды (Авито, Т-Банк), которые глубоко оптимизируют нетворк-слой клиента. Но возникает логичный вопрос: почему обычному мобильному разработчику важно понимать, как работает сеть?&lt;br/&gt;&lt;br/&gt;Многие разработчики воспринимают сеть как что-то простое: отправил запрос и получил ответ. В реальности мобильная сеть: нестабильная, медленная, непредсказуемая. Именно поэтому в системном дизайне ей всегда уделяют отдельное место. Игнорировать сеть значит проектировать приложение для идеальных условий, которых у пользователя чаще нет.&lt;br/&gt;&lt;br/&gt;О сети можно говорить часами. В этой серии постов я хочу детально разобрать, как работает network в мобильных приложениях и с какими проблемами мы сталкиваемся на практике.&lt;br/&gt;&lt;br/&gt;Начнем с базовых, но очень важных сложностей:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; Соединение постоянно меняется&lt;br/&gt;&lt;br/&gt;Этот вопрос очень важен. Особенно при звонка, которые должны работать даже из парковки и в лифте. Тот же Zoom удивляет многих как работает стабильно с 3G или плохим интернетом, когда же конкуренты, телега или ватсап, еще до замедлений, работали плоховато. &lt;br/&gt;&lt;br/&gt;Здесь множество оптимизаций: от хитрых алгоритмов сжатия, то заигрывания с соединениями.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; Высокая задержка (latency)&lt;br/&gt;&lt;br/&gt;Есть cold и hot ответы. И чаще ответы CDN или других хранилищ нужно заранее &amp;quot;прогревать&amp;quot;. Ведь даже при хорошем соединении холодный старт может быть отдавать первый байт долго. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; Ограниченный и дорогой трафик&lt;br/&gt;&lt;br/&gt;В некоторых регионах, странах, трафик может быть дорогой. В том же Пакистане интернет в 2 раза хуже РФ, но некоторые сервисы уже получают денег больше, чем у себя в стране. Чтобы конкурировать нужно уметь подстраивать под их сеть и быть быстрее конкурентов.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"&gt;&lt;b&gt;4️⃣&lt;/b&gt;&lt;/i&gt; Нетворк квота устройства &lt;br/&gt;&lt;br/&gt;Устройство условно на момент соединения имеет доступную пропускную способность 5 Мбит/с. Это общий канал, которым пользуются все процессы сразу: ваше приложение, системные сервисы, другие приложения в фоне. Под наше приложения нет отдельного канала. Все делят один и тот же ресурс.&lt;br/&gt;&lt;br/&gt;Если одновременно идут загрузка видео, аналитика, картинки, обработка данных — все запросы конкурируют за один канал. Видео хочет 4 мб/с, аналитика 0.1 мб/с, апи запросы 0.9 мб/с. Канал полностью забит. Если появляется еще один запрос, то появляются лаги и зависания. &lt;br/&gt;&lt;br/&gt;И тут еще сложность, что ОС распределяет ресурсы, а не приложение.&lt;br/&gt;&lt;br/&gt;В след постах разберем все детальнее&lt;/div&gt;</content>
+    <title type="html">Bridge returned error 0! (20448)</title>
+    <published>2025-12-26T09:28:05+00:00</published>
+    <updated>2025-12-26T09:28:05+00:00</updated>
+    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/iosmakesmehate        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@iosmakesmehate    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fiosmakesmehate&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fiosmakesmehate+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40iosmakesmehate%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>

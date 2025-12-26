@@ -1,194 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Learn English Idioms Language (@Idiomsland) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/Idiomsland"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Idiomsland"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Idiomsland</id>
-  <updated>2025-12-26T08:32:54+00:00</updated>
+  <updated>2025-12-26T09:31:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Daily life IDIOMS&#13;
-&#13;
-@Idiomsland</title>
-    <published>2025-09-28T05:20:06+00:00</published>
-    <updated>2025-09-28T05:20:06+00:00</updated>
-    <id>https://t.me/Idiomsland/8073</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8073"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8073?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/BMPUC6BF-dBGQP5UjY-DkDVAKGobeazyVHumqgl81ddxIzUH8EWzeSzdadSx4EzQn-Ad4_6LCqMFZeaTxjtUQW8TDjxH9EbZA0oGJMBDrCkDtu21HfGRDT86-0xqlsKUMWphHD-ySuxtC0OOhPR40jxNH5G6sXNuK1BXmQizA68epw6nMzj23oe01M2ntQ4JmvfEP9Mnuc9r3G2WVGwgoH7LQOP6A1XfEQ6klCW7QBHqBoXkU7BSTI8H9PBxwY4SxVDw6aZLTZwKvHdoFwuFObaydUhr7qHcplrewT5Unzodx2Qnk_wFlS0xQPPrn_PiaLS_LILV6vV2lcXNT0Pazw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8074?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/cbwlUFeo_L7-y5SjYksLcLS_XQytjMUGlT4zQf3rc10wdhBcumIn4pTFsS47grzn29pS2nDjreSfQqTjM9hBdJIt7ZjiGmyJDzaptVMHXLOQ0bcPesW6WBEqxFwtXYGQzRkbek7IB2igx6SBfI-J0-g6GKc6EcumDlJ87ZGgyhXGi4r2caE8xTAGoWuxqH9NxzmFtFUMXrnHlw5or6SkNCY3rFUanceOVr8vJYpk2fyRb5BrYV12Z37nfpoZDJpzqd3sBRkXi-dPmSipMBhZZ22X4Jne5rZqvWrwBYWW0uZTxbl6mB6nGIRMuMtPwc4XQ_qcE0W_XvwTT-Y1zuRMNA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8075?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/QOtfa7wA-oNcWB8pvjs7ZDrEMJUi20FSQdG5KTxhn7Idtj1e_8HlK5tDqdOAfZAygCH7P2-WVmSjTeFxfBZIWUUn5HOMFB7I-2Hbdzg3vXVQly9DM-vIicwOJUc4l-agH2do55If6B84MgnPjVGMQ7zSUj6r42GjtAR_cpwAhnB4BUuKfig3ySizlusKSG426Zk9_6ZO6MBaQvZ6OjnrSDqEcCl7NqZOHzneYdSufN2Gve2jRx-kbprQqlLwmeHXGak3U_aH8PB8dvNB8juhyijM8b6lIiYI3JZnKDCh8k9TQyxkxYnOt0TykZ3eJJG2Jwg4xtheJxGr1Ce_WR3-AA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8076?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/OSvL-5K59dAI3dh3ry7UaeRGNY1AKVjzd8FZsWBhpkFopuVAI7SbTMG3eXvUNGYXtMooNjXzXbDUjyGbAPkKHrxVYW05421VOkzvJxMt4lH_fnUkiqzncEMnWzy7Q9xsACTbgFzeiDUn6m9Z_tAd823WsyAO9O4xxrwRakoV2D0EryhapcWzQ0HhZkRLCGniv_u__929Wk62Wr7cTJsAwwd78OOvLTiwDVFhjF0W5ZlAweuGSqXi4h-Bsd-UVZGuewMkcfo3GM9aXxXQ_kbcpt4frVZqhcJj1YmUNXsmhrmXnfZFnCtWKHIBcg-kLpIrRYQKtAqbSz2Wr2UQ5uPhKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8077?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ky8lv51GvXbjc4xLgyt48bu-fJ6z_tQbfUoKDeeYO28YRekxdrg3Rgl8NTpDmziR4hTnP0aspCbpykGDVxlr4O7rV6gEHDapnDaOSOj4h1Lv0H0pOdn6ScOWlL6jWRBiQzItmZNL_R4dszscZGDFVV_4rOLdzOOBAU4K7Rpg6SDJP4KEzyqn8iAntfFzlI9nng0R9bYDrJD1cCoTquxtGTkLe9ujOSFLRdFV8J3sHiIOnp-qHYEbzY6tejGLCRmfwDUWwCMf4KvHJOcUhEqzY_WjTACaeN9zdA6t966sfO7LvgEqLz8AjtJzRibPn-Ig5a2eRkP9iSf46JPj18M0fw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Daily life IDIOMS&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/Idiomsland" target="_blank"&gt;@Idiomsland&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Daily life idioms &#13;
-&#13;
-@idiomsland</title>
-    <published>2025-09-20T14:07:29+00:00</published>
-    <updated>2025-09-20T14:07:29+00:00</updated>
-    <id>https://t.me/Idiomsland/8068</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8068"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8068?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/m5Z0b1577DsCgqizPRPx_DuaeHV3SuZVaQLT1G-r9kxeHYgpMjQtvhOKg-skZtv6KAlUO023pDdCjWvQmNXG92EtaNwv-etmPwN_IhwJ7q6C8RSw_7D5TMt7GdTqrcaL3-ahbnbjTgu8fsV6jxjvbH1eVvz46WWgPAGNw52H3pAbZygFDosiDPzFEMo-jT4kIarXkStEzE81oqOBFTzv58TwUUQtrAVe_74gtsK2pVlh6mGLM9iivqVk4GAiK0_oqCUzPCK_DEBr5A6ozPN2AhhTf4cG0LXpKJH-TykYYkvV-DRhUcYZHCiUz5UgtabC5_yMbQxKkDGX4pVhk7smQA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8069?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/XEeA2F_vak24sDn779S6sxd3rNkttMNUULJ0wuPN3DQvXY7zIfYZh9nutJnlYMwamQd3EIm6ZCL8flzGxnlWG0DYml8jbF-ynU5aPMREfqMFgHwXjj-6fFRQ2kw4jYG62wNsI-umwqgLQ_zBWyoNRuOp61YUIXNw34rAMY05VZarmcubWBa0-tnnhuOSsh-S3c9Lcj1g4GoRT_Jhm7ACXkZAv-h7jsg5zIFUB27a7SB1krrHD1XP1KmI1hMWWof-uVVvfgv1r9H4aOik5R4K7ak6-u1BwUkaKpLKiZxJmLltfB7ESdhVNJY-_hmBYErUuAlA1HXFhki90yQLw1dm3A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8070?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/I7_PaMz1JUpUCvfkYVWTexjktG3g_0BhA4SatMkVTn8scC9exeIbd1WJBFDMMd6fXzD0nMtnR3seh2BRLrZMud_ZAVULqQ58kGris3BaAaODTmwRKdMXaKX7XWv46WrealijUlu0b_IPktk0phyP7r3_y0kI4SAEsGmJSNYI-3YAOOZRTd0TtV-EveY-jnkallLVyR28NQcUZS1b3SPfY1rQoHA1NrcJpByhUy2ddwmcnjm9R0YqWqo5szOrTlDMOfqocTnAvOFnjUq9Sc0J4D9nbgX6cSadeasNLGoQzTJD-hQGLfjAiMBtIE3KCB4RsLagBnwEvXD9Zrdgy9RENg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8071?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/rYNfsfNbhfgwqWnnWcchnt6vsgm8lbkT9mGxrAq_oA6f6W-iojeAAgf7-GbN7ARBmE9wNHmj-xWsrxio3-xf63-tdQEgZeqF1IgZeyw5qOMuxZfAACQ1DJl5m6dFp43RZjrV7ljGGbwALTTnyqdrleR54RXu90qoo6WOEtKvH0Voqm7WSBG_2IqEfVUKfcXoWwa0JwLVJ6RwKCKL5-Ly9zp_ZrJdL7CmSdUpOlZPF3XbBHzJJgvSxatOUPjKi3TPukJtmgNaMN0q32YB9GR-0gDN5VFRLv8oIr2_9iYF5PRvqsJXLEDhEwXBjS0OhflaMhNFzzJQnvi4NgS7skZqUQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/Idiomsland/8072?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/jQtTh9Qzt3cdpklOlc-ld_nXpbKSd7ZPzKaWVs1fvMNYZMXM6zrvyGq0voPjaLtVX_5v0bxVLSXXaww6-T6pWDBkLOmbgZrja0fOoDGXDzJGS8ORSQMgYQDWzMKWAQfjp63-l9A5XUjZf7iY1XSUydQ9sWP9B8fsRXdoMK-La0uIp7IM_lKTkmEUx30-2rdbGj7NownIdYdVUYRRJOqtzEvJ9Es_VsO6_zI1CEXzslRgqOLlV463jHF7wHwDKHIRdlBEoliIONcTQy0wSbBjSVJL7W_6b6WzHlM2pC9t6H1YNWog-M20dVyRJvs8wV46l-XhVwKpeV1bhE-qAUjTdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Daily life idioms &lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/idiomsland" target="_blank"&gt;@idiomsland&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔dig your heels in&#13;
-&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-to refuse to change your plans or ideas, especially when...</title>
-    <published>2025-08-20T19:02:44+00:00</published>
-    <updated>2025-08-20T19:02:44+00:00</updated>
-    <id>https://t.me/Idiomsland/8066</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8066"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8066"&gt;&lt;img src="https://cdn4.telesco.pe/file/pMBl5S0lu4zbwE767k1WdJTi5KDi1lgLJ50qyzfRMGLEmOFTVeMMz_w9zEsFhzKsUvDZMDVR09V4ODkhRGfLs7Sx-RCrEHSJC0E4TIPshGb6zetvTzMk6LPY6MVSzONk-FpfCn0mftTXcol6KXQKI6t2aZMcpU2BE475XViLFjUtgx22xyYpAG-lKC-I6WisXSi9-rIGZ8hAopDgfjHJswtZpqwlTjEMKJP3P6CfH6UbzUlUkx1MkyS38Uet5sjlLlvsx5iumBYbb6dEbb9ZhHKRLLpHSJ881sLpwsrAYnosi55RqDCMfhSEh5mAB5gT4oZ7VcftShVsB9kPF0oJug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt;&lt;b&gt;dig your heels in&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;to refuse to change your plans or ideas, especially when someone is trying to persuade you to do so.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;Even though the developer offered them more than their houses were worth, the owners dug their heels in and refused to sell up and make way for the office block.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;When their record company told the band to change their style and make more commercial music, the band dug their heels in and refused to change.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 ahead of the game&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-&amp;nbsp;&amp;nbsp;doing well in a situation and making...</title>
-    <published>2025-08-20T08:45:55+00:00</published>
-    <updated>2025-08-20T08:45:55+00:00</updated>
-    <id>https://t.me/Idiomsland/8065</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8065"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8065"&gt;&lt;img src="https://cdn4.telesco.pe/file/ABdkjAeEFn03YqkZ_-Cza6IdIF-LBqrXt6aM-eth57n2mUxg_lSWtvswoo_LTRQfz2RSARMCCqO-zVC3_XTp1mS90k8-U7DZIUqxjw_PgmjHRr8aRL-cpAQwBQQ2YEGY9as53tSbjofRb2WJO6AzMA6c7JWN2kilm6bZyXWbzUfYm0pkkfoif6morG736uyjvn3zBBpNTmOAI3bebAWGuxcu9OVEPsaebRJ62Zx1RwZzJ6QgrOCLcI0pSpJQ37cQYDp2aQiYXsyxRArUXurf3wHJtbYaIwVjjTp1gbl6bc5B5koZEREge7z1YyX2mEhfxAbAYgdz_bDCty594T1Frg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;ahead of the game&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;doing well in a situation and making progress.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;I’m always taking training courses so that I can&amp;nbsp;get ahead of the game.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 break the ice&#13;
-&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-&amp;nbsp;&amp;nbsp;To do or say something to make people more...</title>
-    <published>2025-08-19T20:25:06+00:00</published>
-    <updated>2025-08-19T20:25:06+00:00</updated>
-    <id>https://t.me/Idiomsland/8064</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8064"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8064"&gt;&lt;img src="https://cdn4.telesco.pe/file/gz8Z0aqju6qiQ-QPYVPA-nRTMiE_FZh9M2z7a5jERABv1ge7Shx-HcIGQ_9VMuj9_2kIKPleF0azaFqmW1GFvjI406MACSXR7I6huj2yPvSmTYNI84yvo_bvxS4uYpw6oYeSdC-5DwASpTy7DEBr4UtbRb2JW2LYkkfsik7O48YGFLp79Jyltw_5oTeVILSTjRd-oml6tD3jg9CiMRJceaLP_HIeIQGhe5Bbu_FzYNsj_frkfc4xb8EwDIXGrKPH7mCsnC718Qw_HNdkxoozdHdyrkD6Uja_foT8PJg8tm1YsKVcH7VHX68z3OaN9TuahtFVRoX_yDbhhmwLeEm8sQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;break the ice&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;To do or say something to make people more relaxed in a social situation and get people talking to each other (e.g., party, business meeting, conference, first day of class).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;At the conference will have several activities to help people&amp;nbsp;&lt;b&gt;break the ice&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;It’s always easiest to&amp;nbsp;&lt;b&gt;break the ice&lt;/b&gt;&amp;nbsp;with a few drinks.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 make someone sick&#13;
-&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-&amp;nbsp;&amp;nbsp;to make someone appalled, shocked or...</title>
-    <published>2025-08-19T07:12:25+00:00</published>
-    <updated>2025-08-19T07:12:25+00:00</updated>
-    <id>https://t.me/Idiomsland/8063</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8063"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8063"&gt;&lt;img src="https://cdn4.telesco.pe/file/LfzAJxirvXXUHLIi8IBD87PlMsj8MS7OnSVmCya75dZbT4PmIyy9Mp59g9IqKB_DE8OdehKucYnUXvPenptK6J4n9ClrUU252OKB50VRWjjVykIBA4lbOisZ8qsfOmLd0ucjlDzDmroHS3mjECA4YWW0SKP-1Jdt5HJKs399X9dvgb_1Iiyntsbg5-S4QrxOFvBCkqdrEeDR_6MHaL7ggkNfGo5O4mpTxzJzIKw68lIfoK7t0lZCR8558AEN4CybiEb2Sll3lJ-jXhBFXgicuGh3BUJjiCYoFYkI0knpSkjTJ-QPC6RBiXrjejACnufGsuUHN6NJifHR4FQtP5ZB8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;make someone sick&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;to make someone appalled, shocked or disgusted.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;I can’t believe you ate that entire bucket of fried chicken—you&amp;nbsp;&lt;b&gt;make me sick&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;nbsp;Listening to my sister talk to her boyfriend in her whiny baby voice&amp;nbsp;&lt;b&gt;makes me so sick&lt;/b&gt;.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 a ballpark figure | a ballpark estimate&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-If you give a ballpark figure or a...</title>
-    <published>2025-08-18T19:46:14+00:00</published>
-    <updated>2025-08-18T19:46:14+00:00</updated>
-    <id>https://t.me/Idiomsland/8062</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8062"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8062"&gt;&lt;img src="https://cdn4.telesco.pe/file/IPWynJ7hDESCtEjITwQ5h46qbIffFl2wzMlKdxL5wmnhcYuK8VPdD-5u2-BFy0qUJ82FDMrTsLF0QC_e-230KUPllPxcvWwvefKR2hI1QpX0Bi2HjNLiOpdc5Wj1ADVNf35-QtlF7SOxzfRqnDEixKNaXQ89PpHjqhGKsRX2fMfSP3zoNZhyro6QIiBUv-DJKB0uvA4t6pnipsnVbkzRMLuQLJOWEhWv6lb_dqsmgrG6dHTD7KXZoKehIlAUq8yWMmlDsnFrazzRB997t3U2h0VloQCfGC2ixbjykOw3chsjPJGM-O2gZM7Zk7BD2tSiihsyS4CN9GSMpQ7coqI_4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;a ballpark figure | a ballpark estimate&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;If you give a ballpark figure or a ballpark estimate, you give a number which you think is fairly close to the actual one.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;We don&amp;#39;t know the exact cost, but a ballpark figure would be around six million dollars.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 go-getter&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-If someone is a&amp;nbsp;go-getter, they are very energetic and eager...</title>
-    <published>2025-08-17T19:17:56+00:00</published>
-    <updated>2025-08-17T19:17:56+00:00</updated>
-    <id>https://t.me/Idiomsland/8061</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8061"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8061"&gt;&lt;img src="https://cdn4.telesco.pe/file/Cv5wikG3JTo0AjmiW2fk8xgN0O1HTVpYArTrpO0uQRi8-v8s19j6Yxlht0i7QDQmPM8EIoLzuBfe3FMu-el06t7U-JJ_r9rjViws5T0zOuuCjjmvpJTCFQl5znPTMXx4BFK3rag6KWw6Hjq8RAQv9zMsiQRHy7y9KhiNB2LbkqGPEhJ8mBpqa8KIh1t88mvK69Q8kIW2U49E2mgiAIvOY9UjUB1JGKHrj5c1zixYPBW1E8p0LFH8aqDPxGUk2nir1XovR5fca2dNG7zKOea0_n94q1wMN3XPXvlZSTDaITGDOwyevSCr1u9lvZLel_EQJo9q8PC5iCcNr9P5BWFh_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;go-getter&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;If someone is a&amp;nbsp;go-getter, they are very energetic and eager to succeed.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;quot;they went to great lengths to select a team of go-getters willing to learn about the latest in high-tech manufacturing&amp;quot;&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 A man of his words &#13;
-&#13;
-&#13;
-📋Meaning &#13;
-A man who keeps promises, who can be trusted&#13;
-&#13;
-🤔For...</title>
-    <published>2025-08-17T09:30:22+00:00</published>
-    <updated>2025-08-17T09:30:22+00:00</updated>
-    <id>https://t.me/Idiomsland/8060</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8060"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8060"&gt;&lt;img src="https://cdn4.telesco.pe/file/FizSLBZa3UJn8vERxiv6gcxdnWrV5qbeQKDpwOF-uh47rxDfppsTmL_IZjPUCXvOZKbHLaRMvLjm-N-b_aWMwz5cSKx6pXXgPK6lMFJO7AmLdCJcyamFNC_irUQ_KOos2YpdXDgBqbU2llWmF4mPNogoG7mMaynPQzS8dcO6V6WM_Tw79MYlbKPWQIYqClaSytuppdM6w-GVlThKNw8kceD85jdL5-AfyIEMP6x3by_QbrYXzp3obvslV7jvD8xGEjyhjoadSpjquZpQGfRfbHzUNgteP5OlojsSkQurIwlABVrFuTkdO_16U8e75ZkZ6r14sxLHjx-ZfMTcMNIS1g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;A man of his words&lt;/b&gt; &lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;A man who keeps promises, who can be trusted&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;If you were&lt;b&gt;&amp;nbsp;a man of your word&lt;/b&gt;, you would be on time.&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 down-to-earth &#13;
-&#13;
-&#13;
-📋Meaning &#13;
-with no&amp;nbsp;illusions&amp;nbsp;or&amp;nbsp;pretensions; practical...</title>
-    <published>2025-08-16T20:43:21+00:00</published>
-    <updated>2025-08-16T20:43:21+00:00</updated>
-    <id>https://t.me/Idiomsland/8059</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8059"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8059"&gt;&lt;img src="https://cdn4.telesco.pe/file/MMBblsUMuGVB2zi4i8LbhCEMG4O6VUz0Y7NKJ5yxPeuL5Cp_Fh5kkiavJ8zcKMTvRMlpmUxDgnlTzCWFaYGYCVZs8v8BcDQQTwzNfyY74dugAkBF8E6l_qP0L5EcbEe_K46YtT7QZ7G2MwJ0DeFgvqX_GmduCoAgm7QSkc1vYmo5fkb3wP3wZNRAzphdadiHLwBfpkMXHMI-YHw_Xqad-cUMjhG-ZSTWHsyvXaW0o6e3rXWC8ZLIWxosTd5n2-Omke-cCxGnIVYyaln5sA52SOP5UAI5XMitkcmAPnERlIk38KHA3G_U-nB9RFLEN_3778mEjTijrarl8bkL8MpKsw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;down-to-earth&lt;/b&gt; &lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;with no&amp;nbsp;illusions&amp;nbsp;or&amp;nbsp;pretensions; practical and realistic.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;&amp;quot;a down-to-earth view of marriage&amp;quot;&lt;br/&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;br/&gt;&lt;b&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📔 In for a penny, in for a pound&#13;
-&#13;
-&#13;
-📋Meaning &#13;
-That someone is intentionally investing his...</title>
-    <published>2025-08-16T06:00:13+00:00</published>
-    <updated>2025-08-16T06:00:13+00:00</updated>
-    <id>https://t.me/Idiomsland/8058</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8058"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/Idiomsland/8058"&gt;&lt;img src="https://cdn4.telesco.pe/file/k2f0DdLy0Z8RJMhHxgHPRmq7Io76acN8yeKontvlHsi78QNzfNLVD7bwDtEu6ufnSgbxYijVX7Lm_Jg-ZGWLPLqFFaFSbOD0-owaJlHDGEg-Qupz4H6XYWzelsTDyblWrPWeY8xqS19bNEbEJ53POPkBAK7pshCXBk-R__f9gvpPG-bseesyMgvNKD9yApC0pxrh7gz-64wFX6f3jMU4tGZ0shjJJErSNNpc-NGdZ1_O1xEtoP7v7LdlsrwUyRw_o7UsOI1KFm9W6dFffvKN4AGWdZrC8o8IcvPv83Aj9tsfDp_qbSPp6HnmyK_Fr_NOJhmfe6mdnzzZx_dsoB6igw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9394.png')"&gt;&lt;b&gt;📔&lt;/b&gt;&lt;/i&gt; &lt;b&gt;In for a penny, in for a pound&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"&gt;&lt;b&gt;📋&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Meaning&lt;/b&gt; &lt;br/&gt;That someone is intentionally investing his time or money for a particular project or task.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA494.png')"&gt;&lt;b&gt;🤔&lt;/b&gt;&lt;/i&gt;For example &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"&gt;&lt;b&gt;⬇️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"&gt;&lt;b&gt;🗣&lt;/b&gt;&lt;/i&gt;When Athlead was booming, Jim was&amp;nbsp;in for penny in for pounds,&lt;b&gt;&amp;nbsp;&lt;/b&gt;that’s how much dedicated he was.&amp;nbsp;&lt;br/&gt;&lt;b&gt;▬▬▬▬▬▬▬▬▬▬▬▬&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/PhrasalCards" target="_blank"&gt;@PhrasalCards&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/SlangWords" target="_blank"&gt;@SlangWords&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/IdiomsLand" target="_blank"&gt;@IdiomsLand&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/Vocabulix" target="_blank"&gt;@Vocabulix&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/GrammarCards" target="_blank"&gt;@GrammarCards&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/EnglishGate" target="_blank"&gt;@EnglishGate&lt;/a&gt;&lt;b&gt;&lt;br/&gt;➠&lt;/b&gt;&lt;a href="https://t.me/StoryPage" target="_blank"&gt;@StoryPage&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📌Follow TOP English Learning Channels in the World&amp;#33;&#13;
-&#13;
-👇👇👇&#13;
-&#13;
-✦  English Slang...</title>
-    <published>2025-08-15T02:57:52+00:00</published>
-    <updated>2025-08-15T02:57:52+00:00</updated>
-    <id>https://t.me/Idiomsland/8057</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Idiomsland/8057"/>
-    <author>
-      <name>Learn English Idioms Language</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;&lt;span dir="auto"&gt;Englishoftheday&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"&gt;&lt;b&gt;📌&lt;/b&gt;&lt;/i&gt;Follow TOP English Learning Channels in the World&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"&gt;&lt;b&gt;👇&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"&gt;&lt;b&gt;👇&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"&gt;&lt;b&gt;👇&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+kqR_xvS4LHY2ODU0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Slang Words &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/joinchat/AAAAAEHLBtEuyvqqpgubVA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Stories &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://telegram.me/joinchat/AAAAAD_o0iRTdgVGUYQAJw" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Idioms &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+z5Vo1xnrv3o2YjBk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Phrasal Verbs&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦&lt;/b&gt; &lt;a href="https://t.me/+TcYgv3N0V69hZjM0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Phrases &amp;amp; Expressions&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+9QCXxpyWNHgyYzZk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Collocations&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+bNArHk57BpQ4NDk0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Podcasts&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+mqHzrZ_tsio4YTVk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Daily English Conversations &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+6zcgB01SG5Y3OTE0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Language&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; Espresso English&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+63NehNt8kS5kMmU0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Quizzes&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+pkOjbYgtYwozM2Vk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Proverbs &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+CwAkpvln0wIzMTE0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Gate Learners&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦&lt;/b&gt; &lt;a href="https://t.me/+70OKupfUAr8zNzY8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Songs Lyrics&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+lqo_nj3EOktmMGJk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;TOEFL English&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/joinchat/AAAAAFMphe3suCTYzJs1yw" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Grammar &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+_4Tai_7VrwxkMzY0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Vocabulary&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/joinchat/AAAAAD8k73-UdCNaEc76jA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;English Language&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;✦ &lt;/b&gt;&lt;a href="https://t.me/+GIS1vIapWxllMzRk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; &lt;/b&gt;&lt;/a&gt;&lt;a href="https://t.me/+GuGu_yvNRqEzYTU0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;IELTS English&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"&gt;&lt;b&gt;👆&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"&gt;&lt;b&gt;👆&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"&gt;&lt;b&gt;👆&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998C.png')"&gt;&lt;b&gt;🙌&lt;/b&gt;&lt;/i&gt;Join them all&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918F.png')"&gt;&lt;b&gt;👏&lt;/b&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;</content>
+    <title type="html">Bridge returned error 0! (20448)</title>
+    <published>2025-12-26T09:31:53+00:00</published>
+    <updated>2025-12-26T09:31:53+00:00</updated>
+    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Idiomsland"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 5002 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/Idiomsland        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@Idiomsland    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2FIdiomsland&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+5002+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2FIdiomsland+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40Idiomsland%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>

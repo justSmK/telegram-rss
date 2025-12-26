@@ -1,213 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Арно Тали (@arnoetalee) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/arnoetalee"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2025-12-26T08:32:48+00:00</updated>
+  <updated>2025-12-26T09:31:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Всех с праздником</title>
-    <published>2025-12-24T22:41:47+00:00</published>
-    <updated>2025-12-24T22:41:47+00:00</updated>
-    <id>https://t.me/arnoetalee/3016</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3016"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/iSiNeNIB6aPFw7D7AAyBeg_WUZOt7CjiO7dkHSi3ZmpDfunMwcHCQclQd-y_O4-SnZdLRjMLX4VJJ-B0ys3GXVCto9X_HPNbwNUTORaqEQo5AK-BbZoDcIzS9ucvCV_xO1w1e9dawM6SGDtVasDld05WtnLPrYTyTIoHRbK5Gq6q4ULkZQdATw2MF5EN7fLCCZAYgn0fa4BOFtm_oUb25bkt-8ohDuSfsT5AdPj0t6OricP3bvaW7TeVfvH0yeMQRdyOqiwIOwhjpWx3efZO5IoaWSMnEAcDC5Zsm9Ez1iHubMFUOfGrByrLvrMCauLMyBxMoV4ApaL4z4oLQVqjrQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/c5eea79132.mp4?token=YK1IejEBSWNr2B_ZifOqzICbQj6CfEvHRSvQ-QRW-yXaB7Z60EUAQca6sDKRqpfYcnJZs7IbZ7EmG2twhylTZHW_e-rVWStnuV2-Iq5saoE_XfqNqrTZFJz731YTHI0tCccei_wiLfreU5LL74PEvRFWRCd2LTcTkGTZqxf6OvgPPDgpSQ9URB72hd2a7dFQ5Ph_inRDAanLCPA0c6XuHguv3xt89u2hH26FkLPDuikj0JWnJOT8RIALNobme5Kd7RH7wg1eE5bpxVxXspQo8nRd3wCfUgjRg2g56zqaiXcyZZNvHxRXVlR6BCHami2pfSxeVqCCRRDbPBeGbbZ5YA" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех с праздником&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/iSiNeNIB6aPFw7D7AAyBeg_WUZOt7CjiO7dkHSi3ZmpDfunMwcHCQclQd-y_O4-SnZdLRjMLX4VJJ-B0ys3GXVCto9X_HPNbwNUTORaqEQo5AK-BbZoDcIzS9ucvCV_xO1w1e9dawM6SGDtVasDld05WtnLPrYTyTIoHRbK5Gq6q4ULkZQdATw2MF5EN7fLCCZAYgn0fa4BOFtm_oUb25bkt-8ohDuSfsT5AdPj0t6OricP3bvaW7TeVfvH0yeMQRdyOqiwIOwhjpWx3efZO5IoaWSMnEAcDC5Zsm9Ez1iHubMFUOfGrByrLvrMCauLMyBxMoV4ApaL4z4oLQVqjrQ"/>
-  </entry>
-  <entry>
-    <title type="html">Есть ли у вас под рукой примеры актеров, изображающих...</title>
-    <published>2025-12-23T17:30:59+00:00</published>
-    <updated>2025-12-23T17:30:59+00:00</updated>
-    <id>https://t.me/arnoetalee/3015</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3015"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Есть ли у вас под рукой примеры актеров, изображающих &amp;quot;американцев&amp;quot; или &amp;quot;англичан&amp;quot; в российских фильмах? типа говорящих по-русски с акцентом.&lt;br/&gt;&lt;br/&gt; Сойдет и любой кринж, и абсурд типа Ширли-Мырли, и серьезные попытки. Нужно для одного друга-ютубера.&lt;br/&gt;&lt;br/&gt;Спасибо&amp;#33;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Новое видео на канале. Всё, что я хотел сказать про...</title>
-    <published>2025-12-18T12:29:20+00:00</published>
-    <updated>2025-12-18T12:29:20+00:00</updated>
-    <id>https://t.me/arnoetalee/3014</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3014"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3014"&gt;&lt;img src="https://cdn4.telesco.pe/file/TvCB0GLmqhuCHVin-tRREVATzruAEGS-wzqH78njjRSrwZJaj4R6F7TfuRDWwy5rh08Tr-tPcA7HNuFUBV89T2aecyaSVkwUtH1SiIf6ikSlqxO87NZ6Dk2xC3zfrL-NreiyM-EhUT7gRFJ-oKKN1HoxBFYhsGRfhhBpKUvKacKba0DieGxHFgF4DyRjwZXzr4V5A4ZQE2DtV_4iNijJJnipwTMBVBD0yc7hFONV8pwaTj85dVBJTvNbINHh8D6GFyj2ZrbLXKGZ7nPiUtzUmRQ4KP5gwfNBiT4hNUechEsNGdzcgrf9NcTWn-8Z7izM-r2PWI-oqF4dSdn4zRFxyg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео &lt;a href="https://youtu.be/dCGD4oJhGuI" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;на канале.&lt;/b&gt;&lt;/a&gt; Всё, что я хотел сказать про Советский Союз, сказал там.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Загадочная реклама жёвки из 90-х про удивительно...</title>
-    <published>2025-12-16T23:49:32+00:00</published>
-    <updated>2025-12-16T23:49:32+00:00</updated>
-    <id>https://t.me/arnoetalee/3012</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3012"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;       &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/YGp1bzvQ9fFE8ChWJdJrsDsq5k9I0Ij2OCe2hvy4VBKETuKYgtF3ZR8jpF60c21l7vixBemaQKny0uGDrLzAUZgGgPYrvH6Sk9-t4jKdQPBHKd0PKFFBLwmAFdhaOuKnoK8lXSjl57zz3pUUmbX8Z0xkMxa2IS5bOHi6WDvf8ytnuzUbpUiYrvmP73pV61q-CmX21Tgm0Ft_IA84PK5sm24d2XX9zPIPrStc6bbUYSz6nryr401GHCkrTas125w1i2injOVlQmyyYi8pRrWvoh_8Z4Z8Gtyju6zWcWHBWZBc_vtcxCXlo_oioagW_gx2UQXwZ4EgfuBpCivLAazBJA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/bc5d8241ef.mp4?token=OJkroT2bO6Me2Jc3z1cdssFlw1RfPq4CSev3y2qqYADeNK7FdR-ioudnMHjrF7fb-EK3YdXnEvHDybWiGjfmfI7JsA05DLeLEhuarqPbMc5YmTEmEhSm5-aYMZfynSa3IcxJowAEt5tTKEFVPVbqpQ2WOdtJUgCHsSJqULulLKjUqBSXUj1xmSt33DdAXuIgWtV2w6ymBZOUrjAZxU5610hChmBQu98PX51Ym2PFUvmvnj5t-oVN_hCsq7CsfdHwe2D8GqMhfYia1pBeo0hi0hTA85N-rrmKR1Vrg8UJwEc_r9BVrAggnYZNZ-7JMyc6JWUJff6K6hG12PNiX0RmNw" type="video/mp4"&gt;
-&lt;/video&gt;&lt;a href="https://t.me/arnoetalee/3012?single"&gt;
-Media is too big&lt;br&gt;&lt;br&gt;
-VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
-&lt;img src="https://cdn4.telesco.pe/file/YGp1bzvQ9fFE8ChWJdJrsDsq5k9I0Ij2OCe2hvy4VBKETuKYgtF3ZR8jpF60c21l7vixBemaQKny0uGDrLzAUZgGgPYrvH6Sk9-t4jKdQPBHKd0PKFFBLwmAFdhaOuKnoK8lXSjl57zz3pUUmbX8Z0xkMxa2IS5bOHi6WDvf8ytnuzUbpUiYrvmP73pV61q-CmX21Tgm0Ft_IA84PK5sm24d2XX9zPIPrStc6bbUYSz6nryr401GHCkrTas125w1i2injOVlQmyyYi8pRrWvoh_8Z4Z8Gtyju6zWcWHBWZBc_vtcxCXlo_oioagW_gx2UQXwZ4EgfuBpCivLAazBJA"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Загадочная реклама жёвки из 90-х про удивительно стойкий вкус.&lt;br/&gt;&lt;br/&gt;Spearmint это вроде &lt;b&gt;&amp;quot;спИерминт&amp;quot;&lt;/b&gt; &lt;b&gt;/spɪərmɪnt/&lt;/b&gt;, но тогдашние редакторы и дикторы считали иначе...&lt;/div&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/YGp1bzvQ9fFE8ChWJdJrsDsq5k9I0Ij2OCe2hvy4VBKETuKYgtF3ZR8jpF60c21l7vixBemaQKny0uGDrLzAUZgGgPYrvH6Sk9-t4jKdQPBHKd0PKFFBLwmAFdhaOuKnoK8lXSjl57zz3pUUmbX8Z0xkMxa2IS5bOHi6WDvf8ytnuzUbpUiYrvmP73pV61q-CmX21Tgm0Ft_IA84PK5sm24d2XX9zPIPrStc6bbUYSz6nryr401GHCkrTas125w1i2injOVlQmyyYi8pRrWvoh_8Z4Z8Gtyju6zWcWHBWZBc_vtcxCXlo_oioagW_gx2UQXwZ4EgfuBpCivLAazBJA"/>
-  </entry>
-  <entry>
-    <title type="html">Два дня Второй Мировой. В продолжение мысли о том, что...</title>
-    <published>2025-12-15T15:01:36+00:00</published>
-    <updated>2025-12-15T15:01:36+00:00</updated>
-    <id>https://t.me/arnoetalee/3008</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3008"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3008?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Jh132oWMekdclF1Ij5D9-QYUN-OEWaFNGGEWDaYyPmHmCH6XZl0OJb44yTTXHCbX1SQtoRZYIZiKXGlz7AJ8GqDPQglde6rSP27eZf6LdXfrcoM2AMUT6XR_1np2if3_t60fDdU1Z5U1m0e5GHWcoNNu3a2Z3D_mWQKFNkVeg3Ww1F9oKQxU6gPmZnHL48vB8n_YCRZFTZuklKn6w9qcBojZoz7v4n3FuAOOUFp92mJHzXTpK_XOFZPoKo94Xyk59CH7tbZG9bh7MOvAgMcx808-r8eOFgtsIq3PWRnPgw9hFU8WWyWGjA7pfmquhbFdYUM7NSOTLSOtPPma4Dq0tQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/arnoetalee/3009?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/TvsdRoOeNnfqBpEwXJHin_m-DuB0IVfvw6U5LraK9yasoZOrJNRWjk1gKT8K_Rx31v4mAnCC1TfpYvwLHHwZNC2PmRHC2_xseFhHLWyc-C5vod-96Ot-yMY979VaWkPDQeFFcZUH1mhmkN00R94uu3TUYl0wOu4ExtvXj00Im5YOPesXgIfywqY0A3ya3GPPRZ0aoE0Z-rriCRrAC2mXrjgEf2_SIGGXPwqyoV6wN7VmSr8ayWkfc6SychPfzmqbHsCYVaB8Enqzm8U3SbOeU0uu9UXMUktTL4gt9ja7HhKHqJ4XFWzPB7XPYu9VDrssOfZ1MWzlCD6oz-s5bsj9fw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Два дня Второй Мировой. В продолжение мысли о том, что людям 40-х годов очень &amp;quot;повезло&amp;quot;, что у них не было лент новостей&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Я заметил, что народ подсел на тредз; посмотрел, что там...</title>
-    <published>2025-12-12T10:31:05+00:00</published>
-    <updated>2025-12-12T10:31:05+00:00</updated>
-    <id>https://t.me/arnoetalee/3007</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3007"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Я заметил, что народ подсел на тредз; посмотрел, что там залетает и:&lt;br/&gt;&lt;br/&gt;&lt;tg-spoiler&gt;&lt;b&gt;1.&lt;/b&gt; В сотый раз убеждаюсь, что невозможно совместить соцсети, подобные твиттеру и ментальное здоровье/равновесие.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. &lt;/b&gt;Не знаю, где там лимиты человеческого мозга, но иногда сомневаюсь, что мы приспособлены эволюционно: &lt;br/&gt;  - Получать в мозг трансляцию мыслей ебучих незнакомцев за тысячи километров от нас (90% своей истории люди жили стадами до 30-40 человек и за всю жизнь знали только их);&lt;br/&gt;  - Бесконечно погружаться в цикл чужих проблем и загружать ими свою когнитивку;&lt;br/&gt;  - Не испытывать скуку, постоянно получая стимулы по первому запросу;&lt;br/&gt;  - И при этом не закончить свою жизнь хихикающим дуралеем.&lt;br/&gt;&lt;br/&gt;Если что-то и заставляет полностью забыть о своей жизни и своем благополучии - то это в первую очередь твиттер либо тредз.&lt;br/&gt;&lt;br/&gt;===&lt;br/&gt;&lt;br/&gt;Так-то сам факт чтения как получения информации это уже довольно странно: &lt;br/&gt;&lt;br/&gt;· e.g. читаешь мрачняк и чернуху - и кортизолишь, хотя сидишь на мягоньком диванчике в комфорте; &lt;br/&gt;&lt;br/&gt;· читаешь, как кого-нибудь сношают в гузло - и набухаешь, хотя никого голого вокруг нет. &lt;br/&gt;&lt;br/&gt;Как это вообще возможно, ты же просто смотришь на закорюки? И самое главное, зачем? Как бы мы это объяснили нашим предкам-угабугам?&lt;br/&gt;&lt;br/&gt;Ещё хуже - принципиальные тейки и мнения сотен людей, загружаемые в ваш мозг по КД. Это вообще ёбнуться.&lt;br/&gt;&lt;br/&gt;Ну, про рилзы и порнуху вы и так знаете.&lt;br/&gt;&lt;br/&gt;Проблема, разумеется не в самом факте чтения или том, что мы в экономике внимания, а в аддикции. &lt;br/&gt;&lt;/tg-spoiler&gt;&lt;br/&gt;Извините за банальности, нужно было выговориться.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">@arnoetalee posted a video</title>
-    <published>2025-12-10T18:31:34+00:00</published>
-    <updated>2025-12-10T18:31:34+00:00</updated>
-    <id>https://t.me/arnoetalee/3006</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3006"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/arnoetalee/3006" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/Sx3GhDmVrCuNcgFuSSOQI11PUI7ftba7KfzKJBjissNSsM-gSwXcXXKMNq2GmXV1vzxqk0_X_YyJS1nv5lsMUfuGDFz5cYtCJzhAASKy-y_tngOoTXANLhiXbSSwlgx2MpjKprnbOtppUpIT3KdmlUcD329uOeSnknF1DGu_7Ze6XwqFZXF9XEBBAKaejoMnGZaChk7gIIZSzq8D1FsBQ1FwCPEzPeUFxXQZ1ma6f4_Y1fdP8tWdjV2Hf5WXlfepzPE3fW0epHfzbUyIgPKFZfvqCgLwN6sF6cHm8XjT-zgbu_HBFTU0LdpER5PdK8wsHxvdsm_s2bkTMBE01z223Q" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/72a7624806.mp4?token=BcZlnt0-fc3AHgl9LywvMxVpqEcQVaKumBGnid2W9dFDearTJugymMN9dAPXQfplofFxa-P_b_DAFfTBytTytA4WcLnR3KzwXodPaSjvcx48ah2NZB8MFWLpfklHx5Y5JJoouHWbdDJPw09skf0hKzgE-LnjT9gu7NVy549UyDKpXCrDsNm-4Bbj2kPU2cQT7muUg51O3UsRD1CviabEj3uj62a8TEP-sF-HLZOZmSIeCpQa7x3A22BLrWqw1OYlaGyLoQ1Os6S5HUxyCKfaHHLDcqZZWcc3ORCDk6bN3I4g8H6e-LXGOmkzMgqnEYSjo-2NF0Vp-CYK-e_rQvb6UA" type="video/mp4"&gt;
-&lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/Sx3GhDmVrCuNcgFuSSOQI11PUI7ftba7KfzKJBjissNSsM-gSwXcXXKMNq2GmXV1vzxqk0_X_YyJS1nv5lsMUfuGDFz5cYtCJzhAASKy-y_tngOoTXANLhiXbSSwlgx2MpjKprnbOtppUpIT3KdmlUcD329uOeSnknF1DGu_7Ze6XwqFZXF9XEBBAKaejoMnGZaChk7gIIZSzq8D1FsBQ1FwCPEzPeUFxXQZ1ma6f4_Y1fdP8tWdjV2Hf5WXlfepzPE3fW0epHfzbUyIgPKFZfvqCgLwN6sF6cHm8XjT-zgbu_HBFTU0LdpER5PdK8wsHxvdsm_s2bkTMBE01z223Q"/>
-  </entry>
-  <entry>
-    <title type="html">У вас есть на примете какой-нибудь деятель из СССР,...</title>
-    <published>2025-12-10T15:31:11+00:00</published>
-    <updated>2025-12-10T15:31:11+00:00</updated>
-    <id>https://t.me/arnoetalee/3005</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3005"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;У вас есть на примете какой-нибудь деятель из СССР, который бегло говорил на английском в те годы? Возможно, просто кинохроника некоего разговора на английском с гражданином СССР? Бродского не предлагать&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html"></title>
-    <published>2025-12-09T10:04:31+00:00</published>
-    <updated>2025-12-09T10:04:31+00:00</updated>
-    <id>https://t.me/arnoetalee/3004</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3004"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html"> </content>
-  </entry>
-  <entry>
-    <title type="html"></title>
-    <published>2025-12-08T14:18:01+00:00</published>
-    <updated>2025-12-08T14:18:01+00:00</updated>
-    <id>https://t.me/arnoetalee/3003</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3003"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html"> </content>
-  </entry>
-  <entry>
-    <title type="html">В тему о Короле с Шутом.&#13;
-Я за всю жизнь ни разу не видел...</title>
-    <published>2025-12-07T21:49:30+00:00</published>
-    <updated>2025-12-07T21:49:30+00:00</updated>
-    <id>https://t.me/arnoetalee/3002</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3002"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В тему о Короле с Шутом.&lt;br/&gt;Я за всю жизнь &lt;b&gt;ни разу не видел ни призрака&lt;/b&gt;, ни самого завалящего нёха. За исключением пары снов, которые можно притянуть как вещие. &lt;br/&gt;Не могу биться об заклад, что не увижу никогда... хотя, кажется, соцмедиа выжгло любую возможность для нашего с вами мозга хоть немного заскучать, чтобы что-то эдакое эмулировать. Но. &lt;br/&gt;&lt;br/&gt;Если задуматься на минуту и довериться рассказам людей, которые клянутся, что лично зафиксировали кикимору, то выходит:&lt;br/&gt; &lt;br/&gt;- Призраки, по крайней мере в обликах людей, &lt;b&gt;не такие уж хтонические и древние порождения бытия&lt;/b&gt; - а появились только в Африке 100.000 лет назад, вместе с хомо сапиенсами и появлением разума и языка как такового. &lt;br/&gt;До этого они если и являлись честному люду, то разве только в обличье питекантропов, а ещё ранее - австралопитеков. И, наверное, когда-то ещё был призрак пургаториуса.&lt;br/&gt;&lt;br/&gt;- Призраки &lt;b&gt;чертовски внимательно следят за шмотками&lt;/b&gt;, хоть и не шагают в ногу с трендами. И в целом синхронизируются с эпохой, постоянно выдерживая гэп в 50-100 лет. Ты не услышишь в наше время рассказ о призраке представителя культуры шнуровой керамики с дубиной, а вот про криповую бабульку именно 80-летней давности, упакованную по довоенной моде - запросто. &lt;br/&gt;&lt;br/&gt;- Таким образом, &lt;b&gt;средневековый человек был бы просто в шоке, покажи ему типовых призраков образца 20 века&lt;/b&gt;. Для него они были бы одеты в ультрафутуристичный дрип. &lt;br/&gt;Это вызвало примерно такую же реакцию отрицания, как если бы Иисусу и его ученикам показали готические соборы.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Я пару раз заикнулся, что мне пора покупать...</title>
-    <published>2025-12-06T20:57:36+00:00</published>
-    <updated>2025-12-06T20:57:36+00:00</updated>
-    <id>https://t.me/arnoetalee/3001</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3001"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3001"&gt;&lt;img src="https://cdn4.telesco.pe/file/mTp0Jim9Yqd4-9tTAFB_luS_KH3y41suW61wWuozMbVlWqk24s6Byy42AwzTN3bSdlKnKt4qY7NAZczJmDwEfREjx8se3qiStbmkAGfY-UCeaG0wXdoIKtqqRIn64y8KHAPVvRvtFUMxvHWeNuXsQxCj5L0uuv3iI_56R_z4nKPLqygN4OhQc8HVU2tn4hOue9RyQ2xTbkWIgfwJWrrPpAdSfHdTLdjZ_aU8yLTeDIGBYaOfxtCGr-KGnhshWKXEyOw1FZntE8CzL_hyzMxDAX197WrBGCyS_liOA1Vw1Rj9Hn3PBQGdZtUzrLMla9C6o4jyX8Q4LPFFuj9skmDmFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Я пару раз заикнулся, что мне пора покупать бабко-тележку для магазинов - и мне подарили её на ДР&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Дьявольский ветер, а.к.а. казнь из пушки. Выглядит...</title>
-    <published>2025-12-06T11:44:24+00:00</published>
-    <updated>2025-12-06T11:44:24+00:00</updated>
-    <id>https://t.me/arnoetalee/2999</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/2999"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/2999?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZUWDCKbR2BYPGZZFfVa_V8RMK3Nj4zFHpu1EGnzlVOOum534eFIvJtEqMFUX4Rb4X1NqIZ2kwyFeIq_SLaH4d3hy_cTxFAbcY5VigAa6ExrO1TXxYF7HoU_6v6EkPLaYIpi09sHUbFX1MICXn8q3ZqJE731yMlGR_9rAX_KNec6xjNg9C4g0OwVTFo0MHbO4_B8DXSB0pD9MDpWzmQnfkGt2lFpBbi79JrCMLkZtCun4CmC82rQQGFj8eoZDJpscx7ZQEXVsrukweHskjSg_FI_Sq7zgOjZBDIXYyBxnk1chZ9fHfxIqSA1r45V8U_bhs0sca3gCpnrcazci_Ua7pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/arnoetalee/3000?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/PP7Yf2B2Q5kguyPm_-ck7UKGOYdsCpu-VV8wSWFwgBiTH8qoP5GRffRN1D9Ysg6HcQyIFT3pZWGVh8DDB2acLLv5Ar8vp5Fx35Ww2H937ZW7AA27WbqPhpcAHsrQKceyL7CljWogczUNCHe4T9qfRPk8g1eAZ7MIqrBZJPwGMX5wu_6JjEo4xZwtHODYflH-P-SiJvg6Q6fiq30nxE-yhurgn2yXbs4DAFLEYOhIxvkg58vf9JESUdj2bzlin2C-PTT-TUP_eLI8UcKRKvovBHnjT9qGYT4Ys9PFprzSZaiA9-36sK-AZru215K7J7O1E5gCdO_mrk9qAizwLSNpeA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Дьявольский ветер, а.к.а. казнь из пушки. Выглядит супер-жестоко для окружающих, а вот для самого казнимого - нереально гуманная тема, одна из безболезненных казней (если, конечно, все пойдет по плану). Уж если от казни никак не отмазаться, то выбирать лучше что-то подобное.&lt;br/&gt;&lt;br/&gt;По сравнению со свежеваниями, медленными декапитациями и прочими посажениями на кол - торжество гуманизма. Особенно если не мучить осужденного перед процедурой&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Вот что значит &amp;quot;без комментариев&amp;quot;. Извините,...</title>
-    <published>2025-12-03T14:42:44+00:00</published>
-    <updated>2025-12-03T14:42:44+00:00</updated>
-    <id>https://t.me/arnoetalee/2998</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/2998"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вот что значит &amp;quot;без комментариев&amp;quot;. Извините, нечаянно&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Ну она мне с самого начала не понравилась</title>
-    <published>2025-12-03T14:41:39+00:00</published>
-    <updated>2025-12-03T14:41:39+00:00</updated>
-    <id>https://t.me/arnoetalee/2997</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/2997"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ну она мне с самого начала не понравилась&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Новое видео на канале, можно смотреть</title>
-    <published>2025-11-28T08:53:46+00:00</published>
-    <updated>2025-11-28T08:53:46+00:00</updated>
-    <id>https://t.me/arnoetalee/2995</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/2995"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/2995"&gt;&lt;img src="https://cdn4.telesco.pe/file/RhkvvF_REyn53pjzNQ5r5p_EIdQFBlAn2zDaetrEbr4JsgNZ7PIwq5aImmQ5WoRi1NjdCg4R-nA03SwzO7PFn6xDWBpaV45iucMkFK17AHlG2KGbCYjEnfRAh4idZp-zl8LLNqHvryJGFwStavdpFdus78LY5YZObjv9m68apEvX0ltcPcisQlnkNYQqvkBVGM_MvMI2QTE1_uWpBbs1jK6zjdSIKbU-AP6gD-YhhXNafQQrm4C2mFfsdU6bGRk4QVVs89L1w6muCPEqeFHIgLIsufU3-OsWl70KYTiq42KqBJo8i1dljX4HxginKqkYYHdUd16wTtjJTYICATXJgw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео на канале, &lt;a href="https://www.youtube.com/watch?v=J6s6pV82mzE&amp;amp;amp;pp=0gcJCRUKAYcqIYzv" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;можно смотреть&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Не в курсе, кто отвечает за раскладку колец в магазине...</title>
-    <published>2025-11-27T22:24:47+00:00</published>
-    <updated>2025-11-27T22:24:47+00:00</updated>
-    <id>https://t.me/arnoetalee/2994</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/2994"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/2994"&gt;&lt;img src="https://cdn4.telesco.pe/file/Cjn1S4l2W41E0hQFFxApTjUoE81MWruosAk6WakGrSYThgO-OLpGlK_nSALbj7gYUwLg0e5JrX3KiRSXlyktqc1c6lbf4EEDR-ZX9Fee6YHuXPUu0SYCIO2GAG0cjv-tw-xPvFV-1oqjPA5TZ1zwusUYvABjpsZ4eXNgsaExXpaVCtbcGSQLDw9YXC4Y1AmOWWLl9nvJ2bJ_CKnN2pcI9hkUPfERVw1b19DkADU6-RTvhc9cDIF9wzr9sDWzqiEscBs2UGqKvutsFpqUI21LE8v1aS2HOe5FDapxt2ENoEVIwlV0vHxAzvbBB1mjK1SWhKQAqNyUVOr7ZcQuFaFHKQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не в курсе, кто отвечает за раскладку колец в магазине Самсунг, но либо он просто остроумный хрен, либо сныкал где-то ещё 8&lt;/div&gt;</content>
+    <title type="html">Bridge returned error 0! (20448)</title>
+    <published>2025-12-26T09:31:13+00:00</published>
+    <updated>2025-12-26T09:31:13+00:00</updated>
+    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Recv failure: Connection reset by peer: 35 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/arnoetalee        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@arnoetalee    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Recv+failure%3A+Connection+reset+by+peer%3A+35+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Farnoetalee&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Recv+failure%3A+Connection+reset+by+peer%3A+35+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Farnoetalee+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40arnoetalee%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>

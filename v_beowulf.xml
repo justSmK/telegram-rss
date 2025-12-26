@@ -1,112 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Virginia Bēowulf | английский язык (@v_beowulf) - Telegram</title>
+  <title type="text">Telegram Bridge</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/v_beowulf"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@v_beowulf"/>
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@v_beowulf</id>
-  <updated>2025-12-26T08:32:50+00:00</updated>
+  <updated>2025-12-26T09:31:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">Принесли праздничный салат из фактов. &#13;
-&#13;
-Факт 1.&#13;
-У песни...</title>
-    <published>2025-12-25T16:27:44+00:00</published>
-    <updated>2025-12-25T16:27:44+00:00</updated>
-    <id>https://t.me/v_beowulf/1838</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1838"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/v_beowulf/1838?single" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/v_beowulf/1838?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/SJ2peosmr4_ZPiNtVm84v_pxx70CAo4y1T_1CigiCvAMNAk-CufExwL9cMUMh3KakikIiPC5L23MpJJoXT83EKidC3EdXVbwhNI3rCaa6dkUp8VpIaYP1VK3sFO4RX9aGIvgmF-Ts8xFeE6n8wOmwWZ24JUjIYcyJkT-nO7YgXlbsEzVEg7cDe4HLuIWUOGnskyd6KTdIE2wSUJZfxr52cdXz1FsxvjQhZgQhpOzp0Qo7V2bONbrZhNmx2yi0W6N5Bw8slCqySuI9JDdPgZtgWLrZLyQaESzXEB-sk6FJXWnZBbBCUo1W2ckQK8rR4VklHBKfhgSuakcqOQjOwlKTw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1839?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/UOkyaOiH2tOS6VMTKT1t8Hk2Qo5nE1DpvEAyy52Biv-Fxgl05QShc-iPHlmW7yg3xVWecBfxZzr-rUgx_VVYMX9gdPQk-9X-Dj6-1MJFOVeMEwlWw9IfAKqBxofZpPwzyXCsMtlBeASHX5sJG_oxVkeskPtUJt-gM3MZXLSbqTsA0ObwTRfmHl8pJ-tshhubpFclek6_Xju2No3BnqGZLpcZ4wz9yqQKPe5NkZx_mEHeZdHTZSzeUFVV1mkCYcxruhxOnDZIVwGH0lz85b4knjOC_0kzYgQEoG2gWmKG7gIV5IMuDG0hP5J3tNTyPyNEQMuHMryjx1nfao51JtuvLw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1840?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/gQdEIvfWocW4ZHWurphwIFkGUslrjohwRFFYIYljupEtcCksBTZ8dL_4q_djOAyyle0ILsaRPCKgdlhhRtO421y_yPW1ljJyQb3cJgRSfli0z5-bo_j3qFzjJEDa7vUYolNGrZr9wgr1s-eCv_csnogD13ON1H20FhO1KSPrPWRJhzYHVRk7Iyu315WS5a6V44BV7H5XnGdUbrxbgY0JEz4VtaLxZ8xTm1JXY_tvSFpY-ImPOXIJXQcnwCKZgg3r4Qq0gDObpcGSy2Vu3zN3HlH1rJdoEIvX9QbvsRXycP77VcphXq8xZ1GmxxDCevqdWfeVPVGyK6gTzeMcw-1GWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1841?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/d5iTgLdtO5_aj_Tq7H3v_30XoVTRDTkK72StcCpgzywesG0RQDur0rg5piiFUAV8mXXOxjW4DRhgIc7dIUrfeLJG5QppxvPc2FYMcZAoxK1lRfMwrcTLXyGGR5WpyJlCmvjjFnqIi9HxumAv5UNpekKr4ghbhpcpBE0o1bKbssVR_FhxPXpw-0sDy-Fei5aLWeigWh66YcAqhUTE8wrvkmfj9EkbXgfuJ15r-sSr7RH6WbXIkoGvTmwgdm--HQRIo-MbVwi7rmJ7MB3LY64cYY2VX9dfRvSgLE7fSkgRJw0fy-sSJeDFTSYysc3ZM9gr7sNpG2vv0X2BZnYapeHpBg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Принесли праздничный салат из фактов. &lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Факт 1.&lt;/b&gt;&lt;br/&gt;У песни &amp;quot;We wish you a Merry Christmas&amp;quot; есть версия 18+... или даже 21+, если вы из США:  &lt;br/&gt;&lt;blockquote expandable&gt;I wish you a merry Christmas &lt;br/&gt;And a happy New Year,&lt;br/&gt;A pantryful of good roast-beef,&lt;br/&gt;AND BARRELS FULL OF BEER&amp;#33;&lt;br/&gt;&lt;br/&gt;Поначалу её пели во время воселинга, английских колядок с выпивкой — &lt;a href="https://t.me/v_beowulf/1577" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;писали про них в прошлом году.  &lt;/a&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;b&gt;&lt;br/&gt;Факт 2.&lt;/b&gt;&lt;br/&gt;Фанаты науки сегодня такие типа...  отметим NEWTONMAS.&lt;br/&gt;&lt;blockquote expandable&gt;Это реальное слово из словаря. Само собой, в честь учёного, который тоже родился 25 декабря &lt;s&gt;и оставил десяток томов по теологии.&lt;/s&gt;&lt;br/&gt;&lt;br/&gt;Суффикс -MAS и отдельное слово MASS ← от др.-англ. MÆSSE, месса, богослужение. Отсюда:&lt;br/&gt;&lt;br/&gt;• CHRISTMAS – буквально “месса, служба в честь Христа”. &lt;br/&gt;• CANDLEMAS – Сретение&lt;br/&gt;• MARTINMAS и MICHAELMAS — дни поминовения святых&lt;br/&gt;• LAMMAS – праздник урожая, от др.-англ. hlaf – хлеб.&lt;/blockquote&gt;&lt;br/&gt;&lt;b&gt;&lt;br/&gt;Факт 3. &lt;/b&gt;&lt;br/&gt;У британцев подарки приносит Father Christmas.&lt;br/&gt;&lt;blockquote expandable&gt;Эдакий дух радостного Рождества, который появился в 1500-е.&lt;br/&gt;&lt;br/&gt;Толкин писал своим детям письма под псевдонимом Father Christmas 23 года подряд (рис. 2). Сейчас их издают единой книгой.&lt;br/&gt;&lt;br/&gt;В классическом варианте Father Christmas носит зелёную или красную мантию с мехом и венок из остролиста.&lt;br/&gt;В современном — неотличим от Санты. &lt;br/&gt;&lt;br/&gt;Собственно, Санта = английский Father Christmas + голландский Sinterklaas + общехристианский святой Николай Чудотворец. &lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Факт 4. &lt;/b&gt;&lt;br/&gt;Американский Санта — брат слона Республиканцев. &lt;br/&gt;&lt;blockquote&gt;Обоих придумал карикатурист Томас Наст.&lt;br/&gt;&lt;br/&gt;При первом появлении в 1863 году Санта даже носил звёздно-полосатую шубу (рис. 3). При втором — нарядился более привычно (рис. 4). &lt;/blockquote&gt;&lt;br/&gt;&lt;b&gt;&lt;br/&gt;Факт 5. &lt;/b&gt;&lt;br/&gt;Если хотите отправить письмо Санта-Клаусу, &lt;i&gt;пишите на адрес:&lt;/i&gt; North Pole, Canada, H0H 0H0.    &lt;br/&gt;&lt;blockquote&gt;Работники Почты Канады ~50 лет назад обнаружили, что дети массово пишут Санте по адресу &amp;quot;Северный полюс&amp;quot;, и... адрес не найден, письма Санте не доходят, дедушка не отвечает.&lt;br/&gt;&lt;br/&gt;С тех пор деду завели настоящий почтовый индекс H0H 0H0, а больше 11 000 &lt;s&gt;эльфов&lt;/s&gt; волонтёров помогают писать ответы — на том языке, на котором было написано письмо.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Всё. &lt;/b&gt;Всех с Рождеством и полного хо-хо-хо&amp;#33;&lt;tg-emoji emoji-id="5918012016701739818"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E84.png')"&gt;&lt;b&gt;🎄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;a href="?q=%23%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_vb"&gt;#страноведение_vb&lt;/a&gt; &lt;a href="?q=%23tg_only_vb"&gt;#tg_only_vb&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как завещала поэтесса Кэти Перри – &amp;quot;No tears for New...</title>
-    <published>2025-12-23T12:40:53+00:00</published>
-    <updated>2025-12-23T12:40:53+00:00</updated>
-    <id>https://t.me/v_beowulf/1837</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1837"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/v_beowulf/1837" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/v_beowulf/1837"&gt;&lt;img src="https://cdn4.telesco.pe/file/G9NLPdx-nfQRkRv9JbkUcwHwe24ZAz9sqETDJK8cDEC9jXmnwMi-12eiRgm-0Qf71yuwbIcjSxgfYbqI9nwlYL3ZxXuuTcWuwrHKk3NEiYjKblufhf12LP9bO4KvHiaAYBNN_0d7TcDNfe-dCJ-lohuI7dORPTze75-3Qx1-VZPOEWRjY-saQFQUPVkRHQnX0MnopCvODQvAZuoNe8Jl_tG8sAJ-talWo0C4OxAG2tUyukW0AcqFXUHzqzFXQRKIc5pmfpE0tj0Htm15u9Q9IRXpSzjG9uTs1yU9fNm-1Cd_wFW8djXW58eYdxhnU76A8jLiBk-D358-0xinDvFlFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Как завещала поэтесса Кэти Перри – &lt;b&gt;&amp;quot;No tears for New Year&amp;#39;s&amp;quot;&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Итак, не NEW YEAR, а &lt;b&gt;NEW YEAR&amp;#39;S&lt;/b&gt; – новогоднее празднование 31 декабря&lt;b&gt;:&lt;/b&gt;&lt;br/&gt;&lt;blockquote expandable&gt;• &amp;quot;How can I dump this woman on Valentine’s day?&amp;quot;&lt;br/&gt;&amp;quot;I don’t know, you dumped her on &lt;b&gt;NEW&lt;/b&gt; &lt;b&gt;YEAR&amp;#39;S&lt;/b&gt;.&amp;quot;&lt;br/&gt;&lt;br/&gt;• Robin was spending &lt;b&gt;NEW&lt;/b&gt; &lt;b&gt;YEAR&amp;#39;S&lt;/b&gt; with her boyfriend, Derek.&lt;br/&gt;&lt;br/&gt;• I&amp;#39;ll just put it up here, next to the half a Vicodin I was saving for &lt;b&gt;NEW&lt;/b&gt; &lt;b&gt;YEAR&amp;#39;S&lt;/b&gt;.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Откуда, собственно, &amp;#39;S? &lt;/b&gt;&lt;br/&gt;Простая разница:&lt;br/&gt;&lt;blockquote&gt;• NEW YEAR – новый год как период, все 12 месяцев радости и веселья, которые предстоит пережить.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;vs. сами праздники:&lt;br/&gt;&lt;blockquote&gt;• NEW YEAR&amp;#39;S EVE – 31 декабря, канун Нового года;&lt;br/&gt;• NEW YEAR&amp;#39;S DAY – 1 января, первый день Нового года.&lt;br/&gt;Для удобства в речи – просто NEW YEAR&amp;#39;S...&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Логично: &lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;&lt;i&gt;• Happy New Year&amp;#33; &lt;/i&gt;&lt;/b&gt;– желаем счастья на весь год.&lt;br/&gt;&lt;b&gt;&lt;i&gt;• Hands off&amp;#33; That&amp;#39;s for New Year&amp;#39;s.&lt;/i&gt;&lt;/b&gt; – про новогоднюю пати.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;При этом всё-таки не &lt;s&gt;CHRISTMAS&amp;#39;&lt;/s&gt;, а именно CHRISTMAS EVE / DAY. Потому что CHRISTMAS в языке давно работает как прилагательное – &amp;quot;рождественский&amp;quot;. Им и обошлись.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;Между тем до Нового года – 7 дней. Как насчёт подарить близким людям немного английского языка? Наш топ-3 подарков:&lt;i&gt;&lt;br/&gt;&lt;/i&gt;&lt;blockquote expandable&gt;• &lt;b&gt;Стильный подарочный сертификат&lt;/b&gt; в школу Virginia Bēowulf в сувенирном ящичке (&lt;a href="https://beowulf.school/?utm_source=tg&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_campaign=vb_tg&amp;amp;amp;utm_content=tg_post_new_year_s#rec1092057476" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;вот так&lt;/b&gt;&lt;/a&gt; это выглядит) – подойдёт и взрослым, и детям &lt;tg-spoiler&gt;(с этого года мы учим английскому и детей 10-17 лет)&lt;/tg-spoiler&gt;. К слову, такие сертификаты в ящичках часто берут сотрудникам.&lt;i&gt;&lt;br/&gt;&lt;br/&gt;Раз вы нас читаете, то знаете, как мы обучаем: почти 100%, что человеку понравится.&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;• &lt;/b&gt;&lt;a href="https://bookclub.beowulf.school/?utm_source=tg&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_campaign=vb_tg&amp;amp;amp;utm_content=tg_post_new_year_s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Пропуск в английский книжный клуб&lt;/b&gt;&lt;/a&gt; – для тех, кто любит английский и почитать. Тёплая атмосфера, книги, разговоры на английском и неожиданный взгляд на прочитанное...&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Старт: уровень английского C1 – 19 января; B1 и B2 – 2 февраля.&lt;/i&gt; &lt;i&gt;Если вдруг не угадаете с уровнем – не страшно: его легко поменять уже после записи.&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;•&lt;/b&gt; &lt;a href="https://battle4britain.com/?utm_source=tg&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_campaign=vb_tg&amp;amp;amp;utm_content=tg_post_new_year_s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;30-дневная игра&lt;/b&gt;&lt;/a&gt;, которая учит английскому – &lt;b&gt;Battle for Britain&lt;/b&gt;. Понравится друзьям, которые любят нестандартный подход к обучению и готовы интенсивно заниматься. Есть три уровня сложности. Подойдёт даже тем, у кого, как вам кажется, уже офигенный английский.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Старт – 20 января. Держим скидку до 25 декабря, 22:00 MSK. Если что, уровень сложности также можно поменять&lt;/i&gt; &lt;i&gt;после покупки.&lt;/i&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;И да, no tears for New Year&amp;#39;s&amp;#33; C наступающим Новым годом&lt;tg-spoiler&gt;-с&lt;/tg-spoiler&gt;&amp;#33; Как планируете отмечать? Что себе подарите? Или пока не подарите, но очень бы хотели... &lt;tg-emoji emoji-id="5418232833112034075"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"&gt;&lt;b&gt;❤️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Напишите коммент и невзначай покажите этот пост своим significant others.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Парадоксально, но:&#13;
-&#13;
-• 1st AMENDMENT и 1st COMMANDMENT рифмуются...</title>
-    <published>2025-12-21T09:21:24+00:00</published>
-    <updated>2025-12-21T09:21:24+00:00</updated>
-    <id>https://t.me/v_beowulf/1836</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1836"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1836"&gt;&lt;img src="https://cdn4.telesco.pe/file/kMwP1JFiZhuzD85eF9KvWFN7b1LNjwGl90PuPpcgjMq15rDVeZ4zhRffi6ChZqNp3BQW-7RQ1Foh_O--EQ-OyLciouJLsPvgSFQIZPjLLIJ2GuiBsV2viQUhcY58PxE70SBy35ibMQVipRs4b01WpgoFa3u6v9F4n-IDV5KEcGxDqLs0Ag8kBodjdc5QiMumRdyMqUnNxeR0JmAitEv1vlsNJzn3LwkK-1xYExYAE0NbYNVj5dJFGqJ05mxR2VeOJtWEl-kxep_3cet4NjZeq8VUK8Y06jhUvPknbyFehK4bfQiRbk-IvFM4QccBoZ4KKjCPohAmkgcKv0OBGWYGSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Парадоксально, но:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;•&lt;/b&gt; 1st AMENDMENT и 1st COMMANDMENT рифмуются внешне,&lt;br/&gt;• однако противоположны по содержанию.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1-я поправка к Конституции США &lt;/b&gt;запрещает навязывать веру: &lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;•&lt;/b&gt; &lt;i&gt;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.&lt;/i&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1-я заповедь&lt;/b&gt; однозначно утверждает, в кого верить:&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;•&lt;/b&gt; &lt;i&gt;You shall have no other gods before Me.&lt;/i&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Что интересно:&lt;br/&gt;&lt;br/&gt;девиз &lt;b&gt;&lt;i&gt;In God we trust&lt;/i&gt;&lt;/b&gt; на вполне светских долларах США – а вписывается ли он вообще в Первую поправку? Всплывает ли этот вопрос на дебатах &lt;b&gt;&lt;i&gt;1st Amendment vs 1st Сommandment&lt;/i&gt;&lt;/b&gt;?&lt;br/&gt;&lt;br/&gt;Кто что слышал?&lt;br/&gt;С вами была рубрика “Скучный околокультурный офтоп”.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23discussion_vb"&gt;#discussion_vb&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Всё верно: &#13;
-FUN – FUNNER – FUNNEST, &#13;
-а не FUNNY – FUNNIER –...</title>
-    <published>2025-12-19T15:34:59+00:00</published>
-    <updated>2025-12-19T15:34:59+00:00</updated>
-    <id>https://t.me/v_beowulf/1834</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1834"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1834?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/oeD6IiTjZrAGKuH4H5WTZoVVyncyu0wTG7HzxDl3Ycbjn3e0A2teUTq8QZNb9bmoEw98LkD7f_Hbtqi8N8DC8KVsXrW1IsBFMThEpxGUCADg9wFejG8_j7WPNdOaw3rfdEBAnNVECL0yAg5VxdwOPNA6p8Z1tueMjI-cCeDX8Dt4lWY0kjlonrKGmKCcS6KTms12w_PQA6YRVUhRCn6-FUyVL0ha3egERxgoOd-OQNnxzWtmO7rN6VZiFf46ZNcHYnkT_TQ81uGF13xIg1q0U-41NxtDghpwEkUSVix6r0aVLMi1l-zVplw8yMgSNkDEnDf01zfgyfkf8OxkTvU7Ug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1835?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/ui2B-4HclGvPNWJfJ749rdhXO3qrEuEA81euQrLilM1t-Ezwk_Ze2lJB5_2iEf_vcvH9chG_uWWkAEwQOEpauuJ3KkBJ9yfbcBjQwS84buWSyLMSQ34qC1cKBedneqbC4fMOmp_IlimpeLGrl-8YfO3twd14vp-qX0Gx_dQpY8CkvwHsCONDx05vOLjNyMuhMGqMT9cekUQ-TnXpQhRr1sNRa4fDPYeSzOTqsnlEAZkJotdcMsJXelQVqTHn53igu6A3pawyqfeQ8Ij7geWHQS5RLjbJBrRme59u3vaJ8hSlHfFdrrWGuKJqoF65DbyixawEWlWJ3aPzy7-Z5LkGwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всё верно: &lt;br/&gt;&lt;b&gt;FUN – FUNNER – FUNNEST&lt;/b&gt;, &lt;br/&gt;а не FUNNY – FUNNIER – FUNNIEST.&lt;br/&gt;&lt;br/&gt;Сравнительно свежее явление в неформальной речи. Примерно с 60-х стало очевидно – FUN умеет быть прилагательным:&lt;br/&gt;&lt;blockquote&gt;• A bulldozer is one of the &lt;b&gt;funnest&lt;/b&gt; toys a man can have.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;1. Кембриджский словарь согласен, что FUN – в том числе прилагательное. Но примеры даёт, прямо скажем, сомнительные:&lt;br/&gt;&lt;blockquote expandable&gt;• a &lt;b&gt;fun&lt;/b&gt; person, a &lt;b&gt;fun&lt;/b&gt; thing, a &lt;b&gt;fun&lt;/b&gt; evening...&lt;br/&gt;Подозрительно напоминает фразы типа:&lt;br/&gt;&lt;br/&gt;• dog food, a cotton suit, a pajama party, где dog, cotton и pajama – существительные в обёртке от прилагательного (attributive nouns).&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;В степенях сравнения такому FUN словарь и вовсе отказывает – not gradable.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;2. Зато живые примеры из блогов, фильмов и книг уже не дадут соврать. Здесь это чистое прилагательное:&lt;br/&gt;&lt;blockquote expandable&gt;• It’s always &lt;b&gt;funner&lt;/b&gt; to be where the parents aren’t.&lt;br/&gt;&lt;br/&gt;• We both threw up, but it was the &lt;b&gt;funnest&lt;/b&gt; thing I ever did.&lt;br/&gt;&lt;br/&gt;• Rykers are really fun, but my Tesla&amp;#39;s &lt;b&gt;funner&lt;/b&gt;. It is the &lt;b&gt;funnest&lt;/b&gt; car I&amp;#39;ve ever driven.&lt;br/&gt;&lt;br/&gt;• Carbon dioxide produced with beer yeast gives us fun bubbles. But even &lt;b&gt;funner&lt;/b&gt;, it gives us our good buddy alcohol.&lt;br/&gt;&lt;br/&gt;• This is why everyone needs their own Albert. He just makes every day a little bit &lt;b&gt;funner&lt;/b&gt;. He&amp;#39;s eating his sandwich on the freeway.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;3. Кто не готов к подобному катаклизму (как и многие нейтивы), для вас остаётся FUNNY – FUNNIER – FUNNIEST:&lt;br/&gt;&lt;blockquote&gt;• Nothing’s &lt;b&gt;funnier&lt;/b&gt; than golf in Texas.&lt;br/&gt;&lt;br/&gt;Либо FUN как существительное:&lt;br/&gt;• Fighting against language change is &lt;b&gt;fun&lt;/b&gt;.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Как бы то ни было, FUN – FUNNER – FUNNEST – хорошая опция, чтобы оживить свой английский или просто не пучить глаза в изумлении, если нежданно такое услышите.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;Между делом. Приближается НОВЫЙ &lt;tg-spoiler&gt;Баттл&lt;/tg-spoiler&gt;. Кто ещё не там, то зря. &lt;br/&gt;&lt;br/&gt;Возможно, это самый разумный способ быстро, системно и осмысленно продвинуться в английском. Есть три уровня сложности: даже если вы достаточно прошарены – найдёте, чему удивиться и куда подрасти. &lt;a href="https://battle4britain.com/?utm_source=tg&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=tg_funnest&amp;amp;amp;utm_campaign=vb_tg" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Присоединяйтесь, это тут.&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Если что, до 25 декабря держим места со скидкой.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;P. S. И чтобы не стало сюрпризом. Прямо сейчас чуток меняем геймификацию: отказываемся от милитари-обёртки, и в ближайшем потоке уйдём в разведку и секретные миссии — скоро покажем сайт с обновлённым дизайном и новыми смыслами.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">.&#13;
-Новое видео у нас на канале. Можно смотреть.</title>
-    <published>2025-12-18T12:43:15+00:00</published>
-    <updated>2025-12-18T12:43:15+00:00</updated>
-    <id>https://t.me/v_beowulf/1833</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1833"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1833"&gt;&lt;img src="https://cdn4.telesco.pe/file/OVVCktFZNvNchcM4kHMUzdQZ-mdi2snIGiKAz0lNFec6dqJtOxEAAArozHDirgTA8DlHsDGUEAMNGqQvJXk9QOxK5dhZsdgbL3e5emlEZGnPSICbIMtnZbyrxV1NemuPfMNqL1NTZX4vz9vQFci4VFTVi6mROvcsBLv4iEoEqiD4PO6wX0OmWRE6ueCzF4gx8-I5H8svS1OSxiyy7HHS25LW08XdBZocSdeJGT7NxgSF_IAzeIgqZVSKIcPB4hzh8-UqL8FVqAGC3HYVBJC3RpJ1I73Hlibd1f6pPWvg1MBT-t_3xS02VUiuf_D0ZW3jEJXsR-rd0IB_ovnwir4mDw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;.&lt;br/&gt;Новое видео у нас &lt;a href="https://youtu.be/dCGD4oJhGuI" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;на канале.&lt;/b&gt;&lt;/a&gt; Можно смотреть.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Журналы для настоящих мужчин с бицепсами пишут без...</title>
-    <published>2025-12-15T11:11:25+00:00</published>
-    <updated>2025-12-15T11:11:25+00:00</updated>
-    <id>https://t.me/v_beowulf/1832</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1832"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1832"&gt;&lt;img src="https://cdn4.telesco.pe/file/XzxBiEe-2t0pexLrd8bxSrSVMUqBkTV0wIh5SEL4RHP4qCY8e9fxjDqUiVwZeKt2SPDt_DlZ7eA0DVKcENoVis45pUKmqb11bz4KN3-_fpyNiD4gE8KFp0VkVAbLsfv2n0UupQmAiz5c0GlpgnL6b3c-WXdagsh42DgdK29Q-oIJhhk456iGy_8kfvMOrqOqTCp-z2zxhU7GhfrVV0KmNsZF4z3VQU-VuWiU6-EL1jN0Em6Pnw35fDh87JuX2Nufd5Pdb5W1jCeZHKzniO_2hjXqQ_YtqrmQc_IAUTmHFg2rBchPuWYaKfvQBNZjFs4K0GPe8giRT2NVnd2i2jI6nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Журналы для настоящих мужчин с бицепсами пишут без буквы К.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Если вдруг вы пропустили лучшие посты за октябрь-декабрь 2025:&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1763" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;За что англичане ненавидят букву К&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1771" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;...Бицепсы они, походу, тоже недолюбливают&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1765" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Тайный смысл, почему MAGAZINE — это журнал, а не магазин&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1781" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Разрешаем себе говорить FAMILY ARE&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1772" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Кто такой настоящий английский мужчина&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1778" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Чайник долго закипает или долго не закипает? English edition&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1774" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;В Москве – москвичи, а кто в Солт-Лейк-Сити?&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://t.me/v_beowulf/1780" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как назвать кузнеца, который ничего не куёт&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Now, no excuses&#13;
-&#13;
-#инфографика_vb #tg_only_vb</title>
-    <published>2025-12-13T16:34:57+00:00</published>
-    <updated>2025-12-13T16:34:57+00:00</updated>
-    <id>https://t.me/v_beowulf/1823</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1823"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1823?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/B6S_A6aBXCDf3AYgp8luIriIQnUboTUqkeA4sW1ncksOjuG5ObiafttCxDy5JZtx7EslTwVsJCCejxVZVqLSbYPQzIcHzuxdS2oHFJ797InlYFXWHf6LsyjgM-ItKWXvEoxLcJqO4qcdewTBxuVrEgVSd-Vd5vgSw2jc_rV1RXmP-F6kXSICWFn6mLkV18S2BAOEJhmC4mrSMBMcXcsd-zc8CUzJTipf1BAfSiWBbsMCUViPEWyjk7u9hrhmi4DDhR6BCAnFXB5HPrekS2_v4Rkj7ftcYubp4wkXhJ8pQmd8NFzeCt2XNW-y41Mn9CnzXSFRYb0hQQyq6NoMvh9JOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1824?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/evUaHkjj3ZSWR4Hki8d7Mu0-1u3zAXvO9ORxrEHIpi6-ra5F1nHZHlLiUbE1sonmsn85nEu_4UKe9eXJ0TXeTAbw_bzLa8fybcGVkpas_LJRIo7UTI0A_Ytuajfsx0xrB7lcHdf8_hwTI0UoPWd-Arb5_Oo2sS7K3mTMrp8BNtxKd2UCBliFaQn7ijVJRMvoX6CcxWGObD-Fehp3-RPHq4JhnA42V4Asa0Cp_Q9KalZrtJ4CkQa_swrtjwN-mJ1UD-zz0vK04n1KYipiAzlyH2QKVwRdAnsJzgf77amYuurkfQWW17sBubcEHLPdwtuKhhrM9qPcuHyL3EeXpneP5Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1825?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/HfoMB68Bc5vhQC6gwSALO2_bT3W5MtPLmqubABsd0_njGmjTJJJzdTB8tnhNoDbcX1ZLQwFLDfSdjX3bbo3FY2gbTUfOaBrO1JwQLhj9SQYVykeJ--teT5SYScMnUGIaBB4pdR5Qmbn2fkyGvgwvJ124GuEd8Hf8lye6sd3INJmlIQbF3Yu6WvX7imqv1tBbLxydYxpZsxbFVQHEnbxXnbCGmbgrgxbDO31pfPrIXTKpsIYfDD7BwakNz8yhZOaAYWe_Y7O9OC5gVQ67s3V5AjaTZ14L7ejTghUjOG9_g4OH3Ut3eJxoMbDhCXhgey1Uu5YgL3W1y9Q_nRxpwdyyNA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1826?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/mfqwC9_LPaKgNJ8KeEHRpCe0qmjYfxer5Q4j36RwC5_CQ72e8QPumhP0xIAjk5Spxz6ARcS05nN_8iy6_6P2L2Q7qF8VApCUNfWJzuJYnV-AdJv94YaekXPRs_Nq6dfjuzKE5eOy0ZVWgvYpbCBCLb0i--Js4cUwFKDsiXKs_RSuqPYAZWfwNRzn18EE8gqFCqMV1aA32ucv861IJFa9iqaeZ3GVGgpggANvYO0XoFGZVVXXJxrHF_HvuwyQkJMJs9ctOgk9GONuPYxY713GpIXNrXHvqlOcMdg7QcuvTS7Zxxlti19zKMhAUBQuTDt5xIp1ZC4jPlquCc4kSDHy5g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1827?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/uqiDbUrI1Xrum579AQwSfcEt4c1bXOCvWy1N990tcixVouAl2wMTNPKRi0youG1Za1ZImdc5ses25hMY6VpOMwE5vx5Ns79atld9tpVxSmjnT1rTxkJzZ4lMjPhvnGijjAw9FiG_d85ejm9SsZxqfHJnYXQjzD33WewDfFL7Zjvh2OdoEjFj24xsw4d9uZDKfp_JWBy9AQSata3CjK3s36cBzOIDrMQ5hDdbM2kfVLjr6ZAd_fFG15K03vMxNeXMUEt41rjaVeuI_iBaFRR63Gob4u-wXcgkKKL-JVMPDtZ2X8ZmfqUNq_kXYeayHlGv5KCiC5WgOaYko6YzxufdRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1828?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/GklUY7ZyGMVGNkRMWBz4-OdZTUvdnC5acnVzxCFXZndMt5dWyyeuUrVNRty4H-aylgrGgjJ5gBYylK0lq5pYG5ODHHAyZYgNqlvnf4Y_oCb3XW4_RRJheobbwUi06ZL_CePcsXrlIpvQ9xVCBJgNUG7XeWwj9QJ7r1lPpk-dB7mij2TI0nhLyeQmMlmGK_OnUrzmTXGNxi7AcJ-shlX11GNWTwcKXkdpB_8FW0ovhrVfVqS3Jtrf1zIve9cp88wWT3XG93rPxeeEKHnQHvvuiTqzS45JlZf-1Wref6OyRaRK37y3ZeieVa_Wp0DMqReht2MT-ELGSp3LWY-73iXfSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1829?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/UyweixT9cK13bMEcGYjONV7AafUMPUR4vftkOSMVQopCtZYLSHAwIi4UuXcoJ86m5Rg_4j-LL9V6NFLb1wVO5QJk1TtQfjhqloc8fUMATzh15tw27KivoB_YduWFtKDqOslwk17Gv9j25hItADtrl8PUxvza5xTjJ07dZQRVmEJ-boea9Xp1yk3ErGDWh4urXytseu2bH-EdSEOAQ4OdX_gd5X7Qtw61Kc8lIaSfrpogWhksKZx3olb2-P49mx7dbr_A3nIRyI0CI6uTZELCGCzKbMk_3bz5897a4J4T8V8JaOOYzZTQqns3BtAGSWp_O-pGHP91y1kdAI5wxG1iJA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1830?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/O8m8K6tVbvb3hdvvA5jZIAzrrGpS3iMlvxSEnkIaTT8MQ5ylbeGeJGIxqqqpIVP_7cLjUwFuwYTmyEAugbnpWqH7-UK6_MexqJPlXEpLAUpBYNep2PmnnAbJ4jUxbdK_Ym6hnzjNrs8fXWLZw1lc53wFsndr06EKWM-xTUBWVZrTuEG6rKYoKlfgZcYG51LdaO0VT0puYnjSo769zD4ZRGRspudw2NcXLRHPtmg7XbVyI48ns61wHTLGfObkW5DhqxgnWID7Hx0kyvxLPTyFL5GhaNTip6odvEOxVs3hO54YP4U18YtgSY970lYmf2zu0jlnPqEacJDZcvRkAMMl4A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/v_beowulf/1831?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/etY6PoQwt5UbOY3PF9zoZj2GPH2fJBb93t8wiPbcSOONPYNYOqn2qwBlA_wjjszBmEhtAO5ZiUnmtYmWUnOR28EUi81RqG6_bJyEnEY7fhhdqpXhLWXpWzQRFNnx1bYS9L28BtzvuV4b76ZS1MB7mHh29tcLeLU2WzGG4uSjZwJ4GcfqLzF74q_-grZdWg3MiWkfSlRVqtZX-cqczT0vqXY2T_FcaiT8anfFSu3WHLjPyya_heGQv-vpaLweeo1cFfObUW--n7hA5UG2JDzzjJFVwS7XHthcSOcZ_XJN_YmIjlSbzmwGOm6d0852YWjFqw9dwocgDkr056rD_fQpIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Now, no excuses&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23%D0%B8%D0%BD%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0_vb"&gt;#инфографика_vb&lt;/a&gt; &lt;a href="?q=%23tg_only_vb"&gt;#tg_only_vb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В топе поисковых запросов – ЗЛОВЕЩАЯ ДОЛИНА.&#13;
-Не иначе,...</title>
-    <published>2025-12-09T12:56:30+00:00</published>
-    <updated>2025-12-09T12:56:30+00:00</updated>
-    <id>https://t.me/v_beowulf/1822</id>
-    <link rel="alternate" type="text/html" href="https://t.me/v_beowulf/1822"/>
-    <author>
-      <name>Virginia Bēowulf | английский язык</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/v_beowulf/1822"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZxAnU_AHHzH-z2wOmNTS4I3huXn9Fb0ldg4h2OwVp76n_j4Z0lakaL2xy8FuzthfTvI-ueEQIIOfF3ODDxcwvfnJJPwmvd4avVrFrVVl2pQNdoqWoXpJcJHQzZM_rGol1r9Jic92yapmfSEIHEj8kDR1HX8w6cQfQNDpkIm7NhxEllgfXKTS62hNmdmr6NRINs20FWjldWh95042U8QiIOCqdZe0v6ebua54rx15pUoR-a49-PsxcNQui6-nL_N_sRCOsK9XOKvMhhHjR3IgyV9fpVzS1aD5sWEATIFo2_wdcbP_Ya9UZuFJO4Eg4Qme0asDwr2QvyYTYGwtv7B0-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В топе поисковых запросов – ЗЛОВЕЩАЯ ДОЛИНА.&lt;/b&gt;&lt;br/&gt;Не иначе, все резко заинтересовались робототехникой.&lt;br/&gt;&lt;br/&gt;В тему – неожиданные языковые факты:&lt;br/&gt;&lt;blockquote&gt;1) о зловещем;&lt;br/&gt;2) о долинах.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Давайте о фразе &lt;b&gt;UNCANNY VALLEY&lt;/b&gt;. На всякий случай:&lt;br/&gt;&lt;blockquote&gt;• Эффект “зловещей долины”, англ. &lt;b&gt;UNCANNY VALLEY&lt;/b&gt; – резкое падение симпатии к роботу, как только его внешность начинает сильно напоминать человеческую, но всё ещё сохраняет искусственные черты; и резкий взлёт симпатии, когда внешность робота полностью неотличима от человеческой. Картинка с графиком, как это происходит – сверху ↑&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;1. Слово &lt;b&gt;UNCANNY&lt;/b&gt;, &lt;i&gt;зловещий, необъяснимый, жуткий&lt;/i&gt; – классика необъяснимой жути.&lt;br/&gt;&lt;blockquote&gt;Казалось бы: есть английское &lt;b&gt;CANNY&lt;/b&gt; – &lt;i&gt;умный, проницательный; осмотрительный&lt;/i&gt;. &lt;br/&gt;&lt;br/&gt;Есть приставка &lt;b&gt;UN-&lt;/b&gt;. Обычно она переключает плюс на минус: happy – unhappy, able – unable, usual – unusual. &lt;br/&gt;&lt;br/&gt;Выходит, &lt;b&gt;UN-canny&lt;/b&gt; – НЕ-умный и НЕ-осмотрительный: глупый; беспечный. &lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Когда-то давно так и было:&lt;br/&gt;• &lt;b&gt;CANNY&lt;/b&gt; ≈ знающий, предусмотрительный; &lt;br/&gt;• vs &lt;b&gt;UNCANNY&lt;/b&gt; ≈ не знающий, беспечный.&lt;br/&gt;&lt;br/&gt;Но увы, не сегодня… БЕСПЕЧНАЯ ДОЛИНА – это во всех смыслах неправильно.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;··················&lt;/i&gt;&lt;br/&gt;2. Та впадина на графике зловещей долины – больше похожа на каньон. Почему вдруг она, собственно, &lt;b&gt;VALLEY&lt;/b&gt;, &lt;i&gt;долина&lt;/i&gt;?&lt;br/&gt;&lt;br/&gt;Потому что каньон – подвид долины. Технически почти любая впадина – долина:&lt;br/&gt;&lt;blockquote&gt;• &lt;b&gt;VALLEY&lt;/b&gt; – долина в самом общем смысле; низина меж возвышенностей.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Широкие долины:&lt;br/&gt;&lt;blockquote&gt;• &lt;b&gt;VALE&lt;/b&gt; – широкая открытая долина;&lt;br/&gt;• &lt;b&gt;STRATH&lt;/b&gt; /stræθ/, шотл., ирл. – широкая и плоская долина реки. Может быть лугом.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Узкие долины:&lt;br/&gt;&lt;blockquote&gt;• &lt;b&gt;CANYON / GORGE&lt;/b&gt; – каньон, ущелье;&lt;br/&gt;• &lt;b&gt;RAVINE&lt;/b&gt; /rə&amp;#39;vi:n/– очень узкий каньон; глубокая узкая долина с отвесными стенами и растительностью;&lt;br/&gt;• &lt;b&gt;GULCH&lt;/b&gt; /ɡʌltʃ/– американская узкая равнина-проход.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Маленькие долины:&lt;br/&gt;&lt;blockquote&gt;• &lt;b&gt;DALE&lt;/b&gt;, &lt;b&gt;DEAN&lt;/b&gt;, &lt;b&gt;DENE&lt;/b&gt; /di:n/ – небольшие долины;&lt;br/&gt;• &lt;b&gt;HOLLOW&lt;/b&gt; – долина в горах, хотя бывают вариации;&lt;br/&gt;• &lt;b&gt;GLEN&lt;/b&gt; – кельтская горная долина в Шотландии и Ирландии, обычно с речкой или ручьём;&lt;br/&gt;• &lt;b&gt;DELL&lt;/b&gt;, &lt;b&gt;DINGLE&lt;/b&gt; – лесистая долина.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;И остальные:&lt;br/&gt;&lt;blockquote&gt;• &lt;b&gt;ARROYO&lt;/b&gt;, от исп. “ручей” – американская сухая долина; например, где-нибудь в Нью-Мексико.&lt;br/&gt;• &lt;b&gt;CORRIE&lt;/b&gt; /&amp;#39;kɒri/, &lt;b&gt;CIRQUE&lt;/b&gt; /sɜ:(r)k/, они же &lt;b&gt;CWM&lt;/b&gt; /kʊm/, &lt;b&gt;COOMB&lt;/b&gt; /ku:m/, &lt;b&gt;COMBE&lt;/b&gt; /ku:m/ – долина-кар, чашеобразная впадина в горах, с ледником или рекой на дне; или котловина-амфитеатр, она же ледниковый цирк.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;На цирке закончим. Всем спасибо.&lt;br/&gt;&lt;a href="?q=%23%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_vb"&gt;#история_vb&lt;/a&gt; &lt;a href="?q=%23%D0%B2%D0%BE%D0%BA%D0%B0%D0%B1%D1%83%D0%BB%D1%8F%D1%80_vb"&gt;#вокабуляр_vb&lt;/a&gt; &lt;a href="?q=%23tg_only_vb"&gt;#tg_only_vb&lt;/a&gt;&lt;/div&gt;</content>
+    <title type="html">Bridge returned error 0! (20448)</title>
+    <published>2025-12-26T09:31:20+00:00</published>
+    <updated>2025-12-26T09:31:20+00:00</updated>
+    <id>urn:sha1:89a2ff4495dde67ec9cf38d103a06ae3a3886cf3</id>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@v_beowulf"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Recv failure: Connection reset by peer: 35 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://t.me/s/v_beowulf        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 185        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(73): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(39): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(37): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(37): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(37): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(37): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(37): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(37): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(34): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): TelegramBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/TelegramBridge.php(56): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(176): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(104): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(185)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Telegram&amp;amp;format=Atom&amp;amp;username=@v_beowulf    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-08-05    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.29    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Telegram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Telegram+Bridge+failed+with%3A+cURL+error+Recv+failure%3A+Connection+reset+by+peer%3A+35+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fv_beowulf&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Recv+failure%3A+Connection+reset+by+peer%3A+35+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Ft.me%2Fs%2Fv_beowulf+in+lib%2Fhttp.php+line+185%0A%0Aindex.php%2873%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2839%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2837%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2834%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+TelegramBridge-%3EcollectData%28%29%0Abridges%2FTelegramBridge.php%2856%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28176%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28185%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DTelegram%26format%3DAtom%26username%3D%40v_beowulf%0AVersion%3A+2025-08-05%0AOs%3A+Linux%0APHP+version%3A+8.2.29%0A%60%60%60%0AMaintainer%3A+%40VerifiedJoseph&amp;labels=Bridge-Broken&amp;assignee=V" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    VerifiedJoseph&lt;/p&gt;</content>
   </entry>
 </feed>
