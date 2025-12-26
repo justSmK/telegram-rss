@@ -25,7 +25,9 @@ jobs:
       - name: Start RSS-Bridge container
         run: |
           docker rm -f rss-bridge || true
-          docker run -d --name rss-bridge -p 8080:80 rssbridge/rss-bridge
+          docker run -d --name rss-bridge -p 8080:80 \
+            -v "${GITHUB_WORKSPACE}/config:/config" \
+            rssbridge/rss-bridge
 
           READY=false
           for i in {1..20}; do
@@ -45,6 +47,8 @@ jobs:
             exit 1
           fi
 
+          docker exec rss-bridge ls -la /config
+
       - name: Generate feeds from Telegram channels
         run: |
           mkdir -p out
@@ -58,6 +62,7 @@ jobs:
 
             SAFE_NAME=$(echo "$CHANNEL" | tr -d '@')
             URL="http://localhost:8080/?action=display&bridge=Telegram&format=Atom&username=${CHANNEL}"
+            TMP_FILE="out/${SAFE_NAME}.xml.tmp"
 
             echo "Fetching ${CHANNEL} -> out/${SAFE_NAME}.xml"
 
@@ -65,14 +70,24 @@ jobs:
 
             for attempt in 1 2; do
               if curl -fsS \
+                   --max-time 30 \
                    -A "Mozilla/5.0 (compatible; TelegramRSSBot/1.0; +https://github.com/justSmK/telegram-rss)" \
                    "$URL" \
-                   -o "out/${SAFE_NAME}.xml"; then
-                echo "OK: ${CHANNEL} (attempt ${attempt})"
-                success=true
-                break
+                   -o "$TMP_FILE"; then
+                if [ -s "$TMP_FILE" ] \
+                  && grep -Eq '<\?xml|<feed\b|<rss\b' "$TMP_FILE" \
+                  && ! grep -Eq 'Bridge returned error|cURL error|HttpException|Trace|&lt;div class="error"|class="error"' "$TMP_FILE"; then
+                  mv "$TMP_FILE" "out/${SAFE_NAME}.xml"
+                  echo "OK: ${CHANNEL} (attempt ${attempt})"
+                  success=true
+                  break
+                else
+                  echo "INVALID: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
+                  rm -f "$TMP_FILE"
+                fi
               else
                 echo "FAIL: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
+                rm -f "$TMP_FILE"
                 # небольшая пауза перед повтором
                 sleep $((5 * attempt))
               fi
