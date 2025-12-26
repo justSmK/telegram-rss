@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-26T19:18:51+00:00</updated>
+  <updated>2025-12-26T20:25:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 https://t.co/fTdbgUDvMM</title>
+    <published>2025-12-26T20:07:27+00:00</published>
+    <updated>2025-12-26T20:07:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25611</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25611"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 &lt;a href="https://t.co/fTdbgUDvMM" target="_blank" rel="noopener"&gt;https://t.co/fTdbgUDvMM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;&lt;img src="https://cdn4.telesco.pe/file/R1rNpDRYc4Q4i8-GPVsaQJzygXqF7_UU2XAnodWdadRZ8-JCnXHMc9oZjV1zr_7ln5SkcrVuPM-iS65qe5FTcidVHVGM7XqRMDVB9DgKgk6eh9j-ILrTnHfXNERMMJfc_zWQzc4WAAc_9GeFz8Wo8pXB2rBKzAkXLHuuBY0oPDPVO-W-FJoIC672cnJTqEf9gw-8WiZxqTtrG0dypPd0ZKBhHCD035Lz9hXNN_ur5tcb2zDQaekOU3dHULEAfpKsbQuEbtn4H9KMwHfka_3o18mCogBox9sWrbU9cpHjP65y0GmZz4k-TMZhynsHAZK2ZjHJuv66n5gTiNq5hxkLbQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;
+Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I&amp;#39;m going to show how to create a draggable floating window panel which allows us to drag and drop the image file just like Native macOS Screenshot app using SwiftUI.&#13;
+SwiftUI Floating Window | SwiftUI WindowGroup | SwiftUI macOS…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : tisfeng/Easydict https://t.co/CiWM8KWpSJ</title>
     <published>2025-12-26T02:07:21+00:00</published>
@@ -91,7 +105,7 @@ Understanding SwiftUI&amp;#39;s Grid container - Tanaschita&lt;/a&gt;&lt;br&gt;S
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/VYHsqH1Vh6MElaiMyCNwuGoBonBaj3zIMvb-ABXqg1T_oAkEfJe8h36XjCC0tYbS5WKuiK-lUC73JFJE8yjvUzuHJEbL_qJOUoBrak43nCU49f5dc0xXlw8iULOu8R8n1MzttK_oF78bsGmK8cv4iTiIFnKzKuX5PF5zHoluGPvWDjPrbc1m6tu4iRa6gdSmsNw_GIazyeXezc_Ao4suk_0TSVDazTk3IM0w08wsKvql31vJGtSoeH61gsjTSCIgfIt9skxTtnSLRmWjv29-30yJpDCam-HIqKXCDw4AOtDXL9ZWjI5aAX2oidpS5p3xlhMXBK0aNlNL6Skop9TWiA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/JMTGqDgFr1v_DsskSxhJhaILXyqQVzfZjPAJZiAU4dEx9ChIxI3HpyWJ165SY-Acff0OJTvER0w2RQM-F53a01nvpuydB7DkBSiMqEQPy0YbKh1QB51c4p_weITtLdWbmJdJwBPrEXM5f24nT1RV80Og4FI6D8pFhN_gkd7AH5MqBmQQRyshmFXdRRX94sCo_s8E7gu3oSRch1VdxlQLkzT-i9SDPylKNGA1y6NgWvg1i7kGpUmNu-t8kqwjzX-POlnMYFqPanpbsFi_O5iMF1rVFDpYqyAjnyefTXhmwffwb2EKRnfcC9kWy5Vk4NIQMIEi5cF35MClGo0lrWarqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
 SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;m going to show how to create a custom carousel with page curl metal shader effect using SwiftUI.&#13;
 SwiftUI Page Curl | SwiftUI Page Curl Carousel | SwiftUI Custom Carousel | SwiftUI Metal Shaders | SwiftUI Layer Effect | SwiftUI…&lt;/blockquote&gt;</content>
@@ -239,17 +253,5 @@ GitHub - michaeltyson/TPKeyboardAvoiding: A drop-in universal solution for movin
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swisspol/GCDWebServer &lt;a href="https://t.co/9tZtgJ9Gzc" target="_blank" rel="noopener"&gt;https://t.co/9tZtgJ9Gzc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;&lt;img src="https://cdn4.telesco.pe/file/lJSIzARY5fIP0v0kkj7xa-Ceim1yxwdgO7tlOvUR2ju-gV1Zct5Fj6xNlB6u05VOrfSJ0nVnKidxq-YF4DO3HCg5LjYyYbOf5yDLNvDMe9YTWo7Fr0cqEBTVuTEtx0LZPDS21NZniAbngAMJh3m2XK0RwSlpXhJG2K05OTyV-8m1HIWFjVPeh_tZgwHGK6Z0Hv_9_dQScmyB2OKSReluZnGxVtZR0bmlqZepEJqLVymg_ht5WDHY8SHouJnwbGDinIzmdeEX8Bd7TkoVybpY8cpNblCVLrRKW-GT0CZaOouC_sbWRd3xi9xRKiuWaeQdzpCpS-CLLVDMYqiR4Y9LaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9tZtgJ9Gzc"&gt;
 GitHub - swisspol/GCDWebServer: The #1 HTTP server for iOS, macOS &amp;amp; tvOS (also includes web based uploader &amp;amp; WebDAV server) - GitHub&lt;/a&gt;&lt;br&gt;The #1 HTTP server for iOS, macOS &amp;amp; tvOS (also includes web based uploader &amp;amp; WebDAV server) - swisspol/GCDWebServer&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : utmapp/UTM https://t.co/YF9yWJmcqI</title>
-    <published>2025-12-23T02:07:27+00:00</published>
-    <updated>2025-12-23T02:07:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25591</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25591"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : utmapp/UTM &lt;a href="https://t.co/YF9yWJmcqI" target="_blank" rel="noopener"&gt;https://t.co/YF9yWJmcqI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;&lt;img src="https://cdn4.telesco.pe/file/Siid10kBOXXsH7MRgFnW91igkhuLJr1JhtdWGMVb1whHUszptFdlZ56q4Pk9tVly04U3ADZMVIFIL34_RReaIDLSXPTtqNj2oA2daarchP7MZRTFmrOak3CGSwqQ-7HOriF94cLH015CNWXB6kXlvraqaZORCRrep9PRn1ISoZQM_TTUzMlHBf-uLprXNLb69lGUN2xOhp-V2oZxzFkTb1-1MAYm_G1uvaavwvyyIjHyckraolYTeNMA-Ndi2_2xll8gxsCbqXDXIThsNKNGOORNW85i2UpyWTJYVyXQbzR5VijBbF15EZXivVvUAGJOJZoDC6Fgco7kXB2VmpOIVg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YF9yWJmcqI"&gt;
-GitHub - utmapp/UTM: Virtual machines for iOS and macOS - GitHub&lt;/a&gt;&lt;br&gt;Virtual machines for iOS and macOS. Contribute to utmapp/UTM development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
