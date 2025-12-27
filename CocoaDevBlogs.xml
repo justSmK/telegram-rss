@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-27T19:18:14+00:00</updated>
+  <updated>2025-12-27T20:25:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -31,7 +31,7 @@ GitHub - whoeevee/EeveeSpotifyReborn: A tweak to enhance Spotify experience - Gi
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 &lt;a href="https://t.co/fTdbgUDvMM" target="_blank" rel="noopener"&gt;https://t.co/fTdbgUDvMM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;&lt;img src="https://cdn4.telesco.pe/file/R1rNpDRYc4Q4i8-GPVsaQJzygXqF7_UU2XAnodWdadRZ8-JCnXHMc9oZjV1zr_7ln5SkcrVuPM-iS65qe5FTcidVHVGM7XqRMDVB9DgKgk6eh9j-ILrTnHfXNERMMJfc_zWQzc4WAAc_9GeFz8Wo8pXB2rBKzAkXLHuuBY0oPDPVO-W-FJoIC672cnJTqEf9gw-8WiZxqTtrG0dypPd0ZKBhHCD035Lz9hXNN_ur5tcb2zDQaekOU3dHULEAfpKsbQuEbtn4H9KMwHfka_3o18mCogBox9sWrbU9cpHjP65y0GmZz4k-TMZhynsHAZK2ZjHJuv66n5gTiNq5hxkLbQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 &lt;a href="https://t.co/fTdbgUDvMM" target="_blank" rel="noopener"&gt;https://t.co/fTdbgUDvMM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;&lt;img src="https://cdn4.telesco.pe/file/b4qdw499bw0dKKwm6lKgjCF3I9mbFwnfHKHYk_4Dakdi7WbnwgEZIcF8n75Iy3Ghg8mqpJHioR25cKAP0CMOInvb5-TAwXhFG8b8krR1cY7hb-Cxvo3YtLZGwfxYozqv0RhJPW9LEua2OvmFIx6jMAE2-8APxShdjdCqONHZm2J9hH9rtd-0cH2WUbaI0SmTTXywtNd9j7BJC0fbXT7aRlFHbzGJdh6dV0p3rFT8_3w3pr7p-Us5w7dEu5FFgZSuvVprUMR--ikUSYLFFlNEG8k0PHFnDTa4RmLJ_56v-BbDrD5NU497sgDzYLB2T1UZ0XkmCevopQ-6VLewaHcS4w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;
 Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;m going to show how to create a draggable floating window panel which allows us to drag and drop the image file just like Native macOS Screenshot app using SwiftUI.&#13;
 SwiftUI Floating Window | SwiftUI WindowGroup | SwiftUI macOS…&lt;/blockquote&gt;</content>
@@ -117,7 +117,7 @@ Understanding SwiftUI&amp;#39;s Grid container - Tanaschita&lt;/a&gt;&lt;br&gt;S
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/JMTGqDgFr1v_DsskSxhJhaILXyqQVzfZjPAJZiAU4dEx9ChIxI3HpyWJ165SY-Acff0OJTvER0w2RQM-F53a01nvpuydB7DkBSiMqEQPy0YbKh1QB51c4p_weITtLdWbmJdJwBPrEXM5f24nT1RV80Og4FI6D8pFhN_gkd7AH5MqBmQQRyshmFXdRRX94sCo_s8E7gu3oSRch1VdxlQLkzT-i9SDPylKNGA1y6NgWvg1i7kGpUmNu-t8kqwjzX-POlnMYFqPanpbsFi_O5iMF1rVFDpYqyAjnyefTXhmwffwb2EKRnfcC9kWy5Vk4NIQMIEi5cF35MClGo0lrWarqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/XeW7U5KUVJxP2wpqsB8pKQbKZLUQjxDZ1rsbAY0UpWIeTnaBZuqMzrdZ0H087IcxqSCkYNnYnX7mFPuNXq_8DeXl4t2K9NLoZabBCkqEBek83ts9syYEs_PrxDFg8-NPVZmywtHOAwOrBlAGUCVptR8UYr_t66Auc8GOY3IfdJOu1yCUf9j91ykC6khcWedteG8PoFJAfjp78damUVZU7-4jCn71hqHW9aciUzKfB-GAnkVO_irOTUti3EnFTQpMRpMUP_QxadXszCQSfKL-ctMxkt-fjyiac16ZghhLAgqqv1K_q3_lSLi_phwCjk0t_D4OXqXhxwafZVytFb2F3A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
 SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;m going to show how to create a custom carousel with page curl metal shader effect using SwiftUI.&#13;
 SwiftUI Page Curl | SwiftUI Page Curl Carousel | SwiftUI Custom Carousel | SwiftUI Metal Shaders | SwiftUI Layer Effect | SwiftUI…&lt;/blockquote&gt;</content>
