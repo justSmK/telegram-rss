@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-27T13:30:49+00:00</updated>
+  <updated>2025-12-27T14:21:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -20,12 +20,14 @@
       <name>iOS.Devs</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой видеоматериал на 50 минут, где автор рассказывает, какой воркфлоу собрал для работы с AI в Xcode&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=o4iKnSYlhBQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/dyWJL-vXXGrlh2zDsL1x8iiKmBdTlH6LOw8ORnd8ikPUMAmg2fvddUQKpTfNUUxC6eGYXNGyO1r70Up0O8qIrQYEbWUrKmr7l-J80bf5MPASYrWTjcgPOTiy4on5Idvs6bHu-tGK7933nIC7KmNgSSeVnlkVTKNKbA31n-NrTpVejTG3Lr6s1nvEaee36dt3d19ZLw-ilxHzlQUaLOTa2y6V4Vsn9m-pokCG_cRZ9gjI60n-JUZCQSHKOjpnT-IgrH9iWGtqp59QCYLma83mIohdyJvboA81P-bLSa5bx5zJEdkYmV6hvEs_pHSrXHKfbnlW_0aVaePi3foaz5vesQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;
-How I use Codex GPT 5.2 with Xcode (My complete workflow) - YouTube&lt;/a&gt;&lt;br&gt;❌ Stop wasting time on dumb build errors. &#13;
-Leverage 3 tips to keep your iOS/macOS builds green ✅. Your agent needs to have eyes to see what is happening in your app to be productive. &#13;
+How I use Codex GPT 5.2 with Xcode (My Complete Workflow) - YouTube&lt;/a&gt;&lt;br&gt;3 workflow tips to keep your iOS/macOS builds green ✅. Your agent needs to have eyes to see what is happening in your app to be productive. &#13;
 &#13;
 1. Build Scripts&#13;
 2. Make Build Failures Obvious&#13;
-3. Give Your Agent Eyes…&lt;/blockquote&gt;</content>
+3. Give Your Agent Eyes&#13;
+&#13;
+LINKS&#13;
+1. Peekaboo (agent &amp;quot;eyes&amp;quot;): https…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">Небольшой материал о том, что исправлять в...</title>
