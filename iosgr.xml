@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-27T23:21:53+00:00</updated>
+  <updated>2025-12-28T02:05:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -294,7 +294,7 @@ What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;A
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Обзор AnyLanguageModel&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я уже рассказывал про новую библиотеку AnyLanguageModel от HuggingFace, которая позволяет заменить локальные модели от Apple вообще на любые другие опенсорсные варианты.&lt;br/&gt;&lt;br/&gt;Держите статью с более подробным ее разбором и планами на будущее.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;&lt;img src="https://cdn4.telesco.pe/file/IcC52tuildwFYSQIw8uKo7KKuUrm3dK5YaAIyK9jd5MByIBAe5QoZUx1UOP6tB0ejjYAgFpzJd3a1S3p0fJSghFF_BQXKWqBOZAuUS_lSsXCKzEEVrEwMcRg4i0_SERXbR18Tn38Hlcm3qVYNVfLKnCa2mPX8j-F2GUdxgFj-GBqlBvG7DABwzULorpjKWe5yPxP-grKZfRWqbGEPb8t5ZOtLxW-UviwzYEtfg-iCabX1-ansDH1onsY5PZhzGV6qMKxucHeNBUdam9bKS9Fh9Efvntvm1JAkMfH3jm64Z3VkgAh9Gsg9SLwfpKRVQL6dwJcCmCpknzZQDdhxLih-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Обзор AnyLanguageModel&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я уже рассказывал про новую библиотеку AnyLanguageModel от HuggingFace, которая позволяет заменить локальные модели от Apple вообще на любые другие опенсорсные варианты.&lt;br/&gt;&lt;br/&gt;Держите статью с более подробным ее разбором и планами на будущее.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;&lt;img src="https://cdn4.telesco.pe/file/JHDSbGofkPqKHmi-MoII0uZvpF5-qNEiyituZVaNwqDL7DtSLR0tQF8tLGhtugUEVhCURSvF0ohKPnUyX-UYA_icKYsgLbVpOS2lgSRugVe_Ac4yY-UhLjTdANDtIwRxy5JE3IjkzIoZZViDYdA9KAtK0c-huiA6scrAWJ8DHrA12TvGoLPXaM277Mk4LCoA3iXK98KysoGsAC8-FRSrN9TIna2cP-LtwFjyPlIlLhlHUWbF-krEYBwWXUO2rmhdejjWb8XIxAunlhAIO7az3qZRHfOHyN208YFDCX6XOvt0zrkSYpLX9JNxEzXjJDQHBkTSmYYZI5y1yNZv9vPtCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;
 Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms - huggingface.co&lt;/a&gt;&lt;br&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
