@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2025-12-29T05:31:55+00:00</updated>
+  <updated>2025-12-29T06:40:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Fucking Approachable Swift Concurrency&#13;
+&#13;
+Еще одна попытка объяснить...</title>
+    <published>2025-12-29T06:05:20+00:00</published>
+    <updated>2025-12-29T06:05:20+00:00</updated>
+    <id>https://t.me/iosgr/4568</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4568"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Еще одна попытка объяснить базовые ментальные модели за Swift Concurrency, в том числе, как работает изоляция, на простых примерах кода и пончтных метафорах.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
+ - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как устроен NSVisualEffectView&#13;
 &#13;
@@ -282,19 +296,5 @@ What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;A
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Доходы от App Store — это результат вашей экспертизы, инвестированного времени и развития продукта. Но доступ к этим доходам часто сопровождается ограничениями, бюрократией и неудобными процессами, которые тратят ресурсы команды.&lt;br/&gt;&lt;br/&gt;Dev.Cab помогает студиям и разработчикам упростить финансовую сторону работы с App Store и сфокусироваться на продукте, а не на борьбе с платежной инфраструктурой.&lt;br/&gt;&lt;br/&gt;Мы выстраиваем удобный процесс приёма и распределения поступлений, который делает финансовую часть стабильной и предсказуемой.&lt;br/&gt;&lt;br/&gt;Что даёт работа с Dev.Cab:&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; Прозрачные комиссии, без скрытых условий&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; Понятная и структурированная схема поступлений&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; Удобное управление средствами, в том числе для команд и издателей&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; Поддержка и сопровождение, когда нужно быстро решить вопросы&lt;br/&gt;&lt;br/&gt;Dev.Cab создаёт комфортный финансовый контур вокруг вашего бизнеса в App Store — чтобы вы могли работать спокойно и масштабироваться без лишних рисков.&lt;br/&gt;&lt;br/&gt;Подробнее и консультация → &lt;a href="http://dev.cab/" target="_blank" rel="noopener"&gt;dev.cab&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Реклама. ИП Чернов, ИНН 691007481228, erid: 2SDnjeu5vW3&lt;/i&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Обзор AnyLanguageModel&#13;
-&#13;
-Я уже рассказывал про новую...</title>
-    <published>2025-12-08T06:04:24+00:00</published>
-    <updated>2025-12-08T06:04:24+00:00</updated>
-    <id>https://t.me/iosgr/4548</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4548"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Обзор AnyLanguageModel&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я уже рассказывал про новую библиотеку AnyLanguageModel от HuggingFace, которая позволяет заменить локальные модели от Apple вообще на любые другие опенсорсные варианты.&lt;br/&gt;&lt;br/&gt;Держите статью с более подробным ее разбором и планами на будущее.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;&lt;img src="https://cdn4.telesco.pe/file/YajTFZ8AL6a14z2y4c_QihgORyybDGVFNyGw4Pk4iTl1lEVcjGm78_sXJUcRvMivUbVVLCGXEMQ-6cxSTDnDoVm2qaEmUqel_s60fKNsDlp_Rs8DQpOAVV-5ei9c7QvUq80hwcFQETVUukZfGAP0Owg2ahq1Z2XZ7XqbQ8yWIIjcA41V5nKghYqti5Y8kLYp84Unfn0v5oh2NAaRfaKg0aB_2iGw9CLH9ZRiuOdL6upNInmfD_5wCVqq7a-veaCVJJOAkv7MxoXJ3_94Ujzg37I8c6LpXQFlCMReu3ZLK7pLQ6Hb6RAY2w-9hoWLbrulQfCv0VnOrar0a1HY5HqvKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel"&gt;
-Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms - huggingface.co&lt;/a&gt;&lt;br&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
