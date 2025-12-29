@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-29T10:27:16+00:00</updated>
+  <updated>2025-12-29T11:22:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftLee in 2025: A full year as an indie developer https://t.co/hlm2nuHl47</title>
+    <published>2025-12-29T10:47:30+00:00</published>
+    <updated>2025-12-29T10:47:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25624</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25624"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftLee in 2025: A full year as an indie developer &lt;a href="https://t.co/hlm2nuHl47" target="_blank" rel="noopener"&gt;https://t.co/hlm2nuHl47&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hlm2nuHl47"&gt;&lt;img src="https://cdn4.telesco.pe/file/DUM349IjhkC--iGs7ZHl0aZKdTSKlhN4oLE3QSIJtYcmD6q8drmizhSWPL0VP0e6E4vd-SYbLv9xoRGjLzBVFHNepSm1-tv5SsB6qNkdnpGiz0me7OchvWuz2m5ozZ49RvC1jOIZt4jeEUpe21NayFnaPmhdBoX2GsD6BLfTYHxhTruiAen4nhrqS7jEb5cDhHF4HxFd4RM0qLRkXAlqD0OroKAL1rLtlcykAIuTkW4PMkmaQYhQBGKQOM4F6bippSMfZQZVSY1VCm0BSC7FZnFEhDhP_6O6FUaMYHvoa06nTZ0KntrbNO6u8gXbOFs5dWw-h3DBcoAlBDdHbWWiag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hlm2nuHl47"&gt;
+SwiftLee in 2025: A full year as an indie developer - SwiftLee&lt;/a&gt;&lt;br&gt;Reflecting on SwiftLee 2025: milestones, independence, and a transformed approach to app development.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to use Claude Code https://t.co/iHlVnD26pO</title>
     <published>2025-12-29T06:47:52+00:00</published>
@@ -245,19 +257,5 @@ GitHub - openid/AppAuth-iOS: iOS and macOS SDK for communicating with OAuth 2.0 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding SwiftUI&amp;#39;s Grid container &lt;a href="https://t.co/uRMS4JyQDy" target="_blank" rel="noopener"&gt;https://t.co/uRMS4JyQDy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;&lt;img src="https://cdn4.telesco.pe/file/rBbqvTyvolZ141glXDeBQmAHweCDRidTFu5ouNuzZ8z58NRnDisoPEirGhDDtCzDV5_ZhtWagSvirh-dsJZrM_vnk8afE5YnNjbsUxDWnjqwmeBhpEBfGqsmpPr6huojK3HkLujUM8UZXUgTiWjkSFeroMhNGwpSNI6zGKUiWr_qNDyceV1DoI8UPR1JnpQQGX8TG3cWYkX-1Nd9qQkzKlH70V2oiVlA5OV3J6ERr8AMZKaWfPs2Boo9nudCmZcFYHbMSjyYCz0kzsls0yutu8oPBO9lPVLiHw0H1ETiRb192t8L46jU5T2-5qIpJEo0fIDIb99Sm2NCBnuYwi_81A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;
 Understanding SwiftUI&amp;#39;s Grid container - Tanaschita&lt;/a&gt;&lt;br&gt;SwiftUI’s Grid container lets us arrange content in rows and columns without manually nesting stacks. In this article, we walk through how the grid works, how to structure rows and cells, how spacing and alignment behave, and where the limitations are—especially…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 https://t.co/bgcRhHRfBa</title>
-    <published>2025-12-24T19:57:11+00:00</published>
-    <updated>2025-12-24T19:57:11+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25604</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25604"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 &lt;a href="https://t.co/bgcRhHRfBa" target="_blank" rel="noopener"&gt;https://t.co/bgcRhHRfBa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;&lt;img src="https://cdn4.telesco.pe/file/TJCnv0NYL_dle6pBL1iLA8WjTM6nqjFOxwhcqvYyKkgPN5vYhIpRFphGZuvp8alTge1JicCw2j1AaIUL0nOs4ww-viJz6uxIS_iz65U_3ztc1SZdLDeqxzg1c1fmysU0qaLnYuRnBsX8jCUZE0fKtR0NcrLotwlqS3jtwCAa6T3k747pzabIMXUJpUNRbji-2JgrE8CbswaVTvKaNfcw4PAmEm5-hCqRxMLAKkrl3LgzAkmHZuPiMqCo-u2_l7GmrUDnPCcRNwWelKDSSSoGdtehaRzMHdbSQhqU_ick8Yu_qUoDu1PnIThNheauOkBSD9TQtq4tv2zbCQi4tiucDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bgcRhHRfBa"&gt;
-SwiftUI Page Curl Carousel - Metal Shaders - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I&amp;#39;m going to show how to create a custom carousel with page curl metal shader effect using SwiftUI.&#13;
-SwiftUI Page Curl | SwiftUI Page Curl Carousel | SwiftUI Custom Carousel | SwiftUI Metal Shaders | SwiftUI Layer Effect | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
