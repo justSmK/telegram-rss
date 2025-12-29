@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-29T22:22:55+00:00</updated>
+  <updated>2025-12-29T23:22:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -255,7 +255,7 @@ GitHub - openid/AppAuth-iOS: iOS and macOS SDK for communicating with OAuth 2.0 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding SwiftUI&amp;#39;s Grid container &lt;a href="https://t.co/uRMS4JyQDy" target="_blank" rel="noopener"&gt;https://t.co/uRMS4JyQDy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;&lt;img src="https://cdn4.telesco.pe/file/rBbqvTyvolZ141glXDeBQmAHweCDRidTFu5ouNuzZ8z58NRnDisoPEirGhDDtCzDV5_ZhtWagSvirh-dsJZrM_vnk8afE5YnNjbsUxDWnjqwmeBhpEBfGqsmpPr6huojK3HkLujUM8UZXUgTiWjkSFeroMhNGwpSNI6zGKUiWr_qNDyceV1DoI8UPR1JnpQQGX8TG3cWYkX-1Nd9qQkzKlH70V2oiVlA5OV3J6ERr8AMZKaWfPs2Boo9nudCmZcFYHbMSjyYCz0kzsls0yutu8oPBO9lPVLiHw0H1ETiRb192t8L46jU5T2-5qIpJEo0fIDIb99Sm2NCBnuYwi_81A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding SwiftUI&amp;#39;s Grid container &lt;a href="https://t.co/uRMS4JyQDy" target="_blank" rel="noopener"&gt;https://t.co/uRMS4JyQDy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;&lt;img src="https://cdn4.telesco.pe/file/imwjk6zB-eoSHJJpR1mQEUUA43Jc6y7vmxdsPhxz5Spi1YZ5WD52A5PFk3vBps-GrBx7EsFvlqI8AnEJNp2WnI17o9FzIapZLpwcs3zVBRyUorRkdx21RXyVEduIfM2oo_fakGWmSeDFSWuenP0C0eUxqV-iqy_a448G2bNk_PvLJ44CCcniRd3BEvaWJXtjNavuGu8nQT8U371g9lWnSbHxS2z-p1cBp6MSezCKS1ANxRQ25vI9Oki-4p4LXDxHQvOhBT7Q68XSFSPOQRLed31lWNOZgP_XH9GktCo-niozaxNF_TJUdwhT9S8t-6ANPGVCLINqVIq38Cs5LozEsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uRMS4JyQDy"&gt;
 Understanding SwiftUI&amp;#39;s Grid container - Tanaschita&lt;/a&gt;&lt;br&gt;SwiftUI’s Grid container lets us arrange content in rows and columns without manually nesting stacks. In this article, we walk through how the grid works, how to structure rows and cells, how spacing and alignment behave, and where the limitations are—especially…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
