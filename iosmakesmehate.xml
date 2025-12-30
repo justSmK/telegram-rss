@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2025-12-30T07:25:57+00:00</updated>
+  <updated>2025-12-30T08:33:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Главные тренды мобильной разработки 2026&#13;
+&#13;
+Еще в 2023 году...</title>
+    <published>2025-12-30T07:52:30+00:00</published>
+    <updated>2025-12-30T07:52:30+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3635</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3635"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Главные тренды мобильной разработки 2026&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Еще в 2023 году я случайно залетел &lt;a href="https://habr.com/ru/companies/yandex_praktikum/articles/792708/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;в яндекс.практикум где давал свои личные предсказания&lt;/a&gt;. Благодаря этому каналу я стараюсь максимально честно и прозрачно следить за аналитикой и динамикой. Мне кажется, многое из мною написано, было относительно хорошо предсказано.&lt;br/&gt;&lt;br/&gt;Давайте снова поиграем в гадалок. Достаем свой шар предсказаний, натальные карты. Делаем расклад.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; AI-First, AI и контекст-инжениринг&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Я уже вижу, как комьюнити начало четко делить людей на два лагеря: &lt;br/&gt;&lt;br/&gt;1. позорный Вайб-кодер. Человек, который слабо понимает программирование и просто хаотично промтит нейросеть.&lt;br/&gt;2. почетный AI-инженер. Тот, кто&lt;a href="https://t.me/iosmakesmehate/3493" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt; умеет настраивать окружение&lt;/a&gt;, пайплайны, контекст, понимает ограничения моделей и бустит свою продуктивность в разы.&lt;br/&gt;&lt;br/&gt;Эта тема будет только набирать обороты. Старые подходы постепенно трансформируются. Инженеру все чаще нужно понимать, что именно пытается сделать нейросеть, почему она так решила и как ее направить, а не просто слепо принять результат.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; Нетворк и новые инфраструктурные вызовы&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Проблема &lt;s&gt;чебурнета&lt;/s&gt; настала в 2к25, а в 2к26 это станет новой реальностью. Мы это уже &lt;a href="https://t.me/iosmakesmehate/3607" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;разбирали в отдельной серии постов&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; Техно-сингулярность: кроссплатформа и BDUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;итшка перестает быть местом только разрабов одной платформы. Теперь нужно уметь понимать что же происходит за границами твоего любимого иос. Многие иосеры изучают бэк, тащат кроссплатформы, пишут на андроид. Инженерность и границы размываются. Появляется необходимость понимать систему целиком, а не только свой кусочек.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"&gt;&lt;b&gt;4️⃣&lt;/b&gt;&lt;/i&gt; Безопасность и оффлайн-логика&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Все чаще видишь крутые доклады про безопасноть. Сейчас из-за разных причины когда клиент хранит сложную оффлайн логику на клиентах. Поэтому ждем дальше продолжений в след. году.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"&gt;&lt;b&gt;5️⃣&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Low-код и AI-assisted разработка&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот блок никуда не делся, а наоборот, он стал заметнее. Все чаще слышишь истории как манагеры спокойно кодят под другую платформу какие-нибудь мвп фичи. Для инженеров это сигнал не &amp;quot;нас заменят&amp;quot;, а где ценность смещается от написания кода к проектированию систем и ответственности за результат.&lt;br/&gt;&lt;br/&gt;А с каким трендами вы не согласны или что бы добавили?&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Замечаю, что у многих компаний, финальный грейд для individual contributor&amp;#39;а (обычного разраба) — сеньор. &#13;
 &#13;
@@ -23,7 +36,7 @@
     </author>
     <content type="html">			Замечаю, что у многих компаний, финальный грейд для individual contributor&amp;#39;а (обычного разраба) — сеньор. &#13;
 &#13;
-И будто на этом весь рост заканчивается. Какой у вас самый высокий грейд для инженера?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - Сеньор&lt;/li&gt;&lt;li&gt;24% - Ведущий&lt;/li&gt;&lt;li&gt;13% - Принципал&lt;/li&gt;&lt;li&gt;12% - Стафф&lt;/li&gt;&lt;li&gt;16% - Архитектор&lt;/li&gt;&lt;li&gt;13% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+И будто на этом весь рост заканчивается. Какой у вас самый высокий грейд для инженера?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;24% - Сеньор&lt;/li&gt;&lt;li&gt;24% - Ведущий&lt;/li&gt;&lt;li&gt;13% - Принципал&lt;/li&gt;&lt;li&gt;11% - Стафф&lt;/li&gt;&lt;li&gt;17% - Архитектор&lt;/li&gt;&lt;li&gt;12% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Martin Fowler: How AI will change software engineering&#13;
@@ -215,16 +228,5 @@ Apple разрешит пользователям в Бразилии устан
 Media is too big&lt;br&gt;&lt;br&gt;
 VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
 &lt;img src="https://cdn4.telesco.pe/file/GXjI29ZgVgKYzPyEJkxi2vFF-319ogC4Xg6p8i__jjDJBJduWYzwEjJ-oboQdLLluE6mj7CMv8yAwI1E1RwuDe-EMsOYrHDT0CvnK-Hjr4dcS8ZS0zxQP-B5X_imLQaupDfbFJr_O2_Hp8xf9mpFGVgU0IWPL6DVcHfGqHrNVvMgtq7A-PWwzNsQhDWeO4Sbknx0rG8t9kriLWs_bmoFL-ZgIRM_ngYgk8lz13-Y_l97odEjeTtbo5pvzmNG731QkFKPe5Xnyu7taoDaozzNygWaqBYfOEHc_RRK_ToQLfgUxAw5pyjoQyar60U4fFDUO0u6p2xAhXapLlZw31Rx6Q"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Этот обзор вы не просили, но я принес&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Зачем ходишь на конференции и согласен ли, что они умирают?</title>
-    <published>2025-12-20T11:27:19+00:00</published>
-    <updated>2025-12-20T11:27:19+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3615</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3615"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">			Зачем ходишь на конференции и согласен ли, что они умирают?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - Хожу за докладами. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;12% - Хожу за нетворком. Не согласен, что вымирают &lt;/li&gt;&lt;li&gt;10% - Хожу за докладами. согласен, что вымирают &lt;/li&gt;&lt;li&gt;13% - Хожу за нетворком. согласен, что вымирают &lt;/li&gt;&lt;li&gt;28% - Ходил, перестал ходить.&lt;/li&gt;&lt;li&gt;17% - Никогда не был на конференциях и не хочу&lt;/li&gt;&lt;li&gt;19% - Никогда не был на конференциях, но хочу побывать&lt;/li&gt;&lt;li&gt;7% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
