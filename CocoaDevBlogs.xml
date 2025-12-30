@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-30T12:51:01+00:00</updated>
+  <updated>2025-12-30T13:38:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Understanding date decoding strategies when working with JSON in Swift https://t.co/q2XsAZF9uZ</title>
+    <published>2025-12-30T12:52:14+00:00</published>
+    <updated>2025-12-30T12:52:14+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25627</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25627"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/pEzLmi0Bl7YCDgHvVOWbesjUX5-ZwW_92gvgB7NxRJ9kUERC00qLLBp0Y16HGCyH8r_cVgN_V0wVpWn_jY_jskcHBtKftWEJY7_OBBSsXA2IVk83LdJ9iLgoBLzEhTulSmzugYa3lt9xZMi0kJ97aNpnDCAxBnl-I5MudXzKhKGjd01Fu-u6w_NQIrhRnVX-RXXlvO1OksVcrs0yLvRmQ3x-AmEa5nMLYy8-s2--qbJK_5ZEIR04ALYesRpbVRu1uV6XO_yplRr_HWvNxFVsTESTTR-DYxVqWaOnTOEi0r-N9eDRiQXAbVIGllZk_-WZTb5E_CFWP2fiw2hNT7cKFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
+Understanding date decoding strategies when working with JSON in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Dates are one of the most common sources of decoding errors when working with JSON in Swift. In this article, we look at how JSONDecoder handles dates, what the built-in decoding strategies actually do, and how we can safely decode custom formats without…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : TheBoredTeam/boring.notch https://t.co/VGtbZzTqKO</title>
     <published>2025-12-30T02:02:47+00:00</published>
@@ -245,17 +257,5 @@ GitHub - Dhahd/ClipPocket: ClipPocket - A smart clipboard manager for macOS that
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : realm/realm-swift &lt;a href="https://t.co/wBCP0YzGp4" target="_blank" rel="noopener"&gt;https://t.co/wBCP0YzGp4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wBCP0YzGp4"&gt;&lt;img src="https://cdn4.telesco.pe/file/JPhY71kNYgoiTG4GjnuXnjaRjM4TpcVSwQ0AmxJp0ujyBbr5YMxo1ghS15Yo8WJe4GE0QQhOE8034tzrgs7-PFFxWscXgKe0uPaAD5-CrQVNeuHgC00PxjWvI9UVyECPQjpyhy2cfv-1QUF7ibHRbu_bw-iQc94svbnLY_3cnaRppKOgJrQfH6tC4UaAfXgg2v-Lfrv5HFEAKKcvnHnmSCrFMEBUnHv9GI7ZGIokNzQaHlDQhLLWMQaHiodIfcNwo0-ekSb_VdTyVbIBO3xIVYDdbkXx4HnEoiM5Pmd3GJrczseD2ZNnmNE5v4xvFGp2fXqrdP_GG9js4JYBbx3UsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wBCP0YzGp4"&gt;
 GitHub - realm/realm-swift: Realm is a mobile database: a replacement for Core Data &amp;amp; SQLite - GitHub&lt;/a&gt;&lt;br&gt;Realm is a mobile database: a replacement for Core Data &amp;amp; SQLite - realm/realm-swift&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : adjust/ios_sdk https://t.co/Uyl2eETIhe</title>
-    <published>2025-12-25T02:02:33+00:00</published>
-    <updated>2025-12-25T02:02:33+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25607</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25607"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : adjust/ios_sdk &lt;a href="https://t.co/Uyl2eETIhe" target="_blank" rel="noopener"&gt;https://t.co/Uyl2eETIhe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;&lt;img src="https://cdn4.telesco.pe/file/hpi4j4hUCCf7NEqacnLGsnHOACTruPxI7vi70jGG2qXb3IzrkkmDevyaKK8Ir2XLiRR_guGwZl3w2DZlquDggqf-DIsikbkNNDKKcdJBvtG4Uwa64-R3-B_zo53zF0wOR2br3_gnoljsNilcixM43EB38sG6zihu53Od-zQGxiuiGhVIqP0FcosWrY1SwZpLHz-cebHJaOFBXpz_Is-YVQysI7-5xneZEAuLdqkwD-OVecZMC38F8QONNWGsHM6jDCQE90eG1S9_hdaDAkJ90P3AoaV2IbCCPXY6tDOWdgwekV9b-t4PZWCP62QvgR95GDqPJgLc4RfKStZFeA3gqw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;
-GitHub - adjust/ios_sdk: This is the iOS SDK of - GitHub&lt;/a&gt;&lt;br&gt;This is the iOS SDK of. Contribute to adjust/ios_sdk development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
