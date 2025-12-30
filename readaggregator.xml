@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">Readaggregator - iOS, Swift, Apple, Programming, Mobile (@readaggregator) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/readaggregator"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator"/>
+  <icon>https://t.me/favicon.ico</icon>
+  <logo>https://t.me/favicon.ico</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
+  <updated>2025-12-30T22:22:50+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">Okay, maybe now I’ll finally get strict concurrency....</title>
+    <published>2025-12-23T08:50:18+00:00</published>
+    <updated>2025-12-23T08:50:18+00:00</updated>
+    <id>https://t.me/readaggregator/1110</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1110"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1110" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Okay, maybe now I’ll finally get strict concurrency. &lt;tg-emoji emoji-id="5377720502552894757"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98A0.png')"&gt;&lt;b&gt;😠&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/" target="_blank" rel="noopener"&gt;https://fuckingapproachableswiftconcurrency.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Joining the trusted collection:&lt;br/&gt;• &lt;a href="https://fuckingformatstyle.com/" target="_blank" rel="noopener"&gt;https://fuckingformatstyle.com&lt;/a&gt;&lt;br/&gt;• &lt;a href="https://fuckingblocksyntax.com/" target="_blank" rel="noopener"&gt;https://fuckingblocksyntax.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23Swift"&gt;#Swift&lt;/a&gt; &lt;a href="?q=%23concurrency"&gt;#concurrency&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/"&gt;&lt;img src="https://cdn4.telesco.pe/file/m0xhhP9u2KkiRq8U1rJ1d_4x3RtoB2TaF2mRSFdVZhn6tKDyFW9Pw4fd31BBm2gqlp_QP-D1iS1iJT7PxdWWsmLhzEJgIqH-NHQcanSUeDAt40qDSzyfUhxSHcf-wiK_UOU-1-0HxnRIKoazNKcIc8avVy28KWxKF7LfzYgAfEku73NR4LiISpwyHSc3roj_NR0_Zzudo_RvaaEYhGni5jYHBq5KzJpy1pjefzPTme-henfZnPmnJvdwUEnC-AAmNs06cbkSM40LuR6h_fywA_zJylerIiok1HVwPzCfQK0kQP4QGS29MWYXptJEGaqF6VkwCvbu-N_eYRqNDd9ErQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/"&gt;
+ - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Every time I read articles about SF Symbols, I’m amazed by the animations, the customization, and...</title>
+    <published>2025-12-19T13:03:45+00:00</published>
+    <updated>2025-12-19T13:03:45+00:00</updated>
+    <id>https://t.me/readaggregator/1109</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1109"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1109" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Every time I read articles about SF Symbols, I’m amazed by the animations, the customization, and how polished everything looks. I think: &lt;i&gt;maybe next year I’ll finally sneak them into a real app…&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Spoiler: yeah… probably never. Most of these ideas live happily in pet projects and playgrounds.&lt;br/&gt;&lt;br/&gt;Maybe there are some lucky people in this chat actually using them in production? If so — envy&amp;#33; As the year ends, here’s my little wish for all of us: may next year finally give us a project brave enough to let us play with them for real&amp;#33; &lt;tg-emoji emoji-id="5321266464571792760"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988E.png')"&gt;&lt;b&gt;😎&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/" target="_blank" rel="noopener"&gt;https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23animations"&gt;#animations&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/"&gt;&lt;img src="https://cdn4.telesco.pe/file/foy7-HkFY16_a22pBLVQXaB1SR6Oy94hDtv9UAxAYa4SsEgj-Tb0WgDKz0l0Z0R4O3BdbObLPfKpDK0K3bavvccxcp52Mco3KIAefV3uKFVs-K7sh0OVnHeMIxGC5WRXsjVdqwTHpAZwK-1Vu45zv5uo1BRRcxUh9ysFeyO-2qBz6iKS7flgF8CvmliYZ9GeMvtzSQqEXQadoz0Y3ZY2smTiCHvn4pJVRVumnE032mZey8tRJzhsfy9VLGkL0IMawczUAXCLadoZsCk4DHxcQWQc4MuB7xspJciFlZjGE19JFj2vcy0V_rMat-h3AoMfyaZQQbBy4VAIczU6YcCK7w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/AnimatingSFSymbolsInSwiftUI/"&gt;
+Animating SF Symbols in SwiftUI - Nil Coalescing&lt;/a&gt;&lt;br&gt;Add symbol effect animations and transitions to symbol images in SwiftUI to handle icon state changes without custom drawing or animation logic.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Recently had to animate a SwiftUI sheet resizing itself — sounds like a super basic thing, but the...</title>
+    <published>2025-12-01T13:59:28+00:00</published>
+    <updated>2025-12-01T13:59:28+00:00</updated>
+    <id>https://t.me/readaggregator/1108</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1108"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Recently had to animate a SwiftUI sheet resizing itself — sounds like a super basic thing, but the actual solution was anything but obvious.&lt;br/&gt;&lt;br/&gt;If you ever need an animatable, auto-sized sheet, this write-up breaks down an approach. Might save you a couple of hours (and some sanity).&lt;br/&gt;&lt;br/&gt;&lt;a href="https://clive819.github.io/posts/animatable-auto-sized-to-fit-swiftui-sheet/" target="_blank" rel="noopener"&gt;https://clive819.github.io/posts/animatable-auto-sized-to-fit-swiftui-sheet/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23Layout"&gt;#Layout&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://clive819.github.io/posts/animatable-auto-sized-to-fit-swiftui-sheet/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://clive819.github.io/posts/animatable-auto-sized-to-fit-swiftui-sheet/"&gt;
+Animatable Auto-Sized-To-Fit SwiftUI Sheet - Clive Liu&lt;/a&gt;&lt;br&gt;SwiftUI’s sheet modifier is a fantastic tool, but it comes with limitations: it doesn’t automatically resize to fit its content. Apple introduced the .presentationSizing(.fitted) modifier in iOS 18 to address this issue. However, let’s be realistic—convincing…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Nice reminder about how .task behaves when it depends on a property that can change — and why...</title>
+    <published>2025-11-13T13:28:16+00:00</published>
+    <updated>2025-11-13T13:28:16+00:00</updated>
+    <id>https://t.me/readaggregator/1107</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1107"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Nice reminder about how &lt;code&gt;.task&lt;/code&gt; behaves when it depends on a property that can change — and why adding an id makes all the difference.&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener"&gt;https://chris.eidhof.nl/post/swiftui-task-identity/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/DGrki_bWmFRUeJA1beUwu-rj27fabBq7Uuh2Ua36dnqhJMILHYmLAAzx_FyaxU-zwIaaWxL7BNyw_X-AF-CGV1WOAke3_SI7qVLjaMDMPraRHA08MWbmmI76WVogKzj7R7glkHo6m50O7OfJu3yIzmV_LID0Da7tKZeQ-ZKIOZ-X8DWTcqE1Ic7lsPWl7hou25c8AgWdBe78kzLQYfT5xCp1q9wRweHuHPZ-EXyy9kl9LWj4PQ_LTaMSjtPZ9cWPnQCT_6KMyjJKS9nLlRiz1NjNTTKgE_2-Ctesz1TPz2onB1VLAGi4zenw8OWhB6TXhZu_pf4ifmaF6WzneqMLVw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
+Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Apple quietly dropped a few nice App Store updates.&#13;
+&#13;
+The biggest one — you can finally submit a...</title>
+    <published>2025-10-30T00:59:54+00:00</published>
+    <updated>2025-10-30T00:59:54+00:00</updated>
+    <id>https://t.me/readaggregator/1106</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1106"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple quietly dropped a few nice App Store updates.&lt;br/&gt;&lt;br/&gt;The biggest one — you can finally &lt;b&gt;submit a new version, while another build is still under review.&lt;/b&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998C.png')"&gt;&lt;b&gt;🙌&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Other small but welcome changes:&lt;br/&gt;• Up to 70 custom product pages per app (each with unique keywords).&lt;br/&gt;• Offer codes now work for all IAP types, replacing old promo codes by March 2026.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.macrumors.com/2025/10/29/apple-developer-app-store-updates/" target="_blank" rel="noopener"&gt;https://www.macrumors.com/2025/10/29/apple-developer-app-store-updates/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AppStore"&gt;#AppStore&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.macrumors.com/2025/10/29/apple-developer-app-store-updates/?utm_source=openai"&gt;&lt;img src="https://cdn4.telesco.pe/file/MhemjH9rfZiIH0jjJye-Lx141n_l09sD0dz22QvBQvzp8XcHWszNmHq3oOjsk2fUie9K097B6POXyB-jBsNLf0Vb8sk85nSox0ms5zdU7GKv5tQLKXh6tHqDPHnshIuAvgqv4kKMOFobugYATqaDSfVEFPzdg9fISyiaUvE_Rn8Op7P65MYjSwBB7RTlDgWXT1q1B4RIFJel6GHEfn2q-boZLwEfqEvUJ9XloNxgkuDNSa1HwrT0sJPeWwN_EDcA347Pcu_Xf4Lpd4tjRJHgcNDoMykymUyEaQOv-ZMt4JNk67la6bkRijO7migGjSqizCz1u8jnKue3n61dkwGonA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.macrumors.com/2025/10/29/apple-developer-app-store-updates/?utm_source=openai"&gt;
+Apple Announces Three App Store Updates for Developers - MacRumors&lt;/a&gt;&lt;br&gt;Apple today added new features and expanded flexibility to its App Store review process. Developers are now able to submit additional items for review when an existing submission is already under review. Apple has provided several examples of what can be…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Me: waiting for Swift Assist&#13;
+Swift team: “How about Swift… on...</title>
+    <published>2025-10-25T05:43:20+00:00</published>
+    <updated>2025-10-25T05:43:20+00:00</updated>
+    <id>https://t.me/readaggregator/1105</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1105"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Me: waiting for Swift Assist&lt;br/&gt;Swift team: &lt;i&gt;“How about Swift… on Android?”&lt;br/&gt;&lt;/i&gt;&lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/" target="_blank" rel="noopener"&gt;&lt;i&gt;https://www.swift.org/blog/nightly-swift-sdk-for-android/&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/"&gt;&lt;img src="https://cdn4.telesco.pe/file/pbbuJGbBNeHn-QXPHZcPO0rH5LO_ni9SghxfyN9lDKf2u5RprtKfTjrDZwBb0miEB8jdGQeuisAgoxNgsSeFB991kDAq74fiJb6bM0w1boL-jWA-px7Vhm8wp__Eo0xdSnNhwPParbNKywaFP_BuvgFjBDfsZViPFLOh2rukSvT6y-xM4_-zchgju5ZgUcQo25w24JhAg1M3atWYKPGR2933IKDd_SFb_Lt5ydM3F-6sdODipvSzHezGw5Pd0RC-PeLWABX9OE3Hd85KBk3BKWsXhhTiEn1tyEtZEpfe_bMJtIG6ebV_AXrozZGa08uJpgnHNql3nwZ3EjTinD5NdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/"&gt;
+Announcing the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Swift has matured significantly over the past decade — extending from cloud services to Windows applications, browser apps, and microcontrollers. Swift powers apps and services of all kinds, and thanks to its great interoperability, you can share code across…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">TIL If you are experiencing poor performance with SwiftUI’s List + ForEach, you can enable the...</title>
+    <published>2025-10-19T15:50:46+00:00</published>
+    <updated>2025-10-19T15:50:46+00:00</updated>
+    <id>https://t.me/readaggregator/1104</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1104"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;TIL&lt;/b&gt; If you are experiencing poor performance with SwiftUI’s List + ForEach, you can enable the launch argument:&lt;br/&gt;&lt;br/&gt;&lt;pre&gt;-LogForEachSlowPath YES&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959" target="_blank" rel="noopener"&gt;https://x.com/kyleswifter/status/1979849200222531959&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23layout"&gt;#layout&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;&lt;img src="https://cdn4.telesco.pe/file/VZA77KU2QR4BZYE_7R26nqIOMqs1wWYQW_V7nhc0wlSMjcX_DZljBozoZQ9LnM9E3qewMGBnYWbKw2GmPJAoBIaI0m9hJj6lDgtTt6B-Q9VRU2t8ASDGypKVLm2lrB1PZYj-TDI3zYvOcqk66mjNNyBkh1ALzvOsdZBFLSKNcgQj-iyyHbEedNFRZJ_XmrBt-Jtw2zvGcHPwHZv-_RUvqumjQaDnZLGzcS5c4SjHHewI2tgiEt6KBsyKLKm1HNOx2lWR9m1eaOl05fxuhcnouNDSh06_kqlo4dpuI1fPxXBAds8WPXMYdn679S-Dk-xaxwIGf1svtFBrCvtr3dKCHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;
+Kyle Ye (@KyleSwifter) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;For anyone struggling with SwiftUI&amp;#39;s List + ForEach&amp;#39;s bad performance, you can enable &amp;quot;-LogForEachSlowPath YES&amp;quot; in your launch argument to make SUI log warning for you.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Xcode 26 is out, so if you’re wondering whether to opt into Main Actor isolation in Swift 6.2,...</title>
+    <published>2025-09-16T14:50:14+00:00</published>
+    <updated>2025-09-16T14:50:14+00:00</updated>
+    <id>https://t.me/readaggregator/1103</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1103"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26 is out, so if you’re wondering whether to opt into Main Actor isolation in Swift 6.2, Donny Wals wrote a short piece that helps you weigh the pros and cons before flipping the switch.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;For &lt;i&gt;UI packages&lt;/i&gt;, main actor isolation makes sense since almost everything should run on the main thread.&lt;br/&gt;&lt;br/&gt;For SPM packages like Networking, it’s less obvious — you might prefer to make types &lt;code&gt;Sendable&lt;/code&gt; or design them as actors instead of forcing everything onto the main thread.&lt;br/&gt;&lt;br/&gt;When in doubt, isolating to the main actor is usually a safe default — and you can always mark code that needs concurrency with &lt;code&gt;@concurren&lt;/code&gt;t later.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;u&gt;donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation&lt;/u&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23concurrency"&gt;#concurrency&lt;/a&gt; &lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/"&gt;&lt;img src="https://cdn4.telesco.pe/file/MpcWbYqYp-F_rCw1397dQ-dBvuT1uwb4CklWQUZbRMbyE1mPjASVfiQZaL3YhxZWMcslrdDfUDhMxRsHtu5WYumXrnISCIsHj23v7FwW5yf7wUciCXDHYZOx24e5z8qD1N7fOMdRJ2LAS6ULqvgaQodOQLUV4p5VrxLK_ItxaS4hr0jWojW8O-WzosTFR_S8YUnrhXYENDzqMWeBgF_bI1XvYj4yUkcrIv9IOm_vX_L2NKw_T9dSMkM6PPfUyicLh_hTNBrvVWkFeA93T_xL1_ETvuphFAd-yUg1bGwjlvUf8E4spTwF8dFpwv1nteqVfk-uhUKrJuQJxA5a2zsMqw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/"&gt;
+Should you opt-in to Swift 6.2’s Main Actor isolation? – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;Swift 6.2 comes with some interesting Concurrency improvements. One of the most notable changes is that there’s now a compiler flag that will, by default, isolate all your (implicitly nonisolated)…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GPT-5 already got devs hyped — and now OpenAI just dropped GPT-5-Codex: a version of GPT-5...</title>
+    <published>2025-09-16T11:23:56+00:00</published>
+    <updated>2025-09-16T11:23:56+00:00</updated>
+    <id>https://t.me/readaggregator/1102</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1102"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GPT-5 already got devs hyped — and now OpenAI just dropped GPT-5-Codex: a version of GPT-5 laser-focused on real engineering. &lt;br/&gt;&lt;br/&gt;If you’re still on Claude Code — this might be the perfect time to give it a try. At least until Claude ships an updated model and we all switch back again. &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9885.png')"&gt;&lt;b&gt;😅&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://openai.com/index/introducing-upgrades-to-codex/" target="_blank" rel="noopener"&gt;https://openai.com/index/introducing-upgrades-to-codex/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://openai.com/index/introducing-upgrades-to-codex/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Nu2re_fvtB4XAa-AUTtFwoj-XlIpdZcFXoeC91-8tgCyLeMbkrPVuPNQFcaXk98x0mc4r86Vvk8ZTSzs_p2td97Pw6l9O9IxRM825Jss-dcml6apo6B-AojSIsQ1a3ocSwmt1o1eQNQpv7Zd1qYMD-QmvH7i8q8cbiLXBy0noycHIycBmP5GB02GcYXaBtMwxJCxW4ee1-j397ho3VuVGguHBX465ZzlxAbnA2j1KlKJjbyhLVIpJR_Pen5F1O9Trv0zBahEtgU2ZPf4VqRcP2iK4O_OEdHURbJd34GXm_vEzbaRA2Iz-pfswI1zoVzEBk0bzaqpTMUmFjTJYZmTZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://openai.com/index/introducing-upgrades-to-codex/"&gt;
+Introducing upgrades to Codex - Openai&lt;/a&gt;&lt;br&gt;Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Apple docs are already frustrating and often not very helpful for developers, and on top of that,...</title>
+    <published>2025-08-29T15:44:40+00:00</published>
+    <updated>2025-08-29T15:44:40+00:00</updated>
+    <id>https://t.me/readaggregator/1101</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1101"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1101" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple docs are already frustrating and often not very helpful for developers, and on top of that, LLMs can barely make sense of them: try loading a page with an LLM and all it sees is a JavaScript error: &lt;i&gt;“This page requires JavaScript. Please turn it on and refresh to view content.”&lt;/i&gt; The extra scripts and clutter make it nearly unreadable. &lt;tg-emoji emoji-id="6325592348529003273"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98A6.png')"&gt;&lt;b&gt;😦&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;Thankfully, Mattt from &lt;b&gt;NSHipster&lt;/b&gt; created this service — it strips out the junk and turns docs into clean, AI-friendly Markdown. Just swap the domain and your LLM finally gets it.&lt;br/&gt;&lt;br/&gt;Can’t help it… AI posts keep coming. &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"&gt;&lt;b&gt;💥&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://sosumi.ai/" target="_blank" rel="noopener"&gt;https://sosumi.ai&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://sosumi.ai/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://sosumi.ai/"&gt;
+sosumi.ai - Apple Docs for LLMs - sosumi.ai&lt;/a&gt;&lt;br&gt;sosumi.ai provides Apple Developer documentation in an AI-readable format by converting JavaScript-rendered pages into Markdown.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Got a few Comet invites (AI browser by Perplexity) — DM if you want one&amp;#33;&#13;
+&#13;
+UPD&#13;
+The promo...</title>
+    <published>2025-08-29T06:19:40+00:00</published>
+    <updated>2025-08-29T06:19:40+00:00</updated>
+    <id>https://t.me/readaggregator/1100</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1100"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/readaggregator/1100"&gt;&lt;img src="https://cdn4.telesco.pe/file/jTQRV49f253tVXv4mjkrvfALxmlP2L1lPE32YVT1NP15haPJNZX7vuU6t7PlbdQ8gtnHBs1HsqMl_Kv5Mu7NVVfne5qf2HZtE627yRqY_4mpJoiEtRS7xYbImoCdJrRSHR81ZTBkW9P_NZj7sSdh8RIjksCYTdl9aaLbff4m8wHCm4gg0TjItzsvSdk13NDqivupBIxe5wWDI1RwbnXui7vJxcrUfLeAvP77xD-DEZRxcZQ6ytYd7oeB80LJ7dh3zIMQrYvj8h1fLV-RlMZuwitcFvGiIymC86HrVOj0VNmYgDFORBrBGbUPhVnwFDT50KKNEUfEe0WQI0gFwfCfKg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Got a few Comet invites (AI browser by Perplexity) — DM if you want one&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;UPD&lt;/b&gt;&lt;br/&gt;&lt;b&gt;The promo code marathon has crossed the finish line&amp;#33;&lt;/b&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Xcode 26 beta 7: Claude integration ✅&#13;
+Swift Assist: typing…...</title>
+    <published>2025-08-28T19:59:43+00:00</published>
+    <updated>2025-08-28T19:59:43+00:00</updated>
+    <id>https://t.me/readaggregator/1099</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1099"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1099" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26 beta 7: Claude integration &lt;tg-emoji emoji-id="5456432998092133477"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;Swift Assist: &lt;i&gt;typing… &lt;/i&gt;&lt;tg-emoji emoji-id="5384399430101254263"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9590.png')"&gt;&lt;b&gt;🕐&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;a href="https://x.com/claudeai/status/1961122752577908788" target="_blank" rel="noopener"&gt;https://x.com/claudeai/status/1961122752577908788&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with...</title>
+    <published>2025-08-28T11:19:51+00:00</published>
+    <updated>2025-08-28T11:19:51+00:00</updated>
+    <id>https://t.me/readaggregator/1098</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1098"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with an agent to create Swift apps, and thanks to an embedded Swift interpreter, it compiles everything on-device.&lt;br/&gt;&lt;br/&gt;The wild part? You can instantly push your build to TestFlight from the app. Super cool… but also, why?&lt;br/&gt;&lt;br/&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=CUlWhF3ERME&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://news.ycombinator.com/item?id=45041185" target="_blank" rel="noopener"&gt;https://news.ycombinator.com/item?id=45041185&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AI"&gt;#AI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;&lt;img src="https://cdn4.telesco.pe/file/R6iysCZzBlbyKjv0m3cwcRmEFiiOAzO1lp0f_IoMTWlFyd4YCackagR_AWj5bx1cc_JmDsEBO5vVxufbyY-BIKo_suGQ4fcRrD3sp5WG7RbVd801zhmVm-M9JrwvbONyNnEPngiW4RAdaKQqtyaiNYo4-G6bVsFAQT7bciel-XRTJPCmXhApWIyGW-88gTE2Ykojg7pip5-s8JNGU9lQY8k6pXt_ewq2MREFLm8S_ObYjU9KGTQvqrKtgji0COOA6VACKtUN8Px3evecpNI1VDotBZ2LZmKHgwqUsqmX0qsPU8ZRXXnyjqEkgPcmlCEY5RIWS1MgDYuSY7PncX39eA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;
+Launch HN Bitrig Demo - YouTube&lt;/a&gt;&lt;br&gt;Vibe code, test, and deploy Swift apps. All from your iPhone.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Apple’s next event is on September 9 — get your wallets ready&amp;#33; 💸</title>
+    <published>2025-08-26T17:16:49+00:00</published>
+    <updated>2025-08-26T17:16:49+00:00</updated>
+    <id>https://t.me/readaggregator/1097</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1097"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/readaggregator/1097"&gt;&lt;img src="https://cdn4.telesco.pe/file/srOGRHAwTgXOEsauGhDCwwzPout4Ef0g_sCZ9rhkldxRkiVUnc-cJ5B_az0a9Q9CSwk1Dohl5zjd8WzuiniLfdOx0nroCndOxJRH2TpVGhhhPPPgtqnBIgJcd4j9skGsSS5_P2fvhUNudYUo9HvjR41IubqGLCVKLFQOYUvRiF_dGbCEgQrDIuROaYdTYv_EJGEjSYhTrsOhwwSQKx4Rfo5tS78Bs0Y6jGFLFHoMythl0eckAlGZREzMAU3sSFVBMLRi9GxDCCrRclDmt2joe4QNe8hhXwA8XuUZHCy4LHj7PR75hD24VNaOjNncBl6N9IP-9qvukX-eXSye2tNE-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple’s next event is on September 9 — get your wallets ready&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"&gt;&lt;b&gt;💸&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Turns out it’s not just you struggling with trailing whitespace when using Claude Code — it’s...</title>
+    <published>2025-08-25T18:34:28+00:00</published>
+    <updated>2025-08-25T18:34:28+00:00</updated>
+    <id>https://t.me/readaggregator/1096</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1096"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Turns out it’s not just you struggling with trailing whitespace when using Claude Code — it’s an actual bug. Many thought it was about misconfigured &lt;a href="http://CLAUDE.md/" target="_blank" rel="noopener"&gt;CLAUDE.md&lt;/a&gt; or ignored instructions, but nope, the model just loves leaving those extra spaces. &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABA0.png')"&gt;&lt;b&gt;🫠&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;There’s a neat way to handle this using built-in hooks. Configure a PostToolUse hook to run SwiftLint, and it will automatically clean up trailing whitespace after each action. No manual cleanup needed.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/"&gt;
+How to Fix Claude Code’s Trailing Whitespace Problem for Swift - @samwize&lt;/a&gt;&lt;br&gt;If you’re using Claude Code for iOS development, you’ve probably noticed an annoying habit: it consistently adds trailing whitespace to your code. Those pesky spaces at the end of lines trigger SwiftLint warnings and clutter your git diffs.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">I bet these keywords still haunt your dreams. Let’s finally break them down — once and for all....</title>
+    <published>2025-08-07T14:42:55+00:00</published>
+    <updated>2025-08-07T14:42:55+00:00</updated>
+    <id>https://t.me/readaggregator/1094</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1094"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/readaggregator/1094" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I bet these keywords still haunt your dreams. Let’s finally break them down — once and for all. &lt;tg-emoji emoji-id="5276412231314055303"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"&gt;&lt;b&gt;😱&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-sending-nonsending" target="_blank" rel="noopener"&gt;https://fatbobman.com/en/posts/sendable-sending-nonsending&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23concurrency"&gt;#concurrency&lt;/a&gt; &lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-sending-nonsending/"&gt;&lt;img src="https://cdn4.telesco.pe/file/D3baG5vAfV8LHkM6SGcJt0r2TQ3AUbzMiOwMw35CDCgWoZsBy7eaEKU6wT2YK9nBm80BkbpCkkRqMfAE2XjE3VZq7VUx71akyGPiyItQHSx9ib9Pl8z8SdcIQvrNwyoG9pWxQhYzaU945FFwnCNi24vkJmcd2deC__X6FVc0zONwoV9zlUHmeFDBSCX-YrVZ2mNuZ9ag0cCGy-GuKgub3nXvbRFP8ZW8tDlqDYX3gKYm6RNcAC3edi6L_B1KnttRVBg29_B1AEe4z5yKlWb6_vT2-nJZN_WiU-3Za9XI7G0S5LlrLg5S2kz6ZBKUNYrTCBnr0_W6fuecJhmJ_axCsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-sending-nonsending/"&gt;
+Swift 6 - Sendable, @unchecked Sendable, @Sendable, sending and nonsending - fatbobman.com&lt;/a&gt;&lt;br&gt;Explore how Swift 6 uses Sendable, @Sendable, sending, and nonsending to enforce concurrency safety, ensure thread-safe data transfer, and prevent race conditions.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Not many devs know about the git worktree feature, but it’s seriously a game changer when you’re...</title>
+    <published>2025-07-30T08:04:17+00:00</published>
+    <updated>2025-07-30T08:04:17+00:00</updated>
+    <id>https://t.me/readaggregator/1093</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1093"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Not many devs know about the &lt;code&gt;git worktree&lt;/code&gt; feature, but it’s seriously a game changer when you’re juggling different tasks — no need to clone your repo multiple times. Especially useful now when working with LLM agents. So, give it a try, it’ll save you a lot of hassle&amp;#33;&lt;br/&gt;&lt;a href="https://blog.kulman.sk/git-worktree/" target="_blank" rel="noopener"&gt;https://blog.kulman.sk/git-worktree/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23git"&gt;#git&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.kulman.sk/git-worktree/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.kulman.sk/git-worktree/"&gt;
+Using Git worktrees for development - blog.kulman.sk&lt;/a&gt;&lt;br&gt;When working on iOS applications, I often find myself in situations where I need to develop a new feature while simultaneously fixing a bug. This can be challenging to manage, especially when the changes for the feature and the bug fix overlap. Developers…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">In SwiftUI, we often use elements without thinking much about how they actually work. Usually, this...</title>
+    <published>2025-07-13T10:54:32+00:00</published>
+    <updated>2025-07-13T10:54:32+00:00</updated>
+    <id>https://t.me/readaggregator/1092</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1092"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;In SwiftUI, we often use elements without thinking much about how they actually work. Usually, this isn’t a problem, but sometimes understanding the implementation details helps explain unexpected behaviors. This knowledge can also come in handy during interviews, where such questions occasionally pop up.&lt;br/&gt;&lt;br/&gt;In this article, the author takes a closer look at how Namespace works under the hood and why these details might matter.&lt;br/&gt;&lt;br/&gt;p.s. If you’re interested in similar deep dives, the author also has an article about the &lt;a href="https://kyleye.top/posts/everything-you-should-know-about-spacer" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Spacer&lt;/a&gt; in SwiftUI.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://kyleye.top/posts/swiftui-namespace" target="_blank" rel="noopener"&gt;https://kyleye.top/posts/swiftui-namespace&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://kyleye.top/posts/swiftui-namespace/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://kyleye.top/posts/swiftui-namespace/"&gt;
+Understanding SwiftUI&amp;#39;s Namespace | 知阅百微 见微知著 - 知阅百微 见微知著&lt;/a&gt;&lt;br&gt;Dive deep into SwiftUI&amp;#39;s Namespace property wrapper - learn how it works internally, how to use it effectively for matched geometry effects, and best practices for creating fluid animations in your iOS apps.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Once again, the size of the Gmail iOS app is making waves. Last year, Emerge Tools broke down just...</title>
+    <published>2025-07-10T02:48:40+00:00</published>
+    <updated>2025-07-10T02:48:40+00:00</updated>
+    <id>https://t.me/readaggregator/1091</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1091"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Once again, the size of the Gmail iOS app is making waves. Last year, Emerge Tools broke down just how big it was — and now they’ve updated their analysis with fresh data and insights. Worth a look if you care about app optimization and bloat.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250" target="_blank" rel="noopener"&gt;https://x.com/emergetools/status/1943060976464728250&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and...</title>
+    <published>2025-06-25T13:43:46+00:00</published>
+    <updated>2025-06-25T13:43:46+00:00</updated>
+    <id>https://t.me/readaggregator/1090</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1090"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and it looks like the free tier is more generous. Might be worth checking out first.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA" target="_blank" rel="noopener"&gt;https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;UPD&lt;/b&gt; - Released&lt;br/&gt;&lt;a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noopener"&gt;https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;&lt;img src="https://cdn4.telesco.pe/file/s29S8EYwE8wSCdnw3ycAN-F6J-x4IW2IIAPvaOv3jpX2CBpWubtEg4vwJMj9IFCgr9QFzhJkrgYYh-IO9tgbVSNhM-YiMnXsK-VH1ObP1muVjRmzQKHoEBJpnfsde1uufra_o5_v2HZ6SD92uCB_UFuqaiiX04K19WM0N7ugO9wb18eObV_pQy4eXxgirmviEDmMMjI7bZ7aDYRhXATEvyhM-iV5eiWua8UMdD-xzxDYrghrrdGxeB-bn3JzFTDX1C7wpq27hrPpCM-WYuN2ac5rx0njBE3u7cCwETKW8GcwNDO-DgA_4LQQ-S74LH1kPAKxXcX2Chqv2ft3wF0JoQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;
+Patel Meet (@MeetPatelTech) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;Google accidentally published the Gemini CLI blog post, but now returns 404.&#13;
+&#13;
+What’s inside:&#13;
+🔓 Open-source CLI for Gemini 2.5 Pro&#13;
+🧠 1M token context&#13;
+💸 Free: 60 req/min &amp;amp; 1,000/day&#13;
+🔍 Google Search grounding&#13;
+🧩 Plugin/script support&#13;
+🧑‍💻 VS Code integration (Gemini…&lt;/blockquote&gt;</content>
+  </entry>
+</feed>

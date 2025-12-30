@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT (@iosgr) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/iosgr"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr"/>
+  <icon>https://t.me/favicon.ico</icon>
+  <logo>https://t.me/favicon.ico</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
+  <updated>2025-12-30T22:22:38+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">SwiftUI Previews в Zed&#13;
+&#13;
+Если вы уже попробовали разрабатывать...</title>
+    <published>2025-12-30T19:22:25+00:00</published>
+    <updated>2025-12-30T19:22:25+00:00</updated>
+    <id>https://t.me/iosgr/4569</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4569"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://luxmentis.org/blog/swiftui-previews-in-zed/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SwiftUI Previews в Zed&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы &lt;a href="https://t.me/iosgr/4500" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;уже попробовали&lt;/a&gt; разрабатывать под iOS в редакторе Zed, то держите мини-гайд по тому, как завести там превью для SwiftUI.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/iosgr/4500"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4500"&gt;
+iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT - Telegram&lt;/a&gt;&lt;br&gt;Как тестировать iOS приложения в Zed&#13;
+&#13;
+Держите продолжение серии статей про то, как настроить Zed для полноценной iOS разработки. В этот раз про то, как настроить запуск тестов для приложений и Swift пакетов.&#13;
+&#13;
+Прошлая статья – тут.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Fucking Approachable Swift Concurrency&#13;
+&#13;
+Еще одна попытка объяснить...</title>
+    <published>2025-12-29T06:05:20+00:00</published>
+    <updated>2025-12-29T06:05:20+00:00</updated>
+    <id>https://t.me/iosgr/4568</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4568"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Еще одна попытка объяснить базовые ментальные модели за Swift Concurrency, в том числе, как работает изоляция, на простых примерах кода и пончтных метафорах.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
+ - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Как устроен NSVisualEffectView&#13;
+&#13;
+Автор статьи хотел повторить...</title>
+    <published>2025-12-26T06:04:50+00:00</published>
+    <updated>2025-12-26T06:04:50+00:00</updated>
+    <id>https://t.me/iosgr/4567</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4567"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4567"&gt;&lt;img src="https://cdn4.telesco.pe/file/MixIh2aOkUXRbiC79tBRdmkcPkiFd0YYQ3DfrQabpSpBL4S_Ho396bEFhaFI1bel4_mTmiWUxT_hch771muWTduRyj0MZycqRLOmbMDUSl9ZLuSeGZTC7Trr-dSjnf0PYqv5jwEFymuhEzrRFD8ql92JZGX4PpN-1jUyXGbmkHGINTF9tfcuPHnvZttJNdOLRN3Ngn_-7sjDmDMAjBNeEYrxhyOjmf7t4Djz-m7ee28a8BnSLATe0uSEPwf2ScCGkHDbKCu_rbCsM3AO7maJKpOu5rrHIxNdn5o63_KW3g5vfbMcwHb1iydJQa4iKtLlS_xTO_HrJ6sTZkWBWMDWnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/reverse-engineering-nsvisualeffectview" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроен NSVisualEffectView&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Автор статьи хотел повторить внешний вид панелей в macOS Control Center в своем собственном приложении. Чтобы это сделать, ему пришлось реверс-инжинирить нативный NSVisualEffectView и создать его полную кастомизируемую копию, которую можно изучить на &lt;a href="https://github.com/OskarGroth/MaterialView" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;GitHub.&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Конец года, и снова заканчиваются все подписки...</title>
+    <published>2025-12-25T14:42:52+00:00</published>
+    <updated>2025-12-25T14:42:52+00:00</updated>
+    <id>https://t.me/iosgr/4566</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4566"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobilehubvk/62"&gt;&lt;span dir="auto"&gt;Mobile VK Hub&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/lG9RBrm9InLSG5p-UWvmkI4e-cvoH9ww-uhzffB9GKSlTNs-ulOuvKo7czuETVFcqg8qvlXScnb-tVg2ursE5V3giwiiq8iXxNGgpX6805th9K4LFCRHscgbn3kFmltIWE3jxNXx2DS0cGCqkoft2Hqm5ImpF9BVUF679TU89fOlW9zxqPY4p_Zcdz7Tx8ZSk6UCyc7UaBY3TvxlN8x77G_ferpVdkCEPz9ku1vAgwCxJovJ9J4A5Nc_BsN2s5NuKBUq0r0LyCv6J8FhWi32Gcw9MqIST97B_3cvTUzV3FedfuX3HAffJ3tkW3MDcJLgPUc6_miD2oiK30FNzfLnFw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/e6ab715fc4.mp4?token=OpaAGFfUeq8XYpeycmmtfyKn1y54zADgfHH_LRtUQckuX7YfziDaAWp5uV5Ld_a3fxJohUhQC8m6230aXjLw0Zjo0LDnIiEk6Py-a1rJrPGxvd6KwtRpmm4iuJ0iX8R_JvKi1wFo4Uwz71qTiaKkrea7NRjcD86W_RKA45nGKARk3IEosfS1ZEyVcFBhrkaxPaaQAQepZrMi0sfiOqkIAPDzzivsm8IisFIqhG54cAil-32b6Gk9eOEQsqJwyB1o22pqn8QEUAITTeuZz0ZmNDqA6ufoRKpCIyiExMgHaosuql_7KqXxMh1bzrtDBuYrkJE5Fc1jeH84DBaQ-n-ngEGjeCJPa6U_ZLWYIuClq9htFxucS1TJSnIopmqn1LBd2TRM7fp3RKKecJZcXFbwR21FjOjjfvN8anQwgTJiRAB5qTGQRjdjAuUch96Pb3GgESdBis9vVutGMoMowsyrOnUFpBLHfxxn3sLYclZe3sRHEtTpaN9k-nhs7lK8FWCOBOssZqp-aYsmBXFbe17o19n_kNOPV2evPq50iDc33vM6Z9bqNuWS-S1L0B4OuoQ5mWALKUbswM_gQhrn1QT3cbKXuhHd3BBLPoa1Dovg60IQm0s52hoAIxjfoQ_AsKai6Y83G4vzpDBZ_uv_dUJz16syFxMWlI1oLXljDSLYZqI" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Конец года, и снова заканчиваются все подписки &lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"&gt;&lt;b&gt;😱&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Узнали? Согласны? Не беда — мы как раз разыгрываем промокоды на год от Облака Mail и VK Музыки&amp;#33;&lt;br/&gt;&lt;br/&gt;Условия участия простые:&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; подпишитесь на наш канал &lt;a href="https://t.me/mobilehubvk" target="_blank"&gt;@mobilehubvk&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt;нажмите кнопку «Участвовать»&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; дождитесь 30 декабря — в этом посте мы выберем случайным образом 6 победителей&lt;br/&gt;&lt;br/&gt;Информацию об организаторе, правилах и призах ищите по &lt;a href="https://bit.ly/4s9U3Si?erid=2VtzqxAsNAW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Удачи&amp;#33;&lt;/b&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/lG9RBrm9InLSG5p-UWvmkI4e-cvoH9ww-uhzffB9GKSlTNs-ulOuvKo7czuETVFcqg8qvlXScnb-tVg2ursE5V3giwiiq8iXxNGgpX6805th9K4LFCRHscgbn3kFmltIWE3jxNXx2DS0cGCqkoft2Hqm5ImpF9BVUF679TU89fOlW9zxqPY4p_Zcdz7Tx8ZSk6UCyc7UaBY3TvxlN8x77G_ferpVdkCEPz9ku1vAgwCxJovJ9J4A5Nc_BsN2s5NuKBUq0r0LyCv6J8FhWi32Gcw9MqIST97B_3cvTUzV3FedfuX3HAffJ3tkW3MDcJLgPUc6_miD2oiK30FNzfLnFw"/>
+  </entry>
+  <entry>
+    <title type="html">Дайджест лучших постов за 2025 год&#13;
+&#13;
+Писать посты в канал...</title>
+    <published>2025-12-25T06:04:10+00:00</published>
+    <updated>2025-12-25T06:04:10+00:00</updated>
+    <id>https://t.me/iosgr/4565</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4565"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Дайджест лучших постов за 2025 год&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Писать посты в канал – просто, а вот успевать читать их все – та еще боль. Так что всем спаисбо за то, что были с каналом весь этот год &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"&gt;&lt;b&gt;❤️&lt;/b&gt;&lt;/i&gt; &lt;br/&gt;&lt;br/&gt;Держите дайджест самых заплюсованных постов, чтобы было что почитать, подъедая остатки оливье.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA685.png')"&gt;&lt;b&gt;🦅&lt;/b&gt;&lt;/i&gt;Swift&lt;/b&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4301" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Правильный поиск вхождения строки&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4324" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Выпуск Подлодки про Swift&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4247" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Typed Throws в Swift 6&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA8.png')"&gt;&lt;b&gt;🎨&lt;/b&gt;&lt;/i&gt;&lt;b&gt;UI и покраска кнопок&lt;/b&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4271" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как рисовать карты на Swift Charts&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4518" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Находим SwiftUI View, которые обновляются чаще всего&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4395" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Dragula – drag&amp;#39;n&amp;#39;drop движок для SwiftUI&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4393" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Что нового в UIKit&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')"&gt;&lt;b&gt;🛠️&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Инструменты&lt;/b&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4488" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Нет ничего хуже Xcode&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4398" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как скрывать логи от библиотек в Xcode&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4250" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Создание файлов через Copy-Paste в Xcode 16&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4261" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Apple заопенсорсили Swift Build&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt;AI&lt;/b&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4511" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;AnyLanguageModel – используем любые LLM в приложениях&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4485" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Документация Xcode Intelligence для AI-агентов&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F95B8.png')"&gt;&lt;b&gt;🕸️&lt;/b&gt;&lt;/i&gt;&lt;b&gt;Swift Everywhere&lt;/b&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4371" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как бэкенд Things переехал на Swift&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4399" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Android на пути к официальной поддержке в Swift&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/iosgr/4258" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как завести CarPlay в McLarens&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/iosgr/4301"&gt;&lt;img src="//telegram.org/img/emoji/40/E29D8C.png"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4301"&gt;
+iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT - Telegram&lt;/a&gt;&lt;br&gt;Правильный поиск вхождения строки&#13;
+&#13;
+❌ name.lowercased().contains(searchText.lowercased())&#13;
+✅ name.localizedStandardContains(searchText)&#13;
+&#13;
+Чем второй вариант лучше:&#13;
+&#13;
+👉По умолчанию case insensitive&#13;
+👉Игнорирует диакритические знаки (cafe vs café)&#13;
+👉Нормально справляется…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Если у вас есть свободный час времени, подключайтесь...</title>
+    <published>2025-12-24T17:04:17+00:00</published>
+    <updated>2025-12-24T17:04:17+00:00</updated>
+    <id>https://t.me/iosgr/4564</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4564"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если у вас есть свободный час времени, подключайтесь на традиционный новогодний стрим подкаста Подлодка – будем подводить итоги года, рассказывать про наши главные открытия, самые полезные книги и всякое такое. А главное – разыграем среди зрителей Switch 2&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.youtube.com/watch?v=eafuYyRuy6A" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Начинаем через 10 минут&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=s6h99EUWemE"&gt;&lt;img src="https://cdn4.telesco.pe/file/Sk4C9t7DOMk4fU12kn1USsoc1N6w-FPmOlbdv-T1ZpJIhTHAtHHBcCmEqL8I-f91qlB4JQ_BbRV02BITxY9cHtw_tHrwbvbDhdexmxDem__kPJSmMLGAW9x4Qmm1ltx8FLtG40HDP5Qm8ZGnLf0I9QMo45KYnNDdijZFMm2vy1shISufCWyWJFDf-kI7RgFtso7qq0Ofzvkcz5Y0iGe0jnwpmkuRMc2YTSdsMgKGyLINiNAf81gzOnjCabT74ZKFzijWb57pEhIYDzCKXhD7vuJxqKOyWpPj9gx0IttWIQxzrOlLffw52RK38WlLX652neRZllXvtu5CGbHFBkzpzQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=s6h99EUWemE"&gt;
+Новогодний стрим - YouTube&lt;/a&gt;&lt;br&gt;Полезные ссылки:&#13;
+— &#13;
+&#13;
+❓ Хочешь обсудить выпуск или задать вопрос эксперту? Вступай в наш Telegram-чат: https://t.me/podlodka&#13;
+📰  Не любишь чаты, но хочешь оставаться в курсе дел и прокачивать свой IT кругозор? Подписывайся на наш Telegram-канал: там публикуются…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Как ваше приложение влияет на батарею&#13;
+&#13;
+Если вы не...</title>
+    <published>2025-12-24T06:05:02+00:00</published>
+    <updated>2025-12-24T06:05:02+00:00</updated>
+    <id>https://t.me/iosgr/4563</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4563"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/XQWO54HO64jcXpBjPgjU1iFTi1-_uaMDUF4dNrOiQI6OXbyzPNiEAgVgef5xYWmwM2XnZUBi6czHEamIOMpDj4baAr9G7_LPF-M_QVNaPA4rHydhvQFFeMVfk-REMcLTJkG-moXuWsPs65VcvmtyZAvrxz6d3pqOxb2WCe5-PwWksQmuiFPTB_GIonZs_HlBWJ-CTHlpmYiQOLVlm7xIdjdWg5cbbNMdM5aT93c7t5xxr5gIjLRrSLFR4MwkD0J3Aq7SMu8kBb02PJej_6IeHk7Q3EJLFpixypD2cgMXq3mCWZ6l_l6egJq-TGnypfU_xLf6qLKJYfdByudNHSGvXQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/303d96930b.mp4?token=Q7PHFRi5oUeVM1ap3IhipN-JRT2fiMpi1hXU7xOE_NVzrzaBBSwxS5i_Cdlrx7pypiKqVamJtfM-Ns9ppX91T6yLVLYGGehbZKMJ1QVV5482nIyPmEZ_N-ZCuXo96Wt4vspWIJ03N9jQsGL4XcbcOWu6KJ_Y0N6rBGuVPLlPMcny8SIfqQ202TvtYSkUt8pjIsSdbBWCwfKNEwzwSRTIxe69DLRQuH8yGU6iW7qst68mRnL1hKOwWOHXx-VUYtyKuadcUJc5H33umZc3Zcgge5l5MPR7ocKBejuGMfqhami_QJgpHB6Xb-tJA230egS-SFaqnn8CXtZ1B7YAXWARWzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/polpielladev/status/2000626967121453288?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как ваше приложение влияет на батарею&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы не знали, то в последней версии iOS в Control Center появилась возможность прямо на телефоне запускать профилирование вашего приложения и оценивать то, как оно влияет на батарею.&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/XQWO54HO64jcXpBjPgjU1iFTi1-_uaMDUF4dNrOiQI6OXbyzPNiEAgVgef5xYWmwM2XnZUBi6czHEamIOMpDj4baAr9G7_LPF-M_QVNaPA4rHydhvQFFeMVfk-REMcLTJkG-moXuWsPs65VcvmtyZAvrxz6d3pqOxb2WCe5-PwWksQmuiFPTB_GIonZs_HlBWJ-CTHlpmYiQOLVlm7xIdjdWg5cbbNMdM5aT93c7t5xxr5gIjLRrSLFR4MwkD0J3Aq7SMu8kBb02PJej_6IeHk7Q3EJLFpixypD2cgMXq3mCWZ6l_l6egJq-TGnypfU_xLf6qLKJYfdByudNHSGvXQ"/>
+  </entry>
+  <entry>
+    <title type="html">FAQ про Swift на Android&#13;
+&#13;
+Разбор самых частых вопросов,...</title>
+    <published>2025-12-23T06:06:00+00:00</published>
+    <updated>2025-12-23T06:06:00+00:00</updated>
+    <id>https://t.me/iosgr/4562</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4562"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/exploring-the-swift-sdk-for-android/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;FAQ про Swift на Android&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбор самых частых вопросов, которые появились после анонса Swift для Android:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Swift компилируется в машинный код, бандлит нативный рантайм со стандартной библиотекой, а для взаимодействия с платформенными фичами Android через java interop дергает Android Runtime.&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Android приложения на Swift уже есть в продакшне: email-клиент &lt;a href="https://play.google.com/store/apps/details?id=com.readdle.spark" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Spark,&lt;/a&gt; &lt;a href="https://play.google.com/store/apps/details?id=com.flowkey.app" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;тренер игры на пианино,&lt;/a&gt; &lt;a href="https://play.google.com/store/apps/details?id=com.naturitas.android" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;маркетплейс продуктов.&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Все важные направления будущего развития есть &lt;a href="https://github.com/orgs/swiftlang/projects/17" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;на этой борде.&lt;/a&gt; Среди них поддержка нормальной работы в VS Code и Android Studio.&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Рабочая группа не планирует заниматься UI, только шарингом бизнес-логики. &lt;a href="https://forums.swift.org/t/swift-gui-toolkits-for-android/83337" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Вот тут&lt;/a&gt; можно посмотреть проекты от коммьюнити.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/exploring-the-swift-sdk-for-android/"&gt;&lt;img src="https://cdn4.telesco.pe/file/CzLtF9WEuIpcHXxGk-E-fQI1pJ6QFwiSrMjsxUWsJvVP6y5IDyl1uLw9MczdNlWsX0xnXELyIedRMQFCKiQ078rWXJ_b0Ro-DpP2hJOLJZ1lms688WsgCFkmHltnq4DFrg-o2dz9URVU4dNFkWL6FW_Mily9L4UmOXsRGqv8aOxWIi-I8u5CZht_sGkWaKjQeMwYv4Oa57UASbKHAl_9EnzCHN7n1oukqQCKe7CJfU7jGa_mGh8mA3W5u7cwHT41oNN-0RJLFp7kxcDtgCYag__vk00g8ROGG0EmWyWnKZclzhZHc3i_a_REg9-5ACw6g-xGUNue5w1YK1bjADdZnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/exploring-the-swift-sdk-for-android/"&gt;
+Exploring the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Since the announcement of the preview Swift SDK for Android,&#13;
+the Android workgroup has seen a lot of interest in how it works and what’s next.&#13;
+Please read on for some answers to common questions about the technology and its&#13;
+future, and try out the new Swift…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Non-exhaustive enums в Swift 6.2.3&#13;
+&#13;
+В Swift 6.2.3 появится улучшение...</title>
+    <published>2025-12-22T06:03:06+00:00</published>
+    <updated>2025-12-22T06:03:06+00:00</updated>
+    <id>https://t.me/iosgr/4561</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4561"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/OD_8vCHWE_VAZrqDvf7_C0ihlKBNreAlQE3XiWwIwcHkGiOFc_SZ7tRHXVoDoDNF5yf5dCVhAsndai3rir8B5JUCWO0Yj7tZO8lzyGAnL_eVGqIdJAKtl6gbp8MfOareQx_LJTxtyx3NCTdqJEXr5kDqH7e7xMGmXJGdGIkpoGSxNMn-4l6W3kZP90ub37KxAdrmjzYsfe1Y2p9wxC9ZSVHnP9d5zJOC4pTz1FsptZbg0QKEEZr6T48_RwtZ-zSZVE9IEBhgwojzmfzpwD8MSy7Up9OzsCjQfYrePZ7CtwInnOQCKj1NRBOEl3dQhRS-xXSA1bidWfI6mERkFNf9TA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
+swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-evolution - GitHub&lt;/a&gt;&lt;br&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swiftlang/swift-evolution&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Observable классы внутри иерархии SwiftUI&#13;
+&#13;
+Разбираемся с...</title>
+    <published>2025-12-19T06:04:38+00:00</published>
+    <updated>2025-12-19T06:04:38+00:00</updated>
+    <id>https://t.me/iosgr/4560</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4560"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/gYzBnKhC-YeZRZKe2LFb7fHQ3bqaMPt9-uF6IxpG8x-bBSaieNPjc9u4F0T7uLdYbAj4JtB6hgJ6Fkx7iZ6_GPXwpdF0DPs9LRiwWbuNrwSGfHghcR6rHNrjFFD82w86cIx8ROuTo6EgoC60CcV1KKvB13WD5y1TVGSbnmDv2ACed9stdZYeX-_Fp8yyXqNh_d6oC-yQ85-ITechELWnTEGcGFVgU8ttUt-FtT1MVI1nRW3DXkG4gq6M5S_-DgZN6Lx79fvWY9U7Z91cD66Zp_WEvnnGmN9lD6WLZxOso3bZgTOFt66ng8drgkmHvEto9VJ61mdIirb7WTbYpGfrIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
+Initializing @Observable classes within the SwiftUI hierarchy - Nil Coalescing&lt;/a&gt;&lt;br&gt;Learn the recommended ways to initialize and store @Observable classes in SwiftUI views, and see what can go wrong when observable state is managed incorrectly.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Почему уведомления на macOS отображаются вверх...</title>
+    <published>2025-12-18T06:03:31+00:00</published>
+    <updated>2025-12-18T06:03:31+00:00</updated>
+    <id>https://t.me/iosgr/4559</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4559"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4559"&gt;&lt;img src="https://cdn4.telesco.pe/file/dcVYd7fpubntwueTAdYL3_qE5eZ9zkyXyF5vDX4WM2dIyv4traRNRstnEr1kTvuIsafBbYo05jLER5Vxp3wxt93LeZIUxk3oBB0CB9tDfeLcgxZZfeiQOHImTodMptiPbzDE1qK98YWAIpu22jXxkPfn22vg--wPmNNfZB-9cR3U9bj_Iswy7LQwv4yvJE3qztuQ8RLl0I7sjh3En7zIE2P_supCW3HZSJgiaiG6ZIxPcvz6WH2yfj9PFIP0E1Q5QVZaAACnDwRmOc79imP9i60IwybFeMuKlo1JfxJ5aVlYRHImg2bTS0D1h53EniL_MVl_7U5q1J8hAjozqa6qUw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/debugging-strange-calayers-chatgpt#x" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему уведомления на macOS отображаются вверх ногами&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Отличное исследование случайно воспроизводящегося бага, при котором уведомления от macOS приложения ChatGPT отображались вверх ногами, по ходу которого вы узнаете много интересных особенностей CoreAnimation.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SQLiteData – тур по библиотеке&#13;
+&#13;
+Pointfree выпустили бесплатный...</title>
+    <published>2025-12-17T06:05:00+00:00</published>
+    <updated>2025-12-17T06:05:00+00:00</updated>
+    <id>https://t.me/iosgr/4558</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4558"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SQLiteData – тур по библиотеке&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Pointfree выпустили бесплатный урок по основам работы со своей библиотекой &lt;a href="https://github.com/pointfreeco/sqlite-data" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SQLiteData&lt;/a&gt; – API-совместимой заменой SwiftData, под капотом которой, как можно догадаться по названию, наш любимый SQLite.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;&lt;img src="https://cdn4.telesco.pe/file/Reo-VAB7BtLzwTZ6AdTiNfVwW03bybdPrcD5-belVMekdNtFmkpKc_VqX9G9MpGQEMhe95rSFcfV_IJwwPiDudXIBBlGPXZkqEjxeMzh-g8ctiQSaY7wh3V0fvih2akVK4HXf2U_M2SjlbLxDUOex-YeQbJhhAfwj8eGUs0qsXrUOkEsXmd_c564RfL-1o6mW77DVVmaT82pkdnqtLq9KxNYT_r7NNdjqtRvx4Eq3KX0j8zYcCT1WyAA12RaUGYoL1cDIIB-mW2cuk0nGWgU12Dzkx3CKU1sDU232o6uROhVNYg6MO69RfpjKmodA-7gXZNMfn2NfeCRA4iyoBST7g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;
+Episode #347: Tour of SQLiteData: Basics - www.pointfree.co&lt;/a&gt;&lt;br&gt;We give a tour of our SQLiteData library, a fast and lightweight alternative to SwiftData. We’ll set up a fresh project with the package, define models and configure the database, and even write SQL migrations with the help of Xcode’s Coding Assistant.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Kotlin Multiplatform становится одним из ключевых инструментов...</title>
+    <published>2025-12-16T13:00:01+00:00</published>
+    <updated>2025-12-16T13:00:01+00:00</updated>
+    <id>https://t.me/iosgr/4557</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4557"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4557"&gt;&lt;img src="https://cdn4.telesco.pe/file/vc9VmclKjGXHQL2-u1ykdec32GKrJ5wtd6DgzcUM9aE1N3F-iwWnLPrNl-E8X2CsPoJG9dGGs3RA-fDqFx7ZklVgWtiRguHpeVp6hVp5RhxZ7wHkI4BOj0sVawF3DON1O_8BJVE0mWtk_SISKrngEmzk278_px-Xy82yn5CzWCToAkG-bs8TheeDSRtTeYJ1mrFa9vprIQ-nMJNUVMLIis8YAQokeErtO4nL7OxcmeFGPjdcpsvsPPqDNq2K5zrSdB2V0shsuzUawiZAIchaG7TnU12c1EZAsSNGjrCJR4HCg5qEJHN9msU4OrCkpMZH4rkP5Uu4UuF8urS7XMgwcw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Kotlin Multiplatform становится одним из ключевых инструментов для разработки кросс-платформенных приложений, а использование gRPC открывает возможность создавать быстрые и прозрачные сетевые взаимодействия. &lt;/b&gt;&lt;br/&gt;&lt;br/&gt;На открытом уроке мы разберём, как настроить KMP-проект, построить сетевой слой на gRPC, интегрировать это с iOS и учесть особенности платформы. Мы покажем структуру приложения, разберём реальные кейсы и обсудим, где KMP действительно даёт преимущества мобильным разработчикам.&lt;br/&gt;&lt;br/&gt;Урок будет полезен разработчикам, которые изучают iOS, интересуются кросс-платформенными технологиями и хотят усилить архитектурную насмотренность. Это возможность посмотреть на KMP и gRPC без абстракций, на уровне практических решений и интеграции в реальные проекты.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Встречаемся 22 декабря в 20:00 МСК в преддверие старта курса «iOS Developer. Professional». Регистрация открыта: &lt;/b&gt;&lt;a href="https://clck.ru/3Qs4pR" target="_blank" rel="noopener"&gt;https://clck.ru/3Qs4pR&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Реклама. ООО «Отус онлайн-образование», ОГРН 1177746618576&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Видео Swift Server Side Meetup&#13;
+&#13;
+Раз начали неделю с серверного...</title>
+    <published>2025-12-16T06:03:19+00:00</published>
+    <updated>2025-12-16T06:03:19+00:00</updated>
+    <id>https://t.me/iosgr/4556</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4556"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://youtube.com/watch?v=-iYxwx_GJa0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Видео Swift Server Side Meetup&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз начали неделю с серверного Swift, давайте им и продолжим. Держите запись докладов с последнего митапа:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://m.youtube.com/watch?v=-iYxwx_GJa0&amp;amp;amp;t=340s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Как настроить деплой одной кнопкой&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://m.youtube.com/watch?v=-iYxwx_GJa0&amp;amp;amp;t=3050s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Serverless с библиотекой Breeze&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=-iYxwx_GJa0"&gt;&lt;img src="https://cdn4.telesco.pe/file/DhBGLrLh6XDQaQPNJMSAvpV1s79iHdO_NBKcEi2oB4RWmaPu5kzVB9Y7yVWbmm-1rZSDZtPuCIkBc_iIOKihNhzxNJUTKPV9zm2LJZaM485YDo0rx-orjYuGET7KyXBg1lyc-CkODn0DYd-4fymIFvFWGmzhLt1etCztPo59cjqyNB4Gw7BMoZYUFWeprOi2yHg_q6BNdpLGcA4p-wN8yF_SP2p1E0xLwvFhbh7BVMpOIz_QKmJLoHNH1ynVQWe9XBHSCYe9ZYPXCUeZhWrzYsQ8sgs0Auw7VHWbAz28aPk_zhnmWFvW70r2t_25a7XLFe1n9jEMKR-ctagtnaTUfA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=-iYxwx_GJa0"&gt;
+Swift Server Side Meetup #7 - YouTube&lt;/a&gt;&lt;br&gt;Swift Server-Side Meetup: Deployment Pipelines &amp;amp; Serverless Backends&#13;
+&#13;
+Join us for two incredible talks exploring the server-side of Swift&amp;#33; Learn how to deploy Swift servers to production and build serverless backends entirely in Swift.&#13;
+&#13;
+🎯 TIMESTAMPS&#13;
+00:00…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Swift Configuration 1.0&#13;
+&#13;
+Swift Configuration, библиотеку для удобного...</title>
+    <published>2025-12-15T06:01:26+00:00</published>
+    <updated>2025-12-15T06:01:26+00:00</updated>
+    <id>https://t.me/iosgr/4555</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4555"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/swift-configuration-1.0-released/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift Configuration 1.0&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Swift Configuration, библиотеку для удобного управления конфигами и секретами, представили только в октябре – и уже выкатили первую стабильную версию&amp;#33; Помимо использования в серверных приложениях, библиотеку уже начали затаскивать во фреймворки вроде Vapor и Hummingbird.&lt;br/&gt;&lt;br/&gt;Детально познакомиться с ней можно в &lt;a href="https://www.youtube.com/watch?v=I3lYW6OEyIs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;этом докладе.&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/swift-configuration-1.0-released/"&gt;&lt;img src="https://cdn4.telesco.pe/file/MHHAeFlhQ2tIeVrhF16O7e0GCoMkKnsIJ7MdIB0H53-nmAgv5OsfGJAkGxzzjYNt0EoL2-19zzufI5XN8RJJQAq61NsJKHFLuliXye0jLZMqcRJpe9oQPELVuksAiW9UiH3_Ddzr_-bYEsIe0cEXK8HvrRSQ6ri027R0sC76eKwZJU66LdgfScFMVEpei_gAjfQ-xYE4ZHnBiY3tqpaNtxqRrl7Eh6om1F48gStnJQqgJLIj7vX0xACMYrSn8u6r6xMxqsQWJ2CKqmfiiYlLOY_sIJCAu9yNNCQJvO8aMwC39KWkwepQ7OpjYIPKXjB8gsCsAPAcn6-raibvDLV2kA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/swift-configuration-1.0-released/"&gt;
+Swift Configuration 1.0 released - Swift.org&lt;/a&gt;&lt;br&gt;Every application has configuration: in environment variables, configuration files, values from remote services, command-line flags, or repositories for stored secrets like API keys. But until now, Swift developers have had to wire up each source individually…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Penpot – open source аналог Figma&#13;
+&#13;
+Penpot, конечно, гораздо более...</title>
+    <published>2025-12-12T06:03:46+00:00</published>
+    <updated>2025-12-12T06:03:46+00:00</updated>
+    <id>https://t.me/iosgr/4554</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4554"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4554"&gt;&lt;img src="https://cdn4.telesco.pe/file/KXo-YMIY7lBRIxHCqx77zDDJJTXrS0XLozI0zcGLTPvfMAKNSDRgrLVjn0aXvDtdLYEpzX2p1eKJzLC2Axn4EAW09QSWSPwgbjPTuzctATOamBboUbb8icQxKbh3CtWDJyynBcvfxJZgIJp_LIyH3LyqPY4r-wBzykX4xCIQxbKjJoBWOmP7GwumZxlnl7xp3mCpEJ6FHd823GFDomAjRS-IMj2mN1XBWQQx_8kpFATGZaTZCeW8EjRneci8851qXUfjM_73fOxMJ3mGRRwIkHvCFeaJrLbbJldSGrfYN-sidVlTX9mVjeTOEvHQ8-fPn7lJyb2pDkrF6Bl8cke0CA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/penpot/penpot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Penpot – open source аналог Figma&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Penpot, конечно, гораздо более простой, чем Figma, но основные фичи там есть:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Коллаборативная работа&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Поддержка дизайн-систем&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Поддержка плагинов&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Inspect mode, упрощающий жизнь разработчикам&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Как заточить билд систему Xcode под агентов&#13;
+&#13;
+Tuist...</title>
+    <published>2025-12-11T06:02:23+00:00</published>
+    <updated>2025-12-11T06:02:23+00:00</updated>
+    <id>https://t.me/iosgr/4553</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4553"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4553"&gt;&lt;img src="https://cdn4.telesco.pe/file/G_pSC29zafPMZ4T58p1nv2zNAuP78MvzotN6wkoJbzQj9nMi5o1dfzNGF_1vLkyBIFdJsGzCm6jUMrRUt-XwUw2kmqmIRWMPfmcIfB8lC7bTS8EGjdrdRMuu_Vq4WMq8UwvRC1TmJMhxMX1zuxuCcRSbmkSqjQh3i146FidnjN8QgqzWraLjj1ECLH8oW7gDok5YmYRxvMSG5joO5u1tdCnbcdj0E9C-dtS89gNriQ4ir3hnZOFv1_0wgF7OVjSqKNyeUJ6-VMKRz9FfVdyHohcY3vSVwomElaRkGW9VSDFWuCVW_6no-LP9iJ3BuJ46fa0kvu3wl7hRApDJt9weJA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuist.dev/blog/2025/11/27/teaching-ai-to-read-xcode-builds" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как заточить билд систему Xcode под агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Tuist выпустили великолепный материал с исследованием того, как работает билд-система в Xcode, что из результатов ее работы может быть полезно агентам, а что, наоборот, только мешает.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Что спрашивают на интервью в команду...</title>
+    <published>2025-12-10T06:02:12+00:00</published>
+    <updated>2025-12-10T06:02:12+00:00</updated>
+    <id>https://t.me/iosgr/4552</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4552"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что спрашивают на интервью в команду Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Инди-разработчика пригласили пройти интервью в команду, которая занимается SwiftUI для macOS. Работу он не получил, но зато принес задачу, которые ему задавали на техническом собесе.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;&lt;img src="https://cdn4.telesco.pe/file/kXs18OYC8lEXCgALvfh8zt2x3r6cVWdrNmTZ1DbEX9F7WiALs3MWaJCk-nEi5TOHNEG7_PucTnvnFjEQEVAw-E4X4ksefn0Ra3xvEG7Ih96zcZNwAdLp2Xrd6iD9YXIP2YriPCqrVSuXcbjAKSHE0jpjuMTjItBXqYuHF_nfkqfo81bUJZZeqiSHbbVODdX746NENuSfZbRQSQVxdn3PFucwb906GKEuWtCkpfGUsxlaNxgWbWOPvtfpLbKe9nibHhR-siEfakbXlHpTI9hFxhvZiG91LhqfEnH2eaI-inSJwjXB2wZiiHEnQr2OyAAZD4jXAV1R8qpf5kxsoEqWkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;
+Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for a SwiftUI frameworks role and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Как устроены мобильные приложения VK «под...</title>
+    <published>2025-12-09T11:06:42+00:00</published>
+    <updated>2025-12-09T11:06:42+00:00</updated>
+    <id>https://t.me/iosgr/4551</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4551"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/WMCM0NyZnTywm2WkRIx3LLOTL3y_3hyMMIypRzWLtcbG_xZVa80kqSEqQKExCUKXXO8GYuE0nA-p0ofC8xEB-qUerC0pcgc2qRKdDXC07w8beKYzQw4HqN-WRBu0GIZhM5ADVeVGW7B4UqsVb9Bn8lRFEGhj4qklQPQHMefR3IWstkj2yL3_kHL7D2wXcQbBsUDyLxIRnw9TD-yefcaYKbDvdgJy-ipISoPqdayhx07g9qG28N0N1PcQjnSWhl0q6d8XMeM4Spm-nxOARToe7BBqtzAD56E621x-Y6saZoSaH9WlNf5pcILh9TBGd4D5_5b3TdrbOJsLeaU_DsWMvg" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/3594b0f30b.mp4?token=PBa029it7-0jMuDANkQgz-YzZPw5dOG4vfNc5ftZE3pDDIFLL75XttCkkXNRDzKRK5c6AMLWOi-5Ql93r8c3d5fW7nnEsV6JfgzRh_sy064ZBWyYjJ1NPxoQ3d0Ows5LIEA-kZFhRa5BwW6BNt02SEALJS19Ym6afMNgWlm2NgrA5r42fTLlA4z-PGq1XBPvVOTd5eFV-Rz2XYtDksISFeHzA7_GfdIQOxjnMvQJ5a7U-6n5NNlLKuM-PnnL45UKMWnE3ThM1Uo0mZyleY_tLcmAqOliH6f5BAwadrfGFyogtRJeV8hFt2-SWIUkNFO2nbqxTrUqcB7pR4RdAFZbWzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как устроены мобильные приложения VK «под капотом»?&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Команда делится своим опытом: оптимизация, память, подходы к нативу и кросс-платформе, эксперименты и индустриальные инсайты.&lt;br/&gt;&lt;br/&gt;Если хочешь развиваться как мобильный инженер, &lt;a href="https://bit.ly/4iLTvxJ?erid=2Vtzqx3H3of" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;стоит подписаться на этот канал&lt;/b&gt;&lt;/a&gt;.&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/WMCM0NyZnTywm2WkRIx3LLOTL3y_3hyMMIypRzWLtcbG_xZVa80kqSEqQKExCUKXXO8GYuE0nA-p0ofC8xEB-qUerC0pcgc2qRKdDXC07w8beKYzQw4HqN-WRBu0GIZhM5ADVeVGW7B4UqsVb9Bn8lRFEGhj4qklQPQHMefR3IWstkj2yL3_kHL7D2wXcQbBsUDyLxIRnw9TD-yefcaYKbDvdgJy-ipISoPqdayhx07g9qG28N0N1PcQjnSWhl0q6d8XMeM4Spm-nxOARToe7BBqtzAD56E621x-Y6saZoSaH9WlNf5pcILh9TBGd4D5_5b3TdrbOJsLeaU_DsWMvg"/>
+  </entry>
+  <entry>
+    <title type="html">Частые проблемы AI-generated Swift&#13;
+&#13;
+Уже, кажется, все знают о...</title>
+    <published>2025-12-09T06:02:06+00:00</published>
+    <updated>2025-12-09T06:02:06+00:00</updated>
+    <id>https://t.me/iosgr/4550</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4550"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Частые проблемы AI-generated Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Уже, кажется, все знают о том, что большинство LLM справляются с задачей по генерации Swift кода существенно хуже, чем с Python, Java, или другими популярными языками. Держите подборку самых частых проблем, которые встречаются в AI коде (можете вообще куда-то в гайдлайны своему агенту закинуть).&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/RVd2p9qqM0vI5XTH4cwuEsZG9FbLzA7NYriPHuzkuTuIO1fKFLPSwiORetF3wPEph6TdgVeB0-BjpLBNA1IUyXJ7n4pLoGqWX-MPw4GANYmAJzrL3HMphSrdSTTDkz36npvTytBvZhJX3W81axe-Fhu9YibQAcGAQVBFxOvImuesjDngTt0_ZCVIbtPDu36-A0Yf3BC8K4J6JiOTtV1-Hg3KE5BTEG1jlnVq6gGQUqjdnkGscxGWSJG4Rdy0JNRX4mbrJEsj33iE6TsSh-pWmpgqYzzbJWRPmVw6nUG8Pb1WYm0pRq28IiqhXSN6-KvlrETj6UWiaAjv7JJwim6SQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
+What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
+  </entry>
+</feed>

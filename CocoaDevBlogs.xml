@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
+  <icon>https://t.me/favicon.ico</icon>
+  <logo>https://t.me/favicon.ico</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
+  <updated>2025-12-30T22:22:37+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">SwiftUI Performance: Fix Unnecessary View Redraws https://t.co/WAmBgeZagT</title>
+    <published>2025-12-30T19:32:50+00:00</published>
+    <updated>2025-12-30T19:32:50+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25629</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25629"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Performance: Fix Unnecessary View Redraws &lt;a href="https://t.co/WAmBgeZagT" target="_blank" rel="noopener"&gt;https://t.co/WAmBgeZagT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;&lt;img src="https://cdn4.telesco.pe/file/amddqtlsmggtij9duT0UQlaHAeurG0QtQbviEeH1sO8mCmK5Q_tYbYAJ3n-dbtNuhI2UAZvqHvZVtJkTf_64q0jbVHnx3LEDknGzJsgjB5AJZmVK86S2HRMr1iB9BpHOYqio3TXOV65sgWUrTbZqVTz3lRi0o4hPeVK-WN4nyZnGZoar2TYg6x64KdkuprAenclT9AHytM_RkJuBsV3vBXnjZpHfzcWlUaytF3AfYpta_8bMZOEt-AznBCddzK1HM8FGnEFusg8uCxiy5tL909PFth7JLkkFxudgVIw4snaFUi8TFv2BKtebgiuJ3AdtJODKaV7PB9_cw50WCClx-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;
+SwiftUI Performance: Fix Unnecessary View Redraws - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+Learn how to identify and fix unnecessary view redraws in SwiftUI to boost your app&amp;#39;s performance. In this video, I&amp;#39;ll show you why views redraw more than they should and useful techniques to prevent it from doing so.&#13;
+#apple #swiftui #ios #xcode…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads https://t.co/UwMdNYJFnH</title>
+    <published>2025-12-30T17:03:07+00:00</published>
+    <updated>2025-12-30T17:03:07+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25628</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25628"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads &lt;a href="https://t.co/UwMdNYJFnH" target="_blank" rel="noopener"&gt;https://t.co/UwMdNYJFnH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;&lt;img src="https://cdn4.telesco.pe/file/cIshVC0n-eNkMWuVU-tw39sNrr_955rkKodkcYJ1MZ4ENWeRb7Z65ZpojP5-NSz12ojBwkJHyE9GuYa1epTRhB_B4r59Q0S6Uy1QZqrYmuiJzYNqvBhJQ9zrDrMYru9jXzafi5N9LcWWQk-tog-qaLG-JWtK1spYKzSv4gP-Rusd4Pp-FAMXv5Jo8o6tt0RZoAPHh4YD6mPI6JT-tVsgQakbkLF6cB-Xg75miUMFH2o-SUfO2kFYMwhdo5aR0dQT6C4LTdjstX-SujqFsLA73XZ6dWd64a8MUqYcBMFaArfcT6pKRfutDm86zz9jmFDBngtkm1_PtW794qJ3v0x5Kw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;
+Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads - YouTube&lt;/a&gt;&lt;br&gt;My Swift &amp;amp; SwiftUI Courses - https://seanallen.teachable.com/?video=LeMxRZdQa60&#13;
+Swift News Newsletter - https://swiftnews.kit.com/newsletter&#13;
+🔗 Swift News Link Repo - https://github.com/SAllen0400/swift-news&#13;
+&#13;
+In this episode of Swift News I keep you up to…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Understanding date decoding strategies when working with JSON in Swift https://t.co/q2XsAZF9uZ</title>
+    <published>2025-12-30T12:52:14+00:00</published>
+    <updated>2025-12-30T12:52:14+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25627</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25627"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/pEzLmi0Bl7YCDgHvVOWbesjUX5-ZwW_92gvgB7NxRJ9kUERC00qLLBp0Y16HGCyH8r_cVgN_V0wVpWn_jY_jskcHBtKftWEJY7_OBBSsXA2IVk83LdJ9iLgoBLzEhTulSmzugYa3lt9xZMi0kJ97aNpnDCAxBnl-I5MudXzKhKGjd01Fu-u6w_NQIrhRnVX-RXXlvO1OksVcrs0yLvRmQ3x-AmEa5nMLYy8-s2--qbJK_5ZEIR04ALYesRpbVRu1uV6XO_yplRr_HWvNxFVsTESTTR-DYxVqWaOnTOEi0r-N9eDRiQXAbVIGllZk_-WZTb5E_CFWP2fiw2hNT7cKFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
+Understanding date decoding strategies when working with JSON in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Dates are one of the most common sources of decoding errors when working with JSON in Swift. In this article, we look at how JSONDecoder handles dates, what the built-in decoding strategies actually do, and how we can safely decode custom formats without…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : TheBoredTeam/boring.notch https://t.co/VGtbZzTqKO</title>
+    <published>2025-12-30T02:02:47+00:00</published>
+    <updated>2025-12-30T02:02:47+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25626</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25626"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TheBoredTeam/boring.notch &lt;a href="https://t.co/VGtbZzTqKO" target="_blank" rel="noopener"&gt;https://t.co/VGtbZzTqKO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VGtbZzTqKO"&gt;&lt;img src="https://cdn4.telesco.pe/file/RxMExdoTzhijnNBhAWg1afOiuZq02REa13zv9sAotXcrxlFkL5dQ7qCVsis3vH2MwXGwJqVkMvaNT4LRxmThsNdec802Jckc76-ZoekoTg7n1xyWB5IlZ8u8ZgCP0Tef-Z-WNC9wuEhJTB-mo0IUwJlt7qpVHSbRrWk_WTqqFIj2htbcyYBc7CL9qUBvRSnpdwGkwq7m6sJyCcrLCeq8qSZ1MAcR_RO5q_IjLXG5NUbeZPDccKsTNHw413PZL1UfD0TVi2BRK1NoKIhPXSop0O-8qIt-0On5Y01IywuW8MWCxbqyS1IVcdjSToRA7xiJifLzTcZc7erhPYV7gSydLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VGtbZzTqKO"&gt;
+GitHub - TheBoredTeam/boring.notch: TheBoringNotch: Not so boring notch That Rocks 🎸🎶 - GitHub&lt;/a&gt;&lt;br&gt;TheBoringNotch: Not so boring notch That Rocks 🎸🎶. Contribute to TheBoredTeam/boring.notch development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : lwouis/alt-tab-macos https://t.co/CSLfAqNdST</title>
+    <published>2025-12-30T02:02:46+00:00</published>
+    <updated>2025-12-30T02:02:46+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25625</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25625"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : lwouis/alt-tab-macos &lt;a href="https://t.co/CSLfAqNdST" target="_blank" rel="noopener"&gt;https://t.co/CSLfAqNdST&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CSLfAqNdST"&gt;&lt;img src="https://cdn4.telesco.pe/file/RLS_Y8Q3qdNSJsnv-8do1ZwG4oIIeuBvz-M7ZaTK3HNMUtBFh8mDSXDk1HHlDpxL-pA0SAF-dqlrR3tvo1Cp2mdxRiqqtVwFciD4c0jXp2ptHSIuljP8HoPsGyojXgh6Iybhte2QgxKnve-NEM91nycQso-6A7kmS1LThER9602GLYmwFXuYTNJRa8mr_-bV-OYNjX9qq87qeGOoBbYK3nkU-ESWLK_EOViyeG2PPcJRhexUc4UR72WrIcuAbXe8uX73cbxRD_UgwabCMtAWfL8FEOpkOFcBlY97N8h1jqJ8Ra_Kbi_f4jdKv16YKsguyJprUzbjYiGCklHc6NXxpw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CSLfAqNdST"&gt;
+GitHub - lwouis/alt-tab-macos: Windows alt-tab on macOS - GitHub&lt;/a&gt;&lt;br&gt;Windows alt-tab on macOS . Contribute to lwouis/alt-tab-macos development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SwiftLee in 2025: A full year as an indie developer https://t.co/hlm2nuHl47</title>
+    <published>2025-12-29T10:47:30+00:00</published>
+    <updated>2025-12-29T10:47:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25624</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25624"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftLee in 2025: A full year as an indie developer &lt;a href="https://t.co/hlm2nuHl47" target="_blank" rel="noopener"&gt;https://t.co/hlm2nuHl47&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hlm2nuHl47"&gt;&lt;img src="https://cdn4.telesco.pe/file/lqQ7SvwXt8EVdqPMR9Oi58-Es4n0UEwrwH4Z_xg9lmNE_LiNgsYWR68GQUjr1XKl9jhvyWgd_BThofRc90TqoolOKG2N1vs8Zg6RtPwDp3PDxHWKBgRX4I0IAjIpl4oVRJUpOYtaAqdONnWMjYWdcGdesuHOfv7EHiNsVV8sUE-w0AtnXW4ZLHhge8_GR4T0PmQt0X9yjhlMjEu0xDdxXp7NXMKNdhINWvWbJQUsvwlYxvzwlLm4nP7edu-j169k5IBMzoT0rBEGQS8j-4e6ujl9FyGIVxiH9FXOjlyi3xs1H61ZcY7OH1Ys4NrgHkXXAAoA2krwtoRaTf7eqDKivg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hlm2nuHl47"&gt;
+SwiftLee in 2025: A full year as an indie developer - SwiftLee&lt;/a&gt;&lt;br&gt;Reflecting on SwiftLee 2025: milestones, independence, and a transformed approach to app development.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">How to use Claude Code https://t.co/iHlVnD26pO</title>
+    <published>2025-12-29T06:47:52+00:00</published>
+    <updated>2025-12-29T06:47:52+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25623</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25623"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use Claude Code &lt;a href="https://t.co/iHlVnD26pO" target="_blank" rel="noopener"&gt;https://t.co/iHlVnD26pO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iHlVnD26pO"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q8mftJ8rCSxMC6YtE9aZoXkd0ZZ6sMysPKX0oXkl66KVMaLPT7SjFZWwA4VyDBg8mw6X5ANLEJg5n_umZXi-6UYDGz3oiRHhA3eBcws-GzCC3ps4s6iiJbkCoQYz0W1QXg7fTpkoVbNc4zis8odad-dJOkUc9iN0f8RcxsFZykhSR9qeCOPQr6csncujs-lpvoYfKMS5H60pdiibVUJQway74IpNrbFortZyYgPmmNjCpKqrw5jZX2cLVkv_HvxR7SLxThAsW_yC8slFPzup_lmGyASOlTxlTpSpoVTbuTcZTdNplWWDuxOxhglFHOs2IfrfH_PzcZ15FJBgNpK3pw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iHlVnD26pO"&gt;
+How to use Claude Code | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1000&#13;
+I’ve been using Claude Code daily for months. Here are my notes&#13;
+Extended Thinking: The Magic Words&#13;
+Claude Code has built-in thinking modes that allocate more compute for complex problems:&#13;
+&#13;
+“think” → ~4K tokens&#13;
+“think hard” / “megathink” → ~10K…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : TTTAttributedLabel/TTTAttributedLabel https://t.co/WT54CRseAE</title>
+    <published>2025-12-29T02:02:46+00:00</published>
+    <updated>2025-12-29T02:02:46+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25622</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25622"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TTTAttributedLabel/TTTAttributedLabel &lt;a href="https://t.co/WT54CRseAE" target="_blank" rel="noopener"&gt;https://t.co/WT54CRseAE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;&lt;img src="https://cdn4.telesco.pe/file/TrTzYOT_MtE78JXAVSYn7Uw_kz05MtdwrwHgbkX-oWhuRnqhbzFDQ2gbUANlYEQpqL1fykF-Jv1U_qbfXprcgfamqhqJF8HhJCivvOwy0LhQbTUAqARd4ILPoMU11GGdgoc5j5N-XWdpGS3sYLJd3BfGgNtMDHLO1Hg-2S-XaJwZ9vS7wbnu_2FwIkUKNY-mknXSlEDRhbHrjPSz-DZwcC2CEW8dUcNmpGJZ-yzYdt4ez8_bqMOFLTaCITMo3F5hKT7oUVBsSCh3uoyO_-4-so0USWwJQ545gsOb0jKfzPADN0ukuTr_M0uIlpdrwJmDs4hA8oO1n3cgMZGxg2Wuiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WT54CRseAE"&gt;
+GitHub - TTTAttributedLabel/TTTAttributedLabel: A drop-in replacement for UILabel that supports attributes, data detectors, links… - GitHub&lt;/a&gt;&lt;br&gt;A drop-in replacement for UILabel that supports attributes, data detectors, links, and more - TTTAttributedLabel/TTTAttributedLabel&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : nakst/gf https://t.co/BMhYZIvA5r</title>
+    <published>2025-12-29T02:02:45+00:00</published>
+    <updated>2025-12-29T02:02:45+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25621</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25621"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nakst/gf &lt;a href="https://t.co/BMhYZIvA5r" target="_blank" rel="noopener"&gt;https://t.co/BMhYZIvA5r&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;&lt;img src="https://cdn4.telesco.pe/file/HXnnJ87WgV59kx8ZUn75jmcs4VvZfFyZjPEs_2F9k208iTqLY047IR2JfJ-gXnNFY2qfKWMQTzRRgkWX3GXDvYX0LfkvY2j3VZtNtcTfxNFOvdKcQtWQat6_YNu9TqTDzw6H11XdFFNFBrJRyjocRpOHX1CYADq7MP3QZ086RnQvzeScVVkuxaJCRZj8ehDCPlUZFiL9TIQWpJh4Lni-JZEvtWJQQ65PSJR1Al0uHtD3nDuO_JcpyN9O1uyeHmDKQfHPOsjuLtZRTeADFvUcWoH-5p-eA6SqFm6-aXzRoJWLoVsDd2uZD8Q32ltujt75fMZ0If8ugVTQHb4rMfACsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;
+GitHub - nakst/gf: A GDB frontend for Lïnux. - GitHub&lt;/a&gt;&lt;br&gt;A GDB frontend for Lïnux. Contribute to nakst/gf development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Ebullioscopic/Atoll https://t.co/bkOsugL9HJ</title>
+    <published>2025-12-29T02:02:45+00:00</published>
+    <updated>2025-12-29T02:02:45+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25620</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25620"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Ebullioscopic/Atoll &lt;a href="https://t.co/bkOsugL9HJ" target="_blank" rel="noopener"&gt;https://t.co/bkOsugL9HJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/VBd82OzWuhGRDF6sxYf_SvUcZXnna9JdFweX0k47Ijm1Uzl6wAYNMKRdkvkyAejR77Usn4KGqEvxnMPLbiEpSRbMYvA6F4nL50S9wmyICyFHNXajwnmTDs0OUXwLcBQa2d7y3moeWwT9-PK4VfULU1lsA8c_kW4oZBAmH9Zk3Jk-AoWPotkwbyyNry7lv9HJBSAx60EBgyNzhUAT5mLPcqVGmhsgR05OmHwqmSK76EjyPwvz8Wv98U9X2L3keRTuc6dK4ni2DWGQQdA-dF1buoVBBhAudPYeHr_EEPmISIVld55uqoFH1cuzZdTruTrtbfMk-P3SB_6KXcQlZZmGOg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;
+GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&gt;Dynamic Island for macOS. Contribute to Ebullioscopic/Atoll development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : OpenEmu/OpenEmu https://t.co/DiOx9oxtJ3</title>
+    <published>2025-12-29T02:02:44+00:00</published>
+    <updated>2025-12-29T02:02:44+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25619</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25619"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OpenEmu/OpenEmu &lt;a href="https://t.co/DiOx9oxtJ3" target="_blank" rel="noopener"&gt;https://t.co/DiOx9oxtJ3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;&lt;img src="https://cdn4.telesco.pe/file/VNoWYfI3ibcVGbrZI7G6qf6XDjCQrpSeEhdR6xv4qby1GGtLfmkInEs8UWVqmNfPuCngaTDB9vALZbHXR3L80XigG095NmXYVB9XMVGGbWoOZLt1W037pZXxZRK4ticr-RCHZxSYiAu1u1lHoWOEXsjoIfFXj160OIAm9kUPYeGzwCwwx-YdefFZHho6Mq_kLouQNkUiTIFbtl-tnh2S0qgvgQrUB_NiipTqNHHeQg5fW_5dTVmrUsMX-HNbDzGWEL2EX3wuf9CJkqphYZlvS7HZpyG2_S6CHMHE9YbQ6BDxt6FPge8fW52DPBwh29lJkjpJ0uUoORKvWwMvKSTtOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;
+GitHub - OpenEmu/OpenEmu: 🕹 Retro video game emulation for macOS - GitHub&lt;/a&gt;&lt;br&gt;🕹 Retro video game emulation for macOS. Contribute to OpenEmu/OpenEmu development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : ejbills/DockDoor https://t.co/XOkFDE9K60</title>
+    <published>2025-12-29T02:02:43+00:00</published>
+    <updated>2025-12-29T02:02:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25618</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25618"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ejbills/DockDoor &lt;a href="https://t.co/XOkFDE9K60" target="_blank" rel="noopener"&gt;https://t.co/XOkFDE9K60&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;&lt;img src="https://cdn4.telesco.pe/file/uw8HCZuJYwbyWzWBDxnsxOyuj3V1Iey5j6YxMCn9DuGAUVwqaiylecZTmmZTIeKNbrK35qn8gdJxtjV7BC7axhvS6qWFiIl2tOLWA2w3Nukjh9AQTOd1GIAp8Ir5IhFCwcwkNA7H69RAZG87FRXA4AstTFQTjMwh81F8-k2mBXkCACVPSKXU4Uwck4uFayUKPata6K2BBCjn6xrqgoPXBiKX4k-GVCJ-Gb578zqBKjP3hrgXASDQJNHF1YaTZ3JP4rPcT65-fwGpDEQXLiJBImS1IbAWWcEC7wuVFr3-BHXefIHhp3E-HugHxbDmx2Q1-ibKtQSl_0F9r-AmDb6Pjw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;
+GitHub - ejbills/DockDoor: Window peeking, alt-tab and other enhancements for macOS - GitHub&lt;/a&gt;&lt;br&gt;Window peeking, alt-tab and other enhancements for macOS - ejbills/DockDoor&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Rocktopus101/Hingemonium https://t.co/yhDuBbXsd4</title>
+    <published>2025-12-28T02:07:20+00:00</published>
+    <updated>2025-12-28T02:07:20+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25617</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25617"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Rocktopus101/Hingemonium &lt;a href="https://t.co/yhDuBbXsd4" target="_blank" rel="noopener"&gt;https://t.co/yhDuBbXsd4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yhDuBbXsd4"&gt;&lt;img src="https://cdn4.telesco.pe/file/AjDUTPei5DbNVXYOLrlaZta5D6ChFtwtvbqxDpMGX5ahL7SXsRDJYYwUu8jwJcK_bQAD-ZK-jcmDh3rhmk3OSxBn_Z7NWtcVjs4B6oB-h9dDFZNMYLbf_PiQezU3pDuFt2p1YvdToSLSztXwHkjaFoYt6MkNRfbMyUipU9nfuQuN9sH7h5TJoSkRvP-kV19LJ8zId_NVWlHs5_vimn05JRCUo82v1xurOGI-ei1HSD9AErWj9kFRJKAlgAxwlY5XohbFzVNNu8VHqwIrSq9nTWRTG_6BOUszgZ5t2_CVLdGoVUFaf2QIcV1t8-rRUW8iyJjfJSLoNk9qnFz_T8-KAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yhDuBbXsd4"&gt;
+GitHub - Rocktopus101/Hingemonium: A fully functional Harmonium for macOS. Uses the hinge/lid velocity to simulate air pressure… - GitHub&lt;/a&gt;&lt;br&gt;A fully functional Harmonium for macOS. Uses the hinge/lid velocity to simulate air pressure and volume. - Rocktopus101/Hingemonium&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : TimOliver/TOCropViewController https://t.co/86I7IvQZvd</title>
+    <published>2025-12-28T02:07:19+00:00</published>
+    <updated>2025-12-28T02:07:19+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25616</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25616"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TimOliver/TOCropViewController &lt;a href="https://t.co/86I7IvQZvd" target="_blank" rel="noopener"&gt;https://t.co/86I7IvQZvd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;&lt;img src="https://cdn4.telesco.pe/file/StrljRP2jxiHkq12twxHaRiGU_D6LuVisFu2hZInyYUohY2LeP0AZfJiIO3adNbx4EfDME789xRR-AXst7V_BMXQgAxPFQgrsUa0Fcije4VlvVj7PNv_wrcXJJSr4aCCUAkerGR7u-sEy3wllwCr7ang4Ea4S2gBYTkV-Oc-VDcVz0I1yeocdf_Hy7HnfjDtawHZqkBkcAEm2nK4h2wN5DHzLtzok5-aLNszBFsK5RPIyhVOFR33TIWKJ69tVA-WCYOfTpDgTbcsYAGoTDrjmYebev4lD7Vc12kTIQko3Iv8zk425SSt6hT7K4jLGkcxj7v_PTV9-qb-AS4CW_OQBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;
+GitHub - TimOliver/TOCropViewController: A view controller for iOS that allows users to crop portions of UIImage objects - GitHub&lt;/a&gt;&lt;br&gt;A view controller for iOS that allows users to crop portions of UIImage objects - TimOliver/TOCropViewController&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : XITRIX/iTorrent https://t.co/2h3udJlNoN</title>
+    <published>2025-12-28T02:07:18+00:00</published>
+    <updated>2025-12-28T02:07:18+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25615</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25615"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : XITRIX/iTorrent &lt;a href="https://t.co/2h3udJlNoN" target="_blank" rel="noopener"&gt;https://t.co/2h3udJlNoN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;&lt;img src="https://cdn4.telesco.pe/file/tl9lJ3FpacNm6F3ghLH33L-ZaOWCwBo7BWANKPZ0N-az53F768pEmfBODEMDHRzOQ66QtQUDGJyVG3X4mZMJL_NmHQzF_peE3ndzH79LguGKuSLz9oNvnW8jeSJPcQQlVEa_XGRWLvngk66kRmJlWlRVqjVTYWVTJVfhS_liiBlZUDQY8XEVZ0QRdSz-xsU0BkXAqXNh_77DRBUkjMzLPPsDpNG9RctFTYo4YJ5U3g7r_zWtnuyZkb6sdTr8A7RzxvMT-JiObYrQ9yOEq4FiaCJsSgkECfQnwr-JDZNId5lRbrJRNXTnD4nXFQFHJSQ5HxZ8FRKG8GtLLrKarnqQaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;
+GitHub - XITRIX/iTorrent: Torrent client for iOS 16+ - GitHub&lt;/a&gt;&lt;br&gt;Torrent client for iOS 16+. Contribute to XITRIX/iTorrent development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : tw93/MiaoYan https://t.co/SjvNwxuc3v</title>
+    <published>2025-12-28T02:07:17+00:00</published>
+    <updated>2025-12-28T02:07:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25614</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25614"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tw93/MiaoYan &lt;a href="https://t.co/SjvNwxuc3v" target="_blank" rel="noopener"&gt;https://t.co/SjvNwxuc3v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;&lt;img src="https://cdn4.telesco.pe/file/r2WRP6P1Pjn2WcBqiHxSNvrJAgIMfcCXtoair9hDnOE95uMk0kHQh6OsUv-y1oPobB5jOVwyw0DwGxAz4SpWE_WpAhuv_KyzN-d04sohQy9lHwLROklh-SIHSk4OJ87xYLa4ghZpQ7aJiIVHWofXOKv4Dwc7Q9321tuZq6rUkEE1IwwzFzVW26NKvr92AJDSB3dygA5ptgStxwuCKM5euoIc82DXQuTfHThdU3Xg7SkOHBj_ztrzfYQKD3119KcreffutL_ZjAyjLfEJJPseCk-upZVt34oIhKCJLQOjmnHgu1NjC1-u7Wa3qq0PLhv4w9laL-ZHDOYxHQAdSmGgsg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;
+GitHub - tw93/MiaoYan: ⛷ Lightweight Markdown app to help you write great sentences. - GitHub&lt;/a&gt;&lt;br&gt;⛷ Lightweight Markdown app to help you write great sentences. - tw93/MiaoYan&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : overtake/TelegramSwift https://t.co/GQrCZS1I7K</title>
+    <published>2025-12-28T02:07:17+00:00</published>
+    <updated>2025-12-28T02:07:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25613</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25613"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : overtake/TelegramSwift &lt;a href="https://t.co/GQrCZS1I7K" target="_blank" rel="noopener"&gt;https://t.co/GQrCZS1I7K&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/GQrCZS1I7K"&gt;&lt;img src="https://cdn4.telesco.pe/file/BHNHnA0fRNIZpIb6yFUy75te7dU6IpUO2bc6160t_yThDJJPKJKkguxnAV_sG0u5qMBWEhPidGtJfIZUiBVlBykWs3MOk2GEIi8frbmBAtsRlrWCtPXfMK9j0-YtmnRklUWFlvQL-Tve2iJcUco28-q2bxqz5YPDIrACzBcEFlaEyHz9jplJ_7maGYooX1gaWV4xP46EXLmYVNzcfDiv35GfBpq2o_ovotzTANg29Yv-7OuzdoHa0aNoCSeYgmlpOpKDtEp-O17sMEH_a3ne2rZQDxiU9NDz1RdDjfJZAgN1CqLT7MHx9_qbfxTfO0XE_UxJWvO5evOaHi2yDqNf8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/GQrCZS1I7K"&gt;
+GitHub - overtake/TelegramSwift: Source code of Telegram for macos on Swift 5.0 - GitHub&lt;/a&gt;&lt;br&gt;Source code of Telegram for macos on Swift 5.0. Contribute to overtake/TelegramSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : whoeevee/EeveeSpotifyReborn https://t.co/xKfRTFfHO8</title>
+    <published>2025-12-27T02:02:55+00:00</published>
+    <updated>2025-12-27T02:02:55+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25612</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25612"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : whoeevee/EeveeSpotifyReborn &lt;a href="https://t.co/xKfRTFfHO8" target="_blank" rel="noopener"&gt;https://t.co/xKfRTFfHO8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xKfRTFfHO8"&gt;&lt;img src="https://cdn4.telesco.pe/file/msM2y3HJArvjy5vex9-huoLmATlwB_prr4-QorUDJWGyU7J676vQ1yF5FR-k-GGB5FNQJSAfRSQV9OrRczzhx7a9sLt4FgrLQFt3SQnieEnmF67SHoKQZoFnG0aR24NQufhzL6ehjk2SbNu1cUzsLELUD6v0kljYZGUFG-pi5PchLE2ifXpwLJiYvsvFNFOLXwH6RsPNDrFEN_ibdPhoK_GmOdmJb0RMRL8Xmbr9xbVrOXk4u6nNm8txdinDPj7NmPcry_tZhokoPveotOq8ebt6jnXCRDZ-lsDdBvyGotvDOWmELTzE0ygvThtFQtCcLDqQgB6iM7Qp38W1NzgE9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xKfRTFfHO8"&gt;
+GitHub - whoeevee/EeveeSpotifyReborn: A tweak to enhance Spotify experience - GitHub&lt;/a&gt;&lt;br&gt;A tweak to enhance Spotify experience. Contribute to whoeevee/EeveeSpotifyReborn development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 https://t.co/fTdbgUDvMM</title>
+    <published>2025-12-26T20:07:27+00:00</published>
+    <updated>2025-12-26T20:07:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25611</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25611"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 &lt;a href="https://t.co/fTdbgUDvMM" target="_blank" rel="noopener"&gt;https://t.co/fTdbgUDvMM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;&lt;img src="https://cdn4.telesco.pe/file/fAH2WuraLnF2cUNPllWrpGakwSQg-aJ6lls1NXGr9yXU6-S1MaQCgLPjh8Gq65Kpu7I-XUdTZhhZm0OJwoEj8Q4QxXvE4u9tu4R_WQDzlebXHq5aIG0K3VdvxMQvVEK24QRZ-jTT7gg59hK7QlD--wY5sHZ8bEa-99_XJRyIyBSm7-GpfeWDintTfBeXTawo5yEZNsYV426NKFwqvEN9HkbhU4nhz9wa1fnpnzpgReGqnP0sEzO_g7W1snP3vpWNJM8HKylgEiMLMbEOdDkCJcmwt2nKqsnlj1_ZfnupXYRBtvfzxUjlDVNvLv5-lj8Zz17ImuE6XUFwL6sgmkz5qg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fTdbgUDvMM"&gt;
+Drag &amp;amp; Drop Floating Window Panel | SwiftUI | Xcode 26 | macOS 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I&amp;#39;m going to show how to create a draggable floating window panel which allows us to drag and drop the image file just like Native macOS Screenshot app using SwiftUI.&#13;
+SwiftUI Floating Window | SwiftUI WindowGroup | SwiftUI macOS…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : tisfeng/Easydict https://t.co/CiWM8KWpSJ</title>
+    <published>2025-12-26T02:07:21+00:00</published>
+    <updated>2025-12-26T02:07:21+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25610</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25610"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tisfeng/Easydict &lt;a href="https://t.co/CiWM8KWpSJ" target="_blank" rel="noopener"&gt;https://t.co/CiWM8KWpSJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CiWM8KWpSJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/o0R89E_W2Fzb2ydz8qT-vFm26saDvJGp1Py4drlSqEwEF5ViSP4gpiXlYewz5Czo0k7Z0kGNFSTCfnBZ5eWlMuY-E42G15sXcfbryJBq23xpgxfSXiiaMNeAz6a5gQNS7Vf3kRZNTQ18PsCrq_KknPz50Q_9Fs6fxAvBr7bxUNCh_ijKRfALxkM3gM1uZxa9FekIcs20SBexLJKujstKf6w9As7kG3bdHuDgYNIS4H5GsKBGyrwgNs-BIHYCuxIJNBfDjgmpums9OW6HwM7HOsMaOCTQsqt-5edFKcJC0fQ-xlft4k2lmC_NrkfOkMkZfzSqc6TZxB4ubENCVP288A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CiWM8KWpSJ"&gt;
+GitHub - tisfeng/Easydict: 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，… - GitHub&lt;/a&gt;&lt;br&gt;一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words an...&lt;/blockquote&gt;</content>
+  </entry>
+</feed>
