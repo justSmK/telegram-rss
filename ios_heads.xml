@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2025-12-30T15:26:47+00:00</updated>
+  <updated>2025-12-30T16:31:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -191,7 +191,7 @@ Creative Coding: Randomness and Noise - Create with Swift&lt;/a&gt;&lt;br&gt;Und
       <name>iOS.Devs</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ребята запускают цикл статей What’s new in Swift на каждый месяц.&lt;br/&gt;Вот первая за октябрь.&lt;br/&gt;Рассказывают, что интересного появилось, что намечается, что интересного было на конференциях и так далее.&lt;br/&gt;Последим, вдруг будет интересно?&amp;#33;&lt;br/&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/whats-new-in-swift-october-2025/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/"&gt;&lt;img src="https://cdn4.telesco.pe/file/IinPdUrXrGN1t6FPR7d2MaAtX1oWBwltvO7nvX2l58p6lgXkMdI1FpCCI4lyHJzBIk0L16TCvr8OpU3j4t45DGEHM5t0MNEDqtjebgmZ00hDH57rhYmI23oyuW_TCH_1lXiVENoF1ff3nH5-2euFvQXKivuStZNvDYuUNpZcMP8NO1p85VivPfgMXK8L2OSIvA1tW7n5tqdnYxxzon82ODObnWZMvnBLNAvGK5zzSK-upjUB18-UaT3jCRXAO9zf9z-WtX-OZfziRcv965_pJxK64ENWxVPs49gDG5uB3euq59C-udcbxTuXK9twVJOKJaGPI6NT8562Gf_kuGH9Xg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-october-2025/"&gt;
-What&amp;#39;s new in Swift: October 2025 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Editor Note: This is the first of a new series, What’s new in Swift, a monthly digest featuring what’s new in the Swift project and ecosystem, with insights and perspectives from across the Swift world. This October edition covers highlights from the Server…&lt;/blockquote&gt;</content>
+What&amp;#39;s new in Swift: October 2025 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Editor Note: This is the first of a new series, What’s new in Swift, a regular digest featuring what’s new in the Swift project and ecosystem, with insights and perspectives from across the Swift world. This October edition covers highlights from the Server…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">Обещанные апдейты от Apple подъехали, что касается ревью...</title>
