@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-31T19:18:42+00:00</updated>
+  <updated>2025-12-31T20:26:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -93,7 +93,7 @@ GitHub - pcccccc/AngelLive - GitHub&lt;/a&gt;&lt;br&gt;Contribute to pcccccc/Ang
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Performance: Fix Unnecessary View Redraws &lt;a href="https://t.co/WAmBgeZagT" target="_blank" rel="noopener"&gt;https://t.co/WAmBgeZagT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;&lt;img src="https://cdn4.telesco.pe/file/amddqtlsmggtij9duT0UQlaHAeurG0QtQbviEeH1sO8mCmK5Q_tYbYAJ3n-dbtNuhI2UAZvqHvZVtJkTf_64q0jbVHnx3LEDknGzJsgjB5AJZmVK86S2HRMr1iB9BpHOYqio3TXOV65sgWUrTbZqVTz3lRi0o4hPeVK-WN4nyZnGZoar2TYg6x64KdkuprAenclT9AHytM_RkJuBsV3vBXnjZpHfzcWlUaytF3AfYpta_8bMZOEt-AznBCddzK1HM8FGnEFusg8uCxiy5tL909PFth7JLkkFxudgVIw4snaFUi8TFv2BKtebgiuJ3AdtJODKaV7PB9_cw50WCClx-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Performance: Fix Unnecessary View Redraws &lt;a href="https://t.co/WAmBgeZagT" target="_blank" rel="noopener"&gt;https://t.co/WAmBgeZagT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;&lt;img src="https://cdn4.telesco.pe/file/sf1UWwN9KgYID3Q3mbZTtGlTyfecQ-TCkz0VU5gqB6uFBUKwmNnygtiBOzUuv29O7SV6ethnnL-or1ExHtp2xJbOtR3Pwr2WbJqMpR0F7eCDiXSmOdqdDkCIW8qjDNgXN_ylBIKT0lr8yKNH1BL3RQORINwuL9Xjs64392ZB2QSSg16e-8KMSQlSpekBu0hBLHzPjOC0xtX6vVc5Sy62scwCrzymu9LuLpO9LOSN398tSHOF4XzshIRgc_alzDFtjhqNch20hU4P0ZG9efJ4GZh4mKvqbHt60IwhutNX9Glmnk2O1_qXDdl75liF8jHfaJhtOxHfYEACNUdZET545g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WAmBgeZagT"&gt;
 SwiftUI Performance: Fix Unnecessary View Redraws - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 Learn how to identify and fix unnecessary view redraws in SwiftUI to boost your app&amp;#39;s performance. In this video, I&amp;#39;ll show you why views redraw more than they should and useful techniques to prevent it from doing so.&#13;
 #apple #swiftui #ios #xcode…&lt;/blockquote&gt;</content>
