@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2025-12-31T10:26:08+00:00</updated>
+  <updated>2025-12-31T11:21:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Прошедшее и непрошедшее время&#13;
+&#13;
+В японском языке есть...</title>
+    <published>2025-12-31T11:03:14+00:00</published>
+    <updated>2025-12-31T11:03:14+00:00</updated>
+    <id>https://t.me/iosdev/1827</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1827"/>
+    <author>
+      <name>iOS Dev</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1827" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Прошедшее и непрошедшее время&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В японском языке есть всего &lt;a href="https://mel.fm/zhizn/knigi/8063547-linguistics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;два времени&lt;/a&gt;: прошедшее и непрошедшее.&lt;br/&gt;&lt;br/&gt;Так и хочется провести параллель, а может и сравнить эту концепцию с красной нитью, которая так или иначе окружает нас в последние годы (из-за всего, что происходит вокруг, от ИИ до более важных, глобальных историй).&lt;br/&gt;&lt;br/&gt;Вопросы, которые остаются без ответа, тенденции, которые далеко не всегда положительны: достаточно вспомнить коронавирус, который внезапно &lt;i&gt;исчез&lt;/i&gt; из инфополя, да много чего ещё.&lt;br/&gt;&lt;br/&gt;Но важно то, как лично вы справляетесь с этим. &lt;br/&gt;&lt;br/&gt;Возможно, это всего лишь навсего пока что &lt;i&gt;непрошедшее&lt;/i&gt; время.&lt;br/&gt;&lt;br/&gt;Но &lt;a href="https://en.wikipedia.org/wiki/This_too_shall_pass#:~:text=This%20too%20shall%20pass%20is%20an%20adage,ephemerality%2C%20of%20the%20human%20condition%20%E2%80%94%20that" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;и это пройдёт&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5463156670609768068"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E84.png')"&gt;&lt;b&gt;🎄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; С наступающим Новым годом.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Лучшие посты для iOSDev за 2025 год&#13;
 &#13;
