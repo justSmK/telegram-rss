@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-31T07:26:43+00:00</updated>
+  <updated>2025-12-31T08:33:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The People Who Got Me into Emacs https://t.co/H0Fnlvv6a2</title>
+    <published>2025-12-31T08:17:39+00:00</published>
+    <updated>2025-12-31T08:17:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25633</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25633"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The People Who Got Me into Emacs &lt;a href="https://t.co/H0Fnlvv6a2" target="_blank" rel="noopener"&gt;https://t.co/H0Fnlvv6a2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;
+The People Who Got Me into Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;An end-of-the-year appreciation post for the Emacs community and the people who got me started.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : facebookincubator/SocketRocket https://t.co/dDpCwwrKf4</title>
     <published>2025-12-31T02:07:37+00:00</published>
@@ -249,17 +261,5 @@ GitHub - XITRIX/iTorrent: Torrent client for iOS 16+ - GitHub&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tw93/MiaoYan &lt;a href="https://t.co/SjvNwxuc3v" target="_blank" rel="noopener"&gt;https://t.co/SjvNwxuc3v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dg3APGXRVqLZwEUKAuZlqdppGj3wPp-pCDdFdA2uB3MMliFlRQrGjzrOBtqjBf0DvhsrOmF7zsj-4cGVJVAEDpRY_b49-nnyMKYzJhr0ur0RFDqTu0tHxHJ-8BDxOchxrOB6Uk9Zjf_4_FBIbLPxk5vK6tGf11jO0vxF0nXjlMMCXkbAEXxzhyeCuh0xc1FX_Qa6YEICZ4MaeluzYqkQgJ9kYff4OK2Hde8eNWIX9g4OEW9DK5WnnVUqb1QXuaLorBw-bQSokb_-coG9NtHh0sgUVmDUrVeMo9aF1ppj1D461W7X1ftxn927a0q5Q3AovRbPQ1aWfihhqD1MNL_KWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;
 GitHub - tw93/MiaoYan: ⛷ Lightweight Markdown app to help you write great sentences. - GitHub&lt;/a&gt;&lt;br&gt;⛷ Lightweight Markdown app to help you write great sentences. - tw93/MiaoYan&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : overtake/TelegramSwift https://t.co/GQrCZS1I7K</title>
-    <published>2025-12-28T02:07:17+00:00</published>
-    <updated>2025-12-28T02:07:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25613</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25613"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : overtake/TelegramSwift &lt;a href="https://t.co/GQrCZS1I7K" target="_blank" rel="noopener"&gt;https://t.co/GQrCZS1I7K&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/GQrCZS1I7K"&gt;&lt;img src="https://cdn4.telesco.pe/file/NwMCVpRpOxdJU5kDPsLjvuOMYM0XqtMdnqFuaJGqzae7EKywk5tNHQmLrDzaoJP1TBOXIdj8bvc98pwMT8Nr-R-92cw0i_CPWa0G9ZU0bFR3C8hskZDkSUp0yAm_ovVa0hqd8a2Qe_7a3_5QnwK4xuLbRc7AXqBC5exT4-oiWstSs4bCRYrQgCe5vmbqG2E-orzfRLPmIk5YSyWikJyqmp9L8H1CD0499QQMvXne4mdz4eWHMELFTVtpGdSVamdysewapcHpVcLv1iKxQd93wKG7sYcydlHwDZWVdQXpI6r7hqgCvX_nD-Kc4VJ_ZTL7N6hyF9-R1LTHKS4nW4QB6A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/GQrCZS1I7K"&gt;
-GitHub - overtake/TelegramSwift: Source code of Telegram for macos on Swift 5.0 - GitHub&lt;/a&gt;&lt;br&gt;Source code of Telegram for macos on Swift 5.0. Contribute to overtake/TelegramSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
