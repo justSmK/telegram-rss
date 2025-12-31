@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2025-12-31T18:34:40+00:00</updated>
+  <updated>2025-12-31T19:18:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">С годом огненной лошади&#13;
+&#13;
+Всем желаю в этом году войти...</title>
+    <published>2025-12-31T19:03:49+00:00</published>
+    <updated>2025-12-31T19:03:49+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3642</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3642"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;С годом огненной лошади&lt;br/&gt;&lt;br/&gt;Всем желаю в этом году войти в свою прайм форму. Кстати, праздную нг абсолютно трезвым.&lt;br/&gt;&lt;br/&gt;Объявляю этот год в канале - годом физического здоровья.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">С наступающим 2026&#13;
 &#13;
@@ -217,19 +230,5 @@ Apple разрешит пользователям в Бразилии устан
       <name>iOS Makes Me Hate</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Итоги 2025 года часть 1&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Потихоньку решил писать итоги года и разделю это на несколько частей.&lt;br/&gt;&lt;br/&gt;Этот год для меня является годом переездов. &lt;br/&gt;&lt;br/&gt;Я наконец переехал, выбравшись из небольшого городка. Мигрирую за границы своего телеграм канала. Делаю трансфер в сторону разных форматов. И становлюсь смелее с каждым шагом, вырываясь из стеклянных потолков и невидимых стен, которые сам себе когда-то поставил.&lt;br/&gt;&lt;br/&gt;Перестал скептично относиться к нейронкам. Занялся активно изучением проектирования сложных систем. Но парадоксально поменял отношение к потреблению контента. &lt;br/&gt;&lt;br/&gt;Я уже года полтора не читаю другие каналы про иос разработку, а твиторы никогда не читал. Меня не привлекает ютуб контент. А с всплеском нейродерьма стало еще хуже. Теперь мое потребление заменили книги и коллеги.&lt;br/&gt;&lt;br/&gt;Я хочу развивать навык дип ресерча и поэтому весь мой контент, который я профессионально потребляю, часто связан с книгами. Мне не хочется становиться книжным блогером, но много беру по структуре и форме именно там. Навык долгой концентрации и усидчивости на тиктоках не прокачаешь.&lt;br/&gt;&lt;br/&gt;Чтением в этом году я не сильно доволен, мог бы лучше, но наконец сделал в своей комнате огромную книжную полку. В детстве у моей бабушки была огромная стена книг, где подходя к ней, я чувствовал свою незначительность и глупость. Сейчас моя полка напоминает мне, что следующий год нужно поднажать, чтобы прочитать хоть половину.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Fucking Approachable Swift Concurrency&#13;
-&#13;
-Достали занудные правильные...</title>
-    <published>2025-12-23T09:00:41+00:00</published>
-    <updated>2025-12-23T09:00:41+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3619</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3619"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Достали занудные правильные документации? Хочется чего-то народного и без цензуры? Устали от корпоративного дресскода? &lt;br/&gt;&lt;br/&gt;Если хочешь наконец разобраться в теме и понять все простыми словами, без тяжелого профессионального жаргона, то поможет этот сайт. &lt;br/&gt;&lt;br/&gt;Мне, если честно, гораздо ближе такая форма. Прямая, простая, без лишних терминов.&lt;br/&gt;&lt;br/&gt;Не отвлекает от сути и быстро вводит в курс дела без лишних аккуратностей&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
- - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

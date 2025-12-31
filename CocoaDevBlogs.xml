@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-31T18:34:37+00:00</updated>
+  <updated>2025-12-31T19:18:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS CI Newsletter - Issue #84 https://t.co/5jsKJbBfIC</title>
+    <published>2025-12-31T18:42:27+00:00</published>
+    <updated>2025-12-31T18:42:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25635</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25635"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS CI Newsletter - Issue #84 &lt;a href="https://t.co/5jsKJbBfIC" target="_blank" rel="noopener"&gt;https://t.co/5jsKJbBfIC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;&lt;img src="https://cdn4.telesco.pe/file/gWn2jWCaDxsMCvQm9TyJ_LNWEwhM6r_LerdzJ3nKaJS3PVaCkQja53LmwgJdV6zkguuIJvbzQ5J4sRtAQC6kWHx52odDLnvXwiFViLf0bFXfX4d4kc0vzScTZtrTa4azOWuwjoiee7lXVxYLBS_fSUZcdn-fNbVIcR7_Bk4JtzdPD6_Uae3QlbGR9NLAdDxR_Et378pjR4Zgda2PljO64XqYOxvXc60DkMMRXCZNkhN5oVZg9ZRUxQTTKFiw5IuaIgjG5py5Qy_jYf-0neuvY4RZ-YIrG7zFlCjv_0XaCivKkyXqKjQTmNfdWLhDKgGCRk1P6-lrYwcw_Q5lmuZV5w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;
+iOS CI Newsletter - Issue #84 - Ioscinewsletter&lt;/a&gt;&lt;br&gt;Issue 84 of the iOS CI Newsletter, a fortnightly publication containing the latest iOS CI/CD news from the community.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">The Most Satisfying iOS 26 Design Feature - Concentricity https://t.co/SCRaUizxe4</title>
     <published>2025-12-31T14:57:21+00:00</published>
@@ -251,17 +263,5 @@ GitHub - Rocktopus101/Hingemonium: A fully functional Harmonium for macOS. Uses 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TimOliver/TOCropViewController &lt;a href="https://t.co/86I7IvQZvd" target="_blank" rel="noopener"&gt;https://t.co/86I7IvQZvd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;&lt;img src="https://cdn4.telesco.pe/file/X1Aho2yyyRBlVvsqBAQrBlExpRvgo4TeS8LvSUYUUJ7UWNpCaNIpacVMk3gMa9_uTfVNA-cmSJ7p6fWjnpPx6isMZ9cZfPjMKaZNougJBli2G4Ht1va5y48EDoTtwIHUqjAUkof62oimwImMZYOuag4CPkYs0pI-88L1J973nD2vo63ehZygA-rY7lXhdf5CuQFb26ixjLvPtvRWQkYfT5ipKlVD3oI47Vr8wGCUc28Fi6zAPcFv8lhR98xLjZqth84XGHqWOpuiH6aRzomT9z-pTL-ds2i9a_OygGlEHUvOHrLixNmKAzZUjwEjDbxUYZzHXNFQ_EeASru8I6ZL2A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;
 GitHub - TimOliver/TOCropViewController: A view controller for iOS that allows users to crop portions of UIImage objects - GitHub&lt;/a&gt;&lt;br&gt;A view controller for iOS that allows users to crop portions of UIImage objects - TimOliver/TOCropViewController&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : XITRIX/iTorrent https://t.co/2h3udJlNoN</title>
-    <published>2025-12-28T02:07:18+00:00</published>
-    <updated>2025-12-28T02:07:18+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25615</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25615"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : XITRIX/iTorrent &lt;a href="https://t.co/2h3udJlNoN" target="_blank" rel="noopener"&gt;https://t.co/2h3udJlNoN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;&lt;img src="https://cdn4.telesco.pe/file/ILTwm0WiHUkwG-3UqIzx5--M3JtHv67C5CQd_vpNsTjjrECglmSwC2uBH3lsiJlyjRhMbhMJeQQumc5xJLGRvRnoqx0GC5oN7g59T72t427FR7Z4IXja6eRNV2FvHKHTsjENFFwc1ICIYSpzxnNjmGgy0cSOD1KKbd-JUli2XH65MYs5u2Or4K0JxYJawdXhyD5El9LBU32WwnJk7_Aq_SAiuggo-ywMZKcdctFo-rIadyDh_7vvGa8aaAD48MATNSH-k2FzpdyoGb9e5MrIoUR_mba3N6DV7py84MtepIDgLOfQZm2s_D9K3nhBFaZyMaECsmgcbiiD9H0XSFRvCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;
-GitHub - XITRIX/iTorrent: Torrent client for iOS 16+ - GitHub&lt;/a&gt;&lt;br&gt;Torrent client for iOS 16+. Contribute to XITRIX/iTorrent development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
