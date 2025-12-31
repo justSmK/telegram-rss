@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-31T12:49:59+00:00</updated>
+  <updated>2025-12-31T13:34:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -97,7 +97,7 @@ In this episode of Swift News I keep you up to…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/pEzLmi0Bl7YCDgHvVOWbesjUX5-ZwW_92gvgB7NxRJ9kUERC00qLLBp0Y16HGCyH8r_cVgN_V0wVpWn_jY_jskcHBtKftWEJY7_OBBSsXA2IVk83LdJ9iLgoBLzEhTulSmzugYa3lt9xZMi0kJ97aNpnDCAxBnl-I5MudXzKhKGjd01Fu-u6w_NQIrhRnVX-RXXlvO1OksVcrs0yLvRmQ3x-AmEa5nMLYy8-s2--qbJK_5ZEIR04ALYesRpbVRu1uV6XO_yplRr_HWvNxFVsTESTTR-DYxVqWaOnTOEi0r-N9eDRiQXAbVIGllZk_-WZTb5E_CFWP2fiw2hNT7cKFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZAebAcKDDdc8QFr3atkOSMA-S3KBTaoEIzwbscr8uFe3ukPjaDb2JS6jYXJa7v3UfsjUoXtmsFipeIjXKOWS7LpnVcEhqCv38RT9CEKAeaKG7FcEGexoaW_yOjRw8su4c6hEMIV1lwtn074amImZIZB-IuhfuT8j91SNR6og5DFHJv6ubxA9v3-ctb7inFTkw-ZdmiVCzgCJtsySiZPqMLCGmZGr1_oCJPEaGLskC3fBYRO3Q8hsHE7w4DZJxGJE-IccRl7Txmx3t-KKIk-vidwDvCS8RtTPlqPAkeMj0dU8TCk0xOshi1NobZTCI6imfV_TMVY1vGlJNTbkn1BnKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
 Understanding date decoding strategies when working with JSON in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Dates are one of the most common sources of decoding errors when working with JSON in Swift. In this article, we look at how JSONDecoder handles dates, what the built-in decoding strategies actually do, and how we can safely decode custom formats without…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
