@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_den</id>
-  <updated>2025-12-31T21:21:43+00:00</updated>
+  <updated>2025-12-31T22:24:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">С Новым Годом 👨‍💻</title>
+    <published>2025-12-31T21:23:37+00:00</published>
+    <updated>2025-12-31T21:23:37+00:00</updated>
+    <id>https://t.me/swift_den/683</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_den/683"/>
+    <author>
+      <name>Swift от Дена</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/swift_den/683"&gt;&lt;img src="https://cdn4.telesco.pe/file/rjv2DlLMJtuaxSQ_2j_RnHE42EH4K-hgotkak-WufV46xN2MHj2XRipBlfOhwhCxgtBu74cb6S5GQteELSh19dnuI_mZA1rfKzNFNIZdaH2T2OzW1g0TnDOQST2xnVrGledyGiVbQM8cf3s3Nt1GgMiKHd5sxgxR9-tYxH4JgpgGuueShrMqMQsFqEvU0to0o15YHB-OI5FJiJK4CFXDEasXBBaO6jqdd5Y7AMP_Hc2b8jixCGuviMdM5HTQDpQ1GJknwAbIknbJ6XJTBHUf_VGoHrYC8cws2n8V2coTds74EYBx4D1WwAyUjALCwsmqBM65jM48mjWf4K4_FmJblQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;С Новым Годом &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png')"&gt;&lt;b&gt;👨‍💻&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Собака укусила человека&#13;
 &#13;
@@ -265,17 +276,5 @@ Foundation Models | Apple Developer Documentation - Apple Developer Documentatio
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/663" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5312153450207793039"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://habr.com/ru/companies/tuturu/articles/948276/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Миграция на SPM: что мы выиграли и что потеряли&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Почему мы решили мигрировать на SPM&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"&gt;&lt;b&gt;➖&lt;/b&gt;&lt;/i&gt;Некоторые зависимости CocoaPods стало тяжело поддерживать. Наша основная архитектурная библиотека — TCA, и в ней нет поддержки CocoaPods. До определенного момента мы добавляли поддержку самостоятельно, но со временем это стало доставлять неудобства.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"&gt;&lt;b&gt;➖&lt;/b&gt;&lt;/i&gt;Мы хотели использовать единый менеджер зависимостей для всех продуктов. Так получилось, что какие-то продукты использовали CocoaPods, какие-то — SPM, где-то это вообще миксовалось. Пришла пора упорядочить хаос.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"&gt;&lt;b&gt;➖&lt;/b&gt;&lt;/i&gt;Мы планировать избавиться от сторонних инфраструктурных зависимостей — например, от Ruby.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"&gt;&lt;b&gt;➖&lt;/b&gt;&lt;/i&gt;Немаловажная причина — CocoaPods вошли в «режим поддержки», а SPM живет и активно развивается&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tuturu/articles/948276/?utm_campaign=26391943&amp;amp;utm_source=vk_flows&amp;amp;utm_medium=social"&gt;&lt;img src="https://cdn4.telesco.pe/file/VP_fz3yaKitiEBQa6Hxr3d95hzNMpbFf_ukXSpuhGU18oKMDuYjbcItmmQYb03vl0_4mZ5_FJYILP8A3aHBS3AyhhEo2a07rBu-wSP5D-ppO1JLAYNSIlQ40xHUEQzpSt9S7HmW7jVo2sWQFAbD9atyt8TSFV_2gWYvWkYLlSzCgM0w5qGhUq86_wPEcDyupTRp2-zdFvU1Qk0NGuvyAVlDpSvBHr5dxJKaEF9691loV7VDV_kbgVc8JF3cF1UAb4DSw5lLteqVlV26Pp-CWhSF1nXNSW3uGeLg1E9-vJolonJOILgNK5wUl19m-t3z_aWboxDlCxPg9GFEAhvDnaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tuturu/articles/948276/?utm_campaign=26391943&amp;amp;utm_source=vk_flows&amp;amp;utm_medium=social"&gt;
 Миграция на SPM: что мы выиграли и что потеряли - Хабр&lt;/a&gt;&lt;br&gt;Спойлер: сократили размер приложений на 44% и ускорили их запуск в среднем на 51%. Привет, Хабр&amp;#33; Меня зовут Владислав Сединкин, я занимаюсь iOS 10 лет и последние 2 года работаю в мобильной...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">👶 Что нового в SwiftUI / UIKit IOS 26</title>
-    <published>2025-09-22T11:20:18+00:00</published>
-    <updated>2025-09-22T11:20:18+00:00</updated>
-    <id>https://t.me/swift_den/662</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swift_den/662"/>
-    <author>
-      <name>Swift от Дена</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/662" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5314640008638908333"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91B6.png')"&gt;&lt;b&gt;👶&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;Что нового в &lt;/b&gt;&lt;a href="https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SwiftUI&lt;/a&gt;&lt;a href="https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt; /&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;&lt;a href="https://sebvidal.com/blog/whats-new-in-uikit-26/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;UIKit&lt;/a&gt; IOS 26&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26"&gt;&lt;img src="https://cdn4.telesco.pe/file/MrxQVlO1AZiYagHds5h3qNolW8B4kazuQlA13hiccna_ZBE54wvKAYjKkGZvoDM99ysgv4nvzO_6ArB0Wviiv076AnK4Lz1J1pEuCC8K2eJcVn3ej-8rNArtlvA5ylc8bcTyQIU3YLqheMclPuGC80P12QF1-5I_kasRTvielJrZLatzVekj2ze0oUD3tX2RWI2xuPMwP5jeaNrEUdgRK3HdY-nptbfMosQr2XwGLFyXyLTzUPrf8rUuB6cYpVe1nmlKve6CY7I4G1k17invumvyU7EIBMHyAZyHYPzUuWd1CtlM8Mu391EPBHmfCjaCXoHqlO5xFCcM4aBzL9fq9Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26"&gt;
-What&amp;#39;s new in SwiftUI for iOS 26 - Hacking with Swift&lt;/a&gt;&lt;br&gt;WebView, rich text editing for TextEditor, section index list titles, and more&lt;/blockquote&gt;</content>
   </entry>
 </feed>
