@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2025-12-31T09:27:55+00:00</updated>
+  <updated>2025-12-31T10:26:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Всех с наступающим новым годом🎄 желаем вам крепкого...</title>
+    <published>2025-12-31T09:31:08+00:00</published>
+    <updated>2025-12-31T09:31:08+00:00</updated>
+    <id>https://t.me/ios_prog/694</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/694"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех с наступающим новым годом&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E84.png')"&gt;&lt;b&gt;🎄&lt;/b&gt;&lt;/i&gt; желаем вам крепкого здоровья, счастья и только наилучших благ.&lt;br/&gt;&lt;br/&gt;Следите за нами, в новом году мы выпустим большое количество контента, а так же покажем вам наш новый проект с Катей. &lt;br/&gt;&lt;br/&gt;Обнял &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"&gt;&lt;b&gt;☺️&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI совет&#13;
 &#13;
@@ -246,18 +257,5 @@
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/675" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/675"&gt;&lt;img src="https://cdn4.telesco.pe/file/VyxrWeeBxVZtr86N2Tu0eBRnVyu9RUbPckw2WP-Jk1JZlzqX4crJrNm-K3FtzY9oX3Zp3o22no8NwRMP1F_PBqTtLfGClwEnP5T22ie3rli6_bdHdz-AqLjUDeRt26GnsPlJZ12Mo2AvSDNiJWD0p7qB-QCzeXZYcC0r-bNvo_1ZCNXX1yYXAkHniIbq2rvEQBPLyCdUTh1xJBS8sXTtvYIJ7uB_vqLcjURrX6-BQcqq379BjKB2Y6M8JZoULO14pvzStr4cH81e4UKn3-UY3HvvS_C3BBYVy1hpoHeDhlaUVuCmcO674F35AXXguUGcRmJxjHqFIEyqxMobQ0lr0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5262717242759463011"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"&gt;&lt;b&gt;👍&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;В iPhone 20 не останется ни одной физической кнопки&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Вместо них будут использоваться сенсорные кнопки с виброотдачей.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftUI совет&#13;
-&#13;
-В iOS 16+ можно сделать так, чтобы TextField...</title>
-    <published>2025-10-28T06:33:14+00:00</published>
-    <updated>2025-10-28T06:33:14+00:00</updated>
-    <id>https://t.me/ios_prog/674</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/674"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dktj5f4XXoUEMxWEBNDRQLHJEjjGCgticubVjlcQ7YsELvTdyYyv-ZI6sA_6Vpcjr3VzeZIAGyRZHoywdV6AfZzb3piqc6JoCGIiJ2vdH1erayAi0p0eaUcTuxJAQjHZ4iaNi0D7v_Vfo-HNoXhoYOj2ceVp26mTY-uXToIJrxV8zCwz1KEdpeGvF4tgKsPMFlb-OhxZH2NtIiiKNx_mfxufBtvRY9XKd2avSgsGUhDjiI84BD3Jzjog1TpiTo9qx7c1TkMh4YOZNxDgluc2SFOah3XFVpgcJpzybq5afr9dY0NAjUDwcCV6F4fZrxgUEmwMV6xxKb_2q_DVeK5o8w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16+ можно сделать так, чтобы &lt;code&gt;TextField&lt;/code&gt; автоматически расширялся по вертикали по мере ввода текста, для этого достаточно установить параметр &lt;code&gt;axis&lt;/code&gt; в значение &lt;code&gt;.vertical&lt;/code&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
