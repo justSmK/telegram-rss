@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2025-12-31T17:21:15+00:00</updated>
+  <updated>2025-12-31T18:34:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -201,7 +201,7 @@
     <author>
       <name>Swift Tips</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swift_tips/802"&gt;&lt;img src="https://cdn4.telesco.pe/file/kzsCa5-0-lb23tYf8V0W99JlVEWB0DGCs77Vxb5ulQ0Vu6R-h66ZYMKzpuQoU9oZLHVvVn14zxgLXwUQhqfzszYSPsPL6_pjBYB88Wv5MJJm4FyzIGF18sy4Q3ID4Z-3Uagr4LaAhUTLqMP7vra2BZF4uxjIBT1-r-nzbzxFcuajuNLJeHf1ZoJ7_ytXcfI8MLlwWlb_1unJD225-TDJ2C65VGa6c1IRtC2EzSdMotm7IdzqM1Csb-KP_jJbamFNb5VK_QVV_aKNvhNxzXOH-Pg3QkX11-XlGQDnDAclRdStI4sDOwURLd601Ckpm2M2PWPmp-Z65beteCj_f9oZ2Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как Swift Runtime влияет на производительность iOS-приложений&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Большая &lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается про механизмы приведения типов и создания generic-типов внутри Swift Runtime и разбирается метод &lt;code&gt;swift_conformsToProtocolMaybeInstantiateSuperclasses&lt;/code&gt;, ĸоторый является узĸим местом в производительности приложения, ĸогда и почему он вызывается и ĸаĸие стратегии использовать для смягчения негативного воздействия.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swift_tips/802"&gt;&lt;img src="https://cdn4.telesco.pe/file/jC9ZD7k5yzjS4fG863UXeegxvxgDbhzOBvOJUhHUDMYW3QqEVbFQuxOlIlCp6NQl7H0kh90whHAqe7BjgRXVUpqPNHoHA_nv98vSdPtc3z-QXb8zfMr4IpE9UWazX2KD-_e_CV9hy9FLrDOi8ZHBIRSKRXdTM2qigyKQaEgQbo9beHCulhNJrP4Hqu-VxRkZSJhO93yY3ZpykFdYgFLbBDM-Z-w2vHujvkMmccpf8tvk1nBQ2GNaq10I5GBll5VPa57Q0LsRXWkQbYqGVzxUBHW00X_AA5I3mC5d1Cwi8VBreUTZKz5scEeQjCRpoXuL6ca-8S9oc4Xy87hie_ZTdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как Swift Runtime влияет на производительность iOS-приложений&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Большая &lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt;, в которой рассказывается про механизмы приведения типов и создания generic-типов внутри Swift Runtime и разбирается метод &lt;code&gt;swift_conformsToProtocolMaybeInstantiateSuperclasses&lt;/code&gt;, ĸоторый является узĸим местом в производительности приложения, ĸогда и почему он вызывается и ĸаĸие стратегии использовать для смягчения негативного воздействия.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/947486/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (Ru)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Миграция на SPM: что мы выиграли и что...</title>
