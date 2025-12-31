@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2025-12-31T14:23:12+00:00</updated>
+  <updated>2025-12-31T15:24:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Most Satisfying iOS 26 Design Feature - Concentricity https://t.co/SCRaUizxe4</title>
+    <published>2025-12-31T14:57:21+00:00</published>
+    <updated>2025-12-31T14:57:21+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25634</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25634"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Most Satisfying iOS 26 Design Feature - Concentricity &lt;a href="https://t.co/SCRaUizxe4" target="_blank" rel="noopener"&gt;https://t.co/SCRaUizxe4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SCRaUizxe4"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qo1HInDF6gm9nO_Sud3xFZFQ0xoh9tnJ3ptYM7WjIw0a6TTRz3xVwMeA5FL6cRJdteR9tPmdqmKOFEsQate5cVA5ZLC3MGx4Mj-_wy1hwO2qlNRBdqSzJMJnwrW2m9_4R0YSXHYwumygfQpOlTP3Nq2-4-v_lGu9ZxqDA1knj8-FwLGgeGs8m6ROM_aRdcfUpkDmn3Xf1k6Z8dKcx-CgSFefIvd6OROqLSOV4bd-x1VN76iR6KR4cO6MXQwaFXSS_AbaKrnjTp1Mv5x45GVU5opLeUxzIZ1BT-kYWSfOvuVDUQcE1o8gslTev7SayfVkBktWfvcJarUp82RDJnE_9A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SCRaUizxe4"&gt;
+The Most Satisfying iOS 26 Design Feature - Concentricity - YouTube&lt;/a&gt;&lt;br&gt;My Swift &amp;amp; SwiftUI Courses - https://seanallen.teachable.com/?video=C0wu_dAQqAk&#13;
+&#13;
+In this video I show you how to use the ConcentrictRectangle API in SwiftUI so you can make the corner radius of your views cohesive and looking great. I show you how to use…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">The People Who Got Me into Emacs https://t.co/H0Fnlvv6a2</title>
     <published>2025-12-31T08:17:39+00:00</published>
@@ -249,17 +263,5 @@ GitHub - TimOliver/TOCropViewController: A view controller for iOS that allows u
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : XITRIX/iTorrent &lt;a href="https://t.co/2h3udJlNoN" target="_blank" rel="noopener"&gt;https://t.co/2h3udJlNoN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;&lt;img src="https://cdn4.telesco.pe/file/ILTwm0WiHUkwG-3UqIzx5--M3JtHv67C5CQd_vpNsTjjrECglmSwC2uBH3lsiJlyjRhMbhMJeQQumc5xJLGRvRnoqx0GC5oN7g59T72t427FR7Z4IXja6eRNV2FvHKHTsjENFFwc1ICIYSpzxnNjmGgy0cSOD1KKbd-JUli2XH65MYs5u2Or4K0JxYJawdXhyD5El9LBU32WwnJk7_Aq_SAiuggo-ywMZKcdctFo-rIadyDh_7vvGa8aaAD48MATNSH-k2FzpdyoGb9e5MrIoUR_mba3N6DV7py84MtepIDgLOfQZm2s_D9K3nhBFaZyMaECsmgcbiiD9H0XSFRvCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2h3udJlNoN"&gt;
 GitHub - XITRIX/iTorrent: Torrent client for iOS 16+ - GitHub&lt;/a&gt;&lt;br&gt;Torrent client for iOS 16+. Contribute to XITRIX/iTorrent development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : tw93/MiaoYan https://t.co/SjvNwxuc3v</title>
-    <published>2025-12-28T02:07:17+00:00</published>
-    <updated>2025-12-28T02:07:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25614</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25614"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tw93/MiaoYan &lt;a href="https://t.co/SjvNwxuc3v" target="_blank" rel="noopener"&gt;https://t.co/SjvNwxuc3v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dg3APGXRVqLZwEUKAuZlqdppGj3wPp-pCDdFdA2uB3MMliFlRQrGjzrOBtqjBf0DvhsrOmF7zsj-4cGVJVAEDpRY_b49-nnyMKYzJhr0ur0RFDqTu0tHxHJ-8BDxOchxrOB6Uk9Zjf_4_FBIbLPxk5vK6tGf11jO0vxF0nXjlMMCXkbAEXxzhyeCuh0xc1FX_Qa6YEICZ4MaeluzYqkQgJ9kYff4OK2Hde8eNWIX9g4OEW9DK5WnnVUqb1QXuaLorBw-bQSokb_-coG9NtHh0sgUVmDUrVeMo9aF1ppj1D461W7X1ftxn927a0q5Q3AovRbPQ1aWfihhqD1MNL_KWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SjvNwxuc3v"&gt;
-GitHub - tw93/MiaoYan: ⛷ Lightweight Markdown app to help you write great sentences. - GitHub&lt;/a&gt;&lt;br&gt;⛷ Lightweight Markdown app to help you write great sentences. - tw93/MiaoYan&lt;/blockquote&gt;</content>
   </entry>
 </feed>
