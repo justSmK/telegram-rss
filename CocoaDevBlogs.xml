@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-01T16:31:03+00:00</updated>
+  <updated>2026-01-01T17:22:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The State of Agentic iOS Engineering in 2026 https://t.co/pYfz8Sa7He</title>
+    <published>2026-01-01T17:02:43+00:00</published>
+    <updated>2026-01-01T17:02:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25640</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25640"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The State of Agentic iOS Engineering in 2026 &lt;a href="https://t.co/pYfz8Sa7He" target="_blank" rel="noopener"&gt;https://t.co/pYfz8Sa7He&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pYfz8Sa7He"&gt;&lt;img src="https://cdn4.telesco.pe/file/JxB0u34mlLPt5BLRic0aHIxhBU7c5zEmBqh734pSATGbuWM-Ed2YmvtgdEys80ZObS1b5d6Cr57VLuKljZiLr-6YDiQuC1ev43Y83d2JlKVbuPbdvcD1mdIZdsH2vDcV4WfAn_l8yYvwDAfOKCjesbcbl9NMtLDVRw8RR4dNkiX1hcp2dB-ae_uqx_cLT3oqAYxerMd5OeJMITTID4668Vs-malE5nN0tTa-t7BvP4NzxxtoeLPxA5EYNylf8CCMnWuTv9xdLGbODZAm3Ldw4bR-8799HdeGCZQnRYORnxtteaSI2LlnMJUvk63dQjBpTNf9WCXYtnSBrnBh7kOf6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pYfz8Sa7He"&gt;
+The State of Agentic iOS Engineering in 2026 - Medium&lt;/a&gt;&lt;br&gt;My perspective on AI-driven programming, workflows, and tooling&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">#2025 Recap | Kavsoft | SwiftUI https://t.co/hHIzV3gtDi</title>
     <published>2026-01-01T11:52:43+00:00</published>
@@ -155,7 +167,7 @@ Learn how to identify and fix unnecessary view redraws in SwiftUI to boost your 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads &lt;a href="https://t.co/UwMdNYJFnH" target="_blank" rel="noopener"&gt;https://t.co/UwMdNYJFnH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;&lt;img src="https://cdn4.telesco.pe/file/SA-KQiwu6oqWvtguXdh5GjkoVtpbDBiKpz_NJYzYeqrm3FUJAuupBM8UESwmVt0SPi89w0m12Qz1kGkl_2QOQg4aYc3UL3XGzM1TB6eGblwAHLHOjRBdJ5DfzU23A7QS023pjhKEIJsXZsyWLo6pLo5mNKf1b_cWGDs4-dXlOzAcBBHMO3z0QP70sHY9xFrVrBsxrhcQeiA3RxN61HYixwge5eIwucHfKDdRWkVUPUH8ed27_gWlWDX02J6JvDTHtmgIbjwvMo4M0TKIIby72tLUOwNTARgQ8wQyTPq3c9o9yl-XqB-PN1XqzwqA42zIyvgHqc5n9HJfEAcpZuhrBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads &lt;a href="https://t.co/UwMdNYJFnH" target="_blank" rel="noopener"&gt;https://t.co/UwMdNYJFnH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;&lt;img src="https://cdn4.telesco.pe/file/V_5Eww7AI_roXdbWO-tpL84iMD4R94btxQiZR--ysFpq5DOuGQrZJdmXpkdGdO4x-INyfWJfHV1WP4D_FsgxpTJ9via_-DGSaPYud1nU2FLo41US8ZLepeIE54on80WXEf3gzQJcK5EELXEDuvGp8HIRBzZXf65B14LNAX-l3ZoB8kKCr4GDUBCsRT6AW_-762cWYu-aIHN7Cz222Weecyk414k8GjfMGR2Ns3yiaAnKiIlW2HoQsqbl5_nb15QRaf9pSBr8xSqgg8nDl7Y6M6zR5CeugABAtyC9_CFv4LqwKA-G1mFXvLgAwzIog-y5YIgiD72Zf4txHAlK-si3Jw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UwMdNYJFnH"&gt;
 Bleeding Edge AI Work, What&amp;#39;s New in Swift, Concurrency, Apple Ads - YouTube&lt;/a&gt;&lt;br&gt;My Swift &amp;amp; SwiftUI Courses - https://seanallen.teachable.com/?video=LeMxRZdQa60&#13;
 Swift News Newsletter - https://swiftnews.kit.com/newsletter&#13;
 🔗 Swift News Link Repo - https://github.com/SAllen0400/swift-news&#13;
@@ -251,17 +263,5 @@ GitHub - TTTAttributedLabel/TTTAttributedLabel: A drop-in replacement for UILabe
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nakst/gf &lt;a href="https://t.co/BMhYZIvA5r" target="_blank" rel="noopener"&gt;https://t.co/BMhYZIvA5r&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;&lt;img src="https://cdn4.telesco.pe/file/JDG1ZS1km0l46A3NZcOOAvxg_naqcKUEkfE-YGCZSQo2enhkI9qaZLOUTRw_vvBFmI14mXsdLbKEor7nwcle6cAvHilYTgS9wEOQDUQnRwomiYLVGj_QzI9-9CBEnGcUTrcrA_-p2RSMl45ALYcjEWIZP2NnQMWZR6C6YnUnuOaHeGf7rciTRPsri78M6isAwIpF1VzRUfksZfywajg8QOLMBWL4ypxBOSZ9TGsmthqdfKnIwauMjdADv8Xw4M_QNUSuNTrHAtLcqVJ97cFF0ZGgF7dL7VUsu-OXPboqQOjD3m0ASzWryP7q3Gww5fuS-eojS2PEjzYgSlBtoWbznw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;
 GitHub - nakst/gf: A GDB frontend for Lïnux. - GitHub&lt;/a&gt;&lt;br&gt;A GDB frontend for Lïnux. Contribute to nakst/gf development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Ebullioscopic/Atoll https://t.co/bkOsugL9HJ</title>
-    <published>2025-12-29T02:02:45+00:00</published>
-    <updated>2025-12-29T02:02:45+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25620</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25620"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Ebullioscopic/Atoll &lt;a href="https://t.co/bkOsugL9HJ" target="_blank" rel="noopener"&gt;https://t.co/bkOsugL9HJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/IiOLlkVsj9gyelvLhTP4ywwWNQqRkKYkuxCyPrLbV6UFBZCQa_t12TsG518VXq9lNENp9KxGGjrd7HgizUs-gO6CXaoSPMONQHepqN7hcs9FIXxSFWMsVlCRB-7P0B6D5cLcYvb_H0xL-ktl3aB1LIJTL2WOLBH11mBjqmxnVlPWIHt9lFInW67lhFSlzslP70qok5hTDJl7dQ20T5ZIDaVL_DCQDGKo3ng4qe_aaSpJoQz0rGdQcVevyZfQpMVRrObbX3PMdm-DSHRk5HEo41sti0Y3_4llPraS90vHtMff02CAONQMczUsioGJXIRNMQZpXUmK-2U47z5ndr-ctA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;
-GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&gt;Dynamic Island for macOS. Contribute to Ebullioscopic/Atoll development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
