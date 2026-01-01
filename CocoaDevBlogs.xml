@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-01T07:25:58+00:00</updated>
+  <updated>2026-01-01T08:33:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Application Rendering: A Deep Dive https://t.co/ViXZ7y9Pry</title>
+    <published>2026-01-01T08:32:48+00:00</published>
+    <updated>2026-01-01T08:32:48+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25638</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25638"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Application Rendering: A Deep Dive &lt;a href="https://t.co/ViXZ7y9Pry" target="_blank" rel="noopener"&gt;https://t.co/ViXZ7y9Pry&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;&lt;img src="https://cdn4.telesco.pe/file/lPt4Msx7t9XRmLdtGbUblOIKc2hTZTwt4TllQ0uH8SZSk6GjsY0h_UhKpLmZwVQ4MiX3YqWt6enPbRejChXWxcyxfrixlsgLZwSvi0dZdwbmGpjTRt80SvbnOJXdpY8lOqtCGqu2r5H0elH7hcmdzkPdZn8_Dlz6l-i7EqJdCjmeX-Km_8GuW_Qjo17VH2kuRxXyNwwlPqoQlAw1xbBhl_l3pdxgtXf5e1Kro9mca9FGpalo6JQ5orMcgLlYsUuRmrqJDHebZU7u-HvKhQUyiCjWIRLnJNE8v98oVaU1ISYbceNs9VJc7m4uwuxb2MYAS-PF_EOdNkKpWLHu1UO8MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;
+ios-rendering-docs/README.md at main · EthanArbuckle/ios-rendering-docs - GitHub&lt;/a&gt;&lt;br&gt;documenting my understanding of how iOS draws app content - EthanArbuckle/ios-rendering-docs&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Flipboard/FLAnimatedImage https://t.co/WD3QUweocl</title>
     <published>2026-01-01T02:12:23+00:00</published>
@@ -251,17 +263,5 @@ GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OpenEmu/OpenEmu &lt;a href="https://t.co/DiOx9oxtJ3" target="_blank" rel="noopener"&gt;https://t.co/DiOx9oxtJ3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;&lt;img src="https://cdn4.telesco.pe/file/f8B79d8FLWUiAEbG-Lq5Eb46OZiYg-7sulqxKayiEwKqF8_908lvOS-_KpJ0I_TED8FMYbiO6ASz38f-pityn0awYkAZ7Yg70sC94EFKRc1Kb3tjYsPRQivHTDS3qnKT32lOOYdO9F-_bgbno3bnW9flfxycS7fagSgut4q1LY1y3dlt6r0wD83giSsGsbHPP-RWeCOeByZss2PwExrLyOBJLT6wHs2zEmwmeJWgZf_6Tozh84trKcjARMbX-Ov8MFsdQHgHakJimUtpgUKGJj3TrV3yIlXEn1-709KrRHM9wjuGfcaeFvJCAvTiCR6QJ4FfFOga1ZHlyB0TRyulcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;
 GitHub - OpenEmu/OpenEmu: 🕹 Retro video game emulation for macOS - GitHub&lt;/a&gt;&lt;br&gt;🕹 Retro video game emulation for macOS. Contribute to OpenEmu/OpenEmu development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : ejbills/DockDoor https://t.co/XOkFDE9K60</title>
-    <published>2025-12-29T02:02:43+00:00</published>
-    <updated>2025-12-29T02:02:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25618</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25618"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ejbills/DockDoor &lt;a href="https://t.co/XOkFDE9K60" target="_blank" rel="noopener"&gt;https://t.co/XOkFDE9K60&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;&lt;img src="https://cdn4.telesco.pe/file/dFXE6JgKoj8Qq2eCGL3-ghj0rJLyqEHLKrWzQ8W3RUYzfinoAorHETTyusYMdepSO_EBiWCtVZ-buK4Y5FhsStd6TC4Jkwew-50Q1M-VJynbELRnj9fT-nHHavxxyzSUrr-VJheuS0AONDeP7q9rVK3gP1VWtMhPJrTiEXpkbrQqJt0jxNhAVCIpF0CUKyv6bLfZYt5XMYBoRVqoaT5Zkbo7atKoc91Lqp3N6pX81zTbQ29FGc8q658Ugh6gMa-ajhTufX_HqUgfbUrgGvGBboUn3BrI5UbsOqasRyFWGtJ-Af1DOd-vE0MNzrwcY6121Rg1r5sOo15jdkA2Rme5zA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;
-GitHub - ejbills/DockDoor: Window peeking, alt-tab and other enhancements for macOS - GitHub&lt;/a&gt;&lt;br&gt;Window peeking, alt-tab and other enhancements for macOS - ejbills/DockDoor&lt;/blockquote&gt;</content>
   </entry>
 </feed>
