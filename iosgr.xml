@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-01T05:30:24+00:00</updated>
+  <updated>2026-01-01T06:37:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Почему Codable медленный&#13;
+&#13;
+Раз в год обязательно нужно...</title>
+    <published>2026-01-01T06:05:05+00:00</published>
+    <updated>2026-01-01T06:05:05+00:00</updated>
+    <id>https://t.me/iosgr/4571</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4571"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/sn3rS2X8BcCqlknmby9wzPtvZvbo8hGf60bKK8nMMiX0OLmc1m0ucSPaiGQk8IxFeSFG_5EpyGaD_9a2fCASEvG_-jRUlQhFZBc7qni5psmYt-zNSOAHEi4zO4wE155z7Ld2js5E2MB1A8kG8_xYP9mfnCj81x1RJAaTk0gXZSvG165bqeOceysyedbwP7JoMawmUn-KPuzBiORukoIXBivZ_GW57kS_f1RX_7FlXt_oOjmb7DhWF6Dzj-3Nd0NxFSbYFQBXnycftNiJIjusi44tgVUa_sdgc1W6xakJXVBTsnEvU0LrX7iquzaVStTwZBD3uvsq9I7E1HTtM2Qgmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
+Все не так с Codable - Хабр&lt;/a&gt;&lt;br&gt;Привет, Хабр&amp;#33; На связи Кристиан Бенуа, iOS-разработчиĸ в Т-Банĸе. Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось...&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как ускорить сборки на CI со slot-warmed caching&#13;
 &#13;
@@ -289,19 +303,5 @@ Tuist...</title>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что спрашивают на интервью в команду Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Инди-разработчика пригласили пройти интервью в команду, которая занимается SwiftUI для macOS. Работу он не получил, но зато принес задачу, которые ему задавали на техническом собесе.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;&lt;img src="https://cdn4.telesco.pe/file/k085QqNFassYqzgj4y3LFtaFqSWBSiQ5m54A9zKSIOyv7a7RVDTXbiChrN7sVVRf3L46FYeR7cGLPfTGJvxDOcFWPCKTP3B2qQO4EbogIavwWrGDTCwYC1O2tJrLSaWNOR6yeV8W9dCIUnRqYb5Toah-p55AvxnoMb6MVcC7BUtg11XwT9hdhvrFPBox7Di5uWm7jNI4eEpG-4QbVdysOf-O7qnoCVYYMwtrFLZix9EDxeC9O35RsWT9L4N1GI66rEl7YXetKaIav55P-3UbNixaNyw-SzW-Kn7cmfghG7X_zvaUFyD-7jbOmOitFMYuDwwWjAAERrDHNBvpS-w5uA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;
 Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for a SwiftUI frameworks role and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как устроены мобильные приложения VK «под...</title>
-    <published>2025-12-09T11:06:42+00:00</published>
-    <updated>2025-12-09T11:06:42+00:00</updated>
-    <id>https://t.me/iosgr/4551</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4551"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/eBT1BxFux6vz7m83Ee1F_MVPmifRJSNUnTlQIWbDZXAJAHxRiFbb7gsjLAL7x7CT-hr-vdW4typPLii3sy-TOGHQB8GKxnnIzm_GLAQT32XNm1Tofl9_MxBKsf9JcOwDe8YC7RSepUaNhDrn93_OrAoFjaWF5vS2ncbnvlqqZRug1InQZ8G-F6D3y6aiYHR48fO3SlyEBV-bwyRkH4r8RAXQamuWtAwAXfNQIj4APVs8k8u48Txlm3st2b5vM5FABiPnEgW4prsC0JhN-ClapLwOZRvw-zsddnRfnstzSxjHXrfVcTolSDQRkgwzW4nSSr8aopG2jpK5SPh7ltrR0A" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/3594b0f30b.mp4?token=Cl_FudN_haQ-ya_ar9ap6w1XZupfY7XaLLfU-LdVXn_IUE3yi5lvU97htM0-fyk_IsILrdqH4reUTtkZU5ccnqwAFovmAHsLqRjpzfVpIEiNQ6cLgOvzkmMh9OvJ6wDUazku64Lloq1f0Bd9Sic5H6t9bnERF2gYg1bL53eSYNtQlge-LBzE3Ox8gszBFWDFWb1GcVzzHviWAoDM6qXay8pL7mg-kcPrMDQ4t5F9YZHU-lzj1vjGHWnZKBnp_VjwZGPxot_2V9aekjsQzgrbdSJ8-nFcY-etGrh10Pyb-r6K2RsyPGFsEI3gjyMa2GbgR0DjXHtSy-5hHWtwAADufDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как устроены мобильные приложения VK «под капотом»?&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Команда делится своим опытом: оптимизация, память, подходы к нативу и кросс-платформе, эксперименты и индустриальные инсайты.&lt;br/&gt;&lt;br/&gt;Если хочешь развиваться как мобильный инженер, &lt;a href="https://bit.ly/4iLTvxJ?erid=2Vtzqx3H3of" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;стоит подписаться на этот канал&lt;/b&gt;&lt;/a&gt;.&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/eBT1BxFux6vz7m83Ee1F_MVPmifRJSNUnTlQIWbDZXAJAHxRiFbb7gsjLAL7x7CT-hr-vdW4typPLii3sy-TOGHQB8GKxnnIzm_GLAQT32XNm1Tofl9_MxBKsf9JcOwDe8YC7RSepUaNhDrn93_OrAoFjaWF5vS2ncbnvlqqZRug1InQZ8G-F6D3y6aiYHR48fO3SlyEBV-bwyRkH4r8RAXQamuWtAwAXfNQIj4APVs8k8u48Txlm3st2b5vM5FABiPnEgW4prsC0JhN-ClapLwOZRvw-zsddnRfnstzSxjHXrfVcTolSDQRkgwzW4nSSr8aopG2jpK5SPh7ltrR0A"/>
   </entry>
 </feed>
