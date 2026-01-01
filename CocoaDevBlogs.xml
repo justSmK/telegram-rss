@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-01T11:21:15+00:00</updated>
+  <updated>2026-01-01T12:49:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">#2025 Recap | Kavsoft | SwiftUI https://t.co/hHIzV3gtDi</title>
+    <published>2026-01-01T11:52:43+00:00</published>
+    <updated>2026-01-01T11:52:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25639</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25639"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;#2025 Recap | Kavsoft | SwiftUI &lt;a href="https://t.co/hHIzV3gtDi" target="_blank" rel="noopener"&gt;https://t.co/hHIzV3gtDi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hHIzV3gtDi"&gt;&lt;img src="https://cdn4.telesco.pe/file/lk9UWw3kOmSXJTyWPxJP1FYuhn2zI4JAFY3jdepE5Zrn9eW6CvE9Xb7Ou0JU4dIHVuEIk0fNLVAnqUbYSJJ8rqhnP0AHYYuyyF9X3HvnQ3quDS7By1mJ7gpU1UqD74HgDVNuY4GVTMjk9tG309tGn7MjUPyt7inr-cLQjJpsAS3rZuh-K8C1yn1M-hZROlqQ68gZQLTa5sgTWnOgdqZLE-7Sen1w3MtCN7RdzPxboS6tRoIomRzxOujuyGoItS8hhLJW7np552OiSwcbwG9UCpgG3BjNbe3ZNH4wSGlCtZj-bHreaBNAEgD2kWVb_bHY82GMVaGBDN2W13WswydQqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hHIzV3gtDi"&gt;
+#2025 Recap | Kavsoft | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Application Rendering: A Deep Dive https://t.co/ViXZ7y9Pry</title>
     <published>2026-01-01T08:32:48+00:00</published>
@@ -159,7 +171,7 @@ In this episode of Swift News I keep you up to…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZAebAcKDDdc8QFr3atkOSMA-S3KBTaoEIzwbscr8uFe3ukPjaDb2JS6jYXJa7v3UfsjUoXtmsFipeIjXKOWS7LpnVcEhqCv38RT9CEKAeaKG7FcEGexoaW_yOjRw8su4c6hEMIV1lwtn074amImZIZB-IuhfuT8j91SNR6og5DFHJv6ubxA9v3-ctb7inFTkw-ZdmiVCzgCJtsySiZPqMLCGmZGr1_oCJPEaGLskC3fBYRO3Q8hsHE7w4DZJxGJE-IccRl7Txmx3t-KKIk-vidwDvCS8RtTPlqPAkeMj0dU8TCk0xOshi1NobZTCI6imfV_TMVY1vGlJNTbkn1BnKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding date decoding strategies when working with JSON in Swift &lt;a href="https://t.co/q2XsAZF9uZ" target="_blank" rel="noopener"&gt;https://t.co/q2XsAZF9uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/dKCuIu8wJu9MpnkwHnzmuxnIfY300hGpXSRNR6o2Yx3-T0L-i-82WKMOaFf3Kiz-bOiCFYScrL0PjBATTax2zsBWnc450JrQfqt-98KkZOEA1zkA9eQ4z1IKhDLgU2bYTbliC_BxSiG-wLDcVWZXkLC3zeRaKTraDd4xAJrupJpfLILCNfoiFDnMJ7XDzr-UBFPrtoWqtuND_-g2-_pmGrgUrqdsYTFG-e-wak-78y55OXvlsVSk9KKNU2oy5P3yHdLNNk6f6JoUlRbTHTwzrgYAr5eQD9ru-1iRzI1VUL2E4yiusWK5k8vpAHiY4n_H7vVOHxc5POd_TkGgnO8qqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2XsAZF9uZ"&gt;
 Understanding date decoding strategies when working with JSON in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Dates are one of the most common sources of decoding errors when working with JSON in Swift. In this article, we look at how JSONDecoder handles dates, what the built-in decoding strategies actually do, and how we can safely decode custom formats without…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -251,17 +263,5 @@ GitHub - nakst/gf: A GDB frontend for Lïnux. - GitHub&lt;/a&gt;&lt;br&gt;A GDB 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Ebullioscopic/Atoll &lt;a href="https://t.co/bkOsugL9HJ" target="_blank" rel="noopener"&gt;https://t.co/bkOsugL9HJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/IiOLlkVsj9gyelvLhTP4ywwWNQqRkKYkuxCyPrLbV6UFBZCQa_t12TsG518VXq9lNENp9KxGGjrd7HgizUs-gO6CXaoSPMONQHepqN7hcs9FIXxSFWMsVlCRB-7P0B6D5cLcYvb_H0xL-ktl3aB1LIJTL2WOLBH11mBjqmxnVlPWIHt9lFInW67lhFSlzslP70qok5hTDJl7dQ20T5ZIDaVL_DCQDGKo3ng4qe_aaSpJoQz0rGdQcVevyZfQpMVRrObbX3PMdm-DSHRk5HEo41sti0Y3_4llPraS90vHtMff02CAONQMczUsioGJXIRNMQZpXUmK-2U47z5ndr-ctA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;
 GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&gt;Dynamic Island for macOS. Contribute to Ebullioscopic/Atoll development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : OpenEmu/OpenEmu https://t.co/DiOx9oxtJ3</title>
-    <published>2025-12-29T02:02:44+00:00</published>
-    <updated>2025-12-29T02:02:44+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25619</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25619"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OpenEmu/OpenEmu &lt;a href="https://t.co/DiOx9oxtJ3" target="_blank" rel="noopener"&gt;https://t.co/DiOx9oxtJ3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;&lt;img src="https://cdn4.telesco.pe/file/f8B79d8FLWUiAEbG-Lq5Eb46OZiYg-7sulqxKayiEwKqF8_908lvOS-_KpJ0I_TED8FMYbiO6ASz38f-pityn0awYkAZ7Yg70sC94EFKRc1Kb3tjYsPRQivHTDS3qnKT32lOOYdO9F-_bgbno3bnW9flfxycS7fagSgut4q1LY1y3dlt6r0wD83giSsGsbHPP-RWeCOeByZss2PwExrLyOBJLT6wHs2zEmwmeJWgZf_6Tozh84trKcjARMbX-Ov8MFsdQHgHakJimUtpgUKGJj3TrV3yIlXEn1-709KrRHM9wjuGfcaeFvJCAvTiCR6QJ4FfFOga1ZHlyB0TRyulcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DiOx9oxtJ3"&gt;
-GitHub - OpenEmu/OpenEmu: 🕹 Retro video game emulation for macOS - GitHub&lt;/a&gt;&lt;br&gt;🕹 Retro video game emulation for macOS. Contribute to OpenEmu/OpenEmu development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
