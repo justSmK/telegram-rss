@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-01T04:10:36+00:00</updated>
+  <updated>2026-01-01T05:30:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -67,7 +67,7 @@ iOS Good Reads – swift, разработка мобильных приложе
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4567"&gt;&lt;img src="https://cdn4.telesco.pe/file/UhcOc-Scdfq1j1PdA0cNSLFFxUidJVopqwZuRKTfgMfUgBmjyq_MUwNw2m724Wbhz9PT5nwSyLFP0fznnh3aaanvttlZ_60SO_CCorJlzXHxqRQoVS8AB4VUaSfJoQ10ylkjCdaEoBieCd3vKf_nm5rPScFCRTiA-RPfsjI7-GlT4ISR4sWG9FG5YPxZAzlxHOBXlknLGXq8dGngKVCN2T44vpInGyeNClpFlJLYzR0a2VHkqxgnIXN6g3Blkjxe6e2DmwML8jVbEW5at6VbsbsQMCuYZ25p-MlBC-Ck-b3CBNuzYCFZ-bjrahwzW5w0K-C1o45gvFMBZgu_OuE7aw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/reverse-engineering-nsvisualeffectview" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроен NSVisualEffectView&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Автор статьи хотел повторить внешний вид панелей в macOS Control Center в своем собственном приложении. Чтобы это сделать, ему пришлось реверс-инжинирить нативный NSVisualEffectView и создать его полную кастомизируемую копию, которую можно изучить на &lt;a href="https://github.com/OskarGroth/MaterialView" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;GitHub.&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4567"&gt;&lt;img src="https://cdn4.telesco.pe/file/h2HaAr_hUCf1GgUYM9xQxqkAuY4JLFTKVqEr4yAoTY95yn46YmfG964ER8wDzPYcd--y1nBdpeKnYzItT5NVEZPJazoWLTvJ9XA3ajNjyKecKlLJR3gmcTja7SUKoYMjc9T0_YUU-NAuph1vETMme33QP0VWW4mNBBuRGtrvZ2cqqXeOc31Ms40xKu7EAnyfHOJFjg8b8QADiHRYFTPjt0AO1H9DQ3wfuiwYxGwOdHZJINkEOUWSJP-KEnEItSBFkIjfaGQI5Ep4MaIpK9UaRA98yjljH1QWlxcY-OdEYsaxiEPfq1V1bp6HlWFv_Lj6KITie0mH002uLvvackWMkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/reverse-engineering-nsvisualeffectview" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроен NSVisualEffectView&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Автор статьи хотел повторить внешний вид панелей в macOS Control Center в своем собственном приложении. Чтобы это сделать, ему пришлось реверс-инжинирить нативный NSVisualEffectView и создать его полную кастомизируемую копию, которую можно изучить на &lt;a href="https://github.com/OskarGroth/MaterialView" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;GitHub.&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Конец года, и снова заканчиваются все подписки...</title>
