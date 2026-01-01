@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-01T02:05:50+00:00</updated>
+  <updated>2026-01-01T04:10:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Flipboard/FLAnimatedImage https://t.co/WD3QUweocl</title>
+    <published>2026-01-01T02:12:23+00:00</published>
+    <updated>2026-01-01T02:12:23+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25637</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25637"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Flipboard/FLAnimatedImage &lt;a href="https://t.co/WD3QUweocl" target="_blank" rel="noopener"&gt;https://t.co/WD3QUweocl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WD3QUweocl"&gt;&lt;img src="https://cdn4.telesco.pe/file/eQaGVbzVCnVl_jLII_dvNB2hPYvck_5W7_CxO2Q3qeAdYt_n-hUoTzDpkdxoxunWNj6EOQZSmeBFlsF1ZRLuzedZTOJYDDn3dKKjKj-MyxyOyrm6GOFIKPaDv3YZIdq1ElUWvB4M2FLji26Lz9sUwSH1cuVYKvMS8dvIrqGcjRLZZ_pJbvzhqa65p0pGAvL8lqlFzKMWGTWyp8EbglR1tBUEDk9DMVoCyPac7YKzrlc5XBQrRFlVAe-H1dVw4T9yoeFaSJSifo6iVFC61ll4pzT0GKGlpBJl5XxZRwdOr3Phbnh0vvr9mV5FtQmctT8a5MjV1YA5h9tKGFkynk6Byg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WD3QUweocl"&gt;
+GitHub - Flipboard/FLAnimatedImage: Performant animated GIF engine for iOS - GitHub&lt;/a&gt;&lt;br&gt;Performant animated GIF engine for iOS. Contribute to Flipboard/FLAnimatedImage development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : swiftlang/swift-syntax https://t.co/XdjRQ62pJr</title>
+    <published>2026-01-01T02:07:45+00:00</published>
+    <updated>2026-01-01T02:07:45+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25636</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25636"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swiftlang/swift-syntax &lt;a href="https://t.co/XdjRQ62pJr" target="_blank" rel="noopener"&gt;https://t.co/XdjRQ62pJr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;&lt;img src="https://cdn4.telesco.pe/file/mSwx31pZ5IZIWXgVix578-MbDhl9MLcpf4Z6-QJ_A5xMB5OU3qD5urtRI3E8Nz5pzfvwymxm_r3YjVH-FKVFaNeLD-S6LKax00ype0ChhwXNZEqDNxoczTwGL2f40zwodz23UR8XOZjedivb9xqh26JOySpc2SjJ1Kh9M6rPEJBoMkOLE9s6sv0PC_HH1J_-NQZDm3NE0H4B9YFh4ITbYFIx4nG8TChFkJPWH2m7yH7u_NjglkbxZStZrpWJ7YRQTr3nxeCdu5kmc8bYHDX_tEcjopr9PTLroDHivgKZlU9I_yFoJB0MS1mJWBvSqktrh4gmItn6CUBS3e0JvSE_-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;
+GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - GitHub&lt;/a&gt;&lt;br&gt;A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - swiftlang/swift-syntax&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS CI Newsletter - Issue #84 https://t.co/5jsKJbBfIC</title>
     <published>2025-12-31T18:42:27+00:00</published>
@@ -239,29 +263,5 @@ GitHub - OpenEmu/OpenEmu: 🕹 Retro video game emulation for macOS - GitHub&lt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ejbills/DockDoor &lt;a href="https://t.co/XOkFDE9K60" target="_blank" rel="noopener"&gt;https://t.co/XOkFDE9K60&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;&lt;img src="https://cdn4.telesco.pe/file/dFXE6JgKoj8Qq2eCGL3-ghj0rJLyqEHLKrWzQ8W3RUYzfinoAorHETTyusYMdepSO_EBiWCtVZ-buK4Y5FhsStd6TC4Jkwew-50Q1M-VJynbELRnj9fT-nHHavxxyzSUrr-VJheuS0AONDeP7q9rVK3gP1VWtMhPJrTiEXpkbrQqJt0jxNhAVCIpF0CUKyv6bLfZYt5XMYBoRVqoaT5Zkbo7atKoc91Lqp3N6pX81zTbQ29FGc8q658Ugh6gMa-ajhTufX_HqUgfbUrgGvGBboUn3BrI5UbsOqasRyFWGtJ-Af1DOd-vE0MNzrwcY6121Rg1r5sOo15jdkA2Rme5zA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XOkFDE9K60"&gt;
 GitHub - ejbills/DockDoor: Window peeking, alt-tab and other enhancements for macOS - GitHub&lt;/a&gt;&lt;br&gt;Window peeking, alt-tab and other enhancements for macOS - ejbills/DockDoor&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Rocktopus101/Hingemonium https://t.co/yhDuBbXsd4</title>
-    <published>2025-12-28T02:07:20+00:00</published>
-    <updated>2025-12-28T02:07:20+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25617</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25617"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Rocktopus101/Hingemonium &lt;a href="https://t.co/yhDuBbXsd4" target="_blank" rel="noopener"&gt;https://t.co/yhDuBbXsd4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yhDuBbXsd4"&gt;&lt;img src="https://cdn4.telesco.pe/file/N6_XwcsSGjDwGOL8KUuTCphHZaGtQ-6t0RozBthHZ3Ez2djj8LXDbKOXT4rtoJG7Zjq_0P_2EtMFBHTxEkn8oOQwbGRODALtJEJJORlFJbvia8p4gVMDjdN2wlSZ1qSOYmPNVOhsmQUFlfWp2PuxJwBFTgobslXOFasWI4DHgWII_vlGeaO-zTeZhruhq5byMHcykG3WEIGuv-XNqdIxwqUeLCgDcp-IRxH37ELyi023sBYz80GteD5QxrawsW893_MhMXFw7XyhStsrwVIdeEdTC6ztnA0u3zA7U8teVeS4g_NdoZCMF2J3mBdaS5UOkrMj_hutfFRPu6reLJY8YQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yhDuBbXsd4"&gt;
-GitHub - Rocktopus101/Hingemonium: A fully functional Harmonium for macOS. Uses the hinge/lid velocity to simulate air pressure… - GitHub&lt;/a&gt;&lt;br&gt;A fully functional Harmonium for macOS. Uses the hinge/lid velocity to simulate air pressure and volume. - Rocktopus101/Hingemonium&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : TimOliver/TOCropViewController https://t.co/86I7IvQZvd</title>
-    <published>2025-12-28T02:07:19+00:00</published>
-    <updated>2025-12-28T02:07:19+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25616</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25616"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TimOliver/TOCropViewController &lt;a href="https://t.co/86I7IvQZvd" target="_blank" rel="noopener"&gt;https://t.co/86I7IvQZvd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;&lt;img src="https://cdn4.telesco.pe/file/vV7mS7rRWp0iDE10SQ2hDb0j7rQv3JvKZouN1Sm8zRHhSiaXDpXQrIitViyVeTC7ReojJibyeiQr3y8tNPFIasvexqiNodZFyVG_ncqPNezzuFvxStH1nJ2jrrsZAKbMnUhNI1Vb3ykROEAvsXERRDyqy4HfdEPM0FU468MOu1Xxox5keYm5HwitYosdfcfoZ725SxNfCQaRnWrkTpSUafxg7hXiJKWDCwf6QTffkl4qpjU690DJTzJQGRhCF2ZF8YMXw3rEqBv-uygEaBe1bFZoDnBpjKxvSU02s4sy2NNybB30S5NAXd8-8WnaDLPH06H2oENn__4XlbiPJq9Rlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/86I7IvQZvd"&gt;
-GitHub - TimOliver/TOCropViewController: A view controller for iOS that allows users to crop portions of UIImage objects - GitHub&lt;/a&gt;&lt;br&gt;A view controller for iOS that allows users to crop portions of UIImage objects - TimOliver/TOCropViewController&lt;/blockquote&gt;</content>
   </entry>
 </feed>
