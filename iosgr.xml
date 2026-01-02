@@ -6,10 +6,26 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-02T05:29:03+00:00</updated>
+  <updated>2026-01-02T06:38:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Cause &amp;amp; Effect Graph для SwiftUI&#13;
+&#13;
+В Xcode 26 появился новый...</title>
+    <published>2026-01-02T06:04:31+00:00</published>
+    <updated>2026-01-02T06:04:31+00:00</updated>
+    <id>https://t.me/iosgr/4572</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4572"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/dKwqxsDfgTTmDoXeebHUBg5Su-W-UgTDHDNQZ1XxjJHYpDpNQXuajiGHkZInUU-3OCmAhPBNMeoN7pXVynufQpJsZcjPupsUU7y1Yyt_X1PAS8ZVi0pUcR92Ga65Au2ZgeGh17Pkfi3qnUcokliQdnoFXA8-8IjTnBq7pQpoyONeesa7M1Upe69jSvOqos4GeyQh2DNG3BBPUXahRAOLKEirt8U71zwUcKXxJsRsCXxFwcRgubQH2Tl2w0q5_dahnH4rKEbRVnKi-k1M-fi2dD_e8Nj3UOjnNGqOuqSsnmY7FG0JdhMPpCxwohKFUS4miPSE6UXcmdCPIIt8zM0t7Q" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/4a938b2320.mp4?token=EGGJz_djHeqVU3Pu1KJ4Y-EH5qxhKgFv0QFPe7ONASH4P_1WW4yS80xzc_l6p4mio6X3-ELJ8SS33SBei8YoHQCtcBjwq3npL4pj_BGcsv6g6IMNasD-pAgOPC7Kj9D0bwN7NYX2wWF3IMaT6xzGP0QPEuj5t0idAcO9NxpMY02kTuGaHYXp0l4zW3htfNj4uSbxczvVzZPvPkW9Lke7rnPSmw9XsDF8tr1JvS7v08rVfxBITgorucxdtsIlSz1lZLReoQyTXfCp53o79eICXQD1fd7Wpkl9SLtjMiIqw7E0w_OHH3uLStKOiSsXxE7UVd_k1SaxKvj8eTmpXsob6g" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/polpielladev/status/2003891755742007367?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cause &amp;amp; Effect Graph для SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Xcode 26 появился новый профилировщик для SwiftUI. Для любой вьюшки вы можете посмотреть, какие конкретно обновления стейта вызвали каждый ререндер.&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/dKwqxsDfgTTmDoXeebHUBg5Su-W-UgTDHDNQZ1XxjJHYpDpNQXuajiGHkZInUU-3OCmAhPBNMeoN7pXVynufQpJsZcjPupsUU7y1Yyt_X1PAS8ZVi0pUcR92Ga65Au2ZgeGh17Pkfi3qnUcokliQdnoFXA8-8IjTnBq7pQpoyONeesa7M1Upe69jSvOqos4GeyQh2DNG3BBPUXahRAOLKEirt8U71zwUcKXxJsRsCXxFwcRgubQH2Tl2w0q5_dahnH4rKEbRVnKi-k1M-fi2dD_e8Nj3UOjnNGqOuqSsnmY7FG0JdhMPpCxwohKFUS4miPSE6UXcmdCPIIt8zM0t7Q"/>
+  </entry>
   <entry>
     <title type="html">Почему Codable медленный&#13;
 &#13;
@@ -21,7 +37,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/sn3rS2X8BcCqlknmby9wzPtvZvbo8hGf60bKK8nMMiX0OLmc1m0ucSPaiGQk8IxFeSFG_5EpyGaD_9a2fCASEvG_-jRUlQhFZBc7qni5psmYt-zNSOAHEi4zO4wE155z7Ld2js5E2MB1A8kG8_xYP9mfnCj81x1RJAaTk0gXZSvG165bqeOceysyedbwP7JoMawmUn-KPuzBiORukoIXBivZ_GW57kS_f1RX_7FlXt_oOjmb7DhWF6Dzj-3Nd0NxFSbYFQBXnycftNiJIjusi44tgVUa_sdgc1W6xakJXVBTsnEvU0LrX7iquzaVStTwZBD3uvsq9I7E1HTtM2Qgmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/WiSbL16lzV_B-k7Y5g944bm-Hsp8WVwRNKUMg6T1BSKnwNGAk4TwZ-RJVPDCD-PQK8JRm5B2Ps1Ey-eDFkyDyL9TxQs8rr1ZU8O2SPR3xu1x8d8xLW_q-rMlHd3awh6Yw94aRkCK4PR6ZoB47gYArdKfXH80QQJmcwjHJJPKjY7sq76I3DuT0vW8GvoN36QnjzjLRsD2_o7DnUwMTSmdISdC-PMJuefdKkHdqWqG635ElPk0oII9KArLbelicSKTUu-MPhZBZh3A0Pg1N2GRUR0yK00EnBSXKOkqjwv0c2BqKgp52iJe5eA9fSBfYLu4gyUUUl3mBvA2ltSGA2h4aw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
 Все не так с Codable - Хабр&lt;/a&gt;&lt;br&gt;Привет, Хабр&amp;#33; На связи Кристиан Бенуа, iOS-разработчиĸ в Т-Банĸе. Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -291,17 +307,5 @@ Tuist...</title>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4553"&gt;&lt;img src="https://cdn4.telesco.pe/file/EC4WwDp__S9ByE1X-qgLuNOyaOgvI8KbLW-d-sP3Oq_3X7T14529tWfsw_NuvDmMeehZYCpiLRHVycED_t1yG2dYyzWuTjmCwv7oQr0ik7MkmHyN-kCpzY4VIoGgUA-WkrEr9Zjtd_7xssGHnyRli5aN6BflK3fs6l6UC2YldyC4lN3HsyV4dNP1sHI3hcH_UZPuH1hObAtKNnv_m2-qwJjVBga9lcxRwRoCkMOWjOHh4jalJE-ccl-QwImVIdnCvtijpW1hnCY9oGoOeiNFK74EvUUuB04cOCqs1BsWlfKaiZj7UD96G2CttbHihB_6qtzu2wLLyUHdt-GmjT710w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuist.dev/blog/2025/11/27/teaching-ai-to-read-xcode-builds" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как заточить билд систему Xcode под агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Tuist выпустили великолепный материал с исследованием того, как работает билд-система в Xcode, что из результатов ее работы может быть полезно агентам, а что, наоборот, только мешает.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Что спрашивают на интервью в команду...</title>
-    <published>2025-12-10T06:02:12+00:00</published>
-    <updated>2025-12-10T06:02:12+00:00</updated>
-    <id>https://t.me/iosgr/4552</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4552"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что спрашивают на интервью в команду Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Инди-разработчика пригласили пройти интервью в команду, которая занимается SwiftUI для macOS. Работу он не получил, но зато принес задачу, которые ему задавали на техническом собесе.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;&lt;img src="https://cdn4.telesco.pe/file/mKSi5LBXUuTDruMD_bQepX-1QHrZLn0NC8cgmurdYTdASa_35Ixu21jAK8P5IRQgKOtY6Jxo5IIQaroth0dFVy4pdNQ3pTfgqJnb4z37ZYbo1PpcIJ0Tc4Uoz-7a3nDvGylCNuSwylRPM05j32XfbFInLwLj2FWY2-KPmOrMB88v4ALjszVs_l54nWOQKs0Kk8Ffvetbln4G0OFHYGYnrULRtxrxLjpcruIYHTD6U8kUDq0JNvm-zp2BhJFFRFUF908tPVpjC_QPuqVhA-JRMQagymJo8T9iSAz-rQI_wxHhugg5_m2arz4Y7H6EfdYot7om3Xrhd2CIy8zvLJ8O_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://oskargroth.com/blog/swift-interview-lessons"&gt;
-Lessons from a Swift Interview - Oskargroth&lt;/a&gt;&lt;br&gt;I interviewed for a SwiftUI frameworks role and didn&amp;#39;t get the job. Here&amp;#39;s what I learned about Swift algorithm design and the key insight I missed.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
