@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-02T07:27:19+00:00</updated>
+  <updated>2026-01-02T08:32:59+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -127,7 +127,7 @@ The State of Agentic iOS Engineering in 2026 - Medium&lt;/a&gt;&lt;br&gt;My pers
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Application Rendering: A Deep Dive &lt;a href="https://t.co/ViXZ7y9Pry" target="_blank" rel="noopener"&gt;https://t.co/ViXZ7y9Pry&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;&lt;img src="https://cdn4.telesco.pe/file/lPt4Msx7t9XRmLdtGbUblOIKc2hTZTwt4TllQ0uH8SZSk6GjsY0h_UhKpLmZwVQ4MiX3YqWt6enPbRejChXWxcyxfrixlsgLZwSvi0dZdwbmGpjTRt80SvbnOJXdpY8lOqtCGqu2r5H0elH7hcmdzkPdZn8_Dlz6l-i7EqJdCjmeX-Km_8GuW_Qjo17VH2kuRxXyNwwlPqoQlAw1xbBhl_l3pdxgtXf5e1Kro9mca9FGpalo6JQ5orMcgLlYsUuRmrqJDHebZU7u-HvKhQUyiCjWIRLnJNE8v98oVaU1ISYbceNs9VJc7m4uwuxb2MYAS-PF_EOdNkKpWLHu1UO8MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Application Rendering: A Deep Dive &lt;a href="https://t.co/ViXZ7y9Pry" target="_blank" rel="noopener"&gt;https://t.co/ViXZ7y9Pry&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;&lt;img src="https://cdn4.telesco.pe/file/UuGoktxP5qZyy3xGjVhTZCWb11Jkw_wAnGEUX66KWl52eiw5dbps-UaPZUuO3yRf3jguJCjH_CKEfQIh-p801IzguZEwmtZhBPIqa7afd_b7Bb_fU37pLBEFksxL5Y3PoPc3c7bSwlI5FvrNbInMKxe6zFjwl97_9xTNlZP6-_BXJAA8OLTr6ZQ5wu8bsOAb9awjiVXr2l0dOKrw9M6-xc-J9K_Xg_-71T6mIVP-plPWNxX_UtT0YMbHwIlVhUs3zQizBpZyX9pn5NZDCErFBT2LPdpiWMHfyeuae3lM3_HrEXQsy3G2QEaijTF8Opu6HCwaH4hE2_hW8-o0MFx8Nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ViXZ7y9Pry"&gt;
 ios-rendering-docs/README.md at main · EthanArbuckle/ios-rendering-docs - GitHub&lt;/a&gt;&lt;br&gt;documenting my understanding of how iOS draws app content - EthanArbuckle/ios-rendering-docs&lt;/blockquote&gt;</content>
   </entry>
   <entry>
