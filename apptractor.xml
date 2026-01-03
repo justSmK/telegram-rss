@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@apptractor</id>
-  <updated>2026-01-03T03:25:15+00:00</updated>
+  <updated>2026-01-03T04:35:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -255,7 +255,7 @@ Kotlin Multiplatform составляет конкуренцию React Native и
     <author>
       <name>Mobile Development by AppTractor</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/apptractor/5867"&gt;&lt;img src="https://cdn4.telesco.pe/file/Bd1HHi9RTrYnyrwQLwsIOQR2i9C5kaqxqVZSSQDyDLM6PvDSrnTSm0GUCtqetEe_Ymf-dkfy2Zqw0Bt_dkThSw8MI012BrawFLxs3QClm-5nUHNoUhlzf94lOIwyujabvfJRMQ6_GeFtJh-IQfvEbU6rrdQ0dgVMXb5krj9gbU9s8z4yr4_Ek2GZWRAQ3Ob-DFOVaGoAXyaqiz92aSBK2CMdaQfU-oA7ghLoRlz1bLdWMwrmRSmjud4MSYuurGYccU9lx3xPo13ZO7NIy0p6gZ_W6kVEwivOXTYLNn68DQaF-pAVvL27C5h5cPTIlBAfAXkpyk5E84SHX_XJb0Go5w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Лёгкие и быстрые побочные эффекты&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Традиционный &lt;a href="https://apptractor.ru/info/articles/digest-573.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;дайджест&lt;/a&gt; за прошлую неделю - последствия уменьшения приложений и новый шаг в передаче зависимостей Swift, улучшение доступности в Android-приложениях и их перформанс, лёгкий и быстрый DI-контейнер, Offline-First приложения, ускорение загрузки экрана, больше рекламы в App Store и многое другое. Заходите&amp;#33;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/apptractor/5867"&gt;&lt;img src="https://cdn4.telesco.pe/file/LWINsoARmglhrjxH_wF1VOAle6B8FRJLKQjQSKu8hIOgr06TxzCu4_vHulSggaot9nn-3DY-TNegUiW1cgjQ3vtSaYXL4YYJIouxFMMSd0p2Mu9kwd8-O4hrdKzApHMLc07qY2kqNlOBqAR5VC8VPPtB_ftGn9ivWuqfAMEP9_CzruZMgxWFgadvQmSh_b76ZAqtR6JcrJWf-hGjOmngZF6ZyGGRKEFfq8n_IQ0wi_B6p8AeVYYjAMkTbGUvlVBDTfHb-uHN_4AmkIEt9NzhI6SH-1AnIfqccXJ_bQ4f0btOOyNVouMT9cYNK03vwnw5WbmIEty1s7g0f57TGFVygA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Лёгкие и быстрые побочные эффекты&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Традиционный &lt;a href="https://apptractor.ru/info/articles/digest-573.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;дайджест&lt;/a&gt; за прошлую неделю - последствия уменьшения приложений и новый шаг в передаче зависимостей Swift, улучшение доступности в Android-приложениях и их перформанс, лёгкий и быстрый DI-контейнер, Offline-First приложения, ускорение загрузки экрана, больше рекламы в App Store и многое другое. Заходите&amp;#33;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">🩼 Apple разрешила себе собирать долги с...</title>
