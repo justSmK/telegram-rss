@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-01-02T23:22:01+00:00</updated>
+  <updated>2026-01-03T01:50:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -209,7 +209,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			Какие скиллы важнее в рабочих процессах?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;58% - Софты&lt;/li&gt;&lt;li&gt;42% - Харды&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Какие скиллы важнее в рабочих процессах?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;59% - Софты&lt;/li&gt;&lt;li&gt;41% - Харды&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Одно приложение SwiftUI, шесть архитектур&#13;
