@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-03T10:24:14+00:00</updated>
+  <updated>2026-01-03T11:19:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Announcing the German Urban Sketchers Index https://t.co/Kbt1DKjDy8</title>
+    <published>2026-01-03T10:57:39+00:00</published>
+    <updated>2026-01-03T10:57:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25654</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25654"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Announcing the German Urban Sketchers Index &lt;a href="https://t.co/Kbt1DKjDy8" target="_blank" rel="noopener"&gt;https://t.co/Kbt1DKjDy8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;&lt;img src="https://cdn4.telesco.pe/file/tCkibsmbPpRBAlogL8LAsCZowYuX8044ZuorzLlCifTuUP8RPPV9ScIwx7zJiqpOmNtiIMqUxF5g7K07h2yni5ALcX1JMjK2yLvbeXWiAaoD4Q4DU0DM34k8P82e2RdjWCsd9zAlE4dnPhQ-zDh4aVxPOwuxla2XH2icOm_RwN9__MVl3Dbw9rh5JlSGbWyFi4DmsqLH0XDlecUBd5KntjLfm1GaycUSdTsPH00uuO10Adjt6ovgBX9bP4JW734Ontq1dnPFQiAnmZO7zv1pMxK8xiM8cR3q5luJar6xrexlNvN9w_JUmDYa8VErfaGVdXcKbJtq7QNSMl8o-2JU-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;
+Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&gt;The unofficial Urban Sketchers Germany index got a webdesign, interactive map and filters to show the 85 groups that we now know of.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : ml-explore/mlx-swift-lm https://t.co/EstG0eWE8u</title>
     <published>2026-01-03T02:12:28+00:00</published>
@@ -237,19 +249,5 @@ GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspectin
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS CI Newsletter - Issue #84 &lt;a href="https://t.co/5jsKJbBfIC" target="_blank" rel="noopener"&gt;https://t.co/5jsKJbBfIC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;&lt;img src="https://cdn4.telesco.pe/file/k5CGEoBGawsrxdT5DNFiIPnL7068R1OLM4zjpzg5_vMlOY3k-cqcgi0kxFRmmux9Lpi0JdH1Fgd_pqbDO8hoK6X8Ww9_PlIrsd7NwXOctyjuGt96j2XAaALyYAWGzN_JDtqYW24ndHTq4ELfxy9erxBkKanhDnjpQKMSxx6-oPDqM63YGtBeUTDqwHSzjA2sTsc9J5Hy-1-QRVfbNKSIVZbAzMEjlQ8X12GOw7BgDHezeE-YRj3OoQGqfg-GCqnkNcDUQApvt-nT74uWcYCrqlPKKRJ0MoAzoJs5eqz4Eyn7FUbEICA5KeRf8IODghX6WBp3G47t1KLPZzAoQmS29g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;
 iOS CI Newsletter - Issue #84 - Ioscinewsletter&lt;/a&gt;&lt;br&gt;Issue 84 of the iOS CI Newsletter, a fortnightly publication containing the latest iOS CI/CD news from the community.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">The Most Satisfying iOS 26 Design Feature - Concentricity https://t.co/SCRaUizxe4</title>
-    <published>2025-12-31T14:57:21+00:00</published>
-    <updated>2025-12-31T14:57:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25634</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25634"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Most Satisfying iOS 26 Design Feature - Concentricity &lt;a href="https://t.co/SCRaUizxe4" target="_blank" rel="noopener"&gt;https://t.co/SCRaUizxe4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SCRaUizxe4"&gt;&lt;img src="https://cdn4.telesco.pe/file/BWtIT33Ay3W7idU80YZGru59Ol32Kugg7PBtj2h9iAmKUCoIJI88lPcZ2RKeozyzrULCJCXAxzzESSBt5VMjFskzuu6lpFeSp6VDyUrhcC89mtQsH7vklClp2GjF5jnVY-KS0AmqQdgtJHu3_5la8q2f7I0nLANXrCaHHk7XrZ3_jcG8aPfTGoG0F9Y-TEDMUU_lyzIkZe5qh61YdlpmykA4rZ7rQf8oZkDB5NAGZpk-sABSVVZIvvH9NVQ73AqRrxG3FIZL4hL7IBFjYcc8sIZKMF-jOQcX1gyAzUK8wqZyM-y2CjvXJpew2On45JT2C98_6cSOxHwZ1HUTOHL-vw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SCRaUizxe4"&gt;
-The Most Satisfying iOS 26 Design Feature - Concentricity - YouTube&lt;/a&gt;&lt;br&gt;My Swift &amp;amp; SwiftUI Courses - https://seanallen.teachable.com/?video=C0wu_dAQqAk&#13;
-&#13;
-In this video I show you how to use the ConcentrictRectangle API in SwiftUI so you can make the corner radius of your views cohesive and looking great. I show you how to use…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
