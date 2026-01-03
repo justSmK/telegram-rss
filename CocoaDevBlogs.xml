@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-03T17:20:12+00:00</updated>
+  <updated>2026-01-03T18:32:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -247,7 +247,7 @@ GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspectin
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS CI Newsletter - Issue #84 &lt;a href="https://t.co/5jsKJbBfIC" target="_blank" rel="noopener"&gt;https://t.co/5jsKJbBfIC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;&lt;img src="https://cdn4.telesco.pe/file/k5CGEoBGawsrxdT5DNFiIPnL7068R1OLM4zjpzg5_vMlOY3k-cqcgi0kxFRmmux9Lpi0JdH1Fgd_pqbDO8hoK6X8Ww9_PlIrsd7NwXOctyjuGt96j2XAaALyYAWGzN_JDtqYW24ndHTq4ELfxy9erxBkKanhDnjpQKMSxx6-oPDqM63YGtBeUTDqwHSzjA2sTsc9J5Hy-1-QRVfbNKSIVZbAzMEjlQ8X12GOw7BgDHezeE-YRj3OoQGqfg-GCqnkNcDUQApvt-nT74uWcYCrqlPKKRJ0MoAzoJs5eqz4Eyn7FUbEICA5KeRf8IODghX6WBp3G47t1KLPZzAoQmS29g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS CI Newsletter - Issue #84 &lt;a href="https://t.co/5jsKJbBfIC" target="_blank" rel="noopener"&gt;https://t.co/5jsKJbBfIC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;&lt;img src="https://cdn4.telesco.pe/file/cDYAAl1OpSqN08bTEHpmwN5FkVnYUba2vkPtqJSHdY4cX-aTe-L1_Zt8DxXlj3lSnlyxCm1sDhghW0aZxZ3kZN2_I6X7q9_MA7eUL7yUrkzvcoV_DsPa-J1vJ-T91YmxNqdw9eeqO7HBKQYg5qDMWZ6D8LOLrath8xKyBEieTuhwOZEqZ-O--o01kX8n-z1BLk4peKzgfneo6kJ-QuBqfHCOMYD5C2i6EKcDOKu8dOBmOVgWts5wueznpo0XIh64edA-a5qFIVfuAtweUq73AgKb5IKPuGdUpmt675s1cfbQgjCRe6hcQ1OnMO0FWgVVZKtl7Y4ZnelIZvDovx2rOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5jsKJbBfIC"&gt;
 iOS CI Newsletter - Issue #84 - Ioscinewsletter&lt;/a&gt;&lt;br&gt;Issue 84 of the iOS CI Newsletter, a fortnightly publication containing the latest iOS CI/CD news from the community.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
