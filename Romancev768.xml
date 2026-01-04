@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768</id>
-  <updated>2026-01-04T11:19:39+00:00</updated>
+  <updated>2026-01-04T12:47:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Ваше мнение о Liquid Glass в Telegram?&#13;
+&#13;
+Хочется собрать...</title>
+    <published>2026-01-04T11:52:25+00:00</published>
+    <updated>2026-01-04T11:52:25+00:00</updated>
+    <id>https://t.me/Romancev768/15209</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15209"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/Romancev768/15209"&gt;&lt;img src="https://cdn4.telesco.pe/file/McL485SQQ7qEqfxQRL_KcYK9Z_FcLn6iRB_O51yd1mnKsJoM8ZeDifDH9SCdfGVnvdUDrlQZ_SfQxLjFAkyDA9ohFWlTDN6WIAOG3zOYmgl_unHY48SCphGSIvxxQwjunR5621tvLAgUh9jLK3YiDkO33M-ul3q1NivGI9NVzkW_HlpfUtbr03oLxVPNuN0bb_52nYNuXKySz7Tlc36LUdPiLVlfRShnUVrMJV7tGA0g__BhOVEIIou5Bo02ZQyHAXE3meyUSzUVMnsrD-keYOftzzYx4Sovu0JT9rL8d3f-tejshwXvAfT7PReTOnGOHsc8yhH52Kesrri15BtSLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Ваше мнение о Liquid Glass в Telegram?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Хочется собрать максимальный фидбек. &lt;br/&gt;&lt;br/&gt;Пишите в формате:&lt;br/&gt;&lt;br/&gt;У меня iOS/Android я считаю …&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">iPhone 17 слишком хорош &#13;
 &#13;
@@ -245,16 +258,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Концовку еще одного сериала бездарно слили. Ничего нового. &lt;br/&gt;&lt;br/&gt;Вот реально, лучше бы «приключения Шурика» еще раз посмотрел чем вот это.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">На Новый год вы получили</title>
-    <published>2026-01-01T11:01:46+00:00</published>
-    <updated>2026-01-01T11:01:46+00:00</updated>
-    <id>https://t.me/Romancev768/15189</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15189"/>
-    <author>
-      <name>Романцев768 | Romancev768</name>
-    </author>
-    <content type="html">			На Новый год вы получили&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;12% - iPhone&lt;/li&gt;&lt;li&gt;1% - iPad&lt;/li&gt;&lt;li&gt;2% - Mac&lt;/li&gt;&lt;li&gt;3% - AirPods&lt;/li&gt;&lt;li&gt;2% - Android&lt;/li&gt;&lt;li&gt;80% - Мне так не повезло, дайте глянуть результат&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
