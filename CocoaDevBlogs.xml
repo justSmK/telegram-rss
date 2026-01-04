@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-04T16:28:16+00:00</updated>
+  <updated>2026-01-04T17:20:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Cocoanetics : SwiftMCP Client https://t.co/uQzJloBMGy</title>
+    <published>2026-01-04T16:42:28+00:00</published>
+    <updated>2026-01-04T16:42:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25661</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25661"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftMCP Client &lt;a href="https://t.co/uQzJloBMGy" target="_blank" rel="noopener"&gt;https://t.co/uQzJloBMGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/rgM3gI8EqcbTMF_Ej4oe_Uq8QtVRwXGHwS8giSvbdiPuXybbtYoDlt3O_7r5Xwkxm614fgbdyJTMdYeg68lnWBV_YYhm6uNT9OGWzVm1Nuay1-c1RafDTiH_pAj5K8KlLLmU1vKfU_KYWJTHn646w_cUXZGrC7DaI7U6js5gycSaTtCxVYQsmjicX_u4G7UZfBBHPFsNIL_QYgv2MBctFoF5Th02GYJlKoyWR_786xfT3KjId-ZdTUxTlCL8SlBiECeXoWzf1tNXU7y1IprAjrxX60bbw8cOFHKBYWg4l16J6Bbgw98-t9QcKw-ayQQRKwwLAN-EZA6EF7bxmHRuog.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;
+SwiftMCP Client - Cocoanetics&lt;/a&gt;&lt;br&gt;It’s 5 months since the release of SwiftMCP 1.0 and I’ve been slow cooking some enhancements for it. It was rewarding to see a bit of interested in this package, judging by issues and forks I could…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : yonaskolb/XcodeGen https://t.co/Kz8WWqBLP5</title>
     <published>2026-01-04T02:07:13+00:00</published>
@@ -237,17 +249,5 @@ GitHub - pinterest/PINOperation - GitHub&lt;/a&gt;&lt;br&gt;Contribute to pinter
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : BoltsFramework/Bolts-ObjC &lt;a href="https://t.co/yxSbOT4gt8" target="_blank" rel="noopener"&gt;https://t.co/yxSbOT4gt8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yxSbOT4gt8"&gt;&lt;img src="https://cdn4.telesco.pe/file/sZG0z1PVbs3Xh8VukcMKzCuyapRgGmaIeRPsf7L4zSpPmE6AmlN_oKO7zP-RNWDBC9w_-wF3G-tqXasyBT-JGHLar-PrUywemYKmL7eWVIl1KTeroOAjuoZxeJNNF0tDi9cML3kKItt6XRAZjjX1bCdLCqRyf6eykgWrLP8s7CjlZ6dGNeK8zxD4uVTJN16exGsWFm9urjRTQWCZYtnN2kHNj-guk125lFF1TeVmD1l2qkYsiZs_hAiiDvF5X8IOEwNaswj_0Y1vkgPwBsxXmpsUoMIWKXSxvZpjhbZU5GBeYk5bQsf4U8trBeOMocSZo8QaUifDNb4fZcRY24cYOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yxSbOT4gt8"&gt;
 GitHub - BoltsFramework/Bolts-ObjC: Bolts is a collection of low-level libraries designed to make developing mobile apps easier. - GitHub&lt;/a&gt;&lt;br&gt;Bolts is a collection of low-level libraries designed to make developing mobile apps easier. - BoltsFramework/Bolts-ObjC&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Craig Hockenberry : The Year That Kicked My Ass https://t.co/4EqYdDj9vY</title>
-    <published>2026-01-01T18:52:22+00:00</published>
-    <updated>2026-01-01T18:52:22+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25641</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25641"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Craig Hockenberry : The Year That Kicked My Ass &lt;a href="https://t.co/4EqYdDj9vY" target="_blank" rel="noopener"&gt;https://t.co/4EqYdDj9vY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4EqYdDj9vY"&gt;&lt;img src="https://cdn4.telesco.pe/file/Aa2NMPQVQdR8nuOD3dFMGvTEXC_UKe_3Gxc82g7IWTAvzKBGooPXpX_3J_Omi4LULgDK3Mt2-VBTNcmHGFLcDXiYfaTeoGySE0mAFSwCMO2Ed6AcNsG4IgEd772I-TfGfY-eQBHEQq_vDqBHy5C6p_WQ4iwQKoB5s8DdtLG_AENPZ6vrZvxDlZb4H8timL_OIDkn5D-ZcVjntHlNJbtQOIqKEcBDc_RQO9HRRz67_F5GWdMYIFi3hYpMzXAueu8UpRFNh4k5vmQJo9guc5DZPuEebZKPMYOHU3qqxRxanNRdZsFH3DD8e5B-gomGW4c_gPTR5pWdjXWNryRrxZcFhA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4EqYdDj9vY"&gt;
-The Year That Kicked My Ass • furbo.org - Furbo.org by Craig Hockenberry&lt;/a&gt;&lt;br&gt;January started as normal as can be expected when malicious grifters start making basic decency a radical idea. It turns out the anxiety associated with these political events would be the least of my problems throughout the year. It felt great to finish…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
