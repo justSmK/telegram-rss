@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-04T05:28:51+00:00</updated>
+  <updated>2026-01-04T06:36:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -21,10 +21,10 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/FjyKjPrfCrf2HPi_EeJGkVhLiCQEThO66h1qUoOY5wyeLiMRwMigcy6AavB7PjVff0aIDLfX5Op2jsVzoV6Pi2nnDpipJU9ljcRyMZVovxOidW-b5jWEiRrfE1OVNEdOELhEvr8o4_duxYQ0BeN_7gctE0rM2QMAEOqk9Uqdx-rduINqSK9FpsOilfvRPMHyWJyrOpri8Bmu4xVI5lA6FWhnkMLZrSfyHBQRqSLtwgst-6boYb9RYLWdoO7MbL-9CWbm9Cn_lfeMwGQEt9ihQSx_3-6YiOWK2rbg61PukKFT43tJpohy8-4ErXq0S2NS2DmTyV_Uba_7Oqwft4smtA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/4a938b2320.mp4?token=Np724BscrWe7MsmIyC6naFTt46QOMaTyAMd3StFCru7qxW4drAlb-qotNRzIgxEv0w-Wd2qteZG0NKyWVRnOvDsmiSeV3yOEpqXKgn-4y3P-K2SQwgT98J0ETshisfazJv0dbmPovYlD6JjW6F0xLS1AEFtZtoemhEKbJdGX8rR93TcBf8s0lJVVajAZlPLpmQB-P500xX6yX1KNOFlswvfrflphbkxYUmCdbl6XmF8YgACQphYmvIMwkAFRERWV65Nhfg0RkSp0Tof5uH8ZKOnRQyFVP-NvNgRO1qc04S_ePvN6Ps76il0w26qla89ly4igAO0bEZjZXqMKReI5Ww" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/ImJKjWW-eW_KMgidgOwI87vb1m0vMLHpJOgHlhjlOqFoJUYCB1A1-QOB4FxAPKL8lWrTi3CdWoUsJbuNAmhGPhi80sQbVDl7gkhANcTeEWEgxVKqJzGMj1DR7_UfORVsbW1NDxdFQeAoYEGgOnul_VvANsbCEI8A7j-xkVdHvNXfKF774_bs3kOqzNrx8TaPRB3e4TxDehTzMCS5O0F-qa5MXZb4GXimk4wJ3AUkdrai4zXnJcyqPrEhQhLDXxPGPQTWdAgaeyIM63Fcu2lmZEAUJNV6UB5dmUI_dKmDREtMfQivyxs21TFGFxOZFPijPM7zvpUTywDcMUxhHaBTHw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/4a938b2320.mp4?token=AV2FFzozf9fUKkg89845csHfmxkEueSadd_puPGGev4S4rOcn-y0ZLOsE14qF-Wf67kuw3PEEFi6IvGcpgrg-f19Z3L4QRMbKG9VpwkBTeAP3V2W-b4be4VtPmqEe21ueUp7eqYu5ls7HkP_hN2FNw8TRmnK_EvuGsQvhAysrF3RjO4D_PbIrgFPEp3Xw4cL7vc-suPBGshtAi3IpyuhLU4WwysIan3d2dRKyGCgRLPOAnkt3VxyqA9LtHzPV-xNC-p96G418SCPOwHWwjl2Og7G-qX27m76a7XAC_IjqhgegW7IJdKlKCfe1oGZWqFioA_SjMQAxXrLoZ8uSE6Wwg" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/polpielladev/status/2003891755742007367?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cause &amp;amp; Effect Graph для SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Xcode 26 появился новый профилировщик для SwiftUI. Для любой вьюшки вы можете посмотреть, какие конкретно обновления стейта вызвали каждый ререндер.&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/FjyKjPrfCrf2HPi_EeJGkVhLiCQEThO66h1qUoOY5wyeLiMRwMigcy6AavB7PjVff0aIDLfX5Op2jsVzoV6Pi2nnDpipJU9ljcRyMZVovxOidW-b5jWEiRrfE1OVNEdOELhEvr8o4_duxYQ0BeN_7gctE0rM2QMAEOqk9Uqdx-rduINqSK9FpsOilfvRPMHyWJyrOpri8Bmu4xVI5lA6FWhnkMLZrSfyHBQRqSLtwgst-6boYb9RYLWdoO7MbL-9CWbm9Cn_lfeMwGQEt9ihQSx_3-6YiOWK2rbg61PukKFT43tJpohy8-4ErXq0S2NS2DmTyV_Uba_7Oqwft4smtA"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/ImJKjWW-eW_KMgidgOwI87vb1m0vMLHpJOgHlhjlOqFoJUYCB1A1-QOB4FxAPKL8lWrTi3CdWoUsJbuNAmhGPhi80sQbVDl7gkhANcTeEWEgxVKqJzGMj1DR7_UfORVsbW1NDxdFQeAoYEGgOnul_VvANsbCEI8A7j-xkVdHvNXfKF774_bs3kOqzNrx8TaPRB3e4TxDehTzMCS5O0F-qa5MXZb4GXimk4wJ3AUkdrai4zXnJcyqPrEhQhLDXxPGPQTWdAgaeyIM63Fcu2lmZEAUJNV6UB5dmUI_dKmDREtMfQivyxs21TFGFxOZFPijPM7zvpUTywDcMUxhHaBTHw"/>
   </entry>
   <entry>
     <title type="html">Почему Codable медленный&#13;
