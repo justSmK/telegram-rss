@@ -6,10 +6,34 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-04T02:06:43+00:00</updated>
+  <updated>2026-01-04T04:12:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : yonaskolb/XcodeGen https://t.co/Kz8WWqBLP5</title>
+    <published>2026-01-04T02:07:13+00:00</published>
+    <updated>2026-01-04T02:07:13+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25660</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25660"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : yonaskolb/XcodeGen &lt;a href="https://t.co/Kz8WWqBLP5" target="_blank" rel="noopener"&gt;https://t.co/Kz8WWqBLP5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;&lt;img src="https://cdn4.telesco.pe/file/pbAsPaju861mujQyixXsjicc6Ug9K3YgcJkLyPqGOOW2CDzZk1CQxrWLbzMIa7kOWAFUmXDSmCon8YEcoehwwCa3ghP4NQzNGUF8vNaj8WzVlFL8bIMEQqPDy_TT8mBeu95LD7OWTc0xYMp4-be0DsHsXC9aJibmDpiMd60cueyAxEzdSxp77-ac6_aWlQtRuZuxOii3FDmNq31H4dX0_2BplMjhfeF45QtloUQatlwjeaA8BRvC0I9TVHNqZ2Wm1qD7HA_o4SvGimDPxhSv3-t3y0VqJM5PtfJBqnaoDyDqPKZ9g1Av4Eg2EoL5wnTtYEN-Rv5MHT1ANnP70VGezg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;
+GitHub - yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project - GitHub&lt;/a&gt;&lt;br&gt;A Swift command line tool for generating your Xcode project - yonaskolb/XcodeGen&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : gonzalezreal/swift-markdown-ui https://t.co/VCTMjnxnNK</title>
+    <published>2026-01-04T02:07:12+00:00</published>
+    <updated>2026-01-04T02:07:12+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25659</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25659"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : gonzalezreal/swift-markdown-ui &lt;a href="https://t.co/VCTMjnxnNK" target="_blank" rel="noopener"&gt;https://t.co/VCTMjnxnNK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;&lt;img src="https://cdn4.telesco.pe/file/te0rn3sZ8yUJoNCjoXxZP0Np26jA4vFIvYW8cogRLqOjoNe0UziiijBaNwE8h28ar9Anyc3bmY1KO9n1nPD_4Tam8Ep9NCtyCF5ejstsCAj2gQyQN9kcS3bA9-ec9Hjlxg2lU0Kzeef0a7jdayYOpAtux3Mwg2N-jDUnPNi_f9kWck2hgEsg2d0Yq6L9wvXws36TxicKl4H528aFR-8ueAqpMhFBpRbOrkUny4vGh_5O3wOz34zxu_tACEwvjgzygzSrjMqDWX-7oAUKg_nnp9X5pm9feqEm1gs8VZdMntiYq-ZsanhaqGEczd4YRTa8WdY0N44eCUmWKlvGOiEP1g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;
+GitHub - gonzalezreal/swift-markdown-ui: Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - GitHub&lt;/a&gt;&lt;br&gt;Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - gonzalezreal/swift-markdown-ui&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : microsoft/onnxruntime-swift-package-manager https://t.co/pJklUf8udt</title>
     <published>2026-01-04T02:02:44+00:00</published>
@@ -225,29 +249,5 @@ GitHub - BoltsFramework/Bolts-ObjC: Bolts is a collection of low-level libraries
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Craig Hockenberry : The Year That Kicked My Ass &lt;a href="https://t.co/4EqYdDj9vY" target="_blank" rel="noopener"&gt;https://t.co/4EqYdDj9vY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4EqYdDj9vY"&gt;&lt;img src="https://cdn4.telesco.pe/file/Aa2NMPQVQdR8nuOD3dFMGvTEXC_UKe_3Gxc82g7IWTAvzKBGooPXpX_3J_Omi4LULgDK3Mt2-VBTNcmHGFLcDXiYfaTeoGySE0mAFSwCMO2Ed6AcNsG4IgEd772I-TfGfY-eQBHEQq_vDqBHy5C6p_WQ4iwQKoB5s8DdtLG_AENPZ6vrZvxDlZb4H8timL_OIDkn5D-ZcVjntHlNJbtQOIqKEcBDc_RQO9HRRz67_F5GWdMYIFi3hYpMzXAueu8UpRFNh4k5vmQJo9guc5DZPuEebZKPMYOHU3qqxRxanNRdZsFH3DD8e5B-gomGW4c_gPTR5pWdjXWNryRrxZcFhA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4EqYdDj9vY"&gt;
 The Year That Kicked My Ass • furbo.org - Furbo.org by Craig Hockenberry&lt;/a&gt;&lt;br&gt;January started as normal as can be expected when malicious grifters start making basic decency a radical idea. It turns out the anxiety associated with these political events would be the least of my problems throughout the year. It felt great to finish…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">The State of Agentic iOS Engineering in 2026 https://t.co/pYfz8Sa7He</title>
-    <published>2026-01-01T17:02:43+00:00</published>
-    <updated>2026-01-01T17:02:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25640</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25640"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The State of Agentic iOS Engineering in 2026 &lt;a href="https://t.co/pYfz8Sa7He" target="_blank" rel="noopener"&gt;https://t.co/pYfz8Sa7He&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pYfz8Sa7He"&gt;&lt;img src="https://cdn4.telesco.pe/file/g4razUxuOUOPfCYo6BbvsQpnjEErsznlJGBcDQkkgCRPpwEPFS5r8iIIMsfJ6N2ODunHugzrhpMw-v6uY70gfh9F5pQkmnoVdCl1MH0rbuAG1zklWKRcZwyHAgNO7iClMT2-e9UW48u5hdWATFGjx_Jmh86Is1ZDlxM-GQiB1z-g3yyZXrO0qIjKyNwW3l0I4qtDJbkWgx56F0O5BysudLz9nMO-71oBuM0qKZ5TuUAfu262hoDEbE8Q5HLDOJoASgu61Ks3DPnMTcQtnsdS0bzzehzn_YOpQe1SxIIiduAeLWXolsnD2YmhlqYJdFnHMODK23EMxGwtzWQXzYcRLw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pYfz8Sa7He"&gt;
-The State of Agentic iOS Engineering in 2026 - Medium&lt;/a&gt;&lt;br&gt;My perspective on AI-driven programming, workflows, and tooling&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#2025 Recap | Kavsoft | SwiftUI https://t.co/hHIzV3gtDi</title>
-    <published>2026-01-01T11:52:43+00:00</published>
-    <updated>2026-01-01T11:52:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25639</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25639"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;#2025 Recap | Kavsoft | SwiftUI &lt;a href="https://t.co/hHIzV3gtDi" target="_blank" rel="noopener"&gt;https://t.co/hHIzV3gtDi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hHIzV3gtDi"&gt;&lt;img src="https://cdn4.telesco.pe/file/vxo-JRYy8PDACkqWj4uAclXnB9FPYJq8JLR2e5r3dZK_mihMTLHHkml2A_FcEDSW5gK55sWoguRwLx1ST4s_ANhDEsGYIpKep1XAxHv-a9gRqEStadMqE01rjSUcDy9igin84RgCb76DURZxEKCtfMpD9ycL5gYXp0vJeYJbOOVgNCrFuBaXrlWv6P3V50jZl37IGCwBtZFmO5-z2RvC6tj9ImsHNebng5qmAKOlKj5OBMH_NCBtEAyazzbUiScFw1uwnfOuWCBlKXimXYp7KoqfeuzDdFKk1Z-WPS4dJrlPqrcquYHGj2JEnPpw1tC6grqsI6q7pFM2p0md__bcmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hHIzV3gtDi"&gt;
-#2025 Recap | Kavsoft | SwiftUI - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
