@@ -6,10 +6,23 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-04T21:21:16+00:00</updated>
+  <updated>2026-01-04T22:23:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 https://t.co/WNPltS14cK</title>
+    <published>2026-01-04T21:32:27+00:00</published>
+    <updated>2026-01-04T21:32:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25662</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25662"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 &lt;a href="https://t.co/WNPltS14cK" target="_blank" rel="noopener"&gt;https://t.co/WNPltS14cK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;&lt;img src="https://cdn4.telesco.pe/file/BJXUabQMiWC5v3MCdv77Kw-2j-7hahI8AWN4U4-dfn7qxF4cGrZgPFrStNaal9r7KFAcS642GO_244IsfyqxWcex0ahtbprroEFDeBLHKRI5JiNqW9NlzSeS9zZqtii4qnWIow-J9ol6i9XalGVosvYwnqkcUXr8FhwwZ7mvwvZiU_rqHbHrEC4jgAxCNKSyZ_W_OuBl28LMfxb-r1xNLipAgYQutCfCI3MPh_r7u_QDkD8bA_0v2tWxL6nqfBw09a7bYfC0PGeXs4HaTpjcQDfoIxzMJ8W3QSy0UmTa7lBHbM4sbEWPMiHPGe-mrtzwRMAqRARQ8FLV4jrPTtkWYA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;
+SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll demonstrate how to create custom Dynamic Island based toasts using SwiftUI | SwiftUI Toasts | SwiftUI Dynamic Island Animation | SwiftUI Custom Dynamic Island View | SwiftUI Animations | SwiftUI 2026 | iOS 26 | SwiftUI Xcode…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Cocoanetics : SwiftMCP Client https://t.co/uQzJloBMGy</title>
     <published>2026-01-04T16:42:28+00:00</published>
@@ -237,17 +250,5 @@ GitHub - aws-amplify/aws-sdk-ios: AWS SDK for iOS. For more information, see our
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pinterest/PINOperation &lt;a href="https://t.co/3w4V1tE6Jh" target="_blank" rel="noopener"&gt;https://t.co/3w4V1tE6Jh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3w4V1tE6Jh"&gt;&lt;img src="https://cdn4.telesco.pe/file/qI2daqcXv8bITe_1Pnyi9ZavMtnRN-V6QBMgqbX-hNk8cpWZqNRqR0ZhL4NfqR1pCs_Urlf38jIGW4CuJrIT7MfVwGucCxohLNBz_fikgLlMHNiIBMPazgwbEXzhYuf6p-JPb4TcBWpouHRxsDlWmmoRYUq-MFVzT4bpM8pUAF9ozGWDzoNKbk4OgY9QZxUhjFtWFeaRZcjjfy5FDY-eR29n0KSnxr35SkQX3RpWSXfW2qZU7WACaYRVXJ8R7Mm1aKx5Tah9bIVrC60vOHu-8k0YPs1vgxqIC9WacGs-WhVTs79MioxZ6j-_fLHRRIbdG0Ei3rxZiBJJk0FJPs4UOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3w4V1tE6Jh"&gt;
 GitHub - pinterest/PINOperation - GitHub&lt;/a&gt;&lt;br&gt;Contribute to pinterest/PINOperation development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : BoltsFramework/Bolts-ObjC https://t.co/yxSbOT4gt8</title>
-    <published>2026-01-02T02:02:56+00:00</published>
-    <updated>2026-01-02T02:02:56+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25642</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25642"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : BoltsFramework/Bolts-ObjC &lt;a href="https://t.co/yxSbOT4gt8" target="_blank" rel="noopener"&gt;https://t.co/yxSbOT4gt8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yxSbOT4gt8"&gt;&lt;img src="https://cdn4.telesco.pe/file/sZG0z1PVbs3Xh8VukcMKzCuyapRgGmaIeRPsf7L4zSpPmE6AmlN_oKO7zP-RNWDBC9w_-wF3G-tqXasyBT-JGHLar-PrUywemYKmL7eWVIl1KTeroOAjuoZxeJNNF0tDi9cML3kKItt6XRAZjjX1bCdLCqRyf6eykgWrLP8s7CjlZ6dGNeK8zxD4uVTJN16exGsWFm9urjRTQWCZYtnN2kHNj-guk125lFF1TeVmD1l2qkYsiZs_hAiiDvF5X8IOEwNaswj_0Y1vkgPwBsxXmpsUoMIWKXSxvZpjhbZU5GBeYk5bQsf4U8trBeOMocSZo8QaUifDNb4fZcRY24cYOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yxSbOT4gt8"&gt;
-GitHub - BoltsFramework/Bolts-ObjC: Bolts is a collection of low-level libraries designed to make developing mobile apps easier. - GitHub&lt;/a&gt;&lt;br&gt;Bolts is a collection of low-level libraries designed to make developing mobile apps easier. - BoltsFramework/Bolts-ObjC&lt;/blockquote&gt;</content>
   </entry>
 </feed>
