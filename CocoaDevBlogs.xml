@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-05T07:31:33+00:00</updated>
+  <updated>2026-01-05T08:38:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Icon Composer: Transforming an AI-generated icon https://t.co/w4vCwZAMoH</title>
+    <published>2026-01-05T07:57:28+00:00</published>
+    <updated>2026-01-05T07:57:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25668</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25668"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Icon Composer: Transforming an AI-generated icon &lt;a href="https://t.co/w4vCwZAMoH" target="_blank" rel="noopener"&gt;https://t.co/w4vCwZAMoH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/w4vCwZAMoH"&gt;&lt;img src="https://cdn4.telesco.pe/file/N2jQ95T4hQ_cl0ZvQTnXYn9FYEFPeHKpyORqE67UHq90t_tRC6D1g4pc_ZpW1Uvhjjn3AkTkaxfaDT7PeecvGHyVOXRNOBhl7Eo6_LX9Rwxz0UcD4IoZxBmxx8ZnycFNcK30soqlAvEmTmiiWEOIodsMU6Wa5RhY3_s7VPWtn0M--zPPjKTcQ5U_DfY7xLl-sRqxB23ohoInldtFsu060KJVPkndjbzumLeQIUrL8Uq8rYACof3mf5Cx8J58UvgbjI1YA03etip9ApUwS2PGFcAd4JFi1UC8548X0kF9F5_UtCHYa1MxrZaeGRf2Tqy-ixDjLADZNMqNHoo3hP3udw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/w4vCwZAMoH"&gt;
+Icon Composer: Transforming an AI-generated icon - SwiftLee&lt;/a&gt;&lt;br&gt;Get tips on using Icon Composer to generate polished app icons, with insights from industry expert Michael Flarup.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Emacs Carnival 2026-01: “This Year, I’ll ...” https://t.co/oUu5LS8K2B</title>
     <published>2026-01-05T05:17:34+00:00</published>
@@ -238,17 +250,5 @@ GitHub - JonasGessner/JGProgressHUD: An elegant and simple progress HUD for iOS 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/FXPageControl &lt;a href="https://t.co/J1NEkeuvS6" target="_blank" rel="noopener"&gt;https://t.co/J1NEkeuvS6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/J1NEkeuvS6"&gt;&lt;img src="https://cdn4.telesco.pe/file/K0zUNYnxz2gauALEKnfjJernVqHMFl10IO-W9ZLIU_QF4tgD0IYh2cVEgmwMG0XA0K_sLdZiFBJBRXuddoa1zDgKDsAwoYJJa-Ndlv0I-zB0fr67LMurhw1f6kdRQ56JlI01yRpZGk77fELMIJOFsMvy3FwLL5aJuyAmgJ5Vk6wdJfHJSftwv_zSOM1XXn1ih6s4gi_WMKu2a6kwsLA-lkKlU1cBd5EMmmHdu78KcwEkoqTHpBfQrLzFht85JAF0if4UF7zb-nmPbfThgLbHrTvAelXHH5Srov8BHG8OLkHgnv5b9t0uuSQCB9K7KH-GICAuHV5eF0wRz06FbmbYCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/J1NEkeuvS6"&gt;
 GitHub - nicklockwood/FXPageControl: Simple, drop-in replacement for the iPhone UIPageControl that allows customisation of the… - GitHub&lt;/a&gt;&lt;br&gt;Simple, drop-in replacement for the iPhone UIPageControl that allows customisation of the dot colour, size and spacing. - nicklockwood/FXPageControl&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How to deploy TestFlight app from Codex Web automatically https://t.co/4XWmCrQqhA</title>
-    <published>2026-01-02T15:12:16+00:00</published>
-    <updated>2026-01-02T15:12:16+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25648</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25648"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to deploy TestFlight app from Codex Web automatically &lt;a href="https://t.co/4XWmCrQqhA" target="_blank" rel="noopener"&gt;https://t.co/4XWmCrQqhA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4XWmCrQqhA"&gt;&lt;img src="https://cdn4.telesco.pe/file/L6NErW-oQxhJXkzHhBqnR0DIOtkhJy9cWJyqI_VQrUOeZamK5ZQaBS9SycV4IHpjZOsUvbPsHmC6ZKe0g04vGBeiIxZ4M_vX_AgkPFbCSngplWo6uQnBbQseiJ0CWCBuTB_JWFQI8BvyS8tdfR8DTulT2_X8BmTvWIgskNKCeyFX0DftgBmoNxw0jnTo_yTyfqmAyKg2CrmjKmLbpP49LQYUoZ4XmVF3a6o6URzbvf9yESFrKpuzKQyn5JcB2kIHbxOkOH6xBM7F-knWQtISgTZwoj2d67yliJ6cIfRA0UcgBr2uZDde2YcxsiKuyzm-xQyQ5t9DgjqMYDcKcq2LAQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4XWmCrQqhA"&gt;
-How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
   </entry>
 </feed>
