@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-05T02:06:52+00:00</updated>
+  <updated>2026-01-05T04:17:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Storing Swift structs in UserDefaults https://t.co/smOLmGYFO5</title>
+    <published>2026-01-05T03:37:24+00:00</published>
+    <updated>2026-01-05T03:37:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25666</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25666"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Storing Swift structs in UserDefaults &lt;a href="https://t.co/smOLmGYFO5" target="_blank" rel="noopener"&gt;https://t.co/smOLmGYFO5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/smOLmGYFO5"&gt;&lt;img src="https://cdn4.telesco.pe/file/clPGsigdnCEiy3CuXyQkQGhz2GTr7gA5pQS8TJIc392JjEfLOv6hpou_4iHKc75JYnM9L0lnWb-2j465CSAaFMW9axUEHNOe7ucaok0wu6BTpRjX0FGE5L0otFoYfWIELRMPkfezLTYFP6YirIxVaPKzP4Gwmrgz_6khmd18esXqi2Bej1i09erJzlxvsQdplhHB9TvMcPtodlKv3n8kcbpii1Hl6dmIY--SnjAgCktb-xXsPjr5f5xR0ZuxrqYIl-wVN5YpV7_q59aHNUFJVEvmRcCnjFnGNxWnWqRcWI5uN-RwHilNr7tywTB_MrsktakJwVq6sCczMzZjNk5PSw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/smOLmGYFO5"&gt;
+Storing Swift structs in UserDefaults - Tanaschita&lt;/a&gt;&lt;br&gt;Encoding Swift structs with Codable allows us to store them in UserDefaults, but this convenience comes with trade-offs. Learn how the technique works and why it can easily break as models evolve and about a safer and more robust alternative.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Dimillian/IceCubesApp https://t.co/Z8qWz5zPwk</title>
     <published>2026-01-05T02:02:53+00:00</published>
@@ -238,17 +250,5 @@ How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : lihaoyun6/QuickRecorder &lt;a href="https://t.co/M14Q2oR0bk" target="_blank" rel="noopener"&gt;https://t.co/M14Q2oR0bk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/M14Q2oR0bk"&gt;&lt;img src="https://cdn4.telesco.pe/file/QNhgxgue1iDbGNhokQY3d7tS5x22ZXG_GlVed9anZZn9kI-0dvySK8nI0458JstquqU7bliLN6E_52sfKCxvguGEIh3U8iNLjM4WEtOtJ4zNdfKnnnX6ItX5QFAlkbo4hOZPZKL0hQotDjwJs9rlEkusPHGSgJFZmVrlTa3TzhWeyoK6BwRSrrG-ZZVQbqp5tDega4EmXhqaKfOKWgiDbaoP8-Yf4K6xioxRz5Z7Paq9I70YplAZUkN7g8Po8JDQJTkKKtTv7ARTd-hrN3QWdiaRzSDYeEQNfZd8c5bDl1VcWaVFMU2dhnymLMDl9lC-bNpTMXr9y5EJUEKBXRSFQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/M14Q2oR0bk"&gt;
 GitHub - lihaoyun6/QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能… - GitHub&lt;/a&gt;&lt;br&gt;A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 - lihaoyun6/QuickRecorder&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : coteditor/CotEditor https://t.co/2Yf437J7bx</title>
-    <published>2026-01-02T02:07:17+00:00</published>
-    <updated>2026-01-02T02:07:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25646</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25646"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : coteditor/CotEditor &lt;a href="https://t.co/2Yf437J7bx" target="_blank" rel="noopener"&gt;https://t.co/2Yf437J7bx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;&lt;img src="https://cdn4.telesco.pe/file/YEZBjVIm5XJryC_NBdr4woFbXKQ98Q9f4pYMqeLz2pfL8sPzfMJAi2c7aYZe-o3X4WgXbKBZMo7fNmJeWicDLd6Hl5PxIghUvDctmIeb2GZj4CBQV7dIt_o3zMPRibAMaX79B-1ZryPu5XudD9PAcl01-U3cjuZWtPXepQ7T9ZnoV8JvjlNHFfoR-J4ApulFIgLfSjDya5423R35jtNvd8nWhpakkPA621mMzG6OwDRWEhuLFca8v8-qc08WmU1bLH_nYumptBQ0N1i7t2BA2pzabOIqobPoqBHjs84TblrzcliGev5OAUJWlblY1kmTx1_AvNjk_NvdXI-OPJkUdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;
-GitHub - coteditor/CotEditor: Lightweight Plain-Text Editor for macOS - GitHub&lt;/a&gt;&lt;br&gt;Lightweight Plain-Text Editor for macOS. Contribute to coteditor/CotEditor development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
