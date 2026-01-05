@@ -6,10 +6,26 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-05T09:36:15+00:00</updated>
+  <updated>2026-01-05T10:29:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Основная претензия к ненативным приложениям&#13;
+&#13;
+Часто,...</title>
+    <published>2026-01-05T09:55:40+00:00</published>
+    <updated>2026-01-05T09:55:40+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3652</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3652"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/hWQxcVQ7sVjwsjteevK-2kd5wOnYqNHfc5kmIpdOTafBCmYCNYwad6ZrN2I7RoMHJEg7KUkpTGMhDeGQQBQL1wtIcN-RgW-fOGGOxIjCljA-UpsxBwI2J3Av6zp1evM23SKAJWoVENT_dZhlL8otTW0fayl2EsgzSRDgpgGhlbuRkcr72FJRvtsAAIXh6E7wjhqUGAhdJzozIlSKDNy5ZdCFbaGZLBEEaNLwF5xbNH05MaWLfm87eflfQT2NWoIacvpRrELW7pIBHI9BnnOa8rHh_r1DS4FaATm6JYa0fdDpXlJzvJ7Fo2vEDGNKHxQ2isimn1wi5weilefDsmKCxw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/fec8981ef9.mp4?token=MpojDgkEDAcQ_yZIOlndNjqqBoP0d3lgok7e0b65fRwHZho9iSqw-5ZvD0VT9E6u1RYYn5ByrBJK7798L1annLwK9BnC_hs5YjlrHo8RqDNOm0Lk4ceWKGg2wDXDnSbdHKcDJcEttRH_vm5tu8eLt5OtueNpN1K-H9-T-aho0RUY2ho6CVtchPa6-nZy7TyDYkqt2br-AI18vtVbypPGRp0xOUEt9Jd06_JEGAmDJRPXNYoWdVpE2fnr7p86d8jNXueD0cCGKYQRaHC8Qu41PkoWVL_7LlHWmruLragv4PnjeyvEoJyFDVbA2lhrGEARtZeN5uSdjF0LTLSkJAFNrQ" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Основная претензия к ненативным приложениям&lt;br/&gt;&lt;br/&gt;Часто, приложения сделанные на кроссплатформе, ругают за UX и UI, который не похож на общую консистенцию. Вот ты привык юзать системные приложения и хочешь чтобы все в апке +- было одинаково. Такой же отклик, такая же предсказуемость, такие же анимации.&lt;br/&gt;&lt;br/&gt;Если это мелкие отличия UI вроде незначительно. Вопрос конечно их количества&lt;br/&gt;&lt;br/&gt;Другая же проблема - это навигация, жесты и перфоманс. Здесь все сложнее. Look and Feel совсем другой. Сейчас пытаюсь купить мясорубку в самокате и тупо не открывается экран (паузы это я кликаю на товар). Или не закрывается.&lt;br/&gt;&lt;br/&gt;В маркетплейсах, где важна скорость реакции пока юзер прогрет на акцию, а его импульсивность еще не убежала, такие вещи супер важны&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/hWQxcVQ7sVjwsjteevK-2kd5wOnYqNHfc5kmIpdOTafBCmYCNYwad6ZrN2I7RoMHJEg7KUkpTGMhDeGQQBQL1wtIcN-RgW-fOGGOxIjCljA-UpsxBwI2J3Av6zp1evM23SKAJWoVENT_dZhlL8otTW0fayl2EsgzSRDgpgGhlbuRkcr72FJRvtsAAIXh6E7wjhqUGAhdJzozIlSKDNy5ZdCFbaGZLBEEaNLwF5xbNH05MaWLfm87eflfQT2NWoIacvpRrELW7pIBHI9BnnOa8rHh_r1DS4FaATm6JYa0fdDpXlJzvJ7Fo2vEDGNKHxQ2isimn1wi5weilefDsmKCxw"/>
+  </entry>
   <entry>
     <title type="html">Закапываем SwiftUI&#13;
 &#13;
