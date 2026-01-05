@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-01-05T13:43:27+00:00</updated>
+  <updated>2026-01-05T14:28:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -94,10 +94,10 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/arnoetalee/3006" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/rPR2wueCQuHJJEHWRQYdBUeM_bdkz7XEGcEmC1tSk3DQBZkKfakbRbLRwtb6U09P-pe8zlY3mPES-3GyBzUcPBqlaeOpb60OKGX9iJhSJhhzA9T2XtIcMbIOCXm1F_vCI_9Im_uGrkjf9C5kTGlfZvLgLdyzvUMh6c-etkRIU3obNB6VRHPTSApOk0ouck1mo9JZM6dS9zXN7Kzsa_UII0tODP1i6UHg97jpnpa8DZ4PDGK6vxPjU-G0bM3ozKREc3ViZXQ5z4-lMQ3Y4SK6V5MCtSZLSJdGxQwnorhQm-Ni7hdCVzMJv0D3FnxzFHs8pktEtVkWbCI1v4r64Lhtzw" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/72a7624806.mp4?token=RoS9qZDXbhAnu7ptrzycgua71JkGo7a2DZkgDXV8OSJX0yyyGjWeD5Ioho9lmraOIxyLfvPOigidnLv_tu3jPL2QKYH6E87gxfjndghzhcQdxGMMCVDzcbKnyGZ0nSJHQ2A6Q0lzcSn1SNTx3SA1EpLszqyAQkH3DgBXRipWHgbiNIirKXybaZSigdFxsYoucz67SVXzUYWA4aF_1kDzRzoIBpQA-P3siGYp6QCuWBmAOe3xWvvHHsQXuo-vm9ZzpSP0l2oxzYmlfULFtemFH0tf5bCTEVGyjU5hj7Qu3u2F13Yccl0ZVHn1D7qY8GLzm_N1azGELUziWubZyzQ0hA" type="video/mp4"&gt;
+    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/arnoetalee/3006" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/qn0q4lx7EFmNUhBt7OMU1ORUW0JdfChKytpA5SvbuawkXds--LATtK40mUFye-ap92oqPigrGnwJNYpcgBHNWZQK3AGdorxDKbM_0XpSmoZuq9_6IuVMDj_RvOpvDbzdWtmotPRAADYAhwucyFWVx3xBaxzoh9IlvP2iwnni9fMmZLj6FC5nsKZKvdwE95JJUBvMMV3TzNhGUTFih-X_1jzwdFTVKu1do10iNFPs3RzPDbCEAcQ7BKipvSkHhi0CA6Eg88Y1xeJqjlhTP2shDnw1LtLnk9drVTO7MGmpFFjMizH3Hg4_J6XSdJDHt4d7yYg6QoEooz2U-kVUreRVMQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/72a7624806.mp4?token=OafGjDeipZ0Nm61S6XUnzwAY5_xYZ2OwOWw_u7bQPqUg1ygzMcwkQaqicD9KdZWOoYty_icRwVajrJsNSMoNHW-dJs1OJERh8N5vg6BSeJSg_lQYZwXk0qlJRey7Kf2ILlGtoxwYBiCXapbMkcn8qaMAAVgVNjfUxkXOfuyq5o5eQkcnL0iBD1eWkHQmpWi7gmbBHXLDRBPiBaJd_oe6akpjRg0b5MHE28wah-QReOofiLyx-i996mU3D6KJ8p2A0qyPlXg-6Qoz37jAvIuC21_D1Y-O3MqXtCnutG9Pz4LyiLGz2MFZSDzfP71RvN07wj26IAwuf4qXVHKoA_JqOg" type="video/mp4"&gt;
 &lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/rPR2wueCQuHJJEHWRQYdBUeM_bdkz7XEGcEmC1tSk3DQBZkKfakbRbLRwtb6U09P-pe8zlY3mPES-3GyBzUcPBqlaeOpb60OKGX9iJhSJhhzA9T2XtIcMbIOCXm1F_vCI_9Im_uGrkjf9C5kTGlfZvLgLdyzvUMh6c-etkRIU3obNB6VRHPTSApOk0ouck1mo9JZM6dS9zXN7Kzsa_UII0tODP1i6UHg97jpnpa8DZ4PDGK6vxPjU-G0bM3ozKREc3ViZXQ5z4-lMQ3Y4SK6V5MCtSZLSJdGxQwnorhQm-Ni7hdCVzMJv0D3FnxzFHs8pktEtVkWbCI1v4r64Lhtzw"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/qn0q4lx7EFmNUhBt7OMU1ORUW0JdfChKytpA5SvbuawkXds--LATtK40mUFye-ap92oqPigrGnwJNYpcgBHNWZQK3AGdorxDKbM_0XpSmoZuq9_6IuVMDj_RvOpvDbzdWtmotPRAADYAhwucyFWVx3xBaxzoh9IlvP2iwnni9fMmZLj6FC5nsKZKvdwE95JJUBvMMV3TzNhGUTFih-X_1jzwdFTVKu1do10iNFPs3RzPDbCEAcQ7BKipvSkHhi0CA6Eg88Y1xeJqjlhTP2shDnw1LtLnk9drVTO7MGmpFFjMizH3Hg4_J6XSdJDHt4d7yYg6QoEooz2U-kVUreRVMQ"/>
   </entry>
   <entry>
     <title type="html">У вас есть на примете какой-нибудь деятель из СССР,...</title>
