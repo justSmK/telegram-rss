@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-05T15:28:11+00:00</updated>
+  <updated>2026-01-05T16:31:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -104,7 +104,7 @@ In this video, I’ll demonstrate how to create custom Dynamic Island based toas
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftMCP Client &lt;a href="https://t.co/uQzJloBMGy" target="_blank" rel="noopener"&gt;https://t.co/uQzJloBMGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/rgM3gI8EqcbTMF_Ej4oe_Uq8QtVRwXGHwS8giSvbdiPuXybbtYoDlt3O_7r5Xwkxm614fgbdyJTMdYeg68lnWBV_YYhm6uNT9OGWzVm1Nuay1-c1RafDTiH_pAj5K8KlLLmU1vKfU_KYWJTHn646w_cUXZGrC7DaI7U6js5gycSaTtCxVYQsmjicX_u4G7UZfBBHPFsNIL_QYgv2MBctFoF5Th02GYJlKoyWR_786xfT3KjId-ZdTUxTlCL8SlBiECeXoWzf1tNXU7y1IprAjrxX60bbw8cOFHKBYWg4l16J6Bbgw98-t9QcKw-ayQQRKwwLAN-EZA6EF7bxmHRuog.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftMCP Client &lt;a href="https://t.co/uQzJloBMGy" target="_blank" rel="noopener"&gt;https://t.co/uQzJloBMGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/lQU3hgkPvxuumMXe0QHGLKE8qiccLL9FavktG0FFpBDi_fTFsuUolGtXO1Ae0VnS_Ps8P4mnYe4NhZHZyxmtz15nAIV7YW9DTyc0RPDCEjpOkMZwHgftNeliCTeyhBOBylgqM_IRKD-Mlu7_FX4VUpfIL78wo_YvO0elmGS7TOhiIlAbgLWqXWsVGpPnsY8ZXgDhBLqNK87i4T_UJoG-rHaAjp19__WaSRDSDInjY7HbPtoMOBiIdBgYRSj17I5vMyEO2d7E5SyMPVP5T5FaiGamn6YKdWjDpWEXGPmrxUJpO94-FhY_Jjj1k7lGyCsCmNVf3WUHgKxCmBMuhsk9pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;
 SwiftMCP Client - Cocoanetics&lt;/a&gt;&lt;br&gt;It’s 5 months since the release of SwiftMCP 1.0 and I’ve been slow cooking some enhancements for it. It was rewarding to see a bit of interested in this package, judging by issues and forks I could…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
