@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-05T05:37:26+00:00</updated>
+  <updated>2026-01-05T06:43:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Закапываем SwiftUI&#13;
+&#13;
+Перед Новым годом в Твиттере...</title>
+    <published>2026-01-05T06:11:54+00:00</published>
+    <updated>2026-01-05T06:11:54+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3651</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3651"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/iosgr/4573"&gt;&lt;span dir="auto"&gt;iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Egor Tolstoy&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Закапываем SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Перед Новым годом в Твиттере обострились тейки про то, что команда SwiftUI проигрывает в политической борьбе внутри Apple. &lt;a href="https://x.com/sebjvidal/status/2006043401502838935?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Откуда&lt;/a&gt; это мнение берется:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;На WWDC этого года SwiftUI пушился меньше, чем раньше, плюс больше сессий показывали примеры на UIKit&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;В одном из главных SwiftUI приложений, &lt;a href="http://Photos.app/" target="_blank" rel="noopener"&gt;Photos.app&lt;/a&gt;, в iOS 26 часть кода и инфры переписали обратно на UIKit&lt;br/&gt;&lt;br/&gt;В статье по ссылке накидывается еще больше аргументов за то, что UIKit в 2026 стал достаточно хорошим выбором, а SwiftUI становится все хуже.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died"&gt;&lt;img src="https://cdn4.telesco.pe/file/b-h-AMNa7M7bn7ZYj3XYKENBTAadzewt0z_vq0JtRfBhb7SxcmUG7PAxT_P__M229CWZweW_RQQpgFPExn6IwmpkmSjYtcVJKisBLq0xnY7MEGCPhzJZJ9lPZkiVsG5V6xa3VGveW39QNZ9Ac3iz_aOBrsJAp7HSyrRVCNq6GY1XiM16CH7ft6P4WCy1zMjgFAnRUHkPWibNBcJEz3DAL7hFxaqKhb0p3gPqKxmZ2Esm3no9OwBttt3n5XoMNiQLLnlAgym4cqVe-EXM4d9Z-8EZiAAHf8cMYvcs1xl1BxtOoTw3T0rgBtBbOspaq7kVse-P4kZxDxIAbvvevtAfJQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died"&gt;
+2025: The year SwiftUI died - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Rediscovering my love for the Classic UIKit Stack™&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Самый важный урок - это надо покупать айфоны</title>
     <published>2026-01-04T11:18:00+00:00</published>
