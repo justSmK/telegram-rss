@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-01-05T10:29:34+00:00</updated>
+  <updated>2026-01-05T11:22:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -38,7 +38,7 @@ LINKS&#13;
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал о том, что исправлять в сгенерированном AI Swift коде.&lt;br/&gt;То есть какие вещи они обычно делают не очень правильно и на что нужно заменить их реализацию&amp;#33;&lt;br/&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener"&gt;https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/EghDC9sNMUNZ07_udmlDtDbfT0lPAF_FPuMSg2K9THr7xN3XQwxYmTFzzB7IIebEGSncJ93bKNuv4RTsMXNtDSpqYWAtJ2HOh3w0wYu3XFAMCjxCrfzOwQNysPQ6rlOyjKduONV38ubP4REdixbSERYK_tdpE2G0F1_pw-BXo9l0aIhSO-M_7e2if6ZDvlff33LcA18P7xsNqdRy8HyIA_PSHH8MYdPeoap0eID-7paXWvMI-aapGnKse6nM03oXUxwJATReXPZ77urY-kP481L6km8iuVfI415Ddi3U4gaoDh_9moXxQOsdrCodGz1eLUBXMkl6_0fNBW-vcP6RlA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал о том, что исправлять в сгенерированном AI Swift коде.&lt;br/&gt;То есть какие вещи они обычно делают не очень правильно и на что нужно заменить их реализацию&amp;#33;&lt;br/&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener"&gt;https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dner_gZHg4IX1KrJpB2bpvMhyQkeJTuJipfGATgdy68zTpx6yeqylCk4oWGxIBzfiiIy0coRsggaeIQwU84y_61PoH8DCPSn4aYP11OfMkvJBd-zsSxJ2eh248mpEmOE3asccqgh75QAqTfbbZIabTmE_JDTKafmqCiYTCA8FSQsZ5byZELDwEy1G2iX0MPajAHGq7DFl3T8i7sM5_JTdRizrTFCQBtRkI3ayYAPsIhbi5WSjsnHMp7821EhQxnrfS84RN2l5-zROsg_frY5oLf6AkIpPLZoDqjkv3mNTvgnPePNOs0_UFRXMgKmNQSwSKvwcrbh-mIbzBus860tMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
 What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
