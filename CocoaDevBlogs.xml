@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-05T04:17:35+00:00</updated>
+  <updated>2026-01-05T05:37:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Emacs Carnival 2026-01: “This Year, I’ll ...” https://t.co/oUu5LS8K2B</title>
+    <published>2026-01-05T05:17:34+00:00</published>
+    <updated>2026-01-05T05:17:34+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25667</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25667"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Emacs Carnival 2026-01: “This Year, I’ll ...” &lt;a href="https://t.co/oUu5LS8K2B" target="_blank" rel="noopener"&gt;https://t.co/oUu5LS8K2B&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;
+Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;&lt;br&gt;I’m hosting this month’s Emacs Carnival. Submit your blog posts on the topic “This Year, I’ll ...”, Emacs-related new-year resolutions in January to participate.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Storing Swift structs in UserDefaults https://t.co/smOLmGYFO5</title>
     <published>2026-01-05T03:37:24+00:00</published>
@@ -238,17 +250,5 @@ GitHub - nicklockwood/FXPageControl: Simple, drop-in replacement for the iPhone 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to deploy TestFlight app from Codex Web automatically &lt;a href="https://t.co/4XWmCrQqhA" target="_blank" rel="noopener"&gt;https://t.co/4XWmCrQqhA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4XWmCrQqhA"&gt;&lt;img src="https://cdn4.telesco.pe/file/L6NErW-oQxhJXkzHhBqnR0DIOtkhJy9cWJyqI_VQrUOeZamK5ZQaBS9SycV4IHpjZOsUvbPsHmC6ZKe0g04vGBeiIxZ4M_vX_AgkPFbCSngplWo6uQnBbQseiJ0CWCBuTB_JWFQI8BvyS8tdfR8DTulT2_X8BmTvWIgskNKCeyFX0DftgBmoNxw0jnTo_yTyfqmAyKg2CrmjKmLbpP49LQYUoZ4XmVF3a6o6URzbvf9yESFrKpuzKQyn5JcB2kIHbxOkOH6xBM7F-knWQtISgTZwoj2d67yliJ6cIfRA0UcgBr2uZDde2YcxsiKuyzm-xQyQ5t9DgjqMYDcKcq2LAQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4XWmCrQqhA"&gt;
 How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : lihaoyun6/QuickRecorder https://t.co/M14Q2oR0bk</title>
-    <published>2026-01-02T02:07:17+00:00</published>
-    <updated>2026-01-02T02:07:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25647</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25647"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : lihaoyun6/QuickRecorder &lt;a href="https://t.co/M14Q2oR0bk" target="_blank" rel="noopener"&gt;https://t.co/M14Q2oR0bk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/M14Q2oR0bk"&gt;&lt;img src="https://cdn4.telesco.pe/file/QNhgxgue1iDbGNhokQY3d7tS5x22ZXG_GlVed9anZZn9kI-0dvySK8nI0458JstquqU7bliLN6E_52sfKCxvguGEIh3U8iNLjM4WEtOtJ4zNdfKnnnX6ItX5QFAlkbo4hOZPZKL0hQotDjwJs9rlEkusPHGSgJFZmVrlTa3TzhWeyoK6BwRSrrG-ZZVQbqp5tDega4EmXhqaKfOKWgiDbaoP8-Yf4K6xioxRz5Z7Paq9I70YplAZUkN7g8Po8JDQJTkKKtTv7ARTd-hrN3QWdiaRzSDYeEQNfZd8c5bDl1VcWaVFMU2dhnymLMDl9lC-bNpTMXr9y5EJUEKBXRSFQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/M14Q2oR0bk"&gt;
-GitHub - lihaoyun6/QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能… - GitHub&lt;/a&gt;&lt;br&gt;A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 - lihaoyun6/QuickRecorder&lt;/blockquote&gt;</content>
   </entry>
 </feed>
