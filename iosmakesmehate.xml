@@ -6,10 +6,21 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-06T09:29:55+00:00</updated>
+  <updated>2026-01-06T10:27:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Выбираем лютый зашквар в разработке в 2026</title>
+    <published>2026-01-06T09:31:02+00:00</published>
+    <updated>2026-01-06T09:31:02+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3655</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3655"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">			Выбираем лютый зашквар в разработке в 2026&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;64% - Вайбкодинг (разработка без знаний программирования)&lt;/li&gt;&lt;li&gt;24% - Кроссплатформы&lt;/li&gt;&lt;li&gt;30% - BDUI&lt;/li&gt;&lt;li&gt;2% - Натив&lt;/li&gt;&lt;li&gt;18% - Алгоритмы&lt;/li&gt;&lt;li&gt;3% - Архитектуры &lt;/li&gt;&lt;li&gt;5% - База (фундаментальные знания)&lt;/li&gt;&lt;li&gt;44% - No-code&lt;/li&gt;&lt;li&gt;4% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title type="html">А вы еще спрашиваете почему ревью в сторах...</title>
     <published>2026-01-06T09:28:42+00:00</published>
@@ -202,20 +213,5 @@
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.youtube.com/watch?v=CQmI4XKTa0U" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Martin Fowler: How AI will change software engineering&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Я хз почему в ру сегменте молчат про крутейшие выпуски от &amp;quot;The Pragmatic Engineer&amp;quot;. Преступное молчание. &lt;br/&gt;&lt;br/&gt;В этом очередном охеренном видосе пришел сам Мартин Фаулер. Автор &lt;a href="https://martinfowler.com/books/refactoring.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;знаменитой книги, и библии многих программистов, - &amp;quot;Refactoring&lt;/a&gt;&amp;quot;. Вкратце, нет никого экспертнее в рефакторинге, чем он.&lt;br/&gt;&lt;br/&gt;Основные полезные темы выпуска:&lt;br/&gt;- Вайбкодинг — почему это хорошо только для простых прототипов&lt;br/&gt;- проблема и сложность ревью кода.&lt;br/&gt;- Сравнение бездумного копипаста раньше из StackOverflow и сейчас из AI&lt;br/&gt;- Проблема контроля и фокуса над проектом&lt;br/&gt;- Важность автотестов и культуры автотестирования в эпоху LLM&lt;br/&gt;- Как меняется рефакторинг&lt;br/&gt;- Как полезно юзать LLM чтобы разбираться в инструментах&lt;br/&gt;- Как меняются паттерны проектирования архитектур сейчас&lt;br/&gt;&lt;br/&gt;Отдельно нравятся напутствие Мартина для джунов об ИИ. Ищи реально сильных практиков-менторов инженеров, которые покажут инженерную культуру изнутри. Реальный опыт и знания дороже в цене чем хорошие деньги на старте. &lt;br/&gt;&lt;br/&gt;Вообще тема живого опыта мне кажется сейчас все острее и острее. Накрутчики с выдуманным опытом, аишки с ошибочными знаниями, докладчики с продажными докладами. Новичкам легко запутаться и оступиться. Опытным легко ошибиться.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=CQmI4XKTa0U"&gt;&lt;img src="https://cdn4.telesco.pe/file/jJkGW8gYOiwH0ET2zl7hzHo7_mgHtzYgEMTrnAX3eb7NbsGIw4yFw_7lmRc5G04gox-iy4HWYd2UFBT5JwS0ZpGceIq2LWVsVBo5boZj-dv8XJaQmxeHr_2hqGtDGQ6-QQkqaMhBe39SZfJW4SxCCmbpC_0TTjdpwqg7pfYp2mCW4yb4CX5lRtlR2Iqxw-flDWe7ZsOspgLpS4t5WBZqGZFwfp2UH3KwpMSk2AQRjeJdKbir4TQjSiCZNLkp8vDSQ9dS6BfeJR8ZE1hRwbGA43RG9twVLAB4k2CO9ElucwUi9KVdQqPkie-nbLswxr2Nf4gnAHOiR67fTd-ThcEkkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=CQmI4XKTa0U"&gt;
 How AI will change software engineering – with Martin Fowler - YouTube&lt;/a&gt;&lt;br&gt;Martin Fowler is one of the most influential people within software architecture, and the broader tech industry. He is the Chief Scientist at Thoughtworks and the author of Refactoring and Patterns of Enterprise Application Architecture, and several other…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Кстати лютая жиза.&#13;
-&#13;
-Приехал в свой родной Тюмень. Уже с...</title>
-    <published>2025-12-27T02:14:51+00:00</published>
-    <updated>2025-12-27T02:14:51+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3632</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3632"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;blockquote&gt;iOS Makes Me Hate&lt;br&gt;
-Network: Мобильная связь и квота пропускного канала  Зачем думать о 2G интернете? Ведь далеко не все тестят свои апки в этой сети.  Тема мобильной сети — гиперчувствительная. И при этом сильно недооцененная в мобильной разработке.  Недавно я брал консультацию…
-&lt;a href="https://t.me/iosmakesmehate/3607"&gt;https://t.me/iosmakesmehate/3607&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кстати лютая жиза.&lt;br/&gt;&lt;br/&gt;Приехал в свой родной Тюмень. Уже с аэропорта проблема - не работает телеграм, ни одна ссылка браузера, такси не открывается или дает долгий фидбэк без пушей&lt;br/&gt;&lt;br/&gt;Поставил 2G и все заработало. Пришли пуши, телега читается и отправляется, ты не в блэкауте.&lt;br/&gt;&lt;br/&gt;Поэтому тестируйте сеть на херовом интернете&lt;/div&gt;</content>
   </entry>
 </feed>
