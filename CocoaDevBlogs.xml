@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-06T15:27:28+00:00</updated>
+  <updated>2026-01-06T16:33:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">10 techniques to pass 90% of algorithmic interviews  https://t.co/Mkzh2k3eDv</title>
+    <published>2026-01-06T16:07:28+00:00</published>
+    <updated>2026-01-06T16:07:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25671</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25671"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;10 techniques to pass 90% of algorithmic interviews  &lt;a href="https://t.co/Mkzh2k3eDv" target="_blank" rel="noopener"&gt;https://t.co/Mkzh2k3eDv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Mkzh2k3eDv"&gt;&lt;img src="https://cdn4.telesco.pe/file/jt3KGR7ElVC1NteZlbWVXDbwNlocHZvHhdoitTN_8mmPtnioCuy_Zmcrj885bxS6x4Hbj9MTp-K6dAsvrZB1EIvplOom68lUvEYkPbmbZiWsO1yNV74ARtKfsHInBOfdaS6tETEYPiJH956gccwWdvzJMZTxIpm7hNav_VCqmd12rkXM5hAD2VvnVSsDUsnSxOS-nVX7Rh8N5Qseva1snwl5BYXQtlyn54GiM78DV-xecW__Pp_P-AJBBpfQfGmom-X61aDGGazExAC2KPboURk0YeB9TCRBdFgpTD7H4t8otBZW3gvehTZGmB-u3gMaPQq4vAPoFBtyw-IfMhb4iQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Mkzh2k3eDv"&gt;
+10 techniques to pass 90% of algorithmic interviews - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Learnings from my long-overdue LeetCode grind&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : benbaker76/Hackintool https://t.co/gq2RPbFG7n</title>
     <published>2026-01-06T02:12:17+00:00</published>
@@ -128,7 +140,7 @@ In this video, I’ll demonstrate how to create custom Dynamic Island based toas
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftMCP Client &lt;a href="https://t.co/uQzJloBMGy" target="_blank" rel="noopener"&gt;https://t.co/uQzJloBMGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/lQU3hgkPvxuumMXe0QHGLKE8qiccLL9FavktG0FFpBDi_fTFsuUolGtXO1Ae0VnS_Ps8P4mnYe4NhZHZyxmtz15nAIV7YW9DTyc0RPDCEjpOkMZwHgftNeliCTeyhBOBylgqM_IRKD-Mlu7_FX4VUpfIL78wo_YvO0elmGS7TOhiIlAbgLWqXWsVGpPnsY8ZXgDhBLqNK87i4T_UJoG-rHaAjp19__WaSRDSDInjY7HbPtoMOBiIdBgYRSj17I5vMyEO2d7E5SyMPVP5T5FaiGamn6YKdWjDpWEXGPmrxUJpO94-FhY_Jjj1k7lGyCsCmNVf3WUHgKxCmBMuhsk9pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : SwiftMCP Client &lt;a href="https://t.co/uQzJloBMGy" target="_blank" rel="noopener"&gt;https://t.co/uQzJloBMGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/YUqIKs8XnAvCKaKjuQ0Llji4eXgbCfD2h-AMfVCoYWnSPozOkR6l2p_lnT2ai2HlVQdMkjDnTUOIVQKrvYRZ1c8GcJwqRukmIp8wrOYg3VROoRh2i_Q6fX-IeBCzdL3MDwY2c4C6V60eazL4oYstQXqrazGeAUrNFAgPf8_H2zsH9_V4UBBORdTGpW_ln6kPklWW7ywJLeifvD16Yd3NOWRmcPHyG06emfnZFZZS9FxlKEC070zITxeL5OxssnaZkb6YuESzVfH1npO_Ayb6zHADuBMLkQ6hL5fqHehtg8wW_4NLkuEb-Uh1Ekey_JfWWMVGYQoSGrvJ8cl0uvN-mw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uQzJloBMGy"&gt;
 SwiftMCP Client - Cocoanetics&lt;/a&gt;&lt;br&gt;It’s 5 months since the release of SwiftMCP 1.0 and I’ve been slow cooking some enhancements for it. It was rewarding to see a bit of interested in this package, judging by issues and forks I could…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +250,5 @@ GitHub - ml-explore/mlx-swift-lm: LLMs and VLMs with MLX Swift - GitHub&lt;/a&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : naver/naveridlogin-sdk-ios &lt;a href="https://t.co/VLU95djK95" target="_blank" rel="noopener"&gt;https://t.co/VLU95djK95&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VLU95djK95"&gt;&lt;img src="https://cdn4.telesco.pe/file/WfyLM9mGz7G-LCYL2wHOPDvxbJn9h7l30ZBZOMbWVoqKKJPSwbmU9FRZU4rnivlwJN0deIQOOMJta4ASeGg9HSzwM0ooSm1ALBvpb7UBgIWthXZo-zAy9DB3_3yR1yhVMYCELg5MY2xwtJap0Q6lG1yKntPyxrs19Vkz76buSJBIkbuCkAW_TEEeyaO6B-Zeenh0NrozbLF7lm0PpY0WvkDSBmY66DlnFBfspxV52uxtZgJoEVFmOHgedv3b0T1_j0YaLJYN8VjhFPTvIxReDxi2tN2HSL3ItX_1BQmfGEQaAUef4Xtrho1D9xzAg4bqh9a6fZ-3Wuvsw6rnAJkzWA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VLU95djK95"&gt;
 GitHub - naver/naveridlogin-sdk-ios - GitHub&lt;/a&gt;&lt;br&gt;Contribute to naver/naveridlogin-sdk-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : pinterest/PINCache https://t.co/UhKGnlNAI3</title>
-    <published>2026-01-03T02:07:11+00:00</published>
-    <updated>2026-01-03T02:07:11+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25651</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25651"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pinterest/PINCache &lt;a href="https://t.co/UhKGnlNAI3" target="_blank" rel="noopener"&gt;https://t.co/UhKGnlNAI3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UhKGnlNAI3"&gt;&lt;img src="https://cdn4.telesco.pe/file/amoWLPnoB0iDe4x4M22klwuRzIcQN80biGvu6wWSH_99Ys4VEKcEe_4GAC0rKtaBWuHbavp02u3BWK2DLdy2KJHaDyBEwLAzKgDZda0w4hDLWKNPzWdyMizALfH4tSy7qgeFEdlOqGnUm8FRRuLBsEzSMiVdrGSU_ytC36mWEMJ4JHaSAnb40FOLpKRl_0um6He9W7F2JT7evyPU8RrubHX2dGfR1P1Wb3s2-LyxNFokkRYvYJqzwSh99nMC9_bNVHaTbhyFN9wbVRl0FSz4sdoeqM8bM99aAYK8ajpps8bJPMNFx55uxZIMIyrmQDRpvJoOc4r3OGYW89bg72FSxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UhKGnlNAI3"&gt;
-GitHub - pinterest/PINCache: Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X - GitHub&lt;/a&gt;&lt;br&gt;Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X - pinterest/PINCache&lt;/blockquote&gt;</content>
   </entry>
 </feed>
