@@ -6,10 +6,24 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-06T08:36:18+00:00</updated>
+  <updated>2026-01-06T09:29:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">А вы еще спрашиваете почему ревью в сторах...</title>
+    <published>2026-01-06T09:28:42+00:00</published>
+    <updated>2026-01-06T09:28:42+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3654</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3654"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/BB8VwfWb7Qk_XOoDYeVmnsZWnsYjHziT66ooh0LoD8Z1MCmj-ztbzqpbXCyzCjIyQGCdVIDZmcFJ7qPBw4sv9Lmy51KUOngppW8G05Ca-2UZw5Orz5a4OJUADijTSEP1eZL8WdTTU8au_UPI_mEcIfC5w0vV_l2HgYA9wgTIMhl63Xn6j5Ew2Bh0Q7LVJTUtCxqbokuC9tbQTCATz4LszdgP_MsY3zrnUTZZD_DJtBOPvIWTjMl1VC_uGMHsoDMm50tjlgnnRYl8FVgIuOTzMV_lgd3xOZ6-2CsE1KoyuvnnnjWaWIeaWsdEZ_HkSduqiWj48vxoFQfUyhsUSzcmyQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/5d0d8ba596.mp4?token=EDwXDsSaArTWZKTY1gkdEuoeKJI1bymR3Aoq5eox7RXqbpH1-bnyjXtHgP2jSDRmoACUml1SDhf1N-9v39IJkC8Da-1tfhnpft_Rc0mtEj8o3gQlqMc7PSNlTUIsknzRybhxwhf1grDOH_EhWxpqZmjY7EJHsQUMiZeFfWQ3o663_URAhL3DpGFZGebyesmaJ6T2Oqwt_z2MRX5F4fDSYs4kEj4lUpz0tC4VAA8X1XtgA5D7qXZmpLu3LVQ2SH4E_94tdTQOCfjCL45nWvkfem3dY-BLc_xmTxzWvzfJ4L_wc4sj6G1nOJKIOpPReqcJv2pv0fGf5C3bX7-3S-lJ0ZhDi7Nrk1X83x7GcKSnrw3wGEzHkXPqBnj3TW0NumwEm4lbjS9YjdmMIpns-AoAFRVEUnwVBRkRMI4SZEhyAXWRGUtOhhK-pdrO1k438AWynKkpT9jwaOsdWArnMN3jvQW3Fej8mmslqcVc8xOnzS_ZxD1RO-3Q2dcGS9gwemGtKhEEiHs8cIgUY4RKjSpRtXqqWY1n4e_CrIAANLh4NrCLyiAfL_TW2X1napkE-nwOC5fzgPn4KmIMStQ_rt4lgAoSID1Uj1LFYnzqfIEljqMT7_3ad59eNfvI4Wt7N6F3K33Bq-E_sUPYrDzvsXbcQW7xdF-NedjLe_9RcyztCsg" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А вы еще спрашиваете почему ревью в сторах долгое?&lt;br/&gt;&lt;br/&gt;Пока вы тут сидите пацаны-вайбкодеры спамят рынок за 10к в день&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/BB8VwfWb7Qk_XOoDYeVmnsZWnsYjHziT66ooh0LoD8Z1MCmj-ztbzqpbXCyzCjIyQGCdVIDZmcFJ7qPBw4sv9Lmy51KUOngppW8G05Ca-2UZw5Orz5a4OJUADijTSEP1eZL8WdTTU8au_UPI_mEcIfC5w0vV_l2HgYA9wgTIMhl63Xn6j5Ew2Bh0Q7LVJTUtCxqbokuC9tbQTCATz4LszdgP_MsY3zrnUTZZD_DJtBOPvIWTjMl1VC_uGMHsoDMm50tjlgnnRYl8FVgIuOTzMV_lgd3xOZ6-2CsE1KoyuvnnnjWaWIeaWsdEZ_HkSduqiWj48vxoFQfUyhsUSzcmyQ"/>
+  </entry>
   <entry>
     <title type="html">Документация для ии-агентов&#13;
 &#13;
@@ -203,26 +217,5 @@ How AI will change software engineering – with Martin Fowler - YouTube&lt;/a&g
     <content type="html">&lt;blockquote&gt;iOS Makes Me Hate&lt;br&gt;
 Network: Мобильная связь и квота пропускного канала  Зачем думать о 2G интернете? Ведь далеко не все тестят свои апки в этой сети.  Тема мобильной сети — гиперчувствительная. И при этом сильно недооцененная в мобильной разработке.  Недавно я брал консультацию…
 &lt;a href="https://t.me/iosmakesmehate/3607"&gt;https://t.me/iosmakesmehate/3607&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кстати лютая жиза.&lt;br/&gt;&lt;br/&gt;Приехал в свой родной Тюмень. Уже с аэропорта проблема - не работает телеграм, ни одна ссылка браузера, такси не открывается или дает долгий фидбэк без пушей&lt;br/&gt;&lt;br/&gt;Поставил 2G и все заработало. Пришли пуши, телега читается и отправляется, ты не в блэкауте.&lt;br/&gt;&lt;br/&gt;Поэтому тестируйте сеть на херовом интернете&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Мотивационная история&#13;
-&#13;
-Возвращаясь к ARC riders&#13;
-&#13;
-В одной...</title>
-    <published>2025-12-26T17:41:59+00:00</published>
-    <updated>2025-12-26T17:41:59+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3631</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3631"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Мотивационная история&lt;br/&gt;&lt;br/&gt;Возвращаясь к ARC riders&lt;br/&gt;&lt;br/&gt;В одной из далеких параллельных вселенных я бы хотел разрабатывать игры.&lt;br/&gt;&lt;br/&gt;Каждый год победа какого-то инди проекта всегда мотивирует собрать такую же команду мечты.&lt;br/&gt;&lt;br/&gt;В этом году премия самой мотивирующей и бунтарской игре отдается разрабам ARC Riders.&lt;br/&gt;&lt;br/&gt;История о том, как топ разрабы ушли из корпорации, наплевали на правила монетизации дрочильн и сделали свое. Так, как захотели сами. Без компромиссов.&lt;br/&gt;&lt;br/&gt;Технари с вайбом раннего Apple. Отдельное уважение как разрабы вместо стандартных маркетинговых булщитов продвигали свой продукт хардкорными докладами про техничку&lt;br/&gt;&lt;br/&gt;&lt;a href="https://youtu.be/Ie8jP2w6L4Y?si=a-TdWf_JNqFCkpkx" target="_blank" rel="noopener"&gt;https://youtu.be/Ie8jP2w6L4Y?si=a-TdWf_JNqFCkpkx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/Ie8jP2w6L4Y?si=a-TdWf_JNqFCkpkx"&gt;&lt;img src="https://cdn4.telesco.pe/file/oqPRubzZM50_SYg7JIvvBS3VJcm-uJNZWSXyp1ABXv4y53-Vf6BUz7vxZ_r-414FNLoXZrkhA9c-DNK_i4e9NQV1HF0ujb4eCWopWTLbmmWwfTQKNAIXlTbMWDbSoMwPP0mxwD4NUHloEbeo8jIhR-fbhvobEas9DKEaOAOS6N6jdNnepEM-QCxusA_NPv9TpJjtoqahcCcEFVNd8h5kisT-Tw8njQTVOQlKSCUSDvQjQQAVVY1pikxlDdlywqTwMFSSflRTGjwK8zVWC5ahzIvUqH_rNjUTjCIAo8grO-fvVobwrJFhrK3A1mvubCtLg4xUxtT_DIw0nDZQVwBolA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/Ie8jP2w6L4Y?si=a-TdWf_JNqFCkpkx"&gt;
-ARC Raiders — новый король экстракшенов - YouTube&lt;/a&gt;&lt;br&gt;Пополняй Steam без комиссии, только на ggsel&amp;#33;&#13;
-https://ggsel.net/b/StopGame_2 (акция действительна до 02.12.2025)&#13;
-&#13;
-Регулярные розыгрыши игр от ggsel&amp;#33; Подписывайся, чтобы не пропустить 👇&#13;
-📢 ggsel в Телеграм: https://t.me/+JHE1tMD7i8w2NTgy&#13;
-💬 ggsel в ВК: http…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
