@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-06T17:26:23+00:00</updated>
+  <updated>2026-01-06T18:36:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Hello Developer: January 2026 https://t.co/Kczoh5ZOIU</title>
+    <published>2026-01-06T18:07:22+00:00</published>
+    <updated>2026-01-06T18:07:22+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25672</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25672"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: January 2026 &lt;a href="https://t.co/Kczoh5ZOIU" target="_blank" rel="noopener"&gt;https://t.co/Kczoh5ZOIU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;&lt;img src="https://cdn4.telesco.pe/file/RafB9hrkF-rSuResPZjXdzlGD0QHHNvR2ZAZII1urablOTlBxZOlxQ_3Bct3v6Y7pUpMSOLZBs0xAvTOOD3Har2JHgFZoH9IWkpY3WwCWGTnbYbDp4l0-PPRbfQexZCREfkcVZSd1INvQ-8AmW_zzlOgK17xbRGEHxGiRJPd663SXlCAfQkbKxH73B7mAfdpvHr8jbkRFU0nbUahZS41Mrkrq2uyb5ySRJhu05hrFt-4M457UOFLn2eI1KZuHXiqOSUOlmRzxCFY_92BdIuEo42E2rTeLOMxsXYsWv0zyau8GSupOmSP2ObkYg428myLCsNK7isl0Fo3kSQRW6S1jw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;
+Hello Developer: January 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;We‘re hitting the ground running in 2026 with a special SwiftUI activity in Cupertino, more ways to connect with us about Liquid Glass, and a snappy video recap of Apple design resources.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">10 techniques to pass 90% of algorithmic interviews  https://t.co/Mkzh2k3eDv</title>
     <published>2026-01-06T16:07:28+00:00</published>
@@ -238,17 +250,5 @@ Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&g
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ml-explore/mlx-swift-lm &lt;a href="https://t.co/EstG0eWE8u" target="_blank" rel="noopener"&gt;https://t.co/EstG0eWE8u&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;&lt;img src="https://cdn4.telesco.pe/file/cPtVSEU6KSjwbJQtauNY9L90ovC3PhXELUJ9WEqR6ur1LWEaTy8u06fJ4Fla1rWfquowXoGHgcDoX0TuJP-tv6vRlbQj16Qjf8RRjOFBf1eVHvQZ-2ns63fUKuSGvfC-UtECKgvtTwVkkmhrlpR40rR4BRssSGx1D-xEoGEVNwVYQhdK380jOkyvHTfHSGIu7IkEZnTSMXN9G2bESTULvbLfhzZIi4SS2nX4O1ymC77mEbKxtjLdWdTPX3vCPVRBoNpQtwOqAEk8CqzmblUGdCFVvz9skWwRaOWGBjayRpvkQuncLmWPwiHiuX4n68pWyjCrihoHQ7Kfdn8YQKX97Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;
 GitHub - ml-explore/mlx-swift-lm: LLMs and VLMs with MLX Swift - GitHub&lt;/a&gt;&lt;br&gt;LLMs and VLMs with MLX Swift. Contribute to ml-explore/mlx-swift-lm development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : naver/naveridlogin-sdk-ios https://t.co/VLU95djK95</title>
-    <published>2026-01-03T02:07:12+00:00</published>
-    <updated>2026-01-03T02:07:12+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25652</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25652"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : naver/naveridlogin-sdk-ios &lt;a href="https://t.co/VLU95djK95" target="_blank" rel="noopener"&gt;https://t.co/VLU95djK95&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VLU95djK95"&gt;&lt;img src="https://cdn4.telesco.pe/file/WfyLM9mGz7G-LCYL2wHOPDvxbJn9h7l30ZBZOMbWVoqKKJPSwbmU9FRZU4rnivlwJN0deIQOOMJta4ASeGg9HSzwM0ooSm1ALBvpb7UBgIWthXZo-zAy9DB3_3yR1yhVMYCELg5MY2xwtJap0Q6lG1yKntPyxrs19Vkz76buSJBIkbuCkAW_TEEeyaO6B-Zeenh0NrozbLF7lm0PpY0WvkDSBmY66DlnFBfspxV52uxtZgJoEVFmOHgedv3b0T1_j0YaLJYN8VjhFPTvIxReDxi2tN2HSL3ItX_1BQmfGEQaAUef4Xtrho1D9xzAg4bqh9a6fZ-3Wuvsw6rnAJkzWA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VLU95djK95"&gt;
-GitHub - naver/naveridlogin-sdk-ios - GitHub&lt;/a&gt;&lt;br&gt;Contribute to naver/naveridlogin-sdk-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
