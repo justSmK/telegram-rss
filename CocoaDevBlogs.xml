@@ -6,10 +6,25 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-07T20:29:05+00:00</updated>
+  <updated>2026-01-07T21:23:59+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 https://t.co/zjKWJObBLw</title>
+    <published>2026-01-07T21:02:50+00:00</published>
+    <updated>2026-01-07T21:02:50+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25679</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25679"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 &lt;a href="https://t.co/zjKWJObBLw" target="_blank" rel="noopener"&gt;https://t.co/zjKWJObBLw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;&lt;img src="https://cdn4.telesco.pe/file/WKRGN8umGzTRXekt5MGhQ0-wt2AzSOha0IgD6HhqUbBebmSoXU2MsYvGeCGWoNDvh4zZp2NEIoQLSdpT05sVNJT2M8n6_KH-WPIcSpAIDn_UNZ93JFzFSkDcQmUjLGvfgn9iSK5z8--JussKWm74bVPe3UMFROJd2ofyOOFX5AjLYqIuvSFZInomsSvRMQQFCtfuVcmY6eXft1EuhQUPFrR5mUCCsWdyzWjgW-QZt73LQ7jYt2eb9y3ahvM1B8B4WKimdimev2e_6qy-GXokjDUpp5VMX8xkpGc3OuW9dKzQJGq_z8P7jYk25zf6YDnMNJith3iP_QdPTscjFZkL7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;
+Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll demonstrate how to create a custom bottom bar for messaging app with recorder UI animations using SwiftUI.&#13;
+&#13;
+SwiftUI Microinteractions | SwiftUI Complex UI | SwiftUI Complex Animations | SwiftUI Animated Bottom Bar | SwiftUI…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Eternal Storms : ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in...</title>
     <published>2026-01-07T09:47:49+00:00</published>
@@ -211,7 +226,7 @@ GitHub - pinterest/PINRemoteImage: A thread safe, performant, feature rich image
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 &lt;a href="https://t.co/WNPltS14cK" target="_blank" rel="noopener"&gt;https://t.co/WNPltS14cK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;&lt;img src="https://cdn4.telesco.pe/file/o-h2B6uu9l4_rqYZO4ZLDr0gMEXgjYy3l9oIDVRtNPJH3nrXAk6kLuoRdN4FNR2ijp9Ns7XIhjenL86x8MBilatRrp06sJ04dODkzlAsgz9PVv-Eac6Ep_pOgQlPkzhHCVPvSkKPUzM6XwKb0MQRgneHkfnSXTDF3OWnofZj3BUbZImm1BOv6Pa9z23oe2JhxdeezaUq7nHtqFqTx_-PsgbWjdqCbwq-_2__OZ5pV3n3DjuVTINCNrY3Zyoyix0d1BKXL6qQ6NV7_xX7tY-Aknf5u6FfEf90IOpwsSl7a0EiCiuXdAzNzYE1Tiv1Vim2lV4FztyfbvWSVlcWep2XDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 &lt;a href="https://t.co/WNPltS14cK" target="_blank" rel="noopener"&gt;https://t.co/WNPltS14cK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;&lt;img src="https://cdn4.telesco.pe/file/UPp2Bb1scaH_mDF-gDipqvxnBtxj0ELcpsIZ6tcv4hjJNOMcwToLkC24N3wyPLveJZISeu005mt6bAQJSW8BnNbiOl3oBEZjwXxfvOvuowwxfd4qxXXj2WOoV9s93lZAkb_mTRbiPKA8ZC9Uvbxp_YUZ6incRFyJaxUbuHfb7wFCA5RRed13HsmM_efgrMChwOzyzw-t_NnkTbjkIruGaIa8BfGF1FB7IaBO9Pc_weO6mkFHYBReX7GseUFR7-pCLIP7lTabeL_QWlc6PFja4UUePGoWO-A48t7KMZaTT1q3FnaDN-l7ZeivVWdtdgZwZx-A37PZJFfpXgKFKLr73g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WNPltS14cK"&gt;
 SwiftUI Dynamic Island Toasts | iOS 26 | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to create custom Dynamic Island based toasts using SwiftUI | SwiftUI Toasts | SwiftUI Dynamic Island Animation | SwiftUI Custom Dynamic Island View | SwiftUI Animations | SwiftUI 2026 | iOS 26 | SwiftUI Xcode…&lt;/blockquote&gt;</content>
   </entry>
@@ -238,17 +253,5 @@ SwiftMCP Client - Cocoanetics&lt;/a&gt;&lt;br&gt;It’s 5 months since the relea
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : yonaskolb/XcodeGen &lt;a href="https://t.co/Kz8WWqBLP5" target="_blank" rel="noopener"&gt;https://t.co/Kz8WWqBLP5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;&lt;img src="https://cdn4.telesco.pe/file/cal3-ulOJXoJ-P0tShKImvjf0p9bl8rk5_CZafr9P73ggr7aOGJmmWOz0wu-AMMgLSxYYZlaH02eswqksFAawHmX7FAVeR8AHi95LZ_pqrrsZvD5ayH5Xq4_2m5MefoS8FVOpdODB7uEOcSaZfsyDb8oq-ii2PwVtpjb5n4uwJZNt2641QAQ6qeJ-GTYLZ0uDlVKCAhPMt51_tn6-ohFbxRXtcBirQBiLJULHFOQCotbsw_EEdajX6PmWoPBHb11vuQpSE9byXBVXPyBk1dd8SGb9BWsD79rfp2dhmxi-16j0mGpxOlzMH-pNU1Jjmbi4HVLzjwCF7X9fD6dq-A_oA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;
 GitHub - yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project - GitHub&lt;/a&gt;&lt;br&gt;A Swift command line tool for generating your Xcode project - yonaskolb/XcodeGen&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : gonzalezreal/swift-markdown-ui https://t.co/VCTMjnxnNK</title>
-    <published>2026-01-04T02:07:12+00:00</published>
-    <updated>2026-01-04T02:07:12+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25659</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25659"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : gonzalezreal/swift-markdown-ui &lt;a href="https://t.co/VCTMjnxnNK" target="_blank" rel="noopener"&gt;https://t.co/VCTMjnxnNK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;&lt;img src="https://cdn4.telesco.pe/file/jZpSBXD4jebMUpWl-DJfqwfb83qVFdR3FD28GtPezBMDdecnNqDlvx1jDffdqD8H6fVvw0sk76U_WmhHHpWs3J2Bf7lXv3EhRHmPhagDXwzLiflDY_ZX_1S06n2ATHJ6tKyb37DHAwIS4pwjgP5DOqeDqU19Fha1k7fkr3zJzhchtjOg01ciY1635DpSfU4SlYAaiDQC6ObXcgswom6HAV2GKlR5LlA1axAg7n88CAMP0ej4REXTIZVKGB_QHpL0BRH_-hYte_Dpog3gcem69uSsX4u36z8mwZCaUD8cxZKZR4aZWiDd-ajG6dttXqT3Y0MQZw5usdW5MuwfSWCSfg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;
-GitHub - gonzalezreal/swift-markdown-ui: Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - GitHub&lt;/a&gt;&lt;br&gt;Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - gonzalezreal/swift-markdown-ui&lt;/blockquote&gt;</content>
   </entry>
 </feed>
