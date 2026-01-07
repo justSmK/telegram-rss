@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-01-07T06:39:00+00:00</updated>
+  <updated>2026-01-07T07:28:16+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -94,7 +94,7 @@ Announcing the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Swift has ma
     <author>
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;TIL&lt;/b&gt; If you are experiencing poor performance with SwiftUI’s List + ForEach, you can enable the launch argument:&lt;br/&gt;&lt;br/&gt;&lt;pre&gt;-LogForEachSlowPath YES&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959" target="_blank" rel="noopener"&gt;https://x.com/kyleswifter/status/1979849200222531959&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23layout"&gt;#layout&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;&lt;img src="https://cdn4.telesco.pe/file/Yx7WRP927E8HiQF6SdyscLDdbAQG2YeDhK3PtKZ4pORfdIpM7nRKHe45fSkuzeGKzKeYWnwKF6A-5b5tv0sMpZCW5XmZ2HJOxtCa4l661KxgkXs8zPmgllNhGaIi5owGCZ1vh6-SeVFgkA0cGy1YKt2BXyNR0PXbOxER7-IUOcxGXeC69IDMituUSvhtjuXS7gCRZhI7015y1etINJvCxKXTLckmwAKzZjSsLkcmEHnniBAPS9zSjpiEzhufeE_Tw0Aq1pDSn7xYer2ZSgLVhIM5CnMPOSgQ2tcWsNQ4XLOyr7jJyO7ho67JTDNNd1KiLaocE1qCdTrV2O-w1I3ivw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;TIL&lt;/b&gt; If you are experiencing poor performance with SwiftUI’s List + ForEach, you can enable the launch argument:&lt;br/&gt;&lt;br/&gt;&lt;pre&gt;-LogForEachSlowPath YES&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959" target="_blank" rel="noopener"&gt;https://x.com/kyleswifter/status/1979849200222531959&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23SwiftUI"&gt;#SwiftUI&lt;/a&gt; &lt;a href="?q=%23layout"&gt;#layout&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;&lt;img src="https://cdn4.telesco.pe/file/QDrnbbkSl88JWGoNYWA9DlxQEAMxtiz0yQ2Jthla_c6qVfAcHIn0m0ysjUbyCE-PbPAVrPSXhxhCHxG15br4G16QrYUXDWI61CZUQ3te_4dINXCi0396QMvoEPCMWjHJNUS0ZUyxaQ6UBI5vsi_DBscamGzJEn8ihRB77mQiFSsJZlyWIu_oaxGSkhizLLtgFNBgxIEModUCGC-ZEWrP0g6DjTOgGg6LdaU5X3JRRLxVs3CmRz15liawNdVgqVmtJcHeW6Wy5FroCcgQvGbRC0cibTiMpR1sWep0mPtYJ09MuCFazoylQeS3L3tTO9RCyzD455hdq0B-p70mWbrx3g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/kyleswifter/status/1979849200222531959"&gt;
 Kyle Ye (@KyleSwifter) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;For anyone struggling with SwiftUI&amp;#39;s List + ForEach&amp;#39;s bad performance, you can enable &amp;quot;-LogForEachSlowPath YES&amp;quot; in your launch argument to make SUI log warning for you.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
