@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-06T23:24:13+00:00</updated>
+  <updated>2026-01-07T01:56:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -43,7 +43,7 @@ iPhone 17 Screen Sizes - Use Your Loaf - iOS Development News &amp;amp; Tips&lt;
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;&lt;img src="https://cdn4.telesco.pe/file/nhtWFw0Pg6_WwlYGpqJDQbk9_oomlpCyTOJJ8Ml1Z43pn50g-yG_l_aGtYd_2Zwi8GIU_wacLPW5bc6p3IoBCgM3Ko8Ko0Mox98eb1muxpkqVNJrheCmRpUtbOl7pO9vVeWzRlykf15XD0MxjCrqIZZgp7w9-1yzDRwzjujuJ-HssnvBAWJELhapze3LnsEqTsag1t56wz32UlmcG5O7SspeJw0_zZNXCuBbeYs8JUE_XULym_DKv74PR6xylbD3n9ijsVtWDVhkU3E4leP4EUZlybO5JC6cmRVH2Hcx-esz1919gI5NtbAGHV96QzpHxfcSzR7nFiUrELqt_VyHMA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q-97pyLY7hMUo6sZ2k3qTL1Txq9Ya0to5b85MZP5_uAbiM4jb9nc5g9WPkTBC76M3dlTZTz6e_aY_l-AgYuQ3i0efceXN4opoxWQdzaZrVzX8vtGlSz9DANqpRLr9SGw10fAVTD7f4cwWA4P07r48cYBqmlv_s5v4bXo5RzxFHOV9hXmFVEGRZ0C0IsAa9E403YE-WR1321-nqBEjFfl80Qznu4nRIJBCgLHkrQs70ra1kpCrhp0V97Z7O4YGr3L4k2iE63Z4ofz9Xz969PnCSm81uauV_9FOubsER527lCLZ17ThCzJMIVTpeZ6xPvIshN0AF0LtzmsA2lXPw9LLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;
 Foundation Models profiling with Xcode Instruments - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to profile and optimize Foundation Models performance using Xcode Instruments&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -174,7 +174,7 @@ Detecting Text Language with NLLanguageRecognizer in Swift → Livsy Code - Livs
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/lkmY6jAKcnRQti71UJIsEVHCcjhNzZuBxIwvXEESDpOhqUz40tfmPMQ3SFBpKtxv3vxX2Hh73YmbdKAxl_V1OlctyPK9DP6veDMXgdsdlXdSBm5VZqr6VXSpZ05WBKbjcFHypZM7UtO8F4uR3Q93kX85slqcXaq4YClbU-BZvmTnmOBY_prXMiT4vN0MugkoG2xMQYrgMf1vEHgmIhYOr4iMDFX363v5RYRqo7tImzaGDsLhjk8CPMvVne1_7mWBfyJ2egRTulfs8J-8fXvwo7mRpvxWf_gam37je2V3ktefOsUt1Df5mxordw9uV_lS2LeH7m9xBg85sOGd23CTHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZjNGOY4xKkHwK3JA7M0eI6ydUiyL6t1MAEPBC5Uqfx-5KIMpMvUY5JhGYPohCQ2b2xF6Yj9-KbxEU78JOG8tTNdWTsFKBPNvQ7o3A4osz_1hXM4-Vkutnzn8nsnImD0Lt1TCI7GL-UaheO09g_-peRj0N9ofoY2J8lidfymZVOqGfiBZnxzL3bLf-J4u-yv721VtzP39MFOaTLMA15sl4TV12DPyJnyDL2tQ2RWWWOZ4jKWXbik2QIvH9nosCPeLLMnV_x4M4ZQecU8uq2dkGV9wWRH49tiPyiXnSSlo5s1I-Dvtm3EOXgkY77Y2jyAfAw09YRMeINUUFFF9fzHYVg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;
 An Apple Intelligence-Style Glow Effect in SwiftUI → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; Apple’s recent design language introduces a glowing, animated stroke effect that highlights shapes and components in a subtle yet dynamic way. Let’s walk through how to recreate this effect in SwiftUI with reusable extensions. Extending…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
