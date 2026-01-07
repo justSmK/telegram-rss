@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-07T09:31:47+00:00</updated>
+  <updated>2026-01-07T10:28:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Eternal Storms : ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in...</title>
+    <published>2026-01-07T09:47:49+00:00</published>
+    <updated>2026-01-07T09:47:49+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25678</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25678"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Eternal Storms : ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in version 2.3.4 &lt;a href="https://t.co/aloyXIyWS8" target="_blank" rel="noopener"&gt;https://t.co/aloyXIyWS8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/aloyXIyWS8"&gt;&lt;img src="https://cdn4.telesco.pe/file/oCHe0NRODxoI_pLwffoNuzgcTUXzAjeOWnc-mnl5LbMG62ggpZABqUaeyg4ygqStN7GW3dLpZbLl2_ujYKw6yyWD44nAwMZhpGKS0xwbmTkeb5pPkkiY4-Lho-6uZKNc3L_QZ32qMdGaFZmY9PakCS_n3ONyCSgBx6lbQ0BWDQrSojk_p9VDTUOE2UA0q88wO0TZymPNLaM2zHLDuUoR9chVIzRzV66kngHEksY2x-zuSmk8UgxkyDk5HIiJmHKSI-vpBEAnkpsYsKgfv56_Y4_vXwZ-NCuUG-mxGAgY3uTjdPg3vRTLxbqMJzA9i6cxnfk4RB6TXyrN6dAylr4mbw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/aloyXIyWS8"&gt;
+ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in version 2.3.4 - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This blog has moved. You can find the blog post here. – Matthias | contact &amp;amp; connect&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Manually Mount the Metal Toolchain When Xcode Cannot https://t.co/OMOnYqM3WS</title>
     <published>2026-01-07T06:27:13+00:00</published>
@@ -238,17 +250,5 @@ GitHub - yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : gonzalezreal/swift-markdown-ui &lt;a href="https://t.co/VCTMjnxnNK" target="_blank" rel="noopener"&gt;https://t.co/VCTMjnxnNK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;&lt;img src="https://cdn4.telesco.pe/file/jZpSBXD4jebMUpWl-DJfqwfb83qVFdR3FD28GtPezBMDdecnNqDlvx1jDffdqD8H6fVvw0sk76U_WmhHHpWs3J2Bf7lXv3EhRHmPhagDXwzLiflDY_ZX_1S06n2ATHJ6tKyb37DHAwIS4pwjgP5DOqeDqU19Fha1k7fkr3zJzhchtjOg01ciY1635DpSfU4SlYAaiDQC6ObXcgswom6HAV2GKlR5LlA1axAg7n88CAMP0ej4REXTIZVKGB_QHpL0BRH_-hYte_Dpog3gcem69uSsX4u36z8mwZCaUD8cxZKZR4aZWiDd-ajG6dttXqT3Y0MQZw5usdW5MuwfSWCSfg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VCTMjnxnNK"&gt;
 GitHub - gonzalezreal/swift-markdown-ui: Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - GitHub&lt;/a&gt;&lt;br&gt;Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual - gonzalezreal/swift-markdown-ui&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : microsoft/onnxruntime-swift-package-manager https://t.co/pJklUf8udt</title>
-    <published>2026-01-04T02:02:44+00:00</published>
-    <updated>2026-01-04T02:02:44+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25658</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25658"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : microsoft/onnxruntime-swift-package-manager &lt;a href="https://t.co/pJklUf8udt" target="_blank" rel="noopener"&gt;https://t.co/pJklUf8udt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pJklUf8udt"&gt;&lt;img src="https://cdn4.telesco.pe/file/tr0lx-s7aq1EB2Z00OHIpf5Ggy2qxUzdSKHsWmcZ7XIyoL3bFO5BG0DHRVcbQv6WCLywt5IckyXA9D1xhQGYgOEhhiGby_NK3TzN2YVmoUGD38S3W8PBfgC0LPn5IcKeJ4R7BK0TrKKxQOn5krZCC6hAfMXOWrbzjRaNl7ejy21AbBhU5-eyVLcbCrORwPHPWpGn_YKNKqvXNiT5EL2Vc-8yk9fkEALxAR8xOuD6Z2EthhTA9rT3MkbxNDFdgOCNmtAg8gHAom2vpZ9n4I3JAady3liaGjOgxdjKcljGYnPwfOCAhLXrzqYG06jqkw8AI2SBcrQV5UVdkB0p0S0wHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pJklUf8udt"&gt;
-GitHub - microsoft/onnxruntime-swift-package-manager: A light-weight repository for providing Swift Package Manager support for… - GitHub&lt;/a&gt;&lt;br&gt;A light-weight repository for providing Swift Package Manager support for ONNX Runtime. - microsoft/onnxruntime-swift-package-manager&lt;/blockquote&gt;</content>
   </entry>
 </feed>
