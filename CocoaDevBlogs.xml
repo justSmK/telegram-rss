@@ -6,10 +6,22 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-07T05:28:18+00:00</updated>
+  <updated>2026-01-07T06:38:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Manually Mount the Metal Toolchain When Xcode Cannot https://t.co/OMOnYqM3WS</title>
+    <published>2026-01-07T06:27:13+00:00</published>
+    <updated>2026-01-07T06:27:13+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25677</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25677"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Manually Mount the Metal Toolchain When Xcode Cannot &lt;a href="https://t.co/OMOnYqM3WS" target="_blank" rel="noopener"&gt;https://t.co/OMOnYqM3WS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;
+Manually Mount the Metal Toolchain When Xcode Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;My computer suffers from Xcode not being able to access the Metal toolchain that is clearly installed on my system. I need to mount the disk image manually to fix this and make the CompileMetalFile error go away.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : keycastr/keycastr https://t.co/WMDtfbuKuS</title>
     <published>2026-01-07T02:17:34+00:00</published>
@@ -238,17 +250,5 @@ GitHub - gonzalezreal/swift-markdown-ui: Maintenance mode — new development in
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : microsoft/onnxruntime-swift-package-manager &lt;a href="https://t.co/pJklUf8udt" target="_blank" rel="noopener"&gt;https://t.co/pJklUf8udt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pJklUf8udt"&gt;&lt;img src="https://cdn4.telesco.pe/file/tr0lx-s7aq1EB2Z00OHIpf5Ggy2qxUzdSKHsWmcZ7XIyoL3bFO5BG0DHRVcbQv6WCLywt5IckyXA9D1xhQGYgOEhhiGby_NK3TzN2YVmoUGD38S3W8PBfgC0LPn5IcKeJ4R7BK0TrKKxQOn5krZCC6hAfMXOWrbzjRaNl7ejy21AbBhU5-eyVLcbCrORwPHPWpGn_YKNKqvXNiT5EL2Vc-8yk9fkEALxAR8xOuD6Z2EthhTA9rT3MkbxNDFdgOCNmtAg8gHAom2vpZ9n4I3JAady3liaGjOgxdjKcljGYnPwfOCAhLXrzqYG06jqkw8AI2SBcrQV5UVdkB0p0S0wHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pJklUf8udt"&gt;
 GitHub - microsoft/onnxruntime-swift-package-manager: A light-weight repository for providing Swift Package Manager support for… - GitHub&lt;/a&gt;&lt;br&gt;A light-weight repository for providing Swift Package Manager support for ONNX Runtime. - microsoft/onnxruntime-swift-package-manager&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : stripe/stripe-terminal-ios https://t.co/6V2nFhyTS1</title>
-    <published>2026-01-04T02:02:43+00:00</published>
-    <updated>2026-01-04T02:02:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25657</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25657"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : stripe/stripe-terminal-ios &lt;a href="https://t.co/6V2nFhyTS1" target="_blank" rel="noopener"&gt;https://t.co/6V2nFhyTS1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6V2nFhyTS1"&gt;&lt;img src="https://cdn4.telesco.pe/file/Two2smkIFum2PaAwAMosa_mhU_VKxDEo7ve0avb_eRTS2FnNFFCS7Sl95gmpwHWDS5eBfKA-oW7nZB2WchUrobhVGMwRdfPdohRC23N475aY5R0wIgcPEEf7UomlhRjx38vT1IY1GnD7y7_Jov_L9RsXZXIemebZQyqybP9bW9D62W2yOe4MrMm8QD3qIM7zeK0FPViYTHYvnca7YcwB6NMl1McwAOwNs45eSjF_Uef6Cg7hsk2kKwY-xzVlDbi4w9UAn56cXmVuLrzufoccQhFUd7Xvs2uVn3KTK5Wp9Bt57BWcI8v8WrREAjyHCvP8FTYej74kBTe3syOL10Gh0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6V2nFhyTS1"&gt;
-GitHub - stripe/stripe-terminal-ios: Stripe Terminal iOS SDK - GitHub&lt;/a&gt;&lt;br&gt;Stripe Terminal iOS SDK. Contribute to stripe/stripe-terminal-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
