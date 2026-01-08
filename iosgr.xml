@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-08T03:44:06+00:00</updated>
+  <updated>2026-01-08T04:42:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -76,7 +76,7 @@ Replay - NSHipster&lt;/a&gt;&lt;br&gt;Fast, reliable API tests without mocks or 
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/AL7VBt7WefTkD4RXIMyiygxdjBCWKdbc5vcEfKgtQCOZfWW6n3BaXk4rR-Qzj6DA6MsTeXHCbzNidsnsL_VG9aCmzFoOvVz8Syl6hx5AxX1fUVETmBc3W6Ut_N6YRQCiIWYQ2Rkab99fWPkNKfhfbA0-7LHXyAlfagRDNnVPmp1DSxksAsQt2MbYxaif2gfRGcsH6E6x2s5szQkGi6MQ5FWHg1ZBhtbIpLQwSWXFNMpFP3jDXYNpAI4_-qthDmpdvO8KiVLSwWAEkHsjE6HsLVcRK1AC511qtxCZGcbYIe_PQyCfFqA-qH7n-hCKPG364VPDdwcOKVT5vfBbBGe0Aw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/cl0OQiZ5z5XfI8ZlV6SpbAuWHG91udL8SWAl1_zdj8sFS3FvqdbZereXJ-9tNil46jMy_I4iT_mxQQEMSaIrqoJn9WP410-NpeRItqTjlsBiNWC6bwzsgh1YLe8Q_wLYrr9VIPPTAH31LpFNSgXVrqVVbyAmJnP8pDuR9XTuAR_utAc9RZIuf9pBsFCTO3kWGB3_FYbBN1tWK-6iKQmIIsHf-KNdNVp55QzABIXTsXxNTSRVmlFEg5BJYPmIVDbx7K1t5v99OFSW1VBHPm5XyEQPGW2vH2oHvb4C8U1V-_OC66RWa1tyVUAWJ72c67iFqzT5tYCHy0GxfFP4RbV_aw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
 Все не так с Codable - Хабр&lt;/a&gt;&lt;br&gt;Привет, Хабр&amp;#33; На связи Кристиан Бенуа, iOS-разработчиĸ в Т-Банĸе. Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
