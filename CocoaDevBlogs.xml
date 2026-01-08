@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/ECUrkpN_-Gf_Qlp2fBRoAqcrr9rZ4NZ-n6z6dbOU690mrMFrEofaFlLvEFD8Eh199v6d7oAV-naaV8n0w5iu1Pm4MgXZl6S4EowNnmfiP_YGsENM69c98nYPddtJgjClMjb16bP8vN9NPAmlf_He3PC5A-05EfgbKt0-Ew2QnqjwMmPJql4TqCpJNK5nasMfMKoDCkyQO3msMy-CR3TBH7WiQmgXQx2Uq9Soz04BaDV0z54nrUWKz8hiky_nplIBEiIrNkxGxk5RSvxRRMQ-SNLFxotBk7XmcP-4HRjrOCutw65e85f09IN9YmJUA8SrIDXdkHT1hN_4bouN1lSakA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ECUrkpN_-Gf_Qlp2fBRoAqcrr9rZ4NZ-n6z6dbOU690mrMFrEofaFlLvEFD8Eh199v6d7oAV-naaV8n0w5iu1Pm4MgXZl6S4EowNnmfiP_YGsENM69c98nYPddtJgjClMjb16bP8vN9NPAmlf_He3PC5A-05EfgbKt0-Ew2QnqjwMmPJql4TqCpJNK5nasMfMKoDCkyQO3msMy-CR3TBH7WiQmgXQx2Uq9Soz04BaDV0z54nrUWKz8hiky_nplIBEiIrNkxGxk5RSvxRRMQ-SNLFxotBk7XmcP-4HRjrOCutw65e85f09IN9YmJUA8SrIDXdkHT1hN_4bouN1lSakA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-08T13:42:27+00:00</updated>
+  <updated>2026-01-08T14:28:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Understanding Spring Animations in SwiftUI https://t.co/XrpjPKJaUt</title>
+    <published>2026-01-08T14:02:28+00:00</published>
+    <updated>2026-01-08T14:02:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25685</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25685"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/C1aJvPVDpz9NpqWnIdxedwSJNlRhuBqGDz3638_nFe3yQ6dq5u4YNWwXE2Kolwwh7-kxrWg7oWmh_YnUpIYeZf066da4gPSk6_w4uVwv3Sx1gkaGrxROpphv1X62gjVa2rmV4CQOkvXAOX9y52Z-Ab2spFJZrQ5gwgXu430FqCEM1jXZpCQqclOa3sSFdbRkvqwNl9cm_oOSAEYwGkaidoRaJHBLTpfECwh3np-GJrZJtlIGUUF703FioxH8wg8c5jMiS8LbQf7RtdSs7I48FJ5B0OZhm9iZrMaCv99rGwAYFfKd5KawCMmIDNyyIP55M9ahQaZyjhaNpf89l9DYLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
+Understanding Spring Animations in SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use spring animations to enhance the experience of your users in SwiftUI apps.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : facebook/facebook-ios-sdk https://t.co/JZ18MeFFhC</title>
     <published>2026-01-08T02:12:39+00:00</published>
@@ -240,17 +252,5 @@ Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Storing Swift structs in UserDefaults &lt;a href="https://t.co/smOLmGYFO5" target="_blank" rel="noopener"&gt;https://t.co/smOLmGYFO5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/smOLmGYFO5"&gt;&lt;img src="https://cdn4.telesco.pe/file/B5P6QrUckyEi1i5tNxtqj79cZDYQxc6R1OiuPpJl1M-oDlIbO2VSkL8E_iqADjcbh9X29-3P0z6MJSahDfRq_hUEWgIu5e9HZrhhLlelTc_WKkw2zpyG7fEtn8JOXGO9D_gZQcx4xX8vcjkJu6cfqrL6D0DrnatJIKr1a-Y5enZrY24y49k5kogopY1wp8Z-j9kwKekTODDMP7TVRMYFXbvKavevhKiNudmE9tQzfkF3Qa3gENqTN3wwteOrNK_ojsUXXOdmi3jcayx7B1Eo877rGS6aTiSQOGrYTgBIEJ7kOsrEYP9VnPaIgOtNfCbXf4xzP5GlQTgemmusG7pMJQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/smOLmGYFO5"&gt;
 Storing Swift structs in UserDefaults - Tanaschita&lt;/a&gt;&lt;br&gt;Encoding Swift structs with Codable allows us to store them in UserDefaults, but this convenience comes with trade-offs. Learn how the technique works and why it can easily break as models evolve and about a safer and more robust alternative.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Dimillian/IceCubesApp https://t.co/Z8qWz5zPwk</title>
-    <published>2026-01-05T02:02:53+00:00</published>
-    <updated>2026-01-05T02:02:53+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25665</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25665"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Dimillian/IceCubesApp &lt;a href="https://t.co/Z8qWz5zPwk" target="_blank" rel="noopener"&gt;https://t.co/Z8qWz5zPwk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Z8qWz5zPwk"&gt;&lt;img src="https://cdn4.telesco.pe/file/aUdt9zThaQwHjs_rYAT_I-1Y11NEMsQF03rYejsvq6G0o-navM4BV1fbouFuUigH5RaYhPhSl6znLwgAVJFVzRjrL46uko59EkTwF2hNCur8SruWGxx-AtUflITyTIswk3qabB9LmpU8kPXp8O84VRWuJymK2TV7P8HRphZj_s1QwSyNs4597O4T1iISlGJxJx-UCo5MCtKaQs17VMgIk_XG2wEuqsSgaBrdaZhdu50DdYt9d2yNB5faoF_iLAvcsriRw_rYhDZ3-vk616Ll0_Q41D654aAF-s9QBpnoB1sctJ59wbz6kltlhecNRD-7L8JFdkHNpszrjU9M_zaYyA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Z8qWz5zPwk"&gt;
-GitHub - Dimillian/IceCubesApp: A SwiftUI Mastodon client - GitHub&lt;/a&gt;&lt;br&gt;A SwiftUI Mastodon client. Contribute to Dimillian/IceCubesApp development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
