@@ -3,10 +3,10 @@
   <title type="text">iOS Dev (@iosdev) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosdev"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev"/>
-  <icon>https://t.me/favicon.ico</icon>
-  <logo>https://t.me/favicon.ico</logo>
+  <icon>https://cdn4.telesco.pe/file/FdtO1HVxP-MmkwljHiRmRwLW7AyPLANTD39n4cvMaUrRH-OPB28KGn5ERyze6SXFaRcF0O-CMQL6z8ZoraI50Y34HQyk6ZSfJ4y2ZDTtOSd4vITP8M8oK7z03oiJObiPT9v53-sNz1SGnU2z_MCTtGSO4Z422VYO5oSUm9YaVpTDkAjL73YuPeRos3QEaE3C_lLCCMZuHqgAjCLvchNMRZ6FMBO2gtZ6CTYRx9ulpXZOkSox0bO3iZwvTHa6x7Fg7ISzDbXHqhLZ8ENykJ-YS7PlJlBXsl8UIk2dsq-sn2NTtF91iDYUeGOf2cAFLcdBiUjDSdshbDWg5nVNUp1AEA.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/FdtO1HVxP-MmkwljHiRmRwLW7AyPLANTD39n4cvMaUrRH-OPB28KGn5ERyze6SXFaRcF0O-CMQL6z8ZoraI50Y34HQyk6ZSfJ4y2ZDTtOSd4vITP8M8oK7z03oiJObiPT9v53-sNz1SGnU2z_MCTtGSO4Z422VYO5oSUm9YaVpTDkAjL73YuPeRos3QEaE3C_lLCCMZuHqgAjCLvchNMRZ6FMBO2gtZ6CTYRx9ulpXZOkSox0bO3iZwvTHa6x7Fg7ISzDbXHqhLZ8ENykJ-YS7PlJlBXsl8UIk2dsq-sn2NTtF91iDYUeGOf2cAFLcdBiUjDSdshbDWg5nVNUp1AEA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-01-08T11:23:59+00:00</updated>
+  <updated>2026-01-08T12:53:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			Слушаете музыку во время работы?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;69% - Да&lt;/li&gt;&lt;li&gt;31% - Нет&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Слушаете музыку во время работы?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;68% - Да&lt;/li&gt;&lt;li&gt;32% - Нет&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Эффект Liquid Glass + отражения на Metal за 20 строчек кода&#13;
@@ -46,10 +46,10 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/RQS9ax4xXh4Bfm3kp-0cmG0Tb4TapDoW0CfsokAXxMSqQ6CUZMactjLQkiPUSvrXT1t0Ulr0ioYQinzPpvbaJadIv-7mh6A5Zx00o2MqyX7Ja6DYbHpL7LtS-4RbUcHs4MYjJlUt1gf5FW1GpVtzuuYysn5yzjbdOnO1GhygcTE2RRlcKRV_rD8_uTDMsCZqUBH4PxUTcvHomoW-XXNcSLm3OnFGmzr5N7yrRfcNyOxL3uGkTfdZa_83fa38bq97n8chtY7y69Ccr69aCzIwtLZ29iBgBsEkTVh4DCScPz8FKPuzEsySmBiuD-jzSAGd4-BcyMfIoALCneaOV-gcmQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/3ff2b5345e.mp4?token=TAVcPnJHz6Sh8vJfEzkp6e57vKs7CFg8A_fV3CQn0PtP8kuwtW7bKRkDTkKkWpvnEHgyRulKEoywxTz2YtYpgwWmUsg_8e0o3TxyTVy6tnmurK7xFtP3qfgx5cUkrf-0xzCtRXMnPVD6XGLylv9rl6_yekBZ6jRWRvZI8CNkMJsT3BwrxPtWDNk-EPUs3cdFyqgXvv2VSLuMpd2LUIBt3ajdvprfdeJlTCrXEaSAiCxPFkPZ9oUY8tSGlhhNEUQ7OWUxWviMQz1Zk04mObBMcFnktwYT4JgLhRR_Op-p5mSDHa_0dgNvWadTceWy7K4UsFIwGmobtyP3wckK8VmOOw" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/o2bL91nOzCNwxwNS8Drol2Ne2Ba0S2MHW06IMygVk1-LzdfpJJY9bkPWPFA0KR-B772oJBNXQokFTZUFdDBaSQhR94vQzg_GJKu0ag_6iy_Cjt6hxbNRGP7clF0X0zogO1Ztx3Zgaw0HmzDj4TSp1B-zC14Jkm8CXSZK5QlmjjU-kbBb3ncHeQ03e1He8si5vdNt-4kL11YDWELbKbjekJvwn_cTB8VDrIeR0Vo7NgyHNtp6rL93xzQ1-VQKWXIW6iwiq5nbO9QmidPYuWdt9eOT_uv-7HpKkmUiqZyB0CGLyz1Gn2dqFZp2yL4jT85SUyhUSika5TqTm9Tun6Hx-w" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/3ff2b5345e.mp4?token=n7kHO-ULuzC5U4tqhs4nzTbcmzPfNVW5uw5cBImICBgOAbQbyJYcrDytmpyGpG1PQwCiqXbA_uC6oDxmkEVDlDJUdys6tbUNYVO9TRCX3mIVTBRqkOUcUmBRO2lVJEzvEXvnZuUpPrUtL9jkEGQ9ByixNImnSJkqmYb2_KeWOlKTZzmt9iqIJo6T9GTrvCe7CXuIB4vVu0sxowq4IywNfFpPyKOc8wzTdSgGwk86BnBc9RtfmEEDkTbXpDjmf1h_TWBupPiFFBp8mTHS0viZE8E3f9yG5YkOxdOqfjArAKtAyvtVUN5ykxgRztJAZBTC9DycS4pVKVJDs9NTTw6Eiw" type="video/mp4"&gt;
 &lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/RQS9ax4xXh4Bfm3kp-0cmG0Tb4TapDoW0CfsokAXxMSqQ6CUZMactjLQkiPUSvrXT1t0Ulr0ioYQinzPpvbaJadIv-7mh6A5Zx00o2MqyX7Ja6DYbHpL7LtS-4RbUcHs4MYjJlUt1gf5FW1GpVtzuuYysn5yzjbdOnO1GhygcTE2RRlcKRV_rD8_uTDMsCZqUBH4PxUTcvHomoW-XXNcSLm3OnFGmzr5N7yrRfcNyOxL3uGkTfdZa_83fa38bq97n8chtY7y69Ccr69aCzIwtLZ29iBgBsEkTVh4DCScPz8FKPuzEsySmBiuD-jzSAGd4-BcyMfIoALCneaOV-gcmQ"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/o2bL91nOzCNwxwNS8Drol2Ne2Ba0S2MHW06IMygVk1-LzdfpJJY9bkPWPFA0KR-B772oJBNXQokFTZUFdDBaSQhR94vQzg_GJKu0ag_6iy_Cjt6hxbNRGP7clF0X0zogO1Ztx3Zgaw0HmzDj4TSp1B-zC14Jkm8CXSZK5QlmjjU-kbBb3ncHeQ03e1He8si5vdNt-4kL11YDWELbKbjekJvwn_cTB8VDrIeR0Vo7NgyHNtp6rL93xzQ1-VQKWXIW6iwiq5nbO9QmidPYuWdt9eOT_uv-7HpKkmUiqZyB0CGLyz1Gn2dqFZp2yL4jT85SUyhUSika5TqTm9Tun6Hx-w"/>
   </entry>
   <entry>
     <title type="html">Фундаментальные знания - главный тренд 2026...</title>
