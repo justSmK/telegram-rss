@@ -6,7 +6,7 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-08T10:28:35+00:00</updated>
+  <updated>2026-01-08T11:24:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -243,7 +243,7 @@ future, and try out the new Swift…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/bdrPMvZww--KRV7k5QpcGYV36cCHCm3WQj-Wl6m_N5NFEyUjZVt956xPF9KQWPezQWLZKwprjUYVO2gCTHSbny0t97qbWn7HnI2P5FdFPZoQtYclI_kWZCNDcrjUjQqNtYS45_4QenTOcvRxDgM3l33RXtTmDRyGQHZPMxVLw3YZ4pRtlQu3NBQl6aWOjc2yalDiqcqELoYMz_Wd4oIwlHln-9tod8ofZBf0Wxr0hcwFmJGIWyxj45wvB4LxHXhB6-g7IIxV6i45Gg3lHLAZx4HLlzkHZEkik2fGoNqAXTfLKtGEUoDD0eHOdAH2j4WY2oe8J_j24kKDCpcYPCDwOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/ax7lV0fddO5pvVIaAk1KUS2nguEHducDfxUqoNCnHhEHqSr9UPCcnBBjCBaL9WAdNFWN4FAExJMGZYRVVPQgwFokPnZTTVEZFQ_7meLz8knP72lLVL7HCJg343OWn0vYeOVXi0i8kIwib1vWDVhwHVUZyxbCVviLEU2suTf5Zj7YYRtrtUlrbHj591yGzFD9mjnFeFuUaaNQhBanhfaIj1_4wymeD4qjTfnl5AvBjb3SNmughp0767kxeFqEO5-NHBJXehqsKP1vpS-jG8iEs0rSQFNv4pgJ-7teiG8jDayZ-NS5Vx0xbuHEZcvwHepf8gKSJOkBwBduQhfwe9704w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
 swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-evolution - GitHub&lt;/a&gt;&lt;br&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swiftlang/swift-evolution&lt;/blockquote&gt;</content>
   </entry>
   <entry>

@@ -6,10 +6,30 @@
   <icon>https://t.me/favicon.ico</icon>
   <logo>https://t.me/favicon.ico</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-08T10:28:36+00:00</updated>
+  <updated>2026-01-08T11:24:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Техники перфоманса в Авито&#13;
+&#13;
+Опять же по следам...</title>
+    <published>2026-01-08T10:38:49+00:00</published>
+    <updated>2026-01-08T10:38:49+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3661</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3661"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.youtube.com/watch?v=_UjYPq0pBW4" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Техники перфоманса в Авито&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Опять же по следам предыдущего поста. Поговорим почему в маркетплейсах перфоманс считается внимательно:&lt;br/&gt;- в авито, озоне, и я.маркете каждая команда которая выкатывает фичу под аб-тестом, получает метрики перфоманса. И если они упали, то ваша фича блочится. На 100% не получите раскатку если time-to-render и time-to-scroll будут критично низкие&lt;br/&gt;- в маркетплейсах перфоманс критичен. Там есть черные пятницы, продавцы с локальными скидками, закрытия. Нужно много успевать продать и быстро.&lt;br/&gt;- скорость всего там важна. Поэтому маркетплейсы отказываются от долгих анимаций, сложного дизайна. Дабы не спугнуть прогретого юзера лишними секундами ненужного ожидания.&lt;br/&gt;&lt;br/&gt;Вот я сидел 5 месяцев на вебвью сбера. И слушайте, ни разу не подумал перейти на конкурентов потому что они быстрее.&lt;br/&gt;&lt;br/&gt;С примером же самоката, где все было медленно и долго, это как раз была первая мысль. &lt;br/&gt;&lt;br/&gt;Поэтому перфоманс может быть и важен. Но зависит от контекста и области.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=_UjYPq0pBW4"&gt;&lt;img src="https://cdn4.telesco.pe/file/WcPnAZ4TPC54P4Uo7KNsJhlVtchRkzjqNqwnQKoWbUxdF2lJ8zpfY0_weM8ykmVtJOXsdKScQ5yRB26UoH-zLHzwjJsdE6yN0dYQMihhFi32oCiTCH5JPl7v2mdiMX6ffyO1Tyndt6_rNbtslein2DwUmUsVStvkp1TZzJOWJ8Pj9dxse_3ZszmrZPG2kvYSGTJk5zScVGWqEuW56Ev_YOzZGEqld_GZcykDcwM4VOwwNsewaGaw_ERPsaH4QFqUcDQ5sHSLEVqZIhvfITYGsmV_MpE-1ztDjjdbRMX5VXavDMHDFT9h211cuMN9_sjfQOkSYZYJ3KN72j8Kf6RiqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=_UjYPq0pBW4"&gt;
+Абстрактные техники перформанса | Тимур Юсипов, Авито - YouTube&lt;/a&gt;&lt;br&gt;Наблюдения и рассуждения в открытой форме об основных иллюзиях относительно перформанса. &#13;
+&#13;
+00:00 — Представление спикера и темы&#13;
+00:40 — Иллюзии на тему перформанса&#13;
+00:59 — Перформанс — это точно хорошо&#13;
+02:25 — Ускорять нужно всё, что ускоряемо&#13;
+05:36 — Чем…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Перфоманс открытия апки или скорость билда...</title>
     <published>2026-01-08T09:03:25+00:00</published>
@@ -83,7 +103,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Выбираем лютый зашквар в разработке в 2026&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;61% - Вайбкодинг (разработка без знаний программирования)&lt;/li&gt;&lt;li&gt;23% - Кроссплатформы&lt;/li&gt;&lt;li&gt;29% - BDUI&lt;/li&gt;&lt;li&gt;2% - Натив&lt;/li&gt;&lt;li&gt;18% - Алгоритмы&lt;/li&gt;&lt;li&gt;3% - Архитектуры &lt;/li&gt;&lt;li&gt;4% - База (фундаментальные знания)&lt;/li&gt;&lt;li&gt;45% - No-code&lt;/li&gt;&lt;li&gt;5% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Выбираем лютый зашквар в разработке в 2026&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;62% - Вайбкодинг (разработка без знаний программирования)&lt;/li&gt;&lt;li&gt;23% - Кроссплатформы&lt;/li&gt;&lt;li&gt;29% - BDUI&lt;/li&gt;&lt;li&gt;2% - Натив&lt;/li&gt;&lt;li&gt;18% - Алгоритмы&lt;/li&gt;&lt;li&gt;3% - Архитектуры &lt;/li&gt;&lt;li&gt;4% - База (фундаментальные знания)&lt;/li&gt;&lt;li&gt;45% - No-code&lt;/li&gt;&lt;li&gt;5% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">А вы еще спрашиваете почему ревью в сторах...</title>
@@ -194,20 +214,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>iOS Makes Me Hate</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;С годом огненной лошади&lt;br/&gt;&lt;br/&gt;Всем желаю в этом году войти в свою прайм форму. Кстати, праздную нг абсолютно трезвым.&lt;br/&gt;&lt;br/&gt;Объявляю этот год в канале - годом физического здоровья.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">С наступающим 2026&#13;
-&#13;
-Последний пост в этом году.&#13;
-&#13;
-Мое...</title>
-    <published>2025-12-31T09:38:58+00:00</published>
-    <updated>2025-12-31T09:38:58+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3641</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3641"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;С наступающим 2026&lt;br/&gt;&lt;br/&gt;Последний пост в этом году.&lt;br/&gt;&lt;br/&gt;Мое самое лучшее решение - этот блог. Хоть пару раз я его хотел забросить. Он стал трибуной, училищем, мостом и площадкой. &lt;br/&gt;&lt;br/&gt;Случайно зародившийся. Всегда ценю его органичность, искренность и честность. Как показатель в спорте. Как лог в деббагере.&lt;br/&gt;&lt;br/&gt;Вырос в маленьком селе боялся остаться на краю периферии и провинции. Заблудиться и не найти выход. Не иметь достаточно информации. &lt;br/&gt;&lt;br/&gt;Наследие семьи учителей всегда позволяло открыто делиться знаниями и заниматься системно образованием.&lt;br/&gt;&lt;br/&gt;Спасибо вам, что читаете. Реагируете. Делитесь. Публика - важная энергия автора и его отражение. И я рад, что собираю вокруг себя настоящих профессионалов. Хочется делать больше и полезней. Служить высшему делу.&lt;br/&gt;&lt;br/&gt;Желаю в новом году здоровья. Денег. Удачи. Не забудьте сделать налоговый вычет и чекапы. Пользуйтесь корпоративным ДМС не только для себя, но и для семьи.&lt;br/&gt;&lt;br/&gt;Берите от жизни максимум, так скажем.&lt;/div&gt;</content>
   </entry>
 </feed>
