@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/uSOe_LlqRCJxHedVMnUBYhD8v9d_rgGELzamo-xb2RfC2kcoBKoqYfCrjDaDisXTjcfrM9DOftC7dNkA3F9JZ7Xn85_Ab3zR3pZYsiCPPygdaDmsHB_CwvKplp1FxzVm2rN8sjzf5n1EU_UkDZD3DtL5BnxJ5kt6Gtl8EQSW1HKjnhMSPpIUIVFPmEbw_sCjn4ww7XLOncT1vZagjRpT3gqgjE2PdfRpr95V0W66xqaOeGuEqgZCZoPx14l1LLYiXviq9L_HRDySzxMaynUIM6r0JBsNLf-pV0YIM02b4C3pYxosaoSY6diP1F7KSkiAuT9FNN5qWfIm589B7SXM2g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uSOe_LlqRCJxHedVMnUBYhD8v9d_rgGELzamo-xb2RfC2kcoBKoqYfCrjDaDisXTjcfrM9DOftC7dNkA3F9JZ7Xn85_Ab3zR3pZYsiCPPygdaDmsHB_CwvKplp1FxzVm2rN8sjzf5n1EU_UkDZD3DtL5BnxJ5kt6Gtl8EQSW1HKjnhMSPpIUIVFPmEbw_sCjn4ww7XLOncT1vZagjRpT3gqgjE2PdfRpr95V0W66xqaOeGuEqgZCZoPx14l1LLYiXviq9L_HRDySzxMaynUIM6r0JBsNLf-pV0YIM02b4C3pYxosaoSY6diP1F7KSkiAuT9FNN5qWfIm589B7SXM2g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-09T14:28:05+00:00</updated>
+  <updated>2026-01-09T15:28:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 738 https://t.co/0gS2NUeOkd</title>
+    <published>2026-01-09T15:07:29+00:00</published>
+    <updated>2026-01-09T15:07:29+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25692</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25692"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 738 &lt;a href="https://t.co/0gS2NUeOkd" target="_blank" rel="noopener"&gt;https://t.co/0gS2NUeOkd&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Understanding gesture hierarchy https://t.co/r4pU6wLbi4</title>
     <published>2026-01-09T14:03:03+00:00</published>
@@ -240,17 +251,5 @@ GitHub - BranchMetrics/ios-branch-sdk-spm: Branch iOS SDK Swift Package Manager 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ninxsoft/Mist &lt;a href="https://t.co/pTIIKKFFfy" target="_blank" rel="noopener"&gt;https://t.co/pTIIKKFFfy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pTIIKKFFfy"&gt;&lt;img src="https://cdn4.telesco.pe/file/a9_Fm8v5O55_9p1xpZqxCQBVbFzoHX7LPb63puOg4knQJeMat7z4Zhe3xjxVcILVY0TmCI7Ot51TINpoWT-hHIQYFQDOU-rQRJJ1qulr0JYxcmrhYeKHfyVLZ49tCr4fXzkNn3keyOS7WBOEvqn10ZQIRn0OlggB-4ADrgNsInuqb1fERis3tULXiJ_e-VCtXNXSts68jIYPD2mvZsPGv3lAIedVEyktjrVQY--KWLy9n-fMUN1lyN_9dtWFpJH6axyJL-oxyf6dY-6sNeid2n_YjfZ3RQ2zRiLKMENKYVssfnydGi8rTBO4u8zvmsq8q5fvcM3wLp93hMATNB0GAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pTIIKKFFfy"&gt;
 GitHub - ninxsoft/Mist: A Mac utility that automatically downloads macOS Firmwares / Installers. - GitHub&lt;/a&gt;&lt;br&gt;A Mac utility that automatically downloads macOS Firmwares / Installers. - ninxsoft/Mist&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Hello Developer: January 2026 https://t.co/Kczoh5ZOIU</title>
-    <published>2026-01-06T18:07:22+00:00</published>
-    <updated>2026-01-06T18:07:22+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25672</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25672"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: January 2026 &lt;a href="https://t.co/Kczoh5ZOIU" target="_blank" rel="noopener"&gt;https://t.co/Kczoh5ZOIU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;&lt;img src="https://cdn4.telesco.pe/file/MihE4lSO23M16diQi4tgah-v2dLVwsSe_e5dihGcAWZOV5pnc58vh3YtYBLiAJUuwSrHShH05T4oqh5ZBpKkTiU8pVZWeGbdKQlZJ7wP_70rBn6F4ZzHeU7m4VKmYwbliPHF9uHgzbLSKkRePM085Lmd--Ra2QWshI_hi4-sFmfiBwPt3l-mag4VJ6FHsXpQqrNHm2oR4iVBpr6zkVL9cmiDMOojk1n05j9WkJQTcPYH3hI_Pa9O13l7LULZmYYlQuj-oJ-bWN4XRl5FAXzCXnspXipFh1HBIad6BIsgD8vNwFf6k83ndyaNblPcxyiGs_F84o19GvMO3YnN8A0KGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;
-Hello Developer: January 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;We‘re hitting the ground running in 2026 with a special SwiftUI activity in Cupertino, more ways to connect with us about Liquid Glass, and a snappy video recap of Apple design resources.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
