@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/NMVLQkfbw51O5LRYwDrkLQXAywzBzdmiP0JMAOPs0wDx40rLUHlJTL7sXlP3ZP6PaK_VqfQJrGFbgrPkQ6E1frITi8p_iyxXYfDyhm5x3LEb3JgZ2bzI7ATnJf2flBZruLhaTBq29N9HMgVsoUdaAaxty-5F7pPWamFAcCd4-CWzv5ickvu6Ccr5V5r2TQdf1S6dgeCzuROHxmMgDkfknRQHJzErmGBDkOLvLNmybOziZ5yZw10yIqNZNQMKGIDVNOhTxceRKRdyFTOI_c7PEBHG40jNaO2KJsvO_DnY2kBVyJy2dxCQf-V8P4NmPlaQL33Q3GH1oZf_bJuR2BlL3Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NMVLQkfbw51O5LRYwDrkLQXAywzBzdmiP0JMAOPs0wDx40rLUHlJTL7sXlP3ZP6PaK_VqfQJrGFbgrPkQ6E1frITi8p_iyxXYfDyhm5x3LEb3JgZ2bzI7ATnJf2flBZruLhaTBq29N9HMgVsoUdaAaxty-5F7pPWamFAcCd4-CWzv5ickvu6Ccr5V5r2TQdf1S6dgeCzuROHxmMgDkfknRQHJzErmGBDkOLvLNmybOziZ5yZw10yIqNZNQMKGIDVNOhTxceRKRdyFTOI_c7PEBHG40jNaO2KJsvO_DnY2kBVyJy2dxCQf-V8P4NmPlaQL33Q3GH1oZf_bJuR2BlL3Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-09T13:40:05+00:00</updated>
+  <updated>2026-01-09T14:28:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Почему Swift кажется простым, пока не копнёшь глубже?&#13;
+&#13;
+Ты...</title>
+    <published>2026-01-09T14:14:54+00:00</published>
+    <updated>2026-01-09T14:14:54+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/314</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/314"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.youtube.com/watch?v=opqKGgJavkw" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Почему Swift кажется простым, пока не копнёшь глубже?&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Ты наверняка замечал эту штуку, что начинаешь писать на Swift - &lt;b&gt;всё понятно&lt;/b&gt;. let, var, структуры, замыкания.&lt;br/&gt;&lt;br/&gt;Потом лезешь в async / await. Окей, разобрался. Потом &lt;a href="https://t.me/Sendable" target="_blank"&gt;@Sendable&lt;/a&gt;, isolated, nonisolated. &lt;b&gt;Уже сложнее&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.douggregor.net/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Doug Gregor&lt;/a&gt; - один из главных архитекторов Swift, называет это progressive disclosure. &lt;b&gt;Постепенное раскрытие&lt;/b&gt; &lt;b&gt;сложности&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Идея простая&lt;/b&gt;: язык должен пускать новичка без боли. Но когда тебе нужна мощь - она есть. Просто спрятана до поры.&lt;br/&gt;&lt;br/&gt;На SwiftCraft 2025 Doug рассказал, как этот принцип работает изнутри. Почему одни фичи &amp;quot;на поверхности&amp;quot;, а другие закопаны. И какие вызовы это создаёт, когда Swift идёт в embedded, в серверы, в новые ниши.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Январь - это лучшее время для оффера. Бюджеты свежие....</title>
     <published>2026-01-03T13:37:25+00:00</published>
@@ -254,17 +267,5 @@ Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O’Rouke, Justin Rushin
 0:47 Разбор задачи&#13;
 2:50 Пример 1: Struct, Capture List&#13;
 5:45…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">У кого есть аккаунт Paypal, можете на год взять бесплатно...</title>
-    <published>2025-09-30T09:54:36+00:00</published>
-    <updated>2025-09-30T09:54:36+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/290</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/290"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;У кого есть аккаунт Paypal, можете на год взять бесплатно подписку: &lt;a href="https://www.perplexity.ai/join/p/paypal-subscription" target="_blank" rel="noopener"&gt;https://www.perplexity.ai/join/p/paypal-subscription&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.perplexity.ai/join/p/paypal-subscription"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q0VcHcPe1eH901lAp0bY4FxHGnaBHObUsCHPjBs7_xzWWOVjF5K1jAvNcJhLh-u4RgsXSkcZAFWpEJ3bpbyztdTRaLvX57ZbhZ__pmE0wLMQM2shvIz5Dr3HPAmN8Uxd69zsjuxURdA9U5iNCmw9Ev0e_5bOYBnu36Qe0I2f2WNH7irHpY6dxtpBydhpGhSJkssDVghrlesZV1nRM22d9pGwrdkbeJ5jdtZ964RIznL9vRM1VvdxZgyS-4my7JDl08xKWJ3BndCZI16d5EqFPT_0IBJCkrmS-QzgaSC_137ii5spYP5j5sw3VzTkTsYvsY-YCZ8Q9PE-k9yQUtU5GQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.perplexity.ai/join/p/paypal-subscription"&gt;
- - Perplexity AI&lt;/a&gt;&lt;br&gt;Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

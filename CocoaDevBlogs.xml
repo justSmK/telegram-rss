@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/uSOe_LlqRCJxHedVMnUBYhD8v9d_rgGELzamo-xb2RfC2kcoBKoqYfCrjDaDisXTjcfrM9DOftC7dNkA3F9JZ7Xn85_Ab3zR3pZYsiCPPygdaDmsHB_CwvKplp1FxzVm2rN8sjzf5n1EU_UkDZD3DtL5BnxJ5kt6Gtl8EQSW1HKjnhMSPpIUIVFPmEbw_sCjn4ww7XLOncT1vZagjRpT3gqgjE2PdfRpr95V0W66xqaOeGuEqgZCZoPx14l1LLYiXviq9L_HRDySzxMaynUIM6r0JBsNLf-pV0YIM02b4C3pYxosaoSY6diP1F7KSkiAuT9FNN5qWfIm589B7SXM2g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uSOe_LlqRCJxHedVMnUBYhD8v9d_rgGELzamo-xb2RfC2kcoBKoqYfCrjDaDisXTjcfrM9DOftC7dNkA3F9JZ7Xn85_Ab3zR3pZYsiCPPygdaDmsHB_CwvKplp1FxzVm2rN8sjzf5n1EU_UkDZD3DtL5BnxJ5kt6Gtl8EQSW1HKjnhMSPpIUIVFPmEbw_sCjn4ww7XLOncT1vZagjRpT3gqgjE2PdfRpr95V0W66xqaOeGuEqgZCZoPx14l1LLYiXviq9L_HRDySzxMaynUIM6r0JBsNLf-pV0YIM02b4C3pYxosaoSY6diP1F7KSkiAuT9FNN5qWfIm589B7SXM2g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-09T13:40:01+00:00</updated>
+  <updated>2026-01-09T14:28:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Understanding gesture hierarchy https://t.co/r4pU6wLbi4</title>
+    <published>2026-01-09T14:03:03+00:00</published>
+    <updated>2026-01-09T14:03:03+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25691</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25691"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding gesture hierarchy &lt;a href="https://t.co/r4pU6wLbi4" target="_blank" rel="noopener"&gt;https://t.co/r4pU6wLbi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/BQ_q_Vblz1T0x7gydtok4ZOVr0FGL3XaAAB3oetxq3brafMTR5Krjk2g9NHuGYPchH58zlXWCL5jnlFsOh1qjHko-0uZj0DxGb6Nne1YKSNjxdX6ULArw6jWq89iCm5apcxOPpnv2RNHYf4pmTnamCoOACgDauGwLA1hLH3-EV4zVMjd7vppTZ9FnfIKWXp9-Yu1U_YljsHeurl2HOTeRPVVquw5DEgqIYTKZ6Lbf4UVtGHThZUneCx6rN89zk7pxFcFLLHb_i_8a9wdjmCH83QCAfNRxWt2MGB8A0v596F9wlh3Ys0n22NbjOQBexFGG0EeKrFDMMjAnuDdOwgc_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;
+Understanding gesture hierarchy - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to set up the hierarchy of gestures in views and subviews within a SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : swiftlang/sourcekit-lsp https://t.co/J4EIrrrqRg</title>
     <published>2026-01-09T02:12:12+00:00</published>
@@ -79,7 +91,7 @@ GitHub - datatheorem/TrustKit: Easy SSL pinning validation and reporting for iOS
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/C1aJvPVDpz9NpqWnIdxedwSJNlRhuBqGDz3638_nFe3yQ6dq5u4YNWwXE2Kolwwh7-kxrWg7oWmh_YnUpIYeZf066da4gPSk6_w4uVwv3Sx1gkaGrxROpphv1X62gjVa2rmV4CQOkvXAOX9y52Z-Ab2spFJZrQ5gwgXu430FqCEM1jXZpCQqclOa3sSFdbRkvqwNl9cm_oOSAEYwGkaidoRaJHBLTpfECwh3np-GJrZJtlIGUUF703FioxH8wg8c5jMiS8LbQf7RtdSs7I48FJ5B0OZhm9iZrMaCv99rGwAYFfKd5KawCMmIDNyyIP55M9ahQaZyjhaNpf89l9DYLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/o-m-0VwuPF-RyXBDaiRnqU75wGj1l6bfTe_V6vTZY0FzhuIuRcB6qzRJGDuIRKdKvP1TFRx-t9ZlF_0k4wcjPFET8tuyks2jHfReZ4SItyG1cUanFUlt53y7BtBDaSDhWAfup7umEXhJYUFlr3d-vWG0syyuvD5XB77Mgv9UZKWMwvyDazun1zf1Q5RbuyUXTND2SfaVPwpPSHYPWSlwYcfRkHMAvdVqlBC0COtiMPK4fljR0dv_38vDMDE3tQB6b4-gT1Lt-IRCTW3t5-ENrjrX7g8tYdmpEIYX1HbS-A8xb8uHmQ69ByUDBn_CK1osJQNDmkicwwct932n7uZN1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
 Understanding Spring Animations in SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use spring animations to enhance the experience of your users in SwiftUI apps.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -240,17 +252,5 @@ GitHub - ninxsoft/Mist: A Mac utility that automatically downloads macOS Firmwar
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: January 2026 &lt;a href="https://t.co/Kczoh5ZOIU" target="_blank" rel="noopener"&gt;https://t.co/Kczoh5ZOIU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;&lt;img src="https://cdn4.telesco.pe/file/MihE4lSO23M16diQi4tgah-v2dLVwsSe_e5dihGcAWZOV5pnc58vh3YtYBLiAJUuwSrHShH05T4oqh5ZBpKkTiU8pVZWeGbdKQlZJ7wP_70rBn6F4ZzHeU7m4VKmYwbliPHF9uHgzbLSKkRePM085Lmd--Ra2QWshI_hi4-sFmfiBwPt3l-mag4VJ6FHsXpQqrNHm2oR4iVBpr6zkVL9cmiDMOojk1n05j9WkJQTcPYH3hI_Pa9O13l7LULZmYYlQuj-oJ-bWN4XRl5FAXzCXnspXipFh1HBIad6BIsgD8vNwFf6k83ndyaNblPcxyiGs_F84o19GvMO3YnN8A0KGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kczoh5ZOIU"&gt;
 Hello Developer: January 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;We‘re hitting the ground running in 2026 with a special SwiftUI activity in Cupertino, more ways to connect with us about Liquid Glass, and a snappy video recap of Apple design resources.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">10 techniques to pass 90% of algorithmic interviews  https://t.co/Mkzh2k3eDv</title>
-    <published>2026-01-06T16:07:28+00:00</published>
-    <updated>2026-01-06T16:07:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25671</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25671"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;10 techniques to pass 90% of algorithmic interviews  &lt;a href="https://t.co/Mkzh2k3eDv" target="_blank" rel="noopener"&gt;https://t.co/Mkzh2k3eDv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Mkzh2k3eDv"&gt;&lt;img src="https://cdn4.telesco.pe/file/hR5gNO50OXJS_sJixsENSUal94aTkNgHkFe1n88i45WvdEyJsoDIcZjAamaKTSvl5OyMzwhPe75oNseD8zGdM5lGA9tAraTgbimpCecz9cctRJJogy18hjIs5xFBqPeE8z8kv1MM_n90BaW1Yf38n0XagAetYqGv6f6f3HDZdgbUeuTOpk0Yfwshm_ghiMe0F4Svy8K1OPR5BjYSrk8Q19-7nasZB6fWAqUekWUSqQrkUCoPUkUMuuCxtBAehjcFv8CePK5SarWiRM9HFay-Vurn8Ni23B0ohz_6u8aFxP4XpOSmY79MLoDD4iOY4UEJZJQ4c3zLTB9EFTIaPIxYZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Mkzh2k3eDv"&gt;
-10 techniques to pass 90% of algorithmic interviews - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Learnings from my long-overdue LeetCode grind&lt;/blockquote&gt;</content>
   </entry>
 </feed>
