@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-10T20:25:48+00:00</updated>
+  <updated>2026-01-10T21:20:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -247,7 +247,7 @@ GitHub - AzureAD/microsoft-authentication-library-common-for-objc: Common code u
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 &lt;a href="https://t.co/zjKWJObBLw" target="_blank" rel="noopener"&gt;https://t.co/zjKWJObBLw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;&lt;img src="https://cdn4.telesco.pe/file/D_95ht62YDINXiizWnVEgFK1c-WUqq55Cx9_N1GU79iED-EwH_HWuNH8NjMZ3yosgAVHTLdwv57b3XPb3xf-yJoM2bF3H-XkZOUGOnVR62yz0SeSEtssy8_2fBVh8DfIz8nPM5RQvhX-DA9bB_ook0BMJjd7_FEaGkbFL_GdkivcjgHDiP4d5DXBfBuSGe3RvfX8FF9JXh26BgWWvUEzt85vyZgd7v_q0c__e-1LxKZvUrpq_JvGp3sZed7SX8c45n177lVWYmcXX4QbF3FqAQCSBpmW0kGFLkmkXoH79lYLV90eh4tRj_OBH3aOouVEgaB4EOYwlJLOVbnnuhMl9w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 &lt;a href="https://t.co/zjKWJObBLw" target="_blank" rel="noopener"&gt;https://t.co/zjKWJObBLw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;&lt;img src="https://cdn4.telesco.pe/file/BUd-5vkJKFt49WvNDAew0vuk1DnTkF0XdVjoHoevD9rjUZ-IOUC1KgY1jTxb6-QLw1f6K1PwkTs_J3lvpxOvqeNElOlAID_t0KOj1isL9no1csa8Hlyp3mv7NKsRGiEJk-0RwguHcJYu2TSgIzB24_txecj6TlarH6VGSYZgXF-qWEPQ7z2HmYOE1EfEY5dQESb_DWUm9I7U4h8eeRFKLzF4mgF7bpgzNrMIHVLpDeTH0xrvQzwef25LDXAFDh6DGMwakeqe1N_14ebR2Uvs7CQyzaE-655Bt_O4Zf5uiBbVaCoy-xgAQlJQ4AqJIJYnhCfMpkcO2sPsoX0VTmdJeQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zjKWJObBLw"&gt;
 Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to create a custom bottom bar for messaging app with recorder UI animations using SwiftUI.&#13;
 &#13;
