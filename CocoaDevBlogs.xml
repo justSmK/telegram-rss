@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-10T19:18:24+00:00</updated>
+  <updated>2026-01-10T20:25:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26...</title>
+    <published>2026-01-10T19:47:55+00:00</published>
+    <updated>2026-01-10T19:47:55+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25698</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25698"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 &lt;a href="https://t.co/Go5ObdT91T" target="_blank" rel="noopener"&gt;https://t.co/Go5ObdT91T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;&lt;img src="https://cdn4.telesco.pe/file/taorNS2OUmNdpqZE48GR3G4LGVE76xTvQMjjGC0On05Jx7L02qVrvhrux4AeRFwUZLE2TDqnGZobGwlur6iuqCnX0u1UPePGOHnocOVKdALEPFjT7-1-fkPEhzdzojQF1zP_AsobKyTSiNGP_UGhPjcf3lJusKNufv_NGCKDSq2QeR7JQ8rTRW4kTzGFjQc3IOHeg2P0elNJ2X5kKBBfPoBe3j36jH-QM6zCe7buY4vCMXjZ_fRIOycw598jYARalE3Ei4A7IOIDKQpGC_tFYnJ5zXJXD1Km545JM89W9X-RbPG8_1fQtfq-oBZj3AzOafTYioQXDGIFpcUXDmLscQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;
+Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’m going to teach how to recreate the iOS calendar App’s Complex Infinite ScrollView interaction using SwiftUI | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI Infinite Calendar ScrollView…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : steipete/Peekaboo https://t.co/zPPPZVvjjv</title>
     <published>2026-01-10T02:12:11+00:00</published>
@@ -239,17 +252,5 @@ Complex UI Animations | KeyFrames | Microinteractions | SwiftUI | Xcode 26 - You
 In this video, I’ll demonstrate how to create a custom bottom bar for messaging app with recorder UI animations using SwiftUI.&#13;
 &#13;
 SwiftUI Microinteractions | SwiftUI Complex UI | SwiftUI Complex Animations | SwiftUI Animated Bottom Bar | SwiftUI…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Eternal Storms : ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in...</title>
-    <published>2026-01-07T09:47:49+00:00</published>
-    <updated>2026-01-07T09:47:49+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25678</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25678"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Eternal Storms : ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in version 2.3.4 &lt;a href="https://t.co/aloyXIyWS8" target="_blank" rel="noopener"&gt;https://t.co/aloyXIyWS8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/aloyXIyWS8"&gt;&lt;img src="https://cdn4.telesco.pe/file/gIoQpzPiP6Q5y7segni3O3kfiaoBVG-ZfQIZRygKHR5qcdXG6jJSBbDZARpXm9GAEgogsBD5ksaCNWqM8dmddCJmbYB2j2MO66-EGrLeMGoCJdyMBox1Jd6Gk1KTIqnp0_eowozbj4CD8fT8a2eHkX9sZLrZMKF1lReYeYvYOhIJ5Ni7DdmidSitrM55mUS8fPa3aLE4oOkikT01zGFaZojnvytIzLCF83v11RFfkQdUrW8OXLjND4slH32gLvJ83fOWGVEBrZuVmW4Pqn3adhcZQ_QKIFWVKLBjebMg90VgQgymWaxIP7UO6OsfqehMd9drTq0g82SEBUzMqlKFKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/aloyXIyWS8"&gt;
-ScreenFloat – your Mac’s Screen Capture Power Tool – is now available in version 2.3.4 - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This blog has moved. You can find the blog post here. – Matthias | contact &amp;amp; connect&lt;/blockquote&gt;</content>
   </entry>
 </feed>
