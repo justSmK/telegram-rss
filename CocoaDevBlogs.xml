@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UM_coqIH3gf_BVp0p52McVwfrQwlSP7COChRSpazeCfj4ou15-u2GzrUO1S0aLzEX6QOFaB9cmS1Hi_vbXeWr6fe0E4Sx6zxVae9X-ykeyXbaNv43ilrWo9AGrGNe2HWRfXQMuQ7WWgGEYb4xKgKpXpKaiIRsWFNzikHpNeDYfDZp5hpDlWLlFWGRR5CekktKya0RE-Hmdw6Opp-nWbV7AjnS3Og4ku4iV4vDVg-1aKdHGL5rdwS6ly9LSTIEI1vhIbcgNCaBv9Bv8k-P2MmmQ4jAI0axDboFU32UYJ3eVzwmacaNWj_CKE4s-0Unx9MgMt8GAJxawppaCl3CUqyqA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-10T13:31:09+00:00</updated>
+  <updated>2026-01-10T14:21:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -90,7 +90,7 @@ GitHub - google/GoogleSignIn-iOS: Enables iOS and macOS apps to sign in with Goo
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding gesture hierarchy &lt;a href="https://t.co/r4pU6wLbi4" target="_blank" rel="noopener"&gt;https://t.co/r4pU6wLbi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/BQ_q_Vblz1T0x7gydtok4ZOVr0FGL3XaAAB3oetxq3brafMTR5Krjk2g9NHuGYPchH58zlXWCL5jnlFsOh1qjHko-0uZj0DxGb6Nne1YKSNjxdX6ULArw6jWq89iCm5apcxOPpnv2RNHYf4pmTnamCoOACgDauGwLA1hLH3-EV4zVMjd7vppTZ9FnfIKWXp9-Yu1U_YljsHeurl2HOTeRPVVquw5DEgqIYTKZ6Lbf4UVtGHThZUneCx6rN89zk7pxFcFLLHb_i_8a9wdjmCH83QCAfNRxWt2MGB8A0v596F9wlh3Ys0n22NbjOQBexFGG0EeKrFDMMjAnuDdOwgc_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding gesture hierarchy &lt;a href="https://t.co/r4pU6wLbi4" target="_blank" rel="noopener"&gt;https://t.co/r4pU6wLbi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/EvsV9u6G3nm9g7WkVOHDHZ9SRjJiG0aaLn5ZZ0vlU3PG4VUO-xbuTsstxIgZv4kc5pbCTB8Ju3xqSDcIqhUatzDNAfbdFDBlLl_TGCUQXX7bXOKC5rwypymq9J4_RcJzitupBfcvpd6PC3ZWPgBIQqKioNdlP9pRI3-eI2ZO1P2oZREAjc76mVoiFd3tr_6jurpivMplpkbI6V95ht7rv34DrTs3wYsQchiiJbLgDdpr0SX6aAR6Fj8WPABMtohPBUTeAX17tj3rA79kGpfr8D4Hmf203mXChF3fzjDdtQAl75Ii2rc9z7gUsm2jqBxEaHAgpo4rAArXbNLyMXhqSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;
 Understanding gesture hierarchy - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to set up the hierarchy of gestures in views and subviews within a SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -162,7 +162,7 @@ GitHub - datatheorem/TrustKit: Easy SSL pinning validation and reporting for iOS
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/o-m-0VwuPF-RyXBDaiRnqU75wGj1l6bfTe_V6vTZY0FzhuIuRcB6qzRJGDuIRKdKvP1TFRx-t9ZlF_0k4wcjPFET8tuyks2jHfReZ4SItyG1cUanFUlt53y7BtBDaSDhWAfup7umEXhJYUFlr3d-vWG0syyuvD5XB77Mgv9UZKWMwvyDazun1zf1Q5RbuyUXTND2SfaVPwpPSHYPWSlwYcfRkHMAvdVqlBC0COtiMPK4fljR0dv_38vDMDE3tQB6b4-gT1Lt-IRCTW3t5-ENrjrX7g8tYdmpEIYX1HbS-A8xb8uHmQ69ByUDBn_CK1osJQNDmkicwwct932n7uZN1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/SqXwTnBZIxJqJF8quhxY-x_bFO4SOboqhA5MG69zshVMHshWz34R2iQw7pjz9Zh0lCeSLDawEbEdcJYPv9a6OVwVvM3nAKzGpObKuZTLExqwDrNetVKm1Bm6ZIBmta4Ti4krBzwqsA8Bp4TiQmU1T6rQdbIGlffl2xT-QpDHmRV8PlfJiqCsS_Pojz-P9MdKizbfyrAqmQLmjOCCe75qHcGmgMB1U2wLaNiopVUKgp05bmEvQgwmtREyBNafQLpFkKIeEJpEVPwKg45v7MAmkw4nCMPK38xoqktM591K1EzfkgTqM4vZbI2cYAmxy7MU-nCCHuRLdbIROvBPdlbb1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
 Understanding Spring Animations in SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use spring animations to enhance the experience of your users in SwiftUI apps.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
