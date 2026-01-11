@@ -6,10 +6,34 @@
   <icon>https://cdn4.telesco.pe/file/goNJVq-2ajnsf9oMcKrWSxJLeYCSTq3ORilIEZmCFxx5EC8OiklUJmNOlKjWTkOICBIfq1NHZqvuvnUz6tUquEpPiiDbIeTlx23aiPv1i_3yuGaEaX5NHvle0pQrEUJXke6_NUCcDFGey-U8sS59snSUyjxb3kWONxuhdrXwr4s2U3OV-GKB4WaPgj8c-NkPac8lywFWMg_1J7zdLdgSuSrrArfTmOGRpa5ddwf1ktTFZKDsrkWLJ08usFICy0n1xaUFbhQLD1eek4rWaY-HtxTQX71fpfDB0mxXJOKbCQDxUTfte8K8qzg6Ty6y4kte249fQT0mNG0sv4QDyLYokA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/goNJVq-2ajnsf9oMcKrWSxJLeYCSTq3ORilIEZmCFxx5EC8OiklUJmNOlKjWTkOICBIfq1NHZqvuvnUz6tUquEpPiiDbIeTlx23aiPv1i_3yuGaEaX5NHvle0pQrEUJXke6_NUCcDFGey-U8sS59snSUyjxb3kWONxuhdrXwr4s2U3OV-GKB4WaPgj8c-NkPac8lywFWMg_1J7zdLdgSuSrrArfTmOGRpa5ddwf1ktTFZKDsrkWLJ08usFICy0n1xaUFbhQLD1eek4rWaY-HtxTQX71fpfDB0mxXJOKbCQDxUTfte8K8qzg6Ty6y4kte249fQT0mNG0sv4QDyLYokA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-11T19:18:25+00:00</updated>
+  <updated>2026-01-11T20:27:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Building Smart Tags: From Data Model to Beautiful UI https://t.co/03viyNZQP7</title>
+    <published>2026-01-11T20:22:39+00:00</published>
+    <updated>2026-01-11T20:22:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25704</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25704"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Building Smart Tags: From Data Model to Beautiful UI &lt;a href="https://t.co/03viyNZQP7" target="_blank" rel="noopener"&gt;https://t.co/03viyNZQP7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;&lt;img src="https://cdn4.telesco.pe/file/e23NwOXP3HiykHfHh73gasfXX_LS1kpkit-y-jahG3m-cZwbz4OzLqZ7QLpGkQEYL9WTiLTO8L8yqY2sJNq6lVP3VdIZk0s0NvahgAB7FuPCMheKxwQKdVJubU94uXi669ePq3-RU_FMpYg23eDsPs-dmz6b1Ico3S7_x9sime5tTvCirtQmfKjgRsS40LPuAms1QbRiB5CfqdgKk_25Rg2H4rsV9r8tWULQ9dp-ggy1BkektZ24HPpZzFduJk3hM9VvuuGLnn_lkEjNZeDtGQSc6U4w3NekUkv-95FMmbza5vKpatYP5N1RmR5HT2uy0SivTL6TZ7b6lSDXNzgB0w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;
+Building Smart Tags: From Data Model to Beautiful UI - YouTube&lt;/a&gt;&lt;br&gt;Learn how to design and implement a flexible tagging system in your app. We&amp;#39;ll explore different tag structures (flat vs. nested), build the data model, and create an intuitive UI that makes tagging effortless.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Memory management in Combine https://t.co/goF1rFGzqS</title>
+    <published>2026-01-11T20:17:41+00:00</published>
+    <updated>2026-01-11T20:17:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25703</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25703"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Memory management in Combine &lt;a href="https://t.co/goF1rFGzqS" target="_blank" rel="noopener"&gt;https://t.co/goF1rFGzqS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;&lt;img src="https://cdn4.telesco.pe/file/nB5E4pcxVVEdd4UKFkkItVYE12DmAU_kCDpyD6zPyUq18vVOwFpvJ-QpmhYDF3HO4bZO_UnadPPCiv_7fysj8ekyyFTdyhWOM7bqcrifv8Rao0ugAot0a3Tr4CizgaePeL97xJuS4qluevm8bUz4t6IgtMOtMk9AlyZpHvhCmo4LYFIgEB_HX4SYEG2goRDfLeWBUCoFMQHG_wuPmRuOn_yX9SXR-tytbY5iy4j2RGqsBooa4JVTfOES8eyiNQILceyGXipsK6o18lVo7Sqf1x1IE70SYHcqOUIToWtl_A4DD2NWY2H1jA_6TvCj082isFLCNOANK7zA-CzOVzACiA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;
+Memory management in Combine - Tanaschita&lt;/a&gt;&lt;br&gt;Combine makes asynchronous code easier to express, but it also introduces new questions around memory management. In this article, we take a closer look at how Combine manages references, where retain cycles can appear, when they turn into memory leaks and…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Sequel-Ace/Sequel-Ace https://t.co/WccnCcdDd7</title>
     <published>2026-01-11T02:17:20+00:00</published>
@@ -67,7 +91,7 @@ GitHub - mangerlahn/Latest: A small utility app for macOS that makes sure you kn
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 &lt;a href="https://t.co/Go5ObdT91T" target="_blank" rel="noopener"&gt;https://t.co/Go5ObdT91T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;&lt;img src="https://cdn4.telesco.pe/file/taorNS2OUmNdpqZE48GR3G4LGVE76xTvQMjjGC0On05Jx7L02qVrvhrux4AeRFwUZLE2TDqnGZobGwlur6iuqCnX0u1UPePGOHnocOVKdALEPFjT7-1-fkPEhzdzojQF1zP_AsobKyTSiNGP_UGhPjcf3lJusKNufv_NGCKDSq2QeR7JQ8rTRW4kTzGFjQc3IOHeg2P0elNJ2X5kKBBfPoBe3j36jH-QM6zCe7buY4vCMXjZ_fRIOycw598jYARalE3Ei4A7IOIDKQpGC_tFYnJ5zXJXD1Km545JM89W9X-RbPG8_1fQtfq-oBZj3AzOafTYioQXDGIFpcUXDmLscQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 &lt;a href="https://t.co/Go5ObdT91T" target="_blank" rel="noopener"&gt;https://t.co/Go5ObdT91T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;&lt;img src="https://cdn4.telesco.pe/file/i1nkmxNP75GLlNOOYLYN6xwqAUmaU7UXldxol2nZpD7QOIUtKsKqNDeSZlOhJMir1tuQC3z80ojRRgMl5_INJqCc2Uf0ksyQ5gPMkW75C0VqVgb1_z_iqF9HStrW6L64PeAbIAH6VsiCHeeTgAERNDoDd04nSnK700x8kLiy5G0-sda7CjEDgsFSJ3P93uzd_J6JASnXjv6Wbuh438goR9T6SAJ6LXFGtjG-tLFL3qJVnlDAWo6QpL-lrkRfM9jSchS5T556i2vtdMtaFYWQU8taWDsGOjdA4t4tuGmQluNLY3AFhJybu8O5HD3v16RS8PwhU51hon4j8c2pvG38aA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;
 Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’m going to teach how to recreate the iOS calendar App’s Complex Infinite ScrollView interaction using SwiftUI | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI Infinite Calendar ScrollView…&lt;/blockquote&gt;</content>
   </entry>
@@ -225,29 +249,5 @@ GitHub - datatheorem/TrustKit: Easy SSL pinning validation and reporting for iOS
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding Spring Animations in SwiftUI &lt;a href="https://t.co/XrpjPKJaUt" target="_blank" rel="noopener"&gt;https://t.co/XrpjPKJaUt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;&lt;img src="https://cdn4.telesco.pe/file/iAkwHV-5zDOsyc1UoTTt3SYJ4b4Z1GrKFfeqp_VtrZplRyDrbGe6s55GZBw7o3ER8y7zuih50PjtR_RHl-JscrdNetKGF3yTVdOsenOfbiFtc3t_R7tB2YqeAB89J8iNlo1mMlFQHSr-F13M99wyjjJcyptJO_PpcA-EOXbXGKW5KgHkkhi96HgqHtnsIAcJ29Vn4SFmrNuVAJw0--NnDeUL9geweAfbOIi8Yjb26pzIzCZUXnHSEeFV3n_LIznK5EGmsdFU6HqL74W0fUL_TVUh7zdqfTPAecNbls2sgphR3hg6ec29qaCU8Kil8QbBSUR50j1a9QWQvoIRnZPKBA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XrpjPKJaUt"&gt;
 Understanding Spring Animations in SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to use spring animations to enhance the experience of your users in SwiftUI apps.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : facebook/facebook-ios-sdk https://t.co/JZ18MeFFhC</title>
-    <published>2026-01-08T02:12:39+00:00</published>
-    <updated>2026-01-08T02:12:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25684</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25684"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : facebook/facebook-ios-sdk &lt;a href="https://t.co/JZ18MeFFhC" target="_blank" rel="noopener"&gt;https://t.co/JZ18MeFFhC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;&lt;img src="https://cdn4.telesco.pe/file/DCJiz4QWEQBF0iRyKEDwLkkMyDHWBy_qFL40DPuIgFrL4u3w4_5pRAlMOegVO5Auip4N_YH87IApjGBloh7QltP3MCAJLa8XH12NBFhFXmmVtO6A2B9I-olUwUG0_ZkmoBhuWH9mP-lKK3PchpKotwwpG87dSflmEawGBA1OmQ6glwsEPoXxzSquWJy7tOlJJZpNyu9uGxbtUglW2dJYnEYNZE4jBPTrcKg4mqY7ajvyXrYV3tjwz2eGsmVnNztft_s8ytNQvz6llcDJ702SERI2_ogbWitYyZ_4K-Kds6ryqIEEtpTwqPPSE3iO3BfJdHm2fFy3qYtKPIxCxSLAvw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;
-GitHub - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with your iOS &amp;amp; tvOS apps. - GitHub&lt;/a&gt;&lt;br&gt;Used to integrate the Facebook Platform with your iOS &amp;amp; tvOS apps. - facebook/facebook-ios-sdk&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : automazeio/vibeproxy https://t.co/XTrKARlRO1</title>
-    <published>2026-01-08T02:12:38+00:00</published>
-    <updated>2026-01-08T02:12:38+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25683</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25683"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : automazeio/vibeproxy &lt;a href="https://t.co/XTrKARlRO1" target="_blank" rel="noopener"&gt;https://t.co/XTrKARlRO1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XTrKARlRO1"&gt;&lt;img src="https://cdn4.telesco.pe/file/Seq7u_zdTlh7lLh5xEQMvwCO3Ot36pdMsm0AKmwhe1SufoxGG6FELpigYyklBmEiSzbEqJ4qZIso4z2D6up1UvvgrYnAwvQvrkMW26uF3n2ROksAHZd0iACZ5bTuftyc-8Zp8e6vq9C18hKue7Y8D4uXOwQOfeVUlXg6JLMwVLpvI2rsx2dszTQBpxj3QybTKCioAbk-Q6omCs5flZ_zxrXPaOl86b2aWp_jczGEWgsrAwnSb-M2qna7-4erqBsfqxTbQGP2zyxaPbTOE5kjp4-WAbc7GbQEhalkSxam62oNnqu8loIRBOngiz6Ypt4EpDGjKT-tBGEfYNcIkjtQPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XTrKARlRO1"&gt;
-GitHub - automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code &amp;amp; ChatGPT subscriptions with AI coding tools … - GitHub&lt;/a&gt;&lt;br&gt;Native macOS menu bar app to use your Claude Code &amp;amp; ChatGPT subscriptions with AI coding tools - no API keys needed - automazeio/vibeproxy&lt;/blockquote&gt;</content>
   </entry>
 </feed>
