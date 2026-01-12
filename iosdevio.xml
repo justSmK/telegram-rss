@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/qdna9AFUqZT7psliYkDUroMvfnUWf4pbK69e73vY2AEor1E6sLJaVRjfI2-OFpIYx7pukbX-NBKcJHmpSIm_Ub1JSOs9XYNtN8gow002WWOAi0HVY9YhIYH-Rp4biAnSOBvMlR3uRwUwDdIV4k-_AQ6KH8fL-lbLWhC43N--tRxX5t5FScf6JzFzFNonpH36t3sMSoU-T1ht4DRY37AM4DY6xYm8d1n_8j6iO2Q73FN5srNcvoWrYJ696RHthGysd3npizeiffBVwQvLB-O2CAS_XUhUhxJlQKWjrvKoiMAdX7W20l4YbMJ36CyMjNv4kzTYYOg4jJ3de8F-4muJyA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qdna9AFUqZT7psliYkDUroMvfnUWf4pbK69e73vY2AEor1E6sLJaVRjfI2-OFpIYx7pukbX-NBKcJHmpSIm_Ub1JSOs9XYNtN8gow002WWOAi0HVY9YhIYH-Rp4biAnSOBvMlR3uRwUwDdIV4k-_AQ6KH8fL-lbLWhC43N--tRxX5t5FScf6JzFzFNonpH36t3sMSoU-T1ht4DRY37AM4DY6xYm8d1n_8j6iO2Q73FN5srNcvoWrYJ696RHthGysd3npizeiffBVwQvLB-O2CAS_XUhUhxJlQKWjrvKoiMAdX7W20l4YbMJ36CyMjNv4kzTYYOg4jJ3de8F-4muJyA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-12T22:21:53+00:00</updated>
+  <updated>2026-01-12T23:19:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -174,7 +174,7 @@ Detecting Text Language with NLLanguageRecognizer in Swift → Livsy Code - Livs
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/tNhsSXDL5zlsiLMd7WAcWPmy0OvZLzI7UypnUcqj8EZTAkZE_ajkzSYD-ds_agNL3P9H9LzEvR8WnN7VwE6VseAdYh0fjJpMBkbz21L14NHekopGX-4YnbB2rBwlVqx4c93dEQTxwhw1-K0Sktw2-0YRyHaqVa_4t4cEwGQrMS9AfYpa_PpHK3veVPfsut5Sl8YW63UBxvhgU8rLV--LUN-uRU7rMcS51i7eW6LoZIOTxGvUPgcOBwbutzqpQT_-8gZQKiG9gz84qb-BwV_ZgR3kWS3r0G02XEPcwWf0XWN4uH-w4A-ekF4qd25WCyO3ECQcoAkVRR2KOBkTkhC7kA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/fpA1kGphYSMKKKyPu8CPkjDEp4NO9oThUzWTiJacH9OAusOZxNA6B5YVA-qIxkUIlj-035oNFoWDp_QDYGtvN3U4Uvvbye9iPfdAMHGR-utiS3iIbiweNur6vG_dbgRQv5eYPKsPIoDvQIxdKEbw4vt6D_rMgrqaug7Xb1aTy_5-KCMFr21F8QTbjXX8Pe9KLFqUUBMIrwwZz3m6VHgWFV_M0bO50o6kHp83XJRGzm-HspxBTi8aq9IJ0xhwpHydodRx-8XNCRPo6njeX1XLNCMpX2FRtR33ddt5bMaifxd-HN8ayD4FfcabMSHh2aqCVCZyJHjTuIyuycROUpIKWQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/"&gt;
 An Apple Intelligence-Style Glow Effect in SwiftUI → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; Apple’s recent design language introduces a glowing, animated stroke effect that highlights shapes and components in a subtle yet dynamic way. Let’s walk through how to recreate this effect in SwiftUI with reusable extensions. Extending…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
