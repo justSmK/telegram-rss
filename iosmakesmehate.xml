@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/o6RNjmqOiZw_ocZZXXi-sQtIfMEH-KJCqjuOgcnvqJLLKON1DcvMnFPOmGrrtFb7jPtoXp7JgGh-5G-_WvxC909h5Lryb8yZX3Vmngcv0d9-O9SJLrJVnKjXfTru_3uxMLdSNAFtK_pKy2z91qZAO3QJBbzJeffzwaVb4agadVVSz_tG12RDyCRX32jvh-Y8yhTNZiNSLZj-zHFiECOGCIZtBCwKuJ_xmEN5dia1RTqbeLZmmEZEHJlsvhfc-AirxCtMWJJHhHBj1-TziwNotdTASEP3nffr2nF9D7DPSIBUVB5Lf9wy-FW-iP5fhH-e2RZjftc9PyMQ5Dk6Q69lNQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/o6RNjmqOiZw_ocZZXXi-sQtIfMEH-KJCqjuOgcnvqJLLKON1DcvMnFPOmGrrtFb7jPtoXp7JgGh-5G-_WvxC909h5Lryb8yZX3Vmngcv0d9-O9SJLrJVnKjXfTru_3uxMLdSNAFtK_pKy2z91qZAO3QJBbzJeffzwaVb4agadVVSz_tG12RDyCRX32jvh-Y8yhTNZiNSLZj-zHFiECOGCIZtBCwKuJ_xmEN5dia1RTqbeLZmmEZEHJlsvhfc-AirxCtMWJJHhHBj1-TziwNotdTASEP3nffr2nF9D7DPSIBUVB5Lf9wy-FW-iP5fhH-e2RZjftc9PyMQ5Dk6Q69lNQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-12T10:29:28+00:00</updated>
+  <updated>2026-01-12T11:24:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Ежегодный опрос про ДОХОД. На какие условия бы вы согласились по доходу при прочих равных?</title>
+    <published>2026-01-12T11:18:22+00:00</published>
+    <updated>2026-01-12T11:18:22+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3671</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3671"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">			Ежегодный опрос про ДОХОД. На какие условия бы вы согласились по доходу при прочих равных?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Оклад немного выше рынка&lt;/li&gt;&lt;li&gt;33% - Оклад в рынке. Но с премией. Общий доход чуть выше рынка компаний без премий.&lt;/li&gt;&lt;li&gt;31% - Оклад чуть ниже рынка. Но высокие премии. Общий доход значительно выше рынка.&lt;/li&gt;&lt;li&gt;33% - Зарплата в рынке, но меньше напряга.&lt;/li&gt;&lt;li&gt;6% - Зарплата ниже рынка, но полный чилл.&lt;/li&gt;&lt;li&gt;23% - Оклад и акции.&lt;/li&gt;&lt;li&gt;5% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title type="html">AI-скиллы для Swift Councurrency&#13;
 &#13;
@@ -273,19 +284,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     </author>
     <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/iosgr/4573"&gt;&lt;span dir="auto"&gt;iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT&lt;/span&gt;&lt;/a&gt;&amp;nbsp;(&lt;span class="tgme_widget_message_forwarded_from_author" dir="auto"&gt;Egor Tolstoy&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Закапываем SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Перед Новым годом в Твиттере обострились тейки про то, что команда SwiftUI проигрывает в политической борьбе внутри Apple. &lt;a href="https://x.com/sebjvidal/status/2006043401502838935?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Откуда&lt;/a&gt; это мнение берется:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;На WWDC этого года SwiftUI пушился меньше, чем раньше, плюс больше сессий показывали примеры на UIKit&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;В одном из главных SwiftUI приложений, &lt;a href="http://Photos.app/" target="_blank" rel="noopener"&gt;Photos.app&lt;/a&gt;, в iOS 26 часть кода и инфры переписали обратно на UIKit&lt;br/&gt;&lt;br/&gt;В статье по ссылке накидывается еще больше аргументов за то, что UIKit в 2026 стал достаточно хорошим выбором, а SwiftUI становится все хуже.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died"&gt;&lt;img src="https://cdn4.telesco.pe/file/oR-t-9hP5yW6aU_dh-GsSwG4BnujeRJ0ITmsj0tYHiUyLcTq846hlM7gQW4Z-g41B_-QmpSBtwqBxGLFtPal8Cg4qkB-0XBWUqiSbK2S7nbQTIJGaQhPuNsPx5bBNzsbSdp3piATA1q3NFJ86C5F6m9MZFfOFEr3y-11QsFznN8xA9-ZodzVOCDtsnQaS6sHBvclEKjcVytJnH4g524Qq5XrW4JFIevopLHgZwvkqQMFCZhuuqL59uxjFSvPnLjd9VygtZ6e2LLPabX_cBKHwboDuRuRwG5Y_2IUxQoNuqKbArchs6I3_2TX89qdqA73Oanf2GcGvoVWn9o4YI0vWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.jacobstechtavern.com/p/the-year-swiftui-died"&gt;
 2025: The year SwiftUI died - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Rediscovering my love for the Classic UIKit Stack™&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Самый важный урок - это надо покупать айфоны</title>
-    <published>2026-01-04T11:18:00+00:00</published>
-    <updated>2026-01-04T11:18:00+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3650</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3650"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/OAecXSXkzudb0Q5K97R5Ii55EP2xGYrMcdmSYz9iG8wMkcJovXr-7sZ3XVJ1dEMtaj8LjOLLaQrAv-LipN4vwlXwU1rrT_JGbBwZCT-WpDfco8VZ1hIR96jNoZDQwxOAfH7N_MsB9OU-oUel5EiIT9T0DSbnPA6Cl6QJKsR4iAQrxWc2qflQOFQCo_uRUOzsc4jtBAtkhcmDYNXJYcVqZ29p0WRArGQx8uVq16drgCC3yffrY-67gPlQE1Jaz-lQXz-ljQgRhbY8vJDppbXKrST7vl_A30wu6PuP0xAt1Vorss-RoLNT7YX2BYYl0p1ZWaNAq7DNu0lB24Jr4cHC-w" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/a4b94da590.mp4?token=qIyoaBh1BnhM7v4VPRVrlkjTGGIbw37wyMwcD1Kjnz-EV2g4dCtr8cWF5Np_LzDJXKJWHzPLReKzmebM82SVGcUm4l14cGMzuI7oZrMsjD9VlOA1P3v1_RREoLxQ6Px9XVyZCX4qg8SRL_Vn0L767cfMEDqHNY9w5j_oxgoZUQzL0qkZOe5-Mzu3DAPpAgzp_V7-dP6KkAg4hLpSTiWfPSI1gOo6o_VMkFMuuHvKQ1KcaaAis-vXwErvOHpLPv-xlrhEofRUEggeQUGkyHidz8ltZFjghSLCfpltY8sJ_OaU3bVMCXsLc-q5AhNKC25M-srGuRokZLOVpT4DLEQ0YQ" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Самый важный урок - это надо покупать айфоны&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/OAecXSXkzudb0Q5K97R5Ii55EP2xGYrMcdmSYz9iG8wMkcJovXr-7sZ3XVJ1dEMtaj8LjOLLaQrAv-LipN4vwlXwU1rrT_JGbBwZCT-WpDfco8VZ1hIR96jNoZDQwxOAfH7N_MsB9OU-oUel5EiIT9T0DSbnPA6Cl6QJKsR4iAQrxWc2qflQOFQCo_uRUOzsc4jtBAtkhcmDYNXJYcVqZ29p0WRArGQx8uVq16drgCC3yffrY-67gPlQE1Jaz-lQXz-ljQgRhbY8vJDppbXKrST7vl_A30wu6PuP0xAt1Vorss-RoLNT7YX2BYYl0p1ZWaNAq7DNu0lB24Jr4cHC-w"/>
   </entry>
 </feed>
