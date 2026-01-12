@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-12T15:29:24+00:00</updated>
+  <updated>2026-01-12T16:31:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to design an SDK to handle &amp;#036;10bn in transactions https://t.co/YMWhBiEPCX</title>
+    <published>2026-01-12T16:12:14+00:00</published>
+    <updated>2026-01-12T16:12:14+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25708</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25708"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to design an SDK to handle &amp;#036;10bn in transactions &lt;a href="https://t.co/YMWhBiEPCX" target="_blank" rel="noopener"&gt;https://t.co/YMWhBiEPCX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;&lt;img src="https://cdn4.telesco.pe/file/PfMhjgdo_5PDH-EuokuE43gLi6d7XGKFlE1lUbv7yOJtqRUvIe2bnr8ILY0BYnC_0iA-kDgD0o6kFcLfrdW4dYGn21OwMKqp4rkbHCqv7YoIAHUmcziDwbzLaGlii91H_KpyXuvT6lWLoJmzQ8YTxd4R3gIvUW8HpJO5mstf5oMFtpI_Q4fS5pJjK1KnJ7SChBLjIGlWu1i8Y9u5fgIY5MHXWJgjhaQvs6IrdMPtJE_3QiIL_XySPgCeD6yN2r5_7u1Q00KID9r7i2YgeQqSw_9BklTV1IFOZNCnZ2hUmnhe9TEaCqvXjkkxNc8l1imGgzghXZOQO1l50lsaBOQOyg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;
+How to design an SDK to handle &amp;#036;10bn in transactions - Jacobstechtavern&lt;/a&gt;&lt;br&gt;A deep-dive into SDK design (feat. RevenueCat)&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Agent Skills explained: Replacing https://t.co/kWWTFS135D with reusable AI knowledge...</title>
     <published>2026-01-12T09:17:37+00:00</published>
@@ -237,17 +249,5 @@ GitHub - swiftlang/sourcekit-lsp: Language Server Protocol implementation for Sw
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : linearmouse/linearmouse &lt;a href="https://t.co/UCKBMofR76" target="_blank" rel="noopener"&gt;https://t.co/UCKBMofR76&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UCKBMofR76"&gt;&lt;img src="https://cdn4.telesco.pe/file/tlbFTpRrG8j624GINKwdFhjaYkcjkSYmBr9MDVO3ti8A47hB88_dnznl8yzOrZUZtoc2JyNca8-O_h1DRQmE4h4W9z6WS-SJr3KvJMnFQzQld7zpi-G0zeXQeF5HvXeGfdhE8wF_nm4cdTaYV5lQqfx-UPSg9qOPm8hFS4hSWNW2euDoB9xOlXY-aAeylCPqP-qYoMdQS27u7aZD3ASwjlhGDP2_8X2KBFYSMY3MBfuckKteufxnsOi4r7e0JFqPwXkcIsbjIooGO_dxJQqs587GiKBplN0EK0esrE-OZ59Qaa_CKrFHZL8Fks6O7kfkUhkADJyCkhshFc3Ep-myPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UCKBMofR76"&gt;
 GitHub - linearmouse/linearmouse: The mouse and trackpad utility for Mac. - GitHub&lt;/a&gt;&lt;br&gt;The mouse and trackpad utility for Mac. Contribute to linearmouse/linearmouse development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : syncthing/syncthing-macos https://t.co/xpP2dqrpqn</title>
-    <published>2026-01-09T02:07:29+00:00</published>
-    <updated>2026-01-09T02:07:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25688</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25688"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : syncthing/syncthing-macos &lt;a href="https://t.co/xpP2dqrpqn" target="_blank" rel="noopener"&gt;https://t.co/xpP2dqrpqn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;&lt;img src="https://cdn4.telesco.pe/file/oxZsvi85yhc7Z9uQLvE-DxRTfMLAUxLcXb0gJYr6WEg81UbdrupETna21oFvNpbLCRSxp9yOrLw2e74Jn93mQUpvjEM2_q_SBw-WaIZfD-1tpvx0aIuGvVewpBqJb8C69QDm4C1BOlHPOjQgCzfZiXBbUDYJGD3Hf3jCYHVxEUss6tJbLdQhzZqLz8DggmU2btit8YCuvablgnE6BW-dFQiNvnIWoHFGrbVSYvlpnbb0rs0ewpY0TIava9ixPgU5zxeXk-x5kaFxIBiE8j8kpftaL5Tkeltr0Q_GaOpyOxLm50HOVkYpdUgysG56gXMZ1BOhUFEWSXPv07ufPuUtLg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;
-GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing application bundle - GitHub&lt;/a&gt;&lt;br&gt;Official frugal and native macOS Syncthing application bundle - syncthing/syncthing-macos&lt;/blockquote&gt;</content>
   </entry>
 </feed>
