@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/goNJVq-2ajnsf9oMcKrWSxJLeYCSTq3ORilIEZmCFxx5EC8OiklUJmNOlKjWTkOICBIfq1NHZqvuvnUz6tUquEpPiiDbIeTlx23aiPv1i_3yuGaEaX5NHvle0pQrEUJXke6_NUCcDFGey-U8sS59snSUyjxb3kWONxuhdrXwr4s2U3OV-GKB4WaPgj8c-NkPac8lywFWMg_1J7zdLdgSuSrrArfTmOGRpa5ddwf1ktTFZKDsrkWLJ08usFICy0n1xaUFbhQLD1eek4rWaY-HtxTQX71fpfDB0mxXJOKbCQDxUTfte8K8qzg6Ty6y4kte249fQT0mNG0sv4QDyLYokA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/goNJVq-2ajnsf9oMcKrWSxJLeYCSTq3ORilIEZmCFxx5EC8OiklUJmNOlKjWTkOICBIfq1NHZqvuvnUz6tUquEpPiiDbIeTlx23aiPv1i_3yuGaEaX5NHvle0pQrEUJXke6_NUCcDFGey-U8sS59snSUyjxb3kWONxuhdrXwr4s2U3OV-GKB4WaPgj8c-NkPac8lywFWMg_1J7zdLdgSuSrrArfTmOGRpa5ddwf1ktTFZKDsrkWLJ08usFICy0n1xaUFbhQLD1eek4rWaY-HtxTQX71fpfDB0mxXJOKbCQDxUTfte8K8qzg6Ty6y4kte249fQT0mNG0sv4QDyLYokA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-12T08:36:57+00:00</updated>
+  <updated>2026-01-12T09:36:09+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Agent Skills explained: Replacing https://t.co/kWWTFS135D with reusable AI knowledge...</title>
+    <published>2026-01-12T09:17:37+00:00</published>
+    <updated>2026-01-12T09:17:37+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25707</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25707"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agent Skills explained: Replacing &lt;a href="https://t.co/kWWTFS135D" target="_blank" rel="noopener"&gt;https://t.co/kWWTFS135D&lt;/a&gt; with reusable AI knowledge &lt;a href="https://t.co/L1LasX7WhK" target="_blank" rel="noopener"&gt;https://t.co/L1LasX7WhK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;&lt;img src="https://cdn4.telesco.pe/file/UcpPWr1-CNa4DXzXwGlOgKFgiC2ja1gp1rWGsL-BVhFLwrwL9EyHXuRWIieUVcDsfFdhwQ4H_b-XCYNWm5bPRHokRiULcpkIyJsqsYYel8l0uPSCNtiVZZBmPsOKernPQWT5RnFTIjdHKsPY2TKUNYsJTutP43SpgOf4G27ulMS85Z0q94i0jeVacYn1VJ2ik4fQbS5rl_2iClk6g7K6dnlGxejwjuHBVByejRZ5I4naymzcxzlwVasLi8-2SLXkHHFWzOg7yuKfHVpQ2f1TC2jWxYY9E-fRX1v_brScRO2pYXurdS3IDTgPGG7K9vJWV15vt041tqDDNYcSYHHZHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;
+ - agents.md&lt;/a&gt;&lt;br&gt;AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : vapor/vapor https://t.co/7T8JnbUQaR</title>
     <published>2026-01-12T02:12:44+00:00</published>
@@ -237,17 +249,5 @@ GitHub - linearmouse/linearmouse: The mouse and trackpad utility for Mac. - GitH
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : syncthing/syncthing-macos &lt;a href="https://t.co/xpP2dqrpqn" target="_blank" rel="noopener"&gt;https://t.co/xpP2dqrpqn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;&lt;img src="https://cdn4.telesco.pe/file/oxZsvi85yhc7Z9uQLvE-DxRTfMLAUxLcXb0gJYr6WEg81UbdrupETna21oFvNpbLCRSxp9yOrLw2e74Jn93mQUpvjEM2_q_SBw-WaIZfD-1tpvx0aIuGvVewpBqJb8C69QDm4C1BOlHPOjQgCzfZiXBbUDYJGD3Hf3jCYHVxEUss6tJbLdQhzZqLz8DggmU2btit8YCuvablgnE6BW-dFQiNvnIWoHFGrbVSYvlpnbb0rs0ewpY0TIava9ixPgU5zxeXk-x5kaFxIBiE8j8kpftaL5Tkeltr0Q_GaOpyOxLm50HOVkYpdUgysG56gXMZ1BOhUFEWSXPv07ufPuUtLg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;
 GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing application bundle - GitHub&lt;/a&gt;&lt;br&gt;Official frugal and native macOS Syncthing application bundle - syncthing/syncthing-macos&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : git-up/GitUp https://t.co/nlWbUsftiV</title>
-    <published>2026-01-09T02:07:28+00:00</published>
-    <updated>2026-01-09T02:07:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25687</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25687"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : git-up/GitUp &lt;a href="https://t.co/nlWbUsftiV" target="_blank" rel="noopener"&gt;https://t.co/nlWbUsftiV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/nlWbUsftiV"&gt;&lt;img src="https://cdn4.telesco.pe/file/sqR3Gx7GrpNjBfo4_ku1rPBTYBLpuAorV2Ih4k5AFz8CIusiu0kF8EmDgCFjev8KONYjqbhM99Jqh1yMZsy7Smhxt3Mf4I3VbcFuiQ6z3AAGqd6duYyPRYX3agI8WrkrRlI-4BJVZcggI5X71zgoHdCBWF-vknE1Jubrl3hWvigFkrYs9uGd5Vm1pWKirM2pXWrRZ9UyoQRFdsBEDXWmUTi2f-VcaUEfDladWI107ELIHkvvv-ng1YhZcGXQRLo5NxXkY58ps0eGDb1N8xHD6RF2B8Y1pJsv7L5kyJP5fK2sK4BC_HQbwayaa214a7F4OugCAm-cm4j7hC1t6255AA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/nlWbUsftiV"&gt;
-GitHub - git-up/GitUp: The Git interface you&amp;#39;ve been missing all your life has finally arrived. - GitHub&lt;/a&gt;&lt;br&gt;The Git interface you&amp;#39;ve been missing all your life has finally arrived. - git-up/GitUp&lt;/blockquote&gt;</content>
   </entry>
 </feed>
