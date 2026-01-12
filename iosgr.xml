@@ -6,10 +6,37 @@
   <icon>https://cdn4.telesco.pe/file/NNkosXE6WjCDgdVd-s0YF1vq6c88XVptHXtXRH8Hd-7VoMcxwKZ3xT9yRmtXvn5YOivkBHXleqPx--LBR-RlVaDl_xabCEAeK-YLKZH9Fua1OII5Lhp0zVpBJWbc2wsfGQJWrM8mWl8JpjcJpCbwWhWXfKEa7Orjktkc6M-bpZn1B0VpJSM2m_L1ELTC3vMCOqyg3wc9DAdCrfIXOlwzOOLnr6k9LQLWAVyLgArSo6LFaYSvKgW2tyIo-cJqQ8F90PqLrBjlgGEWyd_-tJ1GhaquVE5FeuaP7ITwq5JfXJDi5rOBko-X6TnLPJOMXQ8mQnU_PwiXYdoTzCoHW_KZ7g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NNkosXE6WjCDgdVd-s0YF1vq6c88XVptHXtXRH8Hd-7VoMcxwKZ3xT9yRmtXvn5YOivkBHXleqPx--LBR-RlVaDl_xabCEAeK-YLKZH9Fua1OII5Lhp0zVpBJWbc2wsfGQJWrM8mWl8JpjcJpCbwWhWXfKEa7Orjktkc6M-bpZn1B0VpJSM2m_L1ELTC3vMCOqyg3wc9DAdCrfIXOlwzOOLnr6k9LQLWAVyLgArSo6LFaYSvKgW2tyIo-cJqQ8F90PqLrBjlgGEWyd_-tJ1GhaquVE5FeuaP7ITwq5JfXJDi5rOBko-X6TnLPJOMXQ8mQnU_PwiXYdoTzCoHW_KZ7g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-12T05:32:47+00:00</updated>
+  <updated>2026-01-12T06:41:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS скиллы для AI агентов&#13;
+&#13;
+Буквально пару месяцев назад...</title>
+    <published>2026-01-12T06:01:52+00:00</published>
+    <updated>2026-01-12T06:01:52+00:00</updated>
+    <id>https://t.me/iosgr/4579</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4579"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Dimillian/Skills" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS скиллы для AI агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Буквально пару месяцев назад у AI агентов появилась новая фича – скиллы. Это набор из промптов, скриптов и тулов, которые помогают агенту лучше справляться со специализированными задачами, и подгружаются лениво.&lt;br/&gt;&lt;br/&gt;Так вот, держите набор скиллов для iOS разработки – разработка красивого и производительного кода на SwiftUI, публикация приложений и много чего еще.&lt;br/&gt;&lt;br/&gt;Отдельно держите &lt;a href="https://github.com/AvdLee/Swift-Concurrency-Agent-Skill" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылку&lt;/a&gt; на скилл для работы со Swift Concurrency&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;&lt;img src="https://cdn4.telesco.pe/file/IsNPiZ45eItQ1rFt0S1KtfIyd0vCIbgAICwnBSwys4v8INJxy9U9QOCoo1Z27cfy5indv5NXjYU9YwS8kipQhbX5S3nIXLTjtxvZqltfsD8p052kOhzJTMfiLhV4rU_Hp60fozeteWxuvpmnAu6q7_aE41yVHPGcuOUOwjct2W58Tm-hXTAoEmKjxdZUz_l8fSvuLRWvmYo4VBTspmdGXlhVpU7uH27_op5x8mZNN0vMk4p30uMgEhKjexW2a6qJ-7UBsbKEBY8WskWrhZjiIiFmX2ceGVWQe_z7bqO0FpqCjq6y0Z1pBPNLMkiCoU-cS01b5PK1F-obQBAPbL-wAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;
+GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex Skills. Contribute to Dimillian/Skills development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Что не так с иконками в macOS&#13;
+&#13;
+В macOS Tahoe дизайнеры Apple...</title>
+    <published>2026-01-12T06:01:52+00:00</published>
+    <updated>2026-01-12T06:01:52+00:00</updated>
+    <id>https://t.me/iosgr/4578</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4578"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/El3Oep3PFuGz4PrMyf--IkdJ_5y12JOPrQMk48oX6fRUsbq1KHpLay1NVWdsgewi4Z_U2LD2M8DHahstagiMalIRjCD9Fv8CWNV-ihSDXCOsHbCL1IsBRHiFrp3j-grK9xNQL7oIK5mA0TwHe1dVpM40dPJE-SCS7PzyjxAbxk00ueT_1CGkXuM3o9vZL3rRulkx-72cf7ONvVVRn-XFHjrl3wQ3KxvMhWpsYUZGViwf5rpjiE4c1GCnxtTVN0dR3RT_Adto2cEiDUDxNKP_Y839qBS-MdZvkWPLrFf5iCOu22zfp7AYJH3U82tJCniTBFKTY95LTjjMN7dj08RKtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Учимся работать с пакетом swift-subprocess&#13;
 &#13;
@@ -272,30 +299,5 @@ swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-ev
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/OUzvmstLDyKu2c4kVG9axAXeciK647MTKjm9XdmMtgt8aTNyKWq3IwVS8vJTTDEZbIxDDOhJ6k4YXZa5sMKb6rSgPtl2_nI9w91RhGYW5TpVDsFr7i1osglC-t7Lx5CFE7PYYKifP69VMwOOMV1HRL23Z5k4kxC3ugusVYcQTTeARkbIORjl2FAIymV0kvcMVpb6NJERqbA7lVfsQBbFwjdQ_dvULCNZstixLa2rITtNS9e9uMxgM7Q1RtNNwg_kdfXajPhBujmzDSqpK5eDfxYVpb649w5uwJ33AXgqiaFpeL1SFK-BnnDv6FKjLeE7w9l1yk5VaKgb4ymEAFxS5w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
 Initializing @Observable classes within the SwiftUI hierarchy - Nil Coalescing&lt;/a&gt;&lt;br&gt;Learn the recommended ways to initialize and store @Observable classes in SwiftUI views, and see what can go wrong when observable state is managed incorrectly.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Почему уведомления на macOS отображаются вверх...</title>
-    <published>2025-12-18T06:03:31+00:00</published>
-    <updated>2025-12-18T06:03:31+00:00</updated>
-    <id>https://t.me/iosgr/4559</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4559"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4559"&gt;&lt;img src="https://cdn4.telesco.pe/file/aAo6wXgNcnwAVS4eYWME1m5WuQMeki4Y_kzVc8wPgU4WhZRdJA5jLhIjU2yhqj-HqDS05MkF2YAC-mDrTtwer9o88JSNJFCmM79_m6tJPEZ4OBEPs2lb_sI0YJHUwWyx-kxJvD2bQfaO8Zz68g6_PizX3Lu2agMk2H9FcYiOV8rrq2UI7IRpUk_MZkJ-qEVli89fn9lB-FojRay6W0PdZB2WWdh3S8pW74HGVSS5IfE9re603C0koxiklwvbgR953zwBxP9rKbCvzIteeKT6SDHfrOPGscELZljLKawNjhS99sOyEnwvJDE1O7CcMcJgfcmdz48-bkVKKIWEJEtQZA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/debugging-strange-calayers-chatgpt#x" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему уведомления на macOS отображаются вверх ногами&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Отличное исследование случайно воспроизводящегося бага, при котором уведомления от macOS приложения ChatGPT отображались вверх ногами, по ходу которого вы узнаете много интересных особенностей CoreAnimation.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SQLiteData – тур по библиотеке&#13;
-&#13;
-Pointfree выпустили бесплатный...</title>
-    <published>2025-12-17T06:05:00+00:00</published>
-    <updated>2025-12-17T06:05:00+00:00</updated>
-    <id>https://t.me/iosgr/4558</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4558"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SQLiteData – тур по библиотеке&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Pointfree выпустили бесплатный урок по основам работы со своей библиотекой &lt;a href="https://github.com/pointfreeco/sqlite-data" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;SQLiteData&lt;/a&gt; – API-совместимой заменой SwiftData, под капотом которой, как можно догадаться по названию, наш любимый SQLite.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;&lt;img src="https://cdn4.telesco.pe/file/mRfE3fMRno0cIWplf1LBbviu2djvQ1NcLbMpmwqPkuu5MvUWvAsm79X_C2jyL0CQERBFu0APR6rar5wm0y4RnOfwq-yh5poKtfCZ8WY-TI_sSPyiI8LR6F7Uth3FLuaNWk3HIRDnT4aNjpgkA__CCOxbvIj1yWxQ5OIaUQCgo1XMToyJCKNBjQsvBNLpvBt8EkJltuENdAxQTxzpYxaZ47g1T8i-w3DGmfptNEvyMLlEz-XikupRu1STJzrZtHuJxXk-F2ZhHo9qPoebhFWKL492BaJZmR6TOlTWF2kEPwYsLzENdxHsnE5Tkclf7FmaVAIUaNYJuuonh0zvGkVn4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.pointfree.co/episodes/ep347-tour-of-sqlitedata-basics"&gt;
-Episode #347: Tour of SQLiteData: Basics - www.pointfree.co&lt;/a&gt;&lt;br&gt;We give a tour of our SQLiteData library, a fast and lightweight alternative to SwiftData. We’ll set up a fresh project with the package, define models and configure the database, and even write SQL migrations with the help of Xcode’s Coding Assistant.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
