@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-12T12:54:21+00:00</updated>
+  <updated>2026-01-12T13:44:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -211,7 +211,7 @@ GitHub - google/GoogleSignIn-iOS: Enables iOS and macOS apps to sign in with Goo
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding gesture hierarchy &lt;a href="https://t.co/r4pU6wLbi4" target="_blank" rel="noopener"&gt;https://t.co/r4pU6wLbi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/B0Wv7TQ6e20udQb2h4LLfNYildy_F_Ha7gEqV2edIuWMbhPGIrZgaD_6Itj3yZsggArJMmN_-NeDTXzmhGIAm2OTbcCDirPbb0FsCcy9YrxJqaP_MDsAdVuiMfVtAS-B-joHt8tNd7EEALl83yA6ZmftQ5JiVoDmj7_EScO2k9aFmDLRMTp4GUnMfBKqf9BcAhd1ISUp_BfUIRP3zdD1ULRWb_hTHbF0ZnpTUo4RgAfL1JFgWrtbGBGOHNG0Ki8LZ0TfezPyMhcx3NH_D3s42ZNuPxGjk2Z2yQvMCc7yAcRAxjgd9zwU8bzirjwvgEq0kiNwKbBSd-RHvObxi134Ag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Understanding gesture hierarchy &lt;a href="https://t.co/r4pU6wLbi4" target="_blank" rel="noopener"&gt;https://t.co/r4pU6wLbi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/kapYHImwP_L6FsMo0cjBpfZwj-z7Ey9FAnF5QUKUqido0n5hPGdOu3KwPo5pz6SgTXicXY7888G_eCkbTDXQkxeeW-AIZgugJDA9Y7baKsymvagYeDnp0onUhewo4XpD-9DWx4-D2UZyfs0Uq3v7BRwUu5UUyW0sRe0_5-bYmOsqy4opTbl48WKcVz8E68IQqdemfBjXuOJ_ABip5Trl0FnrRxHT33namvAOEoir9idH87S1_wC8BmBtaDi-uiNkUwsc598hfNP6pZfPiB7Qx42D8wx3-vcqMDC9LnreKFyIwxGLXVozmb5ZjGOoTdO0bPRMllxr5N2rv1D2dtm5Sg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/r4pU6wLbi4"&gt;
 Understanding gesture hierarchy - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to set up the hierarchy of gestures in views and subviews within a SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
