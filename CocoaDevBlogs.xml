@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-13T13:44:09+00:00</updated>
+  <updated>2026-01-13T14:29:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Creating reminder lists with EventKit from your app https://t.co/XUaBsPlwCY</title>
+    <published>2026-01-13T14:07:25+00:00</published>
+    <updated>2026-01-13T14:07:25+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25718</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25718"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating reminder lists with EventKit from your app &lt;a href="https://t.co/XUaBsPlwCY" target="_blank" rel="noopener"&gt;https://t.co/XUaBsPlwCY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;&lt;img src="https://cdn4.telesco.pe/file/cUyVVdto9Wx4G8apavGpTpuWNQi3pnRX6nuQzkVrJLQYgPXILKCVRWxtKnLH-M-Dz3n624FVWo-_d7ykRziOS-uFKOAg7FS1Few7eHv78HYzD6Sl_zOz7dWuOmEbLnhhQrt7hi-PyMTUzTVYuLfSgMRt9UfNmMe4kHU4z5aqd44PxZ04fKikt03iW_kTdqaJBSRX_jXISsAJkyqO-_ea_A0fMKgwIlJdkq25Ww0uZWcAwkd4Za57MxnHMEoM1_G_bO6RM3gUW-HhXWuaqhcFnZ8pJ0VdfAuxznTqxYnKDlsAKpsVcXriCHu3FMWzj7ItN6M_64xotC8dfCz4L6Hk2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;
+Creating reminder lists with EventKit from your app - Create with Swift&lt;/a&gt;&lt;br&gt;Create new calendars in EventKit to organize reminders or events under custom lists&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Defining custom string interpolation behavior in Swift https://t.co/8zTI1ZRA2v</title>
     <published>2026-01-13T05:57:40+00:00</published>
@@ -237,18 +249,5 @@ GitHub - CocoaLumberjack/CocoaLumberjack: A fast &amp;amp; simple, yet powerful 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mangerlahn/Latest &lt;a href="https://t.co/9pFVz3ygtZ" target="_blank" rel="noopener"&gt;https://t.co/9pFVz3ygtZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9pFVz3ygtZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/LYqGr7_2DKrgAO9XVKNMAximEIDwH68jRNJqrWCRcVD6f0tFJbz5MEUyFCCs7uvejL0N5_ZAmJ7H1E366TBmdWw1BZdoh5ESDhNNbT-FNgmwlH0JmDpjcrctY2vg6AZyGs4unLr2OHWsDfTErivul9_7JEiMPoKZ5Xywkpan62xSDcqRHfXJZG_FWMiZTAH5RceoAcY7tIOMgZV-_Wu7Lw0lKQ0sLNJYa3fZ_3x8Wm6eoL4iB0_Jghft2RWhaNydIubxC9cCpnJxdP_-LAbP3uBJBKd27oo3GYcJhCQcqF7fzN8MdU78lmRl4ZIknFnem2Ud-d0Mv8Vpgyp4fs6AbA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9pFVz3ygtZ"&gt;
 GitHub - mangerlahn/Latest: A small utility app for macOS that makes sure you know about all the latest updates to the apps you… - GitHub&lt;/a&gt;&lt;br&gt;A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. - mangerlahn/Latest&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26...</title>
-    <published>2026-01-10T19:47:55+00:00</published>
-    <updated>2026-01-10T19:47:55+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25698</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25698"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 &lt;a href="https://t.co/Go5ObdT91T" target="_blank" rel="noopener"&gt;https://t.co/Go5ObdT91T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;&lt;img src="https://cdn4.telesco.pe/file/N8C7vSWLGyh45n-d-Dx-42QwDZa9_p9AN0YDcRCxd2NDEITWGf5B21l24tebv6pNNOMhoDcmyE1yuthTDnNZvbdb5SOq2neTQkr_-j86py2Sz1xmzRkYU1-QfZ5Y-9z0PEKnxudtx-kCxcqKbjHX3Pi5gnDElorC31n_TRVG5DJ7heRVQcKVKZYE9CYGLvviXSl4eH597jtiGLudFbOlvjUIhX5GRaxVY4YOtInpoM-KBhQF_u_UVQwuH4ck55v-CZA8vwKpHkYg5N5Qk1QSB6qkor-YxVFJf2mFyOaqxfQmP3DnfMCOXmScozXnCMb7KEHyBuLKP-SL6NmvriYfCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;
-Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’m going to teach how to recreate the iOS calendar App’s Complex Infinite ScrollView interaction using SwiftUI | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI Infinite Calendar ScrollView…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
