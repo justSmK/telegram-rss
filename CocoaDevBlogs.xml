@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-13T08:35:17+00:00</updated>
+  <updated>2026-01-13T09:31:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -139,7 +139,7 @@ How to design an SDK to handle &amp;#036;10bn in transactions - Jacobstechtavern
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agent Skills explained: Replacing &lt;a href="https://t.co/kWWTFS135D" target="_blank" rel="noopener"&gt;https://t.co/kWWTFS135D&lt;/a&gt; with reusable AI knowledge &lt;a href="https://t.co/L1LasX7WhK" target="_blank" rel="noopener"&gt;https://t.co/L1LasX7WhK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;&lt;img src="https://cdn4.telesco.pe/file/UcpPWr1-CNa4DXzXwGlOgKFgiC2ja1gp1rWGsL-BVhFLwrwL9EyHXuRWIieUVcDsfFdhwQ4H_b-XCYNWm5bPRHokRiULcpkIyJsqsYYel8l0uPSCNtiVZZBmPsOKernPQWT5RnFTIjdHKsPY2TKUNYsJTutP43SpgOf4G27ulMS85Z0q94i0jeVacYn1VJ2ik4fQbS5rl_2iClk6g7K6dnlGxejwjuHBVByejRZ5I4naymzcxzlwVasLi8-2SLXkHHFWzOg7yuKfHVpQ2f1TC2jWxYY9E-fRX1v_brScRO2pYXurdS3IDTgPGG7K9vJWV15vt041tqDDNYcSYHHZHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agent Skills explained: Replacing &lt;a href="https://t.co/kWWTFS135D" target="_blank" rel="noopener"&gt;https://t.co/kWWTFS135D&lt;/a&gt; with reusable AI knowledge &lt;a href="https://t.co/L1LasX7WhK" target="_blank" rel="noopener"&gt;https://t.co/L1LasX7WhK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;&lt;img src="https://cdn4.telesco.pe/file/IzumhIDOp84O23ZmmE-PbjVgAfe7RVP0gl3KnyR1LNNSwan0KYX3R37aMqOrHQTYfuv1PfF5Du49kuXqk0JF7QbP0DwP93ZR3_F7rEim370iKjF3iDmNJG39KktfVlhzLfDbGPHTMJiHSskfFYMA_GSr0UZpIEIFWHjO8V28f_TuC6eB6nscr3dG7EyVdEtJEu4hozKt2ClSTR2b2hBIk1d65MLL7-NvJ2ubzz_bHlOzNYLsh2ZeVHzi-Nb7cbb2kSvz00tpxEbJUS8quSlGnkxPsHvt8SHc2_pUWq10qkert8X8S2wgVoIiLSqP5i31yVKbZpICMQr40TQ8H_0JIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;
  - agents.md&lt;/a&gt;&lt;br&gt;AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents.&lt;/blockquote&gt;</content>
   </entry>
   <entry>

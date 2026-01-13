@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/LYlnABDeIFRZiQBR6QK_Rizam349c1zNr9AMReaOvHisidQd6xa5BAXJSCjA2bC2FUy7ZH2nxenCbhXkEOFQTfGhxcUai_ZXoZAqinMDRCDWaYPIh7jLV5iJ7GKb9ZU5Gdq6oPWDYyCLlgbgmULiqVwK_z0VihPYOPZGiTVHa2zGneBGClCJmiHq-wPuzkHSS-grX1NptsepJhAbeP0asR9hi7750H8uTG0YTmXUcZfyEazyaAwlr8v81dwPNc97yDVlxoiaYyCXYfvF9ZyNGOj9GmL9H13aCImHFJrGHX3dHNH_OpiqUbPkTf7LlsrQ5ahtF0YQyRJ-P8Rr9vzPcA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/LYlnABDeIFRZiQBR6QK_Rizam349c1zNr9AMReaOvHisidQd6xa5BAXJSCjA2bC2FUy7ZH2nxenCbhXkEOFQTfGhxcUai_ZXoZAqinMDRCDWaYPIh7jLV5iJ7GKb9ZU5Gdq6oPWDYyCLlgbgmULiqVwK_z0VihPYOPZGiTVHa2zGneBGClCJmiHq-wPuzkHSS-grX1NptsepJhAbeP0asR9hi7750H8uTG0YTmXUcZfyEazyaAwlr8v81dwPNc97yDVlxoiaYyCXYfvF9ZyNGOj9GmL9H13aCImHFJrGHX3dHNH_OpiqUbPkTf7LlsrQ5ahtF0YQyRJ-P8Rr9vzPcA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-01-13T08:35:25+00:00</updated>
+  <updated>2026-01-13T09:31:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой видеоматериал на 50 минут, где автор рассказывает, какой воркфлоу собрал для работы с AI в Xcode&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=o4iKnSYlhBQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/SAeSIWmWzPKwT2LQyO89z1hbOfTHIZD6sLHTSeizNkF4Nr_qoTcNRziK0VyRB2SLQT11p2GyhQ8BElpv06LQd6Vvn2GmjDkgSVzxzduUwrhvyPq8JXCBciueN0__4Spu3JDxbop2d4-TtFuwzvqKXJEzYqhfSoLgJC2Upf4BVWa2StPhIR1fo-ofUU0jm4x-2WllUDkjJm28DJa6o4F-gEO0tFAUGeGqn-4dtSTKomjMBnvRW8CHfF9T0Ss6zdZECupwcg-G4GFqk4DH8ATOR6boGL2I7CHcPj-SQ_v_7ETgp9B5kQtFizkkmDLvd0s3wyUYv8lMmcCwAebmYX0sMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой видеоматериал на 50 минут, где автор рассказывает, какой воркфлоу собрал для работы с AI в Xcode&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=o4iKnSYlhBQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/avneu5YuOVr96_D4SB1_GqpIL3nsYNUtcjtwAfy0QfnhyQaLV4V7JdifuErdfpvJnSzx-qMFkSgRuoLjgoxH6NEc_R_oJFHOsd-8qww8uawbNkhvJLIbpB2PvT2LEBg8_-vXl_TG02DsfE3ULzzJoX8gExxE_X7xbCFsuAtjdP_XC67MJb_xRcLvB8IAtNlwcfhaw7sh-RklLKpODxnxJkoZ9cIw5GikEO707Ubti-sHQCC3xwAkk5qu9hmUIgc0FawMm5F2PBJD0MJxZERUXEMm2BuCDCX7-HWHk-5bq7LXWQ3OLgNS04GTeT9KLJSR9xMOdnyOTG-wiOgaro4exQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;
 How I use Codex GPT 5.2 with Xcode (My Complete Workflow) - YouTube&lt;/a&gt;&lt;br&gt;3 workflow tips to keep your iOS/macOS builds green ✅. Your agent needs to have eyes to see what is happening in your app to be productive. &#13;
 &#13;
 1. Build Scripts&#13;
