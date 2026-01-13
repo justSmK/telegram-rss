@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-12T23:19:48+00:00</updated>
+  <updated>2026-01-13T01:54:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -224,7 +224,7 @@ In this video, I’m going to teach how to recreate the iOS calendar App’s Com
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/Peekaboo &lt;a href="https://t.co/zPPPZVvjjv" target="_blank" rel="noopener"&gt;https://t.co/zPPPZVvjjv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;&lt;img src="https://cdn4.telesco.pe/file/dc5I2PR_boXJnYy4hkQlCt2HBxRL4ArJOtEYbk2wbSnrGpXrRej6YIHg_bE8yk4HExpY8vIV7XxulCUFqlz6FFtFKk7UtSLPv8TpEVm4eGx2TuvX6IAoRh3qXvk24j5CP8pQ-I3idMlT1g6zMf3VcuU-3dvDfydbew35get-MzwaF6IwMncOsOFKkGi_3xCP7upWt3Ae8UeMeJdelD5TMg7XW8arS-l4c-kdmHky9QM7EHIFR92iPse07Aqy93Xq-qE2quw9HkSg2CE4Xwsl7mdj9RLipNhlsIy6ot0o5xbKuUgOXNmlTMoFrI0XiIGqjaxMmAUYoDk2d9qyHw6WOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/Peekaboo &lt;a href="https://t.co/zPPPZVvjjv" target="_blank" rel="noopener"&gt;https://t.co/zPPPZVvjjv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;&lt;img src="https://cdn4.telesco.pe/file/rhxxmqS7u8ropDi3fgSbsRgzzBjtgY3gPXAh2ekioQ_7GW-ya7oLafnE8cAXmLr9NgjmWraxzqvmSvouWZ7ryTpi4uf0ZDkOuMKSrjj-lz2-k9Ag84Bpe7wqGPiHLEP1rAunAofFbucZo4WpiSsZnnh3CLE27PTWkip10xi6Fot13P_FRucAjkok3XhFH4-siBY9zgIxCmNzQfsOHHkPJKrRDSQxJSJ840ZnXHzNe0kP46FzBjoUK0OrsNaX7qKP9mzS--SLslvJG9GjFrjHKPwgyCfx3QIlO8dLnxvwH2xargUI76bzd6q5OhtTy0KKcKIud6s89D4q1WdZXtP3lA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;
 GitHub - steipete/Peekaboo: Peekaboo is a macOS CLI &amp;amp; optional MCP server that enables AI agents to capture screenshots of applications… - GitHub&lt;/a&gt;&lt;br&gt;Peekaboo is a macOS CLI &amp;amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or r...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -236,7 +236,7 @@ GitHub - steipete/Peekaboo: Peekaboo is a macOS CLI &amp;amp; optional MCP serve
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : realm/SwiftLint &lt;a href="https://t.co/YmPAXp11Fw" target="_blank" rel="noopener"&gt;https://t.co/YmPAXp11Fw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YmPAXp11Fw"&gt;&lt;img src="https://cdn4.telesco.pe/file/GUpcv6JVRUejWhSfYh5cPIE4svl5Kf5JE2Hsxs5hAFWDIgXpeThLc3cfNtGZIRP4wxD3djUcG7r9wEFN-H0EsSTY4sHtBof1PJ6Kbk48sroYgt9csDNOUXjJIS6SKnWKJXzUKxSM3ZThNvKb4wC1Q9wKaKPQmWSnNk7nQx7N7zYUkUCy8bcJ61qp1pQA5jWWh-N4-rcudUvBmhZKlEMlMzbwJkXe4MyyqKr1ZQJhx1KyLDJ9b9fmKFD82VIL9BFhvlT0cp1Cxf9TJmlnpzPtPu9wgD7J7Y7bFTP6wExV6VeVQBiA11W6lsBGAT4DqFnklUMa7XIWNrrDlEnWz9fpGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YmPAXp11Fw"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : realm/SwiftLint &lt;a href="https://t.co/YmPAXp11Fw" target="_blank" rel="noopener"&gt;https://t.co/YmPAXp11Fw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YmPAXp11Fw"&gt;&lt;img src="https://cdn4.telesco.pe/file/dCPa7gVNq8UaNzyzQDv_4R2p94C-bY--Zm4Bn1RsHt54cquM3MqbgE6KbVwdn5eAceQedOiJE28_E-KdlzH2xkW-208TL4KefrozchYR4BJ0hG1m8tEc8teUNZ8lIJH3qOObWFJgZy00mliSH5P6rm-2LtT6ZGfEQ45UogUKt8T-DOoS8tLcI5ioEKv8IAdBFO0ut5CWD6dkjY0ZB4R06ygg-ry3kA0_2yk6YB8Oii42jRdFRh-9QSPdEHNfKY0eV-1ozQAKaSlEHEWY4OqJsScOseFjSi6IfcgRm5zRRESTGg04pHB-ndiiGggQ-OoeKA_VUNG7WxleNtlxG7enQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YmPAXp11Fw"&gt;
 GitHub - realm/SwiftLint: A tool to enforce Swift style and conventions. - GitHub&lt;/a&gt;&lt;br&gt;A tool to enforce Swift style and conventions. Contribute to realm/SwiftLint development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -248,7 +248,7 @@ GitHub - realm/SwiftLint: A tool to enforce Swift style and conventions. - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ml-explore/mlx-swift-examples &lt;a href="https://t.co/a0GjMP5hon" target="_blank" rel="noopener"&gt;https://t.co/a0GjMP5hon&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/a0GjMP5hon"&gt;&lt;img src="https://cdn4.telesco.pe/file/Lf-J65e-TwbSrk_2Yc8wK_bGCoX820IYmDW6gUAWfecr1uCgewyVZuITrjbUqS_t240DPk97PrOVEtrIhznbnpJgA2_1BT1D2tgQwHUUbWqvGVkJTgWLGOsI-VXoWRpGo9JohuQ1jo9R9_gm6pjLAVp_KgXjiFlLUUQpa8Zp1cdRnt6gDAj13__t2sOX0WD8lSXc_Y7NBkfAE4xXP2UWHjpi778cQwedaG6GmZDaXOtwcq2JvX7p15_B-bmBZ6hDl4oSxYp0I0XPE-TMlgOqqwQrSksKbWTZlj6fKKLT2nk9C_bx_5CaD4i7ONPKZiVK2P3TIY8R1AwP3a-jmhSKsw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/a0GjMP5hon"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ml-explore/mlx-swift-examples &lt;a href="https://t.co/a0GjMP5hon" target="_blank" rel="noopener"&gt;https://t.co/a0GjMP5hon&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/a0GjMP5hon"&gt;&lt;img src="https://cdn4.telesco.pe/file/IygMpBjxSXarjhwzh3DFTrdkNL_E0Qzreqzai7vaXOTqvu7RujTyfvaCf20OqfH6xeQtcuogM4oqWL5XI0XI_wJ-EOZidWJb3R3fjKwSk7MAKaNHwtU9EzVqYzAadGngAAH0rIuE0zoiYOQRK6ra9e1y525Ea9hd47e1bV60q7fNqqEE-GP9tkYk8lVErX_ua8VsGjwZeKtx7e3Z0NVsYRQLw22KLy_soWYlHXs6-Y9yVHPq-6hAlmL94wT4Wnp8cNVyA17HxZm2L3HDqBHiOhL3-OGtOIm08vGD3adYm4Cqa2pg3CwTXMxg7b3jYr74H1eJwrUCoR4wD0bIt2CgUg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/a0GjMP5hon"&gt;
 GitHub - ml-explore/mlx-swift-examples: Examples using MLX Swift - GitHub&lt;/a&gt;&lt;br&gt;Examples using MLX Swift. Contribute to ml-explore/mlx-swift-examples development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
