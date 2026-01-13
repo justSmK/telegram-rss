@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/RlUigzbOrszgwnCWeFATsEdXv7uNi9HOYMwN8Jvy3HG1IkQTKaqzlwe1PnzpU9WvQYry7Tm_m-krPM0zis3hUuiwjf6uQv6yXM4choghHUPC_Kab_pYF7zlF2xpRQKvgahB-rqpEkrdAjjSYU7A9QJmAywqmgOSdEc9mXOHTofiolrZyh82eFnjJskh-zvbYvZxy4uxSwZoYmKHbECyVvPlJtOJmdeX3kNWmN__ck2SpbwEDttSvsuT3hRumE6SFDpz5SoOW04wht7v8c9M43LCi8i-ZqUcmFrhATBhw4r5Pcyj8UJDqggn_US8MHnTAz7OL5cUcRcy4PIMd1jKBOA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/RlUigzbOrszgwnCWeFATsEdXv7uNi9HOYMwN8Jvy3HG1IkQTKaqzlwe1PnzpU9WvQYry7Tm_m-krPM0zis3hUuiwjf6uQv6yXM4choghHUPC_Kab_pYF7zlF2xpRQKvgahB-rqpEkrdAjjSYU7A9QJmAywqmgOSdEc9mXOHTofiolrZyh82eFnjJskh-zvbYvZxy4uxSwZoYmKHbECyVvPlJtOJmdeX3kNWmN__ck2SpbwEDttSvsuT3hRumE6SFDpz5SoOW04wht7v8c9M43LCi8i-ZqUcmFrhATBhw4r5Pcyj8UJDqggn_US8MHnTAz7OL5cUcRcy4PIMd1jKBOA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-13T05:28:34+00:00</updated>
+  <updated>2026-01-13T06:39:09+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple будет использовать Gemini&#13;
+&#13;
+Ну что ж, Apple Intelligence, Siri, и...</title>
+    <published>2026-01-13T06:02:52+00:00</published>
+    <updated>2026-01-13T06:02:52+00:00</updated>
+    <id>https://t.me/iosgr/4580</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4580"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple будет использовать Gemini&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ну что ж, Apple Intelligence, Siri, и видимо локальные модели будут основаны на Gemini от Google. В целом это отличная новость, Google за последний год огромный рывок в AI сделали, и модели правда хорошие.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Px7A2qHiZuDx6ByazuaiRlc7RKp7r0R5gRraQQ-lHfD_WUWF9r6yTCwDY8qQ4-lATgiwfUzxOprjUAVtroXTxh5UolZxaXJK3A_7PHsijzxM4HsJj1EiUP7gtYGSmeZ44tFD69-AANrpshKLeEzhemncEqlxrjNVUJUN3VdQlRgSij2NCOfBVdNbqveyoIP-rvP655vICFz3_5OVL-MlAywSwV9_RQr2XTql76StjPjOo9l2Y-M7cgYXLTB4rz6KeXRhcXhKVzA1-EwvB4RQl2R6SalK-XNLT9-B2_VE3aydUAsrQqloayijZofGICGgrG8fE8d42fNzdhg9TE14wA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;
+Joint statement from Google and Apple - Google&lt;/a&gt;&lt;br&gt;Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google&amp;#39;s Gemini models and clou…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS скиллы для AI агентов&#13;
 &#13;
@@ -21,7 +35,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Dimillian/Skills" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS скиллы для AI агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Буквально пару месяцев назад у AI агентов появилась новая фича – скиллы. Это набор из промптов, скриптов и тулов, которые помогают агенту лучше справляться со специализированными задачами, и подгружаются лениво.&lt;br/&gt;&lt;br/&gt;Так вот, держите набор скиллов для iOS разработки – разработка красивого и производительного кода на SwiftUI, публикация приложений и много чего еще.&lt;br/&gt;&lt;br/&gt;Отдельно держите &lt;a href="https://github.com/AvdLee/Swift-Concurrency-Agent-Skill" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылку&lt;/a&gt; на скилл для работы со Swift Concurrency&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;&lt;img src="https://cdn4.telesco.pe/file/IsNPiZ45eItQ1rFt0S1KtfIyd0vCIbgAICwnBSwys4v8INJxy9U9QOCoo1Z27cfy5indv5NXjYU9YwS8kipQhbX5S3nIXLTjtxvZqltfsD8p052kOhzJTMfiLhV4rU_Hp60fozeteWxuvpmnAu6q7_aE41yVHPGcuOUOwjct2W58Tm-hXTAoEmKjxdZUz_l8fSvuLRWvmYo4VBTspmdGXlhVpU7uH27_op5x8mZNN0vMk4p30uMgEhKjexW2a6qJ-7UBsbKEBY8WskWrhZjiIiFmX2ceGVWQe_z7bqO0FpqCjq6y0Z1pBPNLMkiCoU-cS01b5PK1F-obQBAPbL-wAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Dimillian/Skills" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS скиллы для AI агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Буквально пару месяцев назад у AI агентов появилась новая фича – скиллы. Это набор из промптов, скриптов и тулов, которые помогают агенту лучше справляться со специализированными задачами, и подгружаются лениво.&lt;br/&gt;&lt;br/&gt;Так вот, держите набор скиллов для iOS разработки – разработка красивого и производительного кода на SwiftUI, публикация приложений и много чего еще.&lt;br/&gt;&lt;br/&gt;Отдельно держите &lt;a href="https://github.com/AvdLee/Swift-Concurrency-Agent-Skill" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылку&lt;/a&gt; на скилл для работы со Swift Concurrency&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;&lt;img src="https://cdn4.telesco.pe/file/usN4Si8AcSoP4odXPgA1uUMeA1Js0JIcnZBZbxCmJd9i6cVGGZO-T2X0GRnaBvoFZWSBQT0EVVIc-Ff5jnRf4SayLcVXPPwNxWaFXFs969XpsA6FFzZP5F7zY1I0KVz1n0P9balZxpCmjlGAF_9YE1jZufO2ogdsrWs5lRlPRFl3u-CyRpJ0Tik6o6x4YZ9k4JjzK5CLV_BOrE9D4nkcjbJsfsEyCXcKORa41b6uDHB4h8TUWemZufmgve_WPWivdTkbkzfL0edoFRHCeyb0yBYW1wdBxGEVfX8He37Ln4NJgTzdg7o6H3f37KF1HXqjErxl-4yorXsrHFJoPRBm_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;
 GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex Skills. Contribute to Dimillian/Skills development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -35,7 +49,7 @@ GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex 
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/El3Oep3PFuGz4PrMyf--IkdJ_5y12JOPrQMk48oX6fRUsbq1KHpLay1NVWdsgewi4Z_U2LD2M8DHahstagiMalIRjCD9Fv8CWNV-ihSDXCOsHbCL1IsBRHiFrp3j-grK9xNQL7oIK5mA0TwHe1dVpM40dPJE-SCS7PzyjxAbxk00ueT_1CGkXuM3o9vZL3rRulkx-72cf7ONvVVRn-XFHjrl3wQ3KxvMhWpsYUZGViwf5rpjiE4c1GCnxtTVN0dR3RT_Adto2cEiDUDxNKP_Y839qBS-MdZvkWPLrFf5iCOu22zfp7AYJH3U82tJCniTBFKTY95LTjjMN7dj08RKtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/CdMNPclJO2hgJNBFkQ25F8mh0zgybArd2RAYX0GzIXlBgWkKxwVFFmIeeau4MlW7MhFBlaeaw6XMq6keaySV0GxzfY4mAC3NOSHCiOmuOgKO8E0KElXn_cGiMDaD4WoptbAAF6PikcurlM0Nz83n9URHjkmJu2Ra3qaBOQMMjK5hsEYrQLXhE7UKSEmE6kh5DMCPzdp3l3SLmqYy5E8JWX-EQjOIm7Ifp-Pjrem7f9jJu393ibi2HR15Y1-jEbeEs2lbQqaJMuusDhWAVYUfihx9O1bxSm884YYoye5ebzqkZuvhvfXuItwRU2ZtpNedn39um0VWdXpINC4cUfRiDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Учимся работать с пакетом swift-subprocess&#13;
@@ -285,19 +299,5 @@ future, and try out the new Swift…&lt;/blockquote&gt;</content>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/kgKj5qytIAsNRsAMO6q2d8taXvjWULp1POIkhuqFfBiLZjYPamTvTAO0lbb8VrXhJYIa1JFtD92QX6ovkZczhEFB5jKKRp_62R8h69Y0WrSHhSLgwkSpAGEVywTLxc_23Fmv6UwN4hbwtBtPKJXhUlqNPHttAlLdjtQaFLwPeq6rMo6KKvSdpdwEpcdvIV9Gqs0YePMZ45vbIMISW1PbrbcHTW4BRp9rPOVnhP_QS965SvIIblGguEHPgxicukL_peP0DE5aUFDIIc0J3eLBQqwAB8WLpFv3Bj--pXR296jKnVIg8eXRrL1YE53eurn9u8aBF8Qt2vLxRey7BmUaDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
 swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-evolution - GitHub&lt;/a&gt;&lt;br&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swiftlang/swift-evolution&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Observable классы внутри иерархии SwiftUI&#13;
-&#13;
-Разбираемся с...</title>
-    <published>2025-12-19T06:04:38+00:00</published>
-    <updated>2025-12-19T06:04:38+00:00</updated>
-    <id>https://t.me/iosgr/4560</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4560"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Observable классы внутри иерархии SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с примерами того, как работать с &lt;a href="https://t.me/Observable" target="_blank"&gt;@Observable&lt;/a&gt; классами, как их инициализировать, хранить в стейте, и что вообще может пойти не так.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;&lt;img src="https://cdn4.telesco.pe/file/V6FDC8rkk3GoJL7SXxPmW2eP0Sy-l258jcgClSJfgMBdSylTdcapeTT7n66pFD027HLQazI32frsxp21eOB50H2f0oQwPzY6TpNtcj-eLZo3uBa-AC2J4aLXjT_Ob_OzKEK8Sbqyhm4soySixEhSZkPDCizURNav9eFnl6LvBnY7qCtpwPgtfdpvj1ImFJUDeFuhrIpsHRs-gbYTpZbHJK5ftdQh2q2zzHC8OkC3s3cpsr_m7np77mRSJxjqfic21UYMpRvdF_LYCaiHTZRxFBd6aF48ZRoPUZqqvC4zrFzQY8lUHgABTiDzj7v_3nexWGNImKf3DkRW_lBZALakOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/"&gt;
-Initializing @Observable classes within the SwiftUI hierarchy - Nil Coalescing&lt;/a&gt;&lt;br&gt;Learn the recommended ways to initialize and store @Observable classes in SwiftUI views, and see what can go wrong when observable state is managed incorrectly.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

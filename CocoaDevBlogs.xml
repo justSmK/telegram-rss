@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NUNgyiSjWJQQOYElRd5ibyvlg4kEDOXIV7NIR6lud6OIUkhOLJluDkSyOdPbDb_p6xndF2Mg8iAaWh-22xDp_ftRTE7KqoVBFz75NLiGahHunc-0i6JR2WdhUkds1jIBvadpKoQXJADI5EuVsXaJGr6qN6771kWq8n9DiQb55mzliR34zDNmQ8r8oUlrIYDPcT9YIp8PgxGnxXbP1CmDJEgsRxtAghVkaqaGtyH5lH87CekQ0k-gANW9ZaFy4-MOvjmpP1hXjuLIf9vTWny-hUdHlrezaMnmTcs1LRjCGbODv9EQ098GnxrOq9Un37ZfDRQDeNPsTf7_vdDr5e0KMw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-13T05:28:33+00:00</updated>
+  <updated>2026-01-13T06:39:08+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Defining custom string interpolation behavior in Swift https://t.co/8zTI1ZRA2v</title>
+    <published>2026-01-13T05:57:40+00:00</published>
+    <updated>2026-01-13T05:57:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25717</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25717"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Defining custom string interpolation behavior in Swift &lt;a href="https://t.co/8zTI1ZRA2v" target="_blank" rel="noopener"&gt;https://t.co/8zTI1ZRA2v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;&lt;img src="https://cdn4.telesco.pe/file/CoWe_DL-ErFZd0syrDW5ltZHN5ygiISaH7SjBmOSPeCevot2G7JexQ89ACBvLutGDkRmC-k4mnWf_P3CDsbo1jnRmMG0qVsr4S9nzLln1WeqPzrMvah00DF-f3BP1BRyfTGbezK2NbGSwqeAHfo7NlkbL-ntWZWZqpGnValKu37HBE3N7Kiik8hvPkKSqQ-FJoTsAruxCaZ7CRbmXy9azZSL_yui5fi_knxvwhnqkBgub0FeIaNfqFxOmVw-4jHY6FLVJMwJxwHlG356dp2dAgPq3cCxv8EGwAfpHEJp0kiS6iN6elz29-wRCL-97GwbfEMEHrX_VT5a2H-kqnUIMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;
+Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt;&lt;br&gt;Extend Swift’s string interpolation to define custom behavior, such as value formatting, directly inside string literals.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : home-assistant/iOS https://t.co/D83j4PLDCV</title>
     <published>2026-01-13T02:17:34+00:00</published>
@@ -238,17 +250,5 @@ GitHub - mangerlahn/Latest: A small utility app for macOS that makes sure you kn
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 &lt;a href="https://t.co/Go5ObdT91T" target="_blank" rel="noopener"&gt;https://t.co/Go5ObdT91T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;&lt;img src="https://cdn4.telesco.pe/file/N8C7vSWLGyh45n-d-Dx-42QwDZa9_p9AN0YDcRCxd2NDEITWGf5B21l24tebv6pNNOMhoDcmyE1yuthTDnNZvbdb5SOq2neTQkr_-j86py2Sz1xmzRkYU1-QfZ5Y-9z0PEKnxudtx-kCxcqKbjHX3Pi5gnDElorC31n_TRVG5DJ7heRVQcKVKZYE9CYGLvviXSl4eH597jtiGLudFbOlvjUIhX5GRaxVY4YOtInpoM-KBhQF_u_UVQwuH4ck55v-CZA8vwKpHkYg5N5Qk1QSB6qkor-YxVFJf2mFyOaqxfQmP3DnfMCOXmScozXnCMb7KEHyBuLKP-SL6NmvriYfCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Go5ObdT91T"&gt;
 Apple Calendar App Infinite ScrollView - SwiftUI - Complex Scroll Interaction - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’m going to teach how to recreate the iOS calendar App’s Complex Infinite ScrollView interaction using SwiftUI | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI Infinite Calendar ScrollView…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : steipete/Peekaboo https://t.co/zPPPZVvjjv</title>
-    <published>2026-01-10T02:12:11+00:00</published>
-    <updated>2026-01-10T02:12:11+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25697</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25697"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/Peekaboo &lt;a href="https://t.co/zPPPZVvjjv" target="_blank" rel="noopener"&gt;https://t.co/zPPPZVvjjv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;&lt;img src="https://cdn4.telesco.pe/file/rhxxmqS7u8ropDi3fgSbsRgzzBjtgY3gPXAh2ekioQ_7GW-ya7oLafnE8cAXmLr9NgjmWraxzqvmSvouWZ7ryTpi4uf0ZDkOuMKSrjj-lz2-k9Ag84Bpe7wqGPiHLEP1rAunAofFbucZo4WpiSsZnnh3CLE27PTWkip10xi6Fot13P_FRucAjkok3XhFH4-siBY9zgIxCmNzQfsOHHkPJKrRDSQxJSJ840ZnXHzNe0kP46FzBjoUK0OrsNaX7qKP9mzS--SLslvJG9GjFrjHKPwgyCfx3QIlO8dLnxvwH2xargUI76bzd6q5OhtTy0KKcKIud6s89D4q1WdZXtP3lA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zPPPZVvjjv"&gt;
-GitHub - steipete/Peekaboo: Peekaboo is a macOS CLI &amp;amp; optional MCP server that enables AI agents to capture screenshots of applications… - GitHub&lt;/a&gt;&lt;br&gt;Peekaboo is a macOS CLI &amp;amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or r...&lt;/blockquote&gt;</content>
   </entry>
 </feed>
