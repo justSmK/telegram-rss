@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-13T19:23:10+00:00</updated>
+  <updated>2026-01-13T20:29:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26...</title>
+    <published>2026-01-13T20:02:32+00:00</published>
+    <updated>2026-01-13T20:02:32+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25720</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25720"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26 &lt;a href="https://t.co/zGnuVV4txY" target="_blank" rel="noopener"&gt;https://t.co/zGnuVV4txY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;&lt;img src="https://cdn4.telesco.pe/file/rAkPW_1dTUo5aVSuwutHbm4qT41sLpYbw4CI2dTJPV2SAHw9Q3CF76w3D_oEtpxhmw1718xyxpJuBa0lCVv2gxdzrQAXXGVm7OfXCjS793Bqy-V1R8dLb6EoShWTIVkAAAjk0r8txjEmfm3VLZqikU6o8VdZBrGLm6c1spF3p6l4Aaf0VVaxe47uQUImC6v9OsLcUSw7kAOhMAxZATWouxw4mDnDcgbNFPhmkyXnh7F3fPb-PZiXOC0hATqo7VHIu1HKZOPrDktugyZELd8rYneXN7m6XKUad5Rs7FIz-5C5gLEz-nf0sAWxn0shGWAxQ0-gpSeeyaHj4mUNF4x7YA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;
+Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’m going to teach how to recreate the Apple Stocks App&amp;#39;s Looping ScrollView With Auto Scroll using SwiftUI | SwiftUI Automatic Scroll ScrollView | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Rendering Markdown in SwiftUI https://t.co/TdorD98r0F</title>
     <published>2026-01-13T18:02:59+00:00</published>
@@ -199,7 +212,7 @@ GitHub - JerryZLiu/Dayflow: Generate a timeline of your day, automatically - Git
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Building Smart Tags: From Data Model to Beautiful UI &lt;a href="https://t.co/03viyNZQP7" target="_blank" rel="noopener"&gt;https://t.co/03viyNZQP7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;&lt;img src="https://cdn4.telesco.pe/file/RaZ2_gjydcqXLOFW_Vc9kID3fAiU4Tqu4ezx0KXkeh90CBq4eT8tOUKmsTSjCpLVoaAY5bpFXVhX1QWRBwtuzC9CjPdK7DYhJDkqVDLJdpAsiYizBISgVEo5e9FOvScWBBbf2XfEZntAnsjdcMDqp19V-n2plsg-oXi-mS9g29zbKlYwjcHYO_HnrB3veWFGphkbTtsDTGZo0O56qQ2Mv2hs-EFYaFH2hGQf0IJ7vcIBUSfAF86Wc1GIIIsUj74clyZC-1MeTzsJbe0EuzOSxQYqzfgPWhktteGi8rqLXx0-Hd2Duo5SCBlLkbbPErUGZUJzzp0YIuG82chovUQWTg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Building Smart Tags: From Data Model to Beautiful UI &lt;a href="https://t.co/03viyNZQP7" target="_blank" rel="noopener"&gt;https://t.co/03viyNZQP7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;&lt;img src="https://cdn4.telesco.pe/file/NecMfGhwwrZA63s7GqhQCMtKBkpddhGJElNa-ZQkAJ8kHn0atvNeMloewN5DMWC0DyXWcO-7p_82qmije5XVULQpwjGsxrnIYs8R1wK6WV_vV2VivsIJhGtYuHpo56yvpLUSaebP4kGOlutDoux85ixFfVQWJfwpymFfuOpBlxDVy1x2z0K_hkHl-a7QzvC3ELiWq7MLL7WZ_JWmiLVACayZAlrh5jsj0fCP1uDLed2OzusuwGTbd1kK-r5smWqUiKwbJMfOP1ktzcwgzvu4Fv27VqvP0_jJslknk2fXvHAL4t1_rAnTAFbTWrdU0wH3-Bp9Ls3xRIzIOTGsm_quCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/03viyNZQP7"&gt;
 Building Smart Tags: From Data Model to Beautiful UI - YouTube&lt;/a&gt;&lt;br&gt;Learn how to design and implement a flexible tagging system in your app. We&amp;#39;ll explore different tag structures (flat vs. nested), build the data model, and create an intuitive UI that makes tagging effortless.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -211,7 +224,7 @@ Building Smart Tags: From Data Model to Beautiful UI - YouTube&lt;/a&gt;&lt;br&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Memory management in Combine &lt;a href="https://t.co/goF1rFGzqS" target="_blank" rel="noopener"&gt;https://t.co/goF1rFGzqS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;&lt;img src="https://cdn4.telesco.pe/file/B9BAgXFRJpB4dx68LjeQBK1zY_IAgRcoxdehlxGF_NjtewHXwAYQD7J3OvwF5H4QoH8qR-QoWsqE8wgwMm15CR4EfNzyW6ybNaKY_s87uGZQooL2gMcIgBVDrrD5IpYuF6Ng-d702hLLTDNZ0miKPUCkvrs5pEUmW1SIPiuJA6UCG5bWdtByOlE64KHMh-jbOxMSrCoV5cxCPFuSwAMxZADh7r1BtimjxYS00BPuORpm5jfbMYZC4X32Ht7t0dOjbmH8y-AqiE_VopGaAd8mN3_XqxU8qDu7CD5x1ABtxhTdEiktkV-Lrq1zwVxGicdgxUdLAJqa1RBESa5nGSvQOg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Memory management in Combine &lt;a href="https://t.co/goF1rFGzqS" target="_blank" rel="noopener"&gt;https://t.co/goF1rFGzqS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;&lt;img src="https://cdn4.telesco.pe/file/sErLqUH_kEpzvtSfpEhqJmsXvn5zQT5zIyH-YBHJyDTP5mrvBlN4MI9wYNxawwNYFRC4OHvF1igfIORh6ok3f50GQt7GFF3GEMYatP0kEfjzohjkXEho4sLOl57NxT-KxI3jkhFhovGyB1GTUq1o1tClT9qg19DYj27x04cY-dsV0POz3RyfWW-uZ-GmJtASy9wuZnTkVdq7b2gi-u4gctKFmdwa1y0X7z6XHlDZZwpZ28Rz65XsyDXXNjd63BY5hvfyW3kmkc6mU3bJcwDgdQmHI53I-m0OMF5Tb0byk6Xc7TtwcAdx8ToKlJcv4tEEE5ifWCPPL-Wv4gxCgCklqw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/goF1rFGzqS"&gt;
 Memory management in Combine - Tanaschita&lt;/a&gt;&lt;br&gt;Combine makes asynchronous code easier to express, but it also introduces new questions around memory management. In this article, we take a closer look at how Combine manages references, where retain cycles can appear, when they turn into memory leaks and…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +250,5 @@ GitHub - Sequel-Ace/Sequel-Ace: MySQL/MariaDB database management for macOS - Gi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : adjust/ios_sdk &lt;a href="https://t.co/Uyl2eETIhe" target="_blank" rel="noopener"&gt;https://t.co/Uyl2eETIhe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;&lt;img src="https://cdn4.telesco.pe/file/sKJRExbIprebLzDTOeImkUYY_vYC6uSBLAtHDLImu6WmCC95Dh8WgBHVjs14oAyCBOlUi30CReJrEFpGKm11aP-G2hULzdprZifhTSIUtGNrYq64VOi5Vdwd1Cv7g9RY8utEiNItYbg5Cw8UbUv8XqtoOEmLkmcWXuSgCyExMGyldWdSpbUzjJbNufifQRTPJPtltCg981d2Y6SNWrNT-qlJ9jZRutsktzYllztTYOWPhZzGfvVMzsKjr4-cnEccOedVQnZWNS5Hy-KuU5CI2md7xgI1ZWebOfjOpu-sExwITre8yRFLzmdNIbH5rnas4LpXmciPEkuTj7XH52wOtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uyl2eETIhe"&gt;
 GitHub - adjust/ios_sdk: This is the iOS SDK of - GitHub&lt;/a&gt;&lt;br&gt;This is the iOS SDK of. Contribute to adjust/ios_sdk development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : CocoaLumberjack/CocoaLumberjack https://t.co/yx7cPMQyrK</title>
-    <published>2026-01-11T02:17:18+00:00</published>
-    <updated>2026-01-11T02:17:18+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25700</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25700"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : CocoaLumberjack/CocoaLumberjack &lt;a href="https://t.co/yx7cPMQyrK" target="_blank" rel="noopener"&gt;https://t.co/yx7cPMQyrK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yx7cPMQyrK"&gt;&lt;img src="https://cdn4.telesco.pe/file/JgPvP3Cgng3dyIbtrDazyeywZNYK8jioxMucoM9WijhSJk7GHBJ3Xh-Ro4tzNOSdScCpjiKJpQWCZwlffg5aRgBh-JCSIvPIdZ5CmEIahazgDlwSQTkBBIMxRvKZ3MCDvCIQDOfMCdtnrROy8bhLG3cknlTJrBC-9u4c_RWTh_0mYBgr9gt8Afx-ZFsdrpZPO8Fw8wqXaaMyAM0K7Z4zZXFIt68sIwhbKAyXz913_52b9dEjdUCaXDp2l889Q8PUalFUsO7br8EBS2x2mJW1V7-QSsd6zoqJJ0hvVVmDZxudM-uF1idJpocvx3P0Nn4WmibxThenAT5oDSL0JGA9AQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yx7cPMQyrK"&gt;
-GitHub - CocoaLumberjack/CocoaLumberjack: A fast &amp;amp; simple, yet powerful &amp;amp; flexible logging framework for macOS, iOS, tvOS, watchOS… - GitHub&lt;/a&gt;&lt;br&gt;A fast &amp;amp; simple, yet powerful &amp;amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS - CocoaLumberjack/CocoaLumberjack&lt;/blockquote&gt;</content>
   </entry>
 </feed>
