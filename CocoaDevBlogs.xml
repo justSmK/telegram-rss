@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-13T17:29:08+00:00</updated>
+  <updated>2026-01-13T18:35:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Rendering Markdown in SwiftUI https://t.co/TdorD98r0F</title>
+    <published>2026-01-13T18:02:59+00:00</published>
+    <updated>2026-01-13T18:02:59+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25719</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25719"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZyBgHkKU9BNvn-TCAPNYPtDWTXzYvcv6lF8RaApVmPU6Jfgqo_NEzuSFEmNHboIoACeJDSouiOwG1WU_qJff5vqlMxSNz6CPzQYcW5zYxUne9U4CVImj2F2lfxrLkK258rLxnlegOJRnFT4tS86X9hcq9LL3yfeERPHnqKk_hi7engW49-mdyIP9Lujkc_VTdMpuJKLUQLJDRYWvh134oG3EV99a6e0LvlCPDIMeO3ARXsoZUkinMgA15HPht5beEZP-Yk-NbAnMUKc00BwhrbvV4q-elFkpTGg7XI1jeSul5-MnVyw3mO_UovHHvm4EhWiSB5iKl8FUWktB1NVl_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
+Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to render Markdown in SwiftUI using Text and AttributedString&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Creating reminder lists with EventKit from your app https://t.co/XUaBsPlwCY</title>
     <published>2026-01-13T14:07:25+00:00</published>
@@ -67,7 +79,7 @@ GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta 2 (23D5103d) &lt;a href="https://t.co/gx9Dy8lm7M" target="_blank" rel="noopener"&gt;https://t.co/gx9Dy8lm7M&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;&lt;img src="https://cdn4.telesco.pe/file/RGvlWklfMQ-YMgAKiZ9L_pJao1bLYmjir9YgpiWAQlg3aHEyW-2DXU3vljkrEAal09NZu7wWJt5EICm8-IPYCrYcIgUzMn7ktTnYzmtxv1iSoqOcMt0H17mDfSWurWOWnnaSNK4_ssYIo1Bl9Q00F21vDQvnO-lHnMte0CaXFEuVDbNVEjCWaqEIQx-6Xu6FWKIzdLOQcfTslqYQAP7Kd9rgS9Qbg_9tYIKg5Vl_WFSJvkvLCzmh3aOW9b4trEFTLtjUz2pcsO8G-W8hr_QBTCBkt2C4y3FAUYSqSCy1a0XwMhPugQR1jLFIEJaUysRz8j8WFfgqVplw4Lkh-5ifAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta 2 (23D5103d) &lt;a href="https://t.co/gx9Dy8lm7M" target="_blank" rel="noopener"&gt;https://t.co/gx9Dy8lm7M&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;&lt;img src="https://cdn4.telesco.pe/file/YSvWKjZwi2JNSZRjcfJjCe8mWC9zr62F7_FyveCpY8CxhnUwjIRsNn5t30Dg3QLbHTjtizdq8R1FFesiJuZeyHyIxQjF7ITfxztA2RtUyKPplwUq_jHy3y3cyB0a_-X2883Av8Ub-2ohOO3LNBz4FGtYwzK9Qi4hQi2j380OOoMPMm6yjEfUdezskU_4pUg6zJt-fLTdAdO2KWhsc45qDIYhtsG9P-cult8IaiOSrt1rF0QgnltE3D_UHQOrrpkDXLkl3KaZlFhgAYpjf1-NuGOcSw0mO2oxwaB9LqrYbK94gIpVD74P5Bsn2eEvCO99YkmpuZBNfwtNhayQBiiDBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;
 iOS 26.3 beta 2 (23D5103d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -79,7 +91,7 @@ iOS 26.3 beta 2 (23D5103d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 beta2 (23D5103d) &lt;a href="https://t.co/2aJ0Q8jZ26" target="_blank" rel="noopener"&gt;https://t.co/2aJ0Q8jZ26&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2aJ0Q8jZ26"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qcvd53E1-sOivOMddvQ03aV5Dt3gAAxpTlvpPmLDV0-Fq4yGQZjCKa_8AahGl_fHoOWiwBbKQAp7T0B5aechL4IZlby52pt6yWvEV5Ckxqmvcp2h3rrWje0AhgQvKgKO6zC6k3qD8oAOzrXxT9rZjYEACMwDefwaDDmghUFmEdCrbAi_NrYXfOt0g3pCdhVwwYsvGTB6v0zIbJ5Rp2-gOMBrl_QDvFJoMm1B7tghRapAeuM1vVL_hjnUKs1vFbtOFMakWe6L08wispp5RJcbT4z-qTB1ltFZTxKj1QToLQ8yeZwgSGrjK1ZD8l5JVshEdBAqYI0SN666ZPfILUgodA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2aJ0Q8jZ26"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 beta2 (23D5103d) &lt;a href="https://t.co/2aJ0Q8jZ26" target="_blank" rel="noopener"&gt;https://t.co/2aJ0Q8jZ26&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2aJ0Q8jZ26"&gt;&lt;img src="https://cdn4.telesco.pe/file/Flsc2Iguvcs_x-dFBoJknKVgJSbqe9QRUoCvi7RcIzQFkL3wiVgDeuR3EKGklF4RIFnD8F9Ao4JyRJcdze7QnCFc1lQCRRhxUvo_eXApciqr57jt3XoWL13fWMg5OSEEwzbwZZ0ctxi3qhEPuqCxTdJDbUTCElKd_9lmT10gZ2HBX0E_fs2kiahwcBz1CfHK5HdUljO9FHt75y3yioOlzdmWJlF9K2SR6P-WSqVyazWkLvcMf6RKAtPSPNaRZBAQsSvLNepDMqE2Y_6J2RJGUNxNzPMxODpkEcmc2SXcmHJyOvKkjcnlLy2IUQmZ8SsftVOPlpN8Tqeyr71umAp3ow.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2aJ0Q8jZ26"&gt;
 iPadOS 26.3 beta2 (23D5103d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -91,7 +103,7 @@ iPadOS 26.3 beta2 (23D5103d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 beta 2 (25D5101c) &lt;a href="https://t.co/wsPYpDJrsB" target="_blank" rel="noopener"&gt;https://t.co/wsPYpDJrsB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wsPYpDJrsB"&gt;&lt;img src="https://cdn4.telesco.pe/file/qqIsfISWOeMV1MvUN9cKCYv6DQR8emDWIvB6tc3iR-aDJ797M3f2p2V-N1ZKWI7JDtge79YG-p4CTAEn6_V6NfuZP4JSLEwHQUrWJ8ErN9cXLSwcf-OvDBAj39-E0NSZfrqyyfZNWb-yQ7ScPYI9mLgFOC4ztvzl9E_apuKp23L1SYcUWSit0KnQq298CZINqTXndVZVIgmdAWCqYdMD2-Uz8qtJzvL0Lb3c9jZwiM5yZS4u7gmqELfS1DaI5mXou1YxeHTf8ZFzIWmxgN136FyJ9Jr4aWCuFY9UIc329nxoargE2sfpRWw7jYALUNCgaZAIA0v4SUUvilcUefsjoA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wsPYpDJrsB"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 beta 2 (25D5101c) &lt;a href="https://t.co/wsPYpDJrsB" target="_blank" rel="noopener"&gt;https://t.co/wsPYpDJrsB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wsPYpDJrsB"&gt;&lt;img src="https://cdn4.telesco.pe/file/VkX_gJCdvTC8Xg5aAbAJ2CXhQiqZVRfe3gkq5RXL0OadB4jwGlU7ZR9IZjGb61tt8ap1DkBSMkwahFNK-G8f18P5x24XNlOBmzvRnGXdL13n6iyjPpZ7qHGhG3lstVhTUH39U1SEtUU-SVqqtJwZCMFDh2vZD7PyH-DdHsuDFCHCnd1omUi0J6Nc4oLwvspFwMy22ZNBmL_3uOqTyBkG4P2vxyzGmy7K98Zlkzm4VGJlpUk5EZz0EHzfDqNo8NBkeKTOfi_V0YpL1Mv0_TZFROkMHofQ3xtGAnSrG4Ag0PkzJQXq721gavC1VrTdl-d74BrkACONroCHZESppe2zzA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wsPYpDJrsB"&gt;
 macOS 26.3 beta 2 (25D5101c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -103,7 +115,7 @@ macOS 26.3 beta 2 (25D5101c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 beta 2 (23K5600b) &lt;a href="https://t.co/CLcGK6wYAm" target="_blank" rel="noopener"&gt;https://t.co/CLcGK6wYAm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CLcGK6wYAm"&gt;&lt;img src="https://cdn4.telesco.pe/file/jGVDYK1MnvwWIwrBeP_qP9H2KCYd1Qa5_vQRtRKXn6BipGWCDxJ5l6ZNlGwDUXgZOAtlpyk4oX4rlpZsPa42b7sFl8cDnrlKnF_Fp8SFD4oPso4hhBP-ZtrFxlyOELLv1cvlyQSUFtGsjoeunjKB7MrccgldsVuMpsxY2Uwr316w4T7LeGWXzZaQ4cUz03kma8jgESFDsmrffEi2hF0l34YS9yFz1AqS7RVOP_czTp07DsUTmZGFFrkOAEqATUefAxPvY9KIgF0xlad87thtRBMeL9LI78P-4lbOStFvElxqbdIDarqn9S-s4WURRztKufzg-5sxuuRh8sqYM2jA8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CLcGK6wYAm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 beta 2 (23K5600b) &lt;a href="https://t.co/CLcGK6wYAm" target="_blank" rel="noopener"&gt;https://t.co/CLcGK6wYAm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CLcGK6wYAm"&gt;&lt;img src="https://cdn4.telesco.pe/file/h1qXVF1BqKK81rPzaW_84D0MP0zNclODGLztfrIeKRVFgZZk_BYOh45Gz96cIjv7RJwcR9z1Ja-HaIqJkiDZkJtcOh89fhKpdxXu2Obb6h6F4s_V1Ch7Nr3GrOtcxqgcLrh7-8wCAvXjW2Y7iQ7oT2wCdv3u0C_81K7VnecycXJfFDDckf0HDlwojpSmGPkGOjzGZ_nRqEVX9KCEkl87bJ_jXJAKztRAQ227-IKRqdvUHisezmGiEOcLmneMkml9iY4tPi2Bcnm89ToeOzPrxAYDexrHzpkEQWxTM9LE2b-LDA7pDTLE4KHZ6XMlL6neHsobYF0IROLEYuafc9tH6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CLcGK6wYAm"&gt;
 tvOS 26.3 beta 2 (23K5600b) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -115,7 +127,7 @@ tvOS 26.3 beta 2 (23K5600b) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 beta 2 (23N5602d) &lt;a href="https://t.co/p6hWy2UOGP" target="_blank" rel="noopener"&gt;https://t.co/p6hWy2UOGP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p6hWy2UOGP"&gt;&lt;img src="https://cdn4.telesco.pe/file/SAQV39roT-DTWfOoqxEeK_oQGzQW2T-XP4a5u8vgOU1MZNHxeVFrIxi5h__hlB-VqBbWRzY145wsgr0KkNRDIWHc4aaJHBjUg9yEY-E5lK6cAyl8aJrGryp6YH9gaxTd8J-ZEEqsA26IkBATbo0BEoXVyk7uG2T75TYQrYlvIzE-PJQlaI2vfgmpi4hdc5kZ2mh9YH_hun3ZIdM2EVRTtGfGZG9UNw5hJ56W6jXQBaNq_1ErclaJNh_wAlFr3Qpdmx_o39FJwBRVszGiFsxF1JkdCQKWbj9usZYgRQDfdlI964knn1_XYGUD7ZtuZczOpRXtXucRa6oIejplAldOiQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p6hWy2UOGP"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 beta 2 (23N5602d) &lt;a href="https://t.co/p6hWy2UOGP" target="_blank" rel="noopener"&gt;https://t.co/p6hWy2UOGP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p6hWy2UOGP"&gt;&lt;img src="https://cdn4.telesco.pe/file/RrPxyOGzp8rEJwzc_Y8ArpJbH8czkw1In4bdEjqZdPIqEYlD7-U-743EMCnuXtHdisS_to7rSEAegix_t2hfhD_8o9Ri52vdGCR9YKAmZivnQJSi1mW6WfKbSS8e-WJNj3IJzJtb5h25Ey3YncUXnScZEWWup0_OFXM6EhTjKj-K5ST7wdAdmgu4bHrUroBCOI-on2cTOjHVC-qHI7E6g2tBHGJY-QbBX1cJSUaJHunK7V6705qNAIeXR7EXDnRHBB2LBj_WyJjW7kEawRnB4z6SY14QKMK_zfC4fVK9N6rUPfLkrTt1EzdbzHM3dQeZYj1xMrIBtSigrSqKGPy9CA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p6hWy2UOGP"&gt;
 visionOS 26.3 beta 2 (23N5602d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -127,7 +139,7 @@ visionOS 26.3 beta 2 (23N5602d) - Releases - Apple Developer - Apple&lt;/a&gt;&l
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 beta 2 (23S5600d) &lt;a href="https://t.co/BjpMIjeyAU" target="_blank" rel="noopener"&gt;https://t.co/BjpMIjeyAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BjpMIjeyAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/t4-TKgG6faPikDfOrJz2KuLXaSwi4j6XvrHlb6RErfYL291fOsp-cvCn9-JabQ_30rGavpi4CxGvi7fVIixF-oxlHiwbqr1_rbmp5jK_MyRK0ENn3ATFTopKDA7-ciIDCSJIP7PEI6OPZ492XVq3dl4edqc5oGiMYnc1q1VCYQT6SX152TZFUuh_XlZijQDh0mYa7MpAIZmloqmTnTDYZUW-tm5EMsLD2Jd4gg6jG6n6bmEC9qe3MR0NY4QOb1dCIMCYct7o29M3QP18EaX0PVP1qhblewOHHvvMxQzy_4cxEu_NINjPfwVSPpL139r66JQ6wiB4Yjq1CITtKSgfMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BjpMIjeyAU"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 beta 2 (23S5600d) &lt;a href="https://t.co/BjpMIjeyAU" target="_blank" rel="noopener"&gt;https://t.co/BjpMIjeyAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BjpMIjeyAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/umuSZItv64Qhet448cES0CzemvGjTkanlwlmwaWPMCVdOI3AvC06mweLqTdTT0evYOs_kqu4Jusyo88W1yCVDsH0hMrIccHdIPzuvjeUc3ykj73QsgXSwEX5j5Wqk-vEEpIRHINeVt3aRJBlNdJJJ9K4-arFziTYZ180Lfke8tCQUodgunIw1OUyBgqjEDMKZdiUf0KQt0cFlW_yz90_oOezuEn42l1gvo_sAyl-Kj6Sre4DImM93hz6NVIZIktcvEZStVJfJgkW8H_cVybXprMj25fJBHKas672YJWjej5TyuL9KFX0vtYhE83U68VCRldkvLDZ79k3v1FL0GmHYw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BjpMIjeyAU"&gt;
 watchOS 26.3 beta 2 (23S5600d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +249,5 @@ GitHub - adjust/ios_sdk: This is the iOS SDK of - GitHub&lt;/a&gt;&lt;br&gt;This
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : CocoaLumberjack/CocoaLumberjack &lt;a href="https://t.co/yx7cPMQyrK" target="_blank" rel="noopener"&gt;https://t.co/yx7cPMQyrK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yx7cPMQyrK"&gt;&lt;img src="https://cdn4.telesco.pe/file/JgPvP3Cgng3dyIbtrDazyeywZNYK8jioxMucoM9WijhSJk7GHBJ3Xh-Ro4tzNOSdScCpjiKJpQWCZwlffg5aRgBh-JCSIvPIdZ5CmEIahazgDlwSQTkBBIMxRvKZ3MCDvCIQDOfMCdtnrROy8bhLG3cknlTJrBC-9u4c_RWTh_0mYBgr9gt8Afx-ZFsdrpZPO8Fw8wqXaaMyAM0K7Z4zZXFIt68sIwhbKAyXz913_52b9dEjdUCaXDp2l889Q8PUalFUsO7br8EBS2x2mJW1V7-QSsd6zoqJJ0hvVVmDZxudM-uF1idJpocvx3P0Nn4WmibxThenAT5oDSL0JGA9AQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yx7cPMQyrK"&gt;
 GitHub - CocoaLumberjack/CocoaLumberjack: A fast &amp;amp; simple, yet powerful &amp;amp; flexible logging framework for macOS, iOS, tvOS, watchOS… - GitHub&lt;/a&gt;&lt;br&gt;A fast &amp;amp; simple, yet powerful &amp;amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS - CocoaLumberjack/CocoaLumberjack&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : mangerlahn/Latest https://t.co/9pFVz3ygtZ</title>
-    <published>2026-01-11T02:12:25+00:00</published>
-    <updated>2026-01-11T02:12:25+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25699</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25699"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mangerlahn/Latest &lt;a href="https://t.co/9pFVz3ygtZ" target="_blank" rel="noopener"&gt;https://t.co/9pFVz3ygtZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9pFVz3ygtZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/LYqGr7_2DKrgAO9XVKNMAximEIDwH68jRNJqrWCRcVD6f0tFJbz5MEUyFCCs7uvejL0N5_ZAmJ7H1E366TBmdWw1BZdoh5ESDhNNbT-FNgmwlH0JmDpjcrctY2vg6AZyGs4unLr2OHWsDfTErivul9_7JEiMPoKZ5Xywkpan62xSDcqRHfXJZG_FWMiZTAH5RceoAcY7tIOMgZV-_Wu7Lw0lKQ0sLNJYa3fZ_3x8Wm6eoL4iB0_Jghft2RWhaNydIubxC9cCpnJxdP_-LAbP3uBJBKd27oo3GYcJhCQcqF7fzN8MdU78lmRl4ZIknFnem2Ud-d0Mv8Vpgyp4fs6AbA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9pFVz3ygtZ"&gt;
-GitHub - mangerlahn/Latest: A small utility app for macOS that makes sure you know about all the latest updates to the apps you… - GitHub&lt;/a&gt;&lt;br&gt;A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. - mangerlahn/Latest&lt;/blockquote&gt;</content>
   </entry>
 </feed>
