@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-14T15:29:24+00:00</updated>
+  <updated>2026-01-14T16:35:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -224,7 +224,7 @@ watchOS 26.3 beta 2 (23S5600d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to design an SDK to handle &amp;#036;10bn in transactions &lt;a href="https://t.co/YMWhBiEPCX" target="_blank" rel="noopener"&gt;https://t.co/YMWhBiEPCX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;&lt;img src="https://cdn4.telesco.pe/file/p2MskhoPvP0Q95yhi7746Ik2DqObZxplYh5T20N3Asi2qJGYsMSFFdKZR6WDDyfwXX6e6lzzOY_tjUy5aOK0L_yIE-4yhdNwqL0KTalsOlX2wZPmO-bTRXz13eLj_7Z3G5_QWr_X6dL9zQj3RvZhPUwuThryxDklov0Dw0JyPGR2_WcP0TAJWDWA8u2Ebdi9ULnT6pXL9aGsmcPJWuI5TTEt6SEFcX7WJx96Zm7BVPpvG-JfiPzGjqHPPmgUWBrbIYR87gcdBlOFI3Gb9Buo-4Eo1UAHevWLKsM4-OMs8iax3HgD-yRJAhI6CnLWlUwQICssj3EgE-ZjRQuGkIeyGQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to design an SDK to handle &amp;#036;10bn in transactions &lt;a href="https://t.co/YMWhBiEPCX" target="_blank" rel="noopener"&gt;https://t.co/YMWhBiEPCX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xhn0g3RIlJ6_6PKkZXqcwZKK5qmPkQkBdJhgP37LRhjrALu5CYFduIzle-1QqgscaA2UElP0WNGvJ2aIEtVqO9Vj-33q5jV2MbMbmgA-u57eie-7NUgJ19QFDEGRuGReHEbfN3IBC40quNKowYQ1kfq3-zkQpUe0fxRiB-XjESWA9JSAj3rxwk4qkmhZB5buxfG-RkWwu2nkJBhH9FnT4eex1bFyjN2VNPf0GJtgnl284X88qaWsSVBhXGyb1BKjSJT7Tr_IygYxB9SZ2DAYnD_DpUsi1DY4JQXWlnBYhaM6vQffEWierHXxRZCfyUYSnEmc-RoTe5yvzUueny4niw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YMWhBiEPCX"&gt;
 How to design an SDK to handle &amp;#036;10bn in transactions - Jacobstechtavern&lt;/a&gt;&lt;br&gt;A deep-dive into SDK design (feat. RevenueCat)&lt;/blockquote&gt;</content>
   </entry>
   <entry>
