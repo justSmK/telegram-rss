@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-14T19:21:53+00:00</updated>
+  <updated>2026-01-14T20:25:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -79,7 +79,7 @@ GitHub - SnapKit/SnapKit: A Swift Autolayout DSL for iOS &amp;amp; OS X - GitHub
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26 &lt;a href="https://t.co/zGnuVV4txY" target="_blank" rel="noopener"&gt;https://t.co/zGnuVV4txY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;&lt;img src="https://cdn4.telesco.pe/file/rAkPW_1dTUo5aVSuwutHbm4qT41sLpYbw4CI2dTJPV2SAHw9Q3CF76w3D_oEtpxhmw1718xyxpJuBa0lCVv2gxdzrQAXXGVm7OfXCjS793Bqy-V1R8dLb6EoShWTIVkAAAjk0r8txjEmfm3VLZqikU6o8VdZBrGLm6c1spF3p6l4Aaf0VVaxe47uQUImC6v9OsLcUSw7kAOhMAxZATWouxw4mDnDcgbNFPhmkyXnh7F3fPb-PZiXOC0hATqo7VHIu1HKZOPrDktugyZELd8rYneXN7m6XKUad5Rs7FIz-5C5gLEz-nf0sAWxn0shGWAxQ0-gpSeeyaHj4mUNF4x7YA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26 &lt;a href="https://t.co/zGnuVV4txY" target="_blank" rel="noopener"&gt;https://t.co/zGnuVV4txY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;&lt;img src="https://cdn4.telesco.pe/file/g2_9fADh_oy2wU6Q9L80Tqg1ixzQsDo1_UIgqN2moEzpqeOJBAmkg1fTBydDy25zA1e88wEMvBjemqDSBnQ8RbWH320cpfd78HA-miueJdApmfWeeaSrTkhahZBcLkWW_ml_yg1mhpZkojDIY2G36Fnqsg_k5eXfbXVDGRNYuRlM3hlo1Log5tbBiyNgxYL9DsZPjt1v6SYvx2hhH3_lbaQHdBufF171aF956VM9YpNhvYuCsosDKqzHakmT0f60MsuVtEZLtJvs_wGtW-WmX1Qp18hLUFv7seDhKH-BalSApZzcxVivcKnSc95YP059pqkgYEMamwQssfgfDCBzdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zGnuVV4txY"&gt;
 Apple Stocks UI Animation: Auto Scroll &amp;amp; Looping ScrollView Using SwiftUI - Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’m going to teach how to recreate the Apple Stocks App&amp;#39;s Looping ScrollView With Auto Scroll using SwiftUI | SwiftUI Automatic Scroll ScrollView | SwiftUI Complex Scroll | SwiftUI Complex UI | SwiftUI Infinite ScrollView | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
