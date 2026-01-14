@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gPIujCkVMHcMfdcXQh79mXsC6GBQfpFCcvmtmZCSo1xSCH-yLYS2wwxi4PAuksbzvh-XVz9VsjFnz_Gd-EvhCgSAeL_vWuuz4v8UvQvbfdbXI97BD2ZA1zm6Cj16ZFLrLbrZ7JQ2jKjbXs8yYkDV_se6WayNe_2D8G2W_LoC8hsgjlT3oymfHih9yyf1K83C65SVPQ9MT-rWVB2xaumZXwm142y8fHpSsGGFoUb1Okyzxhl4FfDevg1lgf7hQN6wayRrOOQI-FAmbuygtSkJRMonr_g1MLAVrQtOL0IKp24z-Jo5xy9GC5XiGp0Qzz741cLZIlZyPs-h83gYHqAieA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-14T05:28:10+00:00</updated>
+  <updated>2026-01-14T06:38:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot https://t.co/BueF4LIdXw</title>
+    <published>2026-01-14T06:02:46+00:00</published>
+    <updated>2026-01-14T06:02:46+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25725</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25725"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot &lt;a href="https://t.co/BueF4LIdXw" target="_blank" rel="noopener"&gt;https://t.co/BueF4LIdXw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;
+Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;Xcode 26 is incapable of compiling Metal shaders on my machine, so I need to help out to mount the appropriate toolchain with a Launch Service&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : radarlabs/radar-sdk-ios https://t.co/9DbeGT47W2</title>
     <published>2026-01-14T02:12:44+00:00</published>
@@ -104,7 +116,7 @@ Creating reminder lists with EventKit from your app - Create with Swift&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Defining custom string interpolation behavior in Swift &lt;a href="https://t.co/8zTI1ZRA2v" target="_blank" rel="noopener"&gt;https://t.co/8zTI1ZRA2v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;&lt;img src="https://cdn4.telesco.pe/file/CoWe_DL-ErFZd0syrDW5ltZHN5ygiISaH7SjBmOSPeCevot2G7JexQ89ACBvLutGDkRmC-k4mnWf_P3CDsbo1jnRmMG0qVsr4S9nzLln1WeqPzrMvah00DF-f3BP1BRyfTGbezK2NbGSwqeAHfo7NlkbL-ntWZWZqpGnValKu37HBE3N7Kiik8hvPkKSqQ-FJoTsAruxCaZ7CRbmXy9azZSL_yui5fi_knxvwhnqkBgub0FeIaNfqFxOmVw-4jHY6FLVJMwJxwHlG356dp2dAgPq3cCxv8EGwAfpHEJp0kiS6iN6elz29-wRCL-97GwbfEMEHrX_VT5a2H-kqnUIMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Defining custom string interpolation behavior in Swift &lt;a href="https://t.co/8zTI1ZRA2v" target="_blank" rel="noopener"&gt;https://t.co/8zTI1ZRA2v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;&lt;img src="https://cdn4.telesco.pe/file/eP2LlbjmAq0x9nJju1rqppY3kR0ReNinL0gSGcTPJz1fFv9eAHgtOyjnNCa3LfZ9zfZ4AizBu4pfikB53BnCK6cnOzkiVP4LGoFUepIv_vX0i5FaQDWpwle-XhFvaKSkcps_Kb8P7TsWtTjz8hSoYx3i3x8V1WdbBZ9dQc6_Xb1hJwX8DEeLxE0Fk-YIy9oHnhqcjCINxCm-T-2J0toq-M8pEDO3AkOzkV1YoKv8qU8EjZCaNZlHomnjiWbHWpuwa3rGYVgrNPHWtwyG-XToMup595BMbkPd5rhSRaOUeq3ikGp9qLln05oeFetj_5jQLwxbQIB3FLYvnJ8LZrNU2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;
 Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt;&lt;br&gt;Extend Swift’s string interpolation to define custom behavior, such as value formatting, directly inside string literals.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +250,5 @@ How to design an SDK to handle &amp;#036;10bn in transactions - Jacobstechtavern
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : vapor/vapor &lt;a href="https://t.co/7T8JnbUQaR" target="_blank" rel="noopener"&gt;https://t.co/7T8JnbUQaR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7T8JnbUQaR"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qi_xug9_nPp1xzjjcwuQEakp7XBJusRZ8tKyCP-sJgEoRsosktQFRXdI35HYbF3VFZ4CUYGNWxnV1DpDP9vJLNY83re1cQk8IDo65dUL3c6abwb53-YN2qyCSrQQNvyjJiBOa3o3nQk1wVHaEuVOWKF0NZBzel2E9yUz-gwCUjOKKG1y14oAi10_CMjfvRGLwa4M0fJS5sz8Pu42hRuJwLBEY9upPIkXt41xYs4e2esCosuZ7OLwFYWHKgagvgxjD2hg1jIRJwHGdeVC_P59uld5spioMw1LgZsPdhkg8avjJVill4espED6DFaHrbz5Eet7z3EZoxT_H0nRWsLsUA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7T8JnbUQaR"&gt;
 GitHub - vapor/vapor: 💧 A server-side Swift HTTP web framework. - GitHub&lt;/a&gt;&lt;br&gt;💧 A server-side Swift HTTP web framework. Contribute to vapor/vapor development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : JerryZLiu/Dayflow https://t.co/dMoVSsUqjn</title>
-    <published>2026-01-12T02:12:43+00:00</published>
-    <updated>2026-01-12T02:12:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25705</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25705"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : JerryZLiu/Dayflow &lt;a href="https://t.co/dMoVSsUqjn" target="_blank" rel="noopener"&gt;https://t.co/dMoVSsUqjn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;&lt;img src="https://cdn4.telesco.pe/file/O5r5w52BOunrydsNqSc-mhqTkyGzpWWNGJcC3K74BI_-QZOnDeb17FzVu3FskysPMFuytykIjQrrCvIdeqSz5suj3qv3_64bX4rf_2gnmakb3E00mCe98wR7nOaQBsISAH_3oF5X24BZzyDdXfmn6H_q2I1BS-9JFeY2AzovhYBUSgWhjJbA2h4b9peEMyxyTbMO8oF06DB2JQScexwu4X9guzkb_uJz-b1QVhbpSTK611i12VTGvfN0WmNPEq74anttqhGzawqR1h00AkAphDc_F8D5B_ke0uHIFg9VOIkv-oHKqB8eUlH9iJyIeaJQbmNXEqqnaChyziJItEpiXA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;
-GitHub - JerryZLiu/Dayflow: Generate a timeline of your day, automatically - GitHub&lt;/a&gt;&lt;br&gt;Generate a timeline of your day, automatically. Contribute to JerryZLiu/Dayflow development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

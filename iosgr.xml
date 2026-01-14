@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/BGcSmmA4hciK8tjGyZI8tVelggqZ7knVoYMba9im_CYROvTRwRRL9I_vq3aPHmMpYO4869vki_bg4XyYO9wm1TBZypdo8X-q2OKoseCn5kSGxgIJQ77Qhp2zUd6g16i3a2ADT5kVmxcLyxhvLknp0pjfq4htb5YrfF-tptUBGFlf3gGBFSA8iYgcxUc5BVJHj8GCzJKqHE8s29zFUJdxMcjVBUcVkYr8Tjol73tbLPp9GwtT6PJZ6RKFcShM50i4QZ5u3xz9HAKMWsvO48GaAUlODkDKTUPXKQ0FhrgiPdxYpAoIl9FYlJFBZfxV7ADoFJIzIyMcM_cH9utOdFaTjw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BGcSmmA4hciK8tjGyZI8tVelggqZ7knVoYMba9im_CYROvTRwRRL9I_vq3aPHmMpYO4869vki_bg4XyYO9wm1TBZypdo8X-q2OKoseCn5kSGxgIJQ77Qhp2zUd6g16i3a2ADT5kVmxcLyxhvLknp0pjfq4htb5YrfF-tptUBGFlf3gGBFSA8iYgcxUc5BVJHj8GCzJKqHE8s29zFUJdxMcjVBUcVkYr8Tjol73tbLPp9GwtT6PJZ6RKFcShM50i4QZ5u3xz9HAKMWsvO48GaAUlODkDKTUPXKQ0FhrgiPdxYpAoIl9FYlJFBZfxV7ADoFJIzIyMcM_cH9utOdFaTjw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-14T05:28:11+00:00</updated>
+  <updated>2026-01-14T06:38:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как деплоить в TestFlight напрямую из Codex Web&#13;
+&#13;
+С появлением...</title>
+    <published>2026-01-14T06:03:55+00:00</published>
+    <updated>2026-01-14T06:03:55+00:00</updated>
+    <id>https://t.me/iosgr/4581</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4581"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как деплоить в TestFlight напрямую из Codex Web&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С появлением такой штуки, как асинхронные агенты, разрабатывать стало возможно вообще не трогая макбук. В статье разбирается, как с помощью Codex Web сделать PR, собрать его в Xcode Cloud, и сразу же залить для тестирования в TestFlight.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;&lt;img src="https://cdn4.telesco.pe/file/CyHjMbhbFO_XmAaPZDQ8-Lo1YDicSf35BP_pkYgPMz66OWZmg7nmXn4x8mtXOGDC65_4iNj9c02UYeau8-cNIbURa46zkS3BUdSNQhOVxeDf3Qwv_4YdsdN1TciQidMPy-DFmAlqYyKGFoOk6NAFQ2eyduXTb-cQYskiNlYfzabqUwZ1tK6DeIsbnae2iAlioGQOJtmjJ0tSG8cDSXtEUvGVoNpv_q0ZDFUCm8lOuvCWNcXqts3QNzhwiYvotfkuLRnxv83NfIIz1TstRjE-ViE_gYUT76eaTVd1mNPJgGDB8tAXUbeol4dtRrKkawfGET8JTRaXbF19edB4Ger4mA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;
+How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Apple будет использовать Gemini&#13;
 &#13;
@@ -21,7 +35,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple будет использовать Gemini&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ну что ж, Apple Intelligence, Siri, и видимо локальные модели будут основаны на Gemini от Google. В целом это отличная новость, Google за последний год огромный рывок в AI сделали, и модели правда хорошие.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Px7A2qHiZuDx6ByazuaiRlc7RKp7r0R5gRraQQ-lHfD_WUWF9r6yTCwDY8qQ4-lATgiwfUzxOprjUAVtroXTxh5UolZxaXJK3A_7PHsijzxM4HsJj1EiUP7gtYGSmeZ44tFD69-AANrpshKLeEzhemncEqlxrjNVUJUN3VdQlRgSij2NCOfBVdNbqveyoIP-rvP655vICFz3_5OVL-MlAywSwV9_RQr2XTql76StjPjOo9l2Y-M7cgYXLTB4rz6KeXRhcXhKVzA1-EwvB4RQl2R6SalK-XNLT9-B2_VE3aydUAsrQqloayijZofGICGgrG8fE8d42fNzdhg9TE14wA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple будет использовать Gemini&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ну что ж, Apple Intelligence, Siri, и видимо локальные модели будут основаны на Gemini от Google. В целом это отличная новость, Google за последний год огромный рывок в AI сделали, и модели правда хорошие.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;&lt;img src="https://cdn4.telesco.pe/file/STKmzJUtBchgg1EejBGHPoGg5En-TtdadnkVzQiGBGlIdTQC_9uF66pCxxA34VOjg7SUwwkzlTSLV7RJYc6q13TefuqYvUCKQJDXGPxEnx97SgSr7c2cB1WQchAL-pKnQ6vXA-ry-W7SWrPn5JbhlfZxR3kIglbfZBqQ9XG3BlWZMcjCdhFH_t8CW541zl2hRkOv0BbY8vWroGTbHnFFgIdpgs5LBiLN4bBtQiAwuuijSc_6IUsmd563K8vPtbh5IXsOMaH2N47fafiBnZVeoZux86hKGWE992NxHs7CaSZjpRV4KyPd06fvNwa6kz0kPNQhhpEUdH2b483rpS5Zrg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;
 Joint statement from Google and Apple - Google&lt;/a&gt;&lt;br&gt;Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google&amp;#39;s Gemini models and clou…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -35,7 +49,7 @@ Joint statement from Google and Apple - Google&lt;/a&gt;&lt;br&gt;Apple and Goog
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Dimillian/Skills" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS скиллы для AI агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Буквально пару месяцев назад у AI агентов появилась новая фича – скиллы. Это набор из промптов, скриптов и тулов, которые помогают агенту лучше справляться со специализированными задачами, и подгружаются лениво.&lt;br/&gt;&lt;br/&gt;Так вот, держите набор скиллов для iOS разработки – разработка красивого и производительного кода на SwiftUI, публикация приложений и много чего еще.&lt;br/&gt;&lt;br/&gt;Отдельно держите &lt;a href="https://github.com/AvdLee/Swift-Concurrency-Agent-Skill" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылку&lt;/a&gt; на скилл для работы со Swift Concurrency&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;&lt;img src="https://cdn4.telesco.pe/file/usN4Si8AcSoP4odXPgA1uUMeA1Js0JIcnZBZbxCmJd9i6cVGGZO-T2X0GRnaBvoFZWSBQT0EVVIc-Ff5jnRf4SayLcVXPPwNxWaFXFs969XpsA6FFzZP5F7zY1I0KVz1n0P9balZxpCmjlGAF_9YE1jZufO2ogdsrWs5lRlPRFl3u-CyRpJ0Tik6o6x4YZ9k4JjzK5CLV_BOrE9D4nkcjbJsfsEyCXcKORa41b6uDHB4h8TUWemZufmgve_WPWivdTkbkzfL0edoFRHCeyb0yBYW1wdBxGEVfX8He37Ln4NJgTzdg7o6H3f37KF1HXqjErxl-4yorXsrHFJoPRBm_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Dimillian/Skills" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS скиллы для AI агентов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Буквально пару месяцев назад у AI агентов появилась новая фича – скиллы. Это набор из промптов, скриптов и тулов, которые помогают агенту лучше справляться со специализированными задачами, и подгружаются лениво.&lt;br/&gt;&lt;br/&gt;Так вот, держите набор скиллов для iOS разработки – разработка красивого и производительного кода на SwiftUI, публикация приложений и много чего еще.&lt;br/&gt;&lt;br/&gt;Отдельно держите &lt;a href="https://github.com/AvdLee/Swift-Concurrency-Agent-Skill" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылку&lt;/a&gt; на скилл для работы со Swift Concurrency&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;&lt;img src="https://cdn4.telesco.pe/file/tLYUusM4CzI_odB7KbAM0LPtLv2btImSyZG95FZwfWUF7qVld65b36_w0RIdspalu9gpLOe-i-qLorNthMkmun2-7cqfIjt6ul_g_Uw3wrbi9Xk261N0flLslCVl6hJmSQ8yzhDt5B7I_bKafstnimiqUwvQiQJ8Nmr_tOd4EwkoNodzpT4g99U3cMgs3NnmEDvxIYa2KD0jqDbguA6kYjcgdT2Cw0f0DNfsxq4IRsXjxiuymHGrGkGwXvELoc87cIux_tgBf8CbzR2dMH3IK462l_KsjIYWGYUzF--8lqRwvcN_4hkVPWvVjMs_yD5Y6BGiUKY5y_sEIGZ6OprhNg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/Dimillian/Skills"&gt;
 GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex Skills. Contribute to Dimillian/Skills development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -49,7 +63,7 @@ GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex 
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/CdMNPclJO2hgJNBFkQ25F8mh0zgybArd2RAYX0GzIXlBgWkKxwVFFmIeeau4MlW7MhFBlaeaw6XMq6keaySV0GxzfY4mAC3NOSHCiOmuOgKO8E0KElXn_cGiMDaD4WoptbAAF6PikcurlM0Nz83n9URHjkmJu2Ra3qaBOQMMjK5hsEYrQLXhE7UKSEmE6kh5DMCPzdp3l3SLmqYy5E8JWX-EQjOIm7Ifp-Pjrem7f9jJu393ibi2HR15Y1-jEbeEs2lbQqaJMuusDhWAVYUfihx9O1bxSm884YYoye5ebzqkZuvhvfXuItwRU2ZtpNedn39um0VWdXpINC4cUfRiDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/ua-u6Bn8vO-WpFYTKtoUYO493p5XQBaig5SJJWToHrFmeqPuD8s7qhmjTDWVAmLKcRrVbeNAs9kXpI1WrlkgSxMhyYdGzwBXO9Wv8yeKJOaQbQ3pbE4kZkif3sYUbZrA3EbUrcEtnEh_ECmw3E1KBSYACb-ejIJ_1gX4-KIIPLdXxlBoQGezW2HGF0641CASWITGMIAWDe96uU3IEhcidM9r1B9d1yzf7MZuZO_Q5i40qMzEmYI7Qpn4iyZigNLLSh38MsfBerweJ6G5VT0kV_BxaWDyp1so4a6iDzsl9X-8vXDr9hE5WIyisi3TpAUzQN381R2dcKacnQk_3f776w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Учимся работать с пакетом swift-subprocess&#13;
@@ -285,19 +299,5 @@ Exploring the Swift SDK for Android - Swift.org&lt;/a&gt;&lt;br&gt;Since the ann
 the Android workgroup has seen a lot of interest in how it works and what’s next.&#13;
 Please read on for some answers to common questions about the technology and its&#13;
 future, and try out the new Swift…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Non-exhaustive enums в Swift 6.2.3&#13;
-&#13;
-В Swift 6.2.3 появится улучшение...</title>
-    <published>2025-12-22T06:03:06+00:00</published>
-    <updated>2025-12-22T06:03:06+00:00</updated>
-    <id>https://t.me/iosgr/4561</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4561"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Non-exhaustive enums в Swift 6.2.3&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Swift 6.2.3 появится улучшение enum&amp;#39;ов, которое особенно важно авторам библиотек – теперь в них можно добавлять новые значения, не ломая при этом обратную совместимость.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;&lt;img src="https://cdn4.telesco.pe/file/T63z7GABIhPKTYynpwLcp6krw3cPHQYcgnwyjNGRyYOxMmDEr3bKTtYkLtP-gP90Vax2r18xldGayMG6uWYvonV5PrpTvL4iCrn8uUPpAyvNh08y2SWONws8vbRknWsJoncTAJYxm-pkzAnO9sOXQKFqsgAzTncxNbbDL13g5d1tW15tcH3vy8UwTJTkMSELm84kzGGRjO2OKSwCX_sIFTqH-hSybYuB3-lCPGE5fsnUvy27SW1_5YsTXxvPyM9ae34LFaHhFsIAnTQzdKCEwSKgnIDFohBQ9tdXw2Y_4qaKyqYdRIN6NSgjP__Dq6F9IEOno6TJufIInL_uNW99oQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0487-extensible-enums.md"&gt;
-swift-evolution/proposals/0487-extensible-enums.md at main · swiftlang/swift-evolution - GitHub&lt;/a&gt;&lt;br&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swiftlang/swift-evolution&lt;/blockquote&gt;</content>
   </entry>
 </feed>
