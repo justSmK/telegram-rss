@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/BGcSmmA4hciK8tjGyZI8tVelggqZ7knVoYMba9im_CYROvTRwRRL9I_vq3aPHmMpYO4869vki_bg4XyYO9wm1TBZypdo8X-q2OKoseCn5kSGxgIJQ77Qhp2zUd6g16i3a2ADT5kVmxcLyxhvLknp0pjfq4htb5YrfF-tptUBGFlf3gGBFSA8iYgcxUc5BVJHj8GCzJKqHE8s29zFUJdxMcjVBUcVkYr8Tjol73tbLPp9GwtT6PJZ6RKFcShM50i4QZ5u3xz9HAKMWsvO48GaAUlODkDKTUPXKQ0FhrgiPdxYpAoIl9FYlJFBZfxV7ADoFJIzIyMcM_cH9utOdFaTjw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BGcSmmA4hciK8tjGyZI8tVelggqZ7knVoYMba9im_CYROvTRwRRL9I_vq3aPHmMpYO4869vki_bg4XyYO9wm1TBZypdo8X-q2OKoseCn5kSGxgIJQ77Qhp2zUd6g16i3a2ADT5kVmxcLyxhvLknp0pjfq4htb5YrfF-tptUBGFlf3gGBFSA8iYgcxUc5BVJHj8GCzJKqHE8s29zFUJdxMcjVBUcVkYr8Tjol73tbLPp9GwtT6PJZ6RKFcShM50i4QZ5u3xz9HAKMWsvO48GaAUlODkDKTUPXKQ0FhrgiPdxYpAoIl9FYlJFBZfxV7ADoFJIzIyMcM_cH9utOdFaTjw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-14T09:32:30+00:00</updated>
+  <updated>2026-01-14T10:29:11+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -203,7 +203,7 @@ iOS Good Reads – swift, разработка мобильных приложе
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Еще одна попытка объяснить базовые ментальные модели за Swift Concurrency, в том числе, как работает изоляция, на простых примерах кода и пончтных метафорах.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Еще одна попытка объяснить базовые ментальные модели за Swift Concurrency, в том числе, как работает изоляция, на простых примерах кода и пончтных метафорах.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ESASeKQqrTED97qCGHDK_EIrINer7c-YPZbHAbliKE99yFlRbJ-OC-GVySHLjp8fu0ykT5lu4ysbKdNZyShi9_QU_oIuLJ_VTsMyWC0kIugl6r6VFr6iPke73fJvS8mxp3IXIjw_k1ZepveHkd0Qshco_fk69On_uevgUAMaxPHWDW9N9qm-u93MUGoR19983beTEI_N3XZ1UZokzLei-KAKjhx5fvRflVXKRs2-eE_1hzYYANgUwYHn_gwbb1b8wck5iBqXRGnvPyakA0-i-Mps5wnl8ldmWfDw0B2Gva_Webx76-aJtC9zFsPlvIzuWe6zStD9gT-n4WdU8-UhpA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
  - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
