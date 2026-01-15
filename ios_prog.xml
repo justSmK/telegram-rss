@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/YLb7hsjuAm1r9rUM_GoYahZDFI0-NN_4KKj2xr_OKEDXIvPAhQFFwPS146R6dUQZ50Mw2YbEMdStPzFexZwUUZ0NIIb9UaTVjpb6RnDaupv9fGsYdhlSi2WuWX4FloIuZj1GsLlEmXeoUBQT3zC5fMIv_7mFrNxx68SeQQhAcPCctWPikcyOOyg9Ld7s3bcW2WJ41p-K8F4cAPj3TAYamFYspzU-W1JEdTDyhRqJLcDeg88JjjlcrNQEW65OFuPqO-iedfYNhu0RwWbGreWjml3VGGc_B6vywrL0ggAxADN8fCgwsEuR1iVw7K6cz0KOmvTJak9vL1Y6op1yVrlr8A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/YLb7hsjuAm1r9rUM_GoYahZDFI0-NN_4KKj2xr_OKEDXIvPAhQFFwPS146R6dUQZ50Mw2YbEMdStPzFexZwUUZ0NIIb9UaTVjpb6RnDaupv9fGsYdhlSi2WuWX4FloIuZj1GsLlEmXeoUBQT3zC5fMIv_7mFrNxx68SeQQhAcPCctWPikcyOOyg9Ld7s3bcW2WJ41p-K8F4cAPj3TAYamFYspzU-W1JEdTDyhRqJLcDeg88JjjlcrNQEW65OFuPqO-iedfYNhu0RwWbGreWjml3VGGc_B6vywrL0ggAxADN8fCgwsEuR1iVw7K6cz0KOmvTJak9vL1Y6op1yVrlr8A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-01-15T06:38:54+00:00</updated>
+  <updated>2026-01-15T07:28:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как укротить SwiftLint в масштабах компании&#13;
+&#13;
+В&amp;nbsp;этой...</title>
+    <published>2026-01-15T07:15:20+00:00</published>
+    <updated>2026-01-15T07:15:20+00:00</updated>
+    <id>https://t.me/ios_prog/695</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/695"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/695"&gt;&lt;img src="https://cdn4.telesco.pe/file/Se98KVukubIrHIvCUV05VUX3tw0oM9qIp3-jYB4w8X5PQ0ICbKx9TNkjipKmRl_egCQyqfERUg5QfTG4dLK_x-KHi_2NTSLlULKiWQZoJxYfKcM3A1B0SO7-MTvQEz92JwQWgmj7Qv3ZIAKopdV0v54dub9YYD1OsdE-HKkHIPIzLtvBxYIKTiDDsE0r4l_YIxlDD2LzO-L1bmA4QZzTTi4SVo7eEOExvN3b67gMLPBxDetvqoFwSFvcD7NtaLPi6wHQOYfSW6xr1efPKEsJa1o0sotLDbV8fK-3yZLjkpYltbafUI4ESFMLyYh1PiuzfS2wdd_4aq62SPTONqFPHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/naumen/articles/981474/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как укротить SwiftLint в масштабах компании&lt;/b&gt;&lt;/a&gt;&lt;a href="https://habr.com/ru/companies/naumen/articles/981474/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;br/&gt;&lt;/a&gt;&lt;br/&gt;В&amp;nbsp;этой статье делятся опытом настройки SwiftLint сразу для&amp;nbsp;нескольких репозиториев&amp;nbsp;— так, чтобы кодстайл оставался единым и не&amp;nbsp;расползался со временем.&lt;br/&gt;&lt;br/&gt;представляете, что&amp;nbsp;происходит дальше. А&amp;nbsp;если вы настраивали SwiftLint в&amp;nbsp;компании с&amp;nbsp;десятками репозиториев, то знаете продолжение истории: со временем правила неизбежно начинают расползаться по&amp;nbsp;проектам и командам.&lt;br/&gt;В&amp;nbsp;одних проектах лежат старые конфиги, в&amp;nbsp;других&amp;nbsp;— локальные исключения, а&amp;nbsp;корпоративные стандарты существуют где‑то отдельно.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Всех с наступающим новым годом🎄 желаем вам крепкого...</title>
     <published>2025-12-31T09:31:08+00:00</published>
@@ -108,7 +121,7 @@
     </author>
     <content type="html">			Каждый день появляются новые инструменты, которые автоматизируют рутину, пишут код, создают дизайн и помогают тестировать продукты.&#13;
 &#13;
-Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Тестировщики&lt;/li&gt;&lt;li&gt;10% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;10% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;8% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
+Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Тестировщики&lt;/li&gt;&lt;li&gt;10% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;10% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;8% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">🍏 Apple планирует продать 247,4 млн iPhone в 2025 году, что...</title>
@@ -244,18 +257,5 @@
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/676"&gt;&lt;img src="https://cdn4.telesco.pe/file/WGsq-6mYEIe9xk0W5CrlMzQvbLfrMQhzukbXtPUnXiuI7uvWA_uVWgNaD4MN7vr71spcC7G3dZGYTK8sCRRe3VlcD7eBeKcqb4pWuxZ-C-taAoNepCHRy4QkluNO2FURMXO01_RM1Hz5Eg3YCny-URH86_T33RwSmTspP7d8CGu3rRWUxwwY4IrZgdoPLz2amSNf8-64S-ls7hnRhhzu2ICW0zK5fshWhKpWr-MnvTcEZhmYd6gY_bHaK3UWNbgyGvyrBjCbs1m1z-waSkZcdFv5gYPoE2qheFsPerF9lftOzZW8N7CPq599EFbhP3XGKPHJDgk_JMSLO9klFqKWvQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://youtu.be/E4WH_OZvSRA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Бережливое управление людьми — менеджмент без переработок и выгорания&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Интересный выпуск про то, почему важно управлять людьми бережливо, и чем бережливое управление отличается от бережного. Гость поделился, что его зацепило в теме выгорания руководителей и почему важно рассматривать это не только как личную проблему, но и как организационный сбой. Конечно же, поговорили про переработки: в каких количествах они допустимы, а в каких уже нет. Обсудили подходы к человекоцентричному управлению и, наконец, то, почему счастье сотрудников – это не просто красивый лозунг, а экономически выгодная стратегия.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">👍 В iPhone 20 не останется ни одной физической кнопки&#13;
-&#13;
-•...</title>
-    <published>2025-10-30T07:02:49+00:00</published>
-    <updated>2025-10-30T07:02:49+00:00</updated>
-    <id>https://t.me/ios_prog/675</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/675"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/675" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/675"&gt;&lt;img src="https://cdn4.telesco.pe/file/OLZ6DQklDimgHWyHeXpEFMMkXVWwfLXuPPwhpQI1F750AW7j0u2qcYnkPY8vqVM3S8nW5QJfeJrJ7yMv29vIdsur0wm_V1nKtVlGYfcNi7fJZ14sgBi54D7E8kvbDRS04tJWspi-c-aZd6JUWrFU8uojjaw3qAY0sUeH9r2Y-zVs1YdOciYQeyuexPtEhckVOeIvXKSvoyoYV3XJHpbIaQQGkZ6VqrPviE7PGs79uFHC5JDgjSluFjut9dfA1xnUqJPqbGMRmNWs4B6mGRSiYH6oHJwLA1LPp4mFq1tT5BnDT918lstcGfI73V_qxA1DjTKXE83YozWDkUGbRFiZSw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5262717242759463011"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"&gt;&lt;b&gt;👍&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;В iPhone 20 не останется ни одной физической кнопки&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Вместо них будут использоваться сенсорные кнопки с виброотдачей.&lt;/div&gt;</content>
   </entry>
 </feed>
