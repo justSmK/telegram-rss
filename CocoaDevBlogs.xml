@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/C2xVDDNp9NOQfp-wrUhmUMQ9JimBW2eWZLQvmyMJujFekWUSm2QrPdGQWLctxaeKmFie_vSYBtM7aIK2IFE4qtYnukfd03SS1Jn-q1EK9A-mFxBw3IIgjyJPDMVwZRQSZhBhrBVZyFW7qUnpvNKJ6YKKPy7hmdFBWLF4sEHD1BS2VNNMOLfBhpMXnALN5D_GsaxKCS1opl6Y9xL_pnl_C9KWFYH7FlbMQtzRv-0-cOpu0UWLdLsd6721D6uHVd_RFmBrbUvPgEB3AqQW65AuwyYlhufvoSF_LgymwSvHx9c0ZMjGf1JzQftanmjTxFCdLb2ZZE_-5zQnDxwyoangqg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C2xVDDNp9NOQfp-wrUhmUMQ9JimBW2eWZLQvmyMJujFekWUSm2QrPdGQWLctxaeKmFie_vSYBtM7aIK2IFE4qtYnukfd03SS1Jn-q1EK9A-mFxBw3IIgjyJPDMVwZRQSZhBhrBVZyFW7qUnpvNKJ6YKKPy7hmdFBWLF4sEHD1BS2VNNMOLfBhpMXnALN5D_GsaxKCS1opl6Y9xL_pnl_C9KWFYH7FlbMQtzRv-0-cOpu0UWLdLsd6721D6uHVd_RFmBrbUvPgEB3AqQW65AuwyYlhufvoSF_LgymwSvHx9c0ZMjGf1JzQftanmjTxFCdLb2ZZE_-5zQnDxwyoangqg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-15T12:53:06+00:00</updated>
+  <updated>2026-01-15T13:42:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -139,7 +139,7 @@ Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating reminder lists with EventKit from your app &lt;a href="https://t.co/XUaBsPlwCY" target="_blank" rel="noopener"&gt;https://t.co/XUaBsPlwCY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;&lt;img src="https://cdn4.telesco.pe/file/FDXgrSgCJ6twHSBh4IyB0L-DFHZ6b_doZKQTMduZw2syMmFjzlSogwEWrfzQBZkDnDAYmDuxxlQOTcNvt3qQQYqSHNr-LWmwuM-kys0OV22VQtXsbHjO1Dzf7Lhl_qj87TZMYTG1izjoVCcdSWuVsZm4AB7pD5BLm8giMAxgK5p8qg4vqPcdK45CvQiusriQRMCWoTX-EjU0KzNJtuWVPuFc2u0PmOu3Ts6K7gB-c6tjfL32Wc7edP-fOt55NQTqBu9-6CdBsTo4EdIIls-wdP-2Z2BYtu4UvsJKpNqFpgwRNwKNpJWJY54iwK1FOP4ceaJfU9GLoKOKxvVtxDjBgQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating reminder lists with EventKit from your app &lt;a href="https://t.co/XUaBsPlwCY" target="_blank" rel="noopener"&gt;https://t.co/XUaBsPlwCY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;&lt;img src="https://cdn4.telesco.pe/file/EPRiiWWVDGfcXgsRLWEuDRUcrEY5nVNv7RzMAaFrBbOubGHGv6DsDL7F7F1JMbeVa_iPsFRWfTzUCjqRUW27_Xr6F-8MjOllSNdu4oPCPtJ2cItSWtr0ph8dZOrfBQurml3OZKDbNsae5VXQFEsAxQZ8LFfATvt2r0GTfygsDkrRlQ-drRQG3F4qhc67fN4ozT79632lSiY4D9Da5fll5yHtFBko6Ujz3BSTqM4hJOCAS35o97Mri5Bmnym6DURc3A5shZBJlYcRPaeFuek52hycB8yaH7nKVq8oepi6p7TvM5TWHRgztLZ-YqelOd6pHZeFMWPWmqr66e3ufCdDBw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;
 Creating reminder lists with EventKit from your app - Create with Swift&lt;/a&gt;&lt;br&gt;Create new calendars in EventKit to organize reminders or events under custom lists&lt;/blockquote&gt;</content>
   </entry>
   <entry>
