@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/CCeZrHD9ZJcpTGXhkp2Cv4D-CSKqqgHBUUcRcdE44PqQI9ty6P9gQiyb2UXtILvfYQHwiEWiYm8smAvOGgKIiRgfmepsxwThqm85xtTlGODItNNv6E77LBavrYB4J4Sy6RPLmyf5gDiEhnWDh1VasuFZqvq4QvUalzkiPvDnbRBGJ6hSQWGbz9V84joR3giBMRQ82THEhNDjCkTF1mKqqkRlQWAUZj3FhMoZK8Fl5mgRfXoE16rrrbuOxQkF_W04UAsAc3Iv4pOwhgZteZwruZH09VO4GnTxS1bBBM-eME4i_vhV43sOjWc6g4Ed7Wmav2USsenVt8xfqo1ESdYmAw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-14T23:20:45+00:00</updated>
+  <updated>2026-01-15T01:56:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Universal Links Done Right: The Challenges Nobody Talks About https://t.co/UOAAQdOLXP</title>
+    <published>2026-01-14T23:37:20+00:00</published>
+    <updated>2026-01-14T23:37:20+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25726</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25726"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Universal Links Done Right: The Challenges Nobody Talks About &lt;a href="https://t.co/UOAAQdOLXP" target="_blank" rel="noopener"&gt;https://t.co/UOAAQdOLXP&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot https://t.co/BueF4LIdXw</title>
     <published>2026-01-14T06:02:46+00:00</published>
@@ -128,7 +139,7 @@ Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : home-assistant/iOS &lt;a href="https://t.co/D83j4PLDCV" target="_blank" rel="noopener"&gt;https://t.co/D83j4PLDCV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ij1knI9VRP32kvAGZKLuP_pvb-3cxf4uBen1bkBrPJWOMPCsbKutTCFdZYPsNwoFNjZZgrsICjFY-th1MuPNEBrKdFbT0tLnR4BxK_QFA-SPoyK_bzbvG8sidl8zA5HHsVOoQmMFogQdrnjjq6TUktDTcLBkk0XAL3dnzly7kCggjeIEffOu0nfNysapU1NNZIf8vch0J9_eRSXuISokZw8vrnQ3AYuxm76m_ggvSsq7vFOKdICkQusvNNZRqfNJPqQ3FxIi1Kd8GvovVcz0aNitRGULSQmTXEy1b2ybEbqrGfH2-rdImnxgHmdPFk1WTL5MEcuLy86dzWuKXgMTmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : home-assistant/iOS &lt;a href="https://t.co/D83j4PLDCV" target="_blank" rel="noopener"&gt;https://t.co/D83j4PLDCV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;&lt;img src="https://cdn4.telesco.pe/file/LDfyUjr7SEh8mZGLBZ_LgS-nTbcPSPXirFhjm3JXqAm_Uw0KFwPfoBn77Qb0IU1XlTmgiAHlA9K1pIpcx8HwltPoTXQ0eK5JzBkZ4NoP1swu4Hg61u5X0u5BDk7_ZHDuwsZTKtvSFGCjuZvt1dteV58P75U4dzSGOyOCqSsxORavPKdMgi5Q--uAsV_1POK06LhimzTJWDIPPMLBmo_E7YKp1EqWdSxCK02JYP6Clj34D9wNIXkSYL8yoHhzau2XkrwKi1x3qG305GGYAddygVl8R0sNTKgc-oF-uKBc6sxY-XIXus7qTxVf7HJjewvBaLbVRcL3kSlhE3oBv-YScQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;
 GitHub - home-assistant/iOS: :iphone: Home Assistant for Apple platforms - GitHub&lt;/a&gt;&lt;br&gt;:iphone: Home Assistant for Apple platforms. Contribute to home-assistant/iOS development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -140,7 +151,7 @@ GitHub - home-assistant/iOS: :iphone: Home Assistant for Apple platforms - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/u0_SJeCLMlapQ2C2F_0F5k_bYVuTisl6V4Bn4KYZ_T-oJMeEacUEk1YqjdLKFZPcElLD036rBxK_7msuxJXlIyI0bvBj6mc01Omf6vUUPV05_03fvzl8HzoXXJcjC7DN217_95UhS38BMM9TMfS40yBelt5LuiuhEzhrwvfBtvzVNytQE1WdR_gS_yIGK_ClIDEyThEzcWy-7pADeOjZolT0OzSzHDvce1hxZzI7GRrfpFgiyobWj1z5BCGnUBEJ50AUFC4D9pi9KD-Nden3li5VOCkbJ7XNFRUzg9ZZdXW-aLzK2af4g-N6QHRg60UUQozDYOoYq4_lgrG9-uR19A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/d6DZIr0sYHCvgXgn1pSJyZ-mtJTjWYAdQqwq5AGN-cZidPSXjUTMiPvWUBZmMWzvbrY8jLgmoLv2uLX0zuuUrQrv8KQK58TOECYs4ChSz1jE2SOQkBRAFvKd4V9TiVHeL-cVITHdJzUQUAeeRv6oK8Jy2rnHlBUfAddGzciaiyoanPD98CyOth6-vvtHsULM6m4a-nPAkzmKeVZs--zfXchFoLOfeVEreb8nZujDfOcbaHD_CDmPu8v-qWzQiJIMdaKCRRujiL2eVK_BC1_T9Po2HcEhNkB-zqB__2LZ24rNFRpfvxfvMJrWsXLLJlPR6yRdEkSjiUzH6RAdCpC0gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
 GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +249,5 @@ How to design an SDK to handle &amp;#036;10bn in transactions - Jacobstechtavern
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agent Skills explained: Replacing &lt;a href="https://t.co/kWWTFS135D" target="_blank" rel="noopener"&gt;https://t.co/kWWTFS135D&lt;/a&gt; with reusable AI knowledge &lt;a href="https://t.co/L1LasX7WhK" target="_blank" rel="noopener"&gt;https://t.co/L1LasX7WhK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;&lt;img src="https://cdn4.telesco.pe/file/B8iwvN-k0_Z8EtbXky22nG_bHfxY8uyVCL7oRlZmwDJIUlP4ejcIHRzXqY6PvY_yJ4ZSvt0uuNyZlsMRfCbLYmZCSfIwqlnF5ye2Km4iL973AFHNdBl-k2rTfJPaianfvCbUrW0D02azSlGHfW8H4BXGu2o9wUdkOngWqm4MyGha8zbB59kuIbrt4qfbz5BuhgEkUqqX63pdXAU4-gppWUkccs6f94ph0WQlm8S0VrfXxnapTCjbaXNlU1YO-Ep8KES9iGb9AbdYGlydHk6ioauUXbNA0Ej-Dcqg61FL8RxOMjpfJHERC2r36gDSGoiw2wRweI8intTpJcEEqgVzUQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kWWTFS135D"&gt;
  - agents.md&lt;/a&gt;&lt;br&gt;AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : vapor/vapor https://t.co/7T8JnbUQaR</title>
-    <published>2026-01-12T02:12:44+00:00</published>
-    <updated>2026-01-12T02:12:44+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25706</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25706"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : vapor/vapor &lt;a href="https://t.co/7T8JnbUQaR" target="_blank" rel="noopener"&gt;https://t.co/7T8JnbUQaR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7T8JnbUQaR"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qi_xug9_nPp1xzjjcwuQEakp7XBJusRZ8tKyCP-sJgEoRsosktQFRXdI35HYbF3VFZ4CUYGNWxnV1DpDP9vJLNY83re1cQk8IDo65dUL3c6abwb53-YN2qyCSrQQNvyjJiBOa3o3nQk1wVHaEuVOWKF0NZBzel2E9yUz-gwCUjOKKG1y14oAi10_CMjfvRGLwa4M0fJS5sz8Pu42hRuJwLBEY9upPIkXt41xYs4e2esCosuZ7OLwFYWHKgagvgxjD2hg1jIRJwHGdeVC_P59uld5spioMw1LgZsPdhkg8avjJVill4espED6DFaHrbz5Eet7z3EZoxT_H0nRWsLsUA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7T8JnbUQaR"&gt;
-GitHub - vapor/vapor: 💧 A server-side Swift HTTP web framework. - GitHub&lt;/a&gt;&lt;br&gt;💧 A server-side Swift HTTP web framework. Contribute to vapor/vapor development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
