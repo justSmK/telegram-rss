@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/C2xVDDNp9NOQfp-wrUhmUMQ9JimBW2eWZLQvmyMJujFekWUSm2QrPdGQWLctxaeKmFie_vSYBtM7aIK2IFE4qtYnukfd03SS1Jn-q1EK9A-mFxBw3IIgjyJPDMVwZRQSZhBhrBVZyFW7qUnpvNKJ6YKKPy7hmdFBWLF4sEHD1BS2VNNMOLfBhpMXnALN5D_GsaxKCS1opl6Y9xL_pnl_C9KWFYH7FlbMQtzRv-0-cOpu0UWLdLsd6721D6uHVd_RFmBrbUvPgEB3AqQW65AuwyYlhufvoSF_LgymwSvHx9c0ZMjGf1JzQftanmjTxFCdLb2ZZE_-5zQnDxwyoangqg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C2xVDDNp9NOQfp-wrUhmUMQ9JimBW2eWZLQvmyMJujFekWUSm2QrPdGQWLctxaeKmFie_vSYBtM7aIK2IFE4qtYnukfd03SS1Jn-q1EK9A-mFxBw3IIgjyJPDMVwZRQSZhBhrBVZyFW7qUnpvNKJ6YKKPy7hmdFBWLF4sEHD1BS2VNNMOLfBhpMXnALN5D_GsaxKCS1opl6Y9xL_pnl_C9KWFYH7FlbMQtzRv-0-cOpu0UWLdLsd6721D6uHVd_RFmBrbUvPgEB3AqQW65AuwyYlhufvoSF_LgymwSvHx9c0ZMjGf1JzQftanmjTxFCdLb2ZZE_-5zQnDxwyoangqg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-16T04:42:08+00:00</updated>
+  <updated>2026-01-16T05:28:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -215,7 +215,7 @@ Creating reminder lists with EventKit from your app - Create with Swift&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Defining custom string interpolation behavior in Swift &lt;a href="https://t.co/8zTI1ZRA2v" target="_blank" rel="noopener"&gt;https://t.co/8zTI1ZRA2v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;&lt;img src="https://cdn4.telesco.pe/file/DT-YbRjqv5B7OlGQJmpVtT2AS0toVQvwupo23B6QO3Vyn6vicu_vZfsP9ZewDZrYnUVNpBCYYQdVeUCJFKL-znOoEkM_TqOAIZM7PbJym3gT3FdQVdInSzd6NYSkNASqaoHBTgWCzWSnRbrYU__IWHE5MtaxC6iOdmktzVu_TOoZlxJJIpW6qawsfTgWRIPUb8M1O3eO5QvBC_8IvGnzWspB8278qvbfXIOiQV1j2VP3OzGYUHatQ8ckrvd6Z2EryhD3kf-s9L99adaTSaUNU9XzKNskoWbgnkdR-h366nYG9FMGBwQBdYgLmGxLewh-FI2OETjrlrrJZ8YhxRrltQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Defining custom string interpolation behavior in Swift &lt;a href="https://t.co/8zTI1ZRA2v" target="_blank" rel="noopener"&gt;https://t.co/8zTI1ZRA2v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;&lt;img src="https://cdn4.telesco.pe/file/lsCcQNDQ5W2qfZKsW4TVTkp2LJveKpDH0PXpcsPZAgMkRFCOVMGFFJi1hGVzxXoWS84m0h3E9Rko8qK9xesFOngPB6kCeknR-TZpcy-DFAZyUONhLy5BrAFPCH2pCeI6kNk4u3kd1DEBvtc1VEXGdOU3cDQHqcxgAKOV_xt5cMUPdhqxoWZplS2RqyD3BJsyz6ELt9XXbKnkXmq3FtxQzh3Q2YuiemlvB9PDnnOJ5HQUr7KLkG-drna-KJi5NEbQxxNrsWvnA_fG7kEnBR8bQBPsVNrKG3LkH9GKl6kzhbxgMKOfTf2Xx9JfQ5Tz_FwgEG75GaIwrpU3iDzMqabAuw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8zTI1ZRA2v"&gt;
 Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt;&lt;br&gt;Extend Swift’s string interpolation to define custom behavior, such as value formatting, directly inside string literals.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
