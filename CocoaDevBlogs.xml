@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-16T21:25:08+00:00</updated>
+  <updated>2026-01-16T22:24:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 739 https://t.co/HG62LX6bL6</title>
+    <published>2026-01-16T21:47:48+00:00</published>
+    <updated>2026-01-16T21:47:48+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25735</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25735"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 739 &lt;a href="https://t.co/HG62LX6bL6" target="_blank" rel="noopener"&gt;https://t.co/HG62LX6bL6&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Crafting document-based apps in SwiftUI https://t.co/LlAk5ETAXb</title>
     <published>2026-01-16T14:12:31+00:00</published>
@@ -241,17 +252,5 @@ Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : home-assistant/iOS &lt;a href="https://t.co/D83j4PLDCV" target="_blank" rel="noopener"&gt;https://t.co/D83j4PLDCV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;&lt;img src="https://cdn4.telesco.pe/file/rBtOIfso8zHDndljONBZdEqBCDGxY9OgRfCi5RPDRWe6QoeJspYLDWOYWQ0f4IQuTKCycb9Vsbfz5XO6uJEmztG340otqBiq-BYOp92nblssmT3WOjn0Y580WrL5s3gfPaB59NPrGsXdIlB122MATx3Gqb-ibFABvJxm1Qt_2TlnoShoafYsL5AYKlq0oFAIfusfuvwaJ95UZHwYIQergij9NE6Gp9K3Nedb0HmXVehSwoi3IPgRzEGsXMuPnbwVT-utUY0Ir3heiC8L2QFxHtUqQATd92eKrjXxK0SnHBCCTqZGvHkLSIDFlVzUTjEO3QJGHMA6qyRNYXa2WES5Zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;
 GitHub - home-assistant/iOS: :iphone: Home Assistant for Apple platforms - GitHub&lt;/a&gt;&lt;br&gt;:iphone: Home Assistant for Apple platforms. Contribute to home-assistant/iOS development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : github/CopilotForXcode https://t.co/lojG2xlxWB</title>
-    <published>2026-01-13T02:12:24+00:00</published>
-    <updated>2026-01-13T02:12:24+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25715</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25715"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/S8D88ryGgWVl0AlbUEXDDyqJLCi3B1VAByJeJLM1K_ArrdjwVb2smtwYJcYF3cyxB-YKLryXAvDdyRRj-LiKSsc8dU2gwiLeS2VQGUCk8jGFM2ocJjwoK2p2xrB_IWCMMWppqXXYjh252DEs_A1ryUZX1AwvO5WwVS_12XiomrECClgbxCfPWANHaQl_DbHlfyIcziD8i9QcQjVesmv5PpUROvwuiLRa35My05O92wTfGqrH01D5mxcMruapWjOuzSrJy0mV9A04C5tY_Yo6aFv_yvJ-r7HWLz-1NTGCryvbMWT0DjpWpKCF1vb-QDjB9KnrbESKrKPP3iAvw9Gz9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
-GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
