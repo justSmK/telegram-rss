@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/vA6jH9zrlkh3c72O4yST29CGR_oYVljrObGqE6ek3e0iXQRGr5P7i-ZUDQ9vqFDYpl0r7BUSsxjdHc7QKjvKs6ppx4JS4ZDrqFCQGoJEmA5l84DmcpJToEiM7jWi7soopPKj-YjJyrhWgz5LRvkYY0wSOiFVSiaiomL2qVxZEbtf65qAsH30h_klxxRxdLMZG-y2fZ7AssBxJpL__s9L9tc9eGijjVgbPC7g-nffO6rzW3wW9aoUqaZTMSjupuaWq0b9J66Ehd9KcbnPEJVcqUzG9SiZXvchC_r2EHTpA31Gb2oBWEj1okhqjopO4OivkFGMQczYpAXwESoIrlBeXA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vA6jH9zrlkh3c72O4yST29CGR_oYVljrObGqE6ek3e0iXQRGr5P7i-ZUDQ9vqFDYpl0r7BUSsxjdHc7QKjvKs6ppx4JS4ZDrqFCQGoJEmA5l84DmcpJToEiM7jWi7soopPKj-YjJyrhWgz5LRvkYY0wSOiFVSiaiomL2qVxZEbtf65qAsH30h_klxxRxdLMZG-y2fZ7AssBxJpL__s9L9tc9eGijjVgbPC7g-nffO6rzW3wW9aoUqaZTMSjupuaWq0b9J66Ehd9KcbnPEJVcqUzG9SiZXvchC_r2EHTpA31Gb2oBWEj1okhqjopO4OivkFGMQczYpAXwESoIrlBeXA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode</id>
-  <updated>2026-01-16T15:28:15+00:00</updated>
+  <updated>2026-01-16T16:34:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -41,7 +41,7 @@
     <author>
       <name>Код Воробья для iOS разработчиков</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/sparrowcode/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/cUzt390mG9oKySH3IkqHIj7m0hZ6db34vTxSD-NLpkp04cY70rlaGpf4LGS3a9Fdp9y6wfdWocFdHk5uT5rds4TiMonoRGfDahWOQQJuJx_bLLqYy2e-CpKGmWpxby-GYG-MHDafB52J7JBtGRhd9LnuAV4uLnfLKdZEajz3wLWBQo7djFL8em9Nv7ylodnIQKx4sJi6bGYfMxlhfaSVvTfqafln8fnJJ7nFNNY4WmX1ckb5JLElIGa4yjDR2dfjbD_a1BMUjHsmh8LYkdukJL8qOR1_GYGvyoCiupfk4W5rbq2IXyZ-ouGWSLeHMALTu3JE5TJIPIrUWZrySv3j9A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Для энрола аккаунта компании всё ещё звонят (не всегда)&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Постарайтесь избегать РФ и виртуальных номеров&lt;/blockquote&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/sparrowcode/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/ff2cGMUcVxjLOSoWujL7KVYN8QSobQ5pqzKQMhpj8Vpq-TIcd-HNY2wkTAEYOlzlymsdpUtlBHibRsyNskHKhdIr5An-88mJx70DDlq2KibFU-0wG8vEzclAXFtQr6NtHwpGk0zsB2N082C1w32oahPEsrU-srhm4ndlvWl7fE6zkyi8XKwpiMgVSPHMqlS222Ez0SYf1_MVrARm-KYf92TCpz358bBjfObeMn3bnq-wLB3xXCxGbLJtAy9wrZIPWXFv2RGitax2WfxJLCpOADgnSGKCWoDYZDH6UxiiciNi001LJxS-x-5nH7Qrya3u2OWB82zTZKo1jJ87laOqgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Для энрола аккаунта компании всё ещё звонят (не всегда)&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Постарайтесь избегать РФ и виртуальных номеров&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">У мобильного клиента коннекта новая иконка и...</title>
