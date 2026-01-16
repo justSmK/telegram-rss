@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/Pz6EMa56tvrG3jDcju_akXuJBfznEauudvE4aNNhPlancG7fnt0wj3dI1Wzb4XhnPM7N_6St0pvsol-I2k3aAbiGcHrkTNQMYw2J5ba98V2SQucavtKJnHP19LTQ08JAEgbymzOQ8oI3mvhV_4xcYLcw1hTkqnrxijCi9O2Lwi6dzLEzzWBu3FlV2BYJiEdKOCOyKeVQL_YMfLpo8ofr5Td4JIydMHJjWAzTc4fVmVeNNgrhX9YFS8iVNJUpBswn6F45yuyGZQFmMIexWZCNS7AGVRzRiVP7wXCgI4ZVaeZZ_J287ngp0v72mkqZ2zSyx_ieJ39l2Kx_31hYrYQMvw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Pz6EMa56tvrG3jDcju_akXuJBfznEauudvE4aNNhPlancG7fnt0wj3dI1Wzb4XhnPM7N_6St0pvsol-I2k3aAbiGcHrkTNQMYw2J5ba98V2SQucavtKJnHP19LTQ08JAEgbymzOQ8oI3mvhV_4xcYLcw1hTkqnrxijCi9O2Lwi6dzLEzzWBu3FlV2BYJiEdKOCOyKeVQL_YMfLpo8ofr5Td4JIydMHJjWAzTc4fVmVeNNgrhX9YFS8iVNJUpBswn6F45yuyGZQFmMIexWZCNS7AGVRzRiVP7wXCgI4ZVaeZZ_J287ngp0v72mkqZ2zSyx_ieJ39l2Kx_31hYrYQMvw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-16T05:28:42+00:00</updated>
+  <updated>2026-01-16T06:38:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Гайд по промптингу локальных моделей&#13;
+&#13;
+Apple выпустили...</title>
+    <published>2026-01-16T06:03:30+00:00</published>
+    <updated>2026-01-16T06:03:30+00:00</updated>
+    <id>https://t.me/iosgr/4583</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4583"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://developer.apple.com/documentation/foundationmodels/prompting-an-on-device-foundation-model" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Гайд по промптингу локальных моделей&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Apple выпустили документацию по тому, как правильно составлять промпты для моделей, доступных через Foundation Models Framework – в том числе как делать так, чтобы модель лучше следовала инструкциям, и как выносить условную логику в код.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/documentation/foundationmodels/prompting-an-on-device-foundation-model"&gt;&lt;img src="https://cdn4.telesco.pe/file/BIVmirT9heIMsM5PiYEwbHYGvoKW_iek0AL02R2c7lgCGh7Zr78CVPzryeguJejIy1mj8o69YScMdBUQ6Q4CYR343Sm6yY2qWwNxeE_yDczUjTrJc6nvkWkkTJ0IrqLb4EPkFbWCpuVfmFB7lTTGVf-CvqE6SK-R249JE5eEBJhtBNuk8tCTG4_lZx8srxE5Tn2Qv3I2BKcL7Mvd3cP_aRH-hHoRXATKhlP2YZXIwP2Sk93FKvKv52t-iqvlgnLmi09__UWVTcWg-FXpytkZ3Rh1d35on66jwCWYU3WAbZGL6C2paOJsGvATxxnXLJhvrRSeqTSJ5Xy5JO6ZhEKRdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/documentation/foundationmodels/prompting-an-on-device-foundation-model"&gt;
+Prompting an on-device foundation model | Apple Developer Documentation - Apple Developer Documentation&lt;/a&gt;&lt;br&gt;Tailor your prompts to get effective results from an on-device model.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Dependency mirroring со SwiftPM&#13;
 &#13;
@@ -38,7 +52,7 @@ Drag…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как деплоить в TestFlight напрямую из Codex Web&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С появлением такой штуки, как асинхронные агенты, разрабатывать стало возможно вообще не трогая макбук. В статье разбирается, как с помощью Codex Web сделать PR, собрать его в Xcode Cloud, и сразу же залить для тестирования в TestFlight.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;&lt;img src="https://cdn4.telesco.pe/file/fpYyZ9-I0lh4SGb2u-PuY-xOzmCp1jjDmZzLkZ8aTaGMij2KXlh1717WWRI_iOk7VxVXX5BrccMOmqohTLb_mMgZMpxBEofsU41-ydPSEz0ofKNi5l-k31G2aTXRULKczWjP3oSVz3t45waXlqd9q4pHNpv5nyp3K_d_pZuhxvFjiHlLF6HMk-ZbjR0c04qLWZbPz1Q08rszhY7E8fKaFYaRwZxiwwbqOOhn__-3UwyoPqae1p0upxVJ0nfj_fNcM9MwYsQ4zdwXEgpHyot6FvGlkFMGvBHosbHd42On6lksCNIrRMIyeUhryhVmKLMdfKmTsqPYmVyzB8iAF6ubrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как деплоить в TestFlight напрямую из Codex Web&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С появлением такой штуки, как асинхронные агенты, разрабатывать стало возможно вообще не трогая макбук. В статье разбирается, как с помощью Codex Web сделать PR, собрать его в Xcode Cloud, и сразу же залить для тестирования в TestFlight.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;&lt;img src="https://cdn4.telesco.pe/file/OnlKXkCXuK10_3jNzsnSuWQPzPtqxS-KTLqog3Khup59zgXwwaWWvpjKfUXRO0eRiXLqtsoc1mUtDIh8uDmnYFSBdUR7j6I6NoQe7psQPD3WKePc9NbSC36j3HDLkNqp-J5J98U5gBwzQM-AWF5xSyNfw5N0bZsAR9xFXC6jq1rmwQtMv6vleMV6ARXR-il8zJZZDaDiuxEhb9xwWdAM6oF89kY6T5WFOQ4vg3lA4WfkeQdDT7n1MBhy_uC3U7Nz7mRTJmdPVbQSHdih24BEK_GIHNSpt-Sl5jqXoPWoUA5so1jNvj2KTRubrKBXO3bq08KQyWpWbziG9gqwKn6vpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;
 How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -283,21 +297,5 @@ iOS Good Reads – swift, разработка мобильных приложе
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если у вас есть свободный час времени, подключайтесь на традиционный новогодний стрим подкаста Подлодка – будем подводить итоги года, рассказывать про наши главные открытия, самые полезные книги и всякое такое. А главное – разыграем среди зрителей Switch 2&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.youtube.com/watch?v=eafuYyRuy6A" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Начинаем через 10 минут&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как ваше приложение влияет на батарею&#13;
-&#13;
-Если вы не...</title>
-    <published>2025-12-24T06:05:02+00:00</published>
-    <updated>2025-12-24T06:05:02+00:00</updated>
-    <id>https://t.me/iosgr/4563</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4563"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/AJT0otxsmLpOH9vCGiy0zUfM-8oS8GjJzTO42XQ89JyVfZ7C2sOJkYwaf02pUYnrOSUz5Sm1Oip9ncRlvdRGVYIK4Q8tJuFkhWU6xVnXcCWo59hylNU3vSRYVk5H4BX5g_7UY0HRvIsLhvNWCVJ6sO9eZeEoz9q351nSiawM440ne3U9vyqayz9AvkZ7c1QVvyi-MtoKA-VZ8lmZuTw67AO5RKdZC4qHD1jAO3dfsRWOxxBw7GqjGygeQruE3-VZ9EKWWPAl2Tf9wPXEDXz58BAsnWntTfeUXFwP4wSrKnUdGFEFlMHlh5_vVRpfOairRaRyiWCve7XlGScGRzgDHw" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/303d96930b.mp4?token=VmcXMK4agSfHPeSJHMkexRSHkAZ9aPr6iK0fP6x3eDL13JBYKOI6uf36uoc6jT2BBkOXUXYxiDKmcRICG30DoCqLGIjVpLJL0ErA5mtLIcsV1RErJvS3kgy0fU8I0FJJERQo7srgzUc9v6SYGv76EasWhmM6GlLLoNYKQjr5iAYaY-eP3Sbao_doMiPgQQah08KUYw-zxI_oA7Wnr_8dXDJFMKmQT_AlBf1AXZh2cjR_-_-CAYP-PZmoVUXyNMMnXoH9CpTo_BWcHk4nX5RHxneMK5cTyXKABpDgPfLoH5xXqN_cTpwToycMoDMoplVN55tfHa3w5a6MbtVq7fhAHYWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/polpielladev/status/2000626967121453288?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как ваше приложение влияет на батарею&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы не знали, то в последней версии iOS в Control Center появилась возможность прямо на телефоне запускать профилирование вашего приложения и оценивать то, как оно влияет на батарею.&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/AJT0otxsmLpOH9vCGiy0zUfM-8oS8GjJzTO42XQ89JyVfZ7C2sOJkYwaf02pUYnrOSUz5Sm1Oip9ncRlvdRGVYIK4Q8tJuFkhWU6xVnXcCWo59hylNU3vSRYVk5H4BX5g_7UY0HRvIsLhvNWCVJ6sO9eZeEoz9q351nSiawM440ne3U9vyqayz9AvkZ7c1QVvyi-MtoKA-VZ8lmZuTw67AO5RKdZC4qHD1jAO3dfsRWOxxBw7GqjGygeQruE3-VZ9EKWWPAl2Tf9wPXEDXz58BAsnWntTfeUXFwP4wSrKnUdGFEFlMHlh5_vVRpfOairRaRyiWCve7XlGScGRzgDHw"/>
   </entry>
 </feed>
