@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-16T17:27:03+00:00</updated>
+  <updated>2026-01-16T18:37:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -79,7 +79,7 @@ GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, w
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/qdOgR7KsDvs12LNNgAgqcBk8wDzn5Mj9JW8PfO04CG0qJycFoE0mb1j78UBLoiE9FklLcptjLgR6l7oYCnf0v6YlxDz8O1VekFvaSfc2qdDQ0p-Es6y5brn-ZBE6XXIPxNyBCLofNxyivdyj7wdSPwqru4gwDuMLH3CfOmM_oPMozOszh6NGn0URY8aHVG8gNOm6uECBBbmTEgMyTkyoJ-s0YieciNoEpACWCuSpUcVdKdSw1Or8Nbze7Rj1D6pgm8tmZA202nTsB5awOeAaXQsMGVzmk1GoZgMgI1Fo0yjB129gHJko9K1ssITH-Hib6R4Cx3U922EWi4z9E_Bi9w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/qCA8H1BphM9DJFdug2XafUG_BEHYT6nF-vwh5qIozpd4xr3VulepTeaKobTqQx13g0_9d09b0l5Hh-WyodKeKGv7KtFwHQr0Eh1MbKzfFXS-OLXYxgxyWWSJW_wxWt8cVND05hnPamfmSsNeoPkSkVER8eEtepBLezEkrBwXGj2I_P-uv1ZWEQieXJTpw0RdpoTPsYdo8qYySc5MlPVKwIBBtvkFCmX0WNSvw7x4qmZvuhMlu2ihFFPsdqTJn8xKEnLHbLQ6CrjLffmFk2pv9o7a5LUe2FLJTx5GSNWrJUoE8ScQ8FvwIFXXuYF2dd7y6VEmAjs2Ae2yTLmjbtLJxA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
 2 Hidden SwiftUI Scroll APIs | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;ll show you two useful SwiftUI Scroll APIs which will be very useful when creating complex scroll interactions | SwiftUI Scroll APIs | SwiftUI | Xcode 26&#13;
 #apple #swiftui #ios #xcode #animation #ui #ux #design&#13;
@@ -203,7 +203,7 @@ In this video, I’m going to teach how to recreate the Apple Stocks App&amp;#39
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/S-n_A2Q1mzGzS2zZlU_4xT8BkeSN-8cPXYbpiROYaGoQ6ZSEOn_GTQIetYp6UB5gLtd7bABYqJep2VlBxqYXQ03IRks_zPG353KTpkueWznvUNUgGtYMVjZy1Y326addv-dkQB3nJ9x9WAv05Vvp-d_BVKT7dfEVAUUEBHOwHQb0YcSDTHc-Er7OQYnqlnD7i9BRXYPt_t7w06kenHStk01tqKGpYFGOPi89ntJ8KjyViGYYEVGcgNu7zG34XWiKSoJP5JQU7aoH5S9zPCkL1IXFna-wbczpMR9eEfN8nKQnmVZMfM34jCdfWQE6ybySD9Q3qXmxqWOzymrR3CvYSw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/And7yizPxafHLWj4r9SCF4hyORq499NFcn1091e0g3D8aLKzAdzgHjs7R_KRD-CkldQMIC_C9aZxhjhtf8J5_tG-YrTPtybXLVtOsE0_h1A7zqW17cTOytmJvoCr3DnP_2RhQZIK7hZcgiaMyiCQJP1m-NL7ad5VB-rGvXNF4UM9kOuUMGjoIuVMCXT_EcRyt9i387M87tBWARwFQ7kfoQIOQw6KfbuLERaK1GC06fDy5CHTJaSLvdFPEN7EG-jn1eST7QWpvEo09guZbJfZtLIxxIv-XOnQwEpbuxqfn8tnnU7whyYiC2VOYFCyBZB9f4AhLHf6LMc7NcmiYDCKkw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
 Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to render Markdown in SwiftUI using Text and AttributedString&lt;/blockquote&gt;</content>
   </entry>
   <entry>
