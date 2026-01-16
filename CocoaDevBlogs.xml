@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WbhqNtZeKLwT7zSLu448iENYJm3Dnv81LJLHxvaYK2AvKv844-LiJiod2QTsQxFSqvqeiArcQlhAA_9ukdoxFtIf772bHZ-JulYxosoYGsmPTNmitxtUmzkrhz8YE8vJv07hxqZvXFVJEYQQnHgMB3qsyTYcEADKGdZAbOWkJkCXJ1Z4r0Xo-cDYC1xW-rEILjyBMEOzFjIQ5Gj8bgpzLts8cHJsuK0nTy50VvF9zJ9-ysHikiiZB0uT6DgA6iusRdkVfG5e9PlckIuvIfvPLXI6sI4zDjzx4bt4fQwVBiat3dyPFR2yqTptnwAkbUfscphtFZXGSW39SECnQ9k4DA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-16T13:40:00+00:00</updated>
+  <updated>2026-01-16T14:27:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Crafting document-based apps in SwiftUI https://t.co/LlAk5ETAXb</title>
+    <published>2026-01-16T14:12:31+00:00</published>
+    <updated>2026-01-16T14:12:31+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25734</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25734"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Crafting document-based apps in SwiftUI &lt;a href="https://t.co/LlAk5ETAXb" target="_blank" rel="noopener"&gt;https://t.co/LlAk5ETAXb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LlAk5ETAXb"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZQZqVmHi3ELKkcpHDxSTApdHCdW1XyG2tgZoxPEbukSxyB4Dam3ndjXXzZBLBBiwn3IXfbCBl10yVy_4qKWbOPFAkVPNdaOmu8jPOlxk2gB0_5Uuhm0Vt1gmzvPn1zkOHcQr34TpiYqCPEyLzl6_wgNTdnprk7ASIUNytej9t9mObkBH8Em-Hs6GydvSqkY5dyFF1wIxLns7K2_f4f-4cf5n6DPwsilofTg6nn2lF3ycD0ok6ypUW62ZX5q5D2PM3Soo1FdP4k4DKVJ0qBX55FDhRs96j5Gl0NR3MEJ0Com3Y9OG9L7Ue136LCyjcnzyRCKTzV2DWemcZrH9kw3FIQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LlAk5ETAXb"&gt;
+Crafting document-based apps in SwiftUI - Create with Swift&lt;/a&gt;&lt;br&gt;Understand document-based apps with SwiftUI.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : zendesk/support_sdk_ios https://t.co/NRXZaAm4gs</title>
     <published>2026-01-16T02:07:43+00:00</published>
@@ -43,7 +55,7 @@ GitHub - ivpusic/react-native-image-crop-picker: iOS/Android image picker with s
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : airbnb/lottie-ios &lt;a href="https://t.co/pqS6Tdbp7o" target="_blank" rel="noopener"&gt;https://t.co/pqS6Tdbp7o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;&lt;img src="https://cdn4.telesco.pe/file/CerWqooQPBJxp7KTVuqLUUUp0SSIrsZdGyWLqKEDrSmOT_uQvq5IGwe408xN-RjYvPPCKI0BQCwEWOs4Hv7boYwnbOpLTRVml-LvViEwEvccHDO-MTak6c1MYXbuRXz9xedO0VpdsJ1KqGVkhlH6cS2_LKm0QYfr1rogDKxb7ONOizKNqGuzTZN-owa_PltxfTAGeLOOqz2Cqk6cCErrAUPkAEjngJnS4dJuJ04_LNn8Dw0n9PC-P6KtK4HF2soJF2__op3deIYiU9OHYKc7l24c0gZctzOdDX7Uox7qmQkQs1TQubpGrAFQhdnVfahrDXAReEycu3E7ib3UdkItcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : airbnb/lottie-ios &lt;a href="https://t.co/pqS6Tdbp7o" target="_blank" rel="noopener"&gt;https://t.co/pqS6Tdbp7o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;
 GitHub - airbnb/lottie-ios: An iOS library to natively render After Effects vector animations - GitHub&lt;/a&gt;&lt;br&gt;An iOS library to natively render After Effects vector animations - airbnb/lottie-ios&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -241,17 +253,5 @@ GitHub - home-assistant/iOS: :iphone: Home Assistant for Apple platforms - GitHu
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/S8D88ryGgWVl0AlbUEXDDyqJLCi3B1VAByJeJLM1K_ArrdjwVb2smtwYJcYF3cyxB-YKLryXAvDdyRRj-LiKSsc8dU2gwiLeS2VQGUCk8jGFM2ocJjwoK2p2xrB_IWCMMWppqXXYjh252DEs_A1ryUZX1AwvO5WwVS_12XiomrECClgbxCfPWANHaQl_DbHlfyIcziD8i9QcQjVesmv5PpUROvwuiLRa35My05O92wTfGqrH01D5mxcMruapWjOuzSrJy0mV9A04C5tY_Yo6aFv_yvJ-r7HWLz-1NTGCryvbMWT0DjpWpKCF1vb-QDjB9KnrbESKrKPP3iAvw9Gz9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
 GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 26.3 beta 2 (23D5103d) https://t.co/gx9Dy8lm7M</title>
-    <published>2026-01-12T18:17:41+00:00</published>
-    <updated>2026-01-12T18:17:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25714</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25714"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta 2 (23D5103d) &lt;a href="https://t.co/gx9Dy8lm7M" target="_blank" rel="noopener"&gt;https://t.co/gx9Dy8lm7M&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;&lt;img src="https://cdn4.telesco.pe/file/AU57EBuXFnr63-MWMvnWmT2-gABiVn2wlxtQPR69mo9SBaIbegDvBciEpYC3aNog9FE7BaSjSUAT74490wllsAGmlC9M8jiRaiJZ3fqQlzKFYMUmdH-VOmu0tFA_W_zZOsdnsnCIA8sibXF6waCIsJzl4863T4UOxjZJoapyTesCS8-zd_LDe7Iasm05O1QIhjuslP5WojWOffrtAsVZQ5SMI4dh5Z_2mMrQKTwwr6VOPjHhb0RfD8mL0Z407vBV6JntV-h26gMnqwnxkvte4nwfirNPpoYcm3mQJV65COxhDEFeRGyNzzdPEzwf9LNCdyULugTHzmN_rGcA-_v7ow.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gx9Dy8lm7M"&gt;
-iOS 26.3 beta 2 (23D5103d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
