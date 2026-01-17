@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/GQ5As_luMutpdvjs_hC35uR_yGql6Po0VY-pWGnTU7UfcxXaKzOBfW9-RSlaK-MBcS5fF3hMHnXBJvtqBthEpfSsAKyZcBnxYa65dv5CY6Yx9_QiB-YRWQL9R36iog_sX8cCv4rDQag38umlUcKeHgklFANJ2R4Ur_HKYX4x0m0B_Lde1JgFPBFAOKweYA5cgYOeBApP6j7LhwSCZ3pSpjPPqzvgSLp3NhFQU3OYIOjQ8xe-eBJ31CTadTs3ECWcBfDos-0z2VeaVoUaOMIW1dJdrFd_wdJ--7KCyrpF7aBImBeu1J1lN4y-JgnVfBXT3QhUIOelzR0RCSjU0EO88g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GQ5As_luMutpdvjs_hC35uR_yGql6Po0VY-pWGnTU7UfcxXaKzOBfW9-RSlaK-MBcS5fF3hMHnXBJvtqBthEpfSsAKyZcBnxYa65dv5CY6Yx9_QiB-YRWQL9R36iog_sX8cCv4rDQag38umlUcKeHgklFANJ2R4Ur_HKYX4x0m0B_Lde1JgFPBFAOKweYA5cgYOeBApP6j7LhwSCZ3pSpjPPqzvgSLp3NhFQU3OYIOjQ8xe-eBJ31CTadTs3ECWcBfDos-0z2VeaVoUaOMIW1dJdrFd_wdJ--7KCyrpF7aBImBeu1J1lN4y-JgnVfBXT3QhUIOelzR0RCSjU0EO88g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-17T14:21:57+00:00</updated>
+  <updated>2026-01-17T15:23:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to install GitHub action runner on EC2 Mac https://t.co/iK8Tx7Pxiu</title>
+    <published>2026-01-17T15:17:51+00:00</published>
+    <updated>2026-01-17T15:17:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25738</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25738"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to install GitHub action runner on EC2 Mac &lt;a href="https://t.co/iK8Tx7Pxiu" target="_blank" rel="noopener"&gt;https://t.co/iK8Tx7Pxiu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;&lt;img src="https://cdn4.telesco.pe/file/JajtU23D4WFwMjaeH2WWaOov1RVVthvS4Eg3RuJ8siGE6ZRlVMOQCNH7xy_s8TgXRbBSNZrAgN7NUHTKf4ZNccahijXR-LapSaorRw_jpn62RCPqWBuaQtjJLKOkqrCqKhuDdutYX-VyZo3PDoiwDLEKZ9hloAU1pbPBn4wf6286rnhtaRtSSL_wTu_6gLejpOpdjQC5OwNigm_CvG6_Yt9_FC3r_kYqRgnrxhp3F3xK_Rp_-rXXFP775iqD-qLKQiRl_cILUGzn1qXjhQiKxebZL-KdxKfbvn9oqjRW1ym5Px910xc9chnxuaBvbpEQmskTwwrcMlxGzGXRRUr8nA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;
+How to install GitHub action runner on EC2 Mac | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1002&#13;
+I recently set up self-hosted runners on EC2 Mac instances for iOS builds. Here are my notes on what actually works—plus all the gotchas I hit along the way.&#13;
+First, grab the runner package from your GitHub organization. For complete official instructions…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : RevenueCat/purchases-ios https://t.co/AhOPrQ6tZ9</title>
     <published>2026-01-17T02:07:33+00:00</published>
@@ -240,17 +254,5 @@ In this video, I’m going to teach how to recreate the Apple Stocks App&amp;#39
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/qeIoqoBEY-zAjL85F5AHyXZQkYjdsSbSjWzdrRHqUGmoDxyFDR_HxGiFAJHAHiynjQxTjQrBRkatyvB_raY29Wo4p-lfCPST3whZIZ9iZSLZo5M67yNpYJ0WDWjmhhFumxup2prsEicUGQ9ZrqQkAOyqJXGHGH-ufIUnk3rljwras017M40KEhAlKZ97Gpvv2KAskyPR5E55iBfgINBZweRX5fA3tKtZY-JUTbG5ca5xAbqka5CxgR8haUsRQO1kSTmAhjZtJOpfhpOgadz56YVYz7TsY5feYHynOpzY0qqKw-YbvRwB-II68T3HNWBzmA3momzsVprncnzxvEN8Kw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
 Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to render Markdown in SwiftUI using Text and AttributedString&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Creating reminder lists with EventKit from your app https://t.co/XUaBsPlwCY</title>
-    <published>2026-01-13T14:07:25+00:00</published>
-    <updated>2026-01-13T14:07:25+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25718</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25718"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating reminder lists with EventKit from your app &lt;a href="https://t.co/XUaBsPlwCY" target="_blank" rel="noopener"&gt;https://t.co/XUaBsPlwCY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;&lt;img src="https://cdn4.telesco.pe/file/ToHvuJZyPnDIl-d-MMFwqDowqWxK7pzNuB19doxbt43XBHsOjpIwg8WvUjMypDjcRb9IFG0Uz1_ivUsK-YFJNEmXFOBMp1LDLFFlLb-HimlrRSQ__CCrht-NyJ4ObYkbLS5FUyFpag6FMYYuvov6riDDwGNqVvb-RRQ_MTJeGDCkyyvPDpzifLCOeXQVwC_eTRDpsAEx6z_rTsT0lzBtu76w63hrvy_8InyL4W9MNYOf20b-ACagiWgsVu7Jb_KP9OS4mFtIUAJzggqGd5iEwCAA8o7v_RBxvIXYpneV30YngpY5TURUTjVVLYiH-qFVkyY7Hyyaeyn6abzlIwRDVw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XUaBsPlwCY"&gt;
-Creating reminder lists with EventKit from your app - Create with Swift&lt;/a&gt;&lt;br&gt;Create new calendars in EventKit to organize reminders or events under custom lists&lt;/blockquote&gt;</content>
   </entry>
 </feed>
