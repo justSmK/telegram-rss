@@ -6,21 +6,10 @@
   <icon>https://cdn4.telesco.pe/file/WLQeB38rUsBClBsVdyG08ksUB7kNRUjiuplBQWChXtP_Y0FC0Vj0G9c74SVTz0fXUQqL5T9c_jFSUnVjw9ww5JWrUU4_JYfA7bX4JTDtAkTpbcRy-6pNL8qqkPU7NxprhEaJC2t34j4J-pTRc0cdPN1ndcsAX6UShwJI-I52Qyiqp3YrrtJof1ZfI34X1aFkgvf-GX1PpmH7fZUDkHm1oDUKRMZ-DC51s7VQLPSsOulxq8K2NmglHG4WNem3REEGqvKEE1-fgbOyEtsxH5mFRfdfOZ0QRFgbo7dAMkyKFuKdAiMiuu4zrgu1Ik3VOFqyq3YOkn0mfyYR2NzqNIl4UQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WLQeB38rUsBClBsVdyG08ksUB7kNRUjiuplBQWChXtP_Y0FC0Vj0G9c74SVTz0fXUQqL5T9c_jFSUnVjw9ww5JWrUU4_JYfA7bX4JTDtAkTpbcRy-6pNL8qqkPU7NxprhEaJC2t34j4J-pTRc0cdPN1ndcsAX6UShwJI-I52Qyiqp3YrrtJof1ZfI34X1aFkgvf-GX1PpmH7fZUDkHm1oDUKRMZ-DC51s7VQLPSsOulxq8K2NmglHG4WNem3REEGqvKEE1-fgbOyEtsxH5mFRfdfOZ0QRFgbo7dAMkyKFuKdAiMiuu4zrgu1Ik3VOFqyq3YOkn0mfyYR2NzqNIl4UQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-17T03:25:14+00:00</updated>
+  <updated>2026-01-17T04:34:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
-  <entry>
-    <title type="html">Тема первого стрима круглого стола в ютубе</title>
-    <published>2026-01-16T15:59:54+00:00</published>
-    <updated>2026-01-16T15:59:54+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3686</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3686"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;Lev Bondarenko&lt;/span&gt;&lt;br&gt;&lt;br&gt;			Тема первого стрима круглого стола в ютубе&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - развитие 2026&lt;/li&gt;&lt;li&gt;32% - нейросети и вайбкодинг&lt;/li&gt;&lt;li&gt;63% - судьба мобильного разраба&lt;/li&gt;&lt;li&gt;29% - поиск работы, перфоманс ревью и тп&lt;/li&gt;&lt;li&gt;23% - решаем задачи онлайн&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
   <entry>
     <title type="html">напомните, есть ли хоть одни блокировки, которые не...</title>
     <published>2026-01-16T12:53:30+00:00</published>
@@ -230,5 +219,21 @@ Cursor agent best practices - Cursor&lt;/a&gt;&lt;br&gt;A comprehensive guide to
 	&lt;source src="https://cdn4.telesco.pe/file/3762eb7acf.mp4?token=THoxeKO-slFJA5L2XqirUYrybDTOyZ0K78WRf3FjPhigCrjMy-n6RfL_hjVmVH1kGL5BWJb6HiYxd_aJJfjt3cBPJFNi1GtoPKlPyRiltYQmtlLGmgpPYkfYPnhWNAIhrd8GgA5WJZbL2CWKDgC36CicLuxR37zRAvTzsEmXxnkGEHWDJ9DNxFBoOBYph8ic0qwllOmH8UlfPK6nopH-GElEY5XoQbHHhsn04e9Q13NRv8MgR3JOpxc5QSN4QeVv5tiVRmebfe0wyqB4-bdgor8AK082Sg9X_NG_IJIyV9mrd73bzgx3-KRn42aoPNY7nct4kp3pWNAEFMZRjW2JIA" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Пацаны, я правда АБСОЛЮТНО СЛУЧАЙНО скачал золотое яблоко. И смотрите какой баг.&lt;br/&gt;&lt;br/&gt;Так я моюсь мылом три в одном. Такие нефорские темы не для пацанов.&lt;/div&gt;</content>
     <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/LQJuVVVHctRzCgWDnP4OeGQiyMOUzR5nmVpEgo_ykQNjkejYSL2Ng4Y5aC78gjFXk6eQV395Z8Oj9EesaPi3ZGzZ6wFcNsF8x1TWJWL2cfU23SPE3fr78hEQn3pA-IMkJJkh3ryv7zmkt_WY4mr3dsFdDPQnY8XG1_TtqRefFQ7CB-jdASqolMkwqeHxrZ0cnyk1RJqD80e2h2zshifG_b2umU5k0uNm-X3v8tSVjJ7ljL5isdSUDqAL9320ArLtK9DwnyLPirZAbLKzRydeONvIhK-x4nmQCor7G1ZNa7Ebx1cXXHkv0EuDReXmM0yclH6GPJpPOubQzepIZsfYBw"/>
+  </entry>
+  <entry>
+    <title type="html">The Hero with a Thousand Faces&#13;
+&#13;
+#рецензии_на_книги&#13;
+&#13;
+Праздники...</title>
+    <published>2026-01-09T17:24:58+00:00</published>
+    <updated>2026-01-09T17:24:58+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3665</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3665"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.youtube.com/watch?v=Byli-Y8KonY" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;The Hero with a Thousand Faces&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8"&gt;#рецензии_на_книги&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Праздники заканчиваются. Салаты пропали. Гарри Поттера пересмотрен.&lt;br/&gt;&lt;br/&gt;В этом году хочу чуть серьезней подойти к оформелению постов и в целом визибилити. Поэтому решил перечитать классику. Эту книгу рекомендуют все: сммщики, режиссеры, креаторы, рэперы. Референсы на Тысячеликиго героя льются так часто, что сложно различить тонкую грань между заезженной банальщиной и бесмертной классикой. &lt;br/&gt;&lt;br/&gt;Мономифы, сны, обряды инициации, религиозные обряды. Я пока еще не впитал все соки, чему учит книга, но наверное (?) базовому сторитейлингу. В этот раз книга расскрылась как проводник роста. Для тех, кто находится в переходном состоянии. &lt;br/&gt;&lt;br/&gt;Если же прокачивать сторитейлинг, то главное откровение, которое дает книга: герой - это зритель. Автор - ментор. В хорошей же истории героем должен быть читатель. &lt;br/&gt;&lt;br/&gt;Определенно точно, книга не читается как роман. Это сложный культурный шифр, который еще надо декодировать множеством перечитываний. Возвращаясь с очередным слоем знаний и разбивая защиту в поисках очередных откровений. &lt;br/&gt;&lt;br/&gt;Пока ставлю этой книге оценку ??? из ??? потому что видимо пока не созрел. Поищу че-нибудь попроще.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=Byli-Y8KonY"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xwfzka2lR3RHxx6tYzh8ZU6c_yx71D03FsLMcIZ9Uq3o91IFvoS3DRVVmEfWdrkyd_1mctLgy63Os0fMmjYG10S7EESoNTju80G9wzExBd0ix1Ok_QozCxCm4BBPJFKbIMu0L13INY7Ner6hUGnmtl8ZYrymZdCNA3q57W2fFD94uivJuoYcZFwWAMI8cMEHgd3VUUksZXpNosyrn6SB1BtV_NJm2Rf83KV-wma71nRSFb4DPaavefFlHogb8a3immrSDxjbmy9CfQNhSpMEnII7Q6rOb8lWxbESKkInLvDk4UQz_IPbmVSyINl2Fw_PznTgQURk7IpfncCHQB74eA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=Byli-Y8KonY"&gt;
+The Hero with a Thousand Faces - YouTube&lt;/a&gt;&lt;br&gt;In this clip from Episode 1 of Joseph Campbell and the Power of Myth with Bill Moyers, Moyers and Campbell begin their groundbreaking and timeless conversation with an exploration of the classic hero cycle, including consistent and enduring hero patterns…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
