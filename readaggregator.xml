@@ -6,10 +6,25 @@
   <icon>https://cdn4.telesco.pe/file/HMStC2uV27bOAfRgP9utL9j1fzgoDtgk9wmGHO6c-AeJcslUnelmocRJxO38E4_07HwqGqJSNxDuy5QwRuLo565dCCYnwEBW-_Q1PI0OtM6YGfJ-XftSOnT6tvvIrZycKkIdQC3zTWe3UI9EyTC2-soazYHEkou6AXJrQC2Q3pxZ3sd-kSarbe_CRVOaGdStl-M24RYmDMF_2b0O2OMDXzMfIxKGqlrg6iV20hzknEWp1v--8xc-xtYK9buT4ahe3Xe5XsoOLzh9dnXMQUf1jgPXV8YaGSQKsar0XhY9ulETKIs3AIGTS8WapoJ8uR-efYEk048kN8-LRl4B9KB3oA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HMStC2uV27bOAfRgP9utL9j1fzgoDtgk9wmGHO6c-AeJcslUnelmocRJxO38E4_07HwqGqJSNxDuy5QwRuLo565dCCYnwEBW-_Q1PI0OtM6YGfJ-XftSOnT6tvvIrZycKkIdQC3zTWe3UI9EyTC2-soazYHEkou6AXJrQC2Q3pxZ3sd-kSarbe_CRVOaGdStl-M24RYmDMF_2b0O2OMDXzMfIxKGqlrg6iV20hzknEWp1v--8xc-xtYK9buT4ahe3Xe5XsoOLzh9dnXMQUf1jgPXV8YaGSQKsar0XhY9ulETKIs3AIGTS8WapoJ8uR-efYEk048kN8-LRl4B9KB3oA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-01-17T12:45:48+00:00</updated>
+  <updated>2026-01-17T13:31:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Every time Apple ships a “simpler” sync API, I hope this is the one where I won’t have to...</title>
+    <published>2026-01-17T12:50:52+00:00</published>
+    <updated>2026-01-17T12:50:52+00:00</updated>
+    <id>https://t.me/readaggregator/1111</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1111"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Every time Apple ships a “simpler” sync API, I hope this is the one where I won’t have to think too much. &lt;code&gt;CKSyncEngine&lt;/code&gt; almost looks like it… until you read Christian Selig’s article.&lt;br/&gt;&lt;br/&gt;It’s not a tutorial — it’s a list of things that will quietly break later if you trust the magic:&lt;br/&gt;&lt;br/&gt;• saves resolve conflicts, deletes don’t;&lt;br/&gt;• enums in synced models are a trap;&lt;br/&gt;• engine state must be persisted;&lt;br/&gt;• quota errors are still your problem.&lt;br/&gt;&lt;br/&gt;The API is better, but architectural responsibility didn’t go anywhere. So it’s worth reading if you’re considering &lt;code&gt;CKSyncEngine&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://christianselig.com/2026/01/cksyncengine/?utm_source=chatgpt.com" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;u&gt;https://christianselig.com/2026/01/cksyncengine/&lt;/u&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23CloudKit"&gt;#CloudKit&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://christianselig.com/2026/01/cksyncengine/"&gt;&lt;img src="https://cdn4.telesco.pe/file/DLi7X1BVrbu_Af_BCiQ5Y3tyE18ehaoFPD1_Ckqs12BeJuckKwgiXLzpggRtHRPmR6sg2rCAoCGmUJbVd5pWL69IgsKRovZJ8QNy-CinDh2T_XQbtPxLruoJwWO0qLZ7foB_4kPiURAn4Q9ly-8QDykrD7PdftyiJaKywcrISplsjX3eBpaMdR6KnB6NhW2F4ImrdQURjmD1eGwH3s6NGDkSwmWlDIz4-qm1p1y2BoqZYu1tYhkuSg25wzS2zCU9Y9r5QKPyIgpNd4DcyX3GF7FUxXyyYh_IQli9SZOP7cPq5Ke4IHYl6K0RBiiU39M5vGPVGD2tbIHEZdGqn6UGPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://christianselig.com/2026/01/cksyncengine/"&gt;
+CKSyncEngine questions and answers - Christianselig&lt;/a&gt;&lt;br&gt;I didn&amp;#39;t know what to put as a header so here are some iClouds (interesting clouds) in Maine&#13;
+&#13;
+&#13;
+I’ve had a lot of fun working with CKSyncEngine over the last month or so. I truly think it’s one of the best APIs Apple has built, and they’ve managed to take…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Okay, maybe now I’ll finally get strict concurrency....</title>
     <published>2025-12-23T08:50:18+00:00</published>
@@ -240,25 +255,5 @@ Understanding SwiftUI&amp;#39;s Namespace | 知阅百微 见微知著 - 知阅�
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Once again, the size of the Gmail iOS app is making waves. Last year, Emerge Tools broke down just how big it was — and now they’ve updated their analysis with fresh data and insights. Worth a look if you care about app optimization and bloat.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/emergetools/status/1943060976464728250" target="_blank" rel="noopener"&gt;https://x.com/emergetools/status/1943060976464728250&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23iOS"&gt;#iOS&lt;/a&gt; &lt;a href="?q=%23optimization"&gt;#optimization&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and...</title>
-    <published>2025-06-25T13:43:46+00:00</published>
-    <updated>2025-06-25T13:43:46+00:00</updated>
-    <id>https://t.me/readaggregator/1090</id>
-    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1090"/>
-    <author>
-      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For those considering Claude code, just a heads up: Gemini CLI is expected to be released today, and it looks like the free tier is more generous. Might be worth checking out first.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA" target="_blank" rel="noopener"&gt;https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;UPD&lt;/b&gt; - Released&lt;br/&gt;&lt;a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noopener"&gt;https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;&lt;img src="https://cdn4.telesco.pe/file/VD4mwgM81eMZcvAqby41Jo43xvkdki4jNjU89L68DTwgxUa7hTHQAYHNm6g7KIwfTq0HKCp13mbDlmWWi6YgQR9HO8Wn4_dapc3xOIm00Layw8XZSlE-scQjoq-5xRjNqm5oRQnkf-wOWMGao_UdPA5npMBl2kH4Zhv9goGzlDH3nwf-TOSjKy70x22XeQmL9SWyMWZGojacaL850NiW-FO1eoDRXUcVqvJku3Hx5M8CCKLZ83LG8xvI9TJF4TWoFt2eb8nt5UZsvSiOREjQdWf-E_Sc6KGgIhrkfNJE404JtHlk9ABqeLAKNKmdLHZV_CZYaE4RhBfaet1wSk-yYQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/meetpateltech/status/1937749947371393213?s=46&amp;amp;t=YNy4qFziI3PFPTlrSCXpmA"&gt;
-Patel Meet (@MeetPatelTech) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;Google accidentally published the Gemini CLI blog post, but now returns 404.&#13;
-&#13;
-What’s inside:&#13;
-🔓 Open-source CLI for Gemini 2.5 Pro&#13;
-🧠 1M token context&#13;
-💸 Free: 60 req/min &amp;amp; 1,000/day&#13;
-🔍 Google Search grounding&#13;
-🧩 Plugin/script support&#13;
-🧑‍💻 VS Code integration (Gemini…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
