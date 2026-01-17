@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/duikDHcQboPDSJ-x0IHp3ZNAuMuZZZogNJGm4uzhyVi_QBadxtg_SgAwy2_5wcpmoepF7Vkbvf7XZwReztaymrR_WuqE5M4U1Y2tD6iegcZWOnIxxf0BEDuy6VLciH5kQzvPvFwJKQWEutPM6BX_fpmzFaCa0-zAb_5XUpP49PSKia-CiQ-FE4alDcA78QPNAOE543gE4KexgVg7O9RJ1uPOUg3DGOlFV0RJcxIAf1Ec0cyUTNicQEgWa6p4BB-Ajx5h9LNrukZI54y5Qa5CmnZMtdZnXxtBpyHPBrJ1wl2F1CmXbcRcEqvaR8vY7q1riTRFTrdA_HXtguUpRORMcA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/duikDHcQboPDSJ-x0IHp3ZNAuMuZZZogNJGm4uzhyVi_QBadxtg_SgAwy2_5wcpmoepF7Vkbvf7XZwReztaymrR_WuqE5M4U1Y2tD6iegcZWOnIxxf0BEDuy6VLciH5kQzvPvFwJKQWEutPM6BX_fpmzFaCa0-zAb_5XUpP49PSKia-CiQ-FE4alDcA78QPNAOE543gE4KexgVg7O9RJ1uPOUg3DGOlFV0RJcxIAf1Ec0cyUTNicQEgWa6p4BB-Ajx5h9LNrukZI54y5Qa5CmnZMtdZnXxtBpyHPBrJ1wl2F1CmXbcRcEqvaR8vY7q1riTRFTrdA_HXtguUpRORMcA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-01-17T17:20:19+00:00</updated>
+  <updated>2026-01-17T18:32:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -130,7 +130,7 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/techbybird/2086"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q-YgrWZZmeLPOlI0_Ei8Ix0bHcdDWmCvCch5vNIfx3-Mw_Usy_Yyw6zWM73vdWapNJPK6or2mTrXgxd_Loibkny9fQ_QCc1PFP9Weq5aIwLp3eB4LnOjPZ-kk99xjlIJu0pDDnIEuErPwIULQMt0HYL1MLEnc2R3Lun3gpT_6T-0DUMOpXBMwDnVQ66bHv3csUyiv5Ro9lTnnTDXEwAKjWxz-xFnO8o_IZlPSFdAcisQBe0H69LSFqxYfyCLed4BTzlt65yRLLWYs22nvv_d8tgZW4iLyzpgIWBnQaJeORop9edb2qBRkjL3RAn_DzvZ3z1ZFKfurKjBhglOV8OBwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Добавил &lt;/b&gt;&lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;в наш бот&lt;/b&gt;&lt;/a&gt;&lt;b&gt; GPT-5.1&lt;/b&gt;. Open AI пишут что она богиня кодинга&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Переключится на новую модель по команде &lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;/models&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/techbybird/2086"&gt;&lt;img src="https://cdn4.telesco.pe/file/W2IfiLdV29OfFlqR8Mzfqp475cuvQ-pTZVM2700Vjxkto5WImmRL56UAzyCIvzRDA10bEu37c6xO6ivGVq7a-7gzhwBJWBtW69YayTvhcdp336GvsWMg5rTBzMzn5PjGO4UO1lXUJEIdwyBWqE8swNH18BS8QprjQAPrk6b7pxaJERoLGs-6muPFkUY5GWh_YzBzV8CYvqQT29lgRk1lInuMvbTH36jt4mUjR10TxkJdCkNkKQi_j9TcUZ-xJ3KQAg_JnFHPXqOU57pLgT71F1aaRKuUuea5wFBK0hKBfzL2q4G-2vsmniNImgOutMGbK-bFvCq2U1LjEEbObB2cxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Добавил &lt;/b&gt;&lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;в наш бот&lt;/b&gt;&lt;/a&gt;&lt;b&gt; GPT-5.1&lt;/b&gt;. Open AI пишут что она богиня кодинга&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Переключится на новую модель по команде &lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;/models&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">❌ Скидки на обеды с доставкой&#13;
@@ -243,6 +243,6 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/techbybird/2071"&gt;&lt;img src="https://cdn4.telesco.pe/file/J96HEmuRSQsImlId25YAy-i8izdZ6lfMODmYkKM9ClU4C3HJec38z1co-jjpdJ0uya4sd8zHhU6xUZF8ndSfukysto6fn8BnfatNbRyMSqvJTCPBE9X79yWvRxKtDoHvlmXF2qHdw9jigQ-wwYxM-7yTmifb5v5qUGbo9zOI2ZzmmRCjcigpIOqHCGrlXrbiKzArczlkbpLRCQuSb1ZtCanf1yTBtByJgU1Vl_g-gsygpSPon1lgEdhz30keRA2rtxnrBkGy8utsFidJ97YY__gZxhG4oKPAgGGMhcqjEmXesJPo09i2gsmaM4IiufEFVxQw9zRw1NsA4hx0TE4eOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Наглядная перекачка BTC в новые телеграм подарки&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/techbybird/2071"&gt;&lt;img src="https://cdn4.telesco.pe/file/sPnmjxF1Cyekfxq6inkUwugLf-qwf1ynzcRdo6U3UzvIAqe19O0kGrE4gBlYSFtCmMePZc1vkyT4WoDlZIRgadtuWDyOeSUfkShl6Yx1Us1PEtn0Rrw4zpZwHokw1xmi0ogX3dIrWTEUVlrSqyTFcyDDl3pX9ThG-9duDMHHBqPyAjz1XCTQLerHyBxfMPgKWt951GHYYYyAhKi6vCkoBX_PyEcGl9UmTJM1_f9eolZejQW4uqB3aGNQY7xQ-5u21FhlCTsVb6DiC9wKju5k9mQX2UHVs7CJYlQAkxlBasQh7GJc9yoCje5c9-L78Emv3U0maj9nrwsGAP-tSyvLEg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Наглядная перекачка BTC в новые телеграм подарки&lt;/div&gt;</content>
   </entry>
 </feed>
