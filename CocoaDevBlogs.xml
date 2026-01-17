@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/GQ5As_luMutpdvjs_hC35uR_yGql6Po0VY-pWGnTU7UfcxXaKzOBfW9-RSlaK-MBcS5fF3hMHnXBJvtqBthEpfSsAKyZcBnxYa65dv5CY6Yx9_QiB-YRWQL9R36iog_sX8cCv4rDQag38umlUcKeHgklFANJ2R4Ur_HKYX4x0m0B_Lde1JgFPBFAOKweYA5cgYOeBApP6j7LhwSCZ3pSpjPPqzvgSLp3NhFQU3OYIOjQ8xe-eBJ31CTadTs3ECWcBfDos-0z2VeaVoUaOMIW1dJdrFd_wdJ--7KCyrpF7aBImBeu1J1lN4y-JgnVfBXT3QhUIOelzR0RCSjU0EO88g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GQ5As_luMutpdvjs_hC35uR_yGql6Po0VY-pWGnTU7UfcxXaKzOBfW9-RSlaK-MBcS5fF3hMHnXBJvtqBthEpfSsAKyZcBnxYa65dv5CY6Yx9_QiB-YRWQL9R36iog_sX8cCv4rDQag38umlUcKeHgklFANJ2R4Ur_HKYX4x0m0B_Lde1JgFPBFAOKweYA5cgYOeBApP6j7LhwSCZ3pSpjPPqzvgSLp3NhFQU3OYIOjQ8xe-eBJ31CTadTs3ECWcBfDos-0z2VeaVoUaOMIW1dJdrFd_wdJ--7KCyrpF7aBImBeu1J1lN4y-JgnVfBXT3QhUIOelzR0RCSjU0EO88g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-17T20:25:55+00:00</updated>
+  <updated>2026-01-17T21:20:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -252,7 +252,7 @@ In this video, I’m going to teach how to recreate the Apple Stocks App&amp;#39
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/qeIoqoBEY-zAjL85F5AHyXZQkYjdsSbSjWzdrRHqUGmoDxyFDR_HxGiFAJHAHiynjQxTjQrBRkatyvB_raY29Wo4p-lfCPST3whZIZ9iZSLZo5M67yNpYJ0WDWjmhhFumxup2prsEicUGQ9ZrqQkAOyqJXGHGH-ufIUnk3rljwras017M40KEhAlKZ97Gpvv2KAskyPR5E55iBfgINBZweRX5fA3tKtZY-JUTbG5ca5xAbqka5CxgR8haUsRQO1kSTmAhjZtJOpfhpOgadz56YVYz7TsY5feYHynOpzY0qqKw-YbvRwB-II68T3HNWBzmA3momzsVprncnzxvEN8Kw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Rendering Markdown in SwiftUI &lt;a href="https://t.co/TdorD98r0F" target="_blank" rel="noopener"&gt;https://t.co/TdorD98r0F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;&lt;img src="https://cdn4.telesco.pe/file/Co-rkNREkBf0xX2w2iei7zfrHHpZ1GAOahPiO1uXBHXccCK_YNUwaFdyEh_KepGC5oeyF8JwI8IKpJ194nwb8qZiXX0Qt1qa9B7h2gXezNlRFzkV3wSh-DiK2Zh4V10MxzAeuviS_p30qAjbQno0UImbuqg2-a_ICwV04CTy9KToAdSuW8AZi-MTBguJJOa-W55E7QBDsCIEVteJeQkY5Pr_mcbEpOAc9BFklbA3JAlCJBEnu-P8LUbwkQmWtiPIzofumPqY0SCCmo-tvOERc4qmigREii9v0c0iDApjiRPn0q7LZbFMJg-jhCfGYysOElcedFT8yCTA-CGGZymEwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TdorD98r0F"&gt;
 Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to render Markdown in SwiftUI using Text and AttributedString&lt;/blockquote&gt;</content>
   </entry>
 </feed>
