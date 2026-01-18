@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/OCZA__fYBbdSBAinqjwrHAQfOIZn3JSw7WaBodzsuuiY8TeRHsuG1M2DI7bMECYMlikMceeXQ400HxSh0W6PagZ0vqAdih-uzbdU2liVzKCZKSVlV7aF1xPrv01Ork85KlE2BU4TbNU9lgPI1LahuQ-RllC7_q-FzsLdzPPHMn21LT4cCWHXuqpaRyoAt6wgckq-TDJMv4j1oCPKl1n1XppEN0bjEWWpjT5lLFlqgegBjsGNZz2zLP90H3fkoWc-blyDkEPZu9GHPT45bZ_KkM5nOXHJRixjZA7AyWypbOJkZepmg1RKcGySi_Y8Lq7s4fsMy2bB8RWNJpTN0ktnKg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/OCZA__fYBbdSBAinqjwrHAQfOIZn3JSw7WaBodzsuuiY8TeRHsuG1M2DI7bMECYMlikMceeXQ400HxSh0W6PagZ0vqAdih-uzbdU2liVzKCZKSVlV7aF1xPrv01Ork85KlE2BU4TbNU9lgPI1LahuQ-RllC7_q-FzsLdzPPHMn21LT4cCWHXuqpaRyoAt6wgckq-TDJMv4j1oCPKl1n1XppEN0bjEWWpjT5lLFlqgegBjsGNZz2zLP90H3fkoWc-blyDkEPZu9GHPT45bZ_KkM5nOXHJRixjZA7AyWypbOJkZepmg1RKcGySi_Y8Lq7s4fsMy2bB8RWNJpTN0ktnKg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-18T16:28:30+00:00</updated>
+  <updated>2026-01-18T17:20:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) https://t.co/1695QLMiNr</title>
+    <published>2026-01-18T17:12:05+00:00</published>
+    <updated>2026-01-18T17:12:05+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25743</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25743"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) &lt;a href="https://t.co/1695QLMiNr" target="_blank" rel="noopener"&gt;https://t.co/1695QLMiNr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;&lt;img src="https://cdn4.telesco.pe/file/UZYcyjMG2NggGQIr7HR9vvrIx4qjd7OiDqWMoXjFtIMOxvcPCo-FrnEezgzId8YwI6JQmMAGkupcNuTgHj-Lnb3apUGZpSSv0EmvDts2GwRr0c28PLUItubtZYchEU4ukZCQNNW0pPfxwLhwpch76B0jItrStEXEIxb2VWIZGxfrxUzf63GOlsDAxpTMxOUUajuC58ZvjerNw-a1QL_7e4Phcs34Y3eLt_4W8wl3FJ3FYDZcHazsn9n8XwhXh8r0LEeJeJVEGG3erMDl-BpbZ7zEoHxt9KksK6Og_CFglF8XI2cURvUfo4J27dkqrPCT2vQd5XgUjmlGqiHGc_3nig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;
+Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) - YouTube&lt;/a&gt;&lt;br&gt;Have you ever noticed that an iOS timer stops firing when you start scrolling a list? 🤔&#13;
+&#13;
+In this video, we break down why this happens by explaining how the RunLoop works in iOS. You’ll learn how timers are scheduled, how scrolling changes the RunLoop mode…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Swiftjective-C : The Shift https://t.co/1L7QNX3oMW</title>
     <published>2026-01-18T14:47:51+00:00</published>
@@ -175,7 +189,7 @@ GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, w
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/uPCUKfNiZgkC0JEB0OQQlrd1LztH0p-0XsiS6bT-uyyaQ5gKCQqxJG2XB-TMDN7hl6ngQopgr-emXHI9RbxT0bX1ic-_dMRQ_3UKMsiB41YdgEauK-gP2iQLyK6HAU-Tg_RiGUmUn-Qhuzxd9aWxpQaUELtnCI00TA-ZeY41ov1xkPTKV7gAUSdynO9Uz31rm7yhv2rJKfuTIIgBMHolxry540UehcPcDQoPgWLAFFD424k0YBR7Lk1m5569Dgswx4UtcmJLul0FsKRrMV6_MywBHyOK10uxBsvp2cGkGvcBHWMzGA5aIP1CGXeb3IZO4FtBzFHeUxKtdIYBGr9prA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ry0HixiEQAX173kWVCYNU4YTDsEuLuCxzNoThmIcvAWRUX_MrZEFho0AVxjyzoQhAh-EdPVvJGEwMoXsCX2Qvverk3UV3L-7KEg8kpBKVb2gS7KwssoT2VilRh0kfV8UXT_jNCyQJQ9RzuYKxL77YzC8rx--1iUAz_k2JyaiL0-ZPFoVcYMI-TfqvVsUK9kTAlVcbdt0hDg8ooa2tq8cx2pOXu5hIy8e4bw3sJsXtJqHMdDVzlWz7gvklvuxCD9kqDkE7tWSDY-l_EEKAqVOoqm-bsjWhHrulJlDkhjPXtAYEQQawEeefE81sBF6GCZXYvzEKG3tUcvhjjU241eI-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
 2 Hidden SwiftUI Scroll APIs | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;ll show you two useful SwiftUI Scroll APIs which will be very useful when creating complex scroll interactions | SwiftUI Scroll APIs | SwiftUI | Xcode 26&#13;
 #apple #swiftui #ios #xcode #animation #ui #ux #design&#13;
@@ -240,17 +254,5 @@ Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot - Chri
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : radarlabs/radar-sdk-ios &lt;a href="https://t.co/9DbeGT47W2" target="_blank" rel="noopener"&gt;https://t.co/9DbeGT47W2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9DbeGT47W2"&gt;&lt;img src="https://cdn4.telesco.pe/file/trQhmhyLR6cp5d1D1aMIxg2hwy3RYetx2JoHIuNi40FcN5FeI4LkyGAU5SMhjmenMX39jnkCAXz5eTNIgwDHzWzFeDKzDp_efj1O7waVeolol0Zm94HB8IHZXufRSd1bDgaJEcCblC1ZqCkaNeY-ZSaLL1muGLRz16Oq-E22UCsjGqA06YT-v8fGtglIS20xjOihPeElHUe6Qwp2wYmQ6D_h0rGQ3WTTm59RK14VxcL0JZR2W8yGJaf6oF5FGVVFD9n3uvYw8koP-dxIzD6p9lpyAWaNTqg-0AI_aJcYBVEYoGcqAct-bK4SPzmwPpXR_lRCr-1WVn570T-h0jC8kQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9DbeGT47W2"&gt;
 GitHub - radarlabs/radar-sdk-ios: iOS SDK for Radar, the leading geofencing and location tracking platform - GitHub&lt;/a&gt;&lt;br&gt;iOS SDK for Radar, the leading geofencing and location tracking platform - radarlabs/radar-sdk-ios&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : SnapKit/Masonry https://t.co/LZbFKeMouH</title>
-    <published>2026-01-14T02:12:43+00:00</published>
-    <updated>2026-01-14T02:12:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25723</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25723"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : SnapKit/Masonry &lt;a href="https://t.co/LZbFKeMouH" target="_blank" rel="noopener"&gt;https://t.co/LZbFKeMouH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LZbFKeMouH"&gt;&lt;img src="https://cdn4.telesco.pe/file/Vo4dMqzQobP1e8MdcN2bb52NrN20WXILjr2eFF8LC4DvLLK2X0QkCBeFxyFCBk95MtyZrZs-94IXmUWkhcVE7cHbIUvOrWt81G1LCn82EM0ozgrWValfX7gmPPhO24kS4NlFQk7jgg9vbas7aIpX2Yy9PAwkisInYX66j1oMXhQ4msgsIxip6m1ZboIUXD1WwyWageyBfzxEyh9-uUhkaIIufh-kE4305M28ttWV_SNVZBX-Rh9tcQ9zRbrJ61yFa8WDxttP5ZjnY1e0azfuoXtF2slpu2l_TNcr2whrjn8WlS2BylOMHpb8QpoPrpMe4do8SDLLI7bcjazU9ZbBRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LZbFKeMouH"&gt;
-GitHub - SnapKit/Masonry: Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.… - GitHub&lt;/a&gt;&lt;br&gt;Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout - SnapKit/Masonry&lt;/blockquote&gt;</content>
   </entry>
 </feed>
