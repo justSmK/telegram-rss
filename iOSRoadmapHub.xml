@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/sxb9mZUMqmvZSzx4tt-0ux046QjxiZDAPVhOMmPA25pB9F74lvUKG8suvufOVdhBmX2fkLNTWZuno03uZ-j9Agl2gqkJI7-EbE5psJQAHM7QPq1kkDboCaz7s5klx2nBmagFQEgbmdBOI5PB1CTpyiboKx7aubdUvBY2-ZISUaF7zzsOGfhFBrMak0Jdsx-6nJ7ZLhL6n4g9PmxmAYqtdtlFBTdtxXD2LRzpcfqwNHnxxB_W0qlwg5JEWDfWRR9LGaWE17TKqkSFOxF3wrqsd0t8NhB39f0FumqvTTZBd81jbGkqqrTzPDtz_M6DeRavXFKr_r9ihJRZkq01hQ7URw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/sxb9mZUMqmvZSzx4tt-0ux046QjxiZDAPVhOMmPA25pB9F74lvUKG8suvufOVdhBmX2fkLNTWZuno03uZ-j9Agl2gqkJI7-EbE5psJQAHM7QPq1kkDboCaz7s5klx2nBmagFQEgbmdBOI5PB1CTpyiboKx7aubdUvBY2-ZISUaF7zzsOGfhFBrMak0Jdsx-6nJ7ZLhL6n4g9PmxmAYqtdtlFBTdtxXD2LRzpcfqwNHnxxB_W0qlwg5JEWDfWRR9LGaWE17TKqkSFOxF3wrqsd0t8NhB39f0FumqvTTZBd81jbGkqqrTzPDtz_M6DeRavXFKr_r9ihJRZkq01hQ7URw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-18T08:31:06+00:00</updated>
+  <updated>2026-01-18T09:25:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;19% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;8% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;50% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;28% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;13% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;13% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;46% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
