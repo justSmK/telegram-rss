@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/OCZA__fYBbdSBAinqjwrHAQfOIZn3JSw7WaBodzsuuiY8TeRHsuG1M2DI7bMECYMlikMceeXQ400HxSh0W6PagZ0vqAdih-uzbdU2liVzKCZKSVlV7aF1xPrv01Ork85KlE2BU4TbNU9lgPI1LahuQ-RllC7_q-FzsLdzPPHMn21LT4cCWHXuqpaRyoAt6wgckq-TDJMv4j1oCPKl1n1XppEN0bjEWWpjT5lLFlqgegBjsGNZz2zLP90H3fkoWc-blyDkEPZu9GHPT45bZ_KkM5nOXHJRixjZA7AyWypbOJkZepmg1RKcGySi_Y8Lq7s4fsMy2bB8RWNJpTN0ktnKg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/OCZA__fYBbdSBAinqjwrHAQfOIZn3JSw7WaBodzsuuiY8TeRHsuG1M2DI7bMECYMlikMceeXQ400HxSh0W6PagZ0vqAdih-uzbdU2liVzKCZKSVlV7aF1xPrv01Ork85KlE2BU4TbNU9lgPI1LahuQ-RllC7_q-FzsLdzPPHMn21LT4cCWHXuqpaRyoAt6wgckq-TDJMv4j1oCPKl1n1XppEN0bjEWWpjT5lLFlqgegBjsGNZz2zLP90H3fkoWc-blyDkEPZu9GHPT45bZ_KkM5nOXHJRixjZA7AyWypbOJkZepmg1RKcGySi_Y8Lq7s4fsMy2bB8RWNJpTN0ktnKg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-18T14:21:20+00:00</updated>
+  <updated>2026-01-18T15:22:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Swiftjective-C : The Shift https://t.co/1L7QNX3oMW</title>
+    <published>2026-01-18T14:47:51+00:00</published>
+    <updated>2026-01-18T14:47:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25742</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25742"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swiftjective-C : The Shift &lt;a href="https://t.co/1L7QNX3oMW" target="_blank" rel="noopener"&gt;https://t.co/1L7QNX3oMW&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : exelban/stats https://t.co/QykwJLtEhj</title>
     <published>2026-01-18T02:07:38+00:00</published>
@@ -55,7 +66,7 @@ GitHub - DanTheMan827/ios-app-signer: This is an app for OS X that can (re)sign 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to install GitHub action runner on EC2 Mac &lt;a href="https://t.co/iK8Tx7Pxiu" target="_blank" rel="noopener"&gt;https://t.co/iK8Tx7Pxiu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;&lt;img src="https://cdn4.telesco.pe/file/JajtU23D4WFwMjaeH2WWaOov1RVVthvS4Eg3RuJ8siGE6ZRlVMOQCNH7xy_s8TgXRbBSNZrAgN7NUHTKf4ZNccahijXR-LapSaorRw_jpn62RCPqWBuaQtjJLKOkqrCqKhuDdutYX-VyZo3PDoiwDLEKZ9hloAU1pbPBn4wf6286rnhtaRtSSL_wTu_6gLejpOpdjQC5OwNigm_CvG6_Yt9_FC3r_kYqRgnrxhp3F3xK_Rp_-rXXFP775iqD-qLKQiRl_cILUGzn1qXjhQiKxebZL-KdxKfbvn9oqjRW1ym5Px910xc9chnxuaBvbpEQmskTwwrcMlxGzGXRRUr8nA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to install GitHub action runner on EC2 Mac &lt;a href="https://t.co/iK8Tx7Pxiu" target="_blank" rel="noopener"&gt;https://t.co/iK8Tx7Pxiu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;&lt;img src="https://cdn4.telesco.pe/file/DifN1AGXBfHgGGwnogy79oCcx5DWJsQvWdpAuiEia3Gmwhx3JX11uRcB5FnGqd-B0N1buGLiLsIp4gdqjbsA30GXPU3zX_U3_XyCRW8vAa77EVh_N5zEcBjpLmvFq0Nz_lrp8W6VHpOPdnLFhnhUFhsrA8296y9PYvSNLFWmwWry80qcBt4nlrwytZQy9eldgZJWEuyKME8dekwGy082TQUkDGegm_QrGyMwQu8Ea9h4k_OvW8nDwVzUJLFJ3FHxdNTrcAD6_orMdBCVSV7UTzI9vOwvTWWaMS5Oh8b2XqAibiEgqjVFytX0yFSZpVpfCXLtpIrXHl4gh15rEyra4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;
 How to install GitHub action runner on EC2 Mac | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1002&#13;
 I recently set up self-hosted runners on EC2 Mac instances for iOS builds. Here are my notes on what actually works—plus all the gotchas I hit along the way.&#13;
 First, grab the runner package from your GitHub organization. For complete official instructions…&lt;/blockquote&gt;</content>
@@ -241,17 +252,5 @@ GitHub - radarlabs/radar-sdk-ios: iOS SDK for Radar, the leading geofencing and 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : SnapKit/Masonry &lt;a href="https://t.co/LZbFKeMouH" target="_blank" rel="noopener"&gt;https://t.co/LZbFKeMouH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LZbFKeMouH"&gt;&lt;img src="https://cdn4.telesco.pe/file/Vo4dMqzQobP1e8MdcN2bb52NrN20WXILjr2eFF8LC4DvLLK2X0QkCBeFxyFCBk95MtyZrZs-94IXmUWkhcVE7cHbIUvOrWt81G1LCn82EM0ozgrWValfX7gmPPhO24kS4NlFQk7jgg9vbas7aIpX2Yy9PAwkisInYX66j1oMXhQ4msgsIxip6m1ZboIUXD1WwyWageyBfzxEyh9-uUhkaIIufh-kE4305M28ttWV_SNVZBX-Rh9tcQ9zRbrJ61yFa8WDxttP5ZjnY1e0azfuoXtF2slpu2l_TNcr2whrjn8WlS2BylOMHpb8QpoPrpMe4do8SDLLI7bcjazU9ZbBRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LZbFKeMouH"&gt;
 GitHub - SnapKit/Masonry: Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.… - GitHub&lt;/a&gt;&lt;br&gt;Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout - SnapKit/Masonry&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : open-meteo/open-meteo https://t.co/IriW1HlXMd</title>
-    <published>2026-01-14T02:12:42+00:00</published>
-    <updated>2026-01-14T02:12:42+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25722</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25722"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : open-meteo/open-meteo &lt;a href="https://t.co/IriW1HlXMd" target="_blank" rel="noopener"&gt;https://t.co/IriW1HlXMd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IriW1HlXMd"&gt;&lt;img src="https://cdn4.telesco.pe/file/eXrvjWCUDon8wqS9nTrx2_nJV2ezDY1inUT4Qkh5Eb1OiiRqvIzug85HG--_XcNSdCNwJXx1fBJkRERJRYLbTv5pZcYUC7XvhVUp_LeA4YxvMMJYWHlM0bWew9gwITN9jeu6nioJkRJ5fxswi82fc9V3ilLDWMW3dvQGA31JhNG4iu9uB-pCTo69Ifgw27P5OClqVX6h-0r_d6bW9RqBC0gER0KS_Kl3YkpN9lgzhQmn5x1B0Vg79fYYzXdd4oDlFxfYM-dLZha8mLZvKp9EVFiaJzowAH9TOGd_TRfRSLPdpNseQcFezQKGYgGwsATgF8DnFgh7qa17MXSirYhiwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IriW1HlXMd"&gt;
-GitHub - open-meteo/open-meteo: Free Weather Forecast API for non-commercial use - GitHub&lt;/a&gt;&lt;br&gt;Free Weather Forecast API for non-commercial use. Contribute to open-meteo/open-meteo development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
