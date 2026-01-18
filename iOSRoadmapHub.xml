@@ -6,10 +6,34 @@
   <icon>https://cdn4.telesco.pe/file/sxb9mZUMqmvZSzx4tt-0ux046QjxiZDAPVhOMmPA25pB9F74lvUKG8suvufOVdhBmX2fkLNTWZuno03uZ-j9Agl2gqkJI7-EbE5psJQAHM7QPq1kkDboCaz7s5klx2nBmagFQEgbmdBOI5PB1CTpyiboKx7aubdUvBY2-ZISUaF7zzsOGfhFBrMak0Jdsx-6nJ7ZLhL6n4g9PmxmAYqtdtlFBTdtxXD2LRzpcfqwNHnxxB_W0qlwg5JEWDfWRR9LGaWE17TKqkSFOxF3wrqsd0t8NhB39f0FumqvTTZBd81jbGkqqrTzPDtz_M6DeRavXFKr_r9ihJRZkq01hQ7URw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/sxb9mZUMqmvZSzx4tt-0ux046QjxiZDAPVhOMmPA25pB9F74lvUKG8suvufOVdhBmX2fkLNTWZuno03uZ-j9Agl2gqkJI7-EbE5psJQAHM7QPq1kkDboCaz7s5klx2nBmagFQEgbmdBOI5PB1CTpyiboKx7aubdUvBY2-ZISUaF7zzsOGfhFBrMak0Jdsx-6nJ7ZLhL6n4g9PmxmAYqtdtlFBTdtxXD2LRzpcfqwNHnxxB_W0qlwg5JEWDfWRR9LGaWE17TKqkSFOxF3wrqsd0t8NhB39f0FumqvTTZBd81jbGkqqrTzPDtz_M6DeRavXFKr_r9ihJRZkq01hQ7URw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-18T07:23:06+00:00</updated>
+  <updated>2026-01-18T08:31:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">-</title>
+    <published>2026-01-18T07:58:47+00:00</published>
+    <updated>2026-01-18T07:58:47+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/318</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/318"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;19% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;8% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;50% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
+&#13;
+@concurrent...</title>
+    <published>2026-01-18T07:53:18+00:00</published>
+    <updated>2026-01-18T07:53:18+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/317</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/317"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/317" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Что будет если увидеть такую сигнатуру записи:&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;@concurrent @MainActor&lt;br/&gt;func setup() async {}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ниже опрос &lt;/b&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5310161156613110960"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Сэм Альтман называл рекламу «крайней мерой» и она...</title>
     <published>2026-01-17T06:00:51+00:00</published>
@@ -231,32 +255,5 @@ Code Review: экран с проблемами...</title>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;a href="?q=%23middle"&gt;#middle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Code Review: экран с проблемами производительности&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Ты открываешь Pull-Request и видишь такой код на review. Здесь может-быть:&lt;br/&gt;&lt;b&gt;1. Всё отлично&lt;br/&gt;2. Что-то ОК, что-то не ОК&lt;br/&gt;3. Множество чего не ОК&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;import Foundation&lt;br/&gt;import UIKit&lt;br/&gt;import SwiftUI&lt;br/&gt;&lt;br/&gt;enum Achievement: Identifiable {&lt;br/&gt;    case notable&lt;br/&gt;    case cool&lt;br/&gt;    case minor&lt;br/&gt;    &lt;br/&gt;    var id: UUID { UUID() }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct User {&lt;br/&gt;    var avatar: UIImage?&lt;br/&gt;    var name: String&lt;br/&gt;    var bio: String&lt;br/&gt;    var achievements: [Achievement] = []&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UsernameView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        HStack {&lt;br/&gt;            if let avatar = user.avatar {&lt;br/&gt;                Image(uiImage: avatar)&lt;br/&gt;            }&lt;br/&gt;            &lt;br/&gt;            Text(user.name)&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct ProfileView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        Text(user.bio)&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct AchievementView: View {&lt;br/&gt;    var achievement: Achievement&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // ...&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UserView: View {&lt;br/&gt;    @State var user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        ScrollView {&lt;br/&gt;            VStack {&lt;br/&gt;                UsernameView(user: user)&lt;br/&gt;                ProfileView(user: user)&lt;br/&gt;                &lt;br/&gt;                ForEach(user.achievements) { achieve in&lt;br/&gt;                    if achieve &amp;#33;= .minor {&lt;br/&gt;                        AchievementView(achievement: achieve)&lt;br/&gt;                    }&lt;br/&gt;                }&lt;br/&gt;                &lt;br/&gt;                TextField(&amp;quot;Username&amp;quot;, text: &amp;#036;user.name)&lt;br/&gt;                TextField(&amp;quot;Bio&amp;quot;, text: &amp;#036;user.bio)&lt;br/&gt;            }&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Пока-что можешь оценить, но но не запускай его в playground или проекте - это &lt;b&gt;проверка себя&lt;/b&gt;, впервую очередь.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#заметка Во вторник будут открыты двери для всех, кто...</title>
-    <published>2025-10-23T19:51:19+00:00</published>
-    <updated>2025-10-23T19:51:19+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/294</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/294"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/294" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0"&gt;#заметка&lt;/a&gt; Во вторник будут открыты двери для всех, кто подписан через &lt;b&gt;BOOSTY&lt;/b&gt; / &lt;b&gt;Telegram&lt;/b&gt; в &lt;b&gt;MINI APP&lt;/b&gt; &lt;tg-emoji emoji-id="5924646916540337386"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29880.png')"&gt;&lt;b&gt;☀️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#заметка&#13;
-&#13;
-Через 15 минут OpenAI будут представлять свой...</title>
-    <published>2025-10-21T16:43:50+00:00</published>
-    <updated>2025-10-21T16:43:50+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/293</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/293"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0"&gt;#заметка&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Через 15 минут OpenAI будут представлять свой браузер общественности, интересно&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY" target="_blank" rel="noopener"&gt;https://www.youtube.com/live/8UWKxJbjriY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY"&gt;&lt;img src="https://cdn4.telesco.pe/file/OJ46FIvpz3xpTTxfCUEJSfvcx4G4mfipopUR9NxF8Ty7ZGlWwmWKicTUU1tKEOkl5nky5_bkcWLpe55d5kys9frUkUId0Rz1rSUbx0zYdTUOgYM7slhkMfKiFVBqjZxS4nSiT8VPhWpG2VRoB_xYhVhOHXwZ85l7CChRMbv5dRxjnkEDUmpbTKDjizyN6btGIkKMQbIQqRFhkZTitsGer-cjdj1u5t3v2T4N2MV4kG9dPgd9cgj-3lixXmui8wnHZgq1m-8t9Oi_waHAkubkDl4Fz-wXvT7P_fBu6nrtU0RGRgckHT56MpS6Ea9uNZsMPUAjcsevMUIpa7ia8DOu6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/live/8UWKxJbjriY"&gt;
-Introducing ChatGPT Atlas - YouTube&lt;/a&gt;&lt;br&gt;Introducing our new browser, ChatGPT Atlas.&#13;
-&#13;
-Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O’Rouke, Justin Rushing, and Pranav Vishnu introduce ChatGPT Atlas — our new browser. Now available globally on macOS. Windows, iOS, and Android are coming…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
