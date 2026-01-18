@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/BjH6kX1aG8eeuarp-kq0TheywIEayHwyTIMoL-qwkInIrSBIpV6qXYosVhT1Et8gbOrWURjYy5YCORq1eFTojXf2zH476oqruqtqftdDg_fnglqPO34FLV7gyXf_Kk46Ui97F5UgBzcvtvsUXbd7EhIiq5gSEP0xk0RJQDwK28mBwFYH_uzcOsGXmlgBbqpCjbO23MNnooDY2VWljcXhr9O3A1eI31HxBlalTxvcn2kOVuCRsJpeWAq_7H1fjTwG9iRvZeMg03Vt2EKtMU5P8Vd4edrjpvLqNbmNQ2ep2-cB5N6CMYS-JRalKFe0iAweDCo-xqdbE6MnaWpEW5WZ6g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BjH6kX1aG8eeuarp-kq0TheywIEayHwyTIMoL-qwkInIrSBIpV6qXYosVhT1Et8gbOrWURjYy5YCORq1eFTojXf2zH476oqruqtqftdDg_fnglqPO34FLV7gyXf_Kk46Ui97F5UgBzcvtvsUXbd7EhIiq5gSEP0xk0RJQDwK28mBwFYH_uzcOsGXmlgBbqpCjbO23MNnooDY2VWljcXhr9O3A1eI31HxBlalTxvcn2kOVuCRsJpeWAq_7H1fjTwG9iRvZeMg03Vt2EKtMU5P8Vd4edrjpvLqNbmNQ2ep2-cB5N6CMYS-JRalKFe0iAweDCo-xqdbE6MnaWpEW5WZ6g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-01-18T09:24:53+00:00</updated>
+  <updated>2026-01-18T10:24:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -133,10 +133,10 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/ke_q5AW8MEYtOofK3E8dIk65nR9lVgHpBG6xWVgqaxnErhoOgUW2PuWh9NHBYY7rkeZ4BVDzbqCI5MeGveqjEvm6aCxL5I39zwnpfE5G7FvRFTxkwhQFbV2AuCVMXNjAg-vKkTD2dCYpHRaI8id8XMwJgnzP9Rdx-VJSI5dkJyyoIALF0_fxVUqSmBTpH_b-qMw-l_45UBD6GlAAPJgmtWNaEyPLM7SCI6rSQb-m27MLcxZiya-yLfKx-AATUnw26cfaivD7EyAV0qj-j1orFR-w90GJNiRJXwbwZ_NKkeW_NnPuC1NUNqqAJsV_wyd5A9CDy0uTlsDPlRapJQrmdg" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/3ff2b5345e.mp4?token=PwHBzgupaPZBv28XOshtFGtrRF8nT2wh0OZP61SOctIGRDdVm_kC3FhRLy4AVC3b7cU8XLcL2Gexu3qyJQzIYpo8mwDKAZ_SYeZQmPxt2MRs5p2509-Q5qtZgek-9xoJbnE0D8d0BUXsJwk19BlM6gAOm6ZWUCDRf0QVzIfg93YVb_Fq-pe0GkZwb62DAfYU058HgRCv8C-q_v8E7hh0OIYRsGa7q290cut9pQ2MClnpNzRSDSSuvr77te9k4YTy5CVtflUZjQApnhu0k728pZnz4BO9jxDJ80ZUUNmqRyp7FuLlYEeYbqmzgixMv03Srq2heAL9rtx8aaDxOfs-XA" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/TXLSIuPwUF_6jULY0nd_52irMvxZ8_CgVCVfICGDZoS5nhWYHom9PrEcGsNTnLswGM6DRr1AFIhisMZ0VZ3cz5QiTF6nCBqSesswvnw8vZubUcaZW9MhWrCGkTZH4rj6BCJcMo_JsAwnzREkx9Yki4D_8UHrUM63qTw2oGqCXyDcxuTIHMSiuQTYstEVoXkhok3ftKyQmZgOlkb4GKfEZ3dS0dkBsrHLesKtV9N0_p6f6AoJn5Fv1x8saEpjMHE4fL7HoqnAj19FIVwO-ZRL2JvYXUGyqZ25vAfBGIGI4zKieFKbNVoWZOJFQvegrzJ9vV4F_8zd5WCVAA0jJm3lwA" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/3ff2b5345e.mp4?token=nSz-hDMZVnlTPaEeSty-3wEHh19DqslYdL0bZgD7OC4kMsrL8BOSRXY64Z3sIEJKNBgI0TqA7ZQlkMfRNbusm7t_BXy65jWrSuCtepoFXLkFCSna6RroIUXq3solgKdGeolKjJ_zM8DzPZCgHRhOTZROnWUAxO5qvQ5gFJb8XdCbh5qvqxo-RG0-yN2sF16uM4z9xzfEBiDU-U5oprBxgKTQzmbFxIw9NgMzcwaG1Gvod9CCTQ3B18fXB5cAboECCcbJt-rzsXUJMEh4RHUEVCcgk8DqWdq1G3LMoWW0-_7cUo7TGICGR0e4UnS4dMde2XpnazDm5wis-aWvyJ3O6g" type="video/mp4"&gt;
 &lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/ke_q5AW8MEYtOofK3E8dIk65nR9lVgHpBG6xWVgqaxnErhoOgUW2PuWh9NHBYY7rkeZ4BVDzbqCI5MeGveqjEvm6aCxL5I39zwnpfE5G7FvRFTxkwhQFbV2AuCVMXNjAg-vKkTD2dCYpHRaI8id8XMwJgnzP9Rdx-VJSI5dkJyyoIALF0_fxVUqSmBTpH_b-qMw-l_45UBD6GlAAPJgmtWNaEyPLM7SCI6rSQb-m27MLcxZiya-yLfKx-AATUnw26cfaivD7EyAV0qj-j1orFR-w90GJNiRJXwbwZ_NKkeW_NnPuC1NUNqqAJsV_wyd5A9CDy0uTlsDPlRapJQrmdg"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/TXLSIuPwUF_6jULY0nd_52irMvxZ8_CgVCVfICGDZoS5nhWYHom9PrEcGsNTnLswGM6DRr1AFIhisMZ0VZ3cz5QiTF6nCBqSesswvnw8vZubUcaZW9MhWrCGkTZH4rj6BCJcMo_JsAwnzREkx9Yki4D_8UHrUM63qTw2oGqCXyDcxuTIHMSiuQTYstEVoXkhok3ftKyQmZgOlkb4GKfEZ3dS0dkBsrHLesKtV9N0_p6f6AoJn5Fv1x8saEpjMHE4fL7HoqnAj19FIVwO-ZRL2JvYXUGyqZ25vAfBGIGI4zKieFKbNVoWZOJFQvegrzJ9vV4F_8zd5WCVAA0jJm3lwA"/>
   </entry>
   <entry>
     <title type="html">Фундаментальные знания - главный тренд 2026...</title>
