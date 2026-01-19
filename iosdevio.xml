@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/ibL8DHd6EiBIcFtD4Xntb8I2SAUPsY2rJUivxbErHtX47lH8jZiW9C_AVBjgpbeknVu2Rb6YERgPfYnc_Ae6mtHnAf5bg456jeZnn6WgXiMoePdL7FlLjGzPy0GbRjhmNtmi7lxta4KcWaza0QVw0vZazaVaQv7w_cMWWC-b-KTzlKA58tMQozPH6loAtTpe8W8r02H5TihqqB8ZXB4-7HIkhFPsiXXyLZXqM3snGwPx3023neD0inWDNNpUwC4f855vsjdzy5_b7nsoRV3eNUfJ63SJEgqxgmkxHUxH6wdj-Xw4xQ4bWQPEpXbkeK0Mlh8Re2jlWKtI2oTitFCMbg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ibL8DHd6EiBIcFtD4Xntb8I2SAUPsY2rJUivxbErHtX47lH8jZiW9C_AVBjgpbeknVu2Rb6YERgPfYnc_Ae6mtHnAf5bg456jeZnn6WgXiMoePdL7FlLjGzPy0GbRjhmNtmi7lxta4KcWaza0QVw0vZazaVaQv7w_cMWWC-b-KTzlKA58tMQozPH6loAtTpe8W8r02H5TihqqB8ZXB4-7HIkhFPsiXXyLZXqM3snGwPx3023neD0inWDNNpUwC4f855vsjdzy5_b7nsoRV3eNUfJ63SJEgqxgmkxHUxH6wdj-Xw4xQ4bWQPEpXbkeK0Mlh8Re2jlWKtI2oTitFCMbg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-19T21:22:52+00:00</updated>
+  <updated>2026-01-19T22:25:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -142,7 +142,7 @@ iPhone 17 Screen Sizes - Use Your Loaf - iOS Development News &amp;amp; Tips&lt;
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;&lt;img src="https://cdn4.telesco.pe/file/bRBYg74t1cQTLjeiNtSzYYEs9-HJWGn2xgXYhZ6DonsV3iVeSrYKhydiQC2awRtJchNl_3-re9aO21IDKBQwj9-5RMrxVaBa-a9xbZCDj41Gq0A_cwthOsFCqUCs5PLoIypLSrrpOemMx8d-TbhO6ZqxhZFiG2jNa07p_wdg3X6ft4e_Lma2qMibY_NpuZoy9XYkIvV6Yu_QWCNExnsk9jkIcL8R459mNqpuYcm6zCU0U7V8bFl2ylfKZ2tFr10KGRKDI3wTPPV5oZamp-SJ-AT27XIiWf1WZDZZy_mHPg7KnYKDOU3L-IUjdQXKk3HGJ4_OlxNC5NooCJu94i0D3g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;&lt;img src="https://cdn4.telesco.pe/file/SexJZ8lvRD7-ysGz4xMeIUP0A5Msr6dNpYtPbYXFRvNqKT17sbDwhwIGNnDZ3rddnDj2vmMzqM7V_tz1-wRWpCqdCNl5Blvy1eB2TFtBs9uYWxp5C89tW8RpvEPOhOLZfFAqwmxqo4yjiCe6a7qRSC5TN_6PNPguPygzzXLpzi3VryJ77immw1s5PynTUC_RaftFIb3WTF634nr6CR01wk2fVUNEulyX_jrw_0BEOVEUyvJapUC6-pQbxgOdnGqkJBpZOj0kZHO8URP2hQvMRvG4trp_AfVmt8vDd-K7OG7Hs6vnorfDwKOkaVJlJJ3P6MDw1tu8qwiMwW6LgOfXcg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments"&gt;
 Foundation Models profiling with Xcode Instruments - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to profile and optimize Foundation Models performance using Xcode Instruments&lt;/blockquote&gt;</content>
   </entry>
   <entry>
