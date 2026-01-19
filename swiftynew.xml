@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/hIHFnu22VNkrGCvAKlg9A6ZV0SGhhSRNcsC-fQdNrtmUZ7NE6aXHi_HPDwPNBiurn7BwuIxsK1pc46nb-kbiwA1C_BcleN2YX4Jt1HG2FA96kosXlDciiuJMsTHQteqdSqEWD5XqPBp_aKnT8r-3gkYzAKUsKQ9bGvJvlO2M3KE8YP2N_ILvhoaSu5C8fdGW1PK-CAO6wmLyjLWMTyCcoCkjdcha2-HlLFr1nNXu1TU_9SYK_LccIV2_AYzBQJGwbso-ihQmEtiaLrgkBjmc4Q_AwdzTsGQNzVhikpDchBmSegB2PW16qp2WJ_xPdWexb6I4UxbHd_uGhTBtFW1r9w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hIHFnu22VNkrGCvAKlg9A6ZV0SGhhSRNcsC-fQdNrtmUZ7NE6aXHi_HPDwPNBiurn7BwuIxsK1pc46nb-kbiwA1C_BcleN2YX4Jt1HG2FA96kosXlDciiuJMsTHQteqdSqEWD5XqPBp_aKnT8r-3gkYzAKUsKQ9bGvJvlO2M3KE8YP2N_ILvhoaSu5C8fdGW1PK-CAO6wmLyjLWMTyCcoCkjdcha2-HlLFr1nNXu1TU_9SYK_LccIV2_AYzBQJGwbso-ihQmEtiaLrgkBjmc4Q_AwdzTsGQNzVhikpDchBmSegB2PW16qp2WJ_xPdWexb6I4UxbHd_uGhTBtFW1r9w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-01-19T15:30:18+00:00</updated>
+  <updated>2026-01-19T16:34:26+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -258,6 +258,6 @@ SF Symbols получили новые режимы...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Что выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - [Alice, Bob, Charlie]&lt;/li&gt;&lt;li&gt;42% - [Diana, Bob]&lt;/li&gt;&lt;li&gt;31% - [Diana, Bob, Charlie]&lt;/li&gt;&lt;li&gt;3% - [Alice, Bob]&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Что выведет принт?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;23% - [Alice, Bob, Charlie]&lt;/li&gt;&lt;li&gt;42% - [Diana, Bob]&lt;/li&gt;&lt;li&gt;32% - [Diana, Bob, Charlie]&lt;/li&gt;&lt;li&gt;3% - [Alice, Bob]&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
