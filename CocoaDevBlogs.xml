@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-19T16:34:05+00:00</updated>
+  <updated>2026-01-19T17:26:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Antigravity + Cloud Functions = 😍 ? https://t.co/uSKKfYK3OQ</title>
+    <published>2026-01-19T17:12:23+00:00</published>
+    <updated>2026-01-19T17:12:23+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25748</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25748"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Antigravity + Cloud Functions = &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"&gt;&lt;b&gt;😍&lt;/b&gt;&lt;/i&gt; ? &lt;a href="https://t.co/uSKKfYK3OQ" target="_blank" rel="noopener"&gt;https://t.co/uSKKfYK3OQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uSKKfYK3OQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/CxXGd31KvkawGaduna7r9DY2nLLSLNi9q9UF9QE6T_qPpOxXh2iMyfKWL2vavPE9mIJNzO3XWNFkwb_xbhMtSrCPRyfW21z7GQXdvTm_BpRFlRA2wZe0offqcQt8VY8ahyOti50X1mIyC7lPZW-LRryqU3hRKDRWPoXzJefICXjOHT7YPpBOuP2lpUAuwVh5kw3bH5ZJzhwUbpbdmy3vG4lpYVTWkGZ8-lUQ_GP-aV_2DCamgHfSFpE1ylq1GRGLRIku67f7BZei0oprZKrsXIn5D8S_Ht7mj53MfK9pwdkj8JqpeMqyhWC4-P1OGWu5fF4yB-rH1T63Z4PQfi2-uQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uSKKfYK3OQ"&gt;
+Antigravity + Cloud Functions = 😍 ? - YouTube&lt;/a&gt;&lt;br&gt;Last week, I used Antigravity and Gemini CLI to build a Firestore-powered tagging system for Sofia, my second brain app.&#13;
+&#13;
+This week, I&amp;#39;m revamping the data layer. Tune into the livestream to witness Antigravity tackle Cloud Functions like a pro&amp;#33;&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Learning to code? Looking to build a strong IT career with a competitive salary?&#13;
 &#13;
@@ -68,7 +82,7 @@ GitHub - supabase/supabase-swift: A Swift SDK for Supabase. Query your Supabase 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) &lt;a href="https://t.co/1695QLMiNr" target="_blank" rel="noopener"&gt;https://t.co/1695QLMiNr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;&lt;img src="https://cdn4.telesco.pe/file/UZYcyjMG2NggGQIr7HR9vvrIx4qjd7OiDqWMoXjFtIMOxvcPCo-FrnEezgzId8YwI6JQmMAGkupcNuTgHj-Lnb3apUGZpSSv0EmvDts2GwRr0c28PLUItubtZYchEU4ukZCQNNW0pPfxwLhwpch76B0jItrStEXEIxb2VWIZGxfrxUzf63GOlsDAxpTMxOUUajuC58ZvjerNw-a1QL_7e4Phcs34Y3eLt_4W8wl3FJ3FYDZcHazsn9n8XwhXh8r0LEeJeJVEGG3erMDl-BpbZ7zEoHxt9KksK6Og_CFglF8XI2cURvUfo4J27dkqrPCT2vQd5XgUjmlGqiHGc_3nig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) &lt;a href="https://t.co/1695QLMiNr" target="_blank" rel="noopener"&gt;https://t.co/1695QLMiNr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;&lt;img src="https://cdn4.telesco.pe/file/f2zcUeGW6OlOdWv8n3qkrBkpD2Fgp2SvIvHhUgIiw5hc_ZVVY4ra7AXWf1LlFvo5THlW_nLUnFNpHJX3gJv38r7k8OLvxJHREKPv9--UlC7gVpJBowH4O5jAXlYfPR9jLI31OcMwqbS6KU6YNSU9Ip2fcJiFiJW9lJLsGMYyrX0jsO4JRa_7DlxORH-9q4L_vi8RvJpgwYCf1ZcjtIhx9WWIgkoaToyGEuzLcDMoHIN5WC-WZDZk-hoFRpT9_jGu-0t-1AcRtu_1zYlWBcwBJbpSXuX1hJ7S1oGxNk-hiZ3amsDJIGsv5Ryni6yHd7EiR1J9nvEOLvfoA8kSrB1xbA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;
 Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) - YouTube&lt;/a&gt;&lt;br&gt;Have you ever noticed that an iOS timer stops firing when you start scrolling a list? 🤔&#13;
 &#13;
 In this video, we break down why this happens by explaining how the RunLoop works in iOS. You’ll learn how timers are scheduled, how scrolling changes the RunLoop mode…&lt;/blockquote&gt;</content>
@@ -238,23 +252,11 @@ GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, w
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ry0HixiEQAX173kWVCYNU4YTDsEuLuCxzNoThmIcvAWRUX_MrZEFho0AVxjyzoQhAh-EdPVvJGEwMoXsCX2Qvverk3UV3L-7KEg8kpBKVb2gS7KwssoT2VilRh0kfV8UXT_jNCyQJQ9RzuYKxL77YzC8rx--1iUAz_k2JyaiL0-ZPFoVcYMI-TfqvVsUK9kTAlVcbdt0hDg8ooa2tq8cx2pOXu5hIy8e4bw3sJsXtJqHMdDVzlWz7gvklvuxCD9kqDkE7tWSDY-l_EEKAqVOoqm-bsjWhHrulJlDkhjPXtAYEQQawEeefE81sBF6GCZXYvzEKG3tUcvhjjU241eI-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/ax2NS2Bas3VeLQAvoB2G566-m53GVfArGebTSGAG0bCDrDWOH_DqSz5IJwJZ03p8InaSEmsx5id-WffCDLuWiDTc1oIVRmONaXck5Na-FzgIoMj9WoH6AsHg2fXCHe-1LQnwETRihiYtUiScMcavXB217n2Bog6M5On8ereLqNfmQYLaJffHTdZUuj_NOXgQLYKT-nfPmfGLTgwmwjMHjE3kg_dQe9srR92P4yh-I3fevyFTPeUhrL92Q476PlRjfJfdX9DGMLQ8xqpQm1F5Ips9iMLZs9qK_DI2uYug1zPmPgkSPMzgj2x1xIud692937-k7zNY7QNws3lSXSdMgw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
 2 Hidden SwiftUI Scroll APIs | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I&amp;#39;ll show you two useful SwiftUI Scroll APIs which will be very useful when creating complex scroll interactions | SwiftUI Scroll APIs | SwiftUI | Xcode 26&#13;
 #apple #swiftui #ios #xcode #animation #ui #ux #design&#13;
 &#13;
  ► Subscribe…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : MrKai77/Loop https://t.co/IOfH1eaBha</title>
-    <published>2026-01-15T02:12:30+00:00</published>
-    <updated>2026-01-15T02:12:30+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25728</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25728"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MrKai77/Loop &lt;a href="https://t.co/IOfH1eaBha" target="_blank" rel="noopener"&gt;https://t.co/IOfH1eaBha&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;&lt;img src="https://cdn4.telesco.pe/file/pmbR2_1d4ETtJYPJTC9HGzsujFgQDViVsdoM3AC2-n7J3DP0XHqtzJcspogyuYM5PZQDAnCjGjPTnb1GxhbepMvpLo7dGRlDzhKeOzEBviBLl73RLIGNbw6vctmFfSP4v-HpdgqUdFTzZC6sq8vE2BG0F8mTh9taJNZ61N3CNsHtgkfNz1G7V-kM_2QIBO7D8_cBt1UQQxPeJmA60FY3-2QkRMZM_CDrIoNmB4mLcUnwO8Zb3JN_3C4sZJUlMz8lGXqSH_ZIn0OiW8vr4r_TD1_aGBdDnTZVVSk9dQSC-coNm9Pq4b0YZ0eiI6HGWY6pd0g_IFSgZjsAp92revT1vg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IOfH1eaBha"&gt;
-GitHub - MrKai77/Loop: Window management made elegant. - GitHub&lt;/a&gt;&lt;br&gt;Window management made elegant. Contribute to MrKai77/Loop development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
