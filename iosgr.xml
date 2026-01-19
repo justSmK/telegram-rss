@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/tQu8GL3i-6olxvwfeKCfkymH_XdqrfZRXmrsb_u_IH-DRin6KaW_9rFVZ4VjyjKeb2Dr_KNbDjhKyhVIgfnW6XZnjoBYQUHuUE194cBdAypbtbZ8ArwPVuRN4aVN1DK12OY3y3H_O4x_ilNMDJoK2253YZT7ZX5P-ZOO1MG6hRJWOmmOALQ0ceBiGBMF5VKAv21lzR14juVXQM9n0uqBEUiPtR91jxiPIq7I8u39c-GGdBkznEcBc7_YJs472cAbGtwUm0AQywFbK-xoDJ5pzblVv3Hb5xAc8lWgWh4Qa5NVqTDeuCfX7UF0fp5o5T253BjwilpPk7rtTVRoA6yIxw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/tQu8GL3i-6olxvwfeKCfkymH_XdqrfZRXmrsb_u_IH-DRin6KaW_9rFVZ4VjyjKeb2Dr_KNbDjhKyhVIgfnW6XZnjoBYQUHuUE194cBdAypbtbZ8ArwPVuRN4aVN1DK12OY3y3H_O4x_ilNMDJoK2253YZT7ZX5P-ZOO1MG6hRJWOmmOALQ0ceBiGBMF5VKAv21lzR14juVXQM9n0uqBEUiPtR91jxiPIq7I8u39c-GGdBkznEcBc7_YJs472cAbGtwUm0AQywFbK-xoDJ5pzblVv3Hb5xAc8lWgWh4Qa5NVqTDeuCfX7UF0fp5o5T253BjwilpPk7rtTVRoA6yIxw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-19T05:34:10+00:00</updated>
+  <updated>2026-01-19T06:43:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Swift Language Reference в виде книги&#13;
+&#13;
+Документацию по Swift...</title>
+    <published>2026-01-19T06:04:37+00:00</published>
+    <updated>2026-01-19T06:04:37+00:00</updated>
+    <id>https://t.me/iosgr/4584</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4584"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/peterfriese/swift-book" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift Language Reference в виде книги&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Документацию по Swift красиво сверстали по всем типографским правилам и выложили в PDF, так что, если всегда хотели иметь ее как настольную книгу, возможность теперь есть&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;&lt;img src="https://cdn4.telesco.pe/file/jCui4L1-PMdL2U_8c9r0GbctTbvzgBwJWfXMVsojWf01cOml5zlHUh1RC2TQ8jYuShp_O3yOm3Nn031t6tRHBWXvHCTI8UoFrFbKKoiJZ6fC3KA970QaLwnE1Gz-75NSiBy9mlKo6TVpHiGmTebs5x3tFAbTRAPCywbWOPoE_Ypa7iqJpkBDd8lOnwnS3-Ryyd1CS1wRysnsUAlVksxefaJ4Qq5CSulZFsjLyemL81Ru6ycu4B8sy_fGzx4QkSjpRtfXtw91nXiegkL4TM70jyelHXmiC92f0CU5DAAuZQGJTB7yoA5ooWy94PkAeC6XQi9UJcnuGpqiV0jg35UNXg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;
+GitHub - peterfriese/swift-book: The Swift Programming Language book as a PDF&amp;#33; - GitHub&lt;/a&gt;&lt;br&gt;The Swift Programming Language book as a PDF&amp;#33; Contribute to peterfriese/swift-book development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Гайд по промптингу локальных моделей&#13;
 &#13;
@@ -286,16 +300,5 @@ iOS Good Reads – swift, разработка мобильных приложе
 👉По умолчанию case insensitive&#13;
 👉Игнорирует диакритические знаки (cafe vs café)&#13;
 👉Нормально справляется…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Если у вас есть свободный час времени, подключайтесь...</title>
-    <published>2025-12-24T17:04:17+00:00</published>
-    <updated>2025-12-24T17:04:17+00:00</updated>
-    <id>https://t.me/iosgr/4564</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4564"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если у вас есть свободный час времени, подключайтесь на традиционный новогодний стрим подкаста Подлодка – будем подводить итоги года, рассказывать про наши главные открытия, самые полезные книги и всякое такое. А главное – разыграем среди зрителей Switch 2&amp;#33;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.youtube.com/watch?v=eafuYyRuy6A" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Начинаем через 10 минут&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
