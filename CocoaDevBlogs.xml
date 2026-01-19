@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-19T20:28:15+00:00</updated>
+  <updated>2026-01-19T21:22:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple Books Hero Effect - Synchronized Scroll Matched Geometry Effect - Complex UI - Xcode 26...</title>
+    <published>2026-01-19T20:42:42+00:00</published>
+    <updated>2026-01-19T20:42:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25749</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25749"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Books Hero Effect - Synchronized Scroll Matched Geometry Effect - Complex UI - Xcode 26 &lt;a href="https://t.co/uFmhVDLiWa" target="_blank" rel="noopener"&gt;https://t.co/uFmhVDLiWa&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Antigravity + Cloud Functions = 😍 ? https://t.co/uSKKfYK3OQ</title>
     <published>2026-01-19T17:12:23+00:00</published>
@@ -242,21 +253,5 @@ GitHub - airbnb/lottie-ios: An iOS library to natively render After Effects vect
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : getsentry/sentry-cocoa &lt;a href="https://t.co/7ovVdCzx2g" target="_blank" rel="noopener"&gt;https://t.co/7ovVdCzx2g&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ovVdCzx2g"&gt;&lt;img src="https://cdn4.telesco.pe/file/IOsGYFQvCufHnJpwKHeo9GhZntdpp6RQpd7jZXS8U7m2FjZqYSkTb2oXG46wC3CEwjhT0qjXbirnRiMST-257j7MvjznzWirAU6oumAGAzQvR8Hi8aILGcDXCGsD9its5WF309rbovKCH12qHPT4zCcYclKBLXBqak-G0ehVwMQyUFp9x3BNquCIX4MpzEX02IdLpGaIB3bIzGCXY6mErtYA81mWJfDE8ruRKxKMxeV55KuT7_-7zlvQTBk8DYsg8amjAyhk01Zpym5mtNfpJ6el2yh3sCDS2cSBk3kHDvUjyQkVsUG-64yOmCqw_yrSKrJi8T6JGKh8FtCeQJtw_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ovVdCzx2g"&gt;
 GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. - GitHub&lt;/a&gt;&lt;br&gt;The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. - getsentry/sentry-cocoa&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">2 Hidden SwiftUI Scroll APIs | Xcode https://t.co/CrABabgpBm</title>
-    <published>2026-01-15T17:52:33+00:00</published>
-    <updated>2026-01-15T17:52:33+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25729</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25729"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;2 Hidden SwiftUI Scroll APIs | Xcode &lt;a href="https://t.co/CrABabgpBm" target="_blank" rel="noopener"&gt;https://t.co/CrABabgpBm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;&lt;img src="https://cdn4.telesco.pe/file/ax2NS2Bas3VeLQAvoB2G566-m53GVfArGebTSGAG0bCDrDWOH_DqSz5IJwJZ03p8InaSEmsx5id-WffCDLuWiDTc1oIVRmONaXck5Na-FzgIoMj9WoH6AsHg2fXCHe-1LQnwETRihiYtUiScMcavXB217n2Bog6M5On8ereLqNfmQYLaJffHTdZUuj_NOXgQLYKT-nfPmfGLTgwmwjMHjE3kg_dQe9srR92P4yh-I3fevyFTPeUhrL92Q476PlRjfJfdX9DGMLQ8xqpQm1F5Ips9iMLZs9qK_DI2uYug1zPmPgkSPMzgj2x1xIud692937-k7zNY7QNws3lSXSdMgw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/CrABabgpBm"&gt;
-2 Hidden SwiftUI Scroll APIs | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I&amp;#39;ll show you two useful SwiftUI Scroll APIs which will be very useful when creating complex scroll interactions | SwiftUI Scroll APIs | SwiftUI | Xcode 26&#13;
-#apple #swiftui #ios #xcode #animation #ui #ux #design&#13;
-&#13;
- ► Subscribe…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
