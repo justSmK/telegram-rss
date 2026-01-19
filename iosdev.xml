@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/KXPsl6PvUX3CUvxB5ZbbJVxQBum6jQXC7rSDP-Dqdwa2k1IF67TzTkY7TvhsAtKMmmUDrsHZU3T9Pe-s6BTs1G377e8yH-1jBZQ_rN0HcXNsMMGGhT9rwCcrmNnNlW-7NuQj6FdbvXoZnpySUmfoaSLeixmcMBXCjmRxgGtKA0RU3736guHstYAsFtjTCW5esYkSFbsFRDak_xGTaUVPnj3i2myZsxU_eugqBbaUDh1YM43aFyBmPDxBOhP_861lIVGENVglJ0h2j07SGPTEHfdl51BXAcKfatCaelBAiNHrZlPUOGPGpwpQlzGD8AHv2za-kcSxL2ZFUbw9lsh1gg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KXPsl6PvUX3CUvxB5ZbbJVxQBum6jQXC7rSDP-Dqdwa2k1IF67TzTkY7TvhsAtKMmmUDrsHZU3T9Pe-s6BTs1G377e8yH-1jBZQ_rN0HcXNsMMGGhT9rwCcrmNnNlW-7NuQj6FdbvXoZnpySUmfoaSLeixmcMBXCjmRxgGtKA0RU3736guHstYAsFtjTCW5esYkSFbsFRDak_xGTaUVPnj3i2myZsxU_eugqBbaUDh1YM43aFyBmPDxBOhP_861lIVGENVglJ0h2j07SGPTEHfdl51BXAcKfatCaelBAiNHrZlPUOGPGpwpQlzGD8AHv2za-kcSxL2ZFUbw9lsh1gg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-01-19T11:24:42+00:00</updated>
+  <updated>2026-01-19T12:56:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -46,7 +46,7 @@
     </author>
     <content type="html">&lt;blockquote&gt;iOS Dev&lt;br&gt;
 Какую минимальную версию iOS вы поддерживаете на вашем рабочем проекте?
-&lt;a href="https://t.me/iosdev/1399"&gt;https://t.me/iosdev/1399&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;			Какую минимальную iOS на рабочем проекте вы поддерживаете в 2026 году?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5% - 26&lt;/li&gt;&lt;li&gt;7% - 18&lt;/li&gt;&lt;li&gt;15% - 17&lt;/li&gt;&lt;li&gt;32% - 16&lt;/li&gt;&lt;li&gt;31% - 15&lt;/li&gt;&lt;li&gt;4% - 14&lt;/li&gt;&lt;li&gt;7% - 13 (или ниже)&lt;/li&gt;&lt;/ul&gt;</content>
+&lt;a href="https://t.me/iosdev/1399"&gt;https://t.me/iosdev/1399&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;			Какую минимальную iOS на рабочем проекте вы поддерживаете в 2026 году?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5% - 26&lt;/li&gt;&lt;li&gt;7% - 18&lt;/li&gt;&lt;li&gt;15% - 17&lt;/li&gt;&lt;li&gt;31% - 16&lt;/li&gt;&lt;li&gt;31% - 15&lt;/li&gt;&lt;li&gt;4% - 14&lt;/li&gt;&lt;li&gt;7% - 13 (или ниже)&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Секретный способ найти файлы .md для Swift Concurrency/SwiftUI/MapKit и...</title>
