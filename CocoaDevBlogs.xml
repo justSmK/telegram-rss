@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qB9UXSoIuDpVIRdHZK1koRQgtUBQXXG6kWAcaPJ_tTTT8Fvcd6FRLg4Ng_Vhw_vLrKfkIjV3uSCHHKqLJ08ZALX5w2c2wg_zTiuwd-jwTRvJxLkh36QIrzV9vvfmaWSoabBcTzMe-Pkb_0tjRgzNMHELOB7junIy-3xO1vCra8hVwfVaEhUpCFjMJMIfuO94u6myaaAGyRjr1Bu2cpbt9sGp3eF2U2rtW4BxIfKyt3T5RzHyJEyff4MDswM5ODL8nvjKMO50evFEKSJTgrhUAsHnY3iHhgzFJx5jXHvEbBWaK7kqNqnbpKqcDGkOGfuu5Ng_drELQiGGiiE76Rrn0A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-19T14:31:09+00:00</updated>
+  <updated>2026-01-19T15:29:58+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -129,7 +129,7 @@ GitHub - DanTheMan827/ios-app-signer: This is an app for OS X that can (re)sign 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to install GitHub action runner on EC2 Mac &lt;a href="https://t.co/iK8Tx7Pxiu" target="_blank" rel="noopener"&gt;https://t.co/iK8Tx7Pxiu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;&lt;img src="https://cdn4.telesco.pe/file/DifN1AGXBfHgGGwnogy79oCcx5DWJsQvWdpAuiEia3Gmwhx3JX11uRcB5FnGqd-B0N1buGLiLsIp4gdqjbsA30GXPU3zX_U3_XyCRW8vAa77EVh_N5zEcBjpLmvFq0Nz_lrp8W6VHpOPdnLFhnhUFhsrA8296y9PYvSNLFWmwWry80qcBt4nlrwytZQy9eldgZJWEuyKME8dekwGy082TQUkDGegm_QrGyMwQu8Ea9h4k_OvW8nDwVzUJLFJ3FHxdNTrcAD6_orMdBCVSV7UTzI9vOwvTWWaMS5Oh8b2XqAibiEgqjVFytX0yFSZpVpfCXLtpIrXHl4gh15rEyra4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to install GitHub action runner on EC2 Mac &lt;a href="https://t.co/iK8Tx7Pxiu" target="_blank" rel="noopener"&gt;https://t.co/iK8Tx7Pxiu&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;&lt;img src="https://cdn4.telesco.pe/file/AAXYc57J9un9oIomMJP0M4Vtft3-vrF9vDxtxHNk1jQ-7ObHQSNOsqKA-8KmqHY-Fk9-0vGCZrhTQv2C93Edw1pgqTJkqsIDi8ODHFQoKZbJO7BFC2StkwixUhHgiT8vIYDLpYa0EtQqbsiFqIknMcJu1mM3XowhdQ7M8_M4Ac84fRQZcDZXJgqh_La3jtiG-splgQgSiilE-FFTUP88YfRQeOC7ArVsb1VJjjtj0PXcKCKAfLndKWrilnuddKJYkFlTjvGJYRnd2H7Ier_1HFu6dQjmdDysJd0DnVs6oGyH-EmalgQLqoAiyWuDm9Geut2l0qHSfu1CUGJAaBWI-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iK8Tx7Pxiu"&gt;
 How to install GitHub action runner on EC2 Mac | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1002&#13;
 I recently set up self-hosted runners on EC2 Mac instances for iOS builds. Here are my notes on what actually works—plus all the gotchas I hit along the way.&#13;
 First, grab the runner package from your GitHub organization. For complete official instructions…&lt;/blockquote&gt;</content>
