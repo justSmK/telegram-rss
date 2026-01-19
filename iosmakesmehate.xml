@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/nH62YMt53FWIdU6kBvW8U3WViA_XZR1C6o40loq4heUrbu8AZo7Dfpuen0A6CBsCDc0RRmbsejlat8BbzY1Y6ENLC_7KIjCWoCMSUgkNHOMfeg1QEeOxE4dmItJkZs3cdeeimU7Pj_1J55bTfB89wvP8RJVG4jJyMaHcRAjB-7piD9N04c1aRBiLFojCFYvOMUZWHH9ZisdAmpVEG0ldhGPTIymFSctC4hryHsd9TbSQCXE3ZucMmNkxbEhLqzkTMCJMIjed9c2b3nrSc5OXk3LMJIv9cpHipTCxPMth2_jiWvjx37NBPMn8kw3wrJSSUgsjMFOK8mmSFTIImzUaaA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nH62YMt53FWIdU6kBvW8U3WViA_XZR1C6o40loq4heUrbu8AZo7Dfpuen0A6CBsCDc0RRmbsejlat8BbzY1Y6ENLC_7KIjCWoCMSUgkNHOMfeg1QEeOxE4dmItJkZs3cdeeimU7Pj_1J55bTfB89wvP8RJVG4jJyMaHcRAjB-7piD9N04c1aRBiLFojCFYvOMUZWHH9ZisdAmpVEG0ldhGPTIymFSctC4hryHsd9TbSQCXE3ZucMmNkxbEhLqzkTMCJMIjed9c2b3nrSc5OXk3LMJIv9cpHipTCxPMth2_jiWvjx37NBPMn8kw3wrJSSUgsjMFOK8mmSFTIImzUaaA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-19T07:32:05+00:00</updated>
+  <updated>2026-01-19T08:37:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Модуляризация: как мы разбили 250+ модулей в экосистеме...</title>
+    <published>2026-01-19T07:43:10+00:00</published>
+    <updated>2026-01-19T07:43:10+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3690</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3690"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3690"&gt;&lt;img src="https://cdn4.telesco.pe/file/XrPEOxMPfJeqt0v2s86xxWdHWTUyeaEz8izUaI0S4xWhCqUQdq-9GmwU-OCDgK40C1PExgZz-9CTcTk2Qpu1UliDbqdZIIWYySOVTk8THQ0nHdjEWLOVlSEw0ry5Gje89KSI3nEFX9NTmkxzm5AX4CDVEMxxRqgWSC8HPIZ0n6Irp_A5XzVtxjxJeSmjbYpm63tVH3-iMbYn2JCVJy8E25WCfnjc30Tv7v7zNtGHy0dOWbzXhALLXt7HS-C2to_sVJ6CAAM05M4hrteLGaAujigtG2pNCJNiOWDzOohkZI4Oq5e7982DZxD_y18byX_ksArT0NQKM8FZWl6wb03k7w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.youtube.com/watch?app=desktop&amp;amp;amp;v=Rc-S9RnDuLI" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Модуляризация: как мы разбили 250+ модулей в экосистеме приложений adidas&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Модуляризация — это не только важная штука для ускорения сборок. &lt;br/&gt;&lt;br/&gt;Особенно она важна, когда ваши фичи приложения А используются в приложении Б.&lt;br/&gt;&lt;br/&gt;Мне кажется Яндекс — это самая большая экосистема в СНГ. Открывая какой-нибудь супперапп вы увидите фичи десятка команд.&lt;br/&gt;&lt;br/&gt;Алиса, Еда, такси, доставка, музыка, карты. Разные юр лица, разные экономики, разные страны и требования. Очень очень сложно. Тут не до правильности кнопок.&lt;br/&gt;&lt;br/&gt;Такие проекты могут длиться годы. И это не просто техническая гигиена, а здесь реальный импакт на бизнес.&lt;br/&gt;&lt;br/&gt;Вот и автор доклада рассказывает какие бизнес и техно проблемы они решали для развития экосистемы аппок Адидас&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🍏 В прошлом году молодёжь в России чаще выбирала iPhone:...</title>
     <published>2026-01-17T10:51:59+00:00</published>
@@ -213,19 +224,5 @@ GitHub - AvdLee/Swift-Concurrency-Agent-Skill: Add expert Swift Concurrency guid
       <name>iOS Makes Me Hate</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosmakesmehate/3668"&gt;&lt;img src="https://cdn4.telesco.pe/file/oCaT_zV-AgT9YNzNH7TO3lxaamBjcwk0Bc_0RSOo4AQqaa3TqvTKEF-N6YJrerNLHy6eeEZ1wQf3FCJF1gDP1MTTU2kjVxpKIxCHI9dlUmmFtc_43s50u4Q9WtbyPxa7qadWr6GIVLiQ_6NFq3xkfS3zX1vJkyXseLnymn-stsa3JrImc0eFZm2sJoh5NqHxDdC2LiXsHu93OItErVPbhHFqDqS7LnbAZ-BhmHWiD3LJTVPBgjbNejZ7tHpCTsIl0G84k83_5XRwbB2f-bC8g4-vCBLfsyIdrcXQ8253su6g1lATfklsvEy9AWl1PivvT-qn1Qpa_lU7ZhDXK0K6sA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не хочу портить настроение, но завтра надо на работу.&lt;br/&gt;&lt;br/&gt;В этом году я решил отдельно подтянуть такие вопросы как восстановление и отдых. Отпуск, новогодние каникулы или выходные такой же (а иногда и более) стресс, как и работа. Смена режима, фокусов, вялость.&lt;br/&gt;&lt;br/&gt;Вот вам &lt;a href="https://www.rbc.ru/life/news/696102429a7947113fc7cd05" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;базовые советы от минздрава&lt;/a&gt; как эффективно начать завтрашний день. А тут &lt;a href="https://daily.afisha.ru/relationship/7838-kak-vernutsya-k-rabote-i-srazu-zhe-ne-ustat/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;набор хороших &lt;/a&gt;рекомендаций.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Там курсор выложил лучшие практики для кодинга&#13;
-&#13;
-В...</title>
-    <published>2026-01-10T13:36:54+00:00</published>
-    <updated>2026-01-10T13:36:54+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3667</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3667"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Там курсор выложил лучшие практики для кодинга&lt;br/&gt;&lt;br/&gt;В новом году в канале будет больше аи-инжнеринга. Готовьтесь.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://cursor.com/blog/agent-best-practices" target="_blank" rel="noopener"&gt;https://cursor.com/blog/agent-best-practices&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://cursor.com/blog/agent-best-practices"&gt;&lt;img src="https://cdn4.telesco.pe/file/S7CmtRWCJvaTL5Gg1yGHnK9OH9D3gLhaMHtU35a4TAXcmmf4FgLDi2xnDvu8aJGzNQqeBoxdJYpwIeI-IWKBRcJ3enOBQsIwhirmu7FBgtdo2InxZ2S3TYa3TlHTaXL7G8S4ZLfS8v-VjYY3SbDPboRNqSwPhLQXmQjkvNImo8n0B-DeJZ1wVJBcbCK5wAMcQwQyRXU6i85poYx_oEg4xSFT40RGy7Ss0sGqSHWyDQoCNKm0BsBssrJ2EEW91yaAKqdV7tJ3EqqfpkDu63uTeel95RwKPSOdXz_MXfKleFZnOcU-sdkQkCPx3zWIOtiardaktFuzknglXEnXR36QlQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://cursor.com/blog/agent-best-practices"&gt;
-Cursor agent best practices - Cursor&lt;/a&gt;&lt;br&gt;A comprehensive guide to working with coding agents, from starting with plans to managing context, customizing workflows, and reviewing code.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
