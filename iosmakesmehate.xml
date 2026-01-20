@@ -3,13 +3,26 @@
   <title type="text">iOS Makes Me Hate (@iosmakesmehate) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosmakesmehate"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate"/>
-  <icon>https://cdn4.telesco.pe/file/nH62YMt53FWIdU6kBvW8U3WViA_XZR1C6o40loq4heUrbu8AZo7Dfpuen0A6CBsCDc0RRmbsejlat8BbzY1Y6ENLC_7KIjCWoCMSUgkNHOMfeg1QEeOxE4dmItJkZs3cdeeimU7Pj_1J55bTfB89wvP8RJVG4jJyMaHcRAjB-7piD9N04c1aRBiLFojCFYvOMUZWHH9ZisdAmpVEG0ldhGPTIymFSctC4hryHsd9TbSQCXE3ZucMmNkxbEhLqzkTMCJMIjed9c2b3nrSc5OXk3LMJIv9cpHipTCxPMth2_jiWvjx37NBPMn8kw3wrJSSUgsjMFOK8mmSFTIImzUaaA.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/nH62YMt53FWIdU6kBvW8U3WViA_XZR1C6o40loq4heUrbu8AZo7Dfpuen0A6CBsCDc0RRmbsejlat8BbzY1Y6ENLC_7KIjCWoCMSUgkNHOMfeg1QEeOxE4dmItJkZs3cdeeimU7Pj_1J55bTfB89wvP8RJVG4jJyMaHcRAjB-7piD9N04c1aRBiLFojCFYvOMUZWHH9ZisdAmpVEG0ldhGPTIymFSctC4hryHsd9TbSQCXE3ZucMmNkxbEhLqzkTMCJMIjed9c2b3nrSc5OXk3LMJIv9cpHipTCxPMth2_jiWvjx37NBPMn8kw3wrJSSUgsjMFOK8mmSFTIImzUaaA.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/eQvy-m8Hx61ljBlvhGmvAfnRnp7mZk5JN-ZpUpBxrbK-tS_Q4NdMej9EfcnAeEg2_aeKLDHTsj4mhhS5NnIu8mlzOmX-sE2lfbzj5dzoYbhWLS1QArbRfs2XnkCG4l1AqpFNYWwDB2MUEfymhJJOn6lOg4cqRUYKh_NUIuRFb87kbeD3ymTlJy_45vDZAYmUhlg64mRFKRv1ezlZ8XSnLzisGoiGJXd6oUWylP8ZUacr1BMK1r1HaSHb0fj8fWqZevoFksvaoLz20h94bJjzxx0eKU_uk0XhxHtFhHcF18esPSHUNeloYNu_TRacQe6NsO4fAnqB_j-Myvb8ZlIg3Q.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/eQvy-m8Hx61ljBlvhGmvAfnRnp7mZk5JN-ZpUpBxrbK-tS_Q4NdMej9EfcnAeEg2_aeKLDHTsj4mhhS5NnIu8mlzOmX-sE2lfbzj5dzoYbhWLS1QArbRfs2XnkCG4l1AqpFNYWwDB2MUEfymhJJOn6lOg4cqRUYKh_NUIuRFb87kbeD3ymTlJy_45vDZAYmUhlg64mRFKRv1ezlZ8XSnLzisGoiGJXd6oUWylP8ZUacr1BMK1r1HaSHb0fj8fWqZevoFksvaoLz20h94bJjzxx0eKU_uk0XhxHtFhHcF18esPSHUNeloYNu_TRacQe6NsO4fAnqB_j-Myvb8ZlIg3Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-20T03:49:44+00:00</updated>
+  <updated>2026-01-20T04:49:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Если вы не знали, то знайте&#13;
+&#13;
+TMS-90725: SDK version issue - This app was...</title>
+    <published>2026-01-20T04:43:08+00:00</published>
+    <updated>2026-01-20T04:43:08+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3693</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3693"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если вы не знали, то знайте&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;TMS-90725: SDK version issue&lt;/b&gt; - This app was built with the iOS 18.5 SDK. Starting April 2026, all iOS and iPadOS apps must be built with the iOS 26 SDK or later, included in Xcode 26 or later, in order to be uploaded&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Все чаще слышу, что на Xcode 26 куча проблем. Краши, едет верстка и в лучших традициях Appple. Обновляйтесь уже сейчас.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Тренд «я из 2016»&#13;
 &#13;
@@ -212,16 +225,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Apple официально проиграли ИИ гонку &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Любители Apple ждали, что она вот вот представит миру новую нейросеть. Ведь она долгое время не презентовала свою. И критиковал конкурентов с теми самыми башнями перед своими слабыми WWDC (&lt;a href="https://t.me/iosmakesmehate/3142" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;через два дня Open AI разбила критику&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;Чуда не случилось. Поэтому Apple сделала ход конем и взяла наработки &lt;s&gt;андроид разрабов&lt;/s&gt; Google.&lt;br/&gt;&lt;br/&gt;Ну что, вангуем закат Айфонов как символа инноваций?&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;&lt;img src="https://cdn4.telesco.pe/file/JSi6V9e_hzjXUmo1vMzSY5aNbGx7b5gqTUMfhRDqgFY5szWpApLF-W7N0X48O-GeN5wV7lRqnklrF2KMAw4YlZ9reHNHjVpULrA4FnsCRLn81nE4wSZsUMXmIoumPDGxH7c8fWA2TDVUSBG3Q4uE-VocAEmCxVH7QZ_2ueDYZyBakYuBEQhHcMztI5PR2Ar5Kp9URUxuiB863iTleKnxdj48rFItfEy-q4TOdxjxF9gpwJ3DQULYzU9IWQAO-YOScOZBx47KyI3zUUe2CjXRxsy1CyTCDrXkT8QIeAGp4hnU65496KmJ8YpNwvXbXOP1V8gi1QjILr2imPbkloLRxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;
 Joint statement from Google and Apple - Google&lt;/a&gt;&lt;br&gt;Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google&amp;#39;s Gemini models and clou…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Ежегодный опрос про ДОХОД. На какие условия бы вы согласились по доходу при прочих равных?</title>
-    <published>2026-01-12T11:18:22+00:00</published>
-    <updated>2026-01-12T11:18:22+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3671</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3671"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">			Ежегодный опрос про ДОХОД. На какие условия бы вы согласились по доходу при прочих равных?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;37% - Оклад немного выше рынка&lt;/li&gt;&lt;li&gt;32% - Оклад в рынке. Но с премией. Общий доход чуть выше рынка компаний без премий.&lt;/li&gt;&lt;li&gt;27% - Оклад чуть ниже рынка. Но высокие премии. Общий доход значительно выше рынка.&lt;/li&gt;&lt;li&gt;33% - Зарплата в рынке, но меньше напряга.&lt;/li&gt;&lt;li&gt;10% - Зарплата ниже рынка, но полный чилл.&lt;/li&gt;&lt;li&gt;19% - Оклад и акции.&lt;/li&gt;&lt;li&gt;8% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
