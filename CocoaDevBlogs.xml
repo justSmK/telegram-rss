@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/ttteITtx6Ja3DuW7QAwXFsyrFk9tn3Zjz2FBggrCGb8lQdoNe2wz9Fe_P8KrhQ6P1kiU4fr4pTluVWOqth0E-8UDimT19oTi7NlMpB2YTO1IERUzNtavqmrk1HTTSKPS5sSQs12SrSuX6N3Yhpxe_tSzVqeit2okjFwNNBLKuElJlFdtJvh4TMcWQsllmtoDqXnRILe1vL-SlX0KQjS4PAI1KidGMvbs8dlL4Yb1vF3T29yviPhGVqj5G5gOe9f7GzHOFbvnxw2OcHVszMt7_9btvNjaOu3Z-oGI2VNy2cFiIa0Q6jvOVvXkpV8uJQEcQJhGrfnRC73OZab4DjtIUQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ttteITtx6Ja3DuW7QAwXFsyrFk9tn3Zjz2FBggrCGb8lQdoNe2wz9Fe_P8KrhQ6P1kiU4fr4pTluVWOqth0E-8UDimT19oTi7NlMpB2YTO1IERUzNtavqmrk1HTTSKPS5sSQs12SrSuX6N3Yhpxe_tSzVqeit2okjFwNNBLKuElJlFdtJvh4TMcWQsllmtoDqXnRILe1vL-SlX0KQjS4PAI1KidGMvbs8dlL4Yb1vF3T29yviPhGVqj5G5gOe9f7GzHOFbvnxw2OcHVszMt7_9btvNjaOu3Z-oGI2VNy2cFiIa0Q6jvOVvXkpV8uJQEcQJhGrfnRC73OZab4DjtIUQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-20T13:51:48+00:00</updated>
+  <updated>2026-01-20T14:34:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Providing access to premium features with StoreKit 2 https://t.co/5NdyEft6uZ</title>
+    <published>2026-01-20T14:02:32+00:00</published>
+    <updated>2026-01-20T14:02:32+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25751</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25751"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Providing access to premium features with StoreKit 2 &lt;a href="https://t.co/5NdyEft6uZ" target="_blank" rel="noopener"&gt;https://t.co/5NdyEft6uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/K8EpgE1AMZKdoIhXdxVq5iFDXRX4KYTFP5YdIx9wZt3XdzSdmHJJQu_cXW2nhn2HbjtyLpXU9NQ86AyxSrCCzMcLjKf52_S7XJSB9ebD484ue0Y1ml16LI2bL8h7Yb73S02QHMp-ogNeC8ChpCjFyT0Gh0mvC0QEDNQPSfpO8J3aQB-w2M_2tt3uZ1bwTu4wCIkZYJoEBS6mUlZ6VWH3pBtLN4dHCwcXpx3OtARmgjLi306GQO9Br2cKvElJXOGgTAuktwURUZ8GpBzY9eXHYKjrRTnMUN67lhTK-J_xxTQDp6lTpNcH654mEsWadt5IeW7-cUPX-5Gb79rvw4H1KA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;
+Providing access to premium features with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to build a tiered subscription system and gate premium features in a SwiftUI app using StoreKit 2.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to use String Catalogs for pluralization in Swift https://t.co/qz0KyUrGTJ</title>
     <published>2026-01-19T23:42:31+00:00</published>
@@ -241,17 +253,5 @@ GitHub - zendesk/support_sdk_ios: Zendesk Support SDK for iOS - GitHub&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ivpusic/react-native-image-crop-picker &lt;a href="https://t.co/moJ7Mg555G" target="_blank" rel="noopener"&gt;https://t.co/moJ7Mg555G&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/moJ7Mg555G"&gt;&lt;img src="https://cdn4.telesco.pe/file/U1gvpQd0lBHAYW1LKTK84ssn8AAUyptLzaLSQKp1Vuq8Ej1etf5iDaVZ1hDq0VYs_1ak8iO3Z3jjdzUsJrh8nBL2QGmEp0kBdkxmHR_lrd4K-4Q27pgg--WKGfvXZGKNbnwL4NPOft1YsD3KK-mWwIsMO3IMOG159TOJn_3NyPPLZ8Nw6qzIDt0cQUdh2zOuXfLVdd1p6C9cRQU--KxNoIJGHdPZ1bANUQr9lhZ0XULBHPNn-spTAL6oFA5UEffZfdkj0TPE6XHI96iBH8p3QtMKi8Mq36reN2wb481dP-6aKC6NMkRxUonp6TjR_rLZsKT5cf8MX-85DpAQysUGVA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/moJ7Mg555G"&gt;
 GitHub - ivpusic/react-native-image-crop-picker: iOS/Android image picker with support for camera, video, configurable compression… - GitHub&lt;/a&gt;&lt;br&gt;iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping - ivpusic/react-native-image-crop-picker&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : airbnb/lottie-ios https://t.co/pqS6Tdbp7o</title>
-    <published>2026-01-16T02:02:28+00:00</published>
-    <updated>2026-01-16T02:02:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25731</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25731"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : airbnb/lottie-ios &lt;a href="https://t.co/pqS6Tdbp7o" target="_blank" rel="noopener"&gt;https://t.co/pqS6Tdbp7o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;
-GitHub - airbnb/lottie-ios: An iOS library to natively render After Effects vector animations - GitHub&lt;/a&gt;&lt;br&gt;An iOS library to natively render After Effects vector animations - airbnb/lottie-ios&lt;/blockquote&gt;</content>
   </entry>
 </feed>
