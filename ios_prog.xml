@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/TY6aXcKYh8JrRGxYxRAJYiFgZvrmtKlIyVvka390S5eo0qT0w_mU7Ex_DY5jv_xTkcb4zixYfoaUWNoNoFjiC8GuJVL45yHVS9sRKlRHfrlCuQl09LPHcARFeSjvL3UiAqr8io6u1oTW8pyTHK6w1Pm6e2lg1ParbEWF1P294qs2Y1bSUouuoiHXXRC4loLT2fIG_wGeZ_jo31IHlc4UNFLMBLxlsubECckBHOb-DnlZsdAN5gf_VhX_O1PXda7cdRmcqDThiWp_So3t-Cg6uJSJmZSLDBNzBnhPWnEFlyN43YpUCvgYXZtJrjIvMgRGW_kAANNpTF2KzFxdDMR1Vw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/TY6aXcKYh8JrRGxYxRAJYiFgZvrmtKlIyVvka390S5eo0qT0w_mU7Ex_DY5jv_xTkcb4zixYfoaUWNoNoFjiC8GuJVL45yHVS9sRKlRHfrlCuQl09LPHcARFeSjvL3UiAqr8io6u1oTW8pyTHK6w1Pm6e2lg1ParbEWF1P294qs2Y1bSUouuoiHXXRC4loLT2fIG_wGeZ_jo31IHlc4UNFLMBLxlsubECckBHOb-DnlZsdAN5gf_VhX_O1PXda7cdRmcqDThiWp_So3t-Cg6uJSJmZSLDBNzBnhPWnEFlyN43YpUCvgYXZtJrjIvMgRGW_kAANNpTF2KzFxdDMR1Vw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-01-20T06:40:50+00:00</updated>
+  <updated>2026-01-20T07:31:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Я сократил потребление памяти SwiftUI на 80% с помощью...</title>
+    <published>2026-01-20T07:17:00+00:00</published>
+    <updated>2026-01-20T07:17:00+00:00</updated>
+    <id>https://t.me/ios_prog/698</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/698"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/698"&gt;&lt;img src="https://cdn4.telesco.pe/file/Obj4yrxF91wyETHp-E1eCjMvwQ0abqSAufb4KOkRcr-DnhbnPdoJALDaXARZ4ZxTg_r2v14Pjk-w2AK8ScX-Hlbex9Cgj7n6rOgsPJ03l3tD6oBn_3M_eVbbyGqOXPCzZqzHTbLkZIAxr0-kas0rAsligX4IlX47I9BxE6h0kwOtx_4eJfiLV4nLJEl5Q-42EIdRq-fz52IEoQNcrLq5mI4503b-ONhq4A1EjblGmmAJWzr0z9M92ffhkgosjNh0qAGHNgcmXYIIgb-WX0FfAkeNK_crmD5LkH3ZtT0iRQc0p2eMkSZeIm3kK_4JdswfLCscfVaTZQBJM-kSde-c3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/ya-sokratil-potreblenie-pamyati-swiftui-na-80-s-pomoschyu-odnogo-kontrintuitivnogo-tryuka.html?amp=1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Я сократил потребление памяти SwiftUI на 80% с помощью одного контринтуитивного трюка&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Иногда решение сложной проблемы — не в тоннах нового кода, а в одном правильном понимании.&lt;br/&gt;&lt;br/&gt;Делимся историей: автор был готов забросить SwiftUI из-за растущего потребления памяти и постоянных сбоев. Инструменты не давали соврать. Прорыв наступил, когда он осознал ключевой механизм работы фреймворка.&lt;br/&gt;&lt;br/&gt;В этой статье — не магия, а конкретное и работающее изменение, которое кардинально улучшило стабильность приложения.&lt;br/&gt;&lt;br/&gt;Цифры говорят сами за себя.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🍏 Таким был бы iPhone 17 Pro, если бы Apple выпустила его в...</title>
     <published>2026-01-15T16:02:34+00:00</published>
@@ -246,18 +257,5 @@
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/679"&gt;&lt;img src="https://cdn4.telesco.pe/file/ue7rDaR-lfWRyEHASqFu7M85xQHnb4CIM_b1JnO6nQE6-cvNkHX9pPBDzWy2bDYy1a2yLRcjaUS7do3Dj0pzPG_ISYqna515XjahqQvr2H85azvN6Nq7oReikv7-Zv-z-KveqWNRN9QiyB2tiauk_dbOvQAF5IDbtF0Q1ssM9EitxcDvEKra8ytHGGeomRX75vEmHWsde5v3LYP_pv3MX6km3C0_dFyjn4zoX6oKt5uDM7QvEsDI2dcVUkEQkNTcVQDgSGow-lCNnujHGuv8lMltwxqnaOlGDUNNpXH5qvpP7L5AG05JdftE84mUjEqv9_t9Zi3gCyDwPtpHqupmPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 строка поиска по умолчанию отображается внизу&lt;br/&gt;&lt;br/&gt;Её можно перенести в навигационный бар, изменив параметр &lt;code&gt;placement&lt;/code&gt; в модификаторе &lt;code&gt;searchable()&lt;/code&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Совет по SwiftUI&#13;
-&#13;
-Если вью не реагирует на тапы как...</title>
-    <published>2025-11-05T07:19:58+00:00</published>
-    <updated>2025-11-05T07:19:58+00:00</updated>
-    <id>https://t.me/ios_prog/678</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/678"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/678"&gt;&lt;img src="https://cdn4.telesco.pe/file/bPT8u9gESI4wlmV3vylypydBt3euo6xOGlnnkRBEGWtSgmK88FfCu0VtrHV-4Dyi9ils4VH-Q-W428DBIL8SIW5nTm91hRuC1OxVsqQPnF4uT3YMTbl4bXXlh99U2yjl2gWr4OL2Vle0g3LtfN_qQNv4m2S1YU8ASI8r57RvyRDfmaOL3mvxNfBb0BWT1afL3XeK3xrS8EvqCFF6vPKqMlvBfSL8PygnCnrPJjENGoNBUxB2zGpjRoZLulS5bRrbNmdhALDm1gH0qSlcxED36njsKC-XvNvXmZ9kPmFqbGkcWiBwINEOnbu15T9QMZiz0fyXv2gSVvySq9WLf6tgcw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет по SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Если вью не реагирует на тапы как ожидается, используйте &lt;code&gt;contentShape()&lt;/code&gt;, чтобы задать её интерактивную область&lt;/div&gt;</content>
   </entry>
 </feed>
