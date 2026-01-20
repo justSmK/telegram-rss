@@ -3,10 +3,10 @@
   <title type="text">iOS Dev (@iosdev) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosdev"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev"/>
-  <icon>https://cdn4.telesco.pe/file/m3zlky4AH1dffwxaeBmpNQ8qdClpXtmMHzJKV-YGGEqQMPlTcJA5iU907_-iLTcc1uvfzAPiQRW-KShkxmg4ooQPPzyky9TF1swBNYnmUx1AP-fc7JemeAEZ3BeCW5b8BdG2tjEmGAjMkkDzZn5oT-TBh7rrs5SVEPKSH_HaM6J3RikUZV-KX_I-J-I3Si-zbAuYXcHNg4_IrwMgAgclVbRJTTQtHOoRzYinohm5SyeFu7HQe5VLQnneUOtW6WH64eBcZeBDYYVbZxGz-_DNlxwoqmE-QLtVvdESsvYDvhh7VnR0G7X-d5Tq2sIV0knczteIUVgCvfF2dH7K-y97Ng.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/m3zlky4AH1dffwxaeBmpNQ8qdClpXtmMHzJKV-YGGEqQMPlTcJA5iU907_-iLTcc1uvfzAPiQRW-KShkxmg4ooQPPzyky9TF1swBNYnmUx1AP-fc7JemeAEZ3BeCW5b8BdG2tjEmGAjMkkDzZn5oT-TBh7rrs5SVEPKSH_HaM6J3RikUZV-KX_I-J-I3Si-zbAuYXcHNg4_IrwMgAgclVbRJTTQtHOoRzYinohm5SyeFu7HQe5VLQnneUOtW6WH64eBcZeBDYYVbZxGz-_DNlxwoqmE-QLtVvdESsvYDvhh7VnR0G7X-d5Tq2sIV0knczteIUVgCvfF2dH7K-y97Ng.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/ipVfMKe6ulJhH1GHjZ_9VSGuqGIAW64jWCkYcZfdAGYkU57pn7mkGJ8t4nA1sBfic-HeSog4mIfpMKkK6m-LNoe3nxuAUirTZArKfxdqIM999qhWKvz2KoDFf7ThyjpK_ZtpjTPBh-2bMXk8Ble-IkaMh683r4hpTrPPuKKkDePVqRAcR3NhBeLRS92RXRbYfFqLFN1CB8L1N4rzhcoyl8WhSZbh_dyVGdKVYQ4z1hUMFIf-mvxluOYm2u1uB49DyeecK2-6iY7isP6kkuxSqqvD5-ok0xmFRGVolwt3mubwkn6ijrR92hXkgEvY3oMG4hH4jTkoKkm_tUJK9aRK0w.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/ipVfMKe6ulJhH1GHjZ_9VSGuqGIAW64jWCkYcZfdAGYkU57pn7mkGJ8t4nA1sBfic-HeSog4mIfpMKkK6m-LNoe3nxuAUirTZArKfxdqIM999qhWKvz2KoDFf7ThyjpK_ZtpjTPBh-2bMXk8Ble-IkaMh683r4hpTrPPuKKkDePVqRAcR3NhBeLRS92RXRbYfFqLFN1CB8L1N4rzhcoyl8WhSZbh_dyVGdKVYQ4z1hUMFIf-mvxluOYm2u1uB49DyeecK2-6iY7isP6kkuxSqqvD5-ok0xmFRGVolwt3mubwkn6ijrR92hXkgEvY3oMG4hH4jTkoKkm_tUJK9aRK0w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-01-20T15:35:16+00:00</updated>
+  <updated>2026-01-20T16:39:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -59,7 +59,7 @@
     </author>
     <content type="html">&lt;blockquote&gt;iOS Dev&lt;br&gt;
 Какую минимальную версию iOS вы поддерживаете на вашем рабочем проекте?
-&lt;a href="https://t.me/iosdev/1399"&gt;https://t.me/iosdev/1399&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;			Какую минимальную iOS на рабочем проекте вы поддерживаете в 2026 году?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5% - 26&lt;/li&gt;&lt;li&gt;7% - 18&lt;/li&gt;&lt;li&gt;15% - 17&lt;/li&gt;&lt;li&gt;31% - 16&lt;/li&gt;&lt;li&gt;31% - 15&lt;/li&gt;&lt;li&gt;4% - 14&lt;/li&gt;&lt;li&gt;7% - 13 (или ниже)&lt;/li&gt;&lt;/ul&gt;</content>
+&lt;a href="https://t.me/iosdev/1399"&gt;https://t.me/iosdev/1399&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;			Какую минимальную iOS на рабочем проекте вы поддерживаете в 2026 году?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5% - 26&lt;/li&gt;&lt;li&gt;7% - 18&lt;/li&gt;&lt;li&gt;14% - 17&lt;/li&gt;&lt;li&gt;31% - 16&lt;/li&gt;&lt;li&gt;31% - 15&lt;/li&gt;&lt;li&gt;4% - 14&lt;/li&gt;&lt;li&gt;7% - 13 (или ниже)&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Секретный способ найти файлы .md для Swift Concurrency/SwiftUI/MapKit и...</title>
