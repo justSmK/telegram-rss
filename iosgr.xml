@@ -6,10 +6,36 @@
   <icon>https://cdn4.telesco.pe/file/rzTPgFmI7djWCnuOKHYnlesVpMgsVyFEucdtbnj5Rj0W1BSeiJymIA21SY7_ZnKkFaAn5pxJH5_w_6z8MBMWyQ7Kzy-p-CYzsqGKsGOYFUgDEyxRQbuNJSm_3me-U42_w_12eybIGFwmd1pkU_Yc2vqCLvYckfU5_yPBmhTtyb9mg29pWCjddWYh57kLl5A6haRixS2nR9NWfLM9Etha_wKVkD1DUOHvQuKDDe4Pi29_WGksDwLEQyjEA2JrWrstK_63Mrtx7v1UK6tX0DP4o_PPlu0FKtdcnG1JHmFF4axYghKmvCTlXUF-8b5QMasg7S1MKhT4rYnoq3QHVoruBg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rzTPgFmI7djWCnuOKHYnlesVpMgsVyFEucdtbnj5Rj0W1BSeiJymIA21SY7_ZnKkFaAn5pxJH5_w_6z8MBMWyQ7Kzy-p-CYzsqGKsGOYFUgDEyxRQbuNJSm_3me-U42_w_12eybIGFwmd1pkU_Yc2vqCLvYckfU5_yPBmhTtyb9mg29pWCjddWYh57kLl5A6haRixS2nR9NWfLM9Etha_wKVkD1DUOHvQuKDDe4Pi29_WGksDwLEQyjEA2JrWrstK_63Mrtx7v1UK6tX0DP4o_PPlu0FKtdcnG1JHmFF4axYghKmvCTlXUF-8b5QMasg7S1MKhT4rYnoq3QHVoruBg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-21T05:31:44+00:00</updated>
+  <updated>2026-01-21T06:41:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Проблемы Tab Bar в iOS 26&#13;
+&#13;
+В iOS 26 в таббаре появился новый...</title>
+    <published>2026-01-21T06:06:21+00:00</published>
+    <updated>2026-01-21T06:06:21+00:00</updated>
+    <id>https://t.me/iosgr/4587</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4587"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4587?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/WeHxdadIhc69iPpecwmhDJ9RJtTEFa4KbeROS6uHgNP3ikqcp6wovZds5cIftLvm6d4cYKfodF707QsZomHMgobCWfigr_79VRjPtGvVsd-CwoktVNWBvstV9yVSfTfPJ0sgLh-bYcbCP0Ft_pCod2ALvAS2iBF8a6X_CECpAOCOcYFQ0ft0sTC0IUcar-p9pKNuOkc8hEML8o6yo5z8pNkrPrX8XtakxLGtaIJNOnudwr61qCLF12-wdyhtujE9qiWmoWL-I64YHFkC85FEefZQTXYqf1E6nl8H3qY86Gu6LTic97o_2gA5Reb5USvQFn9nKt0pdUH56RXmcBbW9Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4588?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/TYM1ryVTEJFdKpqwWrLJca4_jU_NhMvFGU_OXqHPyIu5awJyvuVndT3ZXPubVE-D1-y5G9q2k8ZSI7yhVun3hBNKc47r1fK5nh7s5S-gmCJnl4b5L5GGYGEPUrsO8l-_UAVQn9o8u0O-rppAlhoKwWzUslpmDc7RCDNrgyw817pguzwGArJYBbmdkJ2j8IrGTP7CO4khQB7_hMKXBkiX6aJGGVUE3gxz91H84hPjxEiGUGDqtbJK-g0g63biX9g3lhrRdsoH9PfunFK6ze2fkljUV-TSRqAz6wsQSH2M5zKFoNyKz-_VeZ_-isglsNCdpZ8ey0jqAEuWUKgq3kTFzg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Проблемы Tab Bar в iOS 26&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 в таббаре появился новый специальный вид таба – поиск, который визуально отделен от остальной панели и в целом похож на кнопку. В том и кроется проблема – из-за этой похожести в кастомных реализациях таббара туда начинают добавлять другие действия – например, создание нового элемента, что будет путать пользователей еще сильнее.&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Apple тестирует новое отображение рекламы в App Store&#13;
+&#13;
+Apple...</title>
+    <published>2026-01-21T06:04:31+00:00</published>
+    <updated>2026-01-21T06:04:31+00:00</updated>
+    <id>https://t.me/iosgr/4586</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4586"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4586"&gt;&lt;img src="https://cdn4.telesco.pe/file/cGjvVrt0h8h6c4UIJD-_kElx8fKUUfazu-4sZCO_jP8qAQ3qZVIMACkcSyeWHBwjpoxjljy6jwRP4LkeTA1FZT_AMa1IAdZ-4kNcAhC-Tdkl-N5-UGL-hrVQ0p7XJKJ3BhJqrpY-Mjx8nnoSIB5FKcxOG7kAfWFqOTX_QVWv5PS3o_IWr2fcTS60epCDxNQd1fvdV_NaguPHFDkvuRBCy_tUsxMOtXn3fwqnwIXUz_lIxwst402-pCfMGihNkVGCuImdUlkW7RN7JFw2CvUGfJM6LmNgeaIziftiA6MXCq58EdF2OKkqNJpTpob1Gv35eFPtDfMvn8fCL07tfW2FpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple тестирует новое отображение рекламы в App Store&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Apple начали тестировать новый вид отображения рекламных позиций в списке приложений, которые теперь полностью повторяют обычную карточку, за исключением маленькой иконки &amp;quot;Ad&amp;quot; в углу. Больше темных паттернов богу темных паттернов&amp;#33;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Cupertino – MCP сервер для документации Apple&#13;
 &#13;
@@ -35,7 +61,7 @@ GitHub - mihaelamj/cupertino: A local Apple Documentation crawler and MCP server
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/peterfriese/swift-book" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift Language Reference в виде книги&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Документацию по Swift красиво сверстали по всем типографским правилам и выложили в PDF, так что, если всегда хотели иметь ее как настольную книгу, возможность теперь есть&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;&lt;img src="https://cdn4.telesco.pe/file/Cpfi-d1BjZTtPD_BN5Ighg5n5LQ5cDaJsOivzIzMZXpcbSGN6kyN4vkzOmZDMx1AN8UDbTkTaGjJmtAeNuS2kOeaMCc0WaEn-tQJQ51A6PFTKx8RN1QnUL3RFK_-TXN6WQ4658DiAA9zY67cqWaHt5qx9Zeg5HDAg8q8v7KUh8AB8fDeciVUYuy4cg2KqWPYrRA0FrHEsBbZ8IXzA_ZN5dQye2gHNYu3Yj1A1L5CjgBh0-IpoiK53EFl_uQw6omt9b6U4F8WQotOdLi8Ex-VEUwBLKguu-DF8rBKpj80FXHdLE38Q5j7WoZS3C6JIh15D6OlG0geI59hiSs9wQ1oZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/peterfriese/swift-book" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift Language Reference в виде книги&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Документацию по Swift красиво сверстали по всем типографским правилам и выложили в PDF, так что, если всегда хотели иметь ее как настольную книгу, возможность теперь есть&amp;#33;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;&lt;img src="https://cdn4.telesco.pe/file/LaIAI_0yzEbp1G11X_K5rW6P32g4Z-GEZQ_a0JHHJjh9sVFLtBYQANl8DgrkeHk9y2HCNRl9yspA6D-8tIUcQEsLol2n0s3mBLy0IWMxO83lXXGJjqEJwXw_GNg93uopNZrKGvrj8V3gMJRqoN1ex8EdS9MwS8gAQjpn2AFcbbzVzpb_nT9sYHwXNuNX3R1QdHtwVIUtggoe6r8zfhhOaNsr8rA_DijnYRhif6TDxfFdQYUaNXorWmMbERIR60UzahxGnYehRm5DoZehULbIjgwXunAOkxQ2yJYdXj3Sewapy3U4rQk0KuXCsuuPB6EpbgFqFTSNU6ry6R7wx26Knw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;
 GitHub - peterfriese/swift-book: The Swift Programming Language book as a PDF&amp;#33; - GitHub&lt;/a&gt;&lt;br&gt;The Swift Programming Language book as a PDF&amp;#33; Contribute to peterfriese/swift-book development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -250,46 +276,5 @@ iOS Good Reads – swift, разработка мобильных приложе
 Держите продолжение серии статей про то, как настроить Zed для полноценной iOS разработки. В этот раз про то, как настроить запуск тестов для приложений и Swift пакетов.&#13;
 &#13;
 Прошлая статья – тут.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Fucking Approachable Swift Concurrency&#13;
-&#13;
-Еще одна попытка объяснить...</title>
-    <published>2025-12-29T06:05:20+00:00</published>
-    <updated>2025-12-29T06:05:20+00:00</updated>
-    <id>https://t.me/iosgr/4568</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4568"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Fucking Approachable Swift Concurrency&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Еще одна попытка объяснить базовые ментальные модели за Swift Concurrency, в том числе, как работает изоляция, на простых примерах кода и пончтных метафорах.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;&lt;img src="https://cdn4.telesco.pe/file/i-XxTd7SLb8EirgFBF8o79pAM9eH41lCff72nbkYfqIBtjIFgjOEZ7ndjd-275UW78-RZZ4hsnVygdC1AVLs6wAd6T_joCcxWTN0C-Q6CDpPNzUkhxDM-SfNeyF_WQ-bKCubi_tdazdOzsg-5--fh1f7sgsIOJsC-q2gjx8eyT--gMbZ-85WgMgNhNYqCdE2cUVWxHE0N1NQ4jvCCR4UMnTj08HYL4SrkGzuq4JEfgWJ6Sp2sFEQ74icnlRMF8T5ylbnb9tXfjQ9mePV_ND58g6AxBAr7qIeEi9Udm0qpCPK_ifFoSv1132fL6YEPWplojcscQo6U2ufcOccKnbHqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fuckingapproachableswiftconcurrency.com/en/"&gt;
- - Fucking Approachable Swift Concurrency&lt;/a&gt;&lt;br&gt;A no-bullshit guide to Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models. No jargon, just clear explanations.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как устроен NSVisualEffectView&#13;
-&#13;
-Автор статьи хотел повторить...</title>
-    <published>2025-12-26T06:04:50+00:00</published>
-    <updated>2025-12-26T06:04:50+00:00</updated>
-    <id>https://t.me/iosgr/4567</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4567"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4567"&gt;&lt;img src="https://cdn4.telesco.pe/file/WlaunZx3WKJd_3SiRl6Gou0bOFIaQ7vYztlvd8ZmPTprvs4k3PIJ8ATZQzetnfho8Y0qd55avP_BF2v0TDoMze7ekMw1yN20iW7nx6f6IhQIkqbbkFbg3AfXmWCBbYvrQzR759S_thcXP4HUqxHz5YvMBEsEOqIXr1hi696AhD7XMleMN6mQK4m2RcGDghAiMP2UANLQs9xXJ49DKu7aRIDZBdLrtI4bTXedNZX8Vq0JK1Ar5dg3vZCogm2O0v9lyhKikhBM7S_rU7wQXLUJ5KlTXFJNT7GerRxTqHmTNoENO5DenfGBccwSdY26_UKEjMfK7_gBdbpuIGhvS7JZ8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://oskargroth.com/blog/reverse-engineering-nsvisualeffectview" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроен NSVisualEffectView&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Автор статьи хотел повторить внешний вид панелей в macOS Control Center в своем собственном приложении. Чтобы это сделать, ему пришлось реверс-инжинирить нативный NSVisualEffectView и создать его полную кастомизируемую копию, которую можно изучить на &lt;a href="https://github.com/OskarGroth/MaterialView" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;GitHub.&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Конец года, и снова заканчиваются все подписки...</title>
-    <published>2025-12-25T14:42:52+00:00</published>
-    <updated>2025-12-25T14:42:52+00:00</updated>
-    <id>https://t.me/iosgr/4566</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4566"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/mobilehubvk/62"&gt;&lt;span dir="auto"&gt;Mobile VK Hub&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/GThFDmylOrHycYUtng3zNTa1yB6_5o4RlhPrvT4n0VE5BZJOTx8TPm6_U8qD0IheYSRFK4hTdCEOi4F3M8r0zFa7Gh0J1UAsfCv51BSyUa9CS027MFVHiBqXPMbfKoJ4g-w9MiKlNneg61Ztnd38RrFZUBD5FFLLcWleEmMHoAHwcOU_ZVEMqx2w20ObWWgYw7grIox8RNZcwrOAg-JRv0IvEmr6_1AloqXKFhHdcIL7JyUP59oPceEiIWgheOU0crNZT7a9tAak221BancUpY9Kf9ObNoPN3alYv4lE-kUGxzSL5I8pqIA0b6O1-5KeiOXelcmPKgTeomiD5lQqug" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/e6ab715fc4.mp4?token=AcMbMW3TgbmeAxnYPE5hp0tbuiv08zDS4oWy1cktZU72pH0VIc9qfIh59OFcTIe8c-IdQhGtG2DcIKCUHWCqps9IUwE90_9lXzmgX-48MM36sXq3tsPcvJHKoW2CXAnw7hp48s0Il7yALb-M5Kj2vfByYJFfbCPdlyYZdohywax_DVNdgndEPLRG_uhRUyvs3cTTfg3uIFFQ9Y2FE5PJ8vXhdGPEs15k7W7jruR--_zNwjFKyzgtrEvb2fLg531JPu7N1MzrTGcpvj6tmk5qVxg2qIcJC1I3Pg3YLR3TP_53bGdwRObCC_DTc2JQ72C3QWc8tBCCLgA1N2O6wexigg-LwzT9OIDRaAtwqaqFQBpbG1AHz7dAGDzTbMVm-R-PGlnLPLJhJa_yXu-OOKdAqUxdUZ1aVeqKvjtc3YCFqtLThHK5PqB_IfFbKfoiuUnAlW2mHrxA4Ueo3pRIeCMqrQXJtWU7KWqs4-EmZRzkFLZCeDFuSiYv4egmsRrOiNed5OWDAXei2dOBcvz5_FI3KmqnEe8J6ikoaZgd9ymXmHN2l2HntD1kZZ0u5LacgD2-XO_gtEM123FbVsZBk-XR4E-sny9EbVD60TzwcqVkRdr2mvBGDi2fHyZSTwmCQIwKA761U4QWB3szXlfp6Rqls-ocxBIaT0qREHGiJWILZwc" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Конец года, и снова заканчиваются все подписки &lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"&gt;&lt;b&gt;😱&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Узнали? Согласны? Не беда — мы как раз разыгрываем промокоды на год от Облака Mail и VK Музыки&amp;#33;&lt;br/&gt;&lt;br/&gt;Условия участия простые:&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; подпишитесь на наш канал &lt;a href="https://t.me/mobilehubvk" target="_blank"&gt;@mobilehubvk&lt;/a&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt;нажмите кнопку «Участвовать»&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"&gt;&lt;b&gt;🔹&lt;/b&gt;&lt;/i&gt; дождитесь 30 декабря — в этом посте мы выберем случайным образом 6 победителей&lt;br/&gt;&lt;br/&gt;Информацию об организаторе, правилах и призах ищите по &lt;a href="https://bit.ly/4s9U3Si?erid=2VtzqxAsNAW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ссылке&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Удачи&amp;#33;&lt;/b&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/GThFDmylOrHycYUtng3zNTa1yB6_5o4RlhPrvT4n0VE5BZJOTx8TPm6_U8qD0IheYSRFK4hTdCEOi4F3M8r0zFa7Gh0J1UAsfCv51BSyUa9CS027MFVHiBqXPMbfKoJ4g-w9MiKlNneg61Ztnd38RrFZUBD5FFLLcWleEmMHoAHwcOU_ZVEMqx2w20ObWWgYw7grIox8RNZcwrOAg-JRv0IvEmr6_1AloqXKFhHdcIL7JyUP59oPceEiIWgheOU0crNZT7a9tAak221BancUpY9Kf9ObNoPN3alYv4lE-kUGxzSL5I8pqIA0b6O1-5KeiOXelcmPKgTeomiD5lQqug"/>
   </entry>
 </feed>
