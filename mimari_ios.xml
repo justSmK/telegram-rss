@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/vapIp9jc0H-7bu6TXPCgU-fxmMdf_SiFR6dPqwftLzDg-rGH04_0gTBrtVEoqsbsFSN6Sjk4nS-5Ne2Wl8-MdVji4LxKudpKjQsr2hxh98v_06rKNj31YXrqMrEiFY-3k8FFt9RxEZFgiCwTI0Yt5XNHo3JyYlzlZcRmNH-KbY1I0ru4luSQrQ7Pc0f3TROGyPkvNfyQX1M9Xt_OrNbiyPoIchLcRa-AsYiyp-gqeEDyotnzGH_9J_jlg_5uL9cbGE3txLKTwlIMkIo8xo4k9EtVFTW11E12tcc3-5VG3kFR5bihqVIZmv9r1z7eABvbCkdySyEiiRkamv855MVJnQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vapIp9jc0H-7bu6TXPCgU-fxmMdf_SiFR6dPqwftLzDg-rGH04_0gTBrtVEoqsbsFSN6Sjk4nS-5Ne2Wl8-MdVji4LxKudpKjQsr2hxh98v_06rKNj31YXrqMrEiFY-3k8FFt9RxEZFgiCwTI0Yt5XNHo3JyYlzlZcRmNH-KbY1I0ru4luSQrQ7Pc0f3TROGyPkvNfyQX1M9Xt_OrNbiyPoIchLcRa-AsYiyp-gqeEDyotnzGH_9J_jlg_5uL9cbGE3txLKTwlIMkIo8xo4k9EtVFTW11E12tcc3-5VG3kFR5bihqVIZmv9r1z7eABvbCkdySyEiiRkamv855MVJnQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@mimari_ios</id>
-  <updated>2026-01-21T06:41:37+00:00</updated>
+  <updated>2026-01-21T07:32:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -119,7 +119,7 @@ Modern concurrency in Swift | Task | async await | Как это работае�
     <author>
       <name>mimari ios</name>
     </author>
-    <content type="html">			Какой формат более удобный?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;44% - Серия больших видео(1-2 часа) с тайм кодами &lt;/li&gt;&lt;li&gt;56% - Серия коротких видео (до 30 минут) &lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Какой формат более удобный?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;43% - Серия больших видео(1-2 часа) с тайм кодами &lt;/li&gt;&lt;li&gt;57% - Серия коротких видео (до 30 минут) &lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Кстати…</title>
