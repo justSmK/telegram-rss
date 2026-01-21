@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/IkcDYHMZ67E07FVVgMWx1vCpHEACCszpoEenqzMSo5gRYmwkpjN7BHMxGgCuRV4aMWCLAo42FUgQouk0tT6l4lV3fm3CBgwldQyFVfRyruRcxfifT7e6fqX-1WWLSEgy0UrEwkqTHPPR3kDjw9XA__EblWZdPRNnyvpeTi2YoZP6RtTu5VRwSKO6ZaTCZInA5imaEM9-pyt-yhDx6uRyKkZ6rGtNkyaFlmsM88DXVGssvLRHL1oYtDvEteD89KRQWqlQ63Qxt4AIMp6G9c4_XFTa7QQpyXJm2TIuo7PrBKeSxHIG5c7Iy64vTTbxpgD5mOJQHObQJxZpZD22GZ2JMg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/IkcDYHMZ67E07FVVgMWx1vCpHEACCszpoEenqzMSo5gRYmwkpjN7BHMxGgCuRV4aMWCLAo42FUgQouk0tT6l4lV3fm3CBgwldQyFVfRyruRcxfifT7e6fqX-1WWLSEgy0UrEwkqTHPPR3kDjw9XA__EblWZdPRNnyvpeTi2YoZP6RtTu5VRwSKO6ZaTCZInA5imaEM9-pyt-yhDx6uRyKkZ6rGtNkyaFlmsM88DXVGssvLRHL1oYtDvEteD89KRQWqlQ63Qxt4AIMp6G9c4_XFTa7QQpyXJm2TIuo7PrBKeSxHIG5c7Iy64vTTbxpgD5mOJQHObQJxZpZD22GZ2JMg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-21T12:56:36+00:00</updated>
+  <updated>2026-01-21T13:50:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -91,7 +91,7 @@ Xcode Organizer: Your Performance Cheat Sheet - Jacobstechtavern&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Providing access to premium features with StoreKit 2 &lt;a href="https://t.co/5NdyEft6uZ" target="_blank" rel="noopener"&gt;https://t.co/5NdyEft6uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/K8EpgE1AMZKdoIhXdxVq5iFDXRX4KYTFP5YdIx9wZt3XdzSdmHJJQu_cXW2nhn2HbjtyLpXU9NQ86AyxSrCCzMcLjKf52_S7XJSB9ebD484ue0Y1ml16LI2bL8h7Yb73S02QHMp-ogNeC8ChpCjFyT0Gh0mvC0QEDNQPSfpO8J3aQB-w2M_2tt3uZ1bwTu4wCIkZYJoEBS6mUlZ6VWH3pBtLN4dHCwcXpx3OtARmgjLi306GQO9Br2cKvElJXOGgTAuktwURUZ8GpBzY9eXHYKjrRTnMUN67lhTK-J_xxTQDp6lTpNcH654mEsWadt5IeW7-cUPX-5Gb79rvw4H1KA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Providing access to premium features with StoreKit 2 &lt;a href="https://t.co/5NdyEft6uZ" target="_blank" rel="noopener"&gt;https://t.co/5NdyEft6uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/kABPT0pS8aroe-jv7VXtihDnE-g2AYd0Ydp_aXvumXTRVSou3rgVeh8deo7FwvSZXuyqZGa_cOqR3JbQjoFuXJnm8EqrlCyEH-5H0tb2r86m9U4wbXK4ixO86gkuMeWA7a8IcqUfl4KrwPB9Wt-8kjyMyV-vdMrB-ImaU2e0xt_fcnCpVvcp-6cdxVdjT4n2-r-yUUJH05fbJtXZo3g1deLnv3JLqJVsnoecX7FoidBpqEsWG1l8Iawvm3I3_4kZIpnOCbb3dXawXjn9OmiLMwme7qNdM3P2uDQ0msL-7Gtfx_AJr-YTmRLaMG7MkRGp93BviheM0cFnKP9HtXwpvQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;
 Providing access to premium features with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to build a tiered subscription system and gate premium features in a SwiftUI app using StoreKit 2.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
