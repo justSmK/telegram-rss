@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-22T22:27:03+00:00</updated>
+  <updated>2026-01-22T23:24:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : Improving the usability of C libraries in Swift https://t.co/iX63sVkdeU</title>
+    <published>2026-01-22T22:52:46+00:00</published>
+    <updated>2026-01-22T22:52:46+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25765</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25765"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Improving the usability of C libraries in Swift &lt;a href="https://t.co/iX63sVkdeU" target="_blank" rel="noopener"&gt;https://t.co/iX63sVkdeU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;&lt;img src="https://cdn4.telesco.pe/file/Kq81COlf4Iu5WrEepkqAm0hyfOc88gfH4N2UiLT_s9JJXiiL_VMnvk6PHyY_o36lMfQjQ3GSFHT4VUyPvD-CmRozklFsDNp-kkC_H5eBwSQHxsB3FHQShArp6u7q1Y83pa-mU7G1aWufiPdQf8GXr4mu6SjpP1NmQiBmgJ99q5dURVz1DxKJWYHo0ziOLoWukRTExIyt8zDzrCI6vviHQHgO6qS04M0-JtoeCzLXQhONrFJ8NYGC3JLpaCnjSVmgDwP5E7Zmmc75pVFwlJsVFrsC0fpgkiVeVgeberstpVjyqSFTgAkUOEufudNsKlJRrHl12FqsPDCXoF2C9vh9xA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;
+Improving the usability of C libraries in Swift - Swift.org&lt;/a&gt;&lt;br&gt;There are many interesting, useful, and fun C libraries in the software ecosystem. While one could go and rewrite these libraries in Swift, usually there is no need, because Swift provides direct interoperability with C. With a little setup, you can directly…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode...</title>
     <published>2026-01-22T21:17:23+00:00</published>
@@ -188,7 +200,7 @@ Providing access to premium features with StoreKit 2 - Create with Swift&lt;/a&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use String Catalogs for pluralization in Swift &lt;a href="https://t.co/qz0KyUrGTJ" target="_blank" rel="noopener"&gt;https://t.co/qz0KyUrGTJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qz0KyUrGTJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/FS9USZD703EXwjlJba87UfeZYAyUmUvc9aD8aoYvRwa6--pJMM-wBQqd5kGY39iJ_eEOwySuKM5lKEgz32N43sL_e9F7UcNOfFCuCI8XqteH4CPGuBn4_oKLtXJmuoEbKv55xoTRAH8xuuSfrSAyWZ_K1l6a0I4rnoNNghUN3RI7BMYSvAkq3aHKbykF78k_k6G-DCLoBZZUXlEqPUQjACTZMJFu4k8w4zn6uR1p4biLU7b2XRhagj9p3eWMreSsG57TT8P8tlBDPw2rzDQ9Dn28YC3H8-0TBtdI0A4lyzpHs9Zy8kVeJZyLzYeng0JzG8Y9BlatD0lL9QfZYbP9bQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qz0KyUrGTJ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use String Catalogs for pluralization in Swift &lt;a href="https://t.co/qz0KyUrGTJ" target="_blank" rel="noopener"&gt;https://t.co/qz0KyUrGTJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qz0KyUrGTJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/oFZX2zK8vV3x5K7cPJy5SEGriflgZ_Uj961pPhyfnP-5Y5xwsP851vaO5WANFfFxVUDacq45zqSjHzCdoFKMkwz3HdfvNryKyh3xpnTWY024GVlWZD7aMyAoJePqIClY4S6xB80z5Zk6ADettQWmO1WV1TEy0YUnCr33DybTR7R1akiZUKMxwe3zI71oDNFpDUSsE2KJnxcp_lPKDxLgHI-jujhuk_U8Fyolj4artqD5bvDNuf5xngTQFeUFRNhlatBY1Z7SZBS2y0ke1zERHe5-E1sCmMWpsVfzTqToMqimoJh_1CoHDmARFyNnSFvCIn6M0QfC8EjM_GbZbpjsew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qz0KyUrGTJ"&gt;
 How to use String Catalogs for pluralization in Swift - Tanaschita&lt;/a&gt;&lt;br&gt;String Catalogs provide a type-safe way to handle plural forms across languages. In this article, we look at how to define pluralized strings in String Catalogs and how to use them from Swift without manual formatting or conditional logic.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -239,17 +251,5 @@ GitHub - mozilla-mobile/firefox-ios: Firefox for iOS - GitHub&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/YZe0nKYUp9Q3xPCI5yMJFNW5990mZURJ1kDE_ua4gDNc74_hShvLs64CP0fF-I9eZxa-6zJ2zsOO4R3iXBPQiR_v3Tj97yn1LbCtrSGB3JNUgHxGN4GF9NdcWOoXWXTSPnQFoyVfEg4fC9FUWfKfmUvv6c4_QOgIkeSWsc1k8RQEHBN4Ip_4lPbLG7bqNiKgiMwX_h3g49NJauxnqfUIa52CudPqP9It895l4nGoNn4fRMCkUKxjz-u4pPasdivSlODaLPL2r4O1AAQu8TJcegUu_T8tySbzSnkLNkzs4HYAtCLN6c3jT-4aCCxnu4hwxx-DsexIBJ_1s10gFahBOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
 GitHub - MonitorControl/MonitorControl: 🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display.… - GitHub&lt;/a&gt;&lt;br&gt;🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. - MonitorCont...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : supabase/supabase-swift https://t.co/BXzgkf6e1Z</title>
-    <published>2026-01-19T02:12:17+00:00</published>
-    <updated>2026-01-19T02:12:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25744</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25744"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : supabase/supabase-swift &lt;a href="https://t.co/BXzgkf6e1Z" target="_blank" rel="noopener"&gt;https://t.co/BXzgkf6e1Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BXzgkf6e1Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/AcJ4iuAzWzc4mxwKujQK5UfbcrSsaOTqIMhR57WhLHjaJ7OMEiw9Q55A8ACp5m_D1apvkg1F1nwjWrY-KRnV9XmfppcQp10Jk7VoP5eHGRO08RkN35zek2R7pHvQ4xy4mtpdGsKhQ3GB5sjTswoWfLc7eIuLqF-NZulG_B3EZ4_ykDFqbCXFcUShc7SBFwroARaFxUpvu1P4tRSzM_rIA5S7ILxJD4g4_mFuDjfjTiAAtg6StoCmhpEepvmE-MKO7uxA0S3DqEExKhRPSnCGB0pFOQMuUJyEiwLZmqKcS94hm0McCt1B_iA4dJn48YOncCBLrL8kV8IcmgW-xPAgBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BXzgkf6e1Z"&gt;
-GitHub - supabase/supabase-swift: A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload… - GitHub&lt;/a&gt;&lt;br&gt;A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge funct...&lt;/blockquote&gt;</content>
   </entry>
 </feed>
