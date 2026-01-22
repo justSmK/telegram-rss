@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-22T20:32:12+00:00</updated>
+  <updated>2026-01-22T21:27:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode...</title>
+    <published>2026-01-22T21:17:23+00:00</published>
+    <updated>2026-01-22T21:17:23+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25764</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25764"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode &lt;a href="https://t.co/3PbJPF7egs" target="_blank" rel="noopener"&gt;https://t.co/3PbJPF7egs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;&lt;img src="https://cdn4.telesco.pe/file/HaUPoJDW8i7JJvJydLdW6p9kKnvMDKgIgeYqKpqJrfLQv3R9YV0hubDY8kLC5Vq8fHRYtD2429bEr4cd40bYKERgoDSyVn6kaEiybqo7Gu2oqjZZ6TBjJHs3r_Nz8zXTtLOt5xdQElgo5gUQy6v5D0LoMSBoAZ9wA7_ux7BVslofbLU66Ox0-TST1Rr6fOGPqeEA5VoTTLpFMmlpwGeg6uev3hFjzpmsp-1c2RqR9NvSxtFL3JRf-vtsQFgj_SdDxOnJIiQ5FV-BAKMoatUvD_VJOMzxXH5RtHz_pc27eG8S3fGWLGYmg6phfdR8E1lLZhtmG4S6aHMYdQAk2BRx2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;
+SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’m going to teach how to prevent users from taking screenshots of a SwiftUI View | SwiftUI Screenshot Prevention | SwiftUI Avoid Screenshots | SwiftUI Custom View for Taking Screenshots | SwiftUI 2026 | iOS 26 | SwiftUI Xcode…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Managing simultaneous, in sequence and exclusive gestures https://t.co/G8HutTFyeW</title>
     <published>2026-01-22T14:02:56+00:00</published>
@@ -238,19 +251,5 @@ GitHub - MonitorControl/MonitorControl: 🖥 Control your display&amp;#39;s brig
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : supabase/supabase-swift &lt;a href="https://t.co/BXzgkf6e1Z" target="_blank" rel="noopener"&gt;https://t.co/BXzgkf6e1Z&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BXzgkf6e1Z"&gt;&lt;img src="https://cdn4.telesco.pe/file/AcJ4iuAzWzc4mxwKujQK5UfbcrSsaOTqIMhR57WhLHjaJ7OMEiw9Q55A8ACp5m_D1apvkg1F1nwjWrY-KRnV9XmfppcQp10Jk7VoP5eHGRO08RkN35zek2R7pHvQ4xy4mtpdGsKhQ3GB5sjTswoWfLc7eIuLqF-NZulG_B3EZ4_ykDFqbCXFcUShc7SBFwroARaFxUpvu1P4tRSzM_rIA5S7ILxJD4g4_mFuDjfjTiAAtg6StoCmhpEepvmE-MKO7uxA0S3DqEExKhRPSnCGB0pFOQMuUJyEiwLZmqKcS94hm0McCt1B_iA4dJn48YOncCBLrL8kV8IcmgW-xPAgBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BXzgkf6e1Z"&gt;
 GitHub - supabase/supabase-swift: A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload… - GitHub&lt;/a&gt;&lt;br&gt;A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge funct...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) https://t.co/1695QLMiNr</title>
-    <published>2026-01-18T17:12:05+00:00</published>
-    <updated>2026-01-18T17:12:05+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25743</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25743"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) &lt;a href="https://t.co/1695QLMiNr" target="_blank" rel="noopener"&gt;https://t.co/1695QLMiNr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q-X9RC_qLjSMG6Fva-fUfBJkm8Bx1cpWIgntQpc0YAXlnFxzRZsb720FUgpngqhixzzG7K7Qwc-iCoWGP0xhw8iEarduCDD5lZgaI6-gAoM_5ZfYQHmH8m30mCeRYzBoUJbohmPNYjn6JFir6HXYy3gqOpMmhvxzUt7lgUAlitTyvrLa-OB-3iX2P-UloLAyNjqHPRSm80ZE_VfcY2fVl3nGLODhREpkKqDezB5wEhPnpMQq04j0iZ6zkotmBAnEOrxKokKRFA__DphL_DgjeDL19bYf24-fiiRrmURXm2wLKNzGohtW3WmCb-yaPsVzs8l5DwAkqbskUZbz46wBhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1695QLMiNr"&gt;
-Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) - YouTube&lt;/a&gt;&lt;br&gt;Have you ever noticed that an iOS timer stops firing when you start scrolling a list? 🤔&#13;
-&#13;
-In this video, we break down why this happens by explaining how the RunLoop works in iOS. You’ll learn how timers are scheduled, how scrolling changes the RunLoop mode…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
