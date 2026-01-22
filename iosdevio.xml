@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/hZLz_shdAV0cP6yb_v-Edcx-lXjcDMH4mbGwvVFe1dy2GQgAlbtuxhqQKXQx1DKVBaD4E_L_tb1ssC2bWFwDzLfvlY9C0gZssYvZ7AxcWB8kLH-z35yvG_acLNkq58nP4fNb8114A08_JKQCqN53YHJF2rKSqkRfa2jyop9UbFixX5nF4SDaIWl4vmRiLV4SmL2wFU259RsOnyAz2S_n027h-Cy2McWIVXZE9my7Kb2TMfTv__5OHEeSSibF38aL0pSV4IQ_EvYPIAYeHAGOFbDyGCUK-oryW_meGyze-KRv1jdgJjJrptxlmQGaObajPGCCTYvQUJ6xsUZIfLfpoQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hZLz_shdAV0cP6yb_v-Edcx-lXjcDMH4mbGwvVFe1dy2GQgAlbtuxhqQKXQx1DKVBaD4E_L_tb1ssC2bWFwDzLfvlY9C0gZssYvZ7AxcWB8kLH-z35yvG_acLNkq58nP4fNb8114A08_JKQCqN53YHJF2rKSqkRfa2jyop9UbFixX5nF4SDaIWl4vmRiLV4SmL2wFU259RsOnyAz2S_n027h-Cy2McWIVXZE9my7Kb2TMfTv__5OHEeSSibF38aL0pSV4IQ_EvYPIAYeHAGOFbDyGCUK-oryW_meGyze-KRv1jdgJjJrptxlmQGaObajPGCCTYvQUJ6xsUZIfLfpoQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-22T15:34:53+00:00</updated>
+  <updated>2026-01-22T16:39:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -202,7 +202,7 @@ Testing Private Members in Swift with @_private(sourceFile:) | 知阅百微 见�
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless" target="_blank" rel="noopener"&gt;https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless"&gt;&lt;img src="https://cdn4.telesco.pe/file/h3g0Cfa7Ek51k1Gxs5vB15Ul6kHi30EwZPFHRrfPjTzQ89edb9AMgr3QLG2RCU5_1H6TJtjGgyrrVO8nMHCmrWwEzpYBZ4yLpXI4rU0bK0F5IyluZRuuG_aBg3YlZh1oj85piEIYwW5M4FoRlFies8krJpgBu-jIYk2d5KTYzVGftENh7TQv9d3C6rpj4e8RE2Sv6YH71tezZNcsvPWR1cGn0QLBptB3e3PAHPS8Da3jkiK55sFJZL3NrtBtYvmtDJoHeod_MIi72967AbDsLjPEVi4fLKBpo3EMiCPpPoFeBynxc3k3nSrNmkJzW0AFsgi2kYRYZLPg_tpT_rDriQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless" target="_blank" rel="noopener"&gt;https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless"&gt;&lt;img src="https://cdn4.telesco.pe/file/DkVCYrNnttVC9TL0OLe-x3e14an4ax7kIvfQlrRcEKzYNYwG5ustHlnA5ea1-iOwpJPDdNhrhtyCxejf02cNjp7XtkRtmA1WO7BD8Iq-13GwsvX_qWcYbk3PWtBUwjPvh4MDg-kvOlhA_hAxL_GidMrDrk3s2_wUwgDsjnKndml00LZHST7LTT90UmzGTxtysQ3sf56hztGjKXKbXyHZP08HFUzzdoMHyrntE93gJ5Y39SiBxxISNLBhxdJExirnSANzgj8QGgWsoj3XPSZVo1I4IpfHfoqHpRNS3bV8YJFZHXtB7ddPEnn-cCNw2DoG3In1UzucUO6YDCaHDqC7pw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swiftwithvincent.com/blog/why-a-custom-viewmodifier-is-often-useless"&gt;
 Why a custom ViewModifier is often useless — Swift with Vincent - Swift with Vincent&lt;/a&gt;&lt;br&gt;You’re more of a video kind of person? I’ve got you covered&amp;#33; Here’s a video with the same content than this article 🍿&lt;/blockquote&gt;</content>
   </entry>
   <entry>

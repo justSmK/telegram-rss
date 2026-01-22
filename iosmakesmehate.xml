@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/iFzdxyzV0-JUCuvIORYKlAmj409XBMDw8j1tyU6xN3o40OinABpjF-BpRzJXk_BTkHYETLVEMhennukS_UGAK9RXHY-ysuiLRHYGRIBvn7Fpt2gpqy3koLN79pFRvOqwwom9_rzKX0HcRbjI7KEozRWfi_WO0B7pW6EzXihzTT5PiodO_g6bPYR-K-U3PeVTY2_0-tMODTiKSjl4tS1ew7IQ2eUuiz4KNn0bYpOIjgkWY5Ss6CwpwaAs04YuzU5ZNJmPBoWgHjrxmF7CvZq5xZxmefUOFO6vjSeAYiBrmjD3RSlFh-BvhdfoK41UVJuDowblqMRXahkEzQE6RfWlOA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/iFzdxyzV0-JUCuvIORYKlAmj409XBMDw8j1tyU6xN3o40OinABpjF-BpRzJXk_BTkHYETLVEMhennukS_UGAK9RXHY-ysuiLRHYGRIBvn7Fpt2gpqy3koLN79pFRvOqwwom9_rzKX0HcRbjI7KEozRWfi_WO0B7pW6EzXihzTT5PiodO_g6bPYR-K-U3PeVTY2_0-tMODTiKSjl4tS1ew7IQ2eUuiz4KNn0bYpOIjgkWY5Ss6CwpwaAs04YuzU5ZNJmPBoWgHjrxmF7CvZq5xZxmefUOFO6vjSeAYiBrmjD3RSlFh-BvhdfoK41UVJuDowblqMRXahkEzQE6RfWlOA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-22T15:34:58+00:00</updated>
+  <updated>2026-01-22T16:39:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -127,7 +127,7 @@ TMS-90725: SDK version issue - This app was...</title>
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3692"&gt;&lt;img src="https://cdn4.telesco.pe/file/la20rMwiZJ0yP9oWUOii0Ag8aAUWidyTiVBxb-Gaq8zbzmoClSdIIQpjaBvi4HPo2rQqPX8OiTTCG-u0P2Yq1bRovtroKp2Iqfba9h_vN3AUq3xaPTe8rdotlkIhCMQFnfUFHd4qixptIUBxRi0gvB6rJfS5ytVjR4UmVjE6OccjDJKcncZ0kfczFgnLqGlCXup20MR5kBPq5pLgLrQLGHwq7OJW7sq0Xh-0yW6KcIti_hhabx42i4H6w3dJ6TVQ82gkS1bQytknauM7SYsrqjGujC34jhwYfiEKOf5SRj2rhtXgKEXlewGpjzsCkYUZ41Y1v3caYcZSzQKHkBHMIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Тренд «я из 2016»&lt;br/&gt;&lt;br/&gt;Тогда я был фуллстэк разрабом. Позвали сфоткаться в этажах для сайта. Не помню зачем.&lt;br/&gt;&lt;br/&gt;Мак считалось круто. Он кажется тупо выставочный был. Впервые за нем посидел. Еще не знал что свяжу свою жизнь с иос разработкой&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3692"&gt;&lt;img src="https://cdn4.telesco.pe/file/W5TUebtwVc4A6FoJC1h1AahqA4CcByxGYvhAmt4D1onNNpqHaUNZdSHrsMcQXwAAgz_A-mjdBrdjUJgUAyuFIi1WNF_O674ETf2QbXq-ojyJ1npMQfjDzjOSXYSOV7jqD5m_xEcMObpEu6CN3dFKp6ZDOtnDrthUhtNELNGvcabKSZj-KDqQNClirnE4_GzvfXCcAfWeyU453s6XAXJ3UKFYYlXJe6XZGLsbDS7XLZla7YtOH8kMXh-cHe7FXukoonsdUBTb_CuQBJros7QQKU39n2GS1NNbYT36HqOtOFJq7inxdFEtmzm7UPxFlLDFGh9H3as7-shs6WyhQOXc2w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Тренд «я из 2016»&lt;br/&gt;&lt;br/&gt;Тогда я был фуллстэк разрабом. Позвали сфоткаться в этажах для сайта. Не помню зачем.&lt;br/&gt;&lt;br/&gt;Мак считалось круто. Он кажется тупо выставочный был. Впервые за нем посидел. Еще не знал что свяжу свою жизнь с иос разработкой&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Mobile System Design: Авторизация и управление сессиями. Как...</title>
