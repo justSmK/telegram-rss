@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uNDHnhDehMddZzI-h1E1s_AlHcDeVgEFCrocTrz_FCSLjUe5gatTlY2DWOiS9Mr8AEr-ME7ILNKkU9Fln7_HTi6OHKzeysMPGtWw8WtR1ViY2QU-X4VzMmGz3JQ5F81j6VT_pw1r78Aifmha6rHLt_0tcpay9XE8PDIUhh7Tsk-t1NL3j7DNbkicqxVH33adsJtbV9c_s-6Z-e8j9C-qu-_BPeYDaPKUySxNrQGIwzNF0DxqGSpTpysGGshOeJoB6ZfHlc3BObnZt4sw-yLhPRRFAI8W95FuPYe-udHShy_Sk0hXP4bIOLCpM53pMNZLviawdZBQwETxQWfxhtEytw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-22T13:51:42+00:00</updated>
+  <updated>2026-01-22T14:58:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Managing simultaneous, in sequence and exclusive gestures https://t.co/G8HutTFyeW</title>
+    <published>2026-01-22T14:02:56+00:00</published>
+    <updated>2026-01-22T14:02:56+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25763</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25763"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing simultaneous, in sequence and exclusive gestures &lt;a href="https://t.co/G8HutTFyeW" target="_blank" rel="noopener"&gt;https://t.co/G8HutTFyeW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;&lt;img src="https://cdn4.telesco.pe/file/tKc3ebjwZVhYpQi4HSSVLWeige9UwUC00YMZjEJFeMLapPrrKZLZQEFOOLIdhHOG1jBO7Qpo9QIRJqv5osmCrU7IfGp4wyfJdM5m1Q2nexya8MXY0wZMVJQKVNIUSSnWDv5me86ppaWG_f0PDJru1ee2PtQk4ngk2i9oc8GQhexSqm9Hnrvn1h02n11_8Ezxdok2d0W35visFK22KIoarxzkGRXKH_IRKdpUsY319BmNrTk3RqHossVMZ1--65qYWcG01mXt9nTpjaXDs6AaIDJ9CMuYYRwYkAbMsjUAoY7zA8QdMkV423yTJPoh2gGaZreoD5aSKOiRfx_upSG0XQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;
+Managing simultaneous, in sequence and exclusive gestures - Create with Swift&lt;/a&gt;&lt;br&gt;Understand how to compose multiple gestures together to create complex interactions in a SwiftUI app.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : apple/container https://t.co/sAlZSMt7BL</title>
     <published>2026-01-22T02:12:48+00:00</published>
@@ -240,16 +252,5 @@ GitHub - supabase/supabase-swift: A Swift SDK for Supabase. Query your Supabase 
 Why Do iOS Timers Stop When You Scroll? (RunLoop Explained) - YouTube&lt;/a&gt;&lt;br&gt;Have you ever noticed that an iOS timer stops firing when you start scrolling a list? 🤔&#13;
 &#13;
 In this video, we break down why this happens by explaining how the RunLoop works in iOS. You’ll learn how timers are scheduled, how scrolling changes the RunLoop mode…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Swiftjective-C : The Shift https://t.co/1L7QNX3oMW</title>
-    <published>2026-01-18T14:47:51+00:00</published>
-    <updated>2026-01-18T14:47:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25742</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25742"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swiftjective-C : The Shift &lt;a href="https://t.co/1L7QNX3oMW" target="_blank" rel="noopener"&gt;https://t.co/1L7QNX3oMW&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
