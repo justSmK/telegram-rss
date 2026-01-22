@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/fa_lEoccxij-G9v7IeiN9Ue4st7ONiuVU9-oPiIiQZwPCPtcqhwL5t652wmqajzjNaVD-64D0cDoo2okiKntwn5KzQCZfp6DZUuwXAO5sOC6gcFUtoSRIQI8nCZwpTZSeX07UlBn4FX742PyTRbzr3ho_xqc_EbhzdzZQ2ImyD8WeJaDpxWhcMNQYIYqx05AK9iagbhB29nL_p_PC-BBiEalZYvqNeKdv9mmeMZe82_07sb6hYfuat3AWHGe5r_K5yJMgEdc6IMOlnN3TfOLxDfHKqvo91aEpe2vZETIc2y3k4dZTY-rsjKoQ2x2Le12-nwdzIFnhBzPsQ_Va91I6Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/fa_lEoccxij-G9v7IeiN9Ue4st7ONiuVU9-oPiIiQZwPCPtcqhwL5t652wmqajzjNaVD-64D0cDoo2okiKntwn5KzQCZfp6DZUuwXAO5sOC6gcFUtoSRIQI8nCZwpTZSeX07UlBn4FX742PyTRbzr3ho_xqc_EbhzdzZQ2ImyD8WeJaDpxWhcMNQYIYqx05AK9iagbhB29nL_p_PC-BBiEalZYvqNeKdv9mmeMZe82_07sb6hYfuat3AWHGe5r_K5yJMgEdc6IMOlnN3TfOLxDfHKqvo91aEpe2vZETIc2y3k4dZTY-rsjKoQ2x2Le12-nwdzIFnhBzPsQ_Va91I6Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-22T05:31:46+00:00</updated>
+  <updated>2026-01-22T06:39:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">https://3dnews.ru/1135651/apple-pomenyala-plani-i-sdelaet-siri-polnotsennim-chatbotom-kak-chatgpt/amp...</title>
+    <published>2026-01-22T06:27:19+00:00</published>
+    <updated>2026-01-22T06:27:19+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/319</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/319"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://3dnews.ru/1135651/apple-pomenyala-plani-i-sdelaet-siri-polnotsennim-chatbotom-kak-chatgpt/amp" target="_blank" rel="noopener"&gt;https://3dnews.ru/1135651/apple-pomenyala-plani-i-sdelaet-siri-polnotsennim-chatbotom-kak-chatgpt/amp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://3dnews.ru/1135651/apple-pomenyala-plani-i-sdelaet-siri-polnotsennim-chatbotom-kak-chatgpt/amp"&gt;&lt;img src="https://cdn4.telesco.pe/file/XowvTRKMdrYKTBUbG66XikhQmnzTLU8e0u08trW-PAWrytrJyR8Nihm3_AbjHAC7kif6sabWFV8ACp_YmotJ-6LRIW8UjCpdJaTaF3LQHG_NdosDzggqoSh-jVFnunObxMrgwISRT_EDiFfwCVUWTOQLFcHMR56HTK01LmkZ36JL0oozyPAHi2cHFYks6zaHyI4rkR5wW0FEHvqywMms75g60P0uxUMyTCIiIum0nGJxqsXV57ZeWvn6RpW8BVisGerKuqj48irpzIyuHMYwWsmup6o21I5mzARVLN9OYXxjm7MH0ARjmHv1i2FKPmxDMbBdN4snSKTLWY0sVqh6xQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://3dnews.ru/1135651/apple-pomenyala-plani-i-sdelaet-siri-polnotsennim-chatbotom-kak-chatgpt/amp"&gt;
+Apple поменяла планы и сделает Siri полноценным чат-ботом — как ChatGPT - 3DNews - Daily Digital Digest&lt;/a&gt;&lt;br&gt;Apple превратит голосового помощника Siri в чат-бота, похожего на ChatGPT, и представит обновлённую версию в составе iOS 27 на конференции разработчиков WWDC в июне 2026 года. Об этом сообщил TechCrunch со ссылкой на журналиста Марка Гурмана (Mark Gurman)…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">-</title>
     <published>2026-01-18T07:58:47+00:00</published>
@@ -19,7 +31,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;33% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;12% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;8% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;47% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;11% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;8% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;46% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
@@ -242,18 +254,5 @@ Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockqu
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
     <content type="html">			Сколько проблем в коде выше?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;12% - 0&lt;/li&gt;&lt;li&gt;7% - 1&lt;/li&gt;&lt;li&gt;19% - 2&lt;/li&gt;&lt;li&gt;21% - 3&lt;/li&gt;&lt;li&gt;21% - 4&lt;/li&gt;&lt;li&gt;21% - 5&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#swiftui #собеседование #middle&#13;
-&#13;
-Code Review: экран с проблемами...</title>
-    <published>2025-10-30T08:20:39+00:00</published>
-    <updated>2025-10-30T08:20:39+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/295</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/295"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23swiftui"&gt;#swiftui&lt;/a&gt; &lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;a href="?q=%23middle"&gt;#middle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Code Review: экран с проблемами производительности&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;Ты открываешь Pull-Request и видишь такой код на review. Здесь может-быть:&lt;br/&gt;&lt;b&gt;1. Всё отлично&lt;br/&gt;2. Что-то ОК, что-то не ОК&lt;br/&gt;3. Множество чего не ОК&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;import Foundation&lt;br/&gt;import UIKit&lt;br/&gt;import SwiftUI&lt;br/&gt;&lt;br/&gt;enum Achievement: Identifiable {&lt;br/&gt;    case notable&lt;br/&gt;    case cool&lt;br/&gt;    case minor&lt;br/&gt;    &lt;br/&gt;    var id: UUID { UUID() }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct User {&lt;br/&gt;    var avatar: UIImage?&lt;br/&gt;    var name: String&lt;br/&gt;    var bio: String&lt;br/&gt;    var achievements: [Achievement] = []&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UsernameView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        HStack {&lt;br/&gt;            if let avatar = user.avatar {&lt;br/&gt;                Image(uiImage: avatar)&lt;br/&gt;            }&lt;br/&gt;            &lt;br/&gt;            Text(user.name)&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct ProfileView: View {&lt;br/&gt;    let user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // NB: реализация упрощена для упрощения восприятия&lt;br/&gt;        Text(user.bio)&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct AchievementView: View {&lt;br/&gt;    var achievement: Achievement&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        // ...&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;struct UserView: View {&lt;br/&gt;    @State var user: User&lt;br/&gt;    &lt;br/&gt;    var body: some View {&lt;br/&gt;        ScrollView {&lt;br/&gt;            VStack {&lt;br/&gt;                UsernameView(user: user)&lt;br/&gt;                ProfileView(user: user)&lt;br/&gt;                &lt;br/&gt;                ForEach(user.achievements) { achieve in&lt;br/&gt;                    if achieve &amp;#33;= .minor {&lt;br/&gt;                        AchievementView(achievement: achieve)&lt;br/&gt;                    }&lt;br/&gt;                }&lt;br/&gt;                &lt;br/&gt;                TextField(&amp;quot;Username&amp;quot;, text: &amp;#036;user.name)&lt;br/&gt;                TextField(&amp;quot;Bio&amp;quot;, text: &amp;#036;user.bio)&lt;br/&gt;            }&lt;br/&gt;        }&lt;br/&gt;    }&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;&lt;br/&gt;Пока-что можешь оценить, но но не запускай его в playground или проекте - это &lt;b&gt;проверка себя&lt;/b&gt;, впервую очередь.&lt;/div&gt;</content>
   </entry>
 </feed>
