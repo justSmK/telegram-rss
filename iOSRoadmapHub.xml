@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/fa_lEoccxij-G9v7IeiN9Ue4st7ONiuVU9-oPiIiQZwPCPtcqhwL5t652wmqajzjNaVD-64D0cDoo2okiKntwn5KzQCZfp6DZUuwXAO5sOC6gcFUtoSRIQI8nCZwpTZSeX07UlBn4FX742PyTRbzr3ho_xqc_EbhzdzZQ2ImyD8WeJaDpxWhcMNQYIYqx05AK9iagbhB29nL_p_PC-BBiEalZYvqNeKdv9mmeMZe82_07sb6hYfuat3AWHGe5r_K5yJMgEdc6IMOlnN3TfOLxDfHKqvo91aEpe2vZETIc2y3k4dZTY-rsjKoQ2x2Le12-nwdzIFnhBzPsQ_Va91I6Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/fa_lEoccxij-G9v7IeiN9Ue4st7ONiuVU9-oPiIiQZwPCPtcqhwL5t652wmqajzjNaVD-64D0cDoo2okiKntwn5KzQCZfp6DZUuwXAO5sOC6gcFUtoSRIQI8nCZwpTZSeX07UlBn4FX742PyTRbzr3ho_xqc_EbhzdzZQ2ImyD8WeJaDpxWhcMNQYIYqx05AK9iagbhB29nL_p_PC-BBiEalZYvqNeKdv9mmeMZe82_07sb6hYfuat3AWHGe5r_K5yJMgEdc6IMOlnN3TfOLxDfHKqvo91aEpe2vZETIc2y3k4dZTY-rsjKoQ2x2Le12-nwdzIFnhBzPsQ_Va91I6Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-22T06:39:57+00:00</updated>
+  <updated>2026-01-22T07:30:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -31,7 +31,7 @@ Apple поменяла планы и сделает Siri полноценным 
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;11% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;8% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;46% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;11% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;9% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;45% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
