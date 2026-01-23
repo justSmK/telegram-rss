@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-23T22:21:01+00:00</updated>
+  <updated>2026-01-23T23:24:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -114,7 +114,7 @@ GitHub - youtube/youtube-ios-player-helper: Lightweight helper library that allo
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Improving the usability of C libraries in Swift &lt;a href="https://t.co/iX63sVkdeU" target="_blank" rel="noopener"&gt;https://t.co/iX63sVkdeU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;&lt;img src="https://cdn4.telesco.pe/file/Kq81COlf4Iu5WrEepkqAm0hyfOc88gfH4N2UiLT_s9JJXiiL_VMnvk6PHyY_o36lMfQjQ3GSFHT4VUyPvD-CmRozklFsDNp-kkC_H5eBwSQHxsB3FHQShArp6u7q1Y83pa-mU7G1aWufiPdQf8GXr4mu6SjpP1NmQiBmgJ99q5dURVz1DxKJWYHo0ziOLoWukRTExIyt8zDzrCI6vviHQHgO6qS04M0-JtoeCzLXQhONrFJ8NYGC3JLpaCnjSVmgDwP5E7Zmmc75pVFwlJsVFrsC0fpgkiVeVgeberstpVjyqSFTgAkUOEufudNsKlJRrHl12FqsPDCXoF2C9vh9xA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Improving the usability of C libraries in Swift &lt;a href="https://t.co/iX63sVkdeU" target="_blank" rel="noopener"&gt;https://t.co/iX63sVkdeU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;&lt;img src="https://cdn4.telesco.pe/file/CR2bL2fp6DZDUTOPvNB_OdjJ-WaU05DB7ZSrVWdQMRjh9OwaKbcBp4FI44dnxsKVDGNEXwD_RJtzZwxoxpiZeoJs571bfVNzS7iMEbXvqiIvcwFrPbdJICuKZoF-dERA2gjpw2ulbhWpThuonXXAIiNU_46okE0zTAENdGDht8BRvgiHurP-OPSnGb4qXHWIoF7GHVb7LgW_5UNcCqmOiatI-IV0jqWtXuudaqNr4A7nm8Hjag3QoB9XvL350vM_lAAsNTVZXl-7eRGxw6944FdDWO6_K5tmqKRC71apt7wc3qs6tijG5ix531emsHWPqO1C7wdR-0R7-vv2SANpYg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iX63sVkdeU"&gt;
 Improving the usability of C libraries in Swift - Swift.org&lt;/a&gt;&lt;br&gt;There are many interesting, useful, and fun C libraries in the software ecosystem. While one could go and rewrite these libraries in Swift, usually there is no need, because Swift provides direct interoperability with C. With a little setup, you can directly…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
