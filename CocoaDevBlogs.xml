@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-23T20:29:51+00:00</updated>
+  <updated>2026-01-23T21:25:13+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -126,7 +126,7 @@ Improving the usability of C libraries in Swift - Swift.org&lt;/a&gt;&lt;br&gt;T
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode &lt;a href="https://t.co/3PbJPF7egs" target="_blank" rel="noopener"&gt;https://t.co/3PbJPF7egs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;&lt;img src="https://cdn4.telesco.pe/file/HaUPoJDW8i7JJvJydLdW6p9kKnvMDKgIgeYqKpqJrfLQv3R9YV0hubDY8kLC5Vq8fHRYtD2429bEr4cd40bYKERgoDSyVn6kaEiybqo7Gu2oqjZZ6TBjJHs3r_Nz8zXTtLOt5xdQElgo5gUQy6v5D0LoMSBoAZ9wA7_ux7BVslofbLU66Ox0-TST1Rr6fOGPqeEA5VoTTLpFMmlpwGeg6uev3hFjzpmsp-1c2RqR9NvSxtFL3JRf-vtsQFgj_SdDxOnJIiQ5FV-BAKMoatUvD_VJOMzxXH5RtHz_pc27eG8S3fGWLGYmg6phfdR8E1lLZhtmG4S6aHMYdQAk2BRx2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode &lt;a href="https://t.co/3PbJPF7egs" target="_blank" rel="noopener"&gt;https://t.co/3PbJPF7egs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;&lt;img src="https://cdn4.telesco.pe/file/owtOuDTGJ7jJ3xqQT5d3eUt3bPOnkjNt4zoqc83NTBSQrObr5lll8MEvbULuwcx356AKr0YdjRgRX9k0LqTVulPuLWGAXOOlKSRArtPUPsSViA1CEwd5QApmM4Dttjsc-fDn-kKN9R9i1_Ji6jRsbcsh-E2f8yaUfMUj_uW7HXNV8RADtDIiBbvDLKeDfCRK0NXoMhhRwooQ0lABcOCj4Ayz4vqNlT4_FqMHIpwcqN5ObPeeZrIlkB5jaNGdWrOigOEjPFy-eurT2dCVlRqX-3YRJxILVutGrqEnD4OOn7LbHqEadb0R6_uKUC_UfSzaAcdUQxoqFSmhwGAeAFqmuw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3PbJPF7egs"&gt;
 SwiftUI Screenshot Prevention - Prevent Users from Taking Screenshots of a SwiftUI View - Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’m going to teach how to prevent users from taking screenshots of a SwiftUI View | SwiftUI Screenshot Prevention | SwiftUI Avoid Screenshots | SwiftUI Custom View for Taking Screenshots | SwiftUI 2026 | iOS 26 | SwiftUI Xcode…&lt;/blockquote&gt;</content>
   </entry>
