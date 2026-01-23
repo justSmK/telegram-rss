@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-23T16:35:00+00:00</updated>
+  <updated>2026-01-23T17:27:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 740 https://t.co/GIGs5Mipww</title>
+    <published>2026-01-23T17:07:26+00:00</published>
+    <updated>2026-01-23T17:07:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25773</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25773"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 740 &lt;a href="https://t.co/GIGs5Mipww" target="_blank" rel="noopener"&gt;https://t.co/GIGs5Mipww&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Highlighting code blocks in Markdown with SwiftSyntax https://t.co/Fs6A8D68LX</title>
     <published>2026-01-23T14:22:34+00:00</published>
@@ -238,17 +249,5 @@ GitHub - RoversX/LaunchNext: Bring your Launchpad back in MacOS26+ ,highly custo
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : signalapp/Signal-iOS &lt;a href="https://t.co/E3vpN2cDxU" target="_blank" rel="noopener"&gt;https://t.co/E3vpN2cDxU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/E3vpN2cDxU"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ik8pUfxO8vyqV_XJb80JvTDrU0UmdmiLG_TmIldBHZsH7g1JQw_O7GpOIroaW9WsVYedaQm020NHRGkqFwn0ljCJdqXsL5WEKUGFunpF9LHDyD8kLSyKhUOCcURY_SHHYPyrntUwCN_QAE2SmB-QFGY4Tv5KIUvi2rKN5JOSpTiWmiHFHi0aEVcku7ITnPiJ7dpeyvludBPQXnw5LLhEImMxTFZxg8woSS8_yXtsQhCu742uYc3FnP1_Exq18Awlmzr66Ry8lAt0FRAvT4hBTicy-kQCYslWRxlMjpoOkVOpl9CbYfuTOisYzO5U-xbutmFTC11vfa4GIwSYOi6ADw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/E3vpN2cDxU"&gt;
 GitHub - signalapp/Signal-iOS: A private messenger for iOS. - GitHub&lt;/a&gt;&lt;br&gt;A private messenger for iOS. Contribute to signalapp/Signal-iOS development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : tombonez/noTunes https://t.co/MOboEmS3AL</title>
-    <published>2026-01-21T02:07:27+00:00</published>
-    <updated>2026-01-21T02:07:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25753</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25753"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tombonez/noTunes &lt;a href="https://t.co/MOboEmS3AL" target="_blank" rel="noopener"&gt;https://t.co/MOboEmS3AL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MOboEmS3AL"&gt;&lt;img src="https://cdn4.telesco.pe/file/iiGHOKVn4MzVVJPoobkO3Fm51PYKgwJtmCngvVkyd75mlGXqyL4RxPMnYODrhTkOncLIwtNlYVl5mdP5JX0_t3RaOPGooN1a8YlC0b8Yv_1ENXh0ihuQqUhWcb4BkrHFxyjQZXjDuky3Tu5tePTs2RrdbP5UdAUIf9ewCT5Il4Tp2Bc6J9ImxL2uzEdfKS9pZ7pKc4kcKNr8jZLHqRCl9mjUeucrZeKoi2SOjvroPadWdg0itqRw0lE6NxmFR_hLQxXfxJd2ZAnGAH1JdJfsCSukNVkJiY6GSrwmo87y50g9FuAcZ8UkVQw4REcjyQdsWcwqbBohfI35JMVq_KkhAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MOboEmS3AL"&gt;
-GitHub - tombonez/noTunes: A simple macOS application that will prevent iTunes or Apple Music from launching. - GitHub&lt;/a&gt;&lt;br&gt;A simple macOS application that will prevent iTunes or Apple Music from launching. - tombonez/noTunes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
