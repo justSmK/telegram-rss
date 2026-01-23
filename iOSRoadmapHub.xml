@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/i_U1gDFR5eC6XZn80zf6Q-A5fq2RsLYVQ5Hbr1a6fTnQh_KvUCTHecWLHgdzSegGKkfsl2kb64BiVqhUPM2CxqNtIPyifQdwyVeiRGjAiL2rfMKLlDeEfWOILwqwFk1aoZEfl8OZ2R1Bscymi9gSpUEbS0_2alR12aQTK2_xikZxQT2Un855LoPvmLjtilw-mqleh8tj1xtLAw8HQuaq9EQ34He-o6KF_BWLxREMVIKRkPA7pYr9eBRa_IoqgZkPGu7A1R8DwsS3MagdP9LUtTBM25tzul2apPFTswxt8RKUg5Cq6Po6B6y9kZY05cPYhliYL9L-q2X2iTVMGqp7Sg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/i_U1gDFR5eC6XZn80zf6Q-A5fq2RsLYVQ5Hbr1a6fTnQh_KvUCTHecWLHgdzSegGKkfsl2kb64BiVqhUPM2CxqNtIPyifQdwyVeiRGjAiL2rfMKLlDeEfWOILwqwFk1aoZEfl8OZ2R1Bscymi9gSpUEbS0_2alR12aQTK2_xikZxQT2Un855LoPvmLjtilw-mqleh8tj1xtLAw8HQuaq9EQ34He-o6KF_BWLxREMVIKRkPA7pYr9eBRa_IoqgZkPGu7A1R8DwsS3MagdP9LUtTBM25tzul2apPFTswxt8RKUg5Cq6Po6B6y9kZY05cPYhliYL9L-q2X2iTVMGqp7Sg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-23T07:28:47+00:00</updated>
+  <updated>2026-01-23T08:35:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;86% - 1&lt;/li&gt;&lt;li&gt;11% - 2&lt;/li&gt;&lt;li&gt;3% - 3&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;88% - 1&lt;/li&gt;&lt;li&gt;8% - 2&lt;/li&gt;&lt;li&gt;3% - 3&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Какой способ на проверку пустой строки...</title>
