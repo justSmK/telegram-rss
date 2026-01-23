@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/e_k2W1UuI4fiaOPA6s8zCkC5I_Rq1ZdYlNIscnpazB4FzBuuOJArLCNaJFiY1R8KMVA9yq9YQJdlKib2ecrkuVzNxn-gri0zlL4dpuAMLniLSJ8lvePs9OSlIoI2wQGzYZp6GjR4qmMIT_EnbuQWbtCrn69gnhuBNWr5xByXpNTQLv6Ue-6_x3ni0Mr7ZDBnQmGDEM889tF9dnNklmZkl7grUz0_-Lci2U829SKwIH5B83KtlOHbV1fvwIlatEeOux_aNvBMwtp7gU5bgnhk4j5Sdy0o2S60uIBiDeYwFJsc-nAQALL9Pq_ugpiid_MzynCwSdqg_zBVUtRIa40N-g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/e_k2W1UuI4fiaOPA6s8zCkC5I_Rq1ZdYlNIscnpazB4FzBuuOJArLCNaJFiY1R8KMVA9yq9YQJdlKib2ecrkuVzNxn-gri0zlL4dpuAMLniLSJ8lvePs9OSlIoI2wQGzYZp6GjR4qmMIT_EnbuQWbtCrn69gnhuBNWr5xByXpNTQLv6Ue-6_x3ni0Mr7ZDBnQmGDEM889tF9dnNklmZkl7grUz0_-Lci2U829SKwIH5B83KtlOHbV1fvwIlatEeOux_aNvBMwtp7gU5bgnhk4j5Sdy0o2S60uIBiDeYwFJsc-nAQALL9Pq_ugpiid_MzynCwSdqg_zBVUtRIa40N-g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-23T05:31:01+00:00</updated>
+  <updated>2026-01-23T06:39:48+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Skip теперь бесплатный&#13;
+&#13;
+Про Skip, набор инструментов для...</title>
+    <published>2026-01-23T06:03:49+00:00</published>
+    <updated>2026-01-23T06:03:49+00:00</updated>
+    <id>https://t.me/iosgr/4590</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4590"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://skip.dev/blog/skip-is-free/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Skip теперь бесплатный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Про Skip, набор инструментов для транспилирования Swift в Kotlin, мы на канале говорили довольно часто. Большого адопшна у ребят так и не случилось, но главное, чего они добились – добавили Android в список официальных таргетов Swift и запустили полноценную рабочую группу вокруг проекта.&lt;br/&gt;&lt;br/&gt;Так вот, раньше большая часть Skip была закрытой и платной, а с этой недели бизнес-модель меняется, и все выкладывается в опенсорс. Основная причина – никто не хочет платить за инструменты для разработки. Выживет ли проект дальше, пока не очень понятно, будем следить.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Если построить иконки Apple от самых новых к самым...</title>
     <published>2026-01-22T06:04:10+00:00</published>
@@ -19,7 +32,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4589"&gt;&lt;img src="https://cdn4.telesco.pe/file/hUAMc6-SZ5cMt8s5qS-6vaxCEiWMFdc8mLvQ_oEIZR3Tb4LbyhE2EAtDvLRpL9qw515aB7RvOmyfXBC3Tq380MGFf-eKdbC6TooFv_5hj9n1pwMEEYSvXfSQgayPPfF-1laJVHSOXDcAG5Hs3yfTkQKw-hC-7aLUbxOPOMKxdjLJRlq9u6zMD-epxetuu6yYBksT4GTB8WUgmXX4RJuXXlSmODDVpequgRFk-NT6H9wZGwdB5ssEsPdLSG35ujB5u4hH0OpxB6_mNEYbB1g1LTknf-dEUh9KMQNcvqm5DJ8zCDi9rALI33R-C0r1nWuIBVAyU6TQTWmEs6teeM4f0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если построить иконки Apple от самых новых к самым старым, можно увидеть, как начинающий дизайнер постепенно учится делать классные иконки&amp;#33;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4589"&gt;&lt;img src="https://cdn4.telesco.pe/file/H_-ZcLz7YTR99kqIpFVp3jy1rfmX6inTUgQ1B_yk2C0IWMMzCLvegwyUNbe5UDN-NMUec_IiMwO19vui_IBLMSH_hUxgk1psRWknLD8SCRMX6xiTwTaezDaQcSZMD44RfMZ5zl_Pu6KG7r3QmupH_FWUj2pQjYU1wdqFrrCPfKG-43TKavCsOwuSKGtZwgghojN0edu4j2UlhQz6mnQV1k49wxU046pwcO2JmSi9y9e6HhOqDm4OuL-nCgbhBfDlOHp9tyinUsZCMGQqBv8zyPJkpbbfYa4dhg7jhVw_liP9uvoYzTmw59KRjMEjCkn2TWu_HwC3sBQb19sN4el8DA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если построить иконки Apple от самых новых к самым старым, можно увидеть, как начинающий дизайнер постепенно учится делать классные иконки&amp;#33;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Проблемы Tab Bar в iOS 26&#13;
@@ -32,7 +45,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4587?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/tNkAvV516l7DTh1omKDGiJxPBgBbnP1AnUR_XIEDOGpYT0StzD4Lhww1QCQ5PafFFkKAW4whHwqJgoI0KApX7GtABn-hXsZwj_6ytQN8Y26Y_UaNCxOxfcmtA4VIOqgI_Ngs_LoOHn9Ya4QsEft0XkLY5qox9Octh6eZwq1JSHIN9mYuM9LTpil_3FG5p1eRV0BK3-abMV5v_MI0jCZezWBaFjQF9WUaoAcKh08B9XeAGhpgsKEPDgeK5k3IS8vbBV13v8qnJJEKcicX-FWZXn8-jRq0bBadEi8IOcN_1kASxPXoR0kgqhVpKnlYRxg2jWDF3IjqN8-tatVdqh_iHQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4588?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/BoZDl0E6qPVIWlrtF4H61vezziqhxW8gikq0m176cY9OVqPvVwDxt0kloccwYgSX0KXqxjX-TMovGUBvGfb-7Q7oH5IEGMth7dT08hI7z8w1RPfiMc9JSwjz51nHF_FWI_gsZPYAmtfLMYEYXEB0aPJUln_qk2XDBhAVwlF1ujWFh-TvXE8TWnOLV7588AYpHdpfC4T83LqlTiKrCtLouWB8eDBg1Ip1x1JsLyq12wknoBC3YBaWDua7EOiDyYr4tlTO5Ei_E06vL4fHNs4ICR2oSmMBBVeGEXGboHFfYMQsSDaMXb7bNABbGdYCTWF3zyLFeDV997UVE2x4dNBE-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Проблемы Tab Bar в iOS 26&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 в таббаре появился новый специальный вид таба – поиск, который визуально отделен от остальной панели и в целом похож на кнопку. В том и кроется проблема – из-за этой похожести в кастомных реализациях таббара туда начинают добавлять другие действия – например, создание нового элемента, что будет путать пользователей еще сильнее.&lt;/div&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4587?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/clVDXpkgSayg0Alp-NSlVjxtzi8R13-lvaiSGO0DiVpQ1RbWQ7t-6uODNGUP0QE1gDPjsnQZmYcWEMvO5l9a7Or0p9otaL9EadZMIBaX9nYoL46LoUkihHiyxbykPA_bCwPD45uov0FwkUln3C0myeretDgiJoiE2O-J4g19t9IrxgTzwzLtPMsalgpi-3lRIezgKKPZ8A963nGL0QZw8Ct08lMRjt9GtBuQNIaPn1sD_8yNFSnhp2qC2ocKUMa9qoa7RR0XU8_6dvfBmVK6XkEdeXj1RSBZ8pRxIwI7SuU_hHPlp81CgQlI8YX9seoGBqj-FWvYbqZeo8japXIq_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4588?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/JA9USGWCksxq3_R5KAlhVX9wT0w-FhKL7CFoWH9zJHSkrwwnht2Wjk5xB9RRdu4YboJiW0rdum95dKHo93M7Z1znxUAT5LcWf47gNjuQodvtO7ISY0B1SVCz2njIbIXzB-0RRY9XKP__dV4oXPTp3OTyNRp4TOQKwJXNoTIGMPmrHuihRlI9FiyT4U5IUEhBcww48NNzmzQsIqOGmMx_Nr2o6sZHZJ2hLohzElBcMWnMZSs6jNfA-WhFR85cuQ4CK3GQKeaNz6Ce7mnG7o2b38gPxBNTzVFp6UDeqqtHqeRr862KJ_MOmedtWoRZ3_JlLODCGTjEIvKYjkSR9Yf9dw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Проблемы Tab Bar в iOS 26&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 в таббаре появился новый специальный вид таба – поиск, который визуально отделен от остальной панели и в целом похож на кнопку. В том и кроется проблема – из-за этой похожести в кастомных реализациях таббара туда начинают добавлять другие действия – например, создание нового элемента, что будет путать пользователей еще сильнее.&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Apple тестирует новое отображение рекламы в App Store&#13;
@@ -45,7 +58,7 @@ Apple...</title>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4586"&gt;&lt;img src="https://cdn4.telesco.pe/file/jXPrpfGErYgIxi4S6zrkd5KWknhVp7SFhsJJ0-IznLRKVjfiOkmp-uEFOK1b8x-pTNphMmzP4Apum8PmvGzLstYDdxlAgpWfHE2u-BL6eQ6qeDq15uEC6HtvYS4rFudHVUt6Oo7mp-e9LsYFnGZ6JQ6rDR5QOGZ7x1BAkkBeyJupRO6Jb93QZHzkB5akGpLTisqFgCbl1QrfSIeMn1pBX9RlkJ7gquH01V4eGnBF8-FRGeFIn2DN1GIQlKbOJTj01YShJu1w6-ZCKLMyaPLKORqKOaDVDK5EVoDyDl_TRzVwpz4yc1PJ8T_Zbkv-yLg4NrEqFNeqBLCBSaVWwfPSew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple тестирует новое отображение рекламы в App Store&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Apple начали тестировать новый вид отображения рекламных позиций в списке приложений, которые теперь полностью повторяют обычную карточку, за исключением маленькой иконки &amp;quot;Ad&amp;quot; в углу. Больше темных паттернов богу темных паттернов&amp;#33;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4586"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xyt8yWVv_NV9vikAjTvRdaV7XzUMEMFFLfTlc3mOfrsXpgn0NiUaWzDK3CWnHkXZmamIa0yZ2Tdks2rxkP7HKyNVUjapTwvVW88uwfWZ2SuDmjrArKPmi_UoloXl3YvHSSurJu2IVSTT0qYmJkaPrSe6UwbIoqlMOFf7zrw5xyorqyiohdfDmO_kloD6Nd0oalbUHsw23Hyyt6wB25GsU_-c0-x0zM_1QqIo38eLwju_CekIGt0YNAfie4H7iQHs5A2Oxq0DRTX5cCiDovsKo_8L0iILZXAlI_s4xpJvdYV_uQEJ-2gc5pQStQ0XLbK9uBQeFDA0wA-hbC-CJIMAuQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple тестирует новое отображение рекламы в App Store&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Apple начали тестировать новый вид отображения рекламных позиций в списке приложений, которые теперь полностью повторяют обычную карточку, за исключением маленькой иконки &amp;quot;Ad&amp;quot; в углу. Больше темных паттернов богу темных паттернов&amp;#33;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Cupertino – MCP сервер для документации Apple&#13;
@@ -255,19 +268,5 @@ Replay - NSHipster&lt;/a&gt;&lt;br&gt;Fast, reliable API tests without mocks or 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/kynXuVmg05xUP-vTEMhfvvydzJaiaxB1oe8vAUV_-Swop3rKYFasIEhDmdgrqyjaRfIg1PKExQe592CHUSO-ZgTiwYf9AvCJxY7ZKpS-mub-E_Wrn2ifyip-uFvS16Ddx6-cJR9MAwAyhxCdQJfOUxFRWE939b11bFbAGJxvEmdeh3QmXCLJO6DizZvfSVJFmkkyqM9kppS3KAl-SPMoD3614txpVcBNuflF2JQp-B_a_rsTlCQoaOo-bUaQTGn7qCOvlLJj5Q0tJGdZoeadQCPpH53wDbIlPnp2f9jkhYyM6ucrcOGN1mtb0sBSewnghhkTH9HAYbEd_aruA5wXTw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
 Все не так с Codable - Хабр&lt;/a&gt;&lt;br&gt;Привет, Хабр&amp;#33; На связи Кристиан Бенуа, iOS-разработчиĸ в Т-Банĸе. Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как ускорить сборки на CI со slot-warmed caching&#13;
-&#13;
-Slot-warmed caching –...</title>
-    <published>2025-12-31T06:03:38+00:00</published>
-    <updated>2025-12-31T06:03:38+00:00</updated>
-    <id>https://t.me/iosgr/4570</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4570"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как ускорить сборки на CI со slot-warmed caching&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Slot-warmed caching – это способ строить билд кеш для определенных путей и переиспользовать его при последующих сборках, чтобы не пересобирать все с нуля. Автору это помогло ускорить сборки в 10 раз.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/"&gt;
-10× faster Xcode CI builds with slot caching — featherless software design - Jeffverkoeyen&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
 </feed>
