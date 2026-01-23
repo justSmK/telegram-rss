@@ -6,10 +6,34 @@
   <icon>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hSCKBnMDJ9dtvxewKY754Zr6Ht2ZzNuppEsEOsnR-ip5JaS1a0QI2iZL7J7TlwVRnURiDCD9ZyP0kJL4tTGl1tjIKce0O44B0K9ZZZYgKlp6Z7q1CNwmVVq7_JfqUMLFLIzIl6nuWJ0bO04L9f5yglwiTaY-loFW_pjPQW6nXQeKo1IeWnrosa6xXKF0EEkwMPvI8nhHubbvjvsDHfIjhsZ34dGK-xEUWOG8iVfKYr4IUWh36M4ZeO-lN15Yx-7VMdm3RJGYvdUieNSN0eUEVPospeiVCn_8ri_lxw3IfH9aho5P60i0KTlQilS-rQn-CqHj-tK7a1MRUMWB-uT-dw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-23T13:45:33+00:00</updated>
+  <updated>2026-01-23T14:28:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Highlighting code blocks in Markdown with SwiftSyntax https://t.co/Fs6A8D68LX</title>
+    <published>2026-01-23T14:22:34+00:00</published>
+    <updated>2026-01-23T14:22:34+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25772</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25772"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/GeQUXnzvxkxnXALNLtlkDTTFNHm_YqcMlqZaIRzHRN5jzSTHewEzdmZaPdJGt_zDmAPt58HtV1NKoPR9GmE5-XTYs2zQ2KtnZ5bqWIl-5g2KkIK3VyiTha0pdewyF8MT2xVoXJI9ElQZ4jNjo52uSEZt-XrA3JqvgA5pQTXJvkazTTkAe14LSeO1lKYqv5uyKVooC5LPxnyCoABFnclqgTB9_LaCo4f4fAl5aGPFIMQEXNB39jICJnG1FIOQofq72jwevENGyC2oV_-aEj1QL3owXvMwCl8ryFUK_Hgl_AXEoLyTya8Rrpaz2W20IjY68RipXQJ-QVDo5vtrENZunA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
+Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt;&lt;br&gt;A practical guide to highlighting Swift code&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR https://t.co/DCQSk7jTO4</title>
+    <published>2026-01-23T14:02:39+00:00</published>
+    <updated>2026-01-23T14:02:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25771</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25771"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR &lt;a href="https://t.co/DCQSk7jTO4" target="_blank" rel="noopener"&gt;https://t.co/DCQSk7jTO4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;&lt;img src="https://cdn4.telesco.pe/file/bcAGhVTaR2VjVPfARHL9FOr_luWq0NKcjmNipBsMxbMdsHJ6glB17wmECOcss_7UqQkWyBWWMXtmhafRm7zeXxZB_zFwjXK72_hl4ukzHtVZkuqO9hy6YKgJ8a_NRMftCEI539bFGgKhOiX4M-QbrUD190TMrKUdO3efMBU1RbEVDogShzLGLFKgYfOEILNRLBlhVaam8GMMmVvJ57LkGrw7rcJmy5jdY2Cr9qnSC29izzHGdY6kAOWZtyN2F5hqheJ3b-4k8u_KJdj7w-Z0LDi2iZ86Q8QHMo0iptnAIr_-HMQpqCLbO9Cem7yesrQSFzf9ZWTjy3UNjmUyufwjmA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;
+K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR - Create with Swift&lt;/a&gt;&lt;br&gt;Create wireframe visionOS decisions and validate layouts before you write a single line of code.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Use clang API notes to Annotate C Header Files for Swifty Module Imports https://t.co/EYPlg1v0VW</title>
     <published>2026-01-23T07:42:43+00:00</published>
@@ -104,7 +128,7 @@ In this video, I’m going to teach how to prevent users from taking screenshots
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing simultaneous, in sequence and exclusive gestures &lt;a href="https://t.co/G8HutTFyeW" target="_blank" rel="noopener"&gt;https://t.co/G8HutTFyeW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;&lt;img src="https://cdn4.telesco.pe/file/tKc3ebjwZVhYpQi4HSSVLWeige9UwUC00YMZjEJFeMLapPrrKZLZQEFOOLIdhHOG1jBO7Qpo9QIRJqv5osmCrU7IfGp4wyfJdM5m1Q2nexya8MXY0wZMVJQKVNIUSSnWDv5me86ppaWG_f0PDJru1ee2PtQk4ngk2i9oc8GQhexSqm9Hnrvn1h02n11_8Ezxdok2d0W35visFK22KIoarxzkGRXKH_IRKdpUsY319BmNrTk3RqHossVMZ1--65qYWcG01mXt9nTpjaXDs6AaIDJ9CMuYYRwYkAbMsjUAoY7zA8QdMkV423yTJPoh2gGaZreoD5aSKOiRfx_upSG0XQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing simultaneous, in sequence and exclusive gestures &lt;a href="https://t.co/G8HutTFyeW" target="_blank" rel="noopener"&gt;https://t.co/G8HutTFyeW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;&lt;img src="https://cdn4.telesco.pe/file/lr8uCGeq9LLh3MB6kpcKu3xEWiSnDbg83-9p2EQRXdL9GnEYJPh64clBIT7Is_MKV-1-rTa-R1BDk3YP7J5giMJ6RSg8ZxUOOjt9xVnbgt6Z9OVRq2xS9UVmk3AuRc5leanHWPIG-XGJ3Kmay72EMfN91JhQJ4XFRDniurqZ3xz-QkFtgL9N0Uw19XaVsfuMyeVxDiuZmigDuTp4vxHxS5dC8pdoYSRPV7odkuEMithGA6MUoM0NjvJj2ZSyI-c4Pn7ndrDrxQLs7RCBQzN_lq7aK14pj4C9FycgeM8t66oc11FrCrW9du-w6hmmuEOmBh0jFO7Xtym2cBMencCOMQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;
 Managing simultaneous, in sequence and exclusive gestures - Create with Swift&lt;/a&gt;&lt;br&gt;Understand how to compose multiple gestures together to create complex interactions in a SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -226,29 +250,5 @@ GitHub - signalapp/Signal-iOS: A private messenger for iOS. - GitHub&lt;/a&gt;&l
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tombonez/noTunes &lt;a href="https://t.co/MOboEmS3AL" target="_blank" rel="noopener"&gt;https://t.co/MOboEmS3AL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MOboEmS3AL"&gt;&lt;img src="https://cdn4.telesco.pe/file/iiGHOKVn4MzVVJPoobkO3Fm51PYKgwJtmCngvVkyd75mlGXqyL4RxPMnYODrhTkOncLIwtNlYVl5mdP5JX0_t3RaOPGooN1a8YlC0b8Yv_1ENXh0ihuQqUhWcb4BkrHFxyjQZXjDuky3Tu5tePTs2RrdbP5UdAUIf9ewCT5Il4Tp2Bc6J9ImxL2uzEdfKS9pZ7pKc4kcKNr8jZLHqRCl9mjUeucrZeKoi2SOjvroPadWdg0itqRw0lE6NxmFR_hLQxXfxJd2ZAnGAH1JdJfsCSukNVkJiY6GSrwmo87y50g9FuAcZ8UkVQw4REcjyQdsWcwqbBohfI35JMVq_KkhAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MOboEmS3AL"&gt;
 GitHub - tombonez/noTunes: A simple macOS application that will prevent iTunes or Apple Music from launching. - GitHub&lt;/a&gt;&lt;br&gt;A simple macOS application that will prevent iTunes or Apple Music from launching. - tombonez/noTunes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Xcode Organizer: Your Performance Cheat Sheet https://t.co/4JaM4XlwXD</title>
-    <published>2026-01-20T16:12:39+00:00</published>
-    <updated>2026-01-20T16:12:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25752</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25752"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode Organizer: Your Performance Cheat Sheet &lt;a href="https://t.co/4JaM4XlwXD" target="_blank" rel="noopener"&gt;https://t.co/4JaM4XlwXD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4JaM4XlwXD"&gt;&lt;img src="https://cdn4.telesco.pe/file/tezzdKk7ayKGRLHxgmQFSSaVH_VgibP152-D7RqBzZFX2sT9IjmmRBx2a3JFVNG_GTk3T0mWrIEG-sAIIYdMJ3aN69zMF8gTMcQkxHWSqZyxbpWKw7kvwrrRMP3BATYyGPYlNWjuJ6xY4Dxm0Hva5YLZWM24LYNwjaPAVd5mG4Qzfhv4_y7S69uITQAXsjNrAJsPluF5ONNAMriMg0amwgArZog3DCBDQiExg-f9sY5Oaq1YPttaYox8qBvwWf0reg1n-SjlLu0A5v8uDQVvWaQounVAPmeuz1nVqebGv4wECfd3RHIHit0X26wlTD2uHNBtqEpKc43i1qcn2pyEtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4JaM4XlwXD"&gt;
-Xcode Organizer: Your Performance Cheat Sheet - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Instruments, but crowdsourced&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Providing access to premium features with StoreKit 2 https://t.co/5NdyEft6uZ</title>
-    <published>2026-01-20T14:02:32+00:00</published>
-    <updated>2026-01-20T14:02:32+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25751</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25751"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Providing access to premium features with StoreKit 2 &lt;a href="https://t.co/5NdyEft6uZ" target="_blank" rel="noopener"&gt;https://t.co/5NdyEft6uZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/bOA0CP0Lj7Lki-fnniqV5g8b72Er3Kk3oF4vzEyJo_vngb_fYLKQHRVMXQ2E9pdxBviMqCxynngjORUBQgzJUAKeQ14GC4OMWTlP8DxpNJwireeXrH6hNZYyTfffRvMLEvdUhngaKZQ8knhwjJNhruCLGEXu7nugBQCqurHLAkazFtnwFl7EE3VCsjZTccN5S1g17V1uCbJrRKvyHTNMwmVirZtWNLC9OUvjZZ-tK0lsnpQSmNwRwMIX6TvOePhIUI2LOB3h3eG2XsipQceXabHOxSQVch6awKrbNgpW6Yqol0_0q2TizMN55NX2bPevH8IrQD4cCFGhANzCxHbE6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5NdyEft6uZ"&gt;
-Providing access to premium features with StoreKit 2 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to build a tiered subscription system and gate premium features in a SwiftUI app using StoreKit 2.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
