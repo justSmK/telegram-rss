@@ -6,10 +6,32 @@
   <icon>https://cdn4.telesco.pe/file/i_U1gDFR5eC6XZn80zf6Q-A5fq2RsLYVQ5Hbr1a6fTnQh_KvUCTHecWLHgdzSegGKkfsl2kb64BiVqhUPM2CxqNtIPyifQdwyVeiRGjAiL2rfMKLlDeEfWOILwqwFk1aoZEfl8OZ2R1Bscymi9gSpUEbS0_2alR12aQTK2_xikZxQT2Un855LoPvmLjtilw-mqleh8tj1xtLAw8HQuaq9EQ34He-o6KF_BWLxREMVIKRkPA7pYr9eBRa_IoqgZkPGu7A1R8DwsS3MagdP9LUtTBM25tzul2apPFTswxt8RKUg5Cq6Po6B6y9kZY05cPYhliYL9L-q2X2iTVMGqp7Sg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/i_U1gDFR5eC6XZn80zf6Q-A5fq2RsLYVQ5Hbr1a6fTnQh_KvUCTHecWLHgdzSegGKkfsl2kb64BiVqhUPM2CxqNtIPyifQdwyVeiRGjAiL2rfMKLlDeEfWOILwqwFk1aoZEfl8OZ2R1Bscymi9gSpUEbS0_2alR12aQTK2_xikZxQT2Un855LoPvmLjtilw-mqleh8tj1xtLAw8HQuaq9EQ34He-o6KF_BWLxREMVIKRkPA7pYr9eBRa_IoqgZkPGu7A1R8DwsS3MagdP9LUtTBM25tzul2apPFTswxt8RKUg5Cq6Po6B6y9kZY05cPYhliYL9L-q2X2iTVMGqp7Sg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-23T06:39:52+00:00</updated>
+  <updated>2026-01-23T07:28:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">-</title>
+    <published>2026-01-23T07:11:38+00:00</published>
+    <updated>2026-01-23T07:11:38+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/324</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/324"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;86% - 1&lt;/li&gt;&lt;li&gt;11% - 2&lt;/li&gt;&lt;li&gt;3% - 3&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Какой способ на проверку пустой строки...</title>
+    <published>2026-01-23T07:10:54+00:00</published>
+    <updated>2026-01-23T07:10:54+00:00</updated>
+    <id>https://t.me/iOSRoadmapHub/323</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/323"/>
+    <author>
+      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Какой способ на проверку пустой строки предпочтительнее и почему(ответить мысленно)?&lt;br/&gt;&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;==1==&lt;br/&gt;if text.isEmpty {&lt;br/&gt;    print(&amp;quot;Строка пуста&amp;quot;)&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;==2==&lt;br/&gt;if text == &amp;quot;&amp;quot; {&lt;br/&gt;    print(&amp;quot;Строка пуста&amp;quot;)&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;==3==&lt;br/&gt;if text.count == 0 {&lt;br/&gt;    print(&amp;quot;Строка пуста&amp;quot;)&lt;br/&gt;}&lt;/pre&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">#swift6 #async #await #actors #ios #swiftui...</title>
     <published>2026-01-23T04:55:06+00:00</published>
@@ -42,7 +64,7 @@ Apple поменяла планы и сделает Siri полноценным 
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;13% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;10% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;43% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;35% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;13% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;10% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;43% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
@@ -232,27 +254,5 @@ Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockqu
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/299" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"&gt;#собеседование&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;До конца этого года планирую записать моковые собеседования план &lt;b&gt;минимум - одно собеседрвание&lt;/b&gt;, &lt;b&gt;максимум - два собеседования&lt;/b&gt;, сегодня сяду за материал.&lt;br/&gt;&lt;br/&gt;Хочу отдельно по UIKit и отдельно Многопоточности, если есть материалы какие-то полезные, пожелания или просто фидбек, как-всегда в лс можно отписать &lt;tg-emoji emoji-id="5924633670861197599"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8697.png')"&gt;&lt;b&gt;🆗&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">MainActor привязан к конкретному thread?</title>
-    <published>2025-10-31T10:58:28+00:00</published>
-    <updated>2025-10-31T10:58:28+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/298</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/298"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">			MainActor привязан к конкретному thread?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;69% - Да&lt;/li&gt;&lt;li&gt;31% - Нет&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">На самом деле количество проблем можно выделить...</title>
-    <published>2025-10-30T10:56:14+00:00</published>
-    <updated>2025-10-30T10:56:14+00:00</updated>
-    <id>https://t.me/iOSRoadmapHub/297</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iOSRoadmapHub/297"/>
-    <author>
-      <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iOSRoadmapHub/297" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;На самом деле количество проблем можно &lt;b&gt;выделить разное&lt;/b&gt;, &lt;b&gt;но сводиться они будут к одному&lt;/b&gt;. &lt;b&gt;&lt;u&gt;Ниже спойлер задачи сверху&amp;#33;&lt;/u&gt;&lt;/b&gt; &lt;tg-emoji emoji-id="5429139425818854423"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949E.png')"&gt;&lt;b&gt;🔞&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Давайте ниже рассмотрим, в чём же есть проблемы:&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;&lt;tg-spoiler&gt;&lt;b&gt;1.&lt;/b&gt; &lt;b&gt;var id: UUID { UUID() } &lt;/b&gt;- каждый раз, когда мы обращаемся в &lt;b&gt;ForEach&lt;/b&gt;, мы &lt;b&gt;получаем другое UUID&lt;/b&gt;. Из-за того, что id реализовано как computed property - &lt;b&gt;id генерируется при каждом вызове&lt;/b&gt;.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;- Можно поправить как &lt;b&gt;var id: String&lt;/b&gt; и внутри &lt;b&gt;switch self&lt;/b&gt; и написать значения&lt;br/&gt;- Можно поправить как &lt;b&gt;var id: Self { self }&lt;/b&gt; и всё тип-топ&lt;br/&gt;- Можно поправить как добавление String или Int к enum и реализовать &lt;b&gt;var id: Int { rawValue }&lt;/b&gt; / &lt;b&gt;var id: String { rawValue }&lt;/b&gt;&lt;/tg-spoiler&gt;&lt;br/&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;2&lt;tg-spoiler&gt;&lt;b&gt;.&lt;/b&gt; &lt;b&gt;VStack вместо LazyVStack / List&lt;/b&gt;. Тем самым при имении user.achievements равном даже как 100-300 элементов, мы можем иметь просадки в начале, потому-что сразу всё в память.&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Зависит от того, что за элемент и что он показывает и т.д. Что уже говорить про 1-2К.&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;3&lt;tg-spoiler&gt;. &lt;/tg-spoiler&gt;&lt;a href="https://t.me/State" target="_blank"&gt;&lt;tg-spoiler&gt;&lt;b&gt;@State&lt;/b&gt;&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;b&gt; var user: User&lt;/b&gt; Хоть мы и передаем весь объект ProfileView, где используем только `user.bio`, у нас всё-равно будут ненужные re-evaluate и re-draw, даже когда мы не меняем bio.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;&lt;/tg-spoiler&gt;&lt;blockquote&gt;4&lt;tg-spoiler&gt;. &lt;b&gt;HStack / VStack&lt;/b&gt; по-умолчанию имеют от 8 до 12 точек отступов, соответсвенно если явно не указать `spacing:0`, то будет расхождение с дизайном.&lt;/tg-spoiler&gt;&lt;/blockquote&gt;&lt;tg-spoiler&gt;&lt;br/&gt;&lt;br/&gt;Если ты дополнишь этим пунктом, хоть он и не стоит в основной задаче, ты покажешь свою точность, что тебе &lt;b&gt;важен не только код&lt;/b&gt;, &lt;b&gt;но и сам продукт и его итоговый результат&lt;/b&gt;&amp;#33;&lt;br/&gt;&lt;br/&gt;Соответсвенно важно не количество правильных минусов, а какие минусы ты нашел, что они пораждают и так-далее&amp;#33;&lt;br/&gt;&lt;br/&gt;Поэтому я каждый раз и говорю, что такие практически задания на собеседование - это ТОП&amp;#33;&lt;br/&gt;&lt;br/&gt;Проверяется не знания ради знания, а то, что ты будешь использовать каждый день в работе.&lt;br/&gt;&lt;br/&gt;В этом плане у практических по &lt;b&gt;UIKit&lt;/b&gt; с его ранлупами и прочим, есть большое поле на вопросы и познания глубины, но не достаёт практичности в применении на работе.&lt;br/&gt;&lt;br/&gt;— &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/Code-Review-29932442656b80cca19afe6001066c16?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;Эта задача в ноушене&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;br/&gt;— &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/13732442656b8096ac4be53e0a1d93a7?v=13732442656b8103b415000c33e99047&amp;amp;amp;source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;Секция практических задач по SwiftUI&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;&lt;br/&gt;— Моковые собеседования по SwiftUI: &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-system-design-b1a856e558e7485aa0bebf32df3553d6?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;один&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;, &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-Structured-Concurrency-f7b3e243f03643b7a127b1eb2c282f73?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;два&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;tg-spoiler&gt;, &lt;/tg-spoiler&gt;&lt;a href="https://www.notion.so/SwiftUI-Combine-Structured-Concurrency-80-20-1d532442656b80b281a5fd2f686d1afd?source=copy_link" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;tg-spoiler&gt;три&lt;/tg-spoiler&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;P.S. Ставь лайк - если понравилась задача и разбор&lt;/b&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
