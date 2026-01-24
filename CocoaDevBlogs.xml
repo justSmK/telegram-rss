@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/JzXCljS1I-L6gTpz5_lJgnyH2b8q30b-7TfOroev24jNDJLP-w4p7d1l73kaV_1SNGA1gP83ROOl9GIWNvp6krM1vAs-9gtmSgKo_P_zjRTtTOwXzWBnR0ZU9LuUkO8JyvY0lZh-LfUEP9ZI75qF6zjHD6RK7NhiVZLkrlJBqr5Ccv3cznphPQrEEeUep7eoXNhgsK00Vid7WsgtnDBhI-DswgJ6KVje170cOZdV4haAv7H_BmxRcy67re2UjD9fgDVxn2K22CBZm3VUPa0n8Q8vSMK0O-dSlD9kLqiY89LZ0o9FAOS-DUNHJ-ViY8H4Yi_vhC04zFM-1SW8qmhL0A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JzXCljS1I-L6gTpz5_lJgnyH2b8q30b-7TfOroev24jNDJLP-w4p7d1l73kaV_1SNGA1gP83ROOl9GIWNvp6krM1vAs-9gtmSgKo_P_zjRTtTOwXzWBnR0ZU9LuUkO8JyvY0lZh-LfUEP9ZI75qF6zjHD6RK7NhiVZLkrlJBqr5Ccv3cznphPQrEEeUep7eoXNhgsK00Vid7WsgtnDBhI-DswgJ6KVje170cOZdV4haAv7H_BmxRcy67re2UjD9fgDVxn2K22CBZm3VUPa0n8Q8vSMK0O-dSlD9kLqiY89LZ0o9FAOS-DUNHJ-ViY8H4Yi_vhC04zFM-1SW8qmhL0A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-24T13:32:43+00:00</updated>
+  <updated>2026-01-24T14:22:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -90,7 +90,7 @@ GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/GeQUXnzvxkxnXALNLtlkDTTFNHm_YqcMlqZaIRzHRN5jzSTHewEzdmZaPdJGt_zDmAPt58HtV1NKoPR9GmE5-XTYs2zQ2KtnZ5bqWIl-5g2KkIK3VyiTha0pdewyF8MT2xVoXJI9ElQZ4jNjo52uSEZt-XrA3JqvgA5pQTXJvkazTTkAe14LSeO1lKYqv5uyKVooC5LPxnyCoABFnclqgTB9_LaCo4f4fAl5aGPFIMQEXNB39jICJnG1FIOQofq72jwevENGyC2oV_-aEj1QL3owXvMwCl8ryFUK_Hgl_AXEoLyTya8Rrpaz2W20IjY68RipXQJ-QVDo5vtrENZunA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/dpcEtD0XSchzurwu3LAeUluRVnXGyC90GMIUJSRoHFjCgIZvmx-S5OZTE_u1xn0CRuraPsLWxJWP-gaEFaXWuO0uHzPHrgRP-HghEzu65qSz2Z93hAABneGmv126fodKw7URIr1v5u_7D62xSvmnqHZx99aOSxUwb_EJDkI1tz5RdaL33OLu_gHcWfFVmRM89_jATzZtxwfC3Lhe2mt2n5Bo4wdiwR9uu_tzwITR7gPUWBgPKLUtlC8xYnYvJN85iMvODR_ct_SJkXQMiX-QX7hC6RpkXAleSV73oPl7S-gYmnA5TYqDqGBFTgFFKEtJSmNO14wAu-kIMrMH5jA5wQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
 Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt;&lt;br&gt;A practical guide to highlighting Swift code&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -102,7 +102,7 @@ Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR &lt;a href="https://t.co/DCQSk7jTO4" target="_blank" rel="noopener"&gt;https://t.co/DCQSk7jTO4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;&lt;img src="https://cdn4.telesco.pe/file/bcAGhVTaR2VjVPfARHL9FOr_luWq0NKcjmNipBsMxbMdsHJ6glB17wmECOcss_7UqQkWyBWWMXtmhafRm7zeXxZB_zFwjXK72_hl4ukzHtVZkuqO9hy6YKgJ8a_NRMftCEI539bFGgKhOiX4M-QbrUD190TMrKUdO3efMBU1RbEVDogShzLGLFKgYfOEILNRLBlhVaam8GMMmVvJ57LkGrw7rcJmy5jdY2Cr9qnSC29izzHGdY6kAOWZtyN2F5hqheJ3b-4k8u_KJdj7w-Z0LDi2iZ86Q8QHMo0iptnAIr_-HMQpqCLbO9Cem7yesrQSFzf9ZWTjy3UNjmUyufwjmA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR &lt;a href="https://t.co/DCQSk7jTO4" target="_blank" rel="noopener"&gt;https://t.co/DCQSk7jTO4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;&lt;img src="https://cdn4.telesco.pe/file/qraoWGMB0jTIFSl7xqzOJTihIJxSiKiRmXzo16d2zhJCJns0ar110kjeGw2kmFCBOOHPHbFnoYGMmI70kfzru-XESlkoCYQO_5dUePZcpdUHURqrkQkpDTRUhWTos9DNJNb2weh_ovmecr2gQn-Dfa-G3yZvCEXn3qGvRoqbxTjXfRWUJsyd_zLxFB7WTuw6oRW_a6Yxgi5qlq6HrCnslehMBinr_FgLhZtXTiEvbOyr_swA9S4e7genii0Pdu9VRpdhoMDUrvhMTrP5P7uO3ztr5CJDmXpnQ4yXxsaz1CupjmimYMHUVpO5G-k7bM3Xqv3TyFZlRo6vfPq0swYCxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;
 K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR - Create with Swift&lt;/a&gt;&lt;br&gt;Create wireframe visionOS decisions and validate layouts before you write a single line of code.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -199,7 +199,7 @@ In this video, I’m going to teach how to prevent users from taking screenshots
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing simultaneous, in sequence and exclusive gestures &lt;a href="https://t.co/G8HutTFyeW" target="_blank" rel="noopener"&gt;https://t.co/G8HutTFyeW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;&lt;img src="https://cdn4.telesco.pe/file/lr8uCGeq9LLh3MB6kpcKu3xEWiSnDbg83-9p2EQRXdL9GnEYJPh64clBIT7Is_MKV-1-rTa-R1BDk3YP7J5giMJ6RSg8ZxUOOjt9xVnbgt6Z9OVRq2xS9UVmk3AuRc5leanHWPIG-XGJ3Kmay72EMfN91JhQJ4XFRDniurqZ3xz-QkFtgL9N0Uw19XaVsfuMyeVxDiuZmigDuTp4vxHxS5dC8pdoYSRPV7odkuEMithGA6MUoM0NjvJj2ZSyI-c4Pn7ndrDrxQLs7RCBQzN_lq7aK14pj4C9FycgeM8t66oc11FrCrW9du-w6hmmuEOmBh0jFO7Xtym2cBMencCOMQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing simultaneous, in sequence and exclusive gestures &lt;a href="https://t.co/G8HutTFyeW" target="_blank" rel="noopener"&gt;https://t.co/G8HutTFyeW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;&lt;img src="https://cdn4.telesco.pe/file/OCCNZ4M23ZSyBSTuVmmb6ExtonaWFU_fX-Ci1NnwM6w5nK5uu8QTAn4OrXIIDDxOi56DTB8_mgwU9Liqxa4pMkkTbFSLOnxy-LgWJV5fACDd1Bs_xEwUZXGk5YP1vmU4ThcV6NBaOvT25TKoT5NHTeobmFpZDqV8wubiTWFnVxhA9W8P2GEVQINoG4s7NSo-Q8bQotlPpVXULfWANXIO8v0ExTijgUJmXrs9hWPEYycnfDEFyf0KuiraclIHikD626qoi6j0A4HBWWzZJaFj14LSnxSxU3kB5thW1VJtAc76qhqkknD-QM3P95ey1GzrKKS5bjTbkZybT4LUUaX6uA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/G8HutTFyeW"&gt;
 Managing simultaneous, in sequence and exclusive gestures - Create with Swift&lt;/a&gt;&lt;br&gt;Understand how to compose multiple gestures together to create complex interactions in a SwiftUI app.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
