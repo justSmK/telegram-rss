@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/t5_ETXmIm-xp6gZZf8f7AzdxIDQ7MaTrvDEuVsud_G0qNBDW449DY4mtFOeOANKW_UxoB3nrz4MaTrrBDrv9wbYHWMYCpoqefdf9K48KPd8jC_3qO7FNOs2vjhMc3h17YraFltJxAqBZgN56wU9aI5y4PLQKhNWgOjgVDQYvd1s4NA-zJPxX0ergzSxWbvJ3ZOw-SMI1M_0QEIWfLorjVoo5MDhIiiSTKa0VvafLx3ZlVCp1hyOyiuGKY_HBsU3UzVUy1mfX9sEFyOpQGTC5qoAQ4lkXIp6nTI8eYeSC6xv77nZeABkwvm975NgGwl9IuZGPJ9cCqXycXKYwCSMVIQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/t5_ETXmIm-xp6gZZf8f7AzdxIDQ7MaTrvDEuVsud_G0qNBDW449DY4mtFOeOANKW_UxoB3nrz4MaTrrBDrv9wbYHWMYCpoqefdf9K48KPd8jC_3qO7FNOs2vjhMc3h17YraFltJxAqBZgN56wU9aI5y4PLQKhNWgOjgVDQYvd1s4NA-zJPxX0ergzSxWbvJ3ZOw-SMI1M_0QEIWfLorjVoo5MDhIiiSTKa0VvafLx3ZlVCp1hyOyiuGKY_HBsU3UzVUy1mfX9sEFyOpQGTC5qoAQ4lkXIp6nTI8eYeSC6xv77nZeABkwvm975NgGwl9IuZGPJ9cCqXycXKYwCSMVIQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-01-23T23:25:09+00:00</updated>
+  <updated>2026-01-24T01:55:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -208,6 +208,6 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/2995"&gt;&lt;img src="https://cdn4.telesco.pe/file/V7LuPUVUY_AtLImpkxSLWxceE2l3xBfJcUP7palN9rYCfriHVZCVBjqfAVkvEsbOatQGvZk4p6WpEKfuXgKOB4zoAwjFiFvfUsVJ-unYqUsYob5MRJ0jAAay1lBK8Ndg8Nk-cpGbtxeAOgmWRy6aY_ZC3BHXPDK5m7o_8p2CMxEwPxl_yKwXDCzUwE-fjW1jf6IAfWm_LiZD4YPQQmDXSgW4uu0zmacKrKh9u-eTwwCRDtp-M9Ugv_iCJajIUfNcKWNmf5u4bgd4xj3oyLnrdai_yeR7NzzAIDgXIUqyY4Jn3riziG7mWyuTU8NF_E1nCB45T_O0jxLu3kNqMThisA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео на канале, &lt;a href="https://www.youtube.com/watch?v=J6s6pV82mzE&amp;amp;amp;pp=0gcJCRUKAYcqIYzv" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;можно смотреть&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/arnoetalee/2995"&gt;&lt;img src="https://cdn4.telesco.pe/file/vxAYTjVAUEq51spBD-2PVdewkLcUgYeYVmsiOAHjRJU22uk3qBR0XJr-ak_YxxSUFScUqVp5q2-fJF0sPHwChza5Xu1sQZmT5xokKN-j34w4C9U6GbI7CpS0l6xy2Vntqk2qpMnbv-slOPj4wts8DJ5_vQXz-FswSN7fuPT2mM-8ZXKFrafqp08Romo_Oqu1nVNYyzJn3g2McdVuPxJuVRb6ep3MSGCe94hdz6Jp6H7PB2WY-CrEivxzUgiaxsuPZMGw489pBQiCzm4snuRIlDbwL-OyTn7BLajoBecNZ2M2k4ZVfQ2lqP33AqLxhSfRkf1w3e9dJoYpExk7UoQW4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео на канале, &lt;a href="https://www.youtube.com/watch?v=J6s6pV82mzE&amp;amp;amp;pp=0gcJCRUKAYcqIYzv" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;можно смотреть&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
