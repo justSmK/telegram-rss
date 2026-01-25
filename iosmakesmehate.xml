@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/P1aLEPbqv72FFSN6hPcmXaRpHE0X3D-TjB7lKQWpW23LRJ6U5uwTxNIsi7tl4nf6DCre980VFCEdA-9VR8Vzm4zmwri15S_VPUe6tkwOlDaMOFFC0HMr59G5dwGz3G0MxqboVni0F9RS_Eqj5igrcFccmJ-xDLxYkR3hRo4C29bGTDM93gO_GFgqryQwB9L20Yr7OH_fUsaHqaXFQAbZStnG-2FjNzhLL1oNaCJus_AfErkjpxv3hrVYJBkK6-W9lXMg2FZSUMclCVcx1m_SPtxaRDVpjDi72zzpY95dS82STNd8TFg3g3Z2qEg0EpVIwwWTaV9xs8VA0POr_UVHPg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/P1aLEPbqv72FFSN6hPcmXaRpHE0X3D-TjB7lKQWpW23LRJ6U5uwTxNIsi7tl4nf6DCre980VFCEdA-9VR8Vzm4zmwri15S_VPUe6tkwOlDaMOFFC0HMr59G5dwGz3G0MxqboVni0F9RS_Eqj5igrcFccmJ-xDLxYkR3hRo4C29bGTDM93gO_GFgqryQwB9L20Yr7OH_fUsaHqaXFQAbZStnG-2FjNzhLL1oNaCJus_AfErkjpxv3hrVYJBkK6-W9lXMg2FZSUMclCVcx1m_SPtxaRDVpjDi72zzpY95dS82STNd8TFg3g3Z2qEg0EpVIwwWTaV9xs8VA0POr_UVHPg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-25T05:31:01+00:00</updated>
+  <updated>2026-01-25T06:36:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">@iosmakesmehate posted a video</title>
+    <published>2026-01-25T06:28:33+00:00</published>
+    <updated>2026-01-25T06:28:33+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3705</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3705"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/TlJ4Iv6s_0kTbN5OorPV66BJ5dVtJBwliDh2Cn52URZOz3_E_kZI4Fx27o28Biw8fy_Rp8GLSQQ6mKKJI8NpYTAjyIbZe0klltpesIyB6uGm9N9syfn9yMi0pSz8JAZda0zBSJxC0tOHAwBAUcoIM5_VUBiIuBme5qT9OASfoPbC2cwxXDcv1MJIEWjKD3yq-a15vuxGHcVC5vvGs-YdlGnuHSfpTzOTLMtzNVrrjonzzlZC-YOduCBNdYVi8M023ZSHgs5xCbbs55P2aOFNMzk98HyLOpwhBi73_mZgXecR5DKKBZDA1Ankmqnmimx6gRJTPnojThqqfxKAJcv6jw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/180271bfc6.mp4?token=VjOmzeZ3py2w9qHao0hMdcIGN79E69LtMZ82GEsAwPZvj9EJOErdvQrprEaNG8KOKTmx4Vk_um4nrvdovsIAQ9SmWR6hN7GKEJdPtH_eGd3EIAkyDCtkfWAz1P5Im55SgomLmDe0SnMLq-7UmM5kbw5eO9yhhUZ-7ad-Hhn3WJnt_uAl-ahkYyqcsOmfbADg3ShLgNKhwc5FqeD_zyCjj6GYnceO9KR-z3HGggqNk2ng4tP849U-Q7FTGatC6xH5polPTu46qz3fNfCQCEZdcjxxG_oVe0PX7hRmwuZSsHM6Q_Tg0z-BxM7_Lu1FqVeT-Kr9Pjs1jJ0P-2-SM5OaZA" type="video/mp4"&gt;
+&lt;/video&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/TlJ4Iv6s_0kTbN5OorPV66BJ5dVtJBwliDh2Cn52URZOz3_E_kZI4Fx27o28Biw8fy_Rp8GLSQQ6mKKJI8NpYTAjyIbZe0klltpesIyB6uGm9N9syfn9yMi0pSz8JAZda0zBSJxC0tOHAwBAUcoIM5_VUBiIuBme5qT9OASfoPbC2cwxXDcv1MJIEWjKD3yq-a15vuxGHcVC5vvGs-YdlGnuHSfpTzOTLMtzNVrrjonzzlZC-YOduCBNdYVi8M023ZSHgs5xCbbs55P2aOFNMzk98HyLOpwhBi73_mZgXecR5DKKBZDA1Ankmqnmimx6gRJTPnojThqqfxKAJcv6jw"/>
+  </entry>
   <entry>
     <title type="html">Рецензия на книгу &amp;quot;ИИ-2041. Десять образов нашего...</title>
     <published>2026-01-24T06:35:23+00:00</published>
