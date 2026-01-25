@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-25T13:34:34+00:00</updated>
+  <updated>2026-01-25T14:22:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -174,7 +174,7 @@ GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/dpcEtD0XSchzurwu3LAeUluRVnXGyC90GMIUJSRoHFjCgIZvmx-S5OZTE_u1xn0CRuraPsLWxJWP-gaEFaXWuO0uHzPHrgRP-HghEzu65qSz2Z93hAABneGmv126fodKw7URIr1v5u_7D62xSvmnqHZx99aOSxUwb_EJDkI1tz5RdaL33OLu_gHcWfFVmRM89_jATzZtxwfC3Lhe2mt2n5Bo4wdiwR9uu_tzwITR7gPUWBgPKLUtlC8xYnYvJN85iMvODR_ct_SJkXQMiX-QX7hC6RpkXAleSV73oPl7S-gYmnA5TYqDqGBFTgFFKEtJSmNO14wAu-kIMrMH5jA5wQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/ukd57TScIWi71WYJTaRkL0kO9z0zYa5sAAFCIiC7VBQfVnleZ2ikoPSnBAuQ9o5C_e_bWjid9F0jNU8k12g9CxNpS4jdangCrMQW5gL4XQBMDOr08qHEq4AaFrYQfVarmAsyY_H5A9M9raVK5WmBO7tQP7XWiW5MG6xPMOYzq5UXEDXN0jitkEYZl7D2nxeh63Rv39YCeQ9PqoxnPvZaxlJmXByXY1PVsbP90LFnNlclwSsV3hu_Q_i_564fkiRg-XPJgGnqPHnT8EuY4k2lXBC5xPGL_h7DPmFfzEv2qBu5GFf6NYzcxnQ-lSyeN7hGrGNO7EdG30h7FhrBOv-cHg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
 Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt;&lt;br&gt;A practical guide to highlighting Swift code&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -186,7 +186,7 @@ Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR &lt;a href="https://t.co/DCQSk7jTO4" target="_blank" rel="noopener"&gt;https://t.co/DCQSk7jTO4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;&lt;img src="https://cdn4.telesco.pe/file/qraoWGMB0jTIFSl7xqzOJTihIJxSiKiRmXzo16d2zhJCJns0ar110kjeGw2kmFCBOOHPHbFnoYGMmI70kfzru-XESlkoCYQO_5dUePZcpdUHURqrkQkpDTRUhWTos9DNJNb2weh_ovmecr2gQn-Dfa-G3yZvCEXn3qGvRoqbxTjXfRWUJsyd_zLxFB7WTuw6oRW_a6Yxgi5qlq6HrCnslehMBinr_FgLhZtXTiEvbOyr_swA9S4e7genii0Pdu9VRpdhoMDUrvhMTrP5P7uO3ztr5CJDmXpnQ4yXxsaz1CupjmimYMHUVpO5G-k7bM3Xqv3TyFZlRo6vfPq0swYCxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR &lt;a href="https://t.co/DCQSk7jTO4" target="_blank" rel="noopener"&gt;https://t.co/DCQSk7jTO4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;&lt;img src="https://cdn4.telesco.pe/file/WOOaltW5OaVcK-EkJyd_Enb7UWDQgo7ixc_9ZkpPBSSLVxku6ea6abjdm3ky4GqCK7nAdSZUUZhk56fQ3_jlqLajJb0Mlv2sPHqdNXnF5bFyVmAGa1AMkijN95WKmb3Qqo0yx1hists66LLePp2yjTZTHts2OG8aqZYU9Ysg8OAT-lE5sRrBz0_nz0b-35zh8B4RqZbvLpQgqy1hVopG6LSd6ICW5pVpWWeE8JZxGzXJGW1j23NzhorYlUEXTqH-Mb-3q-2Zaj7kud07P8CDl6Ajd5mxm3rzf_675Fezz2JxKn7uNwhF8gOXC5aXmTijtfLc_Z7FSev3F046j8MYwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DCQSk7jTO4"&gt;
 K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR - Create with Swift&lt;/a&gt;&lt;br&gt;Create wireframe visionOS decisions and validate layouts before you write a single line of code.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
