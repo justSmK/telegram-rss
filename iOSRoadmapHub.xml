@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/PcP0CUkg9BIE8KDfTyc8DfCvJ9MiOWmYO4wORQ6MANuYhujdAOC8uL6roUq3UZFQBl1KHxzR30dJP7nvilLcSLawdcFKxDDKhSPjbp4QPAj4sJt94FARe2e59bOlFHJvxgjtyOBoCu7AGQ39DvUuZ8ZkEO3q1_VBXrME8brbdcm9gm76aonaTXclhoqd5Otycrh4srfNvIHkW9ac7TZfUORp2zaDYb5tdLEvqO-88cXRVUE6LFkMIiw-JSB5JjZy3QX1XgBHqqid6LU03T1e5iBKR8qjS4yCHvHXuMPYqu6P-rJgrYMezGXQHa5LlYOS41q8aXGItFGxpiE-UR9y8A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/PcP0CUkg9BIE8KDfTyc8DfCvJ9MiOWmYO4wORQ6MANuYhujdAOC8uL6roUq3UZFQBl1KHxzR30dJP7nvilLcSLawdcFKxDDKhSPjbp4QPAj4sJt94FARe2e59bOlFHJvxgjtyOBoCu7AGQ39DvUuZ8ZkEO3q1_VBXrME8brbdcm9gm76aonaTXclhoqd5Otycrh4srfNvIHkW9ac7TZfUORp2zaDYb5tdLEvqO-88cXRVUE6LFkMIiw-JSB5JjZy3QX1XgBHqqid6LU03T1e5iBKR8qjS4yCHvHXuMPYqu6P-rJgrYMezGXQHa5LlYOS41q8aXGItFGxpiE-UR9y8A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-01-25T22:23:59+00:00</updated>
+  <updated>2026-01-25T23:23:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;84% - 1&lt;/li&gt;&lt;li&gt;9% - 2&lt;/li&gt;&lt;li&gt;7% - 3&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;85% - 1&lt;/li&gt;&lt;li&gt;9% - 2&lt;/li&gt;&lt;li&gt;7% - 3&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Какой способ на проверку пустой строки...</title>
@@ -64,7 +64,7 @@ Apple поменяла планы и сделает Siri полноценным 
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;13% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;10% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;42% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;13% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;10% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;43% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
