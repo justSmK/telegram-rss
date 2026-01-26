@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/WJGzc6xWASVHjB3YPNb59LF_DydwNjOJbTVrjD0HX8R_61-uVP8r-foRW05CuHXN_EZgyKrSOB3dLVfBQGSt8THMI9jobZklVzL8RjZLkPB2s7Iuar6ZLvqKXmyF0BWU4SQlWLQ02D81Axo_ougqfz2Uan5pRtiJKnWIbiGvcDLHJguJmjTCeN9nakfHCohSf5paw4uW7gtE1UO8FY-DWgNnGoE9EEGkeJMYzQpTJV8dio-xhkODpVgf4AXixmBA5ZCGcYpl0OUSRN8N5J4wJBIXavfuTCqIHtZ99kmr4vR6T11tiwaSQ2XgASDhIoM67bzYuwGeGWM4ufRln0CukQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WJGzc6xWASVHjB3YPNb59LF_DydwNjOJbTVrjD0HX8R_61-uVP8r-foRW05CuHXN_EZgyKrSOB3dLVfBQGSt8THMI9jobZklVzL8RjZLkPB2s7Iuar6ZLvqKXmyF0BWU4SQlWLQ02D81Axo_ougqfz2Uan5pRtiJKnWIbiGvcDLHJguJmjTCeN9nakfHCohSf5paw4uW7gtE1UO8FY-DWgNnGoE9EEGkeJMYzQpTJV8dio-xhkODpVgf4AXixmBA5ZCGcYpl0OUSRN8N5J4wJBIXavfuTCqIHtZ99kmr4vR6T11tiwaSQ2XgASDhIoM67bzYuwGeGWM4ufRln0CukQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1</id>
-  <updated>2026-01-26T09:38:58+00:00</updated>
+  <updated>2026-01-26T10:31:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Barcelona shakedown is underway.&#13;
+&#13;
+Ferrari is not planning to run until Tuesday/Wednesday.</title>
+    <published>2026-01-26T09:58:04+00:00</published>
+    <updated>2026-01-26T09:58:04+00:00</updated>
+    <id>https://t.me/formula1/23490</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23490"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23490"&gt;&lt;img src="https://cdn4.telesco.pe/file/lWK0l9HgE2XI4T42L5lL5lEuDU1JEMFZH_1VHzAY8r8vosZ4sLfdbjCdyWZvrgFzKJioGJTA3YVOGlOQF15RvgqDR-Ciyc1uNkgCY9VoopNWJ_dV--atLl0PavJyiIVVSGlIa-IbCKeWNBpN6hiVeVNP8tqAac96zuSlsXc5MxhBA5heG0s80UBR51Ub5d_GuiZDuiC3gI8OmCgCXnA3d80S8AwPEGeeoK7MnaUks0asFzCjCpEvmuUy2f1fzaY0BJw4yTE1VpcXdtj8qJW6izk2dxLslp0IVJaUHM-j2xFaPbW4VSsLnm_h9u23BtR1fFy6eccVhtSSahfh-cCRpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Barcelona shakedown is underway.&lt;br/&gt;&lt;br/&gt;Ferrari is not planning to run until Tuesday/Wednesday.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Red Bull releases a look at the RB22 before the shakedown begins in Barcelona #F1</title>
     <published>2026-01-26T07:50:39+00:00</published>

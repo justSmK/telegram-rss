@@ -6,10 +6,58 @@
   <icon>https://cdn4.telesco.pe/file/BOA13KHSV3qNA1EcfMAlqqkSn8fmlrqm-UbLjMJbGAAqYMcoUo9cm00Nqb--35w_rqNztYQtpvnls5L48XejFMPW2LQYobEVkm6r4K6IYDq12PZA2eSFzm7cF6sJotm06qNZsVEX4FXNzegX5n57Rn_el7zugsYbgHYiZl7rbbn8OkSz7mcbq-ufrCIMQS3hDiD2mT5BJnl5kEm2iM6FTxmAABHvErjX-XCuBEZKePr9tvRl95mqE1OTgxDe2V5FZS5-oPIRj2E0rdRCEIEcamFjvuickY9lDajH0ApjfJEWz6K59uUzagKaw47sccrQxDJhDovkK-7ub1kd2VKbFw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BOA13KHSV3qNA1EcfMAlqqkSn8fmlrqm-UbLjMJbGAAqYMcoUo9cm00Nqb--35w_rqNztYQtpvnls5L48XejFMPW2LQYobEVkm6r4K6IYDq12PZA2eSFzm7cF6sJotm06qNZsVEX4FXNzegX5n57Rn_el7zugsYbgHYiZl7rbbn8OkSz7mcbq-ufrCIMQS3hDiD2mT5BJnl5kEm2iM6FTxmAABHvErjX-XCuBEZKePr9tvRl95mqE1OTgxDe2V5FZS5-oPIRj2E0rdRCEIEcamFjvuickY9lDajH0ApjfJEWz6K59uUzagKaw47sccrQxDJhDovkK-7ub1kd2VKbFw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@evkus</id>
-  <updated>2026-01-26T09:38:59+00:00</updated>
+  <updated>2026-01-26T10:31:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Текущая ситуация:&#13;
+&#13;
+1. Антонелли («Мерседес») — 1:22.352 (24...</title>
+    <published>2026-01-26T10:25:14+00:00</published>
+    <updated>2026-01-26T10:25:14+00:00</updated>
+    <id>https://t.me/evkus/17668</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17668"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Текущая ситуация:&lt;br/&gt;&lt;br/&gt;1. Антонелли («Мерседес») — 1:22.352 (24 круга)&lt;br/&gt;2. Колапинто («Альпин») +1.925 (15)&lt;br/&gt;3. Хаджар («Ред Булл») +2.742 (11)&lt;br/&gt;4. Бортолето («Ауди») +2.944 (22)&lt;br/&gt;5. Лоусон («Рейсинг Буллз») +3.133 (13)&lt;br/&gt;6. Окон («Хаас») +4.996 (23)&lt;br/&gt;7. Боттас («Кадиллак») +9.501 (9).&lt;br/&gt;&lt;br/&gt;Вроде ничего позорного, чтобы устраивать закрытые тесты...&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ПЕРВЫЙ КРАСНЫЙ ФЛАГ&amp;#33;&#13;
+&#13;
+&amp;quot;Альпин&amp;quot; Колапинто....</title>
+    <published>2026-01-26T10:11:59+00:00</published>
+    <updated>2026-01-26T10:11:59+00:00</updated>
+    <id>https://t.me/evkus/17667</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17667"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ПЕРВЫЙ КРАСНЫЙ ФЛАГ&amp;#33;&lt;br/&gt;&lt;br/&gt;&amp;quot;Альпин&amp;quot; Колапинто. Доминация моторов &amp;quot;Мерседес&amp;quot; под вопросом.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Какой столик у &amp;quot;Ауди&amp;quot;, вполне пикник можно...</title>
+    <published>2026-01-26T10:04:05+00:00</published>
+    <updated>2026-01-26T10:04:05+00:00</updated>
+    <id>https://t.me/evkus/17666</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17666"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/evkus/17666"&gt;&lt;img src="https://cdn4.telesco.pe/file/v2loXYyl1I2vdgzIshqrtAYUiEWgQ5id0yL8dODtowCehv-cX8mTUAEqSE086AhsPbVlxeX_Vs9Ph2EqelxoMaPOUnSJnIhdcAyvZwgwTcqh3P6p-rTuBXjgmy70MhCUqzPeBG5YP0zIqQc-rpvUX6l-ouwHgzA5t_d1yfm4XrnYES2lt-DOy0Mf2uOcyJdC5zlFe-h0sns2iT5cxCXK4C2KoIROfyAORJ270VuZ76IaW2hoMQREJ1dXupuWmRaPNdT_34UgocjndR8OnuqGeYay7mgyzXRJldIHGZcqb-h6u3MB4H2AE0TPxjfqG7af_s9QPV7iwfIemS9JC00QRQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Какой столик у &amp;quot;Ауди&amp;quot;, вполне пикник можно устроить на переднем антикрыле.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Пиксельное, но в то же время информативное фото новой...</title>
+    <published>2026-01-26T09:39:00+00:00</published>
+    <updated>2026-01-26T09:39:00+00:00</updated>
+    <id>https://t.me/evkus/17665</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17665"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/evkus/17665"&gt;&lt;img src="https://cdn4.telesco.pe/file/rj-o4G_oytbnh-pPgg5TiBB1Bbvxv3G-8R14GHIEbWgjpms0XYi3pRsx8iOXwxXogAi6fTjnb9Ouhb7AHmPNlmTjDNg6OXidic7C6s_7XN1i2t2dvzBVGgrSafkavP2c54fGPu_Nc5IuM5Gu4Ygyz1abgaUnZFcNGi7XDOPC2DOTzo2riyw-FXs-txf9vugi5k3MFN0sUcFXm2g3vrHq7TfRUH2hF9Y79kx_Qi_7Vu_QqWNL0qQg1HDqzNAiWSUjaJuVqvpv2h14dgfbD3qFYa8oIRqPfj9UttIIcIyijlH8oEJSu9vOrY5ZGcrWaehiv-p_TVGH9s3wfsCBWwyZSQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Пиксельное, но в то же время информативное фото новой &amp;quot;Ауди&amp;quot;.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Я так понимаю, болид &amp;quot;Уильямса&amp;quot; будет иметь...</title>
     <published>2026-01-26T09:13:01+00:00</published>
@@ -181,29 +229,5 @@ JBSportsXtra YouTube: yo…&lt;/blockquote&gt;</content>
       <name>Evkus Racing | Формула-1</name>
     </author>
     <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/fast_racing_f1/26147"&gt;&lt;span dir="auto"&gt;Fast Racing | F1&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17649"&gt;&lt;img src="https://cdn4.telesco.pe/file/mI8ArooyEILtQoRlasOnPSLuwIuAMZ2R7dC8d9MflLCK5NTbRgzT2lll_OS1ClX4Nb6FeFw92b89UHZzKFHe39u8Wl55oVtZQxEDZJjhHIeSvMLuowTsJRP7C_O6sciq_4x4t4jaWkUYTp1ytzISFtRNKwsXd58RqB7DnHTK1bowe5R6glOtW1agkWBURZ7yd8spHat19C-i9QZ63czQZwRE3vaaTDUd_VPB5qVLFkEq9T9FdXNM1v4n2zeK_4q1CD-QI6mDs7__5yGdOhSPVreU6bYZE9ZQwYqGMiE7t78FzTgbjXqllzUggkr8Oz8YC-EZ6hEJmeyS-RWaUOd9eg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В преддверии тестов в Барселоне введены беспрецедентные меры секретности и безопасности.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Трасса полностью закрыта для журналистов и посторонних. Доступ есть только у узкого круга необходимого персонала и нескольких фотографов от команд, которые будут единственными источниками изображений. Цель - не допустить утечки информации, особенно о возможных технических проблемах новых болидов. &lt;br/&gt;&lt;br/&gt;Безопасность усилена по всему периметру, но специальных брезентов для скрытия трассы от зрителей на холмах устанавливать не будут (этой мерой руководство трассы не обязали). &lt;br/&gt;&lt;br/&gt;Работа на трассе обеспечится стандартной для тестовой сессии командой из примерно 70 маршалов. Сообщается, что на каждом посту будет около 3 маршалов, а всего постов около 24 на протяжении всей трассы. Естественно, будут и сотрудники в медицинском центре на случай происшествий.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/fast_racing_f1" target="_blank"&gt;@fast_racing_f1&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Выбор шин командами Ф-1 на тесты в Барселоне. Даже...</title>
-    <published>2026-01-25T09:21:12+00:00</published>
-    <updated>2026-01-25T09:21:12+00:00</updated>
-    <id>https://t.me/evkus/17648</id>
-    <link rel="alternate" type="text/html" href="https://t.me/evkus/17648"/>
-    <author>
-      <name>Evkus Racing | Формула-1</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/evkus/17648"&gt;&lt;img src="https://cdn4.telesco.pe/file/O6M28iKbS9S46ecBTlFY52hF75xpGDE-X8w8sO6flZN4ruHOHr2phBIp4KTR_ukqhWek-ySbRI83pnzP71cFhGIKjkZK7VZKUMyGHKq2oId5BMktzdPRDIzId_xJ23naV3JVPOd3InZ4KLcbGGfPn4PBn5vKP92KTuVj1XUof_7wj7ckEFFe_D3ImPoZacpnyx-pfmcuhSFp36xmJ1licKutrA6RIvo1k5-muxD9g_g9vKErCV67_D2zd5cgDAJUw_lwbsSIlXd5ZvhIiMTQ3ktdw5M-zpGyQxJYzNZ91y--rv-psHS8PeV0YJfPTibGBruDNgHrVg5lEkcF3qI4TQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Выбор шин командами Ф-1 на тесты в Барселоне. Даже &amp;quot;Уильямс&amp;quot; есть...&lt;br/&gt;&lt;br/&gt;Насколько же различаются подходы &amp;quot;Мерседеса&amp;quot;, &amp;quot;Феррари&amp;quot; и &amp;quot;Ред Булл&amp;quot;. &lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Grand Prix Store — онлайн-магазин для фанатов Formula1&amp;#33; &#13;
-&#13;
-В...</title>
-    <published>2026-01-25T08:03:00+00:00</published>
-    <updated>2026-01-25T08:03:00+00:00</updated>
-    <id>https://t.me/evkus/17643</id>
-    <link rel="alternate" type="text/html" href="https://t.me/evkus/17643"/>
-    <author>
-      <name>Evkus Racing | Формула-1</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/evkus/17643?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/j1jh7OyAkzvSf4x1ukNWS2V-WWRgkoNkoAh-pXDavVxsXSC8Eh7q0A4-cDwUFxTENuDkofzBDgGouifI5aS1FxVzIWVuPlOhrQO0wU8O1NWiK-ZgjmUbWbkNd8TfZx8LTN58tvjkuTQQ2UZXK2r2sDc3FYHtVeg--TT62wHG4jwD9L1QNfQ21YpKuFX_POeKp5VmrnvVfaLvJP7TbjRa4HD-6LR1GnA2_bBB-FHyZV6E9gPyZ7K_tyKI_eYgrr-7bQOzqGkcb_Db76gYkTtQN0SX1uHebb9D52VGJsGdPz6LCBHboTpJcNkJhXUbczQ9bhRSV3rxgAevS4TE8mTnlw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17644?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/IPiifhu6UJgZrytto3vtR6aWvQS_fXaPv5-7cZNVyAEsPB5XJWwTqq2ybBQ6aKe38QDd-Yfan_igezj20qWMl0EowLSrsm8CtMx39ppRxUg0JRfM2M7M_Q8KqOOgKsu4kwm1E-67DAWBMp67L19oai17TbGqgKP3tVpcUgFJHUpYVLtXmrQHVCqJoZQXUHsX36tZFf9PaBDUQ8E1FOUikG8BBp3Ewb6Mj8RLQf-xRqcvQTiNXicfbXZQXXZNuRVhC-PmQdA35DQgwxuQ5ucx6SAuhsOhbnW7YH4NsoPdoHnSyuIadCZ8IbCycZUD_oXRotarzxNGvZW-VeiEF3R8HA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17645?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/rfx0rDcwTIx7Tr2j9fi7v_e7kb4On3UvhOKVByklm8gdEuiVMyA7ClhAmaTTTRX3D_67sAXyjs-c1VYQv23mMhOHvgTT1__0I8DFwqYmGEQh8fMgdTxFZG6RK5rTmNo5Vjn8Z7HgEIKlLDA7N-wp6Yq3LUCW6BXVbDXSD7HmjRXb7laPdkTkrTOwzMrAdDT59FRQSoeQZfYYHPmsrHjWCgFFzpD6oGK0tPNccp6PRoXAzzrBSkmCMvwHzMF9liEA0_AmG9a8S_zmgSAj9DArKQwc0FJ1y6_xadOvB-cW7GGUXg0yYl3CSuH15K9LJKqeud3PDzYTjfJHsXkwc1LWOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17646?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZHyW575QLjwuFhJtA3TAU7fJRGe5LN5UJuPLbXihg8Qa6R_H838CXJ06ubwAEU7SjGvsAo_JO3HoDPC06_xxK-W7swZSYQ_hRlemrAm9768VgQ8d3ZHPZrbFSg1McnNfS1kBaGr5ChOxf3YNoJKxJwJ8-pC6dSH9-esH-maWCl-VQEkrh0RVDTP3ViCv7NQYBNMJ7sOBCI9I0y1aKZTAXUEuNtR2FAXFJNlDArRb6OtHGjPhrA5NuoKgfTEhO9QzJbGJtM95eJprgdypRSMG873fpnCGpvXb9XG3LH9MB6_ThRPgOWv4ROfE9v1hOk81vdUQge5hzDEepTD1D3_fOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17647?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/TAGotHGd2s7h2Xa_9HDD0GOOuNHwcuDVDk8zbi8olzQfbaFNPe734CoPrKrU3tjVYnkLOPabNNx0YeDU96H9bfIuESZsV2ZSQFabSByoVpP9J5rbH7q3XMX_ALpIE94QtYPNO8KSb1u9AMdyQ1Qn83bqkNf9pn0CR5nz_UfcGCHbWesy7-xJysbaqLCAT2CNYGhkoEID0Fk0PQwKaCTN17W8-joIq6mLI022c91z7ET9c--OZVhHVHuB_CSZuoSfUF8R1fMWn6EyEs_U9mwIkcU7niCLitoyfoLIKDfUSDEck2lZHVOVujOUqhhnQcT9s3HSxBzQx4GxHdaK7Lhfew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Grand Prix Store — онлайн-магазин для фанатов Formula1&amp;#33; &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;В наличии коллекционные фигурки болидов — редкие модели, лимитированные серии и новинки сезона. Также доступны рамки с трассами Формулы-1. &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"&gt;&lt;b&gt;☑️&lt;/b&gt;&lt;/i&gt; надёжная упаковка и быстрая доставка&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Телеграм-канал: &lt;a href="https://t.me/GrandPrixStore1" target="_blank" rel="noopener"&gt;https://t.me/GrandPrixStore1&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Каталог моделей: &lt;a href="http://grandprixstore1.tilda.ws/" target="_blank" rel="noopener"&gt;http://grandprixstore1.tilda.ws/&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Доступен также самовывоз в Москве.&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
