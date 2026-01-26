@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">🥇First Place (@first_places) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/first_places"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@first_places"/>
+  <icon>https://cdn4.telesco.pe/file/OQsNYZ5pVoUhvbVUq3WPEekj2knqGlV8zNtsYlJtL8lPVl0Lv1GZQmgwNlX_kYqYjnZbmcLvFET0I9Gq5wn6wwEM70eJiyvATry0i1fO7RVATVkfiLDHFrORohDZFTgYAMA4pzPI_NNx5G4EdCZmZQPEEm8sxtwOFrYzYEugzgiS0XNyKYi0w7GBDPDkMfkGiCaJVScic9Dti4UoRZMCLNNfmRf-b3oZdyYWoTpvRri4UM5y4FOQBdk6yPJSOV_P_jPxAb9RjHzH0C7_KGXZoi6QcWCiV5m2cRDvCHVBLWI88IQsgCqdVS0v3dMn627KfoVKgqGq9eL2-JyC53JcPA.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/OQsNYZ5pVoUhvbVUq3WPEekj2knqGlV8zNtsYlJtL8lPVl0Lv1GZQmgwNlX_kYqYjnZbmcLvFET0I9Gq5wn6wwEM70eJiyvATry0i1fO7RVATVkfiLDHFrORohDZFTgYAMA4pzPI_NNx5G4EdCZmZQPEEm8sxtwOFrYzYEugzgiS0XNyKYi0w7GBDPDkMfkGiCaJVScic9Dti4UoRZMCLNNfmRf-b3oZdyYWoTpvRri4UM5y4FOQBdk6yPJSOV_P_jPxAb9RjHzH0C7_KGXZoi6QcWCiV5m2cRDvCHVBLWI88IQsgCqdVS0v3dMn627KfoVKgqGq9eL2-JyC53JcPA.jpg</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@first_places</id>
+  <updated>2026-01-26T07:46:15+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">@first_places posted a video</title>
+    <published>2026-01-26T07:14:05+00:00</published>
+    <updated>2026-01-26T07:14:05+00:00</updated>
+    <id>https://t.me/first_places/39351</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39351"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/f1kekw/8785"&gt;&lt;span dir="auto"&gt;F1 KEKW&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/CDjPuwH3OItKMOqq9xub0jPZ6I_9rzj48liW-7kyHMwLa3IPG3DMyY9KgirkucLkGva4yzd4jhhqn15KSvnZ54KnYgeMN5XJKVI2jVulnxlW3pL3E8OceQpqpcc78p2qXUJuMYpay8mNjxsYKrz7s_8rdTN2cIKskDnpoG9Fb1Y9TCdSgci5GAvaHUXRBT3zmb9mjC1OsDddp7JTvU3MSKwCr45yK701stOBasd7HGyXod5ZQdj777BMKOTGXMGaIPi-ObkDVtBNl_Fe4t8kBa6_BqwZ0U7dBDYSqrN-wUosLrXcCsOIsDPbo0C1VfLb3PeIqYMslwDC7SIFxvQRyw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/5b71547916.mp4?token=Ff_5XapS3ehVgMkVMCkkWLIiAG4WOUrWdDnrWxzTSdJQI5TZ1f2_xK_aTMGJd_A-hcqQZwZHd_7QAxEa96m7ydD7WhIg4yvvyuDGQtd7JJ2Bsnio1KYETUk8sz_6-HJvHkk2Mo9V6qy02rBhfQGeI2I2tEqR5WQaF1HSjRjtT2GzEFSJeN8liY3ITBnMbAvqWmPCHguUHEMNfM7QAxlgmv1FnO3oj5N7LrI0UFlqB3lY2p9TPEHovrN1A0RoAl15_I-0tNDa6xZXKuVWfIKFPR7_PBDMM0r5COizQU8BlH6TFSoxLsACcbP_aT2Lg4s9AEbInKZWkaca3b6EbA6eyg" type="video/mp4"&gt;
+&lt;/video&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/CDjPuwH3OItKMOqq9xub0jPZ6I_9rzj48liW-7kyHMwLa3IPG3DMyY9KgirkucLkGva4yzd4jhhqn15KSvnZ54KnYgeMN5XJKVI2jVulnxlW3pL3E8OceQpqpcc78p2qXUJuMYpay8mNjxsYKrz7s_8rdTN2cIKskDnpoG9Fb1Y9TCdSgci5GAvaHUXRBT3zmb9mjC1OsDddp7JTvU3MSKwCr45yK701stOBasd7HGyXod5ZQdj777BMKOTGXMGaIPi-ObkDVtBNl_Fe4t8kBa6_BqwZ0U7dBDYSqrN-wUosLrXcCsOIsDPbo0C1VfLb3PeIqYMslwDC7SIFxvQRyw"/>
+  </entry>
+  <entry>
+    <title type="html">А вот Aston Martin может выйти на трассу в Барселоне только в...</title>
+    <published>2026-01-25T17:30:37+00:00</published>
+    <updated>2026-01-25T17:30:37+00:00</updated>
+    <id>https://t.me/first_places/39350</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39350"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39350"&gt;&lt;img src="https://cdn4.telesco.pe/file/Td9jMFWM_jJj2C32ebvWVejxgncRjnZvrrvU2k57iZZBpWuo2_CmUDtY-7KUhH6cSeZA1DT5RsFwO-UlJyLTwu-5yI2yLe_wT992hHKHQWpGbp8r1Ztw5bd-KyIa1RUMcyZF00ctUUOY7bg7QAI7QYcmmqdxfyTGwK0Vsfzb3TsIBsboyl3hm09QO9uhCAn1RWuwNopw5CFckEg0jTFv9jgZzbOSr7EBcMd7fb8V1zDNviIlAN5WoE4Vu5al9HKxasmDSFzt2H2Ik4kDtlWCoLmlP4kGTlSvumwGOxBza1FsV69WG7dIFIS8sM4XeG8uNAB5gpO8RQonWQDq6vGsbw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А вот Aston Martin может выйти на трассу в Барселоне только в четверг, пропустив один из трех разрешенных регламентом дней тестов.&lt;br/&gt;&lt;br/&gt;Причина заключается все в тех же &lt;a href="https://t.me/first_places/39071" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;ошибках в данных моделирования&lt;/a&gt;, которые обнаружил Ньюи прошлым летом, и последующем внесении корректировок в работу аэродинамической трубы.&lt;br/&gt;&lt;br/&gt;Информация еще не окончательная. Aston Martin надеются все же успеть сделать все вовремя.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23astonmartin"&gt;#astonmartin&lt;/a&gt; &lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Mercedes рассказал о своих планах на тесты в Барселоне и...</title>
+    <published>2026-01-25T17:05:12+00:00</published>
+    <updated>2026-01-25T17:05:12+00:00</updated>
+    <id>https://t.me/first_places/39349</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39349"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39349"&gt;&lt;img src="https://cdn4.telesco.pe/file/AXg000t8g9NGmhY3eDbRf0FgWwdXKFAt--WZaXq9MRmyCxfTRAJuhMVV9O8mkR82SUyKHzHkAPBqupc7feBuI2WBDaah7vQADn2uuN0YpB9-6Ez_W724eoTAW10eW5FCNFKicu3zFd_XT8v5QKx8pT2dcHdLDJmlr1_qEUMOV4liICA0PZ_73fMlnFdQwzduYBkzwwEEK2Yo8hDTm6ye8gYRcTJ90H8kmRFkSAEjuVJp95Kn9BBNhYT-V6cwM3NndDgCOdu25GgxmG-ozllLd0Tc-jKh8Ggx_tkw-Kjd5K89nsIhy4T09FgMES5KiMSTUiIeugC3Qs14lSPSa4PgEg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Mercedes рассказал о своих планах на тесты в Барселоне и подтвердил работу на трассе уже в первый день, так как прогнозы погоды выглядят довольно благоприятными.&lt;br/&gt;&lt;br/&gt;За руль W17 в понедельник сядут сразу оба пилота - Расселл и Антонелли. Точное время сессии каждого из них не уточняется.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23mercedes"&gt;#mercedes&lt;/a&gt; &lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">В преддверии тестов в Барселоне введены...</title>
+    <published>2026-01-25T15:04:48+00:00</published>
+    <updated>2026-01-25T15:04:48+00:00</updated>
+    <id>https://t.me/first_places/39348</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39348"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/fast_racing_f1/26147"&gt;&lt;span dir="auto"&gt;Fast Racing | F1&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39348"&gt;&lt;img src="https://cdn4.telesco.pe/file/lcisAZHF0Qo1pS52Va5PMwTvpzcgt_SDwSh3pRm_5lvg-KtLWTvTxOV-ocPN3dZ2dp6rgFhBVPUntOu76jtUWrg-eY_TPfTuiSEZEFsy9EdAEuTZfqc3fHGxFuq32-ZrbLGvzLmJZsZOzJJOCoG6mXOBIxtvmXo1IcKYGWNIo9PArGcfJ3PGp3KySo2TXxZgFwLo6i086bbb1qWKoVMFvfu7KIOxeX8YyWnAeitMpX_vtmpmLYBb1ZNX5CEHUsueR3qlpe-7vnmVxT3zBWLoOLoOAsVGZvsYESbA-CtDckGMxM-cmUIwFjppPJl48QNOs0KmACakdjVw1P7ZGkz3Iw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В преддверии тестов в Барселоне введены беспрецедентные меры секретности и безопасности.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Трасса полностью закрыта для журналистов и посторонних. Доступ есть только у узкого круга необходимого персонала и нескольких фотографов от команд, которые будут единственными источниками изображений. Цель - не допустить утечки информации, особенно о возможных технических проблемах новых болидов. &lt;br/&gt;&lt;br/&gt;Безопасность усилена по всему периметру, но специальных брезентов для скрытия трассы от зрителей на холмах устанавливать не будут (этой мерой руководство трассы не обязали). &lt;br/&gt;&lt;br/&gt;Работа на трассе обеспечится стандартной для тестовой сессии командой из примерно 70 маршалов. Сообщается, что на каждом посту будет около 3 маршалов, а всего постов около 24 на протяжении всей трассы. Естественно, будут и сотрудники в медицинском центре на случай происшествий.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/fast_racing_f1" target="_blank"&gt;@fast_racing_f1&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Еще не начались первые тесты в Барселоне, а Австралия...</title>
+    <published>2026-01-25T13:52:04+00:00</published>
+    <updated>2026-01-25T13:52:04+00:00</updated>
+    <id>https://t.me/first_places/39344</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39344"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39344?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/ryLZTryta57F7jYMLglPDbeEbhNBzPddeIqoVKyMGOWcY-SgToPzWOs6NEMY5kNSRRF5I8Z5Eo6wqEyEw2jlBcEp79CBQzzbo4UpMNnSOxx4Y6BD8HahqnDAhCFmvq3ATGaGVa2QGrQd6Art9Bx5G6vJzUUfO-PzTynuqKZjaiGCbgwFGEtBEBbotc8Cm4os_LVfsgCU2W-Ot7y5osHo22c3Z-xLwCXsi997aY-CT4Z_m1-Aom9RZtF-DBbk2vLfO5mgS7wBpEr171Yj7I2TDRI6X04IP5T9OCQDlkxiF3p2op_5pJocsiAI5usWwgHngTHNbMLtnjgWXwZPncIkWw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39345?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/EqP6LiKDe90Boz38NjYTUvmD3Mlz4rEk41trWsZeQ-G2VZ0ZOox4lTPx0wdR4ZaWB2B0BkOniuvJpNVDBvQguTZbJrpifIkHKXdjy0S5CDUkywToI9sN7pCZ7XAnGOx-aKoi8pX7NeWQ_161LH4r6hpsgobtb7WGKYBKhCtGSy6zmbZFLi3SND2WQyTRfPzH9tNbym74LDCl-AlLwApfuJCmb7sbaxMCGmu-oIExp9Ar7ha714dInd7RYlCJeTcUmQyvcnmlKX-tt0l06R1JZD9GKRY5C2N9lz9Ct9aBdfQxQLTIDUJ8SrdLNq-lX3uEO3osvzuMqNCvZx6Ddd8rLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39346?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/UsKC-wLUzezujGNa4PQM68IakkOrGRqYrPNHAqS-G3ajoObkEPYbbEcT-StmRidSn4w0PLro4Uw6rDfLQcQyumfAsUworkuBC10UuMyTc3i6ldqhxpxFDvxltUwowGkwND09Bk-r8NrhgxWBYUKvYc1wiIiAl0S7TBqEKcMzWOCEGxL9j8BzLgoa5ndrih_b-lN_vqcbjjHXZFGqjH6eCRoYhgnKUuhtoFl2RUyD0TReZxD4M55NLMojN6SC9EXQe5Lc4PFm9C4WHx3jAFiVYezZBuv27zIQSgdiPkWwO31ah8w49XzJ5x5yP3lAYjAsyT9eh9etB8Pc_47gS8ybSQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39347?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/UI7V430J5Ek5jXhy9Y1J5_FevSHami3Zx59l10XknUVp9U1dALCGzvigsuZd3n4nQJfDBZJDSxZAkf3g73Lp4CNbkbF39Wf8OubaGjf0Rt4cvwM7hs3FfN-UiGpHjEwtOFHRwWc3aaSkIjaKP_eQJF-lfQtJzJ2qWIxkw6wv2ynjMD5KHnqUm6OwIqYgNB7rDjiet2Iyay3j5jgsE32YPvib0nECTt9IOq_xhnkwTSrJjM0jyqXpdxiHKmf66ic8stIygzDmdPTRFy9L5Nmq1gq0IGuHS2-ZEZg9Ty5647YWa7jQxN8uGnJVsnANt7muNwneObduz74A2mA9ZnC7fw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще не начались первые тесты в Барселоне, а Австралия уже готовится к первому Гран-при сезона &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918C.png')"&gt;&lt;b&gt;👌&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23australiangp"&gt;#australiangp&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Седрик Мишель-Грожан, бывший старший инженер по...</title>
+    <published>2026-01-25T13:00:12+00:00</published>
+    <updated>2026-01-25T13:00:12+00:00</updated>
+    <id>https://t.me/first_places/39343</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39343"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39343"&gt;&lt;img src="https://cdn4.telesco.pe/file/U2BZSMMt8Ami7K2ByxdgjoWO7zXf5zvXIgWw0deL6zbfcE7HyfaPXyF_lcCpuCanfSHwhrCEsKvR55SGDv008KvlAJbswhUfk_SM-cPzywbT8thcXhbuGNidRGy4G9sx9LkDvKxiuc4mDKCGygTf5F7uhFs1ZU6LZXK4vK7wzbJxPJQ9j7Ij_8Rtz9lRIOCPRouuVjZZr6FmhLIt0VRw1jB2zC-JZOpE1Tv_vbBbhaWsq2I-I9LmB5dBksommZES5Fn7dEJhQvibriUkSLFznp14ynWdpcpogK5e3bpoX-yXn6A2QJymC27BcvyuGXnwtcVHzQQUtCJ2bQASH_eEsw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Седрик Мишель-Грожан, бывший старший инженер по производительности в McLaren, по слухам и является тем самым человеком, который может стать новым гоночным инженером Льюиса Хэмилтона.&lt;br/&gt;&lt;br/&gt;Проблема этой ситуации - чисто в стиле Ferrari. Седрик сможет приступить к работе только с середины 2026 года, т.к. сейчас, после увольнения из McLaren, находится в обязательном полугодовом отпуске.&lt;br/&gt;&lt;br/&gt;Таким образом, что у нас получается?&lt;br/&gt;На тестах с Льюисом будет работать Карлос Санти.&lt;br/&gt;После этого первую половину сезона его инженером временно станет Лука Диелло.&lt;br/&gt;Ну а после летнего перерыва придет Мишель-Грожан.&lt;br/&gt;&lt;br/&gt;Отлично подготовились к новому сезону Льюиса, черт бы вас побрал, Ferrari.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23lewis"&gt;#lewis&lt;/a&gt; &lt;a href="?q=%23ferrari"&gt;#ferrari&lt;/a&gt; &lt;a href="?q=%23fuckferrari"&gt;#fuckferrari&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Сравнение ливреи Mercedes прошлого и наступающего...</title>
+    <published>2026-01-25T12:15:26+00:00</published>
+    <updated>2026-01-25T12:15:26+00:00</updated>
+    <id>https://t.me/first_places/39341</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39341"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39341?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/epnpgrfZxdb8uCk7rU2Zrz9b0YY4DXunqya3DXwJojLOfqncg9w2YCTZQuc93wI_esJkRRDrgsxLGzlhvlM6c7g4B08DEMy9DOwMjUSeBuvHt-Bag1kNWs3NnPquOL6qhOiwCszMHBgaJK3rTMO7bGLTFqucx-OLrYwol2nqy96LrOiRP8XlbPppiW-SewzwkntNhoLYUuqBBBv9m4DSzjXXoHwbDbO4-hMaU00w1qaCBsYfSuFjryfNa6-rPvPfwsVznb8ZSZlK8ASLlhwAnL07V-M_n9NpgnlfqtSD0goQO3-ndi1LRx97mcfSVPsynQSaVELViE2SZFC_kfVEsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39342?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/vaZRLyAz6-Q5Dedm_7GlbFEgQkqSkjQ4ChOStDPoD3BJHr86WkqgtsohhY3Es4sN4N49TAqKf_9tB-7suPq9vQ7BrBR7-jU-JqCqxsE492_Eh-fMe4lqega3OQulU4e82ln1vv_0vv6AYPno4iKzIXlmbpIUG8SVpSEwoBSfotXddc6jYgpm-Ya7I9cRVSctukJVDbzpzbpcm6rbOwTgi6MTksgSv5cYhxVw2PJEv_VcHT2MV9tQgPutRkcJi-NkzwJOjbFZQYFXPnhTQMi1CHl_puRogsnJhja1hv6GooAejJ4fR5CKXGu7mzgxqm9iNyQeI8EvazTVBjKFSxIBJA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Сравнение ливреи Mercedes прошлого и наступающего сезонов.&lt;br/&gt;&lt;br/&gt;Спереди фактически без изменений, зато вот с боку - совсем другой вид у машины. На мой вкус - безупречно.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23mercedes"&gt;#mercedes&lt;/a&gt; &lt;a href="?q=%23livery"&gt;#livery&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Тесты в Барселоне. Что будет происходить на трассе с 26...</title>
+    <published>2026-01-25T11:52:27+00:00</published>
+    <updated>2026-01-25T11:52:27+00:00</updated>
+    <id>https://t.me/first_places/39340</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39340"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Тесты в Барселоне. Что будет происходить на трассе с 26 по 30 января.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Вся предстоящая неделя с 26 по 30 января будет посвящена частным закрытым тестам Формулы 1 в Барселоне. Каждая команда получит право использовать три из пяти дней тестов по собственному выбору.&lt;br/&gt;&lt;br/&gt;Сразу три команды уже сообщили, что пропустят первый день тестов: McLaren, Ferrari и Aston Martin. Williams же полностью пропустят эту серию.&lt;br/&gt;&lt;br/&gt;Предполагается, что во время этих тестов должна быть проведена проверка всех систем автомобиля, в том числе сложной системы охлаждения, которая включает в себя масляное и водяное охлаждение, а также в нее входят система подзарядки, аккумуляторная батарея и система MGU-K – система управления энергопотреблением.&lt;br/&gt;&lt;br/&gt;В автомобили будут вмонтированы датчики расхода энергии, давления и температуры, чтобы убедиться, что все работает исправно. Для подобной базовой проверки будет достаточно двух-трех заездов по пять кругов каждый.&lt;br/&gt;&lt;br/&gt;Еще один узел, который потребует проверок – область охлаждения тормозов, т.к. эта система имеет большое влияние на распределение воздушных потоков вокруг машины. Правила в этой области с нового сезона изменились, так что над ней придется поработать. &lt;br/&gt;&lt;br/&gt;Основной акцент в любом случае будет сделан на работе силового агрегата и электронного блока управления, т.к. считается, что в дебютном сезоне именно от двигателя будет в большинстве своем зависеть успех на трассе.&lt;br/&gt;&lt;br/&gt;Проверки шасси будут посвящены уровню прижимной силы, балансу и его изменению при различных положениях передних и задних крыльев, кренам и возможным проблемам со стабильностью, которые могут повлиять на общую производительность.&lt;br/&gt;&lt;br/&gt;Очень важная задача, которая стоит перед пилотами и инженерами – обратная связь и максимальный сбор данных, которые в дальнейшем будут использованы при анализе, доработке и настройке машины.&lt;br/&gt;&lt;br/&gt;Ну и конечно, главное, чего ждут команды от первых тестов – это возможность сравнить свою машину с другими на трассе, а также пошпионить за конкурентами.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(c) The Race&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt; &lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Мишлен представили новые слики под гонки эндуранс,...</title>
+    <published>2026-01-25T09:46:33+00:00</published>
+    <updated>2026-01-25T09:46:33+00:00</updated>
+    <id>https://t.me/first_places/39338</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39338"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39338?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/i4OFpd0yRJ6vl7BMTwsepcanpJNCPWLcw5AQQNi2LjS8y60tRkMcls735JxY4LUd0xN5l8fa3WbdH2-eG1ub0nc9UzAgn4hHEef9fyNivoi9NJiraTW55cyq9N71avzSC9LXe97ns4ikfp2bUHneFjhCuTMLJ55ch1644UgzKkeSYhmQBVsw2frn9ffdB0kNMssFoo3v8o8EdhhlMc_ppxewUqEoCvLxyL80Azm9VKlmMpYsQEn43bjXM1nw4fpnYAgXnGz2ahvQ5q0KSMtmjgf45GMJ5zqMBQKgpUP2G9QUACKBqFee0RmEKmF4ilXd5qEX98jCzZOkCrrFlS6Vdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39339?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/U-wxcVYkSRFyx1Rt_6FOsDLxj-0iFvg57kKHYR9bX1uHCpPlIk9pn6rPiDk1BTI0_DmysJUxZzjKEE1aj9xV-lOtGp214UMQylM_VVHaA88EfUTgW5WwdqyJgmxOTazvIwoRPdgX-5Y5rgYiIwZhmbjQYUC8qltKY8LSozavq_quyOC8ZpZqVySC8nhedRBSj7pFMMUDOToVaxlSN6iEM8MaQaEKZBvUSVERY6WyHGiJDdlqljhScIZv_AyKNpzIephT06VAWbcxHgIWMi9rARYWyztifkXkjqQZgxAoMp_uaYFuDbLiq3ah5s9-H9wC_IrH-CNN2nDQXKeXqrYFYg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Мишлен представили новые слики под гонки эндуранс, которые опробовали в Дейтоне и привезут в Ле-Ман.&lt;br/&gt;На 50% из переработанного сырья. Обещают б&lt;b&gt;&lt;i&gt;о&lt;/i&gt;&lt;/b&gt;льшую надежность и выносливость. &lt;br/&gt;&lt;br/&gt;Очень красивый рисунок &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918C.png')"&gt;&lt;b&gt;👌&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23tyres"&gt;#tyres&lt;/a&gt; &lt;a href="?q=%23michelin"&gt;#michelin&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Чуть отличающийся прогноз от того, что предлагает...</title>
+    <published>2026-01-25T09:02:40+00:00</published>
+    <updated>2026-01-25T09:02:40+00:00</updated>
+    <id>https://t.me/first_places/39337</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39337"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39337"&gt;&lt;img src="https://cdn4.telesco.pe/file/hfT7Ei-JpCZEn28iE1SxBZLm8sh3eqKuqlu9Y3wx0J7iLWmcmItbXx2iRoS7Td677c5T6G0_MgqXY11bXVSm_JQGTzjG8ryIKGWksGUIe7C-GMfZO-Uv_Jq5cKGLAlOlbTSkEm_XPeSqis2CYy0VUI1k7hhvutCYBm-4HlBhYKeY9onsotV3N0x8yoTgTjapcCjZG9ykSyy9VikJUcpv2Tjt2IR9e0diMksficYWjUDyY1KFshcol4-iAM-XFT37Kvx30Imdsk-IXVg8vr6vkjYPNtfeONv7aomeBarKzik1ThI9clOp0Va0LBQ4lAk50CsFTD2fbznp6qfXQ_Qx3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Чуть отличающийся прогноз от того, что предлагает Accuweather, но тоже в целом неплохо.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23weather"&gt;#weather&lt;/a&gt; &lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Выбор шин у команд под стартующие завтра тесты в...</title>
+    <published>2026-01-25T08:53:45+00:00</published>
+    <updated>2026-01-25T08:53:45+00:00</updated>
+    <id>https://t.me/first_places/39336</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39336"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39336"&gt;&lt;img src="https://cdn4.telesco.pe/file/YaS1Xl1-CaQOzMGjcLDwTFY9Ouzj2Cvy7ZsoKtfVahOTswpmm3OBhpA4yRQjj_ZeoOV5HmWLXFurVlkReEuzALc17xu80rYYSTu7fTOI1SQCQKmK0Esiy09OIqmRQIcusrc4TwVGdUcesEOfXmgJhp-I5GONo4mqsIixsJWGtfvDm7Kxbgc96VH1HL2J5xiH3H3kBIKUN-Cm0eiNj6mNmGqPlca6jE_riictY23si26_ddnh7VQg2le-1iXXFJI77fHkhqrtKaI2ECNbvZj3BUG3Yoamw6z2llY-7NHsXRcinbr6SlUENtAl8KJD_r4nxhnlCXS31d7RuWxwI59ugQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Выбор шин у команд под стартующие завтра тесты в Барселоне.&lt;br/&gt;&lt;br/&gt;Williams сразу вычеркиваем. На общем фоне крайне любопытно выглядит выбор Mercedes, которые единственные отказались от составов медиум.&lt;br/&gt;Обе команды Red Bull + Haas, наоборот, отказались от харда, сделав упор на софт.&lt;br/&gt;&lt;br/&gt;Напомню, что в первый день на трассе точно не будет Aston Martin, McLaren и Ferrari.&lt;br/&gt;А прогнозы погоды обещают дожди (не сплошняком) и довольно высокие температуры (+15 +17С)&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt; &lt;a href="?q=%23tyres"&gt;#tyres&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Тем временем в Дейтоне.&#13;
+За рулем - Джеймс Каладо....</title>
+    <published>2026-01-24T21:25:08+00:00</published>
+    <updated>2026-01-24T21:25:08+00:00</updated>
+    <id>https://t.me/first_places/39335</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39335"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/s1-Ar3v2syl0xsDrEzN7I7dUi42pEQbpaiqk9Rujie8y-6b-kBiQ0DPmnK_dZ_ifwDcZ2arZFTsVtbseHfOqG7cff8d9594DZQDjIfZbsAKLqCtwLurZzCnXtOl_WLYkhXWwhYN061bTwrC5oivgd38aub0UyTU6EKDDBmkZ2v-Jof9H_aSPPassNNonYevyq9NnsDLyp2FJZ9aEWePZKIVBsypz4Y-ahlUHnAFsxRUtU1ahXoU9Y7LBZSGyMYj2IuKhDNSOwX5T92TWhq6jEGL0m6YvWuG6Zf80_yjnRHlzhfTBjgMn5sB8mSTMTWE9mdb7LHq2Cqny4BweRMmbxg" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/7cb0e59d90.mp4?token=bkAN_-eoXPerXNSyHMNBOAZY7M6oq265deAWFLk9HqGzA7uN_uegDiUlbho1829YCTa5avrn7scSekb7fuKjT8GJh4H3NMR2a2CDcRRsiNAfU_Iat1AWkif7AYDnS8th4_h2kgQLDz1fJWn41WpNHQCEFmhUaN5648IfDdtf1UUIFxxavc-1ye8Po-hvMH8hGmWkywlMOqC1jt7QkXLOgTYRWNfLOn_164qaqnWoH4Y6nI7RVZYlCKr6YIMc5IJCnGzl7lwi0ZnBpLN0-ZeW0BW0Jntq58XPMO1FFJ1fnjNpwyTJElH0Prmzwtl6_bV1b9RfxmntHD1Ns7OErVr85A" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Тем временем в Дейтоне.&lt;br/&gt;За рулем - Джеймс Каладо. Внезапное задымление на питстопе.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23imsa"&gt;#imsa&lt;/a&gt; &lt;a href="?q=%23daytona24"&gt;#daytona24&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/s1-Ar3v2syl0xsDrEzN7I7dUi42pEQbpaiqk9Rujie8y-6b-kBiQ0DPmnK_dZ_ifwDcZ2arZFTsVtbseHfOqG7cff8d9594DZQDjIfZbsAKLqCtwLurZzCnXtOl_WLYkhXWwhYN061bTwrC5oivgd38aub0UyTU6EKDDBmkZ2v-Jof9H_aSPPassNNonYevyq9NnsDLyp2FJZ9aEWePZKIVBsypz4Y-ahlUHnAFsxRUtU1ahXoU9Y7LBZSGyMYj2IuKhDNSOwX5T92TWhq6jEGL0m6YvWuG6Zf80_yjnRHlzhfTBjgMn5sB8mSTMTWE9mdb7LHq2Cqny4BweRMmbxg"/>
+  </entry>
+  <entry>
+    <title type="html">Кими Антонелли получил право пронести сегодня...</title>
+    <published>2026-01-24T18:09:36+00:00</published>
+    <updated>2026-01-24T18:09:36+00:00</updated>
+    <id>https://t.me/first_places/39334</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39334"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39334"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZUDf0AJ3unGQIVZqAm3sEhl4ffm3-WRSTBYgvwXeusvKMqZtjMiOTGQLtT6HOHVUtKHMWeRXFYDQ_Y5on_fJ6hoVB_kaIwkoDNp4Ns14Wm14kJ1Y-muVJ7qQ8Fu_E39RWwd0E_zNC4JOgqsok39OijkLbEf4M3CXNWrXTvUM1bgY-XZ7l3nh6UL86tn5MI-ox0YE394bPIgTLqA8f7y4dPdldNl_EyTSCTLUlBv2NB7GKlGYmvz-p-Ht_8fmreYifk00OAc4dmghYEoa1dvdKuaD4Gq0mJynBjJqL9_m_dUfOifvFrsRM-JiUKcjFx2ia8hjPYdoRl6z2ubGYsRG0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кими Антонелли получил право пронести сегодня олимпийский факел через Пальманову.&lt;br/&gt;&lt;br/&gt;Наш мальчик &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"&gt;&lt;b&gt;😊&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23antonelli"&gt;#antonelli&lt;/a&gt; &lt;a href="?q=%23olympic"&gt;#olympic&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Немного дождливой Барселоны&#13;
+&#13;
+#tests&#13;
+@first_places</title>
+    <published>2026-01-24T17:31:03+00:00</published>
+    <updated>2026-01-24T17:31:03+00:00</updated>
+    <id>https://t.me/first_places/39331</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39331"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/first_places/39331?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/gFE_EMbwYGhaAMkqXA7J8Pu1hlvG2GYWKRVg-0XDg82AeB8SwGAc1WCXqIIsmMUKJeF1IlAIl4TBBX3FFbVokCFmIkuc7h81jabHwx4BzdtdqmvKSZfhcFB-213HlUuF03b14o0yC9U23WYCzbgRPnkIBGwhaBhDaVPbDokC3A5wXYRKUR9Ht8xEtsP2tdwzbMbq0AFgRq_EpqW1NIFgI-CfWfHLXsYBZ7jQF-iK4J_UbSGlMo5UOK1kN7WBSREUtzMghDWYqN7wauHtNO8no5LKf0VnYCuLyJ97CuxOF6U0eBJeaBw4wabCElRmr9y3RzeIFelefQXL4wYrvkWlcA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39332?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/HsinUGkqMAwe1RPIbd5V3A_kMmEi9XRdhyS8blnVoXr3G3fdoKGMUKxyIoVknzKeoeEZf7JCrwAvD7kaBZ-5gKog33w3ssaEGAMFEhjzYFRnENf8MCt9BZzCoSGknQ3Hq5r9oHv3Ow3E6o5QhSGQcYlk2f3J3ifPH4_SWSQVAU8ataGLUpqxIxhfbRcBvs9bfYjEgb7fE4vbGqYpxb1qIedT_FCG8yCQwYWSNwII2Cbstf1TfSgm75c7p909r1QcXFp9lTQBVcCcvBxXy_sLJHhO8rguhp25spTbPV9hr6ikKKgIhYUs-BE48bDAoNbLiQgbac-4vqOK_ORUPxYFxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39333?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/B5nSX8hMFLr5MIds7VasdhQ88AMy95mmFKLNjS1b5gYUNVQxZlC9W590TEd4sMJM-eOaPljp5M_RJ8iveXsk92JiBT8C7bNcXHAYjNgelGonsWH3VeMtpPDMG5C0lReMd1yZo-kH6P-Jq_e-o-Q-vsdnZZgg5AvkALwqNu3t2S7-m5-y53l7NBGQC_X2PLuHIs8xYNDThPzkf4AGxfQBJGBTv0RHi_-F7OL59qrDe09Xr5JGNRt3w1QGIjLrtjFhNdSqgjH3vo9moBqYWDJSIrnHllwbUzr_H6EeTnDKlfzSt0aBLn33vH5hK5yr692pCjF536qNtadE5NxgoA3uXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Немного дождливой Барселоны&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

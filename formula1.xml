@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">Formula1 (@formula1) - Telegram</title>
+  <link rel="alternate" type="text/html" href="https://t.me/s/formula1"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1"/>
+  <icon>https://cdn4.telesco.pe/file/WJGzc6xWASVHjB3YPNb59LF_DydwNjOJbTVrjD0HX8R_61-uVP8r-foRW05CuHXN_EZgyKrSOB3dLVfBQGSt8THMI9jobZklVzL8RjZLkPB2s7Iuar6ZLvqKXmyF0BWU4SQlWLQ02D81Axo_ougqfz2Uan5pRtiJKnWIbiGvcDLHJguJmjTCeN9nakfHCohSf5paw4uW7gtE1UO8FY-DWgNnGoE9EEGkeJMYzQpTJV8dio-xhkODpVgf4AXixmBA5ZCGcYpl0OUSRN8N5J4wJBIXavfuTCqIHtZ99kmr4vR6T11tiwaSQ2XgASDhIoM67bzYuwGeGWM4ufRln0CukQ.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/WJGzc6xWASVHjB3YPNb59LF_DydwNjOJbTVrjD0HX8R_61-uVP8r-foRW05CuHXN_EZgyKrSOB3dLVfBQGSt8THMI9jobZklVzL8RjZLkPB2s7Iuar6ZLvqKXmyF0BWU4SQlWLQ02D81Axo_ougqfz2Uan5pRtiJKnWIbiGvcDLHJguJmjTCeN9nakfHCohSf5paw4uW7gtE1UO8FY-DWgNnGoE9EEGkeJMYzQpTJV8dio-xhkODpVgf4AXixmBA5ZCGcYpl0OUSRN8N5J4wJBIXavfuTCqIHtZ99kmr4vR6T11tiwaSQ2XgASDhIoM67bzYuwGeGWM4ufRln0CukQ.jpg</logo>
+  <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1</id>
+  <updated>2026-01-26T07:46:10+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">📸  W17</title>
+    <published>2026-01-25T16:24:06+00:00</published>
+    <updated>2026-01-25T16:24:06+00:00</updated>
+    <id>https://t.me/formula1/23486</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23486"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23486?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/gzQi1go8EsGcSb2kaB7KjMVuVZxKrG6zkATk0b4vXigQ45BjBPyEdKRULEgUspD5m3NDiO5xeFRmJzyQnpZRdKsWc5Mg8jjlwSSxUl0hjS5pLhEdHFF3I6EvdIcjzFdP6rfMZp66uR4DZQJcyKlZVGtMx-a8tybIw2MCGSLP-YNPOl2ArFqNwm04dRkBoWGdkF9aDOT65SyUjYywFNi90G1Bind_oKcZP78JP264MEAl3W4TnoLOBvQ2-GHIxbSaEXP2tUxoREAhvqy0MPDzHAnXu93TzeN27QEQPRztmpp59Y214jVeutZBMhayzvZN1TZwBTnRUJE_c6LSEVpE3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23487?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/pGbYUIH8141EdWL9dQTAwkFaqGzqj4PbvNZU7MviSKiKgFzjmzuRYUoYx8LZLk0sxel_Gs0atql-Ef4Amh9s6SC8VfLR93eEddOrF740qRiU7h70xKXJJyJeR1AJhrCSz4q8j5cbE8oOm71gYCyoIMxbvJ9Z6zKNfuMipB7umEqxW01Oi9pU1pyZZVhLWYL7lhSjXznEruFeDSIoXaD7SiawQWvRcCrv_btCcuoBV1LzNHmE7RU6frsWjfkkD-pXyoqj5luMimn-uYsRS8y1iZxWBk-X3SvEzlMAPfKhUbbSTTSr1IvAJ-Z9XcMJgfhLfpzJoglj__UMxeP7ycQBWw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23488?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/eYEoHLwUQ_idXm52E41gMEnM4kGfcdmxCZTcyfR9F8ecTrUPtpF1fsG-B4vZ-Au2pe-IkI1d8PQvPjAfAnGg9J2erjtqkprBGFYEN9hROsm40FE8yU-cxeUn0VTIZiLwEkzjpuf0ZqnkOG-6JPt_37nB45EQL38lAdQ5NgPEaozZ0B-ZD-GALjq6yEbA6HT9HUzB-6aV1qtYNgySc5toOzeLSBD8AZtpWjyI8VWHk2yzUBJuLNvyl3qbD9KYTMapzdYko3_tkwzHZDreuWZ742XgRiO96MiQEBOPdSCufSTdJfpSasP_FAeb77Sf4kVPhTzg6OqCcJ4NMu9lSOOABA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')"&gt;&lt;b&gt;📸&lt;/b&gt;&lt;/i&gt;  &lt;b&gt;&lt;i&gt;W17&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">The tyre selections for next week&amp;#39;s Barcelona shakedown&#13;
+&#13;
+Red Bull is the team bringing the...</title>
+    <published>2026-01-25T12:59:15+00:00</published>
+    <updated>2026-01-25T12:59:15+00:00</updated>
+    <id>https://t.me/formula1/23485</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23485"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23485"&gt;&lt;img src="https://cdn4.telesco.pe/file/N2QAllaGtG7u--8ZKvjxue3PXWi_URevvxyMP65qkZvsayYfx_R5tbciEUZbmEGeoKGLW7kqXxXbnoZ1PUV_aGhBIMy3RdrXL3ApjRs4pDERaDDMdNJ5wX4tzOOYh2GRKt7Fs8TNwraTmJGVtAE3agvhSR96Natd7_5DmUwtcFAbffDZs7lscyYk5Uyv_oQREgA4QazM4kxl2pZ6BBlRiSwqymJDVqis7vl_HMMk7sG_FisYKLR2siuJRlrUcdgY-jKOCLra9WCCn9ygSWK63r1GhRlHynkCvxP-C_PYW7c1dJ2ErJhYMUIokQwta8ybx_seCeoHQ-VPZuJaeY4-XQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The tyre selections for next week&amp;#39;s Barcelona shakedown&lt;br/&gt;&lt;br/&gt;Red Bull is the team bringing the most C3 tires (18), only one set of C2 tires, and ZERO sets of C1 tires.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🚨 | Ferrari have officially declared the SF-26 at 770 kg (including water, oil and the driver)...</title>
+    <published>2026-01-25T04:54:02+00:00</published>
+    <updated>2026-01-25T04:54:02+00:00</updated>
+    <id>https://t.me/formula1/23484</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23484"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23484"&gt;&lt;img src="https://cdn4.telesco.pe/file/DWFO4G-s8vLCg_yiDFg7jbMjQ8Qrz2PhBaNS1n17XgX-SZpbUpEXQB7MEXw1twN_lgrQU0_y_s8_GivPnwDSNvfiP8XFOCAzATJKHo6DozIV-_pcoSzMNAajEaD3_8Uoxtz2AaylDB9Uzlo4zWVfH1Smq74J-aftr-m5ATxZqWUcF7SIA_BROa9fS66iUQmg-qXEKVa-qoZG2OGKxH4wnYtIgR1bg0RzT8_M1-_OQ2-3eYG291MeG1R5x17qfZQPJNGFCSzw48f_BSpr0xBn4OicDcvf2n9589ezs1bdg_KgykWe92Itb1FqT8__zG6iaO5ZhfbXHdl02trjVgUWuQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"&gt;&lt;b&gt;🚨&lt;/b&gt;&lt;/i&gt; | Ferrari have officially declared the SF-26 at 770 kg (including water, oil and the driver) — just 2 kg above the 768 kg minimum.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Alpine sacrificed 2025 to shine in 2026 and now armed with Mercedes power units Flavio Briatore’s...</title>
+    <published>2026-01-24T20:37:01+00:00</published>
+    <updated>2026-01-24T20:37:01+00:00</updated>
+    <id>https://t.me/formula1/23483</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23483"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23483"&gt;&lt;img src="https://cdn4.telesco.pe/file/ezMLp4B8fY25ro08ysw1Lb-iOS7a-xWK2SEfojHkOsyKq4oxjqAFrpqeW5SChTipWmv-rKBE8zu-cdmewgtTcKVoArH5Gqo-59IvOeTS5yjWQ4TnHfJMWS-krX2prwbBa0e3Q2kzq3IwsN4AlJAXFt7bDvSPOwTik9XfS84dRsw9qHQwW_CFY5wGci5mSI5bOEvGBe8OSUonI9ARHbZV3xo74GPE5dL7yf92Lsdb7Hyt3QFZEXH-5cncu-F8RHChIpJNWJxVTT79bfsasWXidwLfb7ctkrfVB78x3Dn6S0yEwbv45v6ugq5WLiEmVaFxlrFDzSYjnlGm8ExPq6iL_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Alpine sacrificed 2025 to shine in 2026 and now armed with Mercedes power units Flavio Briatore’s team has nowhere to hide – and that&amp;#39;s exactly how the F1 squad likes it&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ferrari are taking the 2016 trend seriously...</title>
+    <published>2026-01-24T18:18:18+00:00</published>
+    <updated>2026-01-24T18:18:18+00:00</updated>
+    <id>https://t.me/formula1/23481</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23481"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23481?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Wcf8tTNgtzlOymhJXku1i8i3XoX0DpPLoQuUt8f5UeeOcubtEYZCGQpHP7K3xV25efJpo5DqFPmf2eN6Qzj5wkKi6l2W6QR14GAZLh12FpT1cdUwov5VMMEA7cJMih9VMQJjnQHpI9yR7fvNuEBaOIzZDlD7rTBBJdzGnxVFTWkkKNtHuYrUtV1Q5dCP2ZM_oEV2cCLEfZqLKxBIk6RoUlTl66QHGLYKqGlWvqW25sfL7IrLigh4-qHyI0iNJoZbXf3YBVzQAJxr0E0HzROfUg7SX2FqcOd3nGzXrGqWbDt0lZ1sx143TzFIfvGrF7iR4q3ENyX3idzlA6_pG10PWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23482?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/fWxa-r_n6wKI4_tZzuHkMekBFo3jZq7Jh7iiu3caGa4VJXS_XK96vwXPQzUoK_xitvZQllmlUiBPLfQRl6n6g0b4W2BP7ZFTlY1A98ARxmCqfT6MqaikmWmZaCUJ-phbRIkEXyOKnJT1_3nOpaz8iYXq9mqpJy9G-pnMENNE_uvJoBTN18P9Hk7rnDir0wUgP-0sF_YVNx3J4Os4NGrZWlQO0JdSgyslNhWnyEY4A85YE8NvwJJUENAW_GdBv5wBnPZS50SuUoSXaHZmy61o62VYed9jDw9uhOMn8dFZQe3WGNMTcG_LlCe39mANy0YqCdtvMAyo18pzo-VCRsI1Yg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ferrari are taking the 2016 trend seriously...&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">For the fans ❤️&#13;
+&#13;
+Lewis and Charles showing their appreciation for the Ferrari fans at Fiorano...</title>
+    <published>2026-01-24T13:25:47+00:00</published>
+    <updated>2026-01-24T13:25:47+00:00</updated>
+    <id>https://t.me/formula1/23479</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23479"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23479?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y9q32hDHd_nnLCLuo8xd3LuU1Kro5T91ZImK-6GD2lWBABGzSs6TAqn9ZhMKDInmvqlfZrbds4saPL4arF6TjnXvJYWimXujRGNoZ9ij1oQRlB7sGRGja8L2tvXm3gz7N_tuulPFncW3g04MbQK9lwYs0mPDmWEBZxm-zj4I7tiQht8awZTYaTavUqDdsVpXZ4fVxwzLzHKRZWL5mIXLckCQ6u2ckr68bwrSbVgTv27ZjsCDILGKw3UcvlsDSnkDFGOtU_0mrKSg8hBwo_qCTzX4A70XCN4hCtizHSBYfthw4LyMoEGVcRMdTEDXisZlrD4jCOkbGCZEyOqPZh2dhA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23480?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/fbFuGBEGFYG5zWxZv0180ccuJzvjuUb9GsLdGkqcPyi8E-7DwkTCCpcJlLOLmJ6coV4-A0gGIdJNwzsM88JWW3Abv6qr7kpjpsAwRVm4Nbcbk4dGSa8rZOdqnEr-e3TGrgXjB11RE8729vrwAfVpE4n_twrLT-abCqIZysTnuVBYWRiREcFx8OM0Uktuwwxz4u2lLv_xCNKYvHYND2DkLrpyeUqMp1or4SVvRA8u5VJWwEQ5OkZz8YvFwCkjkIKQja9pf9MDEArY819vicGtEzmtwGhDz7vtR5IQrQcgOq6jatDwhi6oCKa0GCXRgNu9LdOb3vikBwZmJ-NuhCns7g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;For the fans &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"&gt;&lt;b&gt;❤️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Lewis and Charles showing their appreciation for the Ferrari fans at Fiorano &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918B.png')"&gt;&lt;b&gt;👋&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23F1"&gt;#F1&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">New year, new Lewis 💪</title>
+    <published>2026-01-24T06:57:16+00:00</published>
+    <updated>2026-01-24T06:57:16+00:00</updated>
+    <id>https://t.me/formula1/23478</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23478"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/oG0Y4t_OkbLIlEOZagtDY1-jmkbwAqAy0mza-s-FjsF0SL8fUXzmoySGFwl7FsbBOcOUMYPIMSZVocJyHcH8cIl1muakASDVPoGIisOypQhM7clL4q43jfRZS_lBzoYyird6aMH0D6QKv6236ppids3O-HF7W8iCCpi60AkaclPHfzQHs1TDSfZXIKjhkFVBASKkpCRwhM9TH45GiXm4Oqyufl3YbzqVpAJtWUo5AzUGyXKindDaZVutjue-zJHMMfe5_5hKWeio_dTr8wxAERTHKxMztwcN7vxbZd3fjhVh87J8u8K7HV8HB1SdCCwKMrujjlHleqCf_FYq684zLA" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/059597932b.mp4?token=eXGIS7cXN_sdWSN3NPue-yNaYNZnY9uWDdZ7LCPEWzQVDcAKBq9kv23xyCjps6PM01swAszfAVYo6L_KLgAW4n8-ZJMvNkcZbtZj7hHVo9FVJgLSldfSM3CbKYAb_nFRGesQ7Sx1mM2nmoRNyUd-qUa1Hx5Z19Ce5sgo2A5vl66BOZBPIXL9hA9qSK5y1pkMb5-c7wPFCDMiJ6KIf1ItHk0QqPlXtFXKz_zhfXc1hqJOqqfBCbxTQ3jumaL_AWha9Wr3jowFXOCyVRiI8AYDt41HrFHiF7do7pxClenxK-5qNkljwJh2i3inyQ2W9rJtWxz31XRL0wxXzGSNrwdexQ" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New year, new Lewis &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AA.png')"&gt;&lt;b&gt;💪&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/oG0Y4t_OkbLIlEOZagtDY1-jmkbwAqAy0mza-s-FjsF0SL8fUXzmoySGFwl7FsbBOcOUMYPIMSZVocJyHcH8cIl1muakASDVPoGIisOypQhM7clL4q43jfRZS_lBzoYyird6aMH0D6QKv6236ppids3O-HF7W8iCCpi60AkaclPHfzQHs1TDSfZXIKjhkFVBASKkpCRwhM9TH45GiXm4Oqyufl3YbzqVpAJtWUo5AzUGyXKindDaZVutjue-zJHMMfe5_5hKWeio_dTr8wxAERTHKxMztwcN7vxbZd3fjhVh87J8u8K7HV8HB1SdCCwKMrujjlHleqCf_FYq684zLA"/>
+  </entry>
+  <entry>
+    <title type="html">Coming to Maranello 😅🇮🇹</title>
+    <published>2026-01-23T18:13:02+00:00</published>
+    <updated>2026-01-23T18:13:02+00:00</updated>
+    <id>https://t.me/formula1/23477</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23477"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/S1DcYzv2hpGM8lVKODsW9y3k5XF0s82mwn7PLHrg3QmrH1XWDvGM05So5tyRiBpAa6rNhmUXyqiySaDHqJiX7OgcD2TxqobVChag8jeI2-7xcOn8pg1UHvsiQNZrRiHowJuUiJdXA3SqdpKuTBbKFmlIi2hq19LYyrVMdHhMhaLiyS1PXmLSmSXwU2mlbwqiGdktP8QCTfoTPq7pefY2Z2xCLuKjF60XyP4f3xIzUNZETCFQucbI7n2sEn7qlD51jg8AlrHHc7Px15x8pEizwdPbXQCuCufDcVe84741fa8qzNq2CPlxK6q0CqQJ970_cLv3f-lrC8pIWTpArGREXA" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/05e8fb911f.mp4?token=pi9TYZSdljcPsQWH4VpelVoHVir40ydrkAOLtSkODGDDpBDQL52ld6ZdYCQoiQfTz9ZAxdsQpoQy5V5aobqrsmP1u1CfyVFPNe4DDa9MrWywDtFw7FBftlPEbzLwDRa38v7AS-rs2zbq5-uleoJbZ9TzTBMonFLLu0zZpUVs0zekkWKjOegtq5UndlFBAsI-J-VO2b0EmLff1ew0sjlsgwKmD6F1R_EWt3yFgQ0WLo1Wtej_6ZoG9QOCy1fagi0PiCDpXp8o-NqprqyoogUCgqmH3DBZup9EmIq3Mwa-o1TcC_ujP4SH3JcKvzi2x80QHnroh-R1-T9Mvbnww32_EjzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Coming to Maranello &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9885.png')"&gt;&lt;b&gt;😅&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B9.png')"&gt;&lt;b&gt;🇮🇹&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/S1DcYzv2hpGM8lVKODsW9y3k5XF0s82mwn7PLHrg3QmrH1XWDvGM05So5tyRiBpAa6rNhmUXyqiySaDHqJiX7OgcD2TxqobVChag8jeI2-7xcOn8pg1UHvsiQNZrRiHowJuUiJdXA3SqdpKuTBbKFmlIi2hq19LYyrVMdHhMhaLiyS1PXmLSmSXwU2mlbwqiGdktP8QCTfoTPq7pefY2Z2xCLuKjF60XyP4f3xIzUNZETCFQucbI7n2sEn7qlD51jg8AlrHHc7Px15x8pEizwdPbXQCuCufDcVe84741fa8qzNq2CPlxK6q0CqQJ970_cLv3f-lrC8pIWTpArGREXA"/>
+  </entry>
+  <entry>
+    <title type="html">This is the first time we’ve seen the active aero with these regs as Lewis Hamilton’s rear wing...</title>
+    <published>2026-01-23T17:07:27+00:00</published>
+    <updated>2026-01-23T17:07:27+00:00</updated>
+    <id>https://t.me/formula1/23476</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23476"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/HLSUKbWh3w6TuF6EOr4ZLU09uDAwTN_nnuyMoPTPJrdk0bLF-rawBG3PRuLj0NHUy2mxJ_pns7TGp52VuY7BtToomIZR9NqYytkCAnQsx46VmQ8vi8ekzW7Am_Pl_VwHqztyPjHMDuXVVV33eAByMGI7teLIzgRDQj8L1vmKN0DlgjB46xswJHtYT6L8VuzLDWG-SjZNfOzB0o4ZegX0ggXZ1b5txOxvpgkoAS5KfI49AXyPnNyarjlBdJhPyDqy5JKF5i-TfeEwfZH3lDnCrajfs-pnlqEVYOKMeO_HA7qzgz6RBf94o5T2qaGSXwv-xlra89UmmNEnwAdQRjT0dw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/985d1f2a8a.mp4?token=YglnP8B6od8wDCpNo3VuOzesg4EkAkyIwvg8r2E1FDMLOiUP899ZLeiRxAwhUqfnFlGM71lCf_aSchc4ZfKUTXaBLecIDacOtrLVr1V1_WCdBgLbMU6yGNaxPJvH4BumuMKsvnbqU0rr13f_hnNuj0quQ8XroNPAiOc7GJmki6thT5LeYlaZ-JPF_YLygSQ3WJPU9m8E98Sb-5eaIglZ0DiD3yUjEp_hQ_s59vMw6k0a7tmzZSNDtJ7nW_2qrhXGUN25MD8qtmQ-9nJGu9bMkcSbSKZp3Fb7dkEOhA9Y_-e00Vheukt_lefOnvRuqJpXMjcl9kdj43ikxsVlNSmGYw" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;This is the first time we’ve seen the active aero with these regs as Lewis Hamilton’s rear wing opens on the SF-26 as he comes down the straight during their filming session today.&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/HLSUKbWh3w6TuF6EOr4ZLU09uDAwTN_nnuyMoPTPJrdk0bLF-rawBG3PRuLj0NHUy2mxJ_pns7TGp52VuY7BtToomIZR9NqYytkCAnQsx46VmQ8vi8ekzW7Am_Pl_VwHqztyPjHMDuXVVV33eAByMGI7teLIzgRDQj8L1vmKN0DlgjB46xswJHtYT6L8VuzLDWG-SjZNfOzB0o4ZegX0ggXZ1b5txOxvpgkoAS5KfI49AXyPnNyarjlBdJhPyDqy5JKF5i-TfeEwfZH3lDnCrajfs-pnlqEVYOKMeO_HA7qzgz6RBf94o5T2qaGSXwv-xlra89UmmNEnwAdQRjT0dw"/>
+  </entry>
+  <entry>
+    <title type="html">Carlo Santi has been announced as replacement for Riccardo Adami as Race engineer for Lewis Hamilton...</title>
+    <published>2026-01-23T16:59:13+00:00</published>
+    <updated>2026-01-23T16:59:13+00:00</updated>
+    <id>https://t.me/formula1/23475</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23475"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23475"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZE4NDH4uUMeQ_L6N6vWJuixcFtzuy_fXWcs-3WjR_XxXfTxU-yZGQHm7WLQU7Q7NoejXjz0Lixf-DO1ym3ebdukMNx4y-aL7F6lhsTwUIkUYx7CB_e3jarBvYcYBryVbV0ek02lI3gPkePdx673KevqmZKBJcBuuJvGebwJ1aVsle-sxbi2R6j-ucnn2F3PR9AykLJc-hvOvCDnLC-F0BfGggEiNXppqU1_GiX8mE6o_cYoPi8S5pBA5jDoSZUJsan4PfNscOXpFvScCpKxFKaWA0fkt-m9TQ7kOTeJD8_RYaqHZkssHE7aB0MpBoP7hrkiXWXsra8774X7YCzK6XA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Carlo Santi has been announced as replacement for Riccardo Adami as Race engineer for Lewis Hamilton at Ferrari&amp;#33;&lt;br/&gt;&lt;br/&gt;This will be on interim basis.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🚨 Williams will NOT participate in next week’s shakedown test in Barcelona following delays in...</title>
+    <published>2026-01-23T14:47:44+00:00</published>
+    <updated>2026-01-23T14:47:44+00:00</updated>
+    <id>https://t.me/formula1/23473</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23473"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23473?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/R0AT82kyUQ7UalPfCF1ie39eWlvFZTvGEvypdYg-WJINjU2EXC5jCGZ-yax-l09oHnUiwm1IvPBVVe91v8KinLw-6920b4q1P1Nv9vhMlTSzeevpW3Au8xqfJf5cay9mbKfdVGrrpKL05KOOjXzZNRgnPVqEqc1eoKlBQvqaWzgctrJTHpGtEi86V9ZRFLL7rlYwmemLez-x7zxvcZHvMXnOU4NQpVVg4dd-FrBdiYDcEhVkatHHvJ9-0-yq8SS4pNvtebtUhpxf6qb3MEC2BF3jRfa7U0cEegKGr0fw6skKrW31qZVAdVxgDDoef9NACauIIGk6wUwiZRXioA2qNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23474?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/TgqFWhEo9imI-sODL7fwJrmkOScH6bHc2Ds2F9FN2LL0DtCKA-m3V9b4o5WmyZGFEVV2F4kDOxbCspdvAzh0BAysS8zgSyU7Sr2vn1fx1u8mjf-VoPPrCILb8TBIjCWhOUpx1MLHtZvDkITtDK4NzL4ZDyKyARao-8LBmie5sLj_TR7Ila3wcMqE3L40eaOfH0cbyg123Di4-Zr0oUThRMijTeCFEKx_61_VvY70d7O6mQ3IvceTV1bNqLZyOJ_8FZcch-3Aj3_7W4eQ0VsdgoaNPMwhahGwTthW6a-7ZY3OhwFc1yXANxyg78l1d3YjRdiMZFvCwmL1WYIlsj-AbQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"&gt;&lt;b&gt;🚨&lt;/b&gt;&lt;/i&gt; Williams will NOT participate in next week’s shakedown test in Barcelona following delays in the FW48 programme.&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">📸</title>
+    <published>2026-01-23T14:46:47+00:00</published>
+    <updated>2026-01-23T14:46:47+00:00</updated>
+    <id>https://t.me/formula1/23468</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23468"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/formula1/23468?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/vB1gFORwx4spKEWecJatM5M0dNTfL9TA1zWnu-uw5p8WV8B4cRLjWcA_YgSIkbhay3WggZQv0-DyvQwRUwiVdUijzuSGEr4uJYESsYdX-8EpTWM6rv6KaUuZEb893nTUAkaoKe6w1oIjrCz9i0zmvXxyTzv8cakGWcIqa7wfgxJP6ySvnE6hdjLxQdAACcPS52JpGjZEWTfHrju7s-JMxQVlcAEjGsdkpsd6UwgkjwtHJNTl9ZFQ1AUP1SETm_roqKBDUBAozeMZSJ0KXK1cIi8EtjDp6vSJuxlXqXVWaxU0pnHF28XO9iNn1PX0eh_p0myWteWxyTuC0CHlG01R_Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23469?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/mcVYdpgrDpUFQjm4xKHPGTmz8FI2TgiMH0svp4WUd-zhNmpr2ljgi-igHTWrddNWnoIXYMn3TkPsA8n1qwtF_8ugYQ9illeFBszi93Jt1hcdg1sHzkN2eMuq8cBygl1Y_TNRK_CQhCx0vgZGXrP1ShXNEDaYX62iNZpXfk40PANtNrT3BCWWyca7xFdh10gE9K_XvIa-hqe7k0gfuF4LbqSgFcPu7TnYCkdKAYRXsUhZto_bN8ON2PgOl66NQoEODm1pjcNVTuZ6tK5k0hK22ur4CO0YeyPl9sYrezz91Ywds7o7Onwckw1fT_wlE2xYCduQHrQb5h7SLHiWqhhBag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23470?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/QRp1jXFFxzi_WSl6VDMk_Z0srOeG3-o2Zz19Uat89omdcrBxji6HRyCfIRcjkD9Bdm_2c8nOLq11MVqh2mmrUNtBU78icSdDdxRi4Rq_2LiUJ-8Dd9y8xworlMcdy1NRq6Piqw5qOz85JUoXtzmToZCsZW0MLs5Lx4usiQ3N4Zkd69MoPzaen6woTit5XxPoU-uD_nEDm3uZsnHwbx0ZfGMUyb4w3B_AcKyBpxoAYuaCEryGaP26zId-W9dSuh7PN1xby_RFKDoVOJm5JUQ1VVVEnUZZRzsJyjJKKzCgWvQCy9Sms95bb3QB-MnJjsb3BdCySa656DzvnfLKXUAVnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23471?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/cLlvVVvGUb09UBQd9qn9JFog-ZFDkRl79QiRvsk3OgihtReRo43GhTFqRid-lhSbU0-1z7y40GD3s1C1FUdU0KKJS7O622W3oDP1M5L1yinO2gbxxjiUiP_WnmWcXVcX_Md7O6PFmn5jXgyVUUcSvyvRq5q8QgOA6HnrJRhJ53tkhGx-LCv0Zg6o-vId1J61RZ70oxXwE6ubS_WegO3jkUhlletlMnb0rE71V9eWFrg3Kvz2r8D6nuE0JbCG3R4tn7wNzbzFSiLKvKjYal5rf3tTxjPPydVRXZ3_uxKFAbkabtfNAC6dgF2JcaOqfGxRt90RNVt34Yv64DpQgI79iA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23472?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/ifk8eVgC6y3bkLmzMW4718vswYIHs0IRyfAy79W34fnxhdHUoeMseup80PMzJNhbl67-smxwho3T4Quej2s-sIt549hV-QQsIGykfaBUFAaBeTnJbCXmcwrufFk6CjeaFzuwg5s4CHpMgDeTp7i6DLfxlFjRnTdAPKjgNwh08VYUeMQNs6O9Cb4uJgnvzN1Qfpu4x40SM1zGclAF0cxBkCGSxDQLhVDVb2OtG-oH0YXzRmzsavuWjJxyH38imQEr1iEP4qZtU4BjwX0cZxape9bCJ1boe2i7A2Censp6IGmslseuVI8lzeyntT4ofFOK6qA7BU1wRm7XHVpYn6FU5A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')"&gt;&lt;b&gt;📸&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>
