@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/JmQC_10Zz2IlnkWxStDP1IW5WVsvHdHTQR6RDZjVYe1d7imnQwwsegFJrgFyZAk5yNrPfoPXvzx2VKiUh8-42Lnbm5LdoadX8yg0wOuoirF0KRMqL9Qy3Tgl7Dfg7Z1iP-kPwicJKpyimrI73kP7A4XG3TUKFiZQVGsAq_hwGU_Qfj8whBchvYEX-X0DivW-_IJ1KAA3ooaDTwC451nGEhUBg6c3xBWBB_r_TjeRLLsIPSp6rGwJ9FSAvvUxfZUNp6PfoUvDMgMbm5UB9MBd5adP_siMZdnMSBPOXQdlwIDpGyB9plW1ygadWXj0pbDJlTPc-n6zQuuE7ypajNy4Sw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JmQC_10Zz2IlnkWxStDP1IW5WVsvHdHTQR6RDZjVYe1d7imnQwwsegFJrgFyZAk5yNrPfoPXvzx2VKiUh8-42Lnbm5LdoadX8yg0wOuoirF0KRMqL9Qy3Tgl7Dfg7Z1iP-kPwicJKpyimrI73kP7A4XG3TUKFiZQVGsAq_hwGU_Qfj8whBchvYEX-X0DivW-_IJ1KAA3ooaDTwC451nGEhUBg6c3xBWBB_r_TjeRLLsIPSp6rGwJ9FSAvvUxfZUNp6PfoUvDMgMbm5UB9MBd5adP_siMZdnMSBPOXQdlwIDpGyB9plW1ygadWXj0pbDJlTPc-n6zQuuE7ypajNy4Sw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@f1button</id>
-  <updated>2026-01-26T17:33:58+00:00</updated>
+  <updated>2026-01-26T18:41:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -33,7 +33,7 @@
     <author>
       <name>F1 from Elmir Valeev</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6552"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y-lVb7ay6yYmqvP6B0_AlTe1kJNtph-FiJHBDlhla9f8sdsYNkObmVN-poxg9hc-65n7d90nImvZh04eYQRhw-NUvd7Pk75IeREAY6-dDZycrBA6Y0keo9BpeAEgisxd0_uM7MsiyuHZFNSjfwaDhlyR0YW_KiGd-JCyiS9nkNoR5Qmtf8yHSDsm9MtS5lnx82nNqekPnHzPLOAb2Bt5vWi1GXr8Rt4u6VsScnz46JYtxOEtc-ixgfuB6urnxEHn_Mn6JLbR-OiHSL4C2uzRXRKWwnxn3J2TF2tQn56cMpp7dheKuvIoF4VNLHaWvsm6qGdmIvkijoRPhym4ZIm6lw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Говорят, Эстебан Окон сегодня проехал 150 (&amp;#33;) кругов. Далее по пробегу Mercedes, за ними следуют Red Bull и Racing Bulls.&lt;br/&gt;&lt;br/&gt;Update: даже 154 круга. А Аджар — 107.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/f1button/6552"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y-lVb7ay6yYmqvP6B0_AlTe1kJNtph-FiJHBDlhla9f8sdsYNkObmVN-poxg9hc-65n7d90nImvZh04eYQRhw-NUvd7Pk75IeREAY6-dDZycrBA6Y0keo9BpeAEgisxd0_uM7MsiyuHZFNSjfwaDhlyR0YW_KiGd-JCyiS9nkNoR5Qmtf8yHSDsm9MtS5lnx82nNqekPnHzPLOAb2Bt5vWi1GXr8Rt4u6VsScnz46JYtxOEtc-ixgfuB6urnxEHn_Mn6JLbR-OiHSL4C2uzRXRKWwnxn3J2TF2tQn56cMpp7dheKuvIoF4VNLHaWvsm6qGdmIvkijoRPhym4ZIm6lw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Говорят, Эстебан Окон сегодня проехал 150 (&amp;#33;) кругов. Далее по пробегу Mercedes, за ними следуют Red Bull и Racing Bulls.&lt;br/&gt;&lt;br/&gt;Update: даже 154 круга. А Аджар — 107.&lt;br/&gt;&lt;br/&gt;Update 2: добавил количество кругов в табличку&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Итоги дня с точки зрения скорости.&#13;
@@ -46,7 +46,7 @@ Update: обновил...</title>
     <author>
       <name>F1 from Elmir Valeev</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6551"&gt;&lt;img src="https://cdn4.telesco.pe/file/oXFUpdw9QXIXLgpGqYUVCUlN-0Heb4Ivwa0J9kISISyqHDXRUOLdmpy-T5tCIz19QqfdGVqKhhH2uSWV90JzNQBwIVnpNp9dxav00B4jtBQ3SCN6OEnoH97MDsb2skTTscxL4EsR8wjIwgYKeCNzC-MVycpH478GZO1zGIYeXVNi72aGxTSlf8i8uFdQfkizVjZTVZXduk3F5ALiEBfukaD3nuJaNMqaL8_jwE58oY4dj1DD3Ot5a7N3FusizpTnYofbtm8UTvhYRq1VQKyKuRR7DPEFN_A6XEfQNojQtFXJI3F2aveQ46pvj0NPMhmZ_TGc_DDlu4FtKKY9gi7wXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итоги дня с точки зрения скорости.&lt;br/&gt;&lt;br/&gt;Update: обновил табличку&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/f1button/6551"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZYlP0XuB5OEr6LgjkWQe8mM02erHUL9rNe8Pk-f046mZIOWGst3kZksgeU0RD2VOdVWY05TNldDhHpHs5lTibGIB_mSyO5NP53k2lfuHLIF3ZGGeDdeZKJAFu_zyg52AKsgsRyV1EB0uLi_d5lJRVHaj5W8cKmIO3JB72MYSFlW7jC6ySpvnyk5K66jTxoy0jXfI7goGHVhcd9iRjcx_NlW09Ph5foheROSGHEkSOICxqh1GIuj3DDOpkPxEJx6jjcwejZKeFCquwUwclnckMLCjM9zuXt9n95pYKkXhwqWQ1s2A0BOhLee_phEASlBQCsLtxI5h8zbkC0hLIun8Qg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итоги дня с точки зрения скорости.&lt;br/&gt;&lt;br/&gt;Update: обновил табличку, добавил круги&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Поток информации с трассы почти иссяк, так как...</title>
