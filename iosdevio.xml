@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/s1RzFsGlvIW5wAt-qQRJxRx3iGZzY4YZBSTYpDkXX1z_BCmmTWDEbmqpljvPUU3bO37M5W6lmEzafQF4ATWeSMR-rTvfktenjQcA_yhWtjjoq0M4ncMsHU4s0fNrSiCyGGChTPVnuK-rVpsTzmKT2RwLcxTBH9xsdCF1NuMSY4RUzf7N-tHuNsdoVkqybfQL9IKvJ5FqILPD6kczy15LpyTFrvhQuZnHIr0wg7X_Tt-RGiK_PkAyl16IlI9u-a2LXDfk9rplj8mxne66_X0zBhaKquzIg_asgQ-WrRi29JI89GnEvgodQdTiQdKpB2SVp7mSEl3qZnCvHpYJFy8jTA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/s1RzFsGlvIW5wAt-qQRJxRx3iGZzY4YZBSTYpDkXX1z_BCmmTWDEbmqpljvPUU3bO37M5W6lmEzafQF4ATWeSMR-rTvfktenjQcA_yhWtjjoq0M4ncMsHU4s0fNrSiCyGGChTPVnuK-rVpsTzmKT2RwLcxTBH9xsdCF1NuMSY4RUzf7N-tHuNsdoVkqybfQL9IKvJ5FqILPD6kczy15LpyTFrvhQuZnHIr0wg7X_Tt-RGiK_PkAyl16IlI9u-a2LXDfk9rplj8mxne66_X0zBhaKquzIg_asgQ-WrRi29JI89GnEvgodQdTiQdKpB2SVp7mSEl3qZnCvHpYJFy8jTA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-26T22:26:27+00:00</updated>
+  <updated>2026-01-26T23:26:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -177,7 +177,7 @@ Universal Links At Scale: The Challenges Nobody Talks About - Alberto De Bortoli
       <name>iOS dev</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/"&gt;&lt;img src="https://cdn4.telesco.pe/file/mGMPzvkiJaOUK81eeDhfKHT4ZfDeiwqAdnjiyplkooXyDWcOgQ1uz4a-7BSKIBkOMF4s73L2Kr8ZMX9daAxTEr1V9FJMkDo7mdeeNYHx7XblX0ZNZrlJgrOp8lYHupwMvIwhWuaT42lpWDcCzYjhiRI13hBm84dqPYhQf5d70LQv3vvGzeV8qt9pvmL2p-sJkVwRlvLuUxkutypgARHl3rHQ7aN9VL-Oy1V2nO7Laevk-OeElfojIW82nl21jb954XDgwNpJWa9TDlsjqz2G1l0YQTwWJeMAvhkahinyZC-Orv4yN7P2v_dWDtyoYml70M52DDhfvMUbnwslOmQiGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/"&gt;
-Agent Skills explained: Replacing AGENTS.md with reusable AI knowledge - SwiftLee&lt;/a&gt;&lt;br&gt;Agent Skills solves a common problem I have with AGENTS.md files across my projects. Every project that I’m working on has its own AGENTS file. Whenever I encounter an invalid AI output, I try to update my AGENTS file to prevent it from happening again. This…&lt;/blockquote&gt;</content>
+Agent Skills explained: Replacing AGENTS.md with reusable AI knowledge - SwiftLee&lt;/a&gt;&lt;br&gt;Discover how Agent Skills replace duplicated AGENTS.md files with reusable AI knowledge that scales consistently across projects.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">https://christianselig.com/2026/01/cksyncengine/</title>
