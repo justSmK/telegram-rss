@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/Au6lfsjvy5fIGCEzdXLlDLcYkdIAKFWc4lkd-Lv9J-KqH9eXqAo46cwLuD_kKysw7OUH2pd1HbWC5ffGAy_FOP2wTfzp5M6DqcLcJJ9C9We0TXG0tUDxhHyotJ88VyGXdK-XDN3sjE7YJsCA3usJEQAR_FWxez65fSE3TXSrc12rWoNzCDN0UrteAu-vy1tjvIWXaua9K-d2HF7G6a-PMdhTxV8_UPyOndTEzP1MlBS0VK1qtH9RvfaSp6at02RlyE2_dYeObOEerkRwUAhuO6h88BidT0VKM36sgBQEX0aehNk7JsuZ0JHmL5n50Tm8az4ex9FuUrZPWog9yVltCw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Au6lfsjvy5fIGCEzdXLlDLcYkdIAKFWc4lkd-Lv9J-KqH9eXqAo46cwLuD_kKysw7OUH2pd1HbWC5ffGAy_FOP2wTfzp5M6DqcLcJJ9C9We0TXG0tUDxhHyotJ88VyGXdK-XDN3sjE7YJsCA3usJEQAR_FWxez65fSE3TXSrc12rWoNzCDN0UrteAu-vy1tjvIWXaua9K-d2HF7G6a-PMdhTxV8_UPyOndTEzP1MlBS0VK1qtH9RvfaSp6at02RlyE2_dYeObOEerkRwUAhuO6h88BidT0VKM36sgBQEX0aehNk7JsuZ0JHmL5n50Tm8az4ex9FuUrZPWog9yVltCw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-26T05:34:53+00:00</updated>
+  <updated>2026-01-26T06:41:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Кастомное поведение строковой интерполяции &#13;
+&#13;
+Помимо...</title>
+    <published>2026-01-26T06:06:29+00:00</published>
+    <updated>2026-01-26T06:06:29+00:00</updated>
+    <id>https://t.me/iosgr/4591</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4591"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Кастомное поведение строковой интерполяции&lt;/b&gt;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;Помимо простой подстановки значения, со строковой интерполяцией можно делать и более интересные вещи – например, прямо на ходу исполнять какую-то логику – форматировать значение правильным образом в зависимости от его типа, валидировать его, или применять условную логику.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/uCVoJts-wrrXSK6eeGuhPMyyPR0JirdflAqRSRctk4pRGm8iGglVVWnHnn3UYv3OgKc7k1qSMxcZNgzMG9GPfBHu57WHrtAwL7G5nVojQF-iDFl1fKXSiV5lXIQvL8acOAaO2x0mcSe-EUFFx3pxju-o_yE9paQRt3BaS9JIzkkZ4XASjYIwV1HTT-hD1PDMq3aRstyugrx5fw9XUsZIn4XMl9K7nO30XFBhMglT2D4fGNgAgKtib5M_IrBfJQQep5b-A70NoFv8om7-T2eHZEfoGacOUiFAjDRV3OLkIgZ5V3_vXnP0iGvg0_mGlDCc_KYDOKgdr2aji0vwSRvsbw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/"&gt;
+Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt;&lt;br&gt;Extend Swift’s string interpolation to define custom behavior, such as value formatting, directly inside string literals.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Skip теперь бесплатный&#13;
 &#13;
@@ -254,19 +268,5 @@ Replay - NSHipster&lt;/a&gt;&lt;br&gt;Fast, reliable API tests without mocks or 
 	&lt;source src="https://cdn4.telesco.pe/file/4a938b2320.mp4?token=Al66dghBOj0rKs7kB6EHfiJLJ_tii7fSEWwHCDKuChhWgZUbKSKE8aL02iM8iMK-yjUMqZJ0It7wGC1D2Vodj91XxcE5d6cIGCgsMQfvRGPO_t4-CSjccZwkdEdrXAy6rloppoDF_Pefi2rzEnohVNjaWnViniTi9HJTnVTQJ5IFZq81H5_M-BUvY2KtwwGFg7GMRmQ0rdf7bki7F8ynvO2IYInNs7cfrcUBWyGjWoIcSa1xHVkMjysCDEZMPspq_292BnzFFZ74w3el06b4uNVTL8oQTEp99PLDEyjdBIlF9VVqoGQMpNYUCSZeT33laPr1o4m21ytUO0zGvvAWVg" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/polpielladev/status/2003891755742007367?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cause &amp;amp; Effect Graph для SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В Xcode 26 появился новый профилировщик для SwiftUI. Для любой вьюшки вы можете посмотреть, какие конкретно обновления стейта вызвали каждый ререндер.&lt;/div&gt;</content>
     <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/U48FDSedXcWGJgp32GBVanZcCdsp_SbPeEKbM1mbIsbtUKWyQsq_zTsm5di1S6uVLtOZ8CddJZ_JqdJAMgh3QpQUqMqFKjkLrg90sImeo6uA-UX_peVl1VkMG1sHgHZ3dCu0nxZTATo_AktPDJsKMoqXF2SADVuuc8kBiK7s1Z6jDIgWcISSOSBJXKSjWzvSwgNHTrPMAUbom1UK5JXST5hg8E7EdlrwLRnlqImyVrqCnrO7fcr9smBIe3fvhaHHVqPPLe2ph0PBIxJqXuVN2XtdrN7TodvCHspdppQLi89Kb-mEXDMIV_Bd-ZqRHOIhw4aUdZtrUPk7NxquchaDlg"/>
-  </entry>
-  <entry>
-    <title type="html">Почему Codable медленный&#13;
-&#13;
-Раз в год обязательно нужно...</title>
-    <published>2026-01-01T06:05:05+00:00</published>
-    <updated>2026-01-01T06:05:05+00:00</updated>
-    <id>https://t.me/iosgr/4571</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4571"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Почему Codable медленный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Раз в год обязательно нужно критиковать Codable, поэтому давайте сразу 1 января эту галочку и поставим. Разработчики из Тинькова рассказывают, как они решили, что именно Codable стал бутылочным горлышком их перфоманса, строили бенчмарки, и готовили PR в swift-foundation.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;&lt;img src="https://cdn4.telesco.pe/file/jqn3w85Q8K9odpRvrHlpg6T-zAwvsjNWxHg-DIM5YqQG3avniEN1NDX_5LKWA8itLJf_8TQHVPvKd33HOX7bZ56xEhLlLmOA0E9wVrLmzExCYYOkzB49AB8J7mx3hzWCwauJqR5kLR91QYDpunSXdVdXkfMIaC2o0B2Qo-Ew1ssjSTeo1hRcqG0YFZJfEVVwm98YRln-aq-38psao4ajN69OqNXSqRkVlSblHIl2sDFx8wdyboyDUahJ6HNWPwxwJghuNln9PsURwKe9gQxWlCOxeh6rn8OPjT6GP8sn8FaTeozeVbhdS1eRDy5NOpnDhyfWv6_J2w-AqCcqKsLZRg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/?utm_source=tg&amp;amp;utm_medium=mobile&amp;amp;utm_campaign=281225"&gt;
-Все не так с Codable - Хабр&lt;/a&gt;&lt;br&gt;Привет, Хабр&amp;#33; На связи Кристиан Бенуа, iOS-разработчиĸ в Т-Банĸе. Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось...&lt;/blockquote&gt;</content>
   </entry>
 </feed>

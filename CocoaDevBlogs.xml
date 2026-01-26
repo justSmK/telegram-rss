@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-26T05:34:51+00:00</updated>
+  <updated>2026-01-26T06:41:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dynamic Island Toasts Using SwiftUI | #apple #animation #ios #coding https://t.co/Ekk85XWG2W</title>
+    <published>2026-01-26T06:17:22+00:00</published>
+    <updated>2026-01-26T06:17:22+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25792</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25792"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dynamic Island Toasts Using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23coding"&gt;#coding&lt;/a&gt; &lt;a href="https://t.co/Ekk85XWG2W" target="_blank" rel="noopener"&gt;https://t.co/Ekk85XWG2W&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ekk85XWG2W"&gt;&lt;img src="https://cdn4.telesco.pe/file/cAwPF3s5SLTF5e5aK3NLH80tYk_fQs_mUVCBGuY0JYYxNTsRnzUtQ0r5OO4dY6npAboVTH6SUGhtIxwe_6S3VVShS2QIi-MdqTnk1uFoC2RNgzkHkyKlJvwz9rclY1i36c6sKNI1TkEPuF-pCYys5V8QHgrz7tGDi0UORihp8nFvSsgywNRbOGEW9_zttztjHL4LLRiBrvNbHlyjb3XDwwB0zVYMzRz7RQeYzT6H4cEG-jduEpAIiF_xVfxn5kQFk_9bPaGHGBZhubFUddqpBgXHRDPOsPNibH6GEExDBt7Yz7K5AdEslVRjl3a5TMIM_h2x564ShxmYdqdlEKNM3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ekk85XWG2W"&gt;
+iOS Dynamic Island Toasts Using SwiftUI | #apple #animation #ios #coding - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : utmapp/UTM https://t.co/YF9yWJmcqI</title>
     <published>2026-01-26T02:17:15+00:00</published>
@@ -238,17 +250,5 @@ GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading a
       <name>iOS Development News</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 740 &lt;a href="https://t.co/GIGs5Mipww" target="_blank" rel="noopener"&gt;https://t.co/GIGs5Mipww&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Highlighting code blocks in Markdown with SwiftSyntax https://t.co/Fs6A8D68LX</title>
-    <published>2026-01-23T14:22:34+00:00</published>
-    <updated>2026-01-23T14:22:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25772</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25772"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Highlighting code blocks in Markdown with SwiftSyntax &lt;a href="https://t.co/Fs6A8D68LX" target="_blank" rel="noopener"&gt;https://t.co/Fs6A8D68LX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;&lt;img src="https://cdn4.telesco.pe/file/ukd57TScIWi71WYJTaRkL0kO9z0zYa5sAAFCIiC7VBQfVnleZ2ikoPSnBAuQ9o5C_e_bWjid9F0jNU8k12g9CxNpS4jdangCrMQW5gL4XQBMDOr08qHEq4AaFrYQfVarmAsyY_H5A9M9raVK5WmBO7tQP7XWiW5MG6xPMOYzq5UXEDXN0jitkEYZl7D2nxeh63Rv39YCeQ9PqoxnPvZaxlJmXByXY1PVsbP90LFnNlclwSsV3hu_Q_i_564fkiRg-XPJgGnqPHnT8EuY4k2lXBC5xPGL_h7DPmFfzEv2qBu5GFf6NYzcxnQ-lSyeN7hGrGNO7EdG30h7FhrBOv-cHg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Fs6A8D68LX"&gt;
-Highlighting code blocks in Markdown with SwiftSyntax - Artem Novichkov&lt;/a&gt;&lt;br&gt;A practical guide to highlighting Swift code&lt;/blockquote&gt;</content>
   </entry>
 </feed>
