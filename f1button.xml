@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/JmQC_10Zz2IlnkWxStDP1IW5WVsvHdHTQR6RDZjVYe1d7imnQwwsegFJrgFyZAk5yNrPfoPXvzx2VKiUh8-42Lnbm5LdoadX8yg0wOuoirF0KRMqL9Qy3Tgl7Dfg7Z1iP-kPwicJKpyimrI73kP7A4XG3TUKFiZQVGsAq_hwGU_Qfj8whBchvYEX-X0DivW-_IJ1KAA3ooaDTwC451nGEhUBg6c3xBWBB_r_TjeRLLsIPSp6rGwJ9FSAvvUxfZUNp6PfoUvDMgMbm5UB9MBd5adP_siMZdnMSBPOXQdlwIDpGyB9plW1ygadWXj0pbDJlTPc-n6zQuuE7ypajNy4Sw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JmQC_10Zz2IlnkWxStDP1IW5WVsvHdHTQR6RDZjVYe1d7imnQwwsegFJrgFyZAk5yNrPfoPXvzx2VKiUh8-42Lnbm5LdoadX8yg0wOuoirF0KRMqL9Qy3Tgl7Dfg7Z1iP-kPwicJKpyimrI73kP7A4XG3TUKFiZQVGsAq_hwGU_Qfj8whBchvYEX-X0DivW-_IJ1KAA3ooaDTwC451nGEhUBg6c3xBWBB_r_TjeRLLsIPSp6rGwJ9FSAvvUxfZUNp6PfoUvDMgMbm5UB9MBd5adP_siMZdnMSBPOXQdlwIDpGyB9plW1ygadWXj0pbDJlTPc-n6zQuuE7ypajNy4Sw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@f1button</id>
-  <updated>2026-01-26T14:33:02+00:00</updated>
+  <updated>2026-01-26T15:33:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Поток информации с трассы почти иссяк, так как...</title>
+    <published>2026-01-26T14:59:49+00:00</published>
+    <updated>2026-01-26T14:59:49+00:00</updated>
+    <id>https://t.me/f1button/6550</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6550"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Поток информации с трассы почти иссяк, так как организаторы тоже следят за соцсетями и практически все каналы поперекрывали. Могу только сказать, что в Mercedes во второй половине дня за руль сел Джордж Рассел, и уже проехал намного быстрее Кими — 1:18,942. Хотя всё ещё медленнее Аджара.&lt;br/&gt;&lt;br/&gt;Впрочем, времена на этих тестах не значат почти ничего. Даже по сравнению с обычными предсезонными тестами. Главная задача команд — просто убедиться, что всё работает.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Первая половина дня завершена. Трижды появлялись...</title>
     <published>2026-01-26T12:27:24+00:00</published>
