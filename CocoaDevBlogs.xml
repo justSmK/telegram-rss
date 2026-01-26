@@ -3,13 +3,26 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/rPlIcpHCLIeByl0hlaYzp9HS5YmRaQKTkyEOPoqDf4oMZzly4O3CvAwWIiNnuHpfh6loazycj8iRiEfienPUuuDAzG6OEVe8765vaHWk2U42o4nBa-hBH4hucHE34msdF3gOsRLqekbELA8AJTgZN1dc06PFIDtP-PpJuLmqGM_Ogo8ULYsEp5XJkl1brD8SHNFL5sTrwOR2NfyeY1tL3pr21N6Njhaiwo805wEzPYbNFPoZ606kPZINBkgsXv20u9IUoT49z2hlzWl2uju1vTnr2FZDwlWvCGgSxSCgAZnIfJ_p6TWeHyuP_YqMcqat47VtnbAlaUCF1UnZLauMYw.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/aOd2Ha0IMYw0D5OJNevgtXDGFPhHCF-Q1VlHZrtWF5I9Vxe3JcrxantXRobA5IqYe7mpXJkG-AY-85RgDC4sEZB04aiJmjGq2dA03Y_WaYZJ004jgvK7W_3i8_j1ha9oIGSPrfGzBO0SnvMi5esjBa5oQs9iEqcxOAkSMGRbwW_Ju3Eqtf2DSyXSarhbGBAzdJ5DSPrznrpooH_KAuU3sUJ1UYlbSTRf4RJ8cP1mYP1yZvE2_xFg_DKWUx4alK4mDfGYcWf0_Iu9xUpxXiFXT6WPLnzZK8HIG8ylk4yYVIU8ZNxbYLEBa5TnhfKoUJBdvrWTjMv7H7dZGsc7z53LKQ.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/aOd2Ha0IMYw0D5OJNevgtXDGFPhHCF-Q1VlHZrtWF5I9Vxe3JcrxantXRobA5IqYe7mpXJkG-AY-85RgDC4sEZB04aiJmjGq2dA03Y_WaYZJ004jgvK7W_3i8_j1ha9oIGSPrfGzBO0SnvMi5esjBa5oQs9iEqcxOAkSMGRbwW_Ju3Eqtf2DSyXSarhbGBAzdJ5DSPrznrpooH_KAuU3sUJ1UYlbSTRf4RJ8cP1mYP1yZvE2_xFg_DKWUx4alK4mDfGYcWf0_Iu9xUpxXiFXT6WPLnzZK8HIG8ylk4yYVIU8ZNxbYLEBa5TnhfKoUJBdvrWTjMv7H7dZGsc7z53LKQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-26T10:30:54+00:00</updated>
+  <updated>2026-01-26T11:23:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Managing Undo/Redo State in SwiftUI | Undo Manager | Xcode https://t.co/wIjAbA1E9r</title>
+    <published>2026-01-26T10:57:30+00:00</published>
+    <updated>2026-01-26T10:57:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25793</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25793"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Managing Undo/Redo State in SwiftUI | Undo Manager | Xcode &lt;a href="https://t.co/wIjAbA1E9r" target="_blank" rel="noopener"&gt;https://t.co/wIjAbA1E9r&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wIjAbA1E9r"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qt4FugZ7Eiv6t17f-8tL6jhFmuoxlr9XjMPbYGnXxNL0ahbNs2eD02iG7bjymJOwHovE1_Q9123hUmvBma4EfXhCuVRjZKTuG00kKO_xVVLBAks_TGOJfDdjHxa2rXZQyKFWfTLCnFocMZg28QvOSpQ4q1YsDEexXEni19VOLTJ17w9nSuu-IHfWw3_ZMsgf7hXy4YCrcZSCL-ZKT5rhjMCGNAJfcVQsG7IX4vz-ABgv9G7ZI78RSpFr8zsDr6c5ZCZ1vM529jXHZQGGfGKtaR1GfxTndzJXgv2bV3W5Hh4nbpg_gFrNbCGNKbaXL-6epxAzEBrg_vSJ2WJlfkESjw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wIjAbA1E9r"&gt;
+Managing Undo/Redo State in SwiftUI | Undo Manager | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’m going to teach how to create a custom State property which allows us to undo/redo their state using SwiftUI | SwiftUI Undo Manager | SwiftUI Undo/Redo State Properties | SwiftUI Custom Property Wrapper | SwiftUI 2026 | iOS…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Dynamic Island Toasts Using SwiftUI | #apple #animation #ios #coding https://t.co/Ekk85XWG2W</title>
     <published>2026-01-26T06:17:22+00:00</published>
@@ -239,16 +252,5 @@ GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspectin
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : onevcat/Kingfisher &lt;a href="https://t.co/NBLFVoyNN0" target="_blank" rel="noopener"&gt;https://t.co/NBLFVoyNN0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NBLFVoyNN0"&gt;&lt;img src="https://cdn4.telesco.pe/file/v8QGrFLGxXHOZU_dsfhifLlqYWNsP1utkgQiJGOy-shTBi2OXIyhPvyM6D_NUFwtD8o1V3Ona26hyatg4xuUpo_BstiGfsOfarUXYtbNvmezit41Eo5sV2z9iMkO42FpyyfIRKn9sXWdNmcGmHAEWbOA06gtUXZufM3rYsa2-groytWyHssGBg_rfFMjXAmvQk7hcZu4bxc-yaGj0XvlUjq05xWxXNMmxW026t2ooCWC7oDCs5t3jxwicbrLzhyd3g3m_t7dVbs6Viade0EL1vjsP7AG9sS3ECJ4A6njy78UDrqcfCb51EN9_VGEr1gqOVNOsHN12gRzqx4WBKf8SA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NBLFVoyNN0"&gt;
 GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading and caching images from the web. - GitHub&lt;/a&gt;&lt;br&gt;A lightweight, pure-Swift library for downloading and caching images from the web. - onevcat/Kingfisher&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS Dev Weekly: Issue 740 https://t.co/GIGs5Mipww</title>
-    <published>2026-01-23T17:07:26+00:00</published>
-    <updated>2026-01-23T17:07:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25773</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25773"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 740 &lt;a href="https://t.co/GIGs5Mipww" target="_blank" rel="noopener"&gt;https://t.co/GIGs5Mipww&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
