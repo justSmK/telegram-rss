@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/aOd2Ha0IMYw0D5OJNevgtXDGFPhHCF-Q1VlHZrtWF5I9Vxe3JcrxantXRobA5IqYe7mpXJkG-AY-85RgDC4sEZB04aiJmjGq2dA03Y_WaYZJ004jgvK7W_3i8_j1ha9oIGSPrfGzBO0SnvMi5esjBa5oQs9iEqcxOAkSMGRbwW_Ju3Eqtf2DSyXSarhbGBAzdJ5DSPrznrpooH_KAuU3sUJ1UYlbSTRf4RJ8cP1mYP1yZvE2_xFg_DKWUx4alK4mDfGYcWf0_Iu9xUpxXiFXT6WPLnzZK8HIG8ylk4yYVIU8ZNxbYLEBa5TnhfKoUJBdvrWTjMv7H7dZGsc7z53LKQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/aOd2Ha0IMYw0D5OJNevgtXDGFPhHCF-Q1VlHZrtWF5I9Vxe3JcrxantXRobA5IqYe7mpXJkG-AY-85RgDC4sEZB04aiJmjGq2dA03Y_WaYZJ004jgvK7W_3i8_j1ha9oIGSPrfGzBO0SnvMi5esjBa5oQs9iEqcxOAkSMGRbwW_Ju3Eqtf2DSyXSarhbGBAzdJ5DSPrznrpooH_KAuU3sUJ1UYlbSTRf4RJ8cP1mYP1yZvE2_xFg_DKWUx4alK4mDfGYcWf0_Iu9xUpxXiFXT6WPLnzZK8HIG8ylk4yYVIU8ZNxbYLEBa5TnhfKoUJBdvrWTjMv7H7dZGsc7z53LKQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-26T18:40:42+00:00</updated>
+  <updated>2026-01-26T19:26:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">A visual cheat sheet of Combine operators https://t.co/c9B4HmojNe</title>
+    <published>2026-01-26T19:02:54+00:00</published>
+    <updated>2026-01-26T19:02:54+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25805</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25805"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A visual cheat sheet of Combine operators &lt;a href="https://t.co/c9B4HmojNe" target="_blank" rel="noopener"&gt;https://t.co/c9B4HmojNe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;&lt;img src="https://cdn4.telesco.pe/file/c1DzBLIY6lpDuGXkT97EN24hvuHLCcQEPZpnbyW9pFbCDR4gHHKKrZntl3y7gSFXaER9w-mYXV_IlYdkdfnPkTuI5MNXM2Ccg8uzA2yHK-3WGimMMN33ACdOX2X14OufFeEGliexK8qR3fWCycKz9MGdFF0SppSLxOmVuPvI47sC_MlFhvkRM_ijP_WYrd9kQU8bwEwXdeG-EdazPlgW6MmwznoabcpHYbYor4fy7FhNeDZsQb9DWjiUV5yLYLFDhkmBOuKHh3GGNwkU8BGy_iUTINALvx1EwZc1IrbljITnFFq13EsNFfeRWzRkj4my-QNrp4pRT_kyhugDNWIiDw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;
+A visual cheat sheet of Combine operators - Tanaschita&lt;/a&gt;&lt;br&gt;This article provides a visual cheat sheet of common Combine operators, with a diagram for each one to illustrate how values flow through a pipeline.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS 26.2.1 (23C71) https://t.co/m8agxHCTUl</title>
     <published>2026-01-26T18:27:42+00:00</published>
@@ -240,17 +252,5 @@ Today&amp;#39;s goal is to enhance the manual tagging feature I built in the pre
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Books Hero Effect - Matched Geometry Effect | SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/7A4OcUHEaJ" target="_blank" rel="noopener"&gt;https://t.co/7A4OcUHEaJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7A4OcUHEaJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/d97lCowB4BnIzeSWt7Luix1UcMJUH_CRCT1Da09GT21mVufBGbdTvN6hxNdMOfn6hZJWB0TNFhfr-MophaR4jnKZJaTeNBdfgXWMj9jsn6whNaVmaCB32KE7GRNWQndaLZCGtvHmHQLIDhSU2gR0StB5z1PunAdeZGiUWsJ0rchL2IQGSSGq9bmxbL7LyRNOYnPzGYP2qec_YdA5QyCQqQEMUa8GIxSvQy0Fg_Xokxmv4dCgKELcLL7ciRlzwSpOuEdg5D93xZwSUL3eu6cvYGK5xV5GJqDumnNEo1zpOP-J-etkTQRawsoitbTVNLXVsUGGRgExQs91M56uSRn23A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7A4OcUHEaJ"&gt;
 Apple Books Hero Effect - Matched Geometry Effect | SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : SVProgressHUD/SVProgressHUD https://t.co/xgWlI0SwfY</title>
-    <published>2026-01-25T02:12:29+00:00</published>
-    <updated>2026-01-25T02:12:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25785</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25785"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : SVProgressHUD/SVProgressHUD &lt;a href="https://t.co/xgWlI0SwfY" target="_blank" rel="noopener"&gt;https://t.co/xgWlI0SwfY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xgWlI0SwfY"&gt;&lt;img src="https://cdn4.telesco.pe/file/dvfPpakePlT31HJOB3zUNS_vbjzNzAVapS8wD39FGNEM9SejYM1BXv2xsAyGchBn2OMXdbvbUElhHTs8C_xz7IQn8SfzgQwtcDwM-GtlLUbs3ZDNDmBJeUsDtoeZDp8leqVqgVONcWkz18xXk46kXS2k9l8GLl6Tdsma4EzsrLKvbycwrWIpu1xUhMkXyN7vfxmX31N072736FZ06nWARS06URuhdSQGLDZRitGOEOPFKKwqGFsdWpw-yNh6hOSD2L3jrKY8292NZsp69mPaqeVrr5QG1Rj6opdHW2f3AGoDDctRCjktGRbN9US2mBPOudd08ax0mM7fDlI59U6u4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xgWlI0SwfY"&gt;
-GitHub - SVProgressHUD/SVProgressHUD: A clean and lightweight progress HUD for your iOS and tvOS app. - GitHub&lt;/a&gt;&lt;br&gt;A clean and lightweight progress HUD for your iOS and tvOS app. - SVProgressHUD/SVProgressHUD&lt;/blockquote&gt;</content>
   </entry>
 </feed>
