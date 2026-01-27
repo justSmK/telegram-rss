@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/eNniKtKd93mHbrirCEjsv9Ap10_lHOz3uCsFmqJNgrU2NEA2qmmk6ULK8bMaAt6pWvjhlFiplgeggC2fbRtYh0hfCmknvWURvZWdmA5qBhfMWFwfM6JZMqrrpwPQOKbdS1i7ue0UkrChq1R2MdZ04qozE0XFvB3tCxog0Sa5LZI6jp5LfXFv6iIp-iQLIl7F98ZddDBX4Vl9qzhhC4WVoWDeXZYUkgViM3Q0t8OTDVTKornqYf5MPnL6nZyPPSlU5eoT_yOCRJ6OwMARh53MbHAd8636H7QOtFts_qgUfPbgZV7M7MFk3HWxaHF9xaj_YVE22nrH4cPw_t7NRS1Egw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/eNniKtKd93mHbrirCEjsv9Ap10_lHOz3uCsFmqJNgrU2NEA2qmmk6ULK8bMaAt6pWvjhlFiplgeggC2fbRtYh0hfCmknvWURvZWdmA5qBhfMWFwfM6JZMqrrpwPQOKbdS1i7ue0UkrChq1R2MdZ04qozE0XFvB3tCxog0Sa5LZI6jp5LfXFv6iIp-iQLIl7F98ZddDBX4Vl9qzhhC4WVoWDeXZYUkgViM3Q0t8OTDVTKornqYf5MPnL6nZyPPSlU5eoT_yOCRJ6OwMARh53MbHAd8636H7QOtFts_qgUfPbgZV7M7MFk3HWxaHF9xaj_YVE22nrH4cPw_t7NRS1Egw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-27T13:53:01+00:00</updated>
+  <updated>2026-01-27T14:34:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Sharing content among apps using AppEntity and Transferable protocol https://t.co/Hz4aoaUf9S</title>
+    <published>2026-01-27T14:07:12+00:00</published>
+    <updated>2026-01-27T14:07:12+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25816</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25816"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Sharing content among apps using AppEntity and Transferable protocol &lt;a href="https://t.co/Hz4aoaUf9S" target="_blank" rel="noopener"&gt;https://t.co/Hz4aoaUf9S&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Hz4aoaUf9S"&gt;&lt;img src="https://cdn4.telesco.pe/file/tiHMjl0XqtKIOmDb7LhDIwNbThk4znfzQnp4tFY9nR0p-uOIcg4jjl-RKfTw509pucLt-eQoJHQfZhtL9QDyzoOkF2ojpc5X7BFf23vzveGU-Mqu3A1fXLgAGRk7uRTW5icw_XcnWXG1-PMJOwvjdKjBzwsSa7HJ3KaIQxDNOKQrhq7wjkuj6PCVO-XtqY_hF_XmhcR1FuGqBbL0UvJKJvIAADMACdNsKVX5r1UaGfgBsvGx2dSvUpWNno7YQ1-BBCbIdeTcccK7PxtP9sXQ6IlZ42X7sIvQVwpNf5VXqSwfXco4tQXwgdApzX0OLxW2XP5iT95uYfatWOFzhqNObg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Hz4aoaUf9S"&gt;
+Sharing content among apps using AppEntity and Transferable protocol - Create with Swift&lt;/a&gt;&lt;br&gt;A fundamental characteristic of Apple’s ecosystem user experience is that everything feels like being in one connected system no matter on which of your Apple devices you are operating: think about the capability of copying something from your mac and paste…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : mattt/iMCP https://t.co/aenZ35OzbL</title>
     <published>2026-01-27T02:17:28+00:00</published>
@@ -237,17 +249,5 @@ iPadOS 16.7.13 (20H365) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 15.8.6 (19H402) &lt;a href="https://t.co/PKJvy0JJ3R" target="_blank" rel="noopener"&gt;https://t.co/PKJvy0JJ3R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PKJvy0JJ3R"&gt;&lt;img src="https://cdn4.telesco.pe/file/nsT3CoIqS2daayGRhqK9h-T__LSXgY3y5_oK1hHrUWKgJ3RgSGYwOWanmuK9RZmunURm-TgtBMRBGa3tG-iNNMit3SljM1kdwGeWIerjXGt90sqHhZxmg8xSo2JeZG4y6gzqib3N5zd_pIb2b7itYPlzgHzrtPKTNMqxzqAy_c42vYO3feKkVjjePuLExYdX7ipDoNmiQ3SdLYlLL3WlPLfWQ7BTpgoGiBH06u4KjafzPkMUafpg7FrWDalmD5y0n6YaLo8b80e_N31f_ksyXYFJ7uoMh0lmQV7klHmLh7a_KE17Odpr1J4nSshqkAJ3Wq6qHXvRx6HmVYn4yDcWkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PKJvy0JJ3R"&gt;
 iOS 15.8.6 (19H402) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 15.8.6 (19H402) https://t.co/Zo0GYWecTC</title>
-    <published>2026-01-26T18:27:32+00:00</published>
-    <updated>2026-01-26T18:27:32+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25796</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25796"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 15.8.6 (19H402) &lt;a href="https://t.co/Zo0GYWecTC" target="_blank" rel="noopener"&gt;https://t.co/Zo0GYWecTC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zo0GYWecTC"&gt;&lt;img src="https://cdn4.telesco.pe/file/L9eov8rw-MQTXPM8LHWcl2URopF2eAiWe0uOyrXPiAMXJkHuM0DAoVcx4T8wL4Ndm4ciRdhvx2Wl6TeMkVWd4kq9yn5QmK3nKMMolpcbEW2XOxhC5wSU7bpjafLW12iPbtClBZhgtCs1Roa5GAcYss_IFxSmNlOhivI3fU8xUZdC-HqNNuCRQ_N0TGvXiuUnpzr_B9puqkrprabgwySIfPiPIfEJrDW1xCmKhUNQwhTcd28NP3gX3hytajL_IiXVXryMJTc-ij1G_yOPkm2QBofMzQGFDhRjiljh3nc7gGMMGB6JLJB3aMWQIx4QxnXpMMypTn-GL7G5QDRFXg1W1Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zo0GYWecTC"&gt;
-iPadOS 15.8.6 (19H402) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
   </entry>
 </feed>
