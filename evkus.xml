@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/vrnUJVMf79x0u-wEL--3yqjM0pueCFWsOTWxKkLHmdA3zKfk6SjgxgAOB0p6BfOsHYq_r_XFTvMmwhjUGI-A9H-p3tU-yQCG5XwzsdecbwhgEfEL7RiTHM48_gu0br-c2K2iwqfqr3IoXhWc8aaJ55M-dTbolp1PrlnoHnI7xQFG_z04OP4P_UKqNAhpTwgTBfWO6VXeg6Ifnoi-r8G6IRXGmw3i1hsUHOKYI3IEzDqZ0F4VKAhvBwxKoTJc8CW6Cq7rlywXLy-pUwPFEsGNn7pPnX4Lz_mml5U--vWempyrRSaZbGLpz5Tg03RdRV9dABL6ag-Espw1rpp5o-TrQg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vrnUJVMf79x0u-wEL--3yqjM0pueCFWsOTWxKkLHmdA3zKfk6SjgxgAOB0p6BfOsHYq_r_XFTvMmwhjUGI-A9H-p3tU-yQCG5XwzsdecbwhgEfEL7RiTHM48_gu0br-c2K2iwqfqr3IoXhWc8aaJ55M-dTbolp1PrlnoHnI7xQFG_z04OP4P_UKqNAhpTwgTBfWO6VXeg6Ifnoi-r8G6IRXGmw3i1hsUHOKYI3IEzDqZ0F4VKAhvBwxKoTJc8CW6Cq7rlywXLy-pUwPFEsGNn7pPnX4Lz_mml5U--vWempyrRSaZbGLpz5Tg03RdRV9dABL6ag-Espw1rpp5o-TrQg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@evkus</id>
-  <updated>2026-01-27T05:30:51+00:00</updated>
+  <updated>2026-01-27T06:41:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Посмотрим, кто сегодня будет работать на тестах....</title>
+    <published>2026-01-27T06:16:48+00:00</published>
+    <updated>2026-01-27T06:16:48+00:00</updated>
+    <id>https://t.me/evkus/17697</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17697"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Посмотрим, кто сегодня будет работать на тестах. Обещали так себе погоду, так что вполне возможно, что многие команды решат пропустить день. &lt;br/&gt;&lt;br/&gt;Может, вообще никто не поедет?&lt;br/&gt;&lt;br/&gt;Уитли вчера сказал, что все будут шифроваться, не раскрывать карты, а уже потом узнают, как поступили конкуренты.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">        Please open Telegram to view this post     VIEW IN TELEGRAM    </title>
     <published>2026-01-27T04:14:03+00:00</published>
@@ -134,16 +145,5 @@
       <name>Evkus Racing | Формула-1</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;a href="https://t.me/evkus/17678" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;Ivan Kirichenko&lt;/span&gt;&lt;br&gt;&lt;br&gt;				&lt;a href=""&gt;&lt;img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iLTMwMCUiIHgyPSItMjAwJSIgeTE9IjAiIHkyPSIwIj48c3RvcCBvZmZzZXQ9Ii0xMCUiIHN0b3Atb3BhY2l0eT0iLjEiLz48c3RvcCBvZmZzZXQ9IjMwJSIgc3RvcC1vcGFjaXR5PSIuMDciLz48c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1vcGFjaXR5PSIuMDciLz48c3RvcCBvZmZzZXQ9IjExMCUiIHN0b3Atb3BhY2l0eT0iLjEiLz48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ4MSIgZnJvbT0iLTMwMCUiIHRvPSIxMjAwJSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ4MiIgZnJvbT0iLTIwMCUiIHRvPSIxMzAwJSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNMjU5LDIwM2gtMjM1bC0zLDEtMiwxLTMtMi0zLTItMy0yLTMtMy0yLTQtMS0zLDAtODMsMC04MiwxLTQsMi0zLDMtMywzLTMsNC0yLDQtMmgyMzYsMjM3bDQsMiw0LDIsMyw0LDMsMywxLDQsMSw0djgwLDgxbC0xLDMtMSw0LTMsNC0zLDMtNCwzLTQsMmgtMjM1eiIvPjwvc3ZnPg=="&gt;&lt;/a&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">        Please open Telegram to view this post     VIEW IN TELEGRAM    </title>
-    <published>2026-01-26T16:49:18+00:00</published>
-    <updated>2026-01-26T16:49:18+00:00</updated>
-    <id>https://t.me/evkus/17677</id>
-    <link rel="alternate" type="text/html" href="https://t.me/evkus/17677"/>
-    <author>
-      <name>Evkus Racing | Формула-1</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/evkus/17677" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; </content>
   </entry>
 </feed>
