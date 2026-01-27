@@ -6,10 +6,74 @@
   <icon>https://cdn4.telesco.pe/file/rp8O2CWAOETeYejm-qqDptK6CERR_dn0hQ2bWXMz-ZJ3kOa4kBD76e9MmBmie2Mi9elbSq0RxJ-yumKWstY3by4K2rixSTQzBfpWWA9i5hGmEO2X8JKoNstj5ysscEu-TLznMS0ws0PTYaK2vpZ7BzGbebAEJ33RAQkIqGMkU0PCKsn5nieRiYuKID4Vh0SdDARMiOrPATin19aPrAsSCEYWXPjOLJe45F_hurLEUDsMSOTRbuG78BaNAObayQc2hQ3WhEwtR7WP8blIZc7XzuXS9sZfWvxV6dpdihAQW9O4C6IZT6EoPxyAVgNMrbATF9OBYx1fqYbwGyITR3pSxQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rp8O2CWAOETeYejm-qqDptK6CERR_dn0hQ2bWXMz-ZJ3kOa4kBD76e9MmBmie2Mi9elbSq0RxJ-yumKWstY3by4K2rixSTQzBfpWWA9i5hGmEO2X8JKoNstj5ysscEu-TLznMS0ws0PTYaK2vpZ7BzGbebAEJ33RAQkIqGMkU0PCKsn5nieRiYuKID4Vh0SdDARMiOrPATin19aPrAsSCEYWXPjOLJe45F_hurLEUDsMSOTRbuG78BaNAObayQc2hQ3WhEwtR7WP8blIZc7XzuXS9sZfWvxV6dpdihAQW9O4C6IZT6EoPxyAVgNMrbATF9OBYx1fqYbwGyITR3pSxQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@f1button</id>
-  <updated>2026-01-27T16:35:21+00:00</updated>
+  <updated>2026-01-27T17:31:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Итоги дня в Барселоне</title>
+    <published>2026-01-27T17:23:45+00:00</published>
+    <updated>2026-01-27T17:23:45+00:00</updated>
+    <id>https://t.me/f1button/6566</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6566"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/f1button/6566"&gt;&lt;img src="https://cdn4.telesco.pe/file/ClKl77Fk7sJG9Yt8p5-mLS4lXWo4Gi4uLLnylgZFhg6WIKz3FtZFQ7VKDslA1lDntxxu4gmQTCwJOToXbE2is_5hAIbnhkj5I4wslILVv3ulCigeFwNpIV-xKXYyPRxdksX_7rv8rbPTZQlBmcO9pjKv0vVMtY8brDGd4RAZ1JX9WLKYOgb1EJL2wGcF8u4BDtGDQ9W2ZyIWhYaQfv8ZJHZISbfocgredeVgdyNQ-yGWZ97ZDcdlIqTh_up89AxcS2R-OvIpb4IEavZ8PFKxoODW-emzvZh-WCD6HeFKbKyMCoYcCZ3iY_f0ZXHfyGaSMd0oZSgfysyxbDHmv8atsg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итоги дня в Барселоне&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Вопреки слухам, в McLaren сообщают, что завершили все...</title>
+    <published>2026-01-27T17:19:13+00:00</published>
+    <updated>2026-01-27T17:19:13+00:00</updated>
+    <id>https://t.me/f1button/6565</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6565"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/f1button/6565"&gt;&lt;img src="https://cdn4.telesco.pe/file/iz-__FK9xklit440hSJrA4ke5_eMXL-hKbbTCv6DzfX5_pgGHBA9Ydsd3PayPoqpi8Qw96QsvZCgHDkf7_PwRMxydgS-73bPd6r-1w_HZzIItddQSH9gCdqu3mAzMgtOEBVS4evpndd1edVs7T13l1y3Ru7D447BPK2PPWhfypTNkKk4axLZ8tMAw0XUeslFXjuvw3OngW-WzoVUFOX0Aly8rsilHraAodkgxf-DZ6qoN2DhVOqglajNqiZqDmo6XYPtM0dLBbet7StjyiT78iV2cuRYoCJQ_hY4u4nUenQgHKjYxN0YKuAQwufvwkIU5cZO6Dt9rTwQ5U3qIz9zdQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вопреки слухам, в McLaren сообщают, что завершили все предварительные проверки своей MCL40 и готовы завтра начать тесты на трассе в Барселоне. Таким образом, они успеют отработать все три доступные дня.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">В Williams передумали проводить живую презентацию 3...</title>
+    <published>2026-01-27T16:56:49+00:00</published>
+    <updated>2026-01-27T16:56:49+00:00</updated>
+    <id>https://t.me/f1button/6564</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6564"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В Williams передумали проводить &lt;a href="https://t.me/f1button/6450" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;живую презентацию&lt;/a&gt; 3 февраля и вместо этого в тот же день устроят виртуальную. При том, что изначально планировалась только презентация ливреи, выглядит странно, но на самом деле причины понятны: в Williams хотят избежать утечек и неудобных вопросов.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.me/f1button/6450"&gt;&lt;img src="https://cdn4.telesco.pe/file/hBKjae_Ysdvvjr922Nm7C96F_gIc498gw26G3U5tbZBf4JA4cTN2I7emRCaLZwRZ50tIy43PLmHxZQ1IrwmaQHIgiiJLoNQJPXrzTxhVxJ0pdffePeusmZCDD7d3h4ulefAH-DJF1csm0wrD3RWCDK1dlN5Izys3ixnTQkNkF38bsJPjzwqA5hDSLv3_88FMJ8v2cTL71sRD5Ih1_MFw6dBPu2M_fMJZ1InrLtZkTY-zhmZ7ko0x7ZIXZafYJnaestSdWDBvsj70ifr-dKmXH3sELrr3v0TJNeKl6A1VcKaZMkSEr_cBq8E-EgQmiXAB5quKafke6dGYZkM2OsWzQQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/f1button/6450"&gt;
+F1 from Elmir Valeev - Telegram&lt;/a&gt;&lt;br&gt;До первой презентации несколько часов (она пройдёт в США, под утро), самое время разобраться, что и где нас ждёт. В современной Формуле-1, по сути, есть три типа презентаций. &#13;
+&#13;
+1. Презентация ливреи&#13;
+В этом случае команда показывает только ливрею (расцветку)…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Не то, чтобы прямо очень, конечно. Но заднее антикрыло...</title>
+    <published>2026-01-27T16:43:39+00:00</published>
+    <updated>2026-01-27T16:43:39+00:00</updated>
+    <id>https://t.me/f1button/6563</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6563"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/f1button/6563"&gt;&lt;img src="https://cdn4.telesco.pe/file/EkdxSh8JCjZAO_enKTzmnj_Y1OIi5WYRW3jSOq4UAHF2vgsZ5TqflPsHZgyjkinyVKIcnSOXD1YkNJBUPljQ8Vc9bM0_C9RlN9bH3aKV_Ws0ykk_Pfk2TzzMSQA8BP_H2cF7eg-iQr4BD7b7kz-yXt_K9TshXABkDP8vJEDU99_1CQUz4E2uWY7qBIAN8KtLtV8schjxzu7mUDqvdp38PNy1omF74Z1-WOkkV95pf1f1pI7yLnoAhmRzNfH-dsqzl_r4I9m1hTAibSC4UBywsL2PAxV94n_VncbwtaTqGF1RGLoPlm6wSDeh2fgq1RMcfVKtX0gdyz80IDUxlE_jlQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не то, чтобы прямо очень, конечно. Но заднее антикрыло разрушено. Могла пострадать и коробка передач. Понятно, что на сегодня всё, но в худшем случае придётся изменить и последующую программу.&lt;br/&gt;&lt;br/&gt;Сообщают, что Исаком всё в порядке.&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Последствия аварии Исака Хаджара&amp;#33;&#13;
+&#13;
+Приложился...</title>
+    <published>2026-01-27T16:40:13+00:00</published>
+    <updated>2026-01-27T16:40:13+00:00</updated>
+    <id>https://t.me/f1button/6562</id>
+    <link rel="alternate" type="text/html" href="https://t.me/f1button/6562"/>
+    <author>
+      <name>F1 from Elmir Valeev</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/fast_racing_f1/26349"&gt;&lt;span dir="auto"&gt;Fast Racing | F1&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/oDzBV_MmdqgC5iNxJy_MJuatESv-it3Lex1lI2UW5PcFn57hrQAI9NUfIcLQ2rUCBN_wghDbXePI5GLnEn72XKARFFr1-J6wGKwVv8XXittL-l6XphpPZFku3stNfFHkv9npf7J8XEfjsetli2tNKFlmHfz1UrJ30R5eqMXeJ4wvtQb4VFeSop05QOr1Iw_cQfO35f3he2S76ZeImHfVd88vIqPaO0gBEcFVC-HPNvJD-qDtB84LCHy2uIahaNF4Siz-MauuzwIJvSmGvwu82GO_AN-42vpoNd85Fhx2hKuhmQhtGBJmJZjYziW0_wNTfR15pMfxspryZ7FiWfEryw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/6a69d617de.mp4?token=I2infpMC9UWhCBF-xxptlbue4Urp88r6m46Dq6d0axMdyp5yo2RjbQz8_NFkksGpdMunCDQZT-_mvRrVtzZz5JSzoEgY9aIlTkWjseX2TWJCcnxZ7xSv-hMRKfk85clNvQsiWxokxl0w8gnagbTVBXoP4aDoFQC0hmaY4kYx0DpJPYy4GPgmeXis_scGn287hILBj321JGEIgvLusxASs2HYlg5qoCoRiHrXf1dqGW0TDT456MSDj59XfTCYkVUqOdZb-77DvrCc000BthzwfHZ9i85YFv7NiYc8erksozwlFsntyFD-vtep5D7ESMUV6o66laa_ZDidOg3-7XpcjQ" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Последствия аварии Исака Хаджара&amp;#33;&lt;br/&gt;&lt;br/&gt;Приложился очень сильно.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/fast_racing_f1" target="_blank"&gt;@fast_racing_f1&lt;/a&gt;&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/oDzBV_MmdqgC5iNxJy_MJuatESv-it3Lex1lI2UW5PcFn57hrQAI9NUfIcLQ2rUCBN_wghDbXePI5GLnEn72XKARFFr1-J6wGKwVv8XXittL-l6XphpPZFku3stNfFHkv9npf7J8XEfjsetli2tNKFlmHfz1UrJ30R5eqMXeJ4wvtQb4VFeSop05QOr1Iw_cQfO35f3he2S76ZeImHfVd88vIqPaO0gBEcFVC-HPNvJD-qDtB84LCHy2uIahaNF4Siz-MauuzwIJvSmGvwu82GO_AN-42vpoNd85Fhx2hKuhmQhtGBJmJZjYziW0_wNTfR15pMfxspryZ7FiWfEryw"/>
+  </entry>
   <entry>
     <title type="html">Аджар разбил машину в последнем повороте.</title>
     <published>2026-01-27T16:27:35+00:00</published>
@@ -76,10 +140,10 @@
     <author>
       <name>F1 from Elmir Valeev</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/GQrGLlPpGO1R578BeKsn3Wd2wmwm0PL0dCwSaiR0DAW8JfL8KboC8o4drQ-qgJ4Z5BuPpn3aIqjWvcfRPUJHZk2nmHb13ddXYJhiowau7MrQIL9o90HQzMinHnTO0h68X3sgZj06Nlg-NZ8-hPEJAxyLWvaeqbI8LeDEHQU4YDMborls1aIW1pAW0t4mvIIlELLzMYlOh_jA_cOB9DKxg7AES7Wf8m096UbOCyBmm1zKDICNuWhoR6Vcb8MbDLP5LgJTI4c0A8d7iDRUEZJXKTQ_n8J5wvsU5o2gx4psJQ3M3uayFfj90kKRnFlFl9lwFn-yuuGZUI_uYWEvmDwfPg" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/6088dfd58b.mp4?token=gV2yDeh3DxaFlhF0Ndd5SMetxPv29RY0aLOU8gpbVtv0ObMH6OS-AJYiagop0qoSEPOMDmq4u28-rrKv7SUX5sW7sUISrhsNkJ5SMF48aOQ6ptakcyIuzoPAQ3HNHl-OhSen_-r_Wha3yc-bFIu_UgeqD28oG3fOHj7D20o2mLlCd8x7PswA91GQ2Kkl3OnagzWVAOlwiuscky9adzU2p42eYi_yLK5eYYcSnZyF44Y4-oADJPO2KRv6gV_UYkjPd-o7f0pFOpgygmClop0sfDFINYepcQkWIxN5Ni58DNN6oXHZMm8tOkyoV3xWCy4YgrRT4jQIsZvw3ka5F0YL6g" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/pZALg2tiaQs91M2Gp8EwWgG0pRL2TNnjbnDIl4qEuN_X9shUPoUEXbDTlubEvToWYNmKDjHaP33hki1vLDSdU1zcyJoL-Eh2NbLGMbQ-4r_0U6jVRSb7d_Lpl6nWzqKNgnXHm02VtMOOUCluucEIRKtYS-etp8-ZgkNvK37r55q_QYgWQrXZTfJNi4avBn1K8h4ka3HzsNwNqT5Z0AGeb5k0G0ggyjx0CDgi62LaU7L9LS2GFTbzcfNrsOL6znTYC5KuoaHYoyJCdRUHFG1KjEZ7jTDB-a1x5nR3_h0fXljIzWXAHDEcc87y6bxYqMOpAKJGd-44HdMMloi9J8NR1A" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/6088dfd58b.mp4?token=WvrpRdLvRXUxAJXXUf4EA-FFu81OUa5o2OF9ZhTDmfRlsYlH-IkNe3UCANeYaqY07klOluCc7Dq5mZBCnrbdzYtE_kpnlmjQx3tFeYxmlhvzfNSsPom0CVxLsvT7GkmTTef9ERjr-QZ8bd-fO0X4y1yGrfegAtr1j8iuj2j3YwW5wcTKrSNMVa4mYPHt9t5JRhGdyMPHyFMiD0PZRUB6j23k8IEQuavRv702_SaDome3Z7Al1M9tpylraLBawIJwIu3P2RkdXjH2eQ4loW8ar_lzfBPFlVJ5wnUzO3bZb8GO2nyIQDahaP3uiYkx3JHtMhBAS513EhABOMSFG73e9A" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Машина Mercedes на полной мощности. На мой взгляд, звук очень даже неплохой.&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/GQrGLlPpGO1R578BeKsn3Wd2wmwm0PL0dCwSaiR0DAW8JfL8KboC8o4drQ-qgJ4Z5BuPpn3aIqjWvcfRPUJHZk2nmHb13ddXYJhiowau7MrQIL9o90HQzMinHnTO0h68X3sgZj06Nlg-NZ8-hPEJAxyLWvaeqbI8LeDEHQU4YDMborls1aIW1pAW0t4mvIIlELLzMYlOh_jA_cOB9DKxg7AES7Wf8m096UbOCyBmm1zKDICNuWhoR6Vcb8MbDLP5LgJTI4c0A8d7iDRUEZJXKTQ_n8J5wvsU5o2gx4psJQ3M3uayFfj90kKRnFlFl9lwFn-yuuGZUI_uYWEvmDwfPg"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/pZALg2tiaQs91M2Gp8EwWgG0pRL2TNnjbnDIl4qEuN_X9shUPoUEXbDTlubEvToWYNmKDjHaP33hki1vLDSdU1zcyJoL-Eh2NbLGMbQ-4r_0U6jVRSb7d_Lpl6nWzqKNgnXHm02VtMOOUCluucEIRKtYS-etp8-ZgkNvK37r55q_QYgWQrXZTfJNi4avBn1K8h4ka3HzsNwNqT5Z0AGeb5k0G0ggyjx0CDgi62LaU7L9LS2GFTbzcfNrsOL6znTYC5KuoaHYoyJCdRUHFG1KjEZ7jTDB-a1x5nR3_h0fXljIzWXAHDEcc87y6bxYqMOpAKJGd-44HdMMloi9J8NR1A"/>
   </entry>
   <entry>
     <title type="html">Говорят, Эстебан Окон сегодня проехал 150 (&amp;#33;) кругов....</title>
@@ -90,7 +154,7 @@
     <author>
       <name>F1 from Elmir Valeev</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6552"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y-lVb7ay6yYmqvP6B0_AlTe1kJNtph-FiJHBDlhla9f8sdsYNkObmVN-poxg9hc-65n7d90nImvZh04eYQRhw-NUvd7Pk75IeREAY6-dDZycrBA6Y0keo9BpeAEgisxd0_uM7MsiyuHZFNSjfwaDhlyR0YW_KiGd-JCyiS9nkNoR5Qmtf8yHSDsm9MtS5lnx82nNqekPnHzPLOAb2Bt5vWi1GXr8Rt4u6VsScnz46JYtxOEtc-ixgfuB6urnxEHn_Mn6JLbR-OiHSL4C2uzRXRKWwnxn3J2TF2tQn56cMpp7dheKuvIoF4VNLHaWvsm6qGdmIvkijoRPhym4ZIm6lw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Говорят, Эстебан Окон сегодня проехал 150 (&amp;#33;) кругов. Далее по пробегу Mercedes, за ними следуют Red Bull и Racing Bulls.&lt;br/&gt;&lt;br/&gt;Update: даже 154 круга. А Аджар — 107.&lt;br/&gt;&lt;br/&gt;Update 2: добавил количество кругов в табличку&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/f1button/6552"&gt;&lt;img src="https://cdn4.telesco.pe/file/sGF0peC3WcqY0dNWx6ob0unqjqnUbuBwz8fCbMKAlsWg9xrmdA-ivR88rTihqwdtqBLNEA9SapZFr9Y2qLUKkMiRqk26ekrGJ6PUrAbvR7KPksaLher_SrgQWLVpeFLbvmjCTg97UVMrEOL4-UQI2fQK3bk5M57jUQAh2cLHfNbWZUMCDSAVdk_hzwnY9qEK5IppXRJhOAKatAaHJLivRPO1Cx4Ko_pYy1A4qTgkrHTJFjapesRenFB-GCdlXUtKQt0CXXbFN2t0s-YMkgPjT3Qwxj638fE55QFpATJbl9xiYpNv3moHnOfSgdeCASfT9L5FQcKYyU_l9k-Jbw3ETA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Говорят, Эстебан Окон сегодня проехал 150 (&amp;#33;) кругов. Далее по пробегу Mercedes, за ними следуют Red Bull и Racing Bulls.&lt;br/&gt;&lt;br/&gt;Update: даже 154 круга. А Аджар — 107.&lt;br/&gt;&lt;br/&gt;Update 2: добавил количество кругов в табличку&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Итоги дня с точки зрения скорости.&#13;
@@ -151,60 +215,5 @@ Update: обновил...</title>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А пока RB22 вам в качестве&lt;/div&gt;File attachments:&lt;br&gt;image_2026-01-26_13-21-23.png -
 7.6 MB&lt;br&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Тем временем Nürburgring Langstrecken-Serie (NLS) объявила об...</title>
-    <published>2026-01-26T09:09:44+00:00</published>
-    <updated>2026-01-26T09:09:44+00:00</updated>
-    <id>https://t.me/f1button/6546</id>
-    <link rel="alternate" type="text/html" href="https://t.me/f1button/6546"/>
-    <author>
-      <name>F1 from Elmir Valeev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Тем временем Nürburgring Langstrecken-Serie (NLS) объявила об изменениях в календаре. Цель изменений — дать возможность принять участие в серии «известным гонщикам». Учитывая, что новый график старательно обходит даты этапов Формулы-1, все мы понимаем, о чём речь.&lt;br/&gt;&lt;br/&gt;Главная гонка, «24 часа Нюрбургринга», и так не совпадала с календарём чемпионата мира, она пройдёт 16-17 мая. Но проблема была в том, что все предыдущие этапы на Нюрбургринге — совпадали. Теперь принято решение провести их в другие даты. VLN перенесла второй этап серии NLS на 21 марта. Ради этого пришлось «подвинуть» другую серию, RCN.&lt;br/&gt;&lt;br/&gt;«Начало сезона 2026 года Rundstrecken-Challenge Nürburgring (RCN) будет немного отложено, — заявили организаторы. — Первое мероприятие RCN теперь состоится в субботу, 28 марта 2026 года».&lt;br/&gt;&lt;br/&gt;Таким образом, дорога для участия Макса Ферстаппена в серии открыта.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">По данным испанских журналистов, Williams трижды завалили...</title>
-    <published>2026-01-26T08:59:53+00:00</published>
-    <updated>2026-01-26T08:59:53+00:00</updated>
-    <id>https://t.me/f1button/6545</id>
-    <link rel="alternate" type="text/html" href="https://t.me/f1button/6545"/>
-    <author>
-      <name>F1 from Elmir Valeev</name>
-    </author>
-    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/vestnikformul/43464"&gt;&lt;span dir="auto"&gt;Вестникъ Формул&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/f1button/6545"&gt;&lt;img src="https://cdn4.telesco.pe/file/dSeBS40BiGBGzMn8PBkO-iAtzTgNo5wz_Y8eGKyXXF1YJcTupjnVGXdHOsDH3Q91L0tiy9YlFotCB6FQ278Szmk1zFzrxVi5MYEW6YOlvr2LgnPGfDMlM-1nh8M8JyJplitc2RTcczMkB2RJGkxvTZCFbc5253y4D-dkVazpIcnBCYyZ8yLAhPcfBUE6mKMZFWIh-FTJ-yUpxPCx8VEuPgxu_bH8SWxqq8q1IFxeQvIQa5KsOQT9kpCRQ-hKnEpOdHqoandG7NtRj8JWbNx3KlSF3PDkcRihZORJMQukfw3BI81StxFbohnU9f-A2kGnidjoZRUVRHCuSm_1UHxMAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;По данным испанских журналистов, Williams трижды завалили краш-тест ФИА.&lt;br/&gt;&lt;br/&gt;Плюс машинам команды нужно схуднуть на 20-30 кг, чтобы иметь шанс на адекватную борьбу с конкурентами.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/vestnikformul" target="_blank"&gt;@vestnikformul&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В Барселоне стартовали закрытые тесты. Погода, кстати,...</title>
-    <published>2026-01-26T08:42:16+00:00</published>
-    <updated>2026-01-26T08:42:16+00:00</updated>
-    <id>https://t.me/f1button/6544</id>
-    <link rel="alternate" type="text/html" href="https://t.me/f1button/6544"/>
-    <author>
-      <name>F1 from Elmir Valeev</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6544"&gt;&lt;img src="https://cdn4.telesco.pe/file/WcvgR-AcoJXhcFRz6NCyhYUDvrI4A9qgIn1_7nGQA9szM_OLStIEyuLlp053raHYyksaomAexl4tK0-Qzzu4UpLAAXJs5Y-o-ol71XPaFRQQ0fA7mJVjgxdKhEMemEXDIOunPenfhVg3Musbj5nCG4fpapViJcnQUHR2MnwLS_mJc6jUKLz4i6BI7N_khqIXvuGcz2sizl4Q2eTIyBwf7F8XirN8BsNC2kbDlflWhKQio8Rxeq7pZJph1zrQYfPJT_zaS4fpZHAfiebmuoPPD4gM2P26XOWEs6NAJgoeGUplN_KALyPrLCwwlNhJ8VR6-bwyN3uzXPvkE0BxZ7YmRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В Барселоне стартовали закрытые тесты. Погода, кстати, нормальная.&lt;br/&gt;&lt;br/&gt;Первым на трассу выехал Андреа Кими Антонелли, а вообще сегодня должны работать Mercedes, Alpine, Red Bull, Racing Bulls, Audi, Haas и Cadillac. Несколько команд пропускают первый день. Williams пропускают все тесты. С некоторой вероятностью, тесты пропустят и Aston Martin — во всяком случае, раньше последнего дня мы их не ждём.&lt;br/&gt;&lt;br/&gt;Информации с тестов мало, а будет ещё меньше. Пока не все каналы отрезаны, но в FIA этим занимаются...&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Флавио Бриаторе заявил, что Кристиан Хорнер ведёт...</title>
-    <published>2026-01-23T17:07:43+00:00</published>
-    <updated>2026-01-23T17:07:43+00:00</updated>
-    <id>https://t.me/f1button/6543</id>
-    <link rel="alternate" type="text/html" href="https://t.me/f1button/6543"/>
-    <author>
-      <name>F1 from Elmir Valeev</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6543"&gt;&lt;img src="https://cdn4.telesco.pe/file/NfaU6MEcEMAb0LoOXRh5_nA-5_VhOEqBXH9XgyV98QzGEJvPe62XyEkA0CXZgnPLuk40Zuk5yUofdx_BT5eUdUEsqLL-syKn_PbyOKC9jZS2s-N_RtHntrPNsJFoE0eNoReckaChV4WXxzMCG4JJw2YLg0tEx8DunnCeNRIMdmCPjvcxPhJru-2-PnFWdUhKvusDTN49OnWDYi1pk-eCXP3VyvyzlzzEl9CyufYhZrrBptQVaw-Q-3AKGqecjSnvu_5O2MSOCrSilCK8kL_XM6ggCcdkogVxWAskzoK9CJDanNpG5blmJM--jtg8un0YhzRbQ082KwC52tAv5zU5sw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Флавио Бриаторе заявил, что Кристиан Хорнер ведёт переговоры о покупке доли в Alpine, но речь не идёт о доле самой Alpine. По словам Флавио, Хорнер пытается выкупить те 24% акций, что с 2023 года принадлежат консорциуму во главе с Otro Capital. &lt;br/&gt;&lt;br/&gt;«В данный момент в этом вопросе много путаницы, — сказал Бриаторе. — Есть несколько групп — не знаю, сколько именно, шесть или семь; каждый день появляется новая группа. Каждый день мне звонят по поводу Otro. Мне всё равно.&lt;br/&gt;&lt;br/&gt;Допустим, Otro захочет продать свою долю в Alpine. Если кто-то купит 24% Otro, у нас всё равно останется 75%, и мы это обсудим. Но на данный момент ситуация именно такая. Я знаю Кристиана много лет, я и так с ним общаюсь, но это не имеет ко мне никакого отношения.&lt;br/&gt;&lt;br/&gt;Сначала нужно купить долю Otro, затем Renault должен одобрить покупателя, и только после этого мы посмотрим, что будет дальше. Но со мной это никак не связано, потому что он ведёт переговоры с Otro, а не с нами».&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Энрико Гуальтьери, руководитель подразделения...</title>
-    <published>2026-01-23T16:59:52+00:00</published>
-    <updated>2026-01-23T16:59:52+00:00</updated>
-    <id>https://t.me/f1button/6542</id>
-    <link rel="alternate" type="text/html" href="https://t.me/f1button/6542"/>
-    <author>
-      <name>F1 from Elmir Valeev</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6542"&gt;&lt;img src="https://cdn4.telesco.pe/file/RhVHdT3SIzGRanZ77b3j0Di-17-C2nHbtQdhXC4PIqSjAFFyVlT5Hu8inJrXku3TmJtIQsPZXFGruiQFefi5Yv33NPoRIyD0AFp2Tac2pHRJEl6skEtju-HtYznLIMe0XDT7isa7qd8u7hlFGPNCO8Uc0oRl6GW4l85Yc7Q0JKaFDhr7gDARv9OuC4UERTGhV4hbu4FaZuUvQz7QtH1cQGc_jVoVhqXPnzQZKI80hBzoBJ1dH7pTIWYtoK898wx9BEmRf_0A4E0741jGF4zSbc2_bDHzOWWeLfPKo4aRBWVr58Y6jKiD91JgDU-VC_kkdVJLc7dMhccqnwSNK8E9jg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Энрико Гуальтьери, руководитель подразделения силовых установок Ferrari, о главном скандале межсезонья: переменной степени сжатия моторов Mercedes.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;«Мы рассматриваем этот вопрос совместно с FIA и всё ещё находимся на стадии обсуждения. Буквально вчера состоялась техническая встреча — своего рода семинар, а в ближайшие дни запланировано ещё одно совещание, после чего дело дойдёт до заседания PUAC — Комитета по силовым установкам (Power Unit Advisory Committee).&lt;br/&gt;&lt;br/&gt;У нас одинаковый подход, и мы реализуем его совместно: мы рассчитываем, что FIA корректно разберётся с этим вопросом, в соответствии с процедурами и системой управления, предусмотренными регламентом. Есть полная уверенность, что процесс будет продвигаться и вопрос будет решён в ближайшие дни и недели».&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
