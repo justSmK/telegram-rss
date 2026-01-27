@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/P2k0TComhnkP2Gvq5uq7yQ5vTpKPnr1eZNLUmAWPO3_cQFdfv70E4GV-EGTmI8LYwUGpjR_vxYZ0F0sTxM1AFGE9seW-B8TWv5I9gUQxzXUNaa1QCZl5T5_27j02D9Y7ikWu42Y8HrCias4up7t0K7ZI9Px96TGxER9MvWX5E01GhAwdp7ez-Fvfu1RqD_FtmkJAldzoa53lWE8nohODXHWN4RcVnFXqpJ5FBVbrzIgE-yhxMEWTGJ6fr__kibifotqocesEWSMQMPElXgtac7oZOuMPMvNW0UhtWZ2AhS38yqIIRYmqAhxHPdyTcXvrXtsH0FORFlrZvkI_LsYqXA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/P2k0TComhnkP2Gvq5uq7yQ5vTpKPnr1eZNLUmAWPO3_cQFdfv70E4GV-EGTmI8LYwUGpjR_vxYZ0F0sTxM1AFGE9seW-B8TWv5I9gUQxzXUNaa1QCZl5T5_27j02D9Y7ikWu42Y8HrCias4up7t0K7ZI9Px96TGxER9MvWX5E01GhAwdp7ez-Fvfu1RqD_FtmkJAldzoa53lWE8nohODXHWN4RcVnFXqpJ5FBVbrzIgE-yhxMEWTGJ6fr__kibifotqocesEWSMQMPElXgtac7oZOuMPMvNW0UhtWZ2AhS38yqIIRYmqAhxHPdyTcXvrXtsH0FORFlrZvkI_LsYqXA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1</id>
-  <updated>2026-01-27T20:28:11+00:00</updated>
+  <updated>2026-01-27T21:22:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -142,7 +142,7 @@ To meet the necessary criteria, the...</title>
       <name>Formula1</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/15aa1e8147.mp4?token=e_rSEWEhKr6gF6XQVNr6m6XrhlztlPfSbBc6iusBelwXIiaAVva2UGAdkVU9Hf6Q1tstUlISi0dWzKPX3yoIhl56_Y4dd88LxjG9ndN-u6yxcPG-77GKGqkz6DcObYVPVT5tUNkjy_5Ckxc69iU9Gi-pgjnJRq4a2lcrHLoV2XVY1CNZXk_BaVTm4hrRUbBGfcTpb8dBKjtt6Pny4hM2PJ0vrLYvryHehS6SCPXtQcx5dxu7hvgvqXLaKtxRH8eSwnbOgZPw25PLjKehuA308hdWZnil5MMC9oG02EBYjxiBIqCJ44WBDTyCckXFEG3pBKdalqOKC34FEqWev9lNmWyZgVY0p5RoCYfnYKCyRDxDdw7ujWgVdpgio7Mvh5Jo5L3e6TUf58Usscctyri1JAcI6z2GQHSRljfM-QeBGsfB1tGHnfkh6uuUwOLuV9vROTWwJeNZTV-HEWIUCqXMOfPyGavO3YgAFjfcEbed_JFH-4F9rY8wb-RZPaZgn8b2uFu7KCuX-jhMGX4Cpp8zgoUvzYYhOKbab2MaDeqiZz1zoPIwV8TqrW--1aoWBlB0OJmsecq9BLApiQwlCcf4sYzA0vSh-jMLZSEmlDSphraivRvlj1QULiBucqFEQZ94c-H9k3c1C84mB6QLfMk4fVkgLNtFuwM6aQdij6GEbbA" type="video/mp4"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/15aa1e8147.mp4?token=hcCejiJz-gs0wrIC4YmaQnhL_O8FF09tDT8e9q6Pt-lvBaLAS4oNWEXI6D1USNUeKSgrG374fggSpOPQIVxg20SsAgToHGkEr2Yl-X7xuP4u240fiZGzCck_9m1bd66E2pbvWDP6nqzJ8TuVR-MdYEbRNWhpY0yIpixDLmMdMoO3bqDXxWAXSUWFADdeBlarn4BORRQVTM8T02RIPTWMmGrFTbrQsUYaAsmZzv-KM3zo0Ir9HDGEb388bQj3jkblP1s8RC3ceoCE29qJuPoRci-Xclr70r6wyuGOyTL7DjG5MIwYWM53Eb3D1iKeoZSdglSWN16VayitD0APST3HCY_-FrxDO8WFgBfC7NuOfgn9fK2kp2gHBfX391jsuYjtLuNR9VtsG_rdLl8xcR65N3GSjq5gBIXhFTsttEZXAC_9KYo0Z5lWWaj4oyigZCxEGOvKNKERwTnmSpC6B_EHK3zf72grrLDd9HqigsZrWcmiSppN8YOG9eDSd7w9hw75TOdhZfw8agSvw9URlk5m8wDw_g8E7VLa0fazIDIFA13zBcWgqN8oaeAsR5118Ml_Hy0rd80HUgWnlJrWFG2VwgDLk_3AbsXbPOAepg-jMOxp7bnHhvheaPY6IwthuruNf_aWwmLmD0aVDlFFHxsYeVwoRytiHp2n6jLnZyKArw4" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;That&amp;#39;s a wrap on Day 1 in Barcelona&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918A.png')"&gt;&lt;b&gt;👊&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="?q=%23F1"&gt;#F1&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
