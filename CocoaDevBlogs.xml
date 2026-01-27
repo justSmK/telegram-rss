@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/eNniKtKd93mHbrirCEjsv9Ap10_lHOz3uCsFmqJNgrU2NEA2qmmk6ULK8bMaAt6pWvjhlFiplgeggC2fbRtYh0hfCmknvWURvZWdmA5qBhfMWFwfM6JZMqrrpwPQOKbdS1i7ue0UkrChq1R2MdZ04qozE0XFvB3tCxog0Sa5LZI6jp5LfXFv6iIp-iQLIl7F98ZddDBX4Vl9qzhhC4WVoWDeXZYUkgViM3Q0t8OTDVTKornqYf5MPnL6nZyPPSlU5eoT_yOCRJ6OwMARh53MbHAd8636H7QOtFts_qgUfPbgZV7M7MFk3HWxaHF9xaj_YVE22nrH4cPw_t7NRS1Egw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/eNniKtKd93mHbrirCEjsv9Ap10_lHOz3uCsFmqJNgrU2NEA2qmmk6ULK8bMaAt6pWvjhlFiplgeggC2fbRtYh0hfCmknvWURvZWdmA5qBhfMWFwfM6JZMqrrpwPQOKbdS1i7ue0UkrChq1R2MdZ04qozE0XFvB3tCxog0Sa5LZI6jp5LfXFv6iIp-iQLIl7F98ZddDBX4Vl9qzhhC4WVoWDeXZYUkgViM3Q0t8OTDVTKornqYf5MPnL6nZyPPSlU5eoT_yOCRJ6OwMARh53MbHAd8636H7QOtFts_qgUfPbgZV7M7MFk3HWxaHF9xaj_YVE22nrH4cPw_t7NRS1Egw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-27T18:43:00+00:00</updated>
+  <updated>2026-01-27T19:29:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -151,7 +151,7 @@ Announcing the Windows Workgroup - Swift.org&lt;/a&gt;&lt;br&gt;We are excited t
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A visual cheat sheet of Combine operators &lt;a href="https://t.co/c9B4HmojNe" target="_blank" rel="noopener"&gt;https://t.co/c9B4HmojNe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;&lt;img src="https://cdn4.telesco.pe/file/c1DzBLIY6lpDuGXkT97EN24hvuHLCcQEPZpnbyW9pFbCDR4gHHKKrZntl3y7gSFXaER9w-mYXV_IlYdkdfnPkTuI5MNXM2Ccg8uzA2yHK-3WGimMMN33ACdOX2X14OufFeEGliexK8qR3fWCycKz9MGdFF0SppSLxOmVuPvI47sC_MlFhvkRM_ijP_WYrd9kQU8bwEwXdeG-EdazPlgW6MmwznoabcpHYbYor4fy7FhNeDZsQb9DWjiUV5yLYLFDhkmBOuKHh3GGNwkU8BGy_iUTINALvx1EwZc1IrbljITnFFq13EsNFfeRWzRkj4my-QNrp4pRT_kyhugDNWIiDw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A visual cheat sheet of Combine operators &lt;a href="https://t.co/c9B4HmojNe" target="_blank" rel="noopener"&gt;https://t.co/c9B4HmojNe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;&lt;img src="https://cdn4.telesco.pe/file/HoNOAqU-d7XcIr9Sc1UaX2cxuk10y5J9ExcdLpm3wMG3U98dtDSLiECOHek8WDJvebuw4CEOREh1Uio8u86U1Jp_izZVzFHNHDRQiWWGIGNFk0BuhyHFygf-1qvpijPDnro6BHuHfEfvqXvPtoOTUxMHRYPx71axjLB5_rs8G-drwibCki-yAknKDxQrMMeR3X9o0IxBpZorIu7nKYy6hByhJhcNpuyJw4A_HqI_hfMDalLomJz0UvkfmMPnuY3nMz8p4xwug1qeonasHfB6dh5llhMADsyL2Ch6Xmc2YM6SFv0O6EVfcFVksYqBNGjtb56DKn9Dva3nCkoGdHvQsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/c9B4HmojNe"&gt;
 A visual cheat sheet of Combine operators - Tanaschita&lt;/a&gt;&lt;br&gt;This article provides a visual cheat sheet of common Combine operators, with a diagram for each one to illustrate how values flow through a pipeline.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
