@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/vrnUJVMf79x0u-wEL--3yqjM0pueCFWsOTWxKkLHmdA3zKfk6SjgxgAOB0p6BfOsHYq_r_XFTvMmwhjUGI-A9H-p3tU-yQCG5XwzsdecbwhgEfEL7RiTHM48_gu0br-c2K2iwqfqr3IoXhWc8aaJ55M-dTbolp1PrlnoHnI7xQFG_z04OP4P_UKqNAhpTwgTBfWO6VXeg6Ifnoi-r8G6IRXGmw3i1hsUHOKYI3IEzDqZ0F4VKAhvBwxKoTJc8CW6Cq7rlywXLy-pUwPFEsGNn7pPnX4Lz_mml5U--vWempyrRSaZbGLpz5Tg03RdRV9dABL6ag-Espw1rpp5o-TrQg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vrnUJVMf79x0u-wEL--3yqjM0pueCFWsOTWxKkLHmdA3zKfk6SjgxgAOB0p6BfOsHYq_r_XFTvMmwhjUGI-A9H-p3tU-yQCG5XwzsdecbwhgEfEL7RiTHM48_gu0br-c2K2iwqfqr3IoXhWc8aaJ55M-dTbolp1PrlnoHnI7xQFG_z04OP4P_UKqNAhpTwgTBfWO6VXeg6Ifnoi-r8G6IRXGmw3i1hsUHOKYI3IEzDqZ0F4VKAhvBwxKoTJc8CW6Cq7rlywXLy-pUwPFEsGNn7pPnX4Lz_mml5U--vWempyrRSaZbGLpz5Tg03RdRV9dABL6ag-Espw1rpp5o-TrQg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@evkus</id>
-  <updated>2026-01-27T17:31:35+00:00</updated>
+  <updated>2026-01-27T18:43:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Вопреки слухам, в McLaren сообщают, что завершили все...</title>
+    <published>2026-01-27T17:36:23+00:00</published>
+    <updated>2026-01-27T17:36:23+00:00</updated>
+    <id>https://t.me/evkus/17712</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17712"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/f1button/6565"&gt;&lt;span dir="auto"&gt;F1 from Elmir Valeev&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/evkus/17712"&gt;&lt;img src="https://cdn4.telesco.pe/file/qGKS5B5eAEwmJc432_nmuknSiGg1TsxJ1g1Y7KG9Y9SSX2UiBMUJ34ykpeEw4URUXhJyahBsk_cqCsC2hb9rpdcsW-wb_tFpUphhepA6wTz0UlwRstzEfaLkakhj_cETp4In9y9ZYXwTPoddZELlF6nnwQ7eT2tdhAgDuOvAZzxux-2WRbkgQ_aGldqmVVZUTD74tRrxU6AlEMQfGSqOLHzETThXpmdNya_YDaxKnF055LdIiZWpjy5wuMRUQ1h5iTWF4vKQCVVnao-O5cOlJnQaWLbQ507gVENs0WVfsOc3zL9fPrpU-3kOQurtiq08eN7b5M71ZAaq3JySwSyuHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вопреки слухам, в McLaren сообщают, что завершили все предварительные проверки своей MCL40 и готовы завтра начать тесты на трассе в Барселоне. Таким образом, они успеют отработать все три доступные дня.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Итоги дня. Солидный километраж у &amp;quot;Феррари&amp;quot; и...</title>
     <published>2026-01-27T17:20:56+00:00</published>

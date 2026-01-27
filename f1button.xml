@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/rp8O2CWAOETeYejm-qqDptK6CERR_dn0hQ2bWXMz-ZJ3kOa4kBD76e9MmBmie2Mi9elbSq0RxJ-yumKWstY3by4K2rixSTQzBfpWWA9i5hGmEO2X8JKoNstj5ysscEu-TLznMS0ws0PTYaK2vpZ7BzGbebAEJ33RAQkIqGMkU0PCKsn5nieRiYuKID4Vh0SdDARMiOrPATin19aPrAsSCEYWXPjOLJe45F_hurLEUDsMSOTRbuG78BaNAObayQc2hQ3WhEwtR7WP8blIZc7XzuXS9sZfWvxV6dpdihAQW9O4C6IZT6EoPxyAVgNMrbATF9OBYx1fqYbwGyITR3pSxQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rp8O2CWAOETeYejm-qqDptK6CERR_dn0hQ2bWXMz-ZJ3kOa4kBD76e9MmBmie2Mi9elbSq0RxJ-yumKWstY3by4K2rixSTQzBfpWWA9i5hGmEO2X8JKoNstj5ysscEu-TLznMS0ws0PTYaK2vpZ7BzGbebAEJ33RAQkIqGMkU0PCKsn5nieRiYuKID4Vh0SdDARMiOrPATin19aPrAsSCEYWXPjOLJe45F_hurLEUDsMSOTRbuG78BaNAObayQc2hQ3WhEwtR7WP8blIZc7XzuXS9sZfWvxV6dpdihAQW9O4C6IZT6EoPxyAVgNMrbATF9OBYx1fqYbwGyITR3pSxQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@f1button</id>
-  <updated>2026-01-27T17:31:37+00:00</updated>
+  <updated>2026-01-27T18:43:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -167,7 +167,7 @@ Update: обновил...</title>
     <author>
       <name>F1 from Elmir Valeev</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/f1button/6551"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZYlP0XuB5OEr6LgjkWQe8mM02erHUL9rNe8Pk-f046mZIOWGst3kZksgeU0RD2VOdVWY05TNldDhHpHs5lTibGIB_mSyO5NP53k2lfuHLIF3ZGGeDdeZKJAFu_zyg52AKsgsRyV1EB0uLi_d5lJRVHaj5W8cKmIO3JB72MYSFlW7jC6ySpvnyk5K66jTxoy0jXfI7goGHVhcd9iRjcx_NlW09Ph5foheROSGHEkSOICxqh1GIuj3DDOpkPxEJx6jjcwejZKeFCquwUwclnckMLCjM9zuXt9n95pYKkXhwqWQ1s2A0BOhLee_phEASlBQCsLtxI5h8zbkC0hLIun8Qg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итоги дня с точки зрения скорости.&lt;br/&gt;&lt;br/&gt;Update: обновил табличку, добавил круги&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/f1button/6551"&gt;&lt;img src="https://cdn4.telesco.pe/file/tdNhdDAYRbajDb8MbKIC3ZLG4QyJc2M6eqoChPQrYWSKFissA7a8XuW-s3nK4sikvRzETFp2-qyBf1_7i8BlQhWxL9Z3AsEeCuEvkh8PuV4b2jYgN1HhdQ31mMLaFzvwaZ9_uMnrJ53B_k56B1Rb4IvhS0PjtguuitbYXRvVfXzWkYKCYCfIUdq07HFfa5z_MaD1IraYfWSXj735q3GpQyaHgqkdyioBdEjMTG_LMEpIU_1zqBqhERfK3JqccB8Y5lCnHMXp6sso2-_Qua02ZcglRQdqET8FApaCDTkPH6U0FcsGKemThcw1Y73xq9xXWo5aoyHVWveQtoNMWybxYQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Итоги дня с точки зрения скорости.&lt;br/&gt;&lt;br/&gt;Update: обновил табличку, добавил круги&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Поток информации с трассы почти иссяк, так как...</title>
