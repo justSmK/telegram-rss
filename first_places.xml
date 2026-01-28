@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/bZ2q7x4w0bMLCIizA00b7p2zxC8DPgSL01rBoH1JWT1PNu05NI82kzwm80ZAj_WKbjzRSDIG21f4BLqbmLClGmcv3lY0OuppCmmfvU2ZDwIi8dpsG-OAZAK3kU3cnCiLPtO1MSbdnhrFCGPk99ZlB40luTM-z__0l4DRBZ0zJmIwudjSWB7Soib-xEO61Ull4sLMvOPsBLfKM8EsgJbOZfiuO7TxTi-6OkRGdQqufzYcjRw80Oz-gGMqOZsdcZuSe74tYecbCKlnHVbKOQGE_ZUYcrBJVjReDq9yI5mvpWTSDItT7uKmf9klB0FnZ_MFXHFWCIh1zyGTQVg4CdVgmA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bZ2q7x4w0bMLCIizA00b7p2zxC8DPgSL01rBoH1JWT1PNu05NI82kzwm80ZAj_WKbjzRSDIG21f4BLqbmLClGmcv3lY0OuppCmmfvU2ZDwIi8dpsG-OAZAK3kU3cnCiLPtO1MSbdnhrFCGPk99ZlB40luTM-z__0l4DRBZ0zJmIwudjSWB7Soib-xEO61Ull4sLMvOPsBLfKM8EsgJbOZfiuO7TxTi-6OkRGdQqufzYcjRw80Oz-gGMqOZsdcZuSe74tYecbCKlnHVbKOQGE_ZUYcrBJVjReDq9yI5mvpWTSDItT7uKmf9klB0FnZ_MFXHFWCIh1zyGTQVg4CdVgmA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@first_places</id>
-  <updated>2026-01-28T06:41:32+00:00</updated>
+  <updated>2026-01-28T07:30:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Почитала  всяко-разно; что логично, пишут, что...</title>
+    <published>2026-01-28T06:49:23+00:00</published>
+    <updated>2026-01-28T06:49:23+00:00</updated>
+    <id>https://t.me/first_places/39379</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39379"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Почитала  всяко-разно; что логично, пишут, что дальнейшие тесты для Red Bull под вопросом из-за отсутствия зап.частей.&lt;br/&gt;&lt;br/&gt;Ну и только ленивый не сравнил Исака с Колапинто и Дуэном)&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23redbull"&gt;#redbull&lt;/a&gt; &lt;a href="?q=%23hadjar"&gt;#hadjar&lt;/a&gt; &lt;a href="?q=%23tests"&gt;#tests&lt;/a&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Мда, Исак вчера порезвился в...</title>
     <published>2026-01-28T06:34:16+00:00</published>
@@ -146,16 +157,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>🥇First Place</name>
     </author>
     <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/RacingWeekend/15848"&gt;&lt;span dir="auto"&gt;Гоночный Уикенд&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39359?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/NptlGNNe5o0jR8NP5WYwRyBlESMSlzHDnkEGaaw_nKD_Lx9X2IwvqE9Xh5ubTOnirh_WM6P2GGK8Gzd2TVVIYEJoBKPErEPV2B-KxVEcKw16dE8Bo7qoo0iM_YQwBAGZx0w-U-xjiwd_ci6v8dv7blC6mNKdn06_ShDS4mifHx5iyG69Pz-iunIszDJryHVvpPF2cgUUK4-UB80Blvi23IINUrxcdBac70yE7MAscXHgM7Nk7QLfVm-xcC2a9oH0QK1tmDkI_cULMHuWMjh5QFYYnPY-4brtCOQ4wqiFY1NV17al1pZQPCh0biOq0oSktye3za5sKa7wHu0w6FkJ-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39360?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/QsFmATj_5T4pAjTMu2EOfDIdXsHf7HYbkx-PSoHAdDKvz1Xoew-JpHxbuSOr3dPiI4yMQW8yD46vvoks5mG-wopj1HF_z6VPIk1uNnqkjAv8BXewoK9vEaclilx3Drd0b_mX3KccWR-iZcg6shS6lwYANw7dzWBAaw5V9UmLyRVuhK9mWAI1iYn048M2XzbCW_CVwjlsKfx6hEzEvSe6U9yMPIuvMIT66o_-990Z6d1MxBliqD23jfN6GdruPZmVkhHKuKkXZn17nBb4F9tfUuulI_66_7QBdmOiJtMhDG4CXpsoYrLA9dRLseGilSKQUG8e3QgxUQ48YOdBGySIPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Первый сход в сезоне забрали Ауди&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Soy Motor сообщают, что перевес Aston Martin - не более 10 кг, в то...</title>
-    <published>2026-01-26T09:45:57+00:00</published>
-    <updated>2026-01-26T09:45:57+00:00</updated>
-    <id>https://t.me/first_places/39358</id>
-    <link rel="alternate" type="text/html" href="https://t.me/first_places/39358"/>
-    <author>
-      <name>🥇First Place</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Soy Motor сообщают, что перевес Aston Martin - не более 10 кг, в то время как у Williams он может достигать 20-30кг.&lt;br/&gt;Williams не смогли пройти даже не один, а целых три краш-теста.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/first_places" target="_blank"&gt;@first_places&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

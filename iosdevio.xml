@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/JuE-3HEipt8p9mfJUmL-g_13i35s-KfZs0_x_VGbxFdHUUZh4mG8ulJNTtSWVqc1WFgnGnfH6mfNu9RrD0Y-EYx0bHvFawqRYLuD8TAv2PbyRyvVUdPMQn4OMpT_sk0jN5esv8IZNy6sMvjVb37PNpBq0sp8fD1KLOJGCLsznBpsbh44w4i_cRYTB7Inyc04fL44T3wl1JUN-9INhGfiMigKJfGulP5XydKGmtt2UOAqzdu-_vWkKVY0WmfqQxiy19HSbEL8n0-rclWkb9gMw4T8376dTnX943hbch9pX4JUaO-vcAxr3EP-kuOOBKxzhSCRjnvMXQ31IEPnLyn_fw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JuE-3HEipt8p9mfJUmL-g_13i35s-KfZs0_x_VGbxFdHUUZh4mG8ulJNTtSWVqc1WFgnGnfH6mfNu9RrD0Y-EYx0bHvFawqRYLuD8TAv2PbyRyvVUdPMQn4OMpT_sk0jN5esv8IZNy6sMvjVb37PNpBq0sp8fD1KLOJGCLsznBpsbh44w4i_cRYTB7Inyc04fL44T3wl1JUN-9INhGfiMigKJfGulP5XydKGmtt2UOAqzdu-_vWkKVY0WmfqQxiy19HSbEL8n0-rclWkb9gMw4T8376dTnX943hbch9pX4JUaO-vcAxr3EP-kuOOBKxzhSCRjnvMXQ31IEPnLyn_fw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-01-28T06:40:43+00:00</updated>
+  <updated>2026-01-28T07:29:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -203,7 +203,7 @@ I’ve had a lot of fun working with CKSyncEngine over the last month or so. I t
     <author>
       <name>iOS dev</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/rendering-markdown-in-swiftui&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui?utm_source=substack&amp;amp;utm_medium=email"&gt;&lt;img src="https://cdn4.telesco.pe/file/lN-8NWbnnLJWwxrTr5zgQd-Cn_tpUJG1COZmlLO7iyPewpv805D88PEXECP25YRbunqjLXqUASnDBEhyhvMLiiGOKTXVjiTRH1S3xROACVmwH-9vsmgRSApeqJzFyAOiQVjxddvagYnYQvtx4xIULiPszF7nIL75COcm5q4G4dJn5RV9ApweqzZLbWDx1b4u49cdcuw39wltM_htXB0gVc7oiGA830qKWXURd_YCcur0BZ3R86LSRdI-rlYK5LuGi7Ml8-fX_WnbobjQaacoM_yMxpgXnF2ym3f-zudo4GY9cgyqK0tP4spN95sylifujfA3YfJqF3Nc2rODwQCAFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui?utm_source=substack&amp;amp;utm_medium=email"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui" target="_blank" rel="noopener"&gt;https://artemnovichkov.com/blog/rendering-markdown-in-swiftui&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui"&gt;&lt;img src="https://cdn4.telesco.pe/file/lN-8NWbnnLJWwxrTr5zgQd-Cn_tpUJG1COZmlLO7iyPewpv805D88PEXECP25YRbunqjLXqUASnDBEhyhvMLiiGOKTXVjiTRH1S3xROACVmwH-9vsmgRSApeqJzFyAOiQVjxddvagYnYQvtx4xIULiPszF7nIL75COcm5q4G4dJn5RV9ApweqzZLbWDx1b4u49cdcuw39wltM_htXB0gVc7oiGA830qKWXURd_YCcur0BZ3R86LSRdI-rlYK5LuGi7Ml8-fX_WnbobjQaacoM_yMxpgXnF2ym3f-zudo4GY9cgyqK0tP4spN95sylifujfA3YfJqF3Nc2rODwQCAFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/rendering-markdown-in-swiftui"&gt;
 Rendering Markdown in SwiftUI - Artem Novichkov&lt;/a&gt;&lt;br&gt;Learn how to render Markdown in SwiftUI using Text and AttributedString&lt;/blockquote&gt;</content>
   </entry>
   <entry>
