@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/oPmbv3_SNRAqmM_znyx3oXs3jgeJHIYqVjuIoICk6RtBbzN5XivMUVXqNgjeVl6TZHOOS6Y3Oc6WAr9wmXw3cDxIvdhp1fmbyy74sx7MkUNF2eOLgKapCDPAD7EWBDoTlpT9OkWwBshx5BCGfc7xjYoIWWdVnWwSohF91cAKkkTngqx0qfjhc1IH0dXjncW0RBa0ZUs773zXvU_q3MK5zd2aO9FkJT0yj0pJmYKuNDYW_d-VqKKryKCrcVIhodilcQ7bbEx-sYryTIGK4e3_7d9ftJwOS1SCLZyzMAb5MfPC2b07U8_SnHy0yYyx1i5axByVkOeoihY513iLF65Sog.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/oPmbv3_SNRAqmM_znyx3oXs3jgeJHIYqVjuIoICk6RtBbzN5XivMUVXqNgjeVl6TZHOOS6Y3Oc6WAr9wmXw3cDxIvdhp1fmbyy74sx7MkUNF2eOLgKapCDPAD7EWBDoTlpT9OkWwBshx5BCGfc7xjYoIWWdVnWwSohF91cAKkkTngqx0qfjhc1IH0dXjncW0RBa0ZUs773zXvU_q3MK5zd2aO9FkJT0yj0pJmYKuNDYW_d-VqKKryKCrcVIhodilcQ7bbEx-sYryTIGK4e3_7d9ftJwOS1SCLZyzMAb5MfPC2b07U8_SnHy0yYyx1i5axByVkOeoihY513iLF65Sog.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-01-28T07:29:56+00:00</updated>
+  <updated>2026-01-28T08:37:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -63,10 +63,10 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/sB5HTBncNc0w8Zc8Ssaz4RDEzNUeZsRcD-ZATbDXlHQ4hDOjX_7Nxjv5O6do1ylH8yvd6YcrE8Sd_kyo02-hVgzGEaDfwTGIEtp-r1ZSHtTzzNv-j13LAJTYKmMzcyYoVEBJJ2o_dQioF6PPRvKegIehVMk7QSik2X7RirwjEnOlFETZ7tbinBCMwz0cVd_NIHOa95VoQkGG2mRs1_TGW94CdUsqOG-_uyhfFX2iKYdc-v22vBO3-tRsejmMSgSP598oF62mqFLSNQw7CjsYqVeasGn3XJVvutcgSAEbdW40n0XAOcZ4UFIlilqQBOTyKvhd3J5wCwi5wj5vDDMaWQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/c973a1ed89.mp4?token=uPthPA6xLF77kvVzs4T7CWKwhNUkZBd1G0mjiHf4y1T4vxfgjycID2nQJ_WtAOUUonAa_THeDZ7s3UkwqCRf9nFhKXiOKXtEXCaepEQ96hC5zODsxbqws7ycsaNgyrX66EO6QrGqITxAEoPJw06udRDHVQUllpeH8vVsnpxG4XJpFXw9pjWIWPu4IGF2CMhgLrA8zA-Lvh6i0xIAbkzfzEq6k-MQHCBsOpdI8a5Wf1lSP8zR4fXnN-v9jXFAxh4uZVWpJ6Cla6-w9MqMjNdgNVyaPhWHh6xc_qU9BPy8ajKeOQs0uVCfTQ-ST84sVdaVC9URCgDbyWQCT1VYQh6rkA" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/Su5dEz7hdO5uQPl1cjuPEscls0n5l6G1A0m7XsCHWaRjTTNsWCtk6cR55q2KHG3YW_YpOhYaB6Nvi4xa7o002tmnxiNtTGcqRQt0T-ZoReuP12LF-U9nWeR310sZZMp8J7MY2potI81pWdRU37l3F7kRqGVF8G_5N3Xp5GNro5na6UlLB13IxEDccbm2RH72EyxvqpPzA8H8JkTnePYx1mQG4fG_3WQ7FWxjp9IQD1YY_qxGen0SBzHC8F4YnseB7xf-8hQfcDGYjKfaTfJoW1RyYEKFPzb89ErwunrG0OctJ8BCmfsNFxxOGFCVTIjShQaziO6QhSgGhN_39pNGWQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/c973a1ed89.mp4?token=qZ-akQ6jnaARJBtsXT4cIG-2vDMU8wHXF-qmjDan9kvrjV5E458bcD705sfWMMcGRViX3L5F_tKhQPvRpq0jo89fjMTVn4SADOsGd-dL8ii2wShCdECr3SQHGIPXqZ65oTw6YvVoRTYTy8vuJiwl6nuV2zVScSK11VYVDP-Tu2L7d27tmVYdQ3Z8kyctCGMP1nNzkxz4Uu7WFIf0YRBix6oQWJwe0bkEMW9khGT1OQ7fnT1YJ44gQv_TZcpPFWLhmh3XYOTaNsH5lVFufgNVxTU1xGag_HgZrnk43LcZEhQAyK5iTlDqBF0QGW12Ot35bMP3sRHfP0YRYZuAkOAIFw" type="video/mp4"&gt;
 &lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/sB5HTBncNc0w8Zc8Ssaz4RDEzNUeZsRcD-ZATbDXlHQ4hDOjX_7Nxjv5O6do1ylH8yvd6YcrE8Sd_kyo02-hVgzGEaDfwTGIEtp-r1ZSHtTzzNv-j13LAJTYKmMzcyYoVEBJJ2o_dQioF6PPRvKegIehVMk7QSik2X7RirwjEnOlFETZ7tbinBCMwz0cVd_NIHOa95VoQkGG2mRs1_TGW94CdUsqOG-_uyhfFX2iKYdc-v22vBO3-tRsejmMSgSP598oF62mqFLSNQw7CjsYqVeasGn3XJVvutcgSAEbdW40n0XAOcZ4UFIlilqQBOTyKvhd3J5wCwi5wj5vDDMaWQ"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/Su5dEz7hdO5uQPl1cjuPEscls0n5l6G1A0m7XsCHWaRjTTNsWCtk6cR55q2KHG3YW_YpOhYaB6Nvi4xa7o002tmnxiNtTGcqRQt0T-ZoReuP12LF-U9nWeR310sZZMp8J7MY2potI81pWdRU37l3F7kRqGVF8G_5N3Xp5GNro5na6UlLB13IxEDccbm2RH72EyxvqpPzA8H8JkTnePYx1mQG4fG_3WQ7FWxjp9IQD1YY_qxGen0SBzHC8F4YnseB7xf-8hQfcDGYjKfaTfJoW1RyYEKFPzb89ErwunrG0OctJ8BCmfsNFxxOGFCVTIjShQaziO6QhSgGhN_39pNGWQ"/>
   </entry>
   <entry>
     <title type="html">Телеграм&#13;
