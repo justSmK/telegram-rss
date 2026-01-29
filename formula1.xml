@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/bkCD-Hy_ZyRdt0L96vtHoVvciPQZbOoFIocjmaGRqEeRX1-uh9q8IZz34OPdX3rDzYjWhbgEX-qOGcQXDd_qciZGvaN0Vp1Rm1xyMSF5Ux3O1Y1qxb_ZwDlcADk4ZDz4XbzjPoDfMXYtVZ0U3RP07nMmDYZTgV2V5Yge5yyFFOh8pqh22eZ8urlJK3aTVWycmfihO_acENwmbA-oziC5fsVK--FPV-xwMNSWZrSRnMoPeTeY_naDiZj0iV95DqK9pzNF_id6fONJjlS9p2YihVcoF2VvfsC5H38PBGVFvXnkL9cbgftUoR-4aH__C8_lg8LLohOJ8BX-23YoqjfALQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bkCD-Hy_ZyRdt0L96vtHoVvciPQZbOoFIocjmaGRqEeRX1-uh9q8IZz34OPdX3rDzYjWhbgEX-qOGcQXDd_qciZGvaN0Vp1Rm1xyMSF5Ux3O1Y1qxb_ZwDlcADk4ZDz4XbzjPoDfMXYtVZ0U3RP07nMmDYZTgV2V5Yge5yyFFOh8pqh22eZ8urlJK3aTVWycmfihO_acENwmbA-oziC5fsVK--FPV-xwMNSWZrSRnMoPeTeY_naDiZj0iV95DqK9pzNF_id6fONJjlS9p2YihVcoF2VvfsC5H38PBGVFvXnkL9cbgftUoR-4aH__C8_lg8LLohOJ8BX-23YoqjfALQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1</id>
-  <updated>2026-01-29T04:41:20+00:00</updated>
+  <updated>2026-01-29T05:48:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -84,7 +84,7 @@ The team is...</title>
     <author>
       <name>Formula1</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/formula1/23510"&gt;&lt;img src="https://cdn4.telesco.pe/file/HBrSj7iUGDzvs6VO4RcJvxPT9QlimSPkndSJ_jl5ANfJlx2lx18aZB6YrWTe42VnW476THMmzUNvzV_PwZjoB0xaM1FgqatribUt9SLS3-FAstUg3zU2WD-yLS0ailpMqjCdOvg-5icV2TiAY5nz7skB8oosjp088ZErtnO-LfCa123QWRFmfVFJntauney4a9timjI0zRWrGD5r0LKD7KkGlVV6n4_tfZpJvAlcEuKqByeOPbsJeeLt0C0FwH7jIG4H2nfVaLwcj45PIzm8ydV0psfOdsGllIvOVO0qaBAVwWRpuA4S1kSvPVnDGCXzGaRp5l3-UeKNGvmg9kcbGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Aston Martin has completed the assembly of the AMR26 and is on its way to Barcelona.&lt;br/&gt;&lt;br/&gt;The team is racing against time to be able to complete its first laps with the new car on Thursday.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/formula1/23510"&gt;&lt;img src="https://cdn4.telesco.pe/file/qnR52MySyzSWqRdl0Q3asi_SdalJR5TU9ZdtrXIXEMNLzGC4dLPTtYNM_QYc29b-Nix62aZB-R8XbyQ--dM5lSgE1y1mlIf0FHW0G9W3zKh3OPT_2G4Q5IWvfgxeRQKr4vzAyfbto0jamW7gdr6GW62vj3-VLI49e24wfbB4JHvRfficLWSYXT_kfNKJLH_WONyF0vsmjjG68qpK0CrpmlgBsgCdcDiga0I-1W66h0EROpRpoKdlnDpW7u35URLKPlC2-89nywlF7alWvykB3z11Qr1LeRjwc5VEDZcbVQW4IBmdOxNGAwGe-kVVFFmYr3V8weTFnry6fNBdm7Jk5g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Aston Martin has completed the assembly of the AMR26 and is on its way to Barcelona.&lt;br/&gt;&lt;br/&gt;The team is racing against time to be able to complete its first laps with the new car on Thursday.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">*other drivers in barcelona testing the new cars for this season*&#13;
