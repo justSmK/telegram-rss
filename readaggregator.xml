@@ -3,10 +3,10 @@
   <title type="text">Readaggregator - iOS, Swift, Apple, Programming, Mobile (@readaggregator) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/readaggregator"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator"/>
-  <icon>https://cdn4.telesco.pe/file/YpG4InoTakDNgJnUgPlHcf88pEVWVp-nh36Te0rQtJILacDo6SmliEl344X9G9sjhW-JV5fOHhNGbiJUFkj8odnMQB-ns4DFpZCy_4Ub7Ge0w69lmZEw39Pyan07CpQIuOiXAsf6e4iEjuGW-x3V5ZNYEodPygO2gAt0RA_1a3JRSzsgauOj_nON7g0A5zuAKjbFg58u6WVasolr04z8TuFo0UpTx3mj5eV5c0AU4s19cLK25jSmLE4owQf3OgnzfkccxxkTSBX1IQ0NxcR9Rq_lZynqn04e1rpdA3q2pzpwL3ul0kPp7utjfVc3XWtwMvxFagQ6V76sk8B2QsiwGQ.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/YpG4InoTakDNgJnUgPlHcf88pEVWVp-nh36Te0rQtJILacDo6SmliEl344X9G9sjhW-JV5fOHhNGbiJUFkj8odnMQB-ns4DFpZCy_4Ub7Ge0w69lmZEw39Pyan07CpQIuOiXAsf6e4iEjuGW-x3V5ZNYEodPygO2gAt0RA_1a3JRSzsgauOj_nON7g0A5zuAKjbFg58u6WVasolr04z8TuFo0UpTx3mj5eV5c0AU4s19cLK25jSmLE4owQf3OgnzfkccxxkTSBX1IQ0NxcR9Rq_lZynqn04e1rpdA3q2pzpwL3ul0kPp7utjfVc3XWtwMvxFagQ6V76sk8B2QsiwGQ.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/HzMJkSXDPUXdDZEmgPJb1noJ6wzZrIh1_G7n3020X8eqDlYZ52IRsAecWd7T99bLVhouyVHnxXKUiYIyR3vCph3soqsthjISSFUqZraxSRPAhXEIHKizz6PozHE8Fu9jRRQduLDcEPrM0WJtbA3F1I3_BzHd-irUcCMMfp_1gnzu33_0XEWcAJpHTYKW3yaL0txk95nBHbEtAH9K8YoUoLNkGn-t5r8Uxdf9UwIDh7eylhdNL9P9K7a5qukw3wUFwARnDtN1Iq2LnevIUknU3Hu5WzuOOxiJSKNRHjL4ZlaHt4eIb1hC1BfLh8tM0wQg9qCmWM1Dag-DeKZQjGb0kQ.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/HzMJkSXDPUXdDZEmgPJb1noJ6wzZrIh1_G7n3020X8eqDlYZ52IRsAecWd7T99bLVhouyVHnxXKUiYIyR3vCph3soqsthjISSFUqZraxSRPAhXEIHKizz6PozHE8Fu9jRRQduLDcEPrM0WJtbA3F1I3_BzHd-irUcCMMfp_1gnzu33_0XEWcAJpHTYKW3yaL0txk95nBHbEtAH9K8YoUoLNkGn-t5r8Uxdf9UwIDh7eylhdNL9P9K7a5qukw3wUFwARnDtN1Iq2LnevIUknU3Hu5WzuOOxiJSKNRHjL4ZlaHt4eIb1hC1BfLh8tM0wQg9qCmWM1Dag-DeKZQjGb0kQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-01-29T05:47:54+00:00</updated>
+  <updated>2026-01-29T06:53:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>

@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/UCi_x1n5RqBdqRwrwz1PlHo1vBISje3Fbiy2YEMvmmQpbXv1RwREsk8TSOjAPl7j5_meMVYM_Nw-CDNG6oyMV5IshQPVs_cV__YUdErUSKO-dcgkHmcpWqxHRzcF8BKtEPpTAtQb-rW_GlyeuGgdhukS2x8ysahG8D87gzRfjn3Y4Pv04GgnKjQTJecMTPLb27I-gN2T2htgLbDioWqfzskBEqMNawdr7SQW_LdGhadWtoEJDeDtE6E1NWJBG_kAiuY7eOoSpfKhVwYqueN2tf1imeySZDK0Qywozg6GCaJhpb-0af2Kpq4gVT5mEqkix-SNVoiacJ6NthIxq3cFMg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UCi_x1n5RqBdqRwrwz1PlHo1vBISje3Fbiy2YEMvmmQpbXv1RwREsk8TSOjAPl7j5_meMVYM_Nw-CDNG6oyMV5IshQPVs_cV__YUdErUSKO-dcgkHmcpWqxHRzcF8BKtEPpTAtQb-rW_GlyeuGgdhukS2x8ysahG8D87gzRfjn3Y4Pv04GgnKjQTJecMTPLb27I-gN2T2htgLbDioWqfzskBEqMNawdr7SQW_LdGhadWtoEJDeDtE6E1NWJBG_kAiuY7eOoSpfKhVwYqueN2tf1imeySZDK0Qywozg6GCaJhpb-0af2Kpq4gVT5mEqkix-SNVoiacJ6NthIxq3cFMg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-29T05:47:43+00:00</updated>
+  <updated>2026-01-29T06:53:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как исправить баг в компиляторе Swift&#13;
+&#13;
+Небольшая...</title>
+    <published>2026-01-29T06:02:06+00:00</published>
+    <updated>2026-01-29T06:02:06+00:00</updated>
+    <id>https://t.me/iosgr/4594</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4594"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.massicotte.org/blog/compiler-changes-the-easy-way/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как исправить баг в компиляторе Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Небольшая история про то, как даже тривиальный source-compatible багфикс в компилятор требует многих дней обсуждений и длинных циклов проверки на CI. Если где-то на дне вашего бэклога лежит план законтрибьютить в любимый язык – обязательно почитайте.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.massicotte.org/blog/compiler-changes-the-easy-way/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.massicotte.org/blog/compiler-changes-the-easy-way/"&gt;
+Swift Compiler Changes the Easy Way - massicotte.org&lt;/a&gt;&lt;br&gt;The secret is to do as little of work yourself as possible.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Держите идею по борьбе с мошенниками для банковских...</title>
     <published>2026-01-28T06:05:42+00:00</published>
@@ -19,7 +33,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4593"&gt;&lt;img src="https://cdn4.telesco.pe/file/Eyzi5ETqaQujcv7oSfrve5KbzK1dqSjQio2dJSZOLJv26Q_vSmu3ogzYRXF6_ILKgXT-Qc5CD6AhssQNToi0SoHe_2AbPEALpwlccmYYcJkqjG1p-xrrHaOF1Ufy3z1syBhffOmBM6PIMe7YCoEvKi-tF20oDDpgu0Sb2sgjL4UrFqKtSoUWBE0al78qaRER4HqvUN9vNnqrmvBJJih_aqEealpTB-sy4wLaiazgVI6gKjxCXMmtNCuvW4rtz4cwu0mTyWKoUVZRSURXku0ULVoIhGaL3oxML2ROqTJdpqP0gvlSBxwPl6gIj2aetSJbM5Y1HWC2vFP7ysm70YOaqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите &lt;a href="https://x.com/jose_goncalves_/status/2013582732127846755?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;идею по борьбе с мошенниками&lt;/a&gt; для банковских приложений&amp;#33; Когда во время звонка кому-то вы открываете Revolut, то сверху появляется небольшой красный баннер, предупреждающий, что на звонке не техническая поддержка.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4593"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZE88Va0OXRPpYMPYt1XPvEp66ZtObT6v4b8qVSlbmMoU3XbPkY68msYto_0VKzVVH5yFtQK6zpaW5ktZKJ11Q1y9Iug0UJJPn5Ru4wcLsblkMqTDHyMN5Da-JYb_HSeI6FlnlVOmuW9YJzo_rfWpFsC4pBoJhN-INPc9QCpmEuAvQE0jKGI_Da0xpIDZdhoYR3kCn2V2SzbS2GT_9yKo27k2HOuIoae-6M79GvsMaYraQZSkiGKwTGut-phMqU1f_gRrxF7_v4jk75epfd6ThPDkpLRYDYIbTgz5KQQr8fVJ6xmjP9y3xTLc6IqytRGVZoaTTLZP09tsbBxnxD59aA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите &lt;a href="https://x.com/jose_goncalves_/status/2013582732127846755?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;идею по борьбе с мошенниками&lt;/a&gt; для банковских приложений&amp;#33; Когда во время звонка кому-то вы открываете Revolut, то сверху появляется небольшой красный баннер, предупреждающий, что на звонке не техническая поддержка.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Советы про Universal Links&#13;
@@ -110,7 +124,7 @@ Cupertino...</title>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/mihaelamj/cupertino" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cupertino – MCP сервер для документации Apple&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Cupertino вытаскивает информацию с кучи ресурсов, включая официальные доки, метаданные всех Swift Packages и HIG, индексирует их локально, и через MCP отдает как контекст AI агентам.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;&lt;img src="https://cdn4.telesco.pe/file/QkRADUJJbV9JkzSYBkqpnLvz26K_l2hrtyYA2Lv2WAvC6nBhjjcEjQUgyTZOyaR6t9eEbdUdiRjItz84ZEDcl1SZlD5z1hxYXJwkPr6NtwXRGrRxeF0S9wl4klHJPlTJc3whVIuAOI4zRrvL-txOaP2iq6UtzO7g0BezqKdjoO7jWqQe278FRhbAQ4bwIZWXVCc5AK0roS-UvIxlaYJMEtGSfHIdIfDHcLGJiOin_aSTLVl5YAXTDk5aKfl1vQRYmLmr5zqaxNAI0dpqitp_2MgC6I031cEfvBh2TPnHKJmEeXZBmsSgR5qZPtkN88wH2hvvkiMIeuSssakU-DhBxA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/mihaelamj/cupertino" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cupertino – MCP сервер для документации Apple&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Cupertino вытаскивает информацию с кучи ресурсов, включая официальные доки, метаданные всех Swift Packages и HIG, индексирует их локально, и через MCP отдает как контекст AI агентам.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;&lt;img src="https://cdn4.telesco.pe/file/d_x9ya7EIuLNsGxLPxYpppgnP--Lo3kFCGH9jErn36LUkqNR2QqM4tJS0J_MITBA3TcER045mIXIRyxWVQ4dLaijXwKRZBU0PAx_WMhLE-F6nzm5btFqKnO4DJkm_A7UcPU9PdKZ6q8cDM3quex6kFn5BBNAOjDztBuZRtftLStafA67DJmFVezTXG_KBwbFHHaYi6bnj9ewTcOfHgZipvXdp6qSvbYa66ChBf1LWObFjpLaL_aL3klhllz1lcf-LFJVJ6H2ON6Kr6YelnkKHbsXDyvwu-6f_YPC99P4PDVgFTWhpKvWW_9emuorto2bLIQpdW2XCgG-TFLl_kRq4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;
 GitHub - mihaelamj/cupertino: A local Apple Documentation crawler and MCP server. Written in Swift. - GitHub&lt;/a&gt;&lt;br&gt;A local Apple Documentation crawler and MCP server. Written in Swift. - mihaelamj/cupertino&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -251,17 +265,5 @@ Swift Subprocess –...</title>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4575"&gt;&lt;img src="https://cdn4.telesco.pe/file/FH0TbK2AgBdTLcPURdqQ08l7ozjyKW9q-bSEdJGu3Fu10jDtN1cDqjqqFntmXmDk_GBBhbZ20otNcLJAmtf6MIOQfCZGs6HLm4DwxchqRnG501KCOv4vF-ZE7GtpbzzWYe4EoCyXpmqPtI26GPGS3I7YaPMlgXgdQvfsX6KklUNP4soWS3VXiaKKLy5t7Y8s0rUKdMh5KyE2dtbAdiq9S3nf30D0qDkQGABzlU-3ASXrZDlOsjn_veXY9pv7kjj74Pky3UhkZIcn1ej0ap9Y_U3TepWKes6C9vPAb-rssNOpI9bMewd2vvt015j5e-JXGz4jWUyyh84PnNTjIi13BA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=artemnovichkov.asset-catalog-viewer" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Asset Catalog для VS Code&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы постепенно переезжаете с Xcode в VS Code или Cursor, то вот еще одно расширение в копилку, которое возвращает часть привычного опыта – просмотровщик .xcassets файлов.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Replay – тестирование против реального сетевого...</title>
-    <published>2026-01-06T06:03:59+00:00</published>
-    <updated>2026-01-06T06:03:59+00:00</updated>
-    <id>https://t.me/iosgr/4574</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4574"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nshipster.com/replay/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Replay – тестирование против реального сетевого трафика&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/mattt/Replay" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Replay&lt;/a&gt; – новая библиотека от Mattt. Она умеет захватывать ваш реальный сетевой трафик, сохранять его в файл, вырезать секреты, и дальше использовать его для тестирования вашего сетевого кода.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nshipster.com/replay/"&gt;&lt;img src="https://cdn4.telesco.pe/file/SOrPNsUAZb1LDlSospDlimNUzUBoKxFrLOHYaytFjAh9NgrJHYVAqWN2iLwJgv00SElPnCD2lML16brUVpGGjBgugfydwiSziCUTEhpBjP76n0eQ584wTHbAJLGIgKRbJPEF7RlAp8GYj9i-c4KQDUfX3eFCbu77myUlSUcB2IokEB5pW9wvwDvXNemruZIfkIlpxyXW-HBxnrRaYzjqj1_AQ5LHI8FV1nBbxciqsoNKoA4grmx7y9m4QvhPEHAZytpCMhyZATd88zO_bBT4Ien71B3dngsG54pSbHnin6bcVTcmGH-Mc39MHiLv1ZNLdtTeDa2y7gxFmtypSPC_fQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nshipster.com/replay/"&gt;
-Replay - NSHipster&lt;/a&gt;&lt;br&gt;Fast, reliable API tests without mocks or stale JSON fixtures. Replay records real HTTP traffic once (as HAR) and replays it instantly with Swift Testing so your networking code stays honest and your test suite stays fast.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

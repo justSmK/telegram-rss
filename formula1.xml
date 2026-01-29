@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/bkCD-Hy_ZyRdt0L96vtHoVvciPQZbOoFIocjmaGRqEeRX1-uh9q8IZz34OPdX3rDzYjWhbgEX-qOGcQXDd_qciZGvaN0Vp1Rm1xyMSF5Ux3O1Y1qxb_ZwDlcADk4ZDz4XbzjPoDfMXYtVZ0U3RP07nMmDYZTgV2V5Yge5yyFFOh8pqh22eZ8urlJK3aTVWycmfihO_acENwmbA-oziC5fsVK--FPV-xwMNSWZrSRnMoPeTeY_naDiZj0iV95DqK9pzNF_id6fONJjlS9p2YihVcoF2VvfsC5H38PBGVFvXnkL9cbgftUoR-4aH__C8_lg8LLohOJ8BX-23YoqjfALQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bkCD-Hy_ZyRdt0L96vtHoVvciPQZbOoFIocjmaGRqEeRX1-uh9q8IZz34OPdX3rDzYjWhbgEX-qOGcQXDd_qciZGvaN0Vp1Rm1xyMSF5Ux3O1Y1qxb_ZwDlcADk4ZDz4XbzjPoDfMXYtVZ0U3RP07nMmDYZTgV2V5Yge5yyFFOh8pqh22eZ8urlJK3aTVWycmfihO_acENwmbA-oziC5fsVK--FPV-xwMNSWZrSRnMoPeTeY_naDiZj0iV95DqK9pzNF_id6fONJjlS9p2YihVcoF2VvfsC5H38PBGVFvXnkL9cbgftUoR-4aH__C8_lg8LLohOJ8BX-23YoqjfALQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@formula1</id>
-  <updated>2026-01-29T05:48:23+00:00</updated>
+  <updated>2026-01-29T06:54:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Lando Norris on the 2026 car: “it&amp;#39;s a bit of a step slower in terms of cornering speeds. in...</title>
+    <published>2026-01-29T06:02:42+00:00</published>
+    <updated>2026-01-29T06:02:42+00:00</updated>
+    <id>https://t.me/formula1/23517</id>
+    <link rel="alternate" type="text/html" href="https://t.me/formula1/23517"/>
+    <author>
+      <name>Formula1</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/kI0L6ooPdLPoZQdvZu8geSnLskJuOrgSf1Zy6OCnlpTe0OaCSzyekfKpu2SyiKVMCF8KwRrT3N2qryxrfk6iTmleX9Ednwzuu26DFJX1HYr2LHOcDDM61GbaHIsCSG2pwcl09QOCXxuiHYENfF6a4lL5FHD8URuJv-dbVs15JTDmLm6Rpe79s3BgQV_633koWcs1DSKpxPk9Iasv3Ubz7ggsSK_wmP3qKU2TuhfQy3WZZjHbuvMOoKR4bwiLgfFM0q4LdGjHB9-n6GBc0v6jyDyi6dfy8RLSrxFm3nPZIUwAZioCJGkzEaacx3dioviSjRI7b0fZa3hwYAd_u_aP2A" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/020217c7e1.mp4?token=TeH8qdgTLv3T4RTrSwy9r2eRv4QYueFElnAEWbQQWgHsC1LlzatfTBIfNUh9N52YjKFi0Op1weJ4JcDjTQFZv9E3r9qmVTTzMe2-EbOjGkCanSSQhwGwO1xu4roiP-v6cS74gRwZDLwcDao_Y7GCNdO30HBEc1N-O8PL7GpBmFGACHBP0O4lmOuFERTTH7KuNtSCosyjyHNgpFDoGtOgcWavlZau_v-MYrNmC6uH2dLQAYPLmLV7EcV00UlBP-ObXsl6BxY1fAnnDWQio60iN44sfty8l46HL3LKrgA6QYBpdUU0JbPWoEbmXgMzt0KnqJMO5n2U5xh3bnyRrCidLg" type="video/mp4"&gt;
+&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Lando Norris on the 2026 car: “it&amp;#39;s a bit of a step slower in terms of cornering speeds. in terms of acceleration and straight line speed, it probably feels quicker than it did last year [..] you have a bit more to understand from the battery, the power unit”&lt;/div&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/kI0L6ooPdLPoZQdvZu8geSnLskJuOrgSf1Zy6OCnlpTe0OaCSzyekfKpu2SyiKVMCF8KwRrT3N2qryxrfk6iTmleX9Ednwzuu26DFJX1HYr2LHOcDDM61GbaHIsCSG2pwcl09QOCXxuiHYENfF6a4lL5FHD8URuJv-dbVs15JTDmLm6Rpe79s3BgQV_633koWcs1DSKpxPk9Iasv3Ubz7ggsSK_wmP3qKU2TuhfQy3WZZjHbuvMOoKR4bwiLgfFM0q4LdGjHB9-n6GBc0v6jyDyi6dfy8RLSrxFm3nPZIUwAZioCJGkzEaacx3dioviSjRI7b0fZa3hwYAd_u_aP2A"/>
+  </entry>
   <entry>
     <title type="html">Aston Martin has arrived to the track</title>
     <published>2026-01-28T21:37:48+00:00</published>
@@ -191,19 +205,5 @@ Driver is OK</title>
       <name>Formula1</name>
     </author>
     <content type="html">&lt;a href="https://t.me/formula1/23498?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/lSQy3eCA7FDo0vyqRRXeoUiFxgSRQI8yABKfqrgKNbUF8cJbnlA21iNUVOch4iwEqCtEaxjUAdlNw5H-xEzCIeX4YjfDiw5KWToaGrMZKvhf5XyP-mxWIm5O3-H35Tp7pzyCDMrWcqqL3lbNp2SHfw4uUw8wYGsCy9isJSdrtV3UwXDEMQYKgt8j_q6Ksy1TCmO2ouLswcrWSSOSvma8gfE_wQTXjNLjLnv8qi2Ou16HGD_R7ucrnu4eUviHuVyIuyfKQeZxobtgXidgcr-bRo8x_01MTh83k5osTYiAW_TDlV73fzHzRPhC284L-Ba4i26u8VYCtlRPFoufbQ25Hw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23499?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/XXXACMbDwjM72GGGxMxFeGLNAEnVlACdTTwsOWABTYoj8ZwF4P8hJIHaxO0lLl1QkSA2cgf4IgBnHcKDqCpaXrxdvDfo6EJBVR0N5jw6mVQlPfnwhC2buuEzl0iG1J7s2OtbkB38UddmhrKPbGKkE-L4ugx2ts9HcdljUewlDf78bvTddiaXMTsoYKpyOfv3FysdfxyrYIGtaIYBIN-zlzEMXFblZHAN-IvcuwflAkLvAnXazTIGMS30ml3bkA0LEQ1AP1FeRIhgEz2cttIZkEpcQfdOiKalOUKIlIscS3cGn91I7NAr3MMIO5aAJLMsidR7heT8cTsbdYIb84pUHg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/formula1/23500?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Lfav1qB5TOEH7g0NbkVR-j3svCZP4VlyR1M7tWBXQK93PWdYCc5svOp8g8QYbTeOewQdny_Ik_WmZI6yFGJyU0Xlc9h2jOHJWpoRSaNOZ--FtCivCQkGiuRFyKZUPwOgYL1lAf0kkpONJj3cFG3ZhPYwJjWYb-z-7ImNdNGgx49iB8yd4liFkUEULdZSbPhvvrkC_b32Fhg5GkztiCafihRrqbBlpSwUnfBZro5oSnomNazE1QxqIJLFUqLwxfYIiBVur-cucKIHqA4BCLdGNUtXm8LS73U-Pr557BvLmwhgcSzR09quG31G6rIqZodEPMBY-2_uNYcWR75QzN3gjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Charles Leclerc x Ferrari SF-26.&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Max Verstappen driving the RB22 in wet conditions</title>
-    <published>2026-01-27T15:42:43+00:00</published>
-    <updated>2026-01-27T15:42:43+00:00</updated>
-    <id>https://t.me/formula1/23497</id>
-    <link rel="alternate" type="text/html" href="https://t.me/formula1/23497"/>
-    <author>
-      <name>Formula1</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/MCBdVuVuVQLHPW-4tFN-ckgBpS1Nc6DgrSssnXWrTzN0UjkAfhs7mKbgbYOgcd8eY26ksXm-piT5Pwd6q91JJRKe4uZUw4Wk9pvdAy-7PVJGsHX0CUsrOzyPhCu0wEziOc2lg6wtD78NrNNL_Ujvyzuskoib25YI1LzL1CxU5V7AyZBDUxFjTO3g9AiGO80h4CU1WPRq5VY3OKiwEUcbUzbVGIGHLm7LrIF8c0hGEFp43geLg73fmZP2k3S_t48rWJu5GHbnHLp3xK79GCgdETyTJhEDwxMoa-tLC7PTCb0Mk8KTbcSwVoQLrGcZumd0wO1Ho7d9lqYKiUzq5nkSRQ" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/ab729eb2c4.mp4?token=i8ygjPlfgGgN8Vkpfxl8-kqxxei3z4K5ugVbe5Eo3TT7fOoLXUpazi6AYvLHSUfVkUlDgAmmNtQDXdXiy7JbCpR20487TPusYRoxEKZAX8PvhgT5QwerltDRWZvG0243uE1kv1xS8_XtQKhxz19euAykoDYrnpobPqITj0SkASaCi6CRWhvY7N9UO_n0WG1QBQlKiS5kF96w38pXBTEch9mvuT6BAMOx65XVcl5y4ZFdl_0t8oXl5ot_1aR49ou2M7Fz5bhrmCkXlQxVxxNlfxU6JlIB4qOHhjmjUSPe8yRdbvQIlQ3Se3MjCmQU-Ahke55AbxFtE7nis5OKR0YuWw" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Max Verstappen driving the RB22 in wet conditions&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/MCBdVuVuVQLHPW-4tFN-ckgBpS1Nc6DgrSssnXWrTzN0UjkAfhs7mKbgbYOgcd8eY26ksXm-piT5Pwd6q91JJRKe4uZUw4Wk9pvdAy-7PVJGsHX0CUsrOzyPhCu0wEziOc2lg6wtD78NrNNL_Ujvyzuskoib25YI1LzL1CxU5V7AyZBDUxFjTO3g9AiGO80h4CU1WPRq5VY3OKiwEUcbUzbVGIGHLm7LrIF8c0hGEFp43geLg73fmZP2k3S_t48rWJu5GHbnHLp3xK79GCgdETyTJhEDwxMoa-tLC7PTCb0Mk8KTbcSwVoQLrGcZumd0wO1Ho7d9lqYKiUzq5nkSRQ"/>
   </entry>
 </feed>
