@@ -6,10 +6,94 @@
   <icon>https://cdn4.telesco.pe/file/LYpehfmdO3psWbB02FP2A7v4liuJUxtUep-8ysFaCjokrBm8aMZte-y_jMftLoHbJLOc7mtRY5b_rocE2cbgMOupcYpIs7pbho19gFbg5u3wnivBmBJcUJDTnN9XIIxDHWpwOTGcBFK7cBdZMWchsaBqsMo3YF9wqNTuY36EOFToLQvd4yAzlvp9WFA_1blUtTgXUHufUxAuAW6Gl7x-JaeZ7geRWMZ34bJRqOA7thtYQ-j3BQOxzWIhg2PNsJ4XWpAmjtQgLhLYyaCwuIdKA7jxt6c_fTf0TitwlUSzCirh9rLzY1RMZlpKLnlPyPZ3LXiZmxRtfw5OoCsiARp_ug.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/LYpehfmdO3psWbB02FP2A7v4liuJUxtUep-8ysFaCjokrBm8aMZte-y_jMftLoHbJLOc7mtRY5b_rocE2cbgMOupcYpIs7pbho19gFbg5u3wnivBmBJcUJDTnN9XIIxDHWpwOTGcBFK7cBdZMWchsaBqsMo3YF9wqNTuY36EOFToLQvd4yAzlvp9WFA_1blUtTgXUHufUxAuAW6Gl7x-JaeZ7geRWMZ34bJRqOA7thtYQ-j3BQOxzWIhg2PNsJ4XWpAmjtQgLhLYyaCwuIdKA7jxt6c_fTf0TitwlUSzCirh9rLzY1RMZlpKLnlPyPZ3LXiZmxRtfw5OoCsiARp_ug.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-29T07:41:50+00:00</updated>
+  <updated>2026-01-29T08:44:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Zettelkasten for Programmers: Documenting Confusing with Swift.SendableMetatype...</title>
+    <published>2026-01-29T07:48:02+00:00</published>
+    <updated>2026-01-29T07:48:02+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25833</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25833"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Zettelkasten for Programmers: Documenting Confusing with Swift.SendableMetatype &lt;a href="https://t.co/GvvtETEEiB" target="_blank" rel="noopener"&gt;https://t.co/GvvtETEEiB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/GvvtETEEiB"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/GvvtETEEiB"&gt;
+Zettelkasten for Programmers: Documenting Confusing with Swift.SendableMetatype - Christian Tietze&lt;/a&gt;&lt;br&gt;I got terribly confused reading the API docs on th SendableMetatype protocol. Because I do not yet know the solution, I want to share how I store this in my Zettelkasten for future problem-solving and discussions.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Use clang API notes to Annotate C Header Files for Swifty Module Imports https://t.co/EYPlg1v0VW</title>
+    <published>2026-01-29T07:48:01+00:00</published>
+    <updated>2026-01-29T07:48:01+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25832</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25832"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Use clang API notes to Annotate C Header Files for Swifty Module Imports &lt;a href="https://t.co/EYPlg1v0VW" target="_blank" rel="noopener"&gt;https://t.co/EYPlg1v0VW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EYPlg1v0VW"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EYPlg1v0VW"&gt;
+Use clang API notes to Annotate C Header Files for Swifty Module Imports - Christian Tietze&lt;/a&gt;&lt;br&gt;Doug Gregor shows how to use clang to import a C library with header files that you don’t own in a way that produces very ergonomic Swift  APIs with annotations in YAML files.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot https://t.co/BueF4LIdXw</title>
+    <published>2026-01-29T07:47:57+00:00</published>
+    <updated>2026-01-29T07:47:57+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25831</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25831"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot &lt;a href="https://t.co/BueF4LIdXw" target="_blank" rel="noopener"&gt;https://t.co/BueF4LIdXw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;
+Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;Xcode 26 is incapable of compiling Metal shaders on my machine, so I need to help out to mount the appropriate toolchain with a Launch Service&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Manually Mount the Metal Toolchain When Xcode Cannot https://t.co/OMOnYqM3WS</title>
+    <published>2026-01-29T07:47:56+00:00</published>
+    <updated>2026-01-29T07:47:56+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25830</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25830"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Manually Mount the Metal Toolchain When Xcode Cannot &lt;a href="https://t.co/OMOnYqM3WS" target="_blank" rel="noopener"&gt;https://t.co/OMOnYqM3WS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;
+Manually Mount the Metal Toolchain When Xcode Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;My computer suffers from Xcode not being able to access the Metal toolchain that is clearly installed on my system. I need to mount the disk image manually to fix this and make the CompileMetalFile error go away.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Emacs Carnival 2026-01: “This Year, I’ll ...” https://t.co/oUu5LS8K2B</title>
+    <published>2026-01-29T07:47:55+00:00</published>
+    <updated>2026-01-29T07:47:55+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25829</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25829"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Emacs Carnival 2026-01: “This Year, I’ll ...” &lt;a href="https://t.co/oUu5LS8K2B" target="_blank" rel="noopener"&gt;https://t.co/oUu5LS8K2B&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;
+Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;&lt;br&gt;I’m hosting this month’s Emacs Carnival. Submit your blog posts on the topic “This Year, I’ll ...”, Emacs-related new-year resolutions in January to participate.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Announcing the German Urban Sketchers Index https://t.co/Kbt1DKjDy8</title>
+    <published>2026-01-29T07:47:54+00:00</published>
+    <updated>2026-01-29T07:47:54+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25828</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25828"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Announcing the German Urban Sketchers Index &lt;a href="https://t.co/Kbt1DKjDy8" target="_blank" rel="noopener"&gt;https://t.co/Kbt1DKjDy8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;&lt;img src="https://cdn4.telesco.pe/file/b_BGNybNxbgQZaQupiOG-6rx__a13K0Dl3SAwXQpovp36-yB6jiAJJ4NN84xNOttIBOXsXGB6KBtGpOdsT1VTvfJNR0NvkYUxU-FKbVTN7Qt-Seizc0BRSBlVAzdTcduDZf_KrmSF_wGaWYuDeELXvwKDzFUnKRCkVu_TFQQyBPJ6qeYLW2885COQ_KmfUWgl3tBx4_HYbwrQeIql9uwl7QhneXJKTNySPtsVoXY_ST2XsW1b3dWsoTDHYqJ9vB70tFNP2O4N2TxKz6PAqGNG5a7XHfH7fNEWvIJA5_ydddQw3WEVhTeo0MWhIcHUVdTQ33hb2aXlJmofnndQ-9uyA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;
+Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&gt;The unofficial Urban Sketchers Germany index got a webdesign, interactive map and filters to show the 85 groups that we now know of.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">The People Who Got Me into Emacs https://t.co/H0Fnlvv6a2</title>
+    <published>2026-01-29T07:47:54+00:00</published>
+    <updated>2026-01-29T07:47:54+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25827</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25827"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The People Who Got Me into Emacs &lt;a href="https://t.co/H0Fnlvv6a2" target="_blank" rel="noopener"&gt;https://t.co/H0Fnlvv6a2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;
+The People Who Got Me into Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;An end-of-the-year appreciation post for the Emacs community and the people who got me started.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : donato-fiore/TrollDecrypt https://t.co/v804Dwxj5Q</title>
     <published>2026-01-29T05:17:41+00:00</published>
@@ -166,89 +250,5 @@ GitHub - mattt/iMCP: A macOS app that provides an MCP server to your Messages, C
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : rafsoh/dimeApp &lt;a href="https://t.co/BlCUPklAig" target="_blank" rel="noopener"&gt;https://t.co/BlCUPklAig&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BlCUPklAig"&gt;&lt;img src="https://cdn4.telesco.pe/file/lTLRlFvjTkHsP-UO0nrtJbx7zK1CLxwYXfq53X7sckyig5Ur_2hAuWskb7k1RlvQEMaksfg1h0YMWXcZM_sBz9I6ZQDj_cPN4mmLB455ccyGku1xagE9uIYHHJ84aF2-as7cGlbY5vjcKye-ELRRPgsbfcNajQI0mJ52uJmV1SIPSeHrpx1oSRSVDkBJghDk4YqQ8C5LnyIKmxlqb_Rz-cM1GZqMjX4c6IaoVeSt6UEjKhF6KVOeX776kY3O-GjnM0Dl9rreHBOfl4W58KSEp-4_pYjR4Th_B4DbEXkTAcD58l9iwmaKpwaG4kj4r-ppqrEpvQ3k8bqMhjY6yZh4nA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BlCUPklAig"&gt;
 GitHub - rafsoh/dimeApp: Dime is a beautiful expense tracker built with iOS design guidelines in mind. - GitHub&lt;/a&gt;&lt;br&gt;Dime is a beautiful expense tracker built with iOS design guidelines in mind. - rafsoh/dimeApp&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : microsoftconnect/ms-intune-app-sdk-ios https://t.co/Gy2bY1ZdWx</title>
-    <published>2026-01-27T02:12:03+00:00</published>
-    <updated>2026-01-27T02:12:03+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25813</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25813"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : microsoftconnect/ms-intune-app-sdk-ios &lt;a href="https://t.co/Gy2bY1ZdWx" target="_blank" rel="noopener"&gt;https://t.co/Gy2bY1ZdWx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;&lt;img src="https://cdn4.telesco.pe/file/o5JsEdH2X5H0ZOXP6PGZUbR1CeggxHJV6kiqFT2pF-ifiN7HKefs5g4C3aXkPCdEL8EcI2h17PjOfbT9Kruh5arOp6kg4r2mmVSH2lszeVQ2ZuLnDJCkaN-Vlm3M_oeh6pjIZl2RePAlFUW4OTwoUIhqGgeeEnMu0iqmIKNnSzlAXKTAHLkgaHPNZFrNbEL4HIIudHL5rgePCsxnDuiVjIY8Kr4NXjL2wpJjdaR7qiTueK8ZeR8XFkqPHhV1HqujFYhEZrFukInF3I2ON20Hujly2-i49wl-jNwy38taUOooAoq_M6xsazNSHMGQ0ZMJwFhTqJHhN1DFtktQQLTaIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gy2bY1ZdWx"&gt;
-GitHub - microsoftconnect/ms-intune-app-sdk-ios: Intune App SDK for iOS enables data protection and mobile app management features… - GitHub&lt;/a&gt;&lt;br&gt;Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile apps with Microsoft Intune - microsoftconnect/ms-intune-app-sdk-ios&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 26.3 beta 3 (23D5114d) https://t.co/Xfx2rnzoDy</title>
-    <published>2026-01-26T22:02:58+00:00</published>
-    <updated>2026-01-26T22:02:58+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25812</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25812"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 beta 3 (23D5114d) &lt;a href="https://t.co/Xfx2rnzoDy" target="_blank" rel="noopener"&gt;https://t.co/Xfx2rnzoDy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Xfx2rnzoDy"&gt;&lt;img src="https://cdn4.telesco.pe/file/Gj5RAaGO-nxYBybkDhTFKqcd-xXhFof5wND4nWXvm1LB3_CWaOs0fTG939suxAanPHJhDFmA23nLgn-Cu76bb1tdQF4FX76BctoEKOQMWhHYt4Im2vr0uLEWMuu-0DU9KZIekxhoMYkTMi5Ch22WHz38YPqPUi-fUTG_KvwPyArMaezW7hMo2_A5EGzrjJXF8fz_tsc4nigSmgWSV96OyFYWB_1biHTAGM9RRBvQeplOUdGc0D_uvvOE61bF3l1HZMkDJvk4mu-mLA68DlD7hLYgcrR6bJJU4p0mPfhSNFTCnpU7kGCEWuzvB4msi5dMtGS34IfAsg5bMRV4wx8NLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Xfx2rnzoDy"&gt;
-iOS 26.3 beta 3 (23D5114d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 26.3 beta 3 (23D5114d) https://t.co/9wYQx701Lr</title>
-    <published>2026-01-26T22:02:54+00:00</published>
-    <updated>2026-01-26T22:02:54+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25811</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25811"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 beta 3 (23D5114d) &lt;a href="https://t.co/9wYQx701Lr" target="_blank" rel="noopener"&gt;https://t.co/9wYQx701Lr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9wYQx701Lr"&gt;&lt;img src="https://cdn4.telesco.pe/file/tgIG3oiWCZiMUP9kT85pRxVhHGfP-7uNntj75iNiMiJOGMbGcSr8Bi21mqKLXz1gYpIS9jXE5WSG5OY51B8PQWz55AbdO123BndsNpMJfjBcTUVrLMrNw0CaiRdcIwIu4US5ZQg0IpUEDtbJs-iX4pCDWQGqR1Y95hWKwKs_8P2dsipAgPUp1Ig9AQVZMrA2HVeoNKZEv7F1VvQDTD37VDU2QD00vhkSyWYSI3qMg0Hw2bZ9DU0tXIh38bXVyPBxkkYVEcft8fTxh1ArN4ClEhlXsGAIXM3LqIIhhqtCtn2GdakQyNtCfIob6KcnIutUfXhETRn6T8Z6xsjvb6sRmw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9wYQx701Lr"&gt;
-iPadOS 26.3 beta 3 (23D5114d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">macOS 26.3 beta 3 (25D5112c) https://t.co/91hr6AtXdf</title>
-    <published>2026-01-26T22:02:53+00:00</published>
-    <updated>2026-01-26T22:02:53+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25810</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25810"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 beta 3 (25D5112c) &lt;a href="https://t.co/91hr6AtXdf" target="_blank" rel="noopener"&gt;https://t.co/91hr6AtXdf&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/91hr6AtXdf"&gt;&lt;img src="https://cdn4.telesco.pe/file/X4YPU7BX5gA69ufY989oCljiebFk9SUKWN_octF0uGd6t6ESFgVAhHpclZbLFI0WlINGCot0W0iXR6iuJyDFlH2788qDVSsoWsXLdWOnaj3WMQDqzqL7KsFLflJuzLhDDKQDye3i_IBa38clo08nmWaYYd2yAnX3IgzeUieR2s1YsVf5vwD3omYYqnMcBZw2f0lgp72NBBUfXtUGyzofxXobsqNeSRbLRBNbEtINVMOwRzk75BwXSh2qkJa9Zcgczry19I2WfM3MOglzkLGzUnYE9DTejfteV0khxx31RVYruDagGCEgMj6FQoPqWFV4VPWm9MAuRrYqFR8BbvMB0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/91hr6AtXdf"&gt;
-macOS 26.3 beta 3 (25D5112c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">tvOS 26.3 beta 3 (23K5611c) https://t.co/VtXNHd0fIL</title>
-    <published>2026-01-26T22:02:52+00:00</published>
-    <updated>2026-01-26T22:02:52+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25809</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25809"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 beta 3 (23K5611c) &lt;a href="https://t.co/VtXNHd0fIL" target="_blank" rel="noopener"&gt;https://t.co/VtXNHd0fIL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VtXNHd0fIL"&gt;&lt;img src="https://cdn4.telesco.pe/file/sHMKgRDcSfydoI4I1n4I8l0vuRkPnpeXWH64LzpNK_sOlsG703eSjd-M-MzYXpM_W3Jdb9NJJw7kvAjApAy2W5-FzKlJA5tqV4GP_ZlEna_ye1m8PW4McG7uXZn06HUeRT58YhYeBACKSEvlBVsW55IwUqoACufveFF3TvWAslqLi5gFgTQ5ITcYbF48jpVhJcWRAnqucioKKvALTFhm-R8bZLcDrHv3jtJ3VEcZA10wigMaBeKxFcpCB43bZRcyNYcOf5-f1SwNWk9-jmU2CnYZIxPF0qkzr7aMcbGo5upRZ0mXhmbpVceXeVj1gapSRx4TywdlnpvsDtZc4PrYOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VtXNHd0fIL"&gt;
-tvOS 26.3 beta 3 (23K5611c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">visionOS 26.3 beta 3 (23N5613b) https://t.co/gXrNEqjkeN</title>
-    <published>2026-01-26T22:02:51+00:00</published>
-    <updated>2026-01-26T22:02:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25808</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25808"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 beta 3 (23N5613b) &lt;a href="https://t.co/gXrNEqjkeN" target="_blank" rel="noopener"&gt;https://t.co/gXrNEqjkeN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gXrNEqjkeN"&gt;&lt;img src="https://cdn4.telesco.pe/file/POzxSMfFOhCCOSHNP0sqfaGEWV6zFBu3-ZwDCYmJtiNc8gu0s7oygbvB1MPiQZiKOeLqY_8hab_Jzn_d_rSDnsHNC1g9FoqBzRSqEZJ4xAyeLdaPEQpyOIw0vfeaH4u52gLSRfgg24xa6Zt3gs0a_axMEyWFt9Zc8klIl2W6bX1g3qheVGEi-6Yn1EWQXnOh2h5FOz3W0VmdY-h8lsdKCFt3BvrNOU8wn5zds1kKP3NSumU7BnHp_lgxuKCU3dh_2Jc8vis46Z6WcwOEEDxOgaHwkYmXUjOI_TkEl9aUmGC6AIm_akP39LHDc16J2b1ng-08X3-DBRSPLlClbls7Nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gXrNEqjkeN"&gt;
-visionOS 26.3 beta 3 (23N5613b) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">watchOS 26.3 beta 3 (23S5611c) https://t.co/MKiXfKGzHe</title>
-    <published>2026-01-26T22:02:50+00:00</published>
-    <updated>2026-01-26T22:02:50+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25807</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25807"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 beta 3 (23S5611c) &lt;a href="https://t.co/MKiXfKGzHe" target="_blank" rel="noopener"&gt;https://t.co/MKiXfKGzHe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MKiXfKGzHe"&gt;&lt;img src="https://cdn4.telesco.pe/file/Od-_6a4Kxl5SnmqHLenww2_6_xnEq07M3CQFS1Nytkb5wznnonIKkR4y2bzrkvPscySnhKvXuV_EZ_A3GPhmhkOW_rGg4k4Hk9l4j0Cj568gsSYn1sxfLBEpzPLARWmqSA5Nj_kDMszmc0Ueq2eDD6p4gtPgXhoBi_HAgY6foGFFgzT_9JB04mbK2pj8nQJwpfh4JCFKz81tcCY1tzTzOvERtkS-D5hIHOaUW_9MIrfRx7CKh2kpDneTjXuq7Uuw-nOAp3VRzqsYV5aMUPqQkyqT-ofVBwMgewOSmnGNB2jTXdfF4s-LaliIQbnah0TwtmxQXn-X1v30mj7mNBWAAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MKiXfKGzHe"&gt;
-watchOS 26.3 beta 3 (23S5611c) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
