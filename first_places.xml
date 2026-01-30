@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/D1TAxMYx1yEdhjmGTZNjQacB8m9kyyBCzLQQ-bbM9MwBBZPdKYF0OePSn2pwit9DDVB55Fsl0mlQMjCHcGqusdHpEYim6_8iso-i8RdTcesyb6m9d7FdpC3y_OaD92r71_VTfHfQMveYMMizPIvomuBl5v2k7vech6v4AXeKXtUtRDqZQw1paQYNIVwOkZdV4hrxU0SYJBsKSjSGKuD34MY_t2zRcoSSYTfRyp8nYIYYBGyHYpUmmI5XtMoJr58H1FYRJWH1-2IY6xGI6gOkhXs2vHb3x6ZWhba6qcdB2qLoY4R08v_WoDqZsn2zHpDYfxKvM_5NJ_jXJQJL2vw5eg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/D1TAxMYx1yEdhjmGTZNjQacB8m9kyyBCzLQQ-bbM9MwBBZPdKYF0OePSn2pwit9DDVB55Fsl0mlQMjCHcGqusdHpEYim6_8iso-i8RdTcesyb6m9d7FdpC3y_OaD92r71_VTfHfQMveYMMizPIvomuBl5v2k7vech6v4AXeKXtUtRDqZQw1paQYNIVwOkZdV4hrxU0SYJBsKSjSGKuD34MY_t2zRcoSSYTfRyp8nYIYYBGyHYpUmmI5XtMoJr58H1FYRJWH1-2IY6xGI6gOkhXs2vHb3x6ZWhba6qcdB2qLoY4R08v_WoDqZsn2zHpDYfxKvM_5NJ_jXJQJL2vw5eg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@first_places</id>
-  <updated>2026-01-30T04:43:40+00:00</updated>
+  <updated>2026-01-30T05:51:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">🥇First Place  pinned a photo</title>
+    <published>2026-01-30T05:38:12+00:00</published>
+    <updated>2026-01-30T05:38:12+00:00</updated>
+    <id>https://t.me/first_places/39436</id>
+    <link rel="alternate" type="text/html" href="https://t.me/first_places/39436"/>
+    <author>
+      <name>🥇First Place</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a class="tgme_widget_message_author_name" href="https://t.me/first_places"&gt;&lt;span dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA587.png')"&gt;&lt;b&gt;🥇&lt;/b&gt;&lt;/i&gt;First Place&lt;/span&gt;&lt;/a&gt; pinned a photo&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">И победителями становятся…. &#13;
 &#13;
@@ -175,19 +186,5 @@
       <name>🥇First Place</name>
     </author>
     <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/svidetelig/9780"&gt;&lt;span dir="auto"&gt;5 болельщиков торпеды&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/first_places/39417"&gt;&lt;img src="https://cdn4.telesco.pe/file/bTVOX7KhuTDLqYKeGrzRcranFEPAZfjJFwiZ7wKnKStTWucI6DxaPOtixIvaio8PlE9PMZsjUObHixy0p8_pPCeZj7M-JdneUaqJX3fAKgYfxmQgXuYfoFSUBXZ8lh7n8SbH5eUuNIcoyMEMV1TxQ_k-yk397XcFiO0VKpGerRDKA9HMpalcKrCJJcbt93XKpxRp8v8qEQFMrzS7di1MH3hf2myw8X89U4yAxNOrOFPd_zimZbQj6NUVD2bkLEMknSaEtrdrk8voF_vRcGhnR7RkQZ_zxdz7SheSMkO3BKbJCbi9O46-22evxfCZCVk9C8hFMhLUR1X0MSIJ8xKCag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Немцы из AMuS обращают наше внимание на ещё одну интересную особенность «Мерседеса» помимо нетипичного крепления для переднего антикрыла, из-за которой подвижной является только верхняя часть. У них на переднем крыле почти нет регулировочных винтов.&lt;br/&gt;&lt;br/&gt;Их заменили вот таким регулирующим механизмом, в который вставляется специальный инструмент и именно им осуществляется регулировка переднего крыла. Это не только ускоряет процесс настройки, но и позволяет отказаться от торчащих регулировочных винтов на антикрыльях, что позитивно влияет на аэродинамику.&lt;br/&gt;&lt;br/&gt;И даже «откидная» часть переднего антикрыла там работает несколько иначе, если верить AMuS. Верхняя пластина антикрыла откидывается не полностью, а лишь с внешних краёв, в то время как внутренняя часть пластины, расположенная ближе к носу, остаётся неподвижной и перенаправляет воздух в находящийся в том-же районе неподвижный воздуховод.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">«о, Кими, привет&amp;#33; и как тебе в моей команде? круто? ну...</title>
-    <published>2026-01-29T10:39:29+00:00</published>
-    <updated>2026-01-29T10:39:29+00:00</updated>
-    <id>https://t.me/first_places/39416</id>
-    <link rel="alternate" type="text/html" href="https://t.me/first_places/39416"/>
-    <author>
-      <name>🥇First Place</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/straddari/5357"&gt;&lt;span dir="auto"&gt;я болею за феррари и страдаю | формула 1&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;video controls="" poster="https://cdn4.telesco.pe/file/Xi3RWU33WiqdOLh0sdPrfnJEEe5SM7I561SMVa5fWtl7WLsunXbwaLbLNONKqEgK58q79dv9I7Y8c3fIftSixI_uoRhl0Ze3lb-Xlt84oJg0o3EH1fWqADslj2TRTwOwM7tyyTTIk_og5EMg_k1W5ckqvHT_f9J6Fb5YROW9UwfabIwc2RZPx6sdv7TGYpbKQmwHnJUy13QN6JEcAcwU02rO4ntRQE6UW0RCTS_TQywc3heT4wIJFPxTkdJpE95hmgcve9SPSDjSiaTwOEJQcOgkpAwto3co68-7iljuWBCSM-a46oBDemuj1ln3AL9XYF26FAqhF024bJUlLQZmfA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/bbf3e6e028.mp4?token=agdkEsRvUTWMFofxjPILVwfidSI4oAijKahDpiPb0FuJifQ3ic_3jTb0T-7ZVLZYhPIEfuPCPfyEF80Wc-gq4Ze0dqRe4iKwvPUOZwboqSh3kMxBXnRa6wMyhDIQlh5kQI6dcFhWgUKs0k92iXBSso_N6k0v4ecN7xKGUXMzCKz8sT8w0ODDc0JxI81E0eVZyp9Ll3PVHOGp9NBRmPFd5kTltWgGuTUGnqkEoLF3mbvOvu19N-oKJoy2-b_P4Vd4tCbKGWQawiWxw4psbNpOQskKhQxDcZS9H-mBq1rYyNJd_FU-_fQg2je-tI3VMwvvm9s_nsISgX-80f8PdPeXLg" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;«о, Кими, привет&amp;#33; и как тебе в моей команде? круто? ну ладно, поехали» &lt;br/&gt;&lt;br/&gt;тем временем, Льюис проехал уже больше 40 кругов, без учета того, что вокруг своей оси&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/straddari" target="_blank"&gt;@straddari&lt;/a&gt;&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/Xi3RWU33WiqdOLh0sdPrfnJEEe5SM7I561SMVa5fWtl7WLsunXbwaLbLNONKqEgK58q79dv9I7Y8c3fIftSixI_uoRhl0Ze3lb-Xlt84oJg0o3EH1fWqADslj2TRTwOwM7tyyTTIk_og5EMg_k1W5ckqvHT_f9J6Fb5YROW9UwfabIwc2RZPx6sdv7TGYpbKQmwHnJUy13QN6JEcAcwU02rO4ntRQE6UW0RCTS_TQywc3heT4wIJFPxTkdJpE95hmgcve9SPSDjSiaTwOEJQcOgkpAwto3co68-7iljuWBCSM-a46oBDemuj1ln3AL9XYF26FAqhF024bJUlLQZmfA"/>
   </entry>
 </feed>
