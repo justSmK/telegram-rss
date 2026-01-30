@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/Y-0PmuU4uBEXTTew_7TdQzyfmm3HaoE2MbUWS2KVe01VZpTvTwRMrQqbebNZUthaurQnIVVCJrIJTeS9lg3qJStwvJUiHCSdIhfSk8m4cYcBhwIBzozT8taB5edRSwqdDeSk0VPYCCr0YRIRN0EmcjsH_UdnTl3hZ4WOPkCF1SlCaNuuE8h36Q1lbFYqSwfS6mTz_AjEbKq58rxEe0T-I-e--6qRdHYQbajYGVVRmAISihN_5OEQNwhIOr4ocIgcce6V0waVpcsUI2KmD-7KwM-K0sp7PLNO7u6872mLNjDf6Vv9udUwPiXddP1xlV1M7nYnMdc-xCD8VoaAtg5Gcg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Y-0PmuU4uBEXTTew_7TdQzyfmm3HaoE2MbUWS2KVe01VZpTvTwRMrQqbebNZUthaurQnIVVCJrIJTeS9lg3qJStwvJUiHCSdIhfSk8m4cYcBhwIBzozT8taB5edRSwqdDeSk0VPYCCr0YRIRN0EmcjsH_UdnTl3hZ4WOPkCF1SlCaNuuE8h36Q1lbFYqSwfS6mTz_AjEbKq58rxEe0T-I-e--6qRdHYQbajYGVVRmAISihN_5OEQNwhIOr4ocIgcce6V0waVpcsUI2KmD-7KwM-K0sp7PLNO7u6872mLNjDf6Vv9udUwPiXddP1xlV1M7nYnMdc-xCD8VoaAtg5Gcg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-01-30T10:38:28+00:00</updated>
+  <updated>2026-01-30T11:31:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как Дядя Боб относится к AI кодингу&#13;
+&#13;
+Прошлый опрос...</title>
+    <published>2026-01-30T11:27:46+00:00</published>
+    <updated>2026-01-30T11:27:46+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3716</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3716"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosmakesmehate/3716" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/articles/990934/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как Дядя Боб относится к AI кодингу&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Прошлый опрос создал не просто так. Одну из главных тем, которую я поднимаю и в комьюнити. И задаю у любого, кого встречаю — как вы используете AI инструменты?&lt;br/&gt;&lt;br/&gt;Даже на подкасте с &lt;a href="https://t.me/iosmakesmehate/3713" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;разрабом из убера&lt;/a&gt; я спрашивал культуру в компании, чему обучают, какие уникальные инструменты создают для разрабов. Такие же мнения были на воркшопе Яндекса про аи в реальном бигтехе (скажу сразу внутри яндекса х10 &lt;a href="https://t.me/iosmakesmehate/3592" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;такого контента и индустрия растет очень быстро&lt;/a&gt;). Вот настало время узнать мнение у Дяди Боба.&lt;br/&gt;&lt;br/&gt;Не хочу никого обидеть. Но я не верю блогерам-одиночкам, кто соло пилит проект. Процесс производиства в реальных системах с большими командами сильно отличается от небольших инди штук. Ну и опыт менеджмента отличается от практики написания кода.&lt;br/&gt;&lt;br/&gt;Дядя Боб, хоть и не практик, но бизнес консультант. Он говорит интересные мысли:&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;ИИ облегчает рутинные задачи, но не может заменить человеческое мышление и контроль.&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Без надзора и ревью AI переусложняет код, ухудшая архитектуру. Его деградация в разы хуже. Но и рефакторинг в разы быстрее.&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Опыт с параллельными агектами показал, что при трех агентах модель становится медленнее и потребует больше человеческого управления. Контролировать какую же хрень агенты написали станет сложнее.&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Читаемость все еще важна. Чем больше человек в команде, тем больше мнений о &amp;quot;читаемости&amp;quot;.&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Тесты нужны еще больше, чем раньше. Это я тоже писал и не раз.&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;AI усиливает уже существующие навыки, но не заменяет тех, что нет. Если вы слабый как спец, то ваш код не станет лучше. Вы просто будете увеличивать ошибки в проекте.&lt;br/&gt;&lt;br/&gt;В целом, ничего откровенно нового здесь нет. Просто еще один общий знаменатель к массе мнений.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/articles/990934/?utm_campaign=28175872&amp;amp;utm_source=vk_flows&amp;amp;utm_medium=social"&gt;&lt;img src="https://cdn4.telesco.pe/file/LJtwe5cUcSZPiO0lHZ0Vb_Q-WQaAwizTmUPv-g5c9ynsnzlioARuMOSKND3e9A66CjMd8CObQ3KRnreKTixyRyFXhJv3Qb3eNUEswZrr-eB4AcUFOTnB1h6xKQe9JqhW4JBtw_cV_YOAYjf-3SBFKwK9oLYfO1RiP9jSpXJsTQ1xz-VMdNCDiCaaoMZ78IldQ1N0M37BgDjK6vZxEPv6QOXIVowcNtodg3VhWzR1s9XCOKo8AB0FDmDZzN2CnXCh90Hj99nGtifm8aQL-dgSelPUdthGxPhsGzlwiO8bA2941LZxRbTuF3TNKduhyM05EojC_tDeaWEfJKHgDHxYIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/articles/990934/?utm_campaign=28175872&amp;amp;utm_source=vk_flows&amp;amp;utm_medium=social"&gt;
+Какие выводы сделал Роберт Мартин, поработав с AI Coding? - Хабр&lt;/a&gt;&lt;br&gt;Автор «Чистого Кода» и «Чистой Архитектуры» всегда славился консерватизмом. С ноября 2025 по январь 2026 в своём X он начал документировать освоение AI coding. Я проанализировал его записи....&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Увеличивается ли ваш перфоманс с использованием ии-тулкитов?</title>
     <published>2026-01-30T09:17:58+00:00</published>
@@ -19,7 +33,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Увеличивается ли ваш перфоманс с использованием ии-тулкитов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;37% - Да, в разы&lt;/li&gt;&lt;li&gt;14% - Да, не могу без ии инструментов&lt;/li&gt;&lt;li&gt;34% - Да, незначительно&lt;/li&gt;&lt;li&gt;4% - Нет, никак не меняется&lt;/li&gt;&lt;li&gt;3% - Нет, становится хуже&lt;/li&gt;&lt;li&gt;4% - Еще не пробовал&lt;/li&gt;&lt;li&gt;4% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Увеличивается ли ваш перфоманс с использованием ии-тулкитов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;38% - Да, в разы&lt;/li&gt;&lt;li&gt;13% - Да, не могу без ии инструментов&lt;/li&gt;&lt;li&gt;33% - Да, незначительно&lt;/li&gt;&lt;li&gt;4% - Нет, никак не меняется&lt;/li&gt;&lt;li&gt;4% - Нет, становится хуже&lt;/li&gt;&lt;li&gt;5% - Еще не пробовал&lt;/li&gt;&lt;li&gt;4% - Другое&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">🚖 Интервью с iOS разработчиком из UBER&amp;#39;а&#13;
@@ -81,7 +95,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			делать обзоры офисов яндекса?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;28% - да&lt;/li&gt;&lt;li&gt;29% - нет&lt;/li&gt;&lt;li&gt;43% - только в стиле корпорат герл&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			делать обзоры офисов яндекса?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;28% - да&lt;/li&gt;&lt;li&gt;28% - нет&lt;/li&gt;&lt;li&gt;43% - только в стиле корпорат герл&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Без рефералки ты никто?&#13;
@@ -253,18 +267,5 @@ Why Big Tech Performance Reviews Aren’t Meritocratic - Medium&lt;/a&gt;&lt;br&
       <name>iOS Makes Me Hate</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosmakesmehate/3694"&gt;&lt;img src="https://cdn4.telesco.pe/file/W9O1bU9ggitjnDTkq5XD77TFYU3DtMVcO_GDqx9MuscyVTjRRL_LgiiJ-fnVdPRGZlzYiTVn5x5tWlz877Se1IRP8qKsqpZFEq0Ymk48avoOFhfcbJnA9jCisfoFVVlRkN1GH9uNvrBou3GjZ4_XSpOyEHdkwzt7ZiRSeyrrCKqtJRlSL6PcRuvB0QAjf2mmZMbc16HAq3ID_ymJ4B2I4tShE_Zl2Jd_yUQ7jyAng58fBWGy_4rfnH0L9o5HqZ-mdymSRs9bc3Oui-k6DbouVtdSLi0lWrz9lyn2k0TNINiBjkD_dGe_5zgaeslNoKEJEVepQ2jdErznJcZF3Gp4CQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;критерии 2к26&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Если вы не знали, то знайте&#13;
-&#13;
-TMS-90725: SDK version issue - This app was...</title>
-    <published>2026-01-20T04:43:08+00:00</published>
-    <updated>2026-01-20T04:43:08+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3693</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3693"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если вы не знали, то знайте&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;b&gt;TMS-90725: SDK version issue&lt;/b&gt; - This app was built with the iOS 18.5 SDK. Starting April 2026, all iOS and iPadOS apps must be built with the iOS 26 SDK or later, included in Xcode 26 or later, in order to be uploaded&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Все чаще слышу, что на Xcode 26 куча проблем. Краши, едет верстка и в лучших традициях Appple. Обновляйтесь уже сейчас.&lt;/div&gt;</content>
   </entry>
 </feed>
