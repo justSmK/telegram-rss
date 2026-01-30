@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-30T20:34:25+00:00</updated>
+  <updated>2026-01-30T21:31:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 741 https://t.co/qfigZ8iVvB</title>
+    <published>2026-01-30T21:07:42+00:00</published>
+    <updated>2026-01-30T21:07:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25847</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25847"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 741 &lt;a href="https://t.co/qfigZ8iVvB" target="_blank" rel="noopener"&gt;https://t.co/qfigZ8iVvB&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to bulb delete GitLab artifacts using GraphQL API https://t.co/Ik8hF4ksed</title>
     <published>2026-01-30T19:32:17+00:00</published>
@@ -241,17 +252,5 @@ Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Announcing the German Urban Sketchers Index &lt;a href="https://t.co/Kbt1DKjDy8" target="_blank" rel="noopener"&gt;https://t.co/Kbt1DKjDy8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;&lt;img src="https://cdn4.telesco.pe/file/ac07-Gwz1RihOvNo_AhGhiGwTV0iM75TUo-weN1JxUV2motTWRNr4GHR2Q79bFal-3AWGuaKcTdf5pKXQqDDTzOUKcaiMIOvlkoQ9RZ-d-ON1adlOkU6Ih9vqbndM28cggtPkaCnbNCn-wo-nt-MFuKQ362SaBgzAFCGLBOSOkUjoIbELKdi8zbYLytuWAmSopW6r7sUIRGlGf8ttUj5QC3NXQEU37R6by8JCvi3RcXw9n2omul-akhOWmLXFfDbNWeo_pZ9cvxaE726iymeBblh5d7hp3hi6gyl_S0nQmNnZrZRcunojKncjbHQZ39rp7Feo3zZF5Ho0EX3NyMNig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;
 Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&gt;The unofficial Urban Sketchers Germany index got a webdesign, interactive map and filters to show the 85 groups that we now know of.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">The People Who Got Me into Emacs https://t.co/H0Fnlvv6a2</title>
-    <published>2026-01-29T07:47:54+00:00</published>
-    <updated>2026-01-29T07:47:54+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25827</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25827"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The People Who Got Me into Emacs &lt;a href="https://t.co/H0Fnlvv6a2" target="_blank" rel="noopener"&gt;https://t.co/H0Fnlvv6a2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;
-The People Who Got Me into Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;An end-of-the-year appreciation post for the Emacs community and the people who got me started.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
