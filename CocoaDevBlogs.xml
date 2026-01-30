@@ -6,10 +6,38 @@
   <icon>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-30T18:48:36+00:00</updated>
+  <updated>2026-01-30T19:34:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to bulb delete GitLab artifacts using GraphQL API https://t.co/Ik8hF4ksed</title>
+    <published>2026-01-30T19:32:17+00:00</published>
+    <updated>2026-01-30T19:32:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25846</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25846"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to bulb delete GitLab artifacts using GraphQL API &lt;a href="https://t.co/Ik8hF4ksed" target="_blank" rel="noopener"&gt;https://t.co/Ik8hF4ksed&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;&lt;img src="https://cdn4.telesco.pe/file/PNtzV7S-fUt_O9gRYUIE7chanfjIAoS5IfobMX8LYpnSpFRfpN6n7yoJKtuTZXgOhxFlDcsrIa_mf99GUZUrHel_xxzHD1AqO72bLbQZuh-6q52fAjmncWroFemjuGqVsfeMnL8oB-lns9NbU79wmv59_n5kmGOtF4i6pbToyaMoH8JiouN3JPMwlqbahN-QianuCVxiFPKWZc7vn0g8LdYtMh6cC1dglwWMptUdI6O3ItOXvYvuecEO0XIsbvHtqFkgHSedYQVWge7huZpmbB7QW11c9350XpJDDetIJCF9ib_9cbO00WwNQkXxt0jHYBRDMzvS9VGXh5zlUPokdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;
+How to bulb delete GitLab artifacts using GraphQL API | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1005&#13;
+GitLab CI/CD pipelines create artifacts that take up a lot of storage space. While GitLab has a UI to delete them, doing this for thousands of artifacts one page at a time is slow and boring.&#13;
+In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">How to delete GitLab artifact https://t.co/4hs0dfQj5m</title>
+    <published>2026-01-30T19:32:16+00:00</published>
+    <updated>2026-01-30T19:32:16+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25845</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25845"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to delete GitLab artifact &lt;a href="https://t.co/4hs0dfQj5m" target="_blank" rel="noopener"&gt;https://t.co/4hs0dfQj5m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;&lt;img src="https://cdn4.telesco.pe/file/GwBQLL6yc-7gfeG66gbC3ZcmGVVWSKe7IlEpDAAtfSzudKEMSuSj_i8c7AWTshxWxmClGZV3bUrb9rH6ynSGOtvswko_E5ieX3JylAS32fKMwQ-PaWaZ2ZXZJBiz-8UIyyEvtxPXS7lnnhl1Q96HqnAKVFx_TCL7DpaVMYBBqleO8sFSSHCMDzIUVx3hN3Mpn6AKwr9My_BYkFEiOV8fYTNRlFUMaKqsSBGQfZmsCjM6BKDScichHYUAj4TNuC6SFS3I66Q7ARkKdv-7z8IklfrBg5aQlZCagC5GGR1U9NX1oqdxqHhanuWL04P2294WsIho00KMAQEp0ifub7qpyw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;
+How to delete GitLab artifact | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1004&#13;
+We set expire_in: 1h in our CI test jobs, but old artifacts from days ago were still there. Something wasn’t working right.&#13;
+After some research, we found this is a known bug in older GitLab versions. If you’re on GitLab 16.7 or older, upgrade…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Solid Interfaces for visionOS: Widgets and Cognitive Space in Spatial Computing...</title>
     <published>2026-01-30T14:32:16+00:00</published>
@@ -225,29 +253,5 @@ Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&g
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The People Who Got Me into Emacs &lt;a href="https://t.co/H0Fnlvv6a2" target="_blank" rel="noopener"&gt;https://t.co/H0Fnlvv6a2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/H0Fnlvv6a2"&gt;
 The People Who Got Me into Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;An end-of-the-year appreciation post for the Emacs community and the people who got me started.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : donato-fiore/TrollDecrypt https://t.co/v804Dwxj5Q</title>
-    <published>2026-01-29T05:17:41+00:00</published>
-    <updated>2026-01-29T05:17:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25826</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25826"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : donato-fiore/TrollDecrypt &lt;a href="https://t.co/v804Dwxj5Q" target="_blank" rel="noopener"&gt;https://t.co/v804Dwxj5Q&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/v804Dwxj5Q"&gt;&lt;img src="https://cdn4.telesco.pe/file/RPXWXlGlJzWpDY9zkxyL-AgWSfA6E3s49e_uq7MkdsLgGAOLGgKT5QVAjDAQWglEJ9G0C6DIPbgux9HozqrH2p_5bURwERdpVq_FxUwSvy9A7a9sE1FAHl7sG6NZvxmWrBkM2asFtcBbH8IqvoY-NwNxRUl0CPJpJjUxXKhqG857sUQP_EzXAMRj-gZvuyUB1vQjLauNf-r_7n0cDNo1Uqi2xKv0cX3-HAW93XGLJn3z7Fkwvq6jU3B-znuwfDLKsM52OcCjsNxFFuU65mgtfi9TjZz8AapSHfde2MX_RhqPx8kWZDQi3lGwLcTK2RHnggwdvF31-qrjBWJVlt0dbg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/v804Dwxj5Q"&gt;
-GitHub - donato-fiore/TrollDecrypt: iOS IPA Decrypter for TrollStore - GitHub&lt;/a&gt;&lt;br&gt;iOS IPA Decrypter for TrollStore. Contribute to donato-fiore/TrollDecrypt development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : mattt/AnyLanguageModel https://t.co/Dqe3Dbhzx9</title>
-    <published>2026-01-29T05:17:41+00:00</published>
-    <updated>2026-01-29T05:17:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25825</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25825"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : mattt/AnyLanguageModel &lt;a href="https://t.co/Dqe3Dbhzx9" target="_blank" rel="noopener"&gt;https://t.co/Dqe3Dbhzx9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Dqe3Dbhzx9"&gt;&lt;img src="https://cdn4.telesco.pe/file/OfOzsgL4i5v3WX_VTgBVPINjGXCiQqa_xAxho767pqArxe2RgnL8KiJdfj2k3bTsnwUpN7oje4McwxcGO_uD4qQ1sBWbzOT7Qmf1zICd-oeYo07Zd7J5NP2x3Jb9sHtwfZpSxDslMeSUvUOAc2nD0A7mdwFiSh6NdsjUFeZoP3FeSToNzZhayP4ZTpFbHaCP77yhM2NVzwULOijUEss6uwFW8aKMpgRGD0vVQJ4BErTvsF-wAuO4GGMomRcCANj7yTbJTItYM1mrjei4ng1skwnNna436ZPT0LO18FiPWac5g1hvp77CacxssX1Mhgmx3ntVpjfCNPa-yqk_YMZqhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Dqe3Dbhzx9"&gt;
-GitHub - mattt/AnyLanguageModel: An API-compatible, drop-in replacement for Apple&amp;#39;s Foundation Models framework with support for… - GitHub&lt;/a&gt;&lt;br&gt;An API-compatible, drop-in replacement for Apple&amp;#39;s Foundation Models framework with support for custom language model providers. - mattt/AnyLanguageModel&lt;/blockquote&gt;</content>
   </entry>
 </feed>
