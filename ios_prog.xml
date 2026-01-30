@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/qbEnQO1jwAxT97Fe18FLZx4kwInkQ8SczZ-JrMmWh6sR0Hi1Q6T7pTKqq50gOHkTM_y91ED5s9KN3JCyRKnG1W4lMZvoxNynzbhYKlusVIbztAX3V4bqdtk0SJcw5aZa4BeOaxvd41CFjusFqrGUp39qG1epcolTSPaXhTurlBAnEcAmEX0F2Gc1XmSgOz4wAnPBGEzrP9gJ6dJ1Nmq1-RvbPERu-U5TBFeat9Qs_PS2BFrtosgtri87ia1DDZmmf36WVUMGvDfuU0SOmL8tKGPuelD2gfSJUazq24g4Sff0EhRknBbgp9jPbFOn5hyvwYx11X3wfgqdZTbB21xDOQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qbEnQO1jwAxT97Fe18FLZx4kwInkQ8SczZ-JrMmWh6sR0Hi1Q6T7pTKqq50gOHkTM_y91ED5s9KN3JCyRKnG1W4lMZvoxNynzbhYKlusVIbztAX3V4bqdtk0SJcw5aZa4BeOaxvd41CFjusFqrGUp39qG1epcolTSPaXhTurlBAnEcAmEX0F2Gc1XmSgOz4wAnPBGEzrP9gJ6dJ1Nmq1-RvbPERu-U5TBFeat9Qs_PS2BFrtosgtri87ia1DDZmmf36WVUMGvDfuU0SOmL8tKGPuelD2gfSJUazq24g4Sff0EhRknBbgp9jPbFOn5hyvwYx11X3wfgqdZTbB21xDOQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-01-30T08:44:05+00:00</updated>
+  <updated>2026-01-30T09:42:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -215,7 +215,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/689"&gt;&lt;img src="https://cdn4.telesco.pe/file/XrOYRwO4ndw_psm_xLZdOCm1lEXy1kOlJlOn9IOCL-lq3j6tpIOE8NQl4kJN0RQeIXfYAlOvMXkMLhqXHhJWf5tkPjCeoZkbSBZpgjXOpVIlQSFR2wgvP7JcL4JfghA-EQuuFJ1QfPimeGOapxmGJmltYHMGKmxcYFK_a5mCmQCu9ks5Suvb4A-F25NZdEO1iQLf5GI6MIiTvN-YpOmk30ohXkdp85xqQf3iyOUbPKhZ62aX1dQdtzN_WWeuVu-3wSvWJzO7REgR4VLF5hqL57PuEXxZu1ZWKlyAi3mJly03WIXy6bIJ2ugGA96Veyw2FhWkvmOqAJXn90AW9GAhPg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26+ вы можете добавить деления на &lt;code&gt;Slider&lt;/code&gt;, используя параметр &lt;code&gt;ticks&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;Отлично подходит для таких вещей, как яркость, громкость или уровни прогресса&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/689"&gt;&lt;img src="https://cdn4.telesco.pe/file/sNYamF18jdi8QpW3wwDY9k9lZJWtLwuAFc6doZj0NqFmqlcui8e8bpNTEHRzxXHBzBBHPSfoi4o3183fdf6nrPaJb9-14ycU4eEaqmhnpQ2ULGbeFxQ25yZcnb3twV-ZC0E5HPOmjhYL2qpaPItO2zlXax_BPrHCjP79WQBIbgYtO4g6otry0I2qFOrMIiHg5itJm7bihFTV3APbBnICi78W-xLwuyHRPYDdWEsAbh8UxbGK22dighX0rG919vR8apXSV5HoCB-R1CWZ6Vo8njU0yFrlFCI4ViewYN_WWzclP-9gdFKn1v-0UqNH6EiluJ2WiNBEsLB5lQCzV7feCg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26+ вы можете добавить деления на &lt;code&gt;Slider&lt;/code&gt;, используя параметр &lt;code&gt;ticks&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;Отлично подходит для таких вещей, как яркость, громкость или уровни прогресса&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Итак, я iOS-разработчик и ищу классную команду&amp;#33; 💎 ...</title>
