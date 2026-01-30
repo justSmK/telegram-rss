@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/vWzVfSoXI11oDG3K6kVGbVAWxH1vfIa9aQTBsR4La9Yg3VKxu5UNOwJ0J3sH95nttsmuYS4eb3W4sXsJ05iktpZPu8SY3PTbLyerNHVwd_GGwDq62j6T408BYfg5kBIZKK7nIx5lftO7W08uDFGRnz67qBSzYwtAzGjSkbavhWwCtEX-TLiC6rc966iX1VkwRqr1Pyxoa9aRf15CeopGeICsGKqb4rvIKs4Zh2C7Tj2yzFxcR8s_kdDvL_843ZOkA-7e7h6ijPWstqTDYuLaqDjLC3UcQzSYXNV0mdR8MW0bIIrhI56JETzhzfz2rlRMZRHj-2lb2hnYGfetBbnnlg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vWzVfSoXI11oDG3K6kVGbVAWxH1vfIa9aQTBsR4La9Yg3VKxu5UNOwJ0J3sH95nttsmuYS4eb3W4sXsJ05iktpZPu8SY3PTbLyerNHVwd_GGwDq62j6T408BYfg5kBIZKK7nIx5lftO7W08uDFGRnz67qBSzYwtAzGjSkbavhWwCtEX-TLiC6rc966iX1VkwRqr1Pyxoa9aRf15CeopGeICsGKqb4rvIKs4Zh2C7Tj2yzFxcR8s_kdDvL_843ZOkA-7e7h6ijPWstqTDYuLaqDjLC3UcQzSYXNV0mdR8MW0bIIrhI56JETzhzfz2rlRMZRHj-2lb2hnYGfetBbnnlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-01-30T05:50:33+00:00</updated>
+  <updated>2026-01-30T06:54:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Улучшаем интероп с С&#13;
+&#13;
+Если вы пробовали работать с С...</title>
+    <published>2026-01-30T06:02:24+00:00</published>
+    <updated>2026-01-30T06:02:24+00:00</updated>
+    <id>https://t.me/iosgr/4595</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4595"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Улучшаем интероп с С&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы пробовали работать с С библиотеками напрямую из Swift кода, то результат вам скорее всего не очень нравился. В посте разбирают, как различные Swift фичи помогают обернуть библиотеку на чистом С во вполне идиоматичный Swift API.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/VlV5XvPFLPb7UxbTTvijhYEn4xtRxSshNNn_LLA8mlj2I1ExlIa5nwoGpwCVBgaM-FB6teE0eHZ1MTWO1A3ei9XcU5E9DGFCwpQBcgIfizE-Y02783elB0w3D1BK2KEc2WhvOAEzLI4Cfnjj12jNXVH72BEwuPwlRoUSMBmaVVdSIdlCMD9h1ADyirIn8TkfCHS9IlcnW-28L2oRpRnACYCnd6MKd6efofTvj-qxjT5MIhCOIj7FS6CEmE9ZDcFv5c2ykSsCd9AQND200qLQbWl_4mKxylUCzPuXNZIi-gw6TYbm_0io5m2qnxr7xDQwuUfIZLPxf_oNBVNwyzINdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/"&gt;
+Improving the usability of C libraries in Swift - Swift.org&lt;/a&gt;&lt;br&gt;There are many interesting, useful, and fun C libraries in the software ecosystem. While one could go and rewrite these libraries in Swift, usually there is no need, because Swift provides direct interoperability with C. With a little setup, you can directly…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как исправить баг в компиляторе Swift&#13;
 &#13;
@@ -124,7 +138,7 @@ Cupertino...</title>
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/mihaelamj/cupertino" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cupertino – MCP сервер для документации Apple&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Cupertino вытаскивает информацию с кучи ресурсов, включая официальные доки, метаданные всех Swift Packages и HIG, индексирует их локально, и через MCP отдает как контекст AI агентам.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;&lt;img src="https://cdn4.telesco.pe/file/d_x9ya7EIuLNsGxLPxYpppgnP--Lo3kFCGH9jErn36LUkqNR2QqM4tJS0J_MITBA3TcER045mIXIRyxWVQ4dLaijXwKRZBU0PAx_WMhLE-F6nzm5btFqKnO4DJkm_A7UcPU9PdKZ6q8cDM3quex6kFn5BBNAOjDztBuZRtftLStafA67DJmFVezTXG_KBwbFHHaYi6bnj9ewTcOfHgZipvXdp6qSvbYa66ChBf1LWObFjpLaL_aL3klhllz1lcf-LFJVJ6H2ON6Kr6YelnkKHbsXDyvwu-6f_YPC99P4PDVgFTWhpKvWW_9emuorto2bLIQpdW2XCgG-TFLl_kRq4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/mihaelamj/cupertino" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Cupertino – MCP сервер для документации Apple&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Cupertino вытаскивает информацию с кучи ресурсов, включая официальные доки, метаданные всех Swift Packages и HIG, индексирует их локально, и через MCP отдает как контекст AI агентам.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;&lt;img src="https://cdn4.telesco.pe/file/pOkVzay7Wsekl_OTRUcihdDKN0b0DCKyOy8e8tt8W8fCuQ-geGUcXYRbqIpzB80ZcO32n80xb2EnCwX2nOg7wMnrKIdVKmUBu-qTYargloU8ckJpd_BnQOjgIf4kqPQLJd_rllxTpKwChCAyVej6WNcUsixl4Fl9P1xNKkh8ZJwT9q8CsryMWZDRI3r0kHsNl1bTdvAPAr6COf1s3trc9U0-_RSzeVj1SgEPznX8bqEU_63o30BvCyh2yivOKI0DScNji5CelyepeWKxrcWcAGPrLkfG_Rej8TqCItBjrC8ZWeQtLDyyEH9fsKxk-1SOT515MlTt5g4m-a0fZVbz_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/mihaelamj/cupertino"&gt;
 GitHub - mihaelamj/cupertino: A local Apple Documentation crawler and MCP server. Written in Swift. - GitHub&lt;/a&gt;&lt;br&gt;A local Apple Documentation crawler and MCP server. Written in Swift. - mihaelamj/cupertino&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -252,18 +266,5 @@ Swift Subprocess –...</title>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4576"&gt;&lt;img src="https://cdn4.telesco.pe/file/iMEJUU4m-D8x8gw1JMQ1_AWB5hv8LYEMv-mdqXoj2wvdoMKk9-rq5TCloX7GkAaDFlDEBK9ez1TcIV0Mcch7pypdMWHqTFIoOp8c55SFJa8_zFAsBwBFZT0wi-ga7c1gUa9BcfYILAaRhW-L0DEufp1oZjt8yHkEaTS0FzaKVg9-CHLFXaFohIsaADfmNMu6SaNnH-BWUdKzlEQJbIje7uypW6NLxwJT9SHgtC4DLYk0NkVnZTWPSL8T50TZ2EoCx_mpj6osWt4mbsZQw7EmvBe2yRbZ4LVkj6S6NmZ6WOym4fuj5Q5GzgLlVVJZ_OUea92Vz74NkHulUb3Fs0IQKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://medium.com/@sapsan94/from-point-to-pixel-rendering-pipeline-ceb904e072b7" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как устроен пайплайн рендеринга&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Отличный разбор того, как устроен пайплайн рендеринга на разных платформах от уровня пикселей до лейаута кнопок в привычном вам SwiftUI. Помимо общей теоретической базы мне понравилось сравнение конкретных хиапов пайплайна для SwiftUI, Compose, React и WebGL.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Asset Catalog для VS Code&#13;
-&#13;
-Если вы постепенно переезжаете с Xcode...</title>
-    <published>2026-01-07T06:01:15+00:00</published>
-    <updated>2026-01-07T06:01:15+00:00</updated>
-    <id>https://t.me/iosgr/4575</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4575"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4575"&gt;&lt;img src="https://cdn4.telesco.pe/file/n1ATOUFFiaCImsD2BC9J7Ar0tw9XQWqvJOZ_H-VSGOV7pS-5LjCyBx96pXGX9JCtZ6Fvq7O3nyknTIJMOInpWvEsNmAQ8RKZDuI_uPnWNHhBh3y9RQc7oNVg7Q6Ly13IJhthaSfBVjkHCumT2YCtKjcYL5QS5kmYcZkRpGTm_tLCAFz-LV75HnKi807TtLWdhP7z2MR8-8aNhbCAb--mu_iLb0DsDezzSGbaDRqq-A-7Um3gXMLsx02G-lj135xIqGvJKGVs2bB4vrmG_V3YxQDlMlI0ijq_yQ-E2GVXY8urEGYfgvw66PtOPR10I6A6olHFxBbqlB6r7WNWsfN_sQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=artemnovichkov.asset-catalog-viewer" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Asset Catalog для VS Code&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы постепенно переезжаете с Xcode в VS Code или Cursor, то вот еще одно расширение в копилку, которое возвращает часть привычного опыта – просмотровщик .xcassets файлов.&lt;/div&gt;</content>
   </entry>
 </feed>
