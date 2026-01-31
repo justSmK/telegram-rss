@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-31T22:26:32+00:00</updated>
+  <updated>2026-01-31T23:26:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -46,7 +46,7 @@ In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/HF2SlMm8Z44NAQNquML4umJW7XPyXjQ7GRD6g02-zsTxzpYWzVGW8YIBBGfxMmba_lSfbUbWxJZ8H8CkIkasbcMwqI-rsHFYBx4pQFoS5PQs3vcSha5pBynxo-UmQKB3_HXyRmGRUAARFfP7XebhXHoHnSLU6rio_dD7vI-p8I_S9vP7Bn5aKpgjtPYUUwx-8WcOJEypVXb6IZ3y7dqssq4oZ1Zt_MUrC5anphBCBms8fA4F9zJFDdxMxN_DdIkdJOChEsmUgO516uxKkUEDUBHMzRoglBn8d5tBacMatQLQTRnALrSqoXvJ9_fG3NCaXVYnf-UPg34oUW3bNU4kng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/LOnjDFZzB6EHThR__o3jlEcSB_UCsVkSTc9SjrUL2vWvnAyzL0M1VydPvDt-r7BrKGLwIhboRcEvlVw9-_S5d5VdT2QjvKOMG8WyfOVX3OHQbeGLN_bRFP5i_aV3u38VC4m8tXSxuIBPrr5PnL0saeImP76IUtQEfCKicBBdA9bk_zya-V3LYQ-tGvmOcrndtKBGWbrxUXW1LkB7ZG3eFfEdG-Qetf53-OZvgysnF_-9-WPcptDQeqsxSQUgJFeuNJs2ksGrGlGxXQjiVU87PsKJU1V3a4NFAHqX-3085mvZWscfYsQnaO_426mCCLolhs-LdzO4Nfhj-kW6c0iDpw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
 What&amp;#39;s new in Swift: January 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;A Reddit thread earlier this month asked about building web apps with Swift. For this edition of “What’s new in Swift,” we invited a developer to share their experience:&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -193,7 +193,7 @@ GitHub - OneSignal/OneSignal-iOS-SDK: OneSignal is a free push notification serv
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Price updates for apps, In-App Purchases, and subscriptions &lt;a href="https://t.co/0wr8GzTZjR" target="_blank" rel="noopener"&gt;https://t.co/0wr8GzTZjR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0wr8GzTZjR"&gt;&lt;img src="https://cdn4.telesco.pe/file/JO8l-0zs2KII2Q7B1Y8Bk1XNaqj0RP_dzNJXiLsqxQfmXwZiskLZRq5QCCBa1GpNK9tplWBNqfKva9fxSzSIvJVicb9GQSYSaJd7JaHJX8IcwJ4xQB60ttwnICWxZjn6j6Q3Ib3JDl1pddZr_eEJUClsV1stgHOKn8sPbDKKXCUsc6-WJzSBstss8h6RzM7Qkse6C8cx7DQ1rLAYRSWPbFMX8rfkAahqEJWJLkdujSq0U51j35KPpsqMjefs_-fyBhwxrS1oll9yldxI-BirJ-KDrGCmtukJIASh65-cJ1BKGZjOhV5oizR6DlPgz-vCNYrmph-5O6triRR2zCcjqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0wr8GzTZjR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Price updates for apps, In-App Purchases, and subscriptions &lt;a href="https://t.co/0wr8GzTZjR" target="_blank" rel="noopener"&gt;https://t.co/0wr8GzTZjR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0wr8GzTZjR"&gt;&lt;img src="https://cdn4.telesco.pe/file/YrI1-ch7cw5RvSkSBJnyu-6_TfCU-87_5Y5dwXrDuXpYhW3xfTNyAt0haYZamG__9ORwftCxhWx5zA0pWKzEY0fGwQT8z1i3-yKcERnueEYo0x0g3cfYnyxIG9SdfzGNPYwbXracZNTKCUoCqG8Mm5Hmcg5R2crrWTPmxauxuwmXsCF3gJgplJpCFb5w9bU19uB0LG2989G4Q0SUmQJxojblfc2mw7FpAauSLMk5MfvTnzcSmawTiETL_ctHSEpVAo1zvJjiS-Ol61f51YZD5Az8co_ANhefOafS-V6v1YUXA7j0KdOB4VGn2XW-2zARdTnA565tbDu_JlveDXXBYA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0wr8GzTZjR"&gt;
 Price updates for apps, In-App Purchases, and subscriptions - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The App&amp;nbsp;Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
