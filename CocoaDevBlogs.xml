@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/kZwfeGRJ8fUZM-XV6SVpVKMfNVSceQrv4ZTRO8N7147rVPEIExCRslHbo-mnl53EkEJ5Zqdc39WJDUXuhEE5OBBnH1-y1pLrzDlVOjRI5Cqm1JUJrwukSq4tnLPlY4HLguOvv3gcnt-uSgCRhjzegzYrYKKnxI7Cpa4VoHnHvEqkdL4RWaNSZAh7hjE3lg123jwPFYorYxOiz3GCwCZ0FA5KAS5auRisl8fx4_YvmXiPoYL_sg3mf5kQQu4VDP-4Q2-fERTdFJqzrf2-rknqMzUX9PO0K3HL0_PdCFAsKN2pmPv_17BdB7qFPTMfK7fKfOkG1HD987ig9JpinbAEuw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-30T23:28:41+00:00</updated>
+  <updated>2026-01-31T02:11:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition https://t.co/C9HcuI5P5k</title>
+    <published>2026-01-30T23:37:16+00:00</published>
+    <updated>2026-01-30T23:37:16+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25848</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25848"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/HF2SlMm8Z44NAQNquML4umJW7XPyXjQ7GRD6g02-zsTxzpYWzVGW8YIBBGfxMmba_lSfbUbWxJZ8H8CkIkasbcMwqI-rsHFYBx4pQFoS5PQs3vcSha5pBynxo-UmQKB3_HXyRmGRUAARFfP7XebhXHoHnSLU6rio_dD7vI-p8I_S9vP7Bn5aKpgjtPYUUwx-8WcOJEypVXb6IZ3y7dqssq4oZ1Zt_MUrC5anphBCBms8fA4F9zJFDdxMxN_DdIkdJOChEsmUgO516uxKkUEDUBHMzRoglBn8d5tBacMatQLQTRnALrSqoXvJ9_fG3NCaXVYnf-UPg34oUW3bNU4kng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
+What&amp;#39;s new in Swift: January 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;A Reddit thread earlier this month asked about building web apps with Swift. For this edition of “What’s new in Swift,” we invited a developer to share their experience:&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Dev Weekly: Issue 741 https://t.co/qfigZ8iVvB</title>
     <published>2026-01-30T21:07:42+00:00</published>
@@ -82,7 +94,7 @@ Migrating an iOS app from Paid up Front to Freemium – Donny Wals - Donny Wals&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pointfreeco/swift-snapshot-testing &lt;a href="https://t.co/2bfs8JLwCq" target="_blank" rel="noopener"&gt;https://t.co/2bfs8JLwCq&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;&lt;img src="https://cdn4.telesco.pe/file/jAs06gVrN1-y06xVO5_7EXXf4kn5-f-seRjXy6rEISaXconzVokg_4WGHmHONfc-maPCjadegT4LVj1lDmsrz6WTWLI-DD6uLTEBgXnkNhyQmrIjfqBqx4kz-xztO0qcQI0M9-P2LjMWXPAmA9TY2QnESJlwol4fSLDqxGEmkQDpL_xizIsYkgocDGCT8SqJkvukm6uLMY8eurC-BKoXlSq-ZcYg46X4pb_tbTg8Zn_W10F_Ee_9PgWfBtw0IZANhU2RqedjyVYsBniYJCBAg3y1m2-by8PrYVWF9M0g69Adgy_GC0GAX8ddwou5BrlAwnkb26RBJBlWah2yvBrPjQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pointfreeco/swift-snapshot-testing &lt;a href="https://t.co/2bfs8JLwCq" target="_blank" rel="noopener"&gt;https://t.co/2bfs8JLwCq&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;&lt;img src="https://cdn4.telesco.pe/file/g1xJ9Sw8oUdGoOonFTJXIBRDx2LUqUQB4-18l7gWm0SBk50OTA_6PdQvFp0UW6wgts6J-DWl0PfMWqJSvFUaFgSWfHxWVHOgZI1vt2-g06kTzOekuEWHBUkQ48pRJTgu0tZoWMK1XRcmXLy6AR_DV-RqqSRgNIU1X7YETvxqURSEkeh8DAzcEHirB_WcIZ8xQL_0tWMWLV_t3J8weE_wvPw3sCiK4CPKN9dODOTQ-nvSxVXW3UnUBy7hdQnsJ_X9iiR_0JY3cVSFtfOljjgiSYgJPZtEOae4BXSkARD9tMSGzgtdOupW-xOD2kuF2HWq_iJ25_xFbAXGDXWYI4cL8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;
 GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot testing. - GitHub&lt;/a&gt;&lt;br&gt;📸 Delightful Swift snapshot testing. Contribute to pointfreeco/swift-snapshot-testing development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -94,7 +106,7 @@ GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot test
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-system &lt;a href="https://t.co/mwNhLskrpA" target="_blank" rel="noopener"&gt;https://t.co/mwNhLskrpA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;&lt;img src="https://cdn4.telesco.pe/file/Iuvp0n7cdaq7GWx5SM8-CPEPSPvzP7310fAWyPlEMlxuFquPd8wZTQ_9ZbY3s6672khh6tEj17OXl6jIMHq73tKSiMprLn-LyHDWvfkMCxe4BG3l0FhPjEgtQK2JQtrmInqezGGdb80PYDadPQcfre70p7qQDjMwnQRmikLznI7l_yTyCWRRyykrvjzZdMfVEf15ekAHMSOhw0w36DDUcbuBhN1d3l7dX4QK9sXkToBBvvb83xA3z_A58i4g7zsyHKVuSKHF4vAwPnKRwvgk9VnWE6PWFEHusKFq8MLpJ-0gNEohhobsugkIP0_5FMpOEFneUOszwcVUB61x2PtuEw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-system &lt;a href="https://t.co/mwNhLskrpA" target="_blank" rel="noopener"&gt;https://t.co/mwNhLskrpA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;&lt;img src="https://cdn4.telesco.pe/file/t6xWoiSQC4TAqu6UDvnKJ6ki1uyhm64yQjlOy_S7ZOCnJ9tVRthvPX30DgthFV06GW83dZAzJvG0ykvgFFM0rqPIqPu0vzT748A6gS9jyfvUf0F6fbxXI0SnW7jTzS1ApnxPvOJKBNPHH8KPZc0gvm_mHSPO5-5YKbLMw82ZMDKkOzitHKJBoWV47Ngc4-rJwBjTVYBwlxeGk5x1QOfBdJNRif9kFaLKK21zuVR0-6iA7I6oCVMysC71mqwQmdpdpRog-jVIAY2sGbZmlaDpTPzMWN-dL2ZYplmhMkeRapYmm-4hilD5lv6zq0GBsttN40qaa6rtamJ0PLnmdnFlmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;
 GitHub - apple/swift-system: Low-level system calls and types for Swift - GitHub&lt;/a&gt;&lt;br&gt;Low-level system calls and types for Swift. Contribute to apple/swift-system development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -106,7 +118,7 @@ GitHub - apple/swift-system: Low-level system calls and types for Swift - GitHub
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/SwiftFormat &lt;a href="https://t.co/qmhoOkvVUh" target="_blank" rel="noopener"&gt;https://t.co/qmhoOkvVUh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;&lt;img src="https://cdn4.telesco.pe/file/NH8wFzVVHy9leHlVTBbh5iaxD3-AuPTpVaCUxrQeXKlpdlhaTXxj50LWsxXMq5LcwWXLD8N63euVkryy1FYgHjex92V55ISchoozdK5RZhzlmxO0Z2x6kvNJfHw9KaaYruwfxZLyBLurnLrCSmfdn0xjCsJ8RZtNEU7GDTY-a5hUWsyY4Q9n90X7jLGlyBxAGPKtSNLL0h_MdrCVszowqfxkTJaMMxd0R63CCLk95DSSuf3xK4PX6ooY2pZT5pST0OKBvCJsG5FavVfBT-NE2Xz8PtjNlMRWlytopraJMhoCeASmSNJ9frKuZScytVa4xOrbDEzu-zQNQsXgRZP-4w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/SwiftFormat &lt;a href="https://t.co/qmhoOkvVUh" target="_blank" rel="noopener"&gt;https://t.co/qmhoOkvVUh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;&lt;img src="https://cdn4.telesco.pe/file/Z3uxH5cKqURN0DYUwEGtBHF-ZFkLiCZM_hHuutoyPBkW96RviOmZnjYiyRZy6rCatFC2fJ1dCvr-nQ-zeYFJ32VdaxemwtAboqh2j9wu2ipBQMemD3uOGqvIvRdHHMV-pHvWBCqAMYzNsP7ggII1u_dY89nDix7-yXP7zKDEvpwMJSip0iisxORDUFEy9EhUDmHHpgPArnY5oXwkVIQS83bH9QaRvr2x67dg-QRu_ozHv3HmGmK1taBfy0ccMB5l4qMyTHYtixWnX-hBCK_z2RBG4p-J32FdFW24ddfsqXfQR75j-w_Iq9rE_6RAoSS1nYMGzpjThN5uTRudxTT02A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;
 GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code - GitHub&lt;/a&gt;&lt;br&gt;A command-line tool and Xcode Extension for formatting Swift code - nicklockwood/SwiftFormat&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -118,7 +130,7 @@ GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for f
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/W77aEoB3lM3j9N96iHp03mz_kFQZH04caumaSWt1XEO5TwVODqsagbZxWbMVWmvD5nul4HI13G7sBhL3XF033vJKuWwnDQMNNzzvBDGnMwF7JWmkwcR88zGTpIUTIeOd14EUAgBiw-aDLy3j0eh7KqKKaTsO4nqSNDHMXPGdTJvomwWSWH4ghAbGGeCZUftaOgTPzp6Ym7l0cPoIXszAe4pYqW8yyvGkSp35y2HUgdC4HbZcybjL3iLEbMdSUJGrBurQCKJgfqAjIzSOrgfgC1akcdUPlzMGOWinW_s-5rPeAYEATuFINAb5F0riZmK3RQ87mo0Z_GkDw-t6Pei6aA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/ck1MQHsJinnWXyAV9njPRUpWNAP3odYWK1SmmEi88Of4Rk9LWAI9Em5xh-cqftBv9wI8NT-uPmIJZWSd3R1mYoaaGkx1ipqc2xyHS1-w1Xm_AkWgEbf3qyKcJtvL4KrB5ac43m1y012ujLehc54LoY-ARIVhLtyR6SYz1EBRt3GYpIdZzC45pVJs--htbCjWcRSq9kdrvb6MNKTlhx_5f0l5SonEoScR1m7XGfw0AtOS036pO8YKIwAvCYXwdRL5bByJ5hKAr1jnzmWXumecijxokajkZUzB0dJ4zm1f6GX1u2rpicjiX0vAvFLN6D_S2wQYH4DLFYZPPVanv_oKmw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
 GitHub - apple/swift-nio: Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - GitHub&lt;/a&gt;&lt;br&gt;Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - apple/swift-nio&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -130,7 +142,7 @@ GitHub - apple/swift-nio: Event-driven network application framework for high pe
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : kstenerud/KSCrash &lt;a href="https://t.co/SaDTp3LQin" target="_blank" rel="noopener"&gt;https://t.co/SaDTp3LQin&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;&lt;img src="https://cdn4.telesco.pe/file/QnXDdRWxlFjFc6gt6g9WHDNDQlhgqVgtF_Fm7mwArkHbYC5rOfP4vKv53Dj_nSe-15NdS7_sKSEnypKKk_RcrfifIazNKpBpvps6oFh-P9J8g-dFriRiXBMGHMtJOX7t1EQFFs6C3IbSeCRCyhFpkBpOHaqBh2M4Y1VajvB6VubiMU3oyFa-no2jLy60gy8x9f9W4a6bQnppCWCGCtvstbT6lLbHI97tnhKfHohRenAECfA-tiEwGO3tdLx8gwOP5b8G6rcmk_6_8X59R3irRr87OEI6pRKZvMa7c7FcfP_n1cp5ttZ0ICAM4qqnXRL-DxbX5iqwfsFIC58IaTHHqQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : kstenerud/KSCrash &lt;a href="https://t.co/SaDTp3LQin" target="_blank" rel="noopener"&gt;https://t.co/SaDTp3LQin&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;&lt;img src="https://cdn4.telesco.pe/file/rPtQC6_g9i6Bk4_e0k-qlVWQ25oRrgFdw4ndxeAgAEZk7RgDBR7juBRU8clPSMQ35UuSt7y4_fXA9XdtdsBRWlMJ5YyC00o2i1OSs_rqm1HUUtNEDUEi4KOUxERj8pTKWPuhJLSS8B7R9oQePliWxKKVZksvdfdOnTMHjAB4j0JYbGvsxxjsel-Nv6pCfcH1E1g2iR6tk58w74hGL9_sTfTrlLR3SzkDTlC7l1999gTDIjHZWw_rPRpDl2M9hWpj95OG4Cedm-fK-uF1WxAaJGg1HKCvTJs8SBi4OFzQVKG8rH48htscIlpVhzNPPQGh8O0tGn5_WR4qVhGlaEpqdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;
 GitHub - kstenerud/KSCrash: The Ultimate iOS Crash Reporter - GitHub&lt;/a&gt;&lt;br&gt;The Ultimate iOS Crash Reporter. Contribute to kstenerud/KSCrash development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -142,7 +154,7 @@ GitHub - kstenerud/KSCrash: The Ultimate iOS Crash Reporter - GitHub&lt;/a&gt;&l
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OneSignal/OneSignal-iOS-SDK &lt;a href="https://t.co/Luew2SM8bL" target="_blank" rel="noopener"&gt;https://t.co/Luew2SM8bL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Luew2SM8bL"&gt;&lt;img src="https://cdn4.telesco.pe/file/m3caiJpaVodaPsU7pjD2ablw1v5WNHMf3eOtW-8BQ1SvaP6p5r48UcnWsGzmhzFq3QXq-OMIpCd8GDPd69OVPwTI9O4gKy_dVWY7j_t1LhaTEpguqkX-z6SytutcM67s9n0Mpv1vtAoDmpjUQCYk_Qsr9HykcZannT7Vd40Cecz6IaaWmd62u7Ug6oMSUr5NJUinXalOi_-qBNjc1jqaqv-Z0k5EJHunf54h7TR8eRHDGEuJcR_FYnb9RnLLw1W4EGrRcZNWTr_9V80cRj8DZI3AbL2ERKTyWB_jFmFk8jRj_LTvP_8pmD4l3j5_8JxQc5ItT-ZiSkP10wwElDFoUg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Luew2SM8bL"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OneSignal/OneSignal-iOS-SDK &lt;a href="https://t.co/Luew2SM8bL" target="_blank" rel="noopener"&gt;https://t.co/Luew2SM8bL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Luew2SM8bL"&gt;&lt;img src="https://cdn4.telesco.pe/file/SnUWPPmahNUwdmWlG_BLpCEWvl34bNX54-TP-6eF02csbp4-3qVYvsvU-Fb2-Ubk_B0CmYNb_55RNs74kvqQN692wjzat209WTN3Txu17K-IMuOtB8kG0LIvLWpsfzFnXu3BGTvHmo195u4sMYKERUBJoSKPJIr2mvusKa_5id_jOXWtZOOzlV2h0u30t4zAvdPqXNFqHUeFUWde7MF4lyWWcvaHDPJD7zd5AFrrAFJkic3InY_j6s04ssK4nD1XAhkLCiC6jxQkceoFxQgQSJa1EQNn3bOIo2XiuJL8giyzRiE8vqBLeHdrzQDeOP4ljitEIxO3-LOpYTNTg-wLrQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Luew2SM8bL"&gt;
 GitHub - OneSignal/OneSignal-iOS-SDK: OneSignal is a free push notification service for mobile apps. This plugin makes it easy… - GitHub&lt;/a&gt;&lt;br&gt;OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com - OneSignal/OneSignal-iOS-SDK&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -240,17 +252,5 @@ Manually Mount the Metal Toolchain When Xcode Cannot - Christian Tietze&lt;/a&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Emacs Carnival 2026-01: “This Year, I’ll ...” &lt;a href="https://t.co/oUu5LS8K2B" target="_blank" rel="noopener"&gt;https://t.co/oUu5LS8K2B&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;
 Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;&lt;br&gt;I’m hosting this month’s Emacs Carnival. Submit your blog posts on the topic “This Year, I’ll ...”, Emacs-related new-year resolutions in January to participate.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Announcing the German Urban Sketchers Index https://t.co/Kbt1DKjDy8</title>
-    <published>2026-01-29T07:47:54+00:00</published>
-    <updated>2026-01-29T07:47:54+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25828</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25828"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Announcing the German Urban Sketchers Index &lt;a href="https://t.co/Kbt1DKjDy8" target="_blank" rel="noopener"&gt;https://t.co/Kbt1DKjDy8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;&lt;img src="https://cdn4.telesco.pe/file/ac07-Gwz1RihOvNo_AhGhiGwTV0iM75TUo-weN1JxUV2motTWRNr4GHR2Q79bFal-3AWGuaKcTdf5pKXQqDDTzOUKcaiMIOvlkoQ9RZ-d-ON1adlOkU6Ih9vqbndM28cggtPkaCnbNCn-wo-nt-MFuKQ362SaBgzAFCGLBOSOkUjoIbELKdi8zbYLytuWAmSopW6r7sUIRGlGf8ttUj5QC3NXQEU37R6by8JCvi3RcXw9n2omul-akhOWmLXFfDbNWeo_pZ9cvxaE726iymeBblh5d7hp3hi6gyl_S0nQmNnZrZRcunojKncjbHQZ39rp7Feo3zZF5Ho0EX3NyMNig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kbt1DKjDy8"&gt;
-Announcing the German Urban Sketchers Index - Christian Tietze&lt;/a&gt;&lt;br&gt;The unofficial Urban Sketchers Germany index got a webdesign, interactive map and filters to show the 85 groups that we now know of.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
