@@ -31,7 +31,3 @@
 @talk_business_VB
 @UnknownEnglish
 @Idiomsland
-@formula1
-@evkus
-@f1button
-@first_places
