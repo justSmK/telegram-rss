@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/dE-2UxH9ICfo9F72XLzAxU0SZ6cU-AVzg5NLL11yIisCVoy05KlhfbN4LltQX4VCrP4u4mPQm4Z15wMQ3VsnqkgMc5jdvvKoL9ubcjeslbK8GyOBsg5TJ8VwxZFUt7qheZbvkq6nL1LR_n65KyOMmviNS3gJ7heR3qv-GHxKjYlgKu5hzofDEQace9e29aJ9c_uAAuMG1TFQnCex5AUHE7No1LwGF15MxM54Ic2tQNVVz5X790zpSHZTJfpRGJEJlVcSWOy0ngAWVSba8bMcITzh6jjKepBsF2RPwoRoFA0jhNM6-FhpysiWArJ0byO7RQLWEWtXFg4OYAP8awFHRA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/dE-2UxH9ICfo9F72XLzAxU0SZ6cU-AVzg5NLL11yIisCVoy05KlhfbN4LltQX4VCrP4u4mPQm4Z15wMQ3VsnqkgMc5jdvvKoL9ubcjeslbK8GyOBsg5TJ8VwxZFUt7qheZbvkq6nL1LR_n65KyOMmviNS3gJ7heR3qv-GHxKjYlgKu5hzofDEQace9e29aJ9c_uAAuMG1TFQnCex5AUHE7No1LwGF15MxM54Ic2tQNVVz5X790zpSHZTJfpRGJEJlVcSWOy0ngAWVSba8bMcITzh6jjKepBsF2RPwoRoFA0jhNM6-FhpysiWArJ0byO7RQLWEWtXFg4OYAP8awFHRA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@evkus</id>
-  <updated>2026-01-31T04:27:08+00:00</updated>
+  <updated>2026-01-31T05:41:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Тревожные новости насчёт присутствия &amp;quot;Рено&amp;quot; в...</title>
+    <published>2026-01-31T05:04:01+00:00</published>
+    <updated>2026-01-31T05:04:01+00:00</updated>
+    <id>https://t.me/evkus/17782</id>
+    <link rel="alternate" type="text/html" href="https://t.me/evkus/17782"/>
+    <author>
+      <name>Evkus Racing | Формула-1</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Тревожные новости насчёт присутствия &amp;quot;Рено&amp;quot; в автоспорте.&lt;br/&gt;&lt;br/&gt;По данным The Race, очень велика вероятность, что сезон-2026 станет последним для &amp;quot;Альпин&amp;quot; в ЧМ по гонкам на выносливость. Скорее всего, недолгим получится и присутствие &amp;quot;Дачии&amp;quot; на &amp;quot;Дакаре&amp;quot;, несмотря на недавнюю победу Аль-Аттии.&lt;br/&gt;&lt;br/&gt;Наконец, могут закрыть базу в Вири: держать 300-350 сотрудников без собственного мотора Ф-1 становится слишком накладно.&lt;br/&gt;&lt;br/&gt;Глобально в &amp;quot;Рено&amp;quot; не уверены, нужно ли дальше продвигать &amp;quot;Альпин&amp;quot;, пусть даже продажи дорожных машин в 2025 году выросли более чем вдвое. По факту подразделение все равно остаётся убыточным.&lt;br/&gt;&lt;br/&gt;А это в свою очередь возвращает нас к вопросу, что же &amp;quot;Рено&amp;quot; будет делать со своей командой Ф-1. Как минимум дело идёт к её очередному переименованию.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/evkus" target="_blank"&gt;@evkus&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Никита Бедрин между тем достойно отработал тренировку...</title>
     <published>2026-01-30T20:16:22+00:00</published>
