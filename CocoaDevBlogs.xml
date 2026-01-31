@@ -6,10 +6,37 @@
   <icon>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-31T12:54:29+00:00</updated>
+  <updated>2026-01-31T13:42:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to make scale to fill NSImageView with remote Kingfisher image https://t.co/SovO1ysdCk</title>
+    <published>2026-01-31T13:03:10+00:00</published>
+    <updated>2026-01-31T13:03:10+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25850</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25850"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to make scale to fill NSImageView with remote Kingfisher image &lt;a href="https://t.co/SovO1ysdCk" target="_blank" rel="noopener"&gt;https://t.co/SovO1ysdCk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SovO1ysdCk"&gt;&lt;img src="https://cdn4.telesco.pe/file/FsnMlleYsuj0p7_JM3jv0AyazGbqYp8Zt5lIUFPoACgBfTZ2Rg_et1w_-xjFLKBByVFwUk7tY1NFlCBszkWizTgxcizgeWceiAj3zjZlP5f16pX6_ud4oFLinoZoPLee70k0BBMJRX2pCqXs246rOQwg8q6wdZ4ishELf8257pMQqHv92ozgr4LE4w95skRXbsdYWP4o1yRszUdCSOxUdJgqsbV0GW2zR9rioO7sypfZSBWOObEJnfgCbDB5jyHu5hHPFbZJbOU-q7lAPhhT-k9cbAgYMxHQNeaqKU-ygpai99hPI5DJ2nCBChryXYoHLfMwd7zycspZKU-CH-BMjQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SovO1ysdCk"&gt;
+How to make scale to fill NSImageView with remote Kingfisher image | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1006&#13;
+When building macOS apps, you often need images that fill their container while keeping their aspect ratio - like cover photos or thumbnails. NSImageView doesn’t do this well out of the box. Here’s how to build a custom solution that works great…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">How to bulk delete GitLab artifacts using GraphQL API https://t.co/Qic8W2jWBr</title>
+    <published>2026-01-31T13:03:09+00:00</published>
+    <updated>2026-01-31T13:03:09+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25849</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25849"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to bulk delete GitLab artifacts using GraphQL API &lt;a href="https://t.co/Qic8W2jWBr" target="_blank" rel="noopener"&gt;https://t.co/Qic8W2jWBr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Qic8W2jWBr"&gt;&lt;img src="https://cdn4.telesco.pe/file/atMoX8CJH3NzyzsZPLRT4EP2mDFmQidHCiSu0Wa07aFk_uu5QZudR5ky99_u4nq6WlnTjpq9OVO-ehIfE40fT8xlCCiDYZHxmmq8HKOhGDiQRABEhmaGoCwrcGnQpLQ6YPBQ1V38UiCCIf1ZXvdEIyJSD8EGko01ukFchQ-QmCVvDy_XDCeky5l0Zxv3cHqqSonE5aHNUlLIMN9nee_zjtw3zg8tH7yqICGL6I1lxGulKVl8GN2st0PGiW9dMPTC37lR-nFQbSjK4ZFUDtdtqNUmCDMK_37VaDeToSODOHMhJR2eA34_mVNJikuB7s_0-mqB47J1S5ebkGkm3-uw-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Qic8W2jWBr"&gt;
+How to bulk delete GitLab artifacts using GraphQL API | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1005&#13;
+GitLab CI/CD pipelines create artifacts that take up a lot of storage space. While GitLab has a UI to delete them, doing this for thousands of artifacts one page at a time is slow and boring.&#13;
+In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition https://t.co/C9HcuI5P5k</title>
     <published>2026-01-30T23:37:16+00:00</published>
@@ -228,29 +255,5 @@ Use clang API notes to Annotate C Header Files for Swifty Module Imports - Chris
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot &lt;a href="https://t.co/BueF4LIdXw" target="_blank" rel="noopener"&gt;https://t.co/BueF4LIdXw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BueF4LIdXw"&gt;
 Auto-Mount Metal Toolchain Using a Launch Service Because Xcode 26 Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;Xcode 26 is incapable of compiling Metal shaders on my machine, so I need to help out to mount the appropriate toolchain with a Launch Service&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Manually Mount the Metal Toolchain When Xcode Cannot https://t.co/OMOnYqM3WS</title>
-    <published>2026-01-29T07:47:56+00:00</published>
-    <updated>2026-01-29T07:47:56+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25830</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25830"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Manually Mount the Metal Toolchain When Xcode Cannot &lt;a href="https://t.co/OMOnYqM3WS" target="_blank" rel="noopener"&gt;https://t.co/OMOnYqM3WS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OMOnYqM3WS"&gt;
-Manually Mount the Metal Toolchain When Xcode Cannot - Christian Tietze&lt;/a&gt;&lt;br&gt;My computer suffers from Xcode not being able to access the Metal toolchain that is clearly installed on my system. I need to mount the disk image manually to fix this and make the CompileMetalFile error go away.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Emacs Carnival 2026-01: “This Year, I’ll ...” https://t.co/oUu5LS8K2B</title>
-    <published>2026-01-29T07:47:55+00:00</published>
-    <updated>2026-01-29T07:47:55+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25829</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25829"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Emacs Carnival 2026-01: “This Year, I’ll ...” &lt;a href="https://t.co/oUu5LS8K2B" target="_blank" rel="noopener"&gt;https://t.co/oUu5LS8K2B&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/oUu5LS8K2B"&gt;
-Emacs Carnival 2026-01: “This Year, I’ll ...” - Christian Tietze&lt;/a&gt;&lt;br&gt;I’m hosting this month’s Emacs Carnival. Submit your blog posts on the topic “This Year, I’ll ...”, Emacs-related new-year resolutions in January to participate.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
