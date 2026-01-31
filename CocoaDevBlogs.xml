@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FXwYMRdJ78EewlvTGS6nE4OtZHgvQJBREm5M5LUbYtvMTcUBSfdSvIMabZ9x-RZXwcOkhcfR5Jy9-phM6zpplUfXKbRo_0rgqAwbAJPJ26wr0uwABWbbkXsKbpJEJ3V3XotKLaWxjycWpP4SMm_dYl2azU4YA-e6IGzMXQG4QtcLWCCfd26bjFAStI2pcU5FVNfpnxE22zzkV0azVR3wp7fsUmkq34CHS1U-Zzi2al97yQp6snP-KKuSyiCICcnKf7Bptp054R5h5_Q0inncABGtO1YSPWn848ibrOAhsIvl0DFoX2PMaxr_D8D_6G_QJmjnNlB4alNnzYSNkCBXRQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-01-31T18:37:13+00:00</updated>
+  <updated>2026-01-31T19:23:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -69,7 +69,7 @@ What&amp;#39;s new in Swift: January 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to bulb delete GitLab artifacts using GraphQL API &lt;a href="https://t.co/Ik8hF4ksed" target="_blank" rel="noopener"&gt;https://t.co/Ik8hF4ksed&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;&lt;img src="https://cdn4.telesco.pe/file/PNtzV7S-fUt_O9gRYUIE7chanfjIAoS5IfobMX8LYpnSpFRfpN6n7yoJKtuTZXgOhxFlDcsrIa_mf99GUZUrHel_xxzHD1AqO72bLbQZuh-6q52fAjmncWroFemjuGqVsfeMnL8oB-lns9NbU79wmv59_n5kmGOtF4i6pbToyaMoH8JiouN3JPMwlqbahN-QianuCVxiFPKWZc7vn0g8LdYtMh6cC1dglwWMptUdI6O3ItOXvYvuecEO0XIsbvHtqFkgHSedYQVWge7huZpmbB7QW11c9350XpJDDetIJCF9ib_9cbO00WwNQkXxt0jHYBRDMzvS9VGXh5zlUPokdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to bulb delete GitLab artifacts using GraphQL API &lt;a href="https://t.co/Ik8hF4ksed" target="_blank" rel="noopener"&gt;https://t.co/Ik8hF4ksed&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;&lt;img src="https://cdn4.telesco.pe/file/OoznaW3BhJQPqmQ1OEmoGMCVB0pO1q9iFWDiWiocTJydHN6KnszOrsQ1IAT-2LrWAmhql3HKRRFNU2z-14LRk5_Qy2denRODq9TkFw1toNEoCHrjbNNHStogv-fme7uND8bsOhnRt-xl3Y_Kl3fM2SpkxFwJn9-vnMWknISyYnLBdMRZAtg25XKvbZlVikFkIhpR4bRLtyvHOvmkZ6daFBI6wGi6EiCb8XMPkCBLaCvU095_JNaSpN_gcxFaX3XM6MSTZZ6K6SbKGHVFTMJBJsVsOsP_LVYY5tbHX40fIcIxv0ELpT-Gsb0YbcshAqYxCbADYU1Iq4BKU0dJ6c_AxA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ik8hF4ksed"&gt;
 How to bulb delete GitLab artifacts using GraphQL API | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1005&#13;
 GitLab CI/CD pipelines create artifacts that take up a lot of storage space. While GitLab has a UI to delete them, doing this for thousands of artifacts one page at a time is slow and boring.&#13;
 In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&gt;</content>
@@ -83,7 +83,7 @@ In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to delete GitLab artifact &lt;a href="https://t.co/4hs0dfQj5m" target="_blank" rel="noopener"&gt;https://t.co/4hs0dfQj5m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;&lt;img src="https://cdn4.telesco.pe/file/GwBQLL6yc-7gfeG66gbC3ZcmGVVWSKe7IlEpDAAtfSzudKEMSuSj_i8c7AWTshxWxmClGZV3bUrb9rH6ynSGOtvswko_E5ieX3JylAS32fKMwQ-PaWaZ2ZXZJBiz-8UIyyEvtxPXS7lnnhl1Q96HqnAKVFx_TCL7DpaVMYBBqleO8sFSSHCMDzIUVx3hN3Mpn6AKwr9My_BYkFEiOV8fYTNRlFUMaKqsSBGQfZmsCjM6BKDScichHYUAj4TNuC6SFS3I66Q7ARkKdv-7z8IklfrBg5aQlZCagC5GGR1U9NX1oqdxqHhanuWL04P2294WsIho00KMAQEp0ifub7qpyw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to delete GitLab artifact &lt;a href="https://t.co/4hs0dfQj5m" target="_blank" rel="noopener"&gt;https://t.co/4hs0dfQj5m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;&lt;img src="https://cdn4.telesco.pe/file/m58QoUJ0ZGAyNpgfo61wl0dfNY5YqkA6JZbXdt9uWK2P1UYAW4KM9IUGZXu6wkFZt6lh5QnD3NFdEUvyRfoGAasxqCemtWcXdiNV1FFzrWAbHUhsMdaSg1sKN8kPIeOeAUtfnfxvj2dVRasIJruUqMMdPQ9FR1LQlidJjALxFCPxvk4nwUMig9ta-gM0rkQb02J0BeX7Ck2CQ36Ehxvb7LEnNDuWb5gbK3GVI96fcQTLYqHjZ9GLf5btTsEOt1dQLzLh3DDYMcd3I4q8oTeuDIc0P0Y5C9OsSGr4p8yqVvwtHisCadUgXU8ytc4BEPZBcSIsZP8j-5lnSeT4Z6FY0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4hs0dfQj5m"&gt;
 How to delete GitLab artifact | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1004&#13;
 We set expire_in: 1h in our CI test jobs, but old artifacts from days ago were still there. Something wasn’t working right.&#13;
 After some research, we found this is a known bug in older GitLab versions. If you’re on GitLab 16.7 or older, upgrade…&lt;/blockquote&gt;</content>
