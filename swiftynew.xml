@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Tz25qF-lSyYuPmUPLG2qSf6dQNz_13hDuOTpCqpRXK686MJ1Dok_FzlwDQLKLWYkGVHQp57MnyfcD3Jynp-kDdMYiP3o2kZRr5dleN8VjL2HI7cqUqNM1c1XO2GQbAjxTfKqiF7B2X5H31f95JkHAREKK_CeQnSy5f2t3Orb7OM0Cc2BH_g73T_gcrphrN4QwnrnQhX2qJouLS-_XF37cHSajmKPgUIoqhN2Sz6qTlVRqqFo3hJzqAbF0KiSd--4ld7ogOiryEC-8X5RZRIlddwvjdGcRZzj8SMJ55guL4RtELukqjRiKTI9suZdLbKUmrQWc02k5PVHq_9fCoc2FA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Tz25qF-lSyYuPmUPLG2qSf6dQNz_13hDuOTpCqpRXK686MJ1Dok_FzlwDQLKLWYkGVHQp57MnyfcD3Jynp-kDdMYiP3o2kZRr5dleN8VjL2HI7cqUqNM1c1XO2GQbAjxTfKqiF7B2X5H31f95JkHAREKK_CeQnSy5f2t3Orb7OM0Cc2BH_g73T_gcrphrN4QwnrnQhX2qJouLS-_XF37cHSajmKPgUIoqhN2Sz6qTlVRqqFo3hJzqAbF0KiSd--4ld7ogOiryEC-8X5RZRIlddwvjdGcRZzj8SMJ55guL4RtELukqjRiKTI9suZdLbKUmrQWc02k5PVHq_9fCoc2FA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-01-31T13:43:18+00:00</updated>
+  <updated>2026-01-31T14:27:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;29% - Да, размеры равны&lt;/li&gt;&lt;li&gt;52% - First больше&lt;/li&gt;&lt;li&gt;16% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;29% - Да, размеры равны&lt;/li&gt;&lt;li&gt;52% - First больше&lt;/li&gt;&lt;li&gt;15% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
