@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-01T19:27:01+00:00</updated>
+  <updated>2026-02-01T20:30:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">React Native Navigation 101 https://t.co/XJTW4RR9ku</title>
+    <published>2026-02-01T20:02:42+00:00</published>
+    <updated>2026-02-01T20:02:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25858</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25858"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;React Native Navigation 101 &lt;a href="https://t.co/XJTW4RR9ku" target="_blank" rel="noopener"&gt;https://t.co/XJTW4RR9ku&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;
+React Native Navigation 101 - Whacky Labs&lt;/a&gt;&lt;br&gt;This is a quick guide to various navigation patterns in react native.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Good Work https://t.co/RhhRsaTOdC</title>
     <published>2026-02-01T15:37:48+00:00</published>
@@ -244,17 +256,5 @@ GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for f
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/W9d6S6Rc93ccqPzVf7PmyiB2o-iw-_VSLizFHSbheaUWy_Ij0PXYmlg7teZn94ycK4_bxzknX2C8nmWoYxSCdPPVlAvHS8YFBXovmdM6Utmv2iKL64nkdwhH8ccrNve0EtEGIWRQh4m1p4h9T1cRw72Rrzhuq3iBEbsG-ICfjF8Qr_dDDm9QjJGGyvPW0TzHlISFb6OByUMO1ezJZJZsK6ZCqrW39b_f7CTxovP-MIu0mjHfG2AZxagnJL6GaGTcMw06QXnRTkXs2NNN-W13XiuIxsqzxBgQFmC8Eq2KlR3BlZnP0mC-XyTfChk1F1BtoBtX2nPwJbIEm4byPwfpug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
 GitHub - apple/swift-nio: Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - GitHub&lt;/a&gt;&lt;br&gt;Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - apple/swift-nio&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : kstenerud/KSCrash https://t.co/SaDTp3LQin</title>
-    <published>2026-01-30T02:12:19+00:00</published>
-    <updated>2026-01-30T02:12:19+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25838</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25838"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : kstenerud/KSCrash &lt;a href="https://t.co/SaDTp3LQin" target="_blank" rel="noopener"&gt;https://t.co/SaDTp3LQin&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;&lt;img src="https://cdn4.telesco.pe/file/KzBlwk79iAqKwRnF-aMxUlV_EDSTndFep6giEF27451AdT_3PacZ_JqDssXj5IHYlU8r_nyFp0YpQLYClyEPvQ0KWbksc5DpQDiunvxztdDluylUiWma6ZSxTD4wZuEveVgxYoWg6s7C_3wmlG0sa9Cs2vtebSKYhP0xrRtpe2E5ySa1rodJKO0ZJEM9G_KtM8hvtDRsNkDln9Gt6PoDDdXpUXxvs8xvTkN2IUCuLimdMPC0pXzGNydkNrs4y9T3R_iPwexKOZ1mZVQa-r_Ssuf0OvdQPNvOfdStXHuX_SQ_wtkgvQ9bTbx-6dO673JS0X3nzmD2O6xhX8b1sJON-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SaDTp3LQin"&gt;
-GitHub - kstenerud/KSCrash: The Ultimate iOS Crash Reporter - GitHub&lt;/a&gt;&lt;br&gt;The Ultimate iOS Crash Reporter. Contribute to kstenerud/KSCrash development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
