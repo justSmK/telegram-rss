@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-01T13:48:39+00:00</updated>
+  <updated>2026-02-01T14:29:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -170,7 +170,7 @@ After some research, we found this is a known bug in older GitLab versions. If y
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Solid Interfaces for visionOS: Widgets and Cognitive Space in Spatial Computing &lt;a href="https://t.co/trx3I3Q4GX" target="_blank" rel="noopener"&gt;https://t.co/trx3I3Q4GX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trx3I3Q4GX"&gt;&lt;img src="https://cdn4.telesco.pe/file/MfUYMBHO3Vl_GRPrfQcHDRQodubNQAqIMaS77qZS0n9S0jTGuzheUK1s1pONGa84cZB2i0YqbINagayFlkDdJ8UiPViYwPBKGKUEYe3eTJnqZkTXQne1sYtcL_i4Pt94Vw8IUWYkbu-xAhmm3bXk8ptlygznUt0rjbEiH22NpagAP5d5POe8Bx73aVN9WNlEflBIsMgZXOVFCruj6xU7ssLwshBPzk3OJRzYf6uRFOJclbFaGfHJ7X_U2uZb7rJUoemtkp6Kdk3N9lrnDAB9ZeQFSml86MkQF-iArBvAg3mOECe0r9qLNh0GQr_qNa6yqsDeO6N5NUo948T3zFvXYQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trx3I3Q4GX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Solid Interfaces for visionOS: Widgets and Cognitive Space in Spatial Computing &lt;a href="https://t.co/trx3I3Q4GX" target="_blank" rel="noopener"&gt;https://t.co/trx3I3Q4GX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trx3I3Q4GX"&gt;&lt;img src="https://cdn4.telesco.pe/file/IQ7x_pWf0A4IXpmGPSaBlp2iCwvCcRanKjg5dvglSjsrwuQl2O_ueDIp6NuwtoH65o6D4Pz1BCok4uivoG3k5_aPVFPTc5YUyty2VGTXDIBkVtKxae0fu0VbzmSEF11NbI0-JOmhELUgJSwUUiNzleAGf5jj0SdYd1k_02ZGtkZPILddXCbBgTVSkVPmB7z-NFlzWG2xuFZTj4DH--jg_BeRSTvp99S0DKHzmSw5hf8LJsQuTumYAqMn3E0WxooW8CMGA1HXvUEQ3sLHgfPR9wj7lCbLsMXSN8ASO-xq-9R-KDodFIuqfGF2TM1Os96FtLzrt96KL4pwywCHcnMhTw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trx3I3Q4GX"&gt;
 Solid Interfaces for visionOS: Widgets and Cognitive Space in Spatial Computing - Create with Swift&lt;/a&gt;&lt;br&gt;A new grammar for designing Cognitive Spatial Experiences in visionOS and WebXR.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
