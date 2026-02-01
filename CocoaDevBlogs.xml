@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-01T22:28:52+00:00</updated>
+  <updated>2026-02-01T23:28:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -143,7 +143,7 @@ In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/LOnjDFZzB6EHThR__o3jlEcSB_UCsVkSTc9SjrUL2vWvnAyzL0M1VydPvDt-r7BrKGLwIhboRcEvlVw9-_S5d5VdT2QjvKOMG8WyfOVX3OHQbeGLN_bRFP5i_aV3u38VC4m8tXSxuIBPrr5PnL0saeImP76IUtQEfCKicBBdA9bk_zya-V3LYQ-tGvmOcrndtKBGWbrxUXW1LkB7ZG3eFfEdG-Qetf53-OZvgysnF_-9-WPcptDQeqsxSQUgJFeuNJs2ksGrGlGxXQjiVU87PsKJU1V3a4NFAHqX-3085mvZWscfYsQnaO_426mCCLolhs-LdzO4Nfhj-kW6c0iDpw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/Hg2e1XfuqgHwAGQPXtKz39QlR1tKP9CSQ-copD4Ig2Sm-iR7MgalV3DAD0OK_UZHo-N2ivdys8HynuUGSfItxjaNPnZofb33yhXr1jCYGUX2qm8C9R9qyy5UrIK_CDG02kZ2l1-nZIe2mUAa_PC5cljdy-AHwjpciWBVheR2nM0oC_HOzD_QZpER76S5ij7NMP73BcIByGcoRyLjMvhJtWY6uWVAxLbB8WlmCoDY9FibwagVfy6sXdLu0a5P2SdVXrfWzAzHq2YHlBLT5ODCvNzLdzIvdKYfjpHS5TDtMguHV9JHUEK38jGilwImj3ngfB_xWjuZ0ngm1mS8EqtccA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
 What&amp;#39;s new in Swift: January 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;A Reddit thread earlier this month asked about building web apps with Swift. For this edition of “What’s new in Swift,” we invited a developer to share their experience:&lt;/blockquote&gt;</content>
   </entry>
   <entry>
