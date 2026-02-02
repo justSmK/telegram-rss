@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/PQ9hBHggCy5hZ0F_DNTrm2I9TvVvIywW9qNIHVeEmqHGCbIYDKsO-D1geF0b18pYBqXy5WnXZTew1YHvMDpg8PHgKKtHosK7C9a8jh-oCgnAaZQFYk7MGtsRGyArNI_N3qEbC8RMsNPCZyJ1Y_QcGGtZ_Y_uBWf9MOS3bG74vfMMbBUd0mBDtdbN4iMontYJUP-x6NsTVdyagejC0cJESgSmkuCYu37Fj-y7qXzOtJVRVqfNlanBHYCnkGDwxwqoWlEW63NSjIaOwmTfSVfxBWCa8mSOjUiWxrH1K3rE6JHixmb5UIB2r-_APYAYRBHzz7S8IflVaTLPMyUbAcL-SA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/PQ9hBHggCy5hZ0F_DNTrm2I9TvVvIywW9qNIHVeEmqHGCbIYDKsO-D1geF0b18pYBqXy5WnXZTew1YHvMDpg8PHgKKtHosK7C9a8jh-oCgnAaZQFYk7MGtsRGyArNI_N3qEbC8RMsNPCZyJ1Y_QcGGtZ_Y_uBWf9MOS3bG74vfMMbBUd0mBDtdbN4iMontYJUP-x6NsTVdyagejC0cJESgSmkuCYu37Fj-y7qXzOtJVRVqfNlanBHYCnkGDwxwqoWlEW63NSjIaOwmTfSVfxBWCa8mSOjUiWxrH1K3rE6JHixmb5UIB2r-_APYAYRBHzz7S8IflVaTLPMyUbAcL-SA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-02T11:37:52+00:00</updated>
+  <updated>2026-02-02T13:06:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Давайте после перерыва сильно разгоняться не...</title>
+    <published>2026-02-02T11:55:15+00:00</published>
+    <updated>2026-02-02T11:55:15+00:00</updated>
+    <id>https://t.me/ios_heads/1102</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1102"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Давайте после перерыва сильно разгоняться не будем.&lt;br/&gt;Вот небольшой материал про опенсорсную либу на SwiftUI, которая делает новый liquid glass TabBar.&lt;br/&gt;Автор надеется, что скоро будет хорошее решение из коробки, и эта либа вам не понадобится, но пока что держите&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/introducing-fabbar/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;&lt;img src="https://cdn4.telesco.pe/file/vEmEjRdhKjWjZZj7vtgi755EGWpeUfyO-eDvJYz8tTOXS8lVnmpEQnIoDOBX1u5RQXRXrkWSVQKxQKlVqTK7vLrq50qNKUbTo2Gw-IRHDst_fc8yv0j_WCAk8v9jgmRM8cDMNEyLJXS6Op1rW2HJVkaaGBRArtpZOcORacPJAjsXwWCYCd4eOegwJiqriBAojjPcsQEpj8gmKn-zqnn14a0l-ixRVMUpxXiqd8BLy1qDpnK5unWpsl-sQjuTGa8qLu1azHoRizot_7WhQ-UA-aWqYaC56yLc6yIuf4Id-re7ebe7tYjYrkGPAbtIquC7ald5-At-m5zjs3TXsoMnkw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;
+Introducing FabBar: The Liquid Glass Tab Bar I Wish Apple Made - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;Open sourcing FabBar: a faithful recreation of the iOS 26 Liquid Glass tab bar with a tinted floating action button.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Большой видеоматериал на 50 минут, где автор...</title>
     <published>2025-12-24T11:50:06+00:00</published>
@@ -240,17 +252,5 @@ Integrating Device Camera in SwiftUI Apps - Create with Swift&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень классный и подробный материал на тему того, как уменьшить время билда вашего проекта&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/optimization/analysing-build-performance-xcode/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/"&gt;&lt;img src="https://cdn4.telesco.pe/file/EjZLg5EEZdkK4K0_Qf9ndZ2TJ2gNxGDbyQs_g7Tk0O0X-RG8yRod7JNqdfYt3shuFhsum3WXlJjIMApouyx-Zr3fQJqCVzsyBqMaPbQG7X0-Wr5FbOEkHRuUWTCLgiX9xQKTvUIfQ_60XBWHXIrDth0bHcZCOqKM6ZBpU9VoOws2CNUG92IqW_wJsSLnNooBEk1qJ6Cdcn5zc_BONbuZAD4LXdQopzxAcn92jdHZrjkSaCHjj09ojwBTxoC2__9btHCYys50KzNmvSEq-vH1nfc5ieJ--tVccwZoWYU5gWYIvSXZ59Sq-t5iA97x910PRgxVecRgybgNu0FtSNN4DA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/"&gt;
 Build performance analysis for speeding up Xcode builds - SwiftLee&lt;/a&gt;&lt;br&gt;Speed up Xcode Build Performance by gaining insights using Build Timing Summary and various techniques that can save you a lot of time.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В одно время каждая первая статья была про...</title>
-    <published>2025-10-23T09:52:01+00:00</published>
-    <updated>2025-10-23T09:52:01+00:00</updated>
-    <id>https://t.me/ios_heads/1081</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1081"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;В одно время каждая первая статья была про архитектуру. К счастью, сейчас этого стало меньше, но вот вам статья про архитектуру в SwiftUI&amp;#33; Пока вроде бы не так заезженно. Может что-то полезное для себя подчерпнёте &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA49E.png')"&gt;&lt;b&gt;🤞&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/uBWmK4OFU_kdzM3Q4CjQjUf7IWWMtidcRVSgu8oHY6a-Br1-Hc62RcIl5spneYS_HhdwY2JmXi47aiwCjFvoFwYaRY98FFcGuY4BFZu-BNMxA0sMMae_Oyt2Sh-ZT86lrp_bwhNjO53F9KKcKPk0dfhJbr93tlv57Vi8k0-2uowS-wdkwVy14PTWUXnge8EOHsoBm6nGpvj_O4wRTX2d8FmcF0m4gyf75kLDKycL5JDfFAIvqlh6j6gxczwGH4MqMSt2URwhnLhphyqBlgV-wDCMe7rF_wV7z7pua-UjYDLdN-dzUAHpdn9n4Y5fSYH0TjVpd89x4Hn6UwAOh6i-og.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/"&gt;
-SwiftUI Architecture: Structure Views for Reusability and Clarity - SwiftLee&lt;/a&gt;&lt;br&gt;Learn how SwiftUI architecture can simplify your long view bodies with techniques for clearer, more reusable designs.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
