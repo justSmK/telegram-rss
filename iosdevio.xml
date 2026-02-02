@@ -3,10 +3,10 @@
   <title type="text">iOS dev (@iosdevio) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosdevio"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio"/>
-  <icon>https://cdn4.telesco.pe/file/baRl9RrfAnumDGBjI2xmKvVkRCGATE_q_SAm2M-FZKm0JsD3SJs-E32nWsc-79vi4MaCAxQQ9ZgM58gTRtw_eG8_JQHRbgvNudRwXGevOVaTray6xf2FwaPjTITUsoh9wxQHJCkvGAyGMQ_TUR8R-hE6sM1OtVanUEKHMj2in6WdRMvDGPxsucW_UGpbjdy8eL2WTxe5kkwE13uDjisXqgC7OA9M8lSURbdjuVvk4fXxBdAk7pieLtKduuGKwjUEkXqh7QzON43Lz9W98b-YxYhaMlrQFnj4VvzKjrlYlGNVCauZiLPY1sNqcBce2xhVQHUHtx7k6B27LrSgZVnlMQ.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/baRl9RrfAnumDGBjI2xmKvVkRCGATE_q_SAm2M-FZKm0JsD3SJs-E32nWsc-79vi4MaCAxQQ9ZgM58gTRtw_eG8_JQHRbgvNudRwXGevOVaTray6xf2FwaPjTITUsoh9wxQHJCkvGAyGMQ_TUR8R-hE6sM1OtVanUEKHMj2in6WdRMvDGPxsucW_UGpbjdy8eL2WTxe5kkwE13uDjisXqgC7OA9M8lSURbdjuVvk4fXxBdAk7pieLtKduuGKwjUEkXqh7QzON43Lz9W98b-YxYhaMlrQFnj4VvzKjrlYlGNVCauZiLPY1sNqcBce2xhVQHUHtx7k6B27LrSgZVnlMQ.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/ZRR1Cf1JI3OLTrfnBZV8_jgdNbjR6PQ-sa0tSW-NkgxnsZmPZct5xQo8yhdq6DPZwQckWjD06XvJBZb9GDEF0NYYklAFxIBjG4JMnfIFw2TOTkliiCtnr1G-WS4hA7K1RIFbkmN8DK83BMZowZnhTbZab2bLDTtgfrdrTMEeGJmKJCC71f8u6VXmsUJshTmz6XzMwEjZ3Hs90cAL85UsDaL2Ey33kW5qo5e253EXea8_PJnKAdlyGboiNjAPwx-z8vOi0EuAG1vpLPeECJbg7NXkwP-vQnDRdkHMc4p-jRgmnc45lh_nPqRo2LW1cvf1Bw6VzSqHgMPNLDHK2b_JEg.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/ZRR1Cf1JI3OLTrfnBZV8_jgdNbjR6PQ-sa0tSW-NkgxnsZmPZct5xQo8yhdq6DPZwQckWjD06XvJBZb9GDEF0NYYklAFxIBjG4JMnfIFw2TOTkliiCtnr1G-WS4hA7K1RIFbkmN8DK83BMZowZnhTbZab2bLDTtgfrdrTMEeGJmKJCC71f8u6VXmsUJshTmz6XzMwEjZ3Hs90cAL85UsDaL2Ey33kW5qo5e253EXea8_PJnKAdlyGboiNjAPwx-z8vOi0EuAG1vpLPeECJbg7NXkwP-vQnDRdkHMc4p-jRgmnc45lh_nPqRo2LW1cvf1Bw6VzSqHgMPNLDHK2b_JEg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-02-02T15:39:47+00:00</updated>
+  <updated>2026-02-02T16:45:00+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
