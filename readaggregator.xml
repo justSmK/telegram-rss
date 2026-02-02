@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/G_HrnFqrbg3h_XFvg714twrxwlfWAUSN4IsKRxxOOrs32VU9K3E50RMchkXtwA-OHNEHoCZzMJ5mptEFgNJcLrudKCNMwFgOny3lj8kTg3stUczi-k2Z9Hi0n4g1sRi8M1tKJzr9hzqBkeQqp8eM_LSfytVLq3mSM-Nkkb6Qmm1VBQwcbSWPopermvJvVG6qFFiSI_4EPCszOMhVRI33q5rrctiBkt5zvG3U5l1QJqFPy6EdrsiFLR-qO-FzMjU6K499y4V28RZw89uVU5UzAUIhiPFZ6lAAnz2iSRwipdYub-x8vuD-C5tCz_UHeXjMSzFJBcYVrJWnaYAOqEeRUw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/G_HrnFqrbg3h_XFvg714twrxwlfWAUSN4IsKRxxOOrs32VU9K3E50RMchkXtwA-OHNEHoCZzMJ5mptEFgNJcLrudKCNMwFgOny3lj8kTg3stUczi-k2Z9Hi0n4g1sRi8M1tKJzr9hzqBkeQqp8eM_LSfytVLq3mSM-Nkkb6Qmm1VBQwcbSWPopermvJvVG6qFFiSI_4EPCszOMhVRI33q5rrctiBkt5zvG3U5l1QJqFPy6EdrsiFLR-qO-FzMjU6K499y4V28RZw89uVU5UzAUIhiPFZ6lAAnz2iSRwipdYub-x8vuD-C5tCz_UHeXjMSzFJBcYVrJWnaYAOqEeRUw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-02-02T08:50:30+00:00</updated>
+  <updated>2026-02-02T09:55:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -208,8 +208,7 @@ Swift Assist: typing…...</title>
     <author>
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with an agent to create Swift apps, and thanks to an embedded Swift interpreter, it compiles everything on-device.&lt;br/&gt;&lt;br/&gt;The wild part? You can instantly push your build to TestFlight from the app. Super cool… but also, why?&lt;br/&gt;&lt;br/&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=CUlWhF3ERME&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://news.ycombinator.com/item?id=45041185" target="_blank" rel="noopener"&gt;https://news.ycombinator.com/item?id=45041185&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AI"&gt;#AI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;&lt;img src="https://cdn4.telesco.pe/file/KgROkO-OYEetkBt3tSWsNxPOt1kKlsfEU40iWNUMjyddgWx9kE4qsjX5X9UrcjRkaSawGqGCNaw5z2fo9qNdP0bY2Di4K8hmDUmkYrAY4sZlA12wrBcAWJ4RGpN8R4IYwbxHrEZN2FN0Chd8SDZwSs-wtYZA5KxTtK_3m5c0scizFfUwShEXpIh7_Phej6lInsNMSsm062LUFJ2bc7XbGG7jI95Yccc5EXyVVXqUoFHLZY9tVal1g_hrN3M1waV8liCCswyybgLfBRbdraMkR6nI9Ti6gWglGNaMcJC-Vx3bCCkyvYsCTKuCdckpnfdBpb00gBvThyBpqDAC1XY3qg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;
-Launch HN Bitrig Demo - YouTube&lt;/a&gt;&lt;br&gt;Vibe code, test, and deploy Swift apps. All from your iPhone.&lt;/blockquote&gt;</content>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with an agent to create Swift apps, and thanks to an embedded Swift interpreter, it compiles everything on-device.&lt;br/&gt;&lt;br/&gt;The wild part? You can instantly push your build to TestFlight from the app. Super cool… but also, why?&lt;br/&gt;&lt;br/&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=CUlWhF3ERME&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://news.ycombinator.com/item?id=45041185" target="_blank" rel="noopener"&gt;https://news.ycombinator.com/item?id=45041185&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AI"&gt;#AI&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Apple’s next event is on September 9 — get your wallets ready&amp;#33; 💸</title>

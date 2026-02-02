@@ -3,13 +3,25 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/nidyVVStV0M06xP4v13trhIZ5WIG-nswvLJ0hWHnHmriZ4dMC8rmhesIVM4fxBtc2N__d-CZfJ-yd2ymn3Haeeh2Dn4BN4hAmSBreJVWfeoN3kgW1AcJxEvqVTEsl20arNa93K4xOXWivH5HbGznS5ui3GPWy4UTHgbJMQFStrz8-kAsqS3B038ITBIMXh_jc3_1p16JICWnmJF6r7n2Euk-kzQuC2_c-ZhqN3MuUdEknWJCcApiL5uly2TFm8UW73KKdqkwYsefFwggjBYpPEC07oJNahCGkwCNvRzzIfqTD2rZ6r67RHIsiu6qc5m52DQsyc82_Knn1T9J-hW_aQ.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/QqM58hMQaNXEh2qb02QEPe3Wv0xjEX1Mm8AT5TEVHX2AovDuGpIGTu-9kVqR5zQ91_OpmIS-Yutbm1BaL9bczqH8ExLeLGpXFCLg77e4sy2-Fbka8R5PSDUm_ZdAYdpaiRc26qIppPzGUdwfGZP1zZmGGq6nwgHepI9bKcSPZX1GQ5EjjTeL-UNPmpP9q4ixbV3FKAWHLFsjIpzMKnsyWP2rEN8GNSKKLEvwy_FncjCDE40BNhcJ6wJt76IVLQnYUqhBQ7iImWP8lEHY4Fk-LSoLak15LX2VyGcv1MUiA0f9vfP7Hx3ZbMYLBve-h71UurcrC0uVF0KMG1LdJ5NHgw.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/QqM58hMQaNXEh2qb02QEPe3Wv0xjEX1Mm8AT5TEVHX2AovDuGpIGTu-9kVqR5zQ91_OpmIS-Yutbm1BaL9bczqH8ExLeLGpXFCLg77e4sy2-Fbka8R5PSDUm_ZdAYdpaiRc26qIppPzGUdwfGZP1zZmGGq6nwgHepI9bKcSPZX1GQ5EjjTeL-UNPmpP9q4ixbV3FKAWHLFsjIpzMKnsyWP2rEN8GNSKKLEvwy_FncjCDE40BNhcJ6wJt76IVLQnYUqhBQ7iImWP8lEHY4Fk-LSoLak15LX2VyGcv1MUiA0f9vfP7Hx3ZbMYLBve-h71UurcrC0uVF0KMG1LdJ5NHgw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-02T08:50:15+00:00</updated>
+  <updated>2026-02-02T09:55:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Migrating to the Observation framework in SwiftUI https://t.co/vC8Wet4AHA</title>
+    <published>2026-02-02T09:37:34+00:00</published>
+    <updated>2026-02-02T09:37:34+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25860</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25860"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Migrating to the Observation framework in SwiftUI &lt;a href="https://t.co/vC8Wet4AHA" target="_blank" rel="noopener"&gt;https://t.co/vC8Wet4AHA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vC8Wet4AHA"&gt;&lt;img src="https://cdn4.telesco.pe/file/pFmhBLt2iv4zUZ_eW9Il-OXwhg9pcDqqQ41rhWZvScTFtcQDkZN8_8EVsb-gBb_ZFeSP5Zsf-H5ux7wlmKBvWR2NS5aTcIzMkaVPNXeNx8WKcXS4OWEIDlWeBYwX_hN2GNb66liy4Wkt82a1a3_YEcHTcqavDWaFo_PLBc0UDVmqIdaE2YLNBCIJ5YFWLwOHJoecfAGYeRnMeX8-GZwKEwndeEYbH9JI7dsLTiOulIdAK3HEWcNVxM-ZtK-Y8LgXP0pd868FzZ_csjOKeCew6w9Hk9RDxi0URjqD5RW-HXbiRmbycG5rj2y_Xj6NroFkbyPksOYTjw_SfLo_vqeYzw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vC8Wet4AHA"&gt;
+Migrating to the Observation framework in SwiftUI - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how to use SwiftUI&amp;#39;s @Observable macro and how to migrate existing ObservableObject, @StateObject, and @ObservedObject-based code to the Observation framework in Swift.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : github/CopilotForXcode https://t.co/lojG2xlxWB</title>
     <published>2026-02-02T02:07:35+00:00</published>
@@ -244,17 +256,5 @@ GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot test
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-system &lt;a href="https://t.co/mwNhLskrpA" target="_blank" rel="noopener"&gt;https://t.co/mwNhLskrpA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;&lt;img src="https://cdn4.telesco.pe/file/tD8Jlvb_7N6fksU4VsyQy4WkwB6P7QSucMoIvq5nU_AnPPtJ4lN8fKM-Ki1StkS24NfMJGNxn4JayyEghtBkyXVd6DBT3vtqsAEaGZh4LLuyf_cOA-5uRinpwsrVeP0VxtfIdXSHPzbKmN3uphn8RoITc7CTJZxBDEHyotQatVHlNctkwgbF4beRzon09_MfHeg3FCpfk29ftV7ACilsG-IEQ-BjHj6nZRB-v5KY-zy6qEGPM7A-4Xz-m4pJihLo3apMNeu_QA6iyvaOw7wnJ37O0K4H90OR7XN9oFMVndmOgz1j5vtq5QUTa-p4iQTB3fb9ePbzfiU_4PH3QGoH4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/mwNhLskrpA"&gt;
 GitHub - apple/swift-system: Low-level system calls and types for Swift - GitHub&lt;/a&gt;&lt;br&gt;Low-level system calls and types for Swift. Contribute to apple/swift-system development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : nicklockwood/SwiftFormat https://t.co/qmhoOkvVUh</title>
-    <published>2026-01-30T02:17:20+00:00</published>
-    <updated>2026-01-30T02:17:20+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25840</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25840"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/SwiftFormat &lt;a href="https://t.co/qmhoOkvVUh" target="_blank" rel="noopener"&gt;https://t.co/qmhoOkvVUh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;&lt;img src="https://cdn4.telesco.pe/file/heQeXz6gxj6oPMwinybGpVD7ko3cYUGC8cAgeZdeXt9DhehBvX5LPa2URhQlSFyQ9SxaYz6dBkeLn-Z7SnDHkVGPkw03ebm6MpJL-4Npe1obLl1CI1zjmTNbzw4utcPXMw2WVYEGiD0naQSVeZY_MQLolG0ATY5zfT3oFs-1GXxtN5a0FN-JM7AR1HWCmrO_zE5gZCIKI8JQfYBSfdA6S5MqQ-ccpfAWBZq8wxgi0W91iLM7kQkmqIBn1dgVtuDbjwPRObSPsoSpuBcOqrnHc9LilY7oCq6c9sKPiMgbY5GtOmb5uqC47FAOgnxT9BaPtf8G4OuuXzUVqTKBshpVzg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;
-GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code - GitHub&lt;/a&gt;&lt;br&gt;A command-line tool and Xcode Extension for formatting Swift code - nicklockwood/SwiftFormat&lt;/blockquote&gt;</content>
   </entry>
 </feed>
