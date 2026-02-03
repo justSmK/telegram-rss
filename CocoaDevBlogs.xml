@@ -6,10 +6,37 @@
   <icon>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-03T19:04:29+00:00</updated>
+  <updated>2026-02-03T20:41:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">On-demand resources in iOS app https://t.co/tICt1bZ22d</title>
+    <published>2026-02-03T19:22:43+00:00</published>
+    <updated>2026-02-03T19:22:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25874</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25874"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;On-demand resources in iOS app &lt;a href="https://t.co/tICt1bZ22d" target="_blank" rel="noopener"&gt;https://t.co/tICt1bZ22d&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;&lt;img src="https://cdn4.telesco.pe/file/dQfGXhttQAribb6wrMpMH2VhlQ_WCTVzqgIaSS8umYiUcBGB3aReebm6zqw-GG4_PhabRIRncCgqoU6-jKst_sxMmKZ_CcUChTeTE36taYQKkMLBIiRkiwBqc2Zvv9QYgqfF5GZyrlzfCZqWMbSz7pCTUf6B8ImlCzIdXYr7f29z0Uz2BtVnaCE0T0OpVglTeJvhBTfhkZBh7hYY3SwFxKmq5q6zfk_IbP0nsAvye455UQA65DMzhfrlX2VYZzra4OxalZzBK87y1tKGJcE_osKZsACCWe0ZkyTB_NTZmc1BZf2BwTuRkA6hbUqQul7D-T7NnpU4cQZ5KmFoDxgoMA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;
+On-demand resources in iOS app - Swift with Majid&lt;/a&gt;&lt;br&gt;On-Demand Resources allow you to ship a smaller initial app download and fetch additional assets like images, sounds, level data, ML models, and more only when a user requires them. This week, we’ll explore how to utilize on-demand resources to store secrets…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Upcoming SDK minimum requirements https://t.co/1FukSsiiaj</title>
+    <published>2026-02-03T19:17:26+00:00</published>
+    <updated>2026-02-03T19:17:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25873</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25873"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming SDK minimum requirements &lt;a href="https://t.co/1FukSsiiaj" target="_blank" rel="noopener"&gt;https://t.co/1FukSsiiaj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;&lt;img src="https://cdn4.telesco.pe/file/irafuILw8rpS9rXq8khYIf4spBjkOKuF0Iy4Aa6KLFVBnS_O-vuMkxQmn2radvHjZ1Q1uRn29dHDWTl71XCnNPgDh3D_CZtwQq6Pe6nfXAa5RCD1xlZaDPZ9T2y5UkBWV1d7Af7wp_VO5GQuwK2QaXwofBmlc_rOBAPtBwsyjcAVxzmtmg0m0AgGAYwjQMFjIRpD-kZUtBzEb3Ji5797fCz0HCUAUaip-4teSrcoF5XFWaveROEIvxIRMNyIdAWNvRSJAbAxG_tU-1OnFeu_XcBVZMdrJVZScq10_BPh8Zud4EcQ_98Mnsv_JNEgkFSRsj5TaEV7lQmUKkeYOhHHoA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;
+Upcoming SDK minimum requirements - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Starting April 28, 2026, apps and games uploaded to App&amp;nbsp;Store&amp;nbsp;Connect need to meet the following minimum requirements:&#13;
+iOS and iPadOS apps must be built with the iOS&amp;nbsp;26&amp;nbsp;&amp;amp; iPadOS&amp;nbsp;26&amp;nbsp;SDK or&amp;nbsp;later&#13;
+tvOS apps must be built with the tvOS&amp;nbsp;26&amp;nbsp;SDK or&amp;nbsp;later&#13;
+visionOS…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Introducing KeyFramify App, a simple Keyframe video editor🎉 https://t.co/dmGcj4Ia2c</title>
     <published>2026-02-03T18:57:12+00:00</published>
@@ -226,29 +253,5 @@ In this video, I’ll demonstrate how to create custom Dynamic Island based QR C
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/CodexBar &lt;a href="https://t.co/AidzjVVsr0" target="_blank" rel="noopener"&gt;https://t.co/AidzjVVsr0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AidzjVVsr0"&gt;&lt;img src="https://cdn4.telesco.pe/file/ukWwSjnyHu0-X1aHjw-47d35Eom1T0E5LX7_d4AodIwvfLoWsOJiVtOsJLwd3AtRk2M7zeiy-_2V4yxo5lKSldMKsNmxXs7Nov984aNjKHn5zNKYupSnnvAiRUNtciCUCN_a5lH7NCriXTrVE28AHp8zRX4N--FjCeQky9n9pSOBTbd8Ec8ULNTNSiyAW-bzloejZq4kSR2cruPjvH4RGD0N9VXxFSZaocBjL254khC3Xd3oEpJcL43FzunWHyQrGY_m0jr57ZNFZm-uKYYXaJcKxwu1AURlznZ_AkLaFQl8o1JVm7gzWHYKy_ryL2k0BYTNgwI4B5bN1P45xwO3BQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AidzjVVsr0"&gt;
 GitHub - steipete/CodexBar: Show usage stats for OpenAI Codex and Claude Code, without having to login. - GitHub&lt;/a&gt;&lt;br&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login. - steipete/CodexBar&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : skiptools/skip https://t.co/OFsPr3F9u8</title>
-    <published>2026-02-01T02:17:36+00:00</published>
-    <updated>2026-02-01T02:17:36+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25854</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25854"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : skiptools/skip &lt;a href="https://t.co/OFsPr3F9u8" target="_blank" rel="noopener"&gt;https://t.co/OFsPr3F9u8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OFsPr3F9u8"&gt;&lt;img src="https://cdn4.telesco.pe/file/YzjpYcGEkuFOln3JMjcbo8A5FOxkfbul_Kam_0RxeLUpBHLvrLfrrO1x_jxYBemMZzwx41zUBJ8HZnpA0D9y0GQJ1Ic0NV7GQ_X72psGqeS0VnKDdIsAlieLx5YdIiNA8XXLi-d8vK77CPuds8fIP7ws1onWxghzAkQ0nuw12midJKTy8dKL2KnvPRJtDOKjGiB08DeKKxE9hzK-oQixWq3triitrOjUvnqJICqFzdhrzYp3dEB0zu-eSWHsP5Y-uaja7cAhgKRNbthq3vsvsyDynZ0nsWwIXpRDX9HQoxgKfM9R3kr8Plv8htVBq-gdiP4sZ5-lni6L09wHdfRUMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OFsPr3F9u8"&gt;
-GitHub - skiptools/skip: Skip enables the creation of native SwiftUI apps for iOS and Android - GitHub&lt;/a&gt;&lt;br&gt;Skip enables the creation of native SwiftUI apps for iOS and Android - skiptools/skip&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : ggml-org/LlamaBarn https://t.co/m2ongsFGnH</title>
-    <published>2026-02-01T02:17:35+00:00</published>
-    <updated>2026-02-01T02:17:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25853</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25853"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ggml-org/LlamaBarn &lt;a href="https://t.co/m2ongsFGnH" target="_blank" rel="noopener"&gt;https://t.co/m2ongsFGnH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/m2ongsFGnH"&gt;&lt;img src="https://cdn4.telesco.pe/file/j4VBV-OPUQd0VGY5pjWPvy7RYk0zwIoI9nzKJRuF2GaLNdz0U91ocJlMS0tyCNvaXMQ8kJ8nKHw8lIInrC1fOR5wtMSbtsvPqGEtmqnKSiH9YMvIPQfWdETju2fgj-dODaUvGe4s20tzpeKZX0BDaq34sO6yzJamEb7214RG1RiJqMFl5pkWeawC25NNgErxb95qLUOvdgSO5lksZQRxkTSDuaUyhBJYrdA1E4XultSj5AHQ-wesvUBiwYIR2udvzq6z7XtShA5sxbchbBH5JVSZOMXUVu9KiALaNV528mTRtCJrGcyGN2K6gx5gaKg2Lh5v83SS4zKlR3yEcS5DkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/m2ongsFGnH"&gt;
-GitHub - ggml-org/LlamaBarn: A cosy home for your LLMs. - GitHub&lt;/a&gt;&lt;br&gt;A cosy home for your LLMs. Contribute to ggml-org/LlamaBarn development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
