@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/gb4zdeKvpQSVQ6FwQYVOgrRcuhVXwDBq0QOBXUIGqVG1gBdg1u37u524DBnCc706z7-Fqcj81mZSz-UTo9oQaeqx_QJNxZIrsmTHAUuPQWVZRjc2NUm86nM03oVRdbGqW2awCukFsgMau4SXwQMi9nZ-FriXV2RuCjsF6UDbRKnprevT_L_Zdbx5PM_N5GvczpV451x6J6742gaRoFVRFUXafqkKd2xdV5UZy1211nUUMr0xzo-j35MjaHosyDxQr1hUv4fy1N6EXrvV6K3bORi2YBRzHV7uAZgntpihYeiTxVOB8TVl40MF2oHrppt2922eEeyXQKQjJkglnP0Wjg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gb4zdeKvpQSVQ6FwQYVOgrRcuhVXwDBq0QOBXUIGqVG1gBdg1u37u524DBnCc706z7-Fqcj81mZSz-UTo9oQaeqx_QJNxZIrsmTHAUuPQWVZRjc2NUm86nM03oVRdbGqW2awCukFsgMau4SXwQMi9nZ-FriXV2RuCjsF6UDbRKnprevT_L_Zdbx5PM_N5GvczpV451x6J6742gaRoFVRFUXafqkKd2xdV5UZy1211nUUMr0xzo-j35MjaHosyDxQr1hUv4fy1N6EXrvV6K3bORi2YBRzHV7uAZgntpihYeiTxVOB8TVl40MF2oHrppt2922eEeyXQKQjJkglnP0Wjg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-02-03T08:41:30+00:00</updated>
+  <updated>2026-02-03T09:46:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Coordinator в iOS: как я перестал бояться кнопки «Назад» и...</title>
+    <published>2026-02-03T09:39:26+00:00</published>
+    <updated>2026-02-03T09:39:26+00:00</updated>
+    <id>https://t.me/ios_prog/706</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/706"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/706"&gt;&lt;img src="https://cdn4.telesco.pe/file/kjRTSZcHzn40k36_JiIN6AqFDbBZ2EsJYmmehTgu5DhVtQehd0tXbVaXwbROlsFQtYehFj-WdYPi3J8VCPB5OZJdQxtF0HG8RFqRsTswvMkBkRQaqzNG_ZxDphkj1GIx-LccrHIzE4rs51oyDbr--tcAQXiU4R_tkhQwGnTxZnQBjvvt_HreRCDVwmXlfA9VR8SoTsCNDMC8IPpLcTQ0ed4-VdccygmuKX_XcbV1TdI1j6BJflcsJEvbC9krlKUkujmaGElJRZotQyb7IG3tl4s5i0BSyKyN8fROPnr-v-sZ_DBcwyH2mjOHfRjIlo4VlID_-CLEQMRy0ijaXzYnrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/articles/991812/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Coordinator в iOS: как я перестал бояться кнопки «Назад» и полюбил навигацию&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Хочу поделиться классной статьей про Coordinator в iOS, которую нашел на Хабре. Она показывает, как правильно выстроить навигацию в приложении.&lt;br/&gt;&lt;br/&gt;Ключевая идея: Coordinator — это отдельный объект, который управляет переходами между экранами. Это освобождает ViewController&amp;#39;ы и ViewModel&amp;#39;и от логики навигации, делая код чище и тестируемым.&lt;br/&gt;&lt;br/&gt;Основные проблемы, которые решает этот подход:&lt;br/&gt;&lt;br/&gt;&lt;i&gt;· Жёсткая связность: ViewController&amp;#39;ы перестают знать друг о друге. Это позволяет легко менять порядок экранов и переиспользовать их.&lt;br/&gt;&lt;/i&gt;&lt;br/&gt;· &lt;i&gt;Управление зависимостями: Координатор становится единой точкой для передачи сервисов (API, аналитика) следующим экранам, а не каждый контроллер тащит их с собой.&lt;br/&gt;&lt;/i&gt;&lt;br/&gt;· &lt;i&gt;Память и кнопка «Назад»: Статья подробно разбирает главную ловушку — утечку памяти из-за системной кнопки «Назад», и предлагает работающее решение через UINavigationControllerDelegate.&lt;br/&gt;&lt;/i&gt;&lt;br/&gt;Почему это стоит прочитать?&lt;br/&gt;Если вы устали от спагетти-кода в навигации, боитесь добавлять новый экран или столкнулись с проблемой глубоких ссылок — эта статья предлагает понятный и структурированный паттерн. Автор разбирает реализацию с childCoordinators, коммуникацию через замыкания или делегаты и даже затрагивает тему SwiftUI.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Совет для SwiftUI💡&#13;
 &#13;
@@ -242,16 +253,5 @@
     <content type="html">			Каждый день появляются новые инструменты, которые автоматизируют рутину, пишут код, создают дизайн и помогают тестировать продукты.&#13;
 &#13;
 Но вот главный вопрос 👇  Какую IT-профессию, по вашему мнению, ИИ заменит первой? 📊🔥&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Тестировщики&lt;/li&gt;&lt;li&gt;10% - Frontend разработчики&lt;/li&gt;&lt;li&gt;2% - Backend разработчики&lt;/li&gt;&lt;li&gt;11% - Mobile разработчики&lt;/li&gt;&lt;li&gt;1% - DevOps&lt;/li&gt;&lt;li&gt;16% - Дизайнеры&lt;/li&gt;&lt;li&gt;22% - Аналитики&lt;/li&gt;&lt;li&gt;9% - Product менеджеры&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🍏 Apple планирует продать 247,4 млн iPhone в 2025 году, что...</title>
-    <published>2025-12-04T09:53:09+00:00</published>
-    <updated>2025-12-04T09:53:09+00:00</updated>
-    <id>https://t.me/ios_prog/686</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/686"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/686" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/686"&gt;&lt;img src="https://cdn4.telesco.pe/file/flyENhXQBT0ivSx6dfhgIlSIM46y6UwjiUeZaCWZ6MhalqeIxRloowE_bxc5Sj28vIxQN3YxX4xhWcnLA1behNPrRIPzvsmJ0JqvnUvtCGFT9IkpucGeFXPWsx1QbRww9XYFMwuOQaxq_vtEhkP0JRYdYY5Dj_Jx79aF_0xkci-7aFROXQCc1TjMrPx6qJk2iYd7ELiJhgRXcenn3mylCFK2UbzM8ZFbOE7Geatv_3HIUMvCquxAEtr2G1uZze79j9TnlACKzeMACKoe8BysoTzjaetdYMRQi5XRhqvRFV4AQKQpuF81MyBwpQt7zLxxP0Kf0TwG8xTmG0Oo48hFgg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5398012024003246287"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Apple планирует продать 247,4 млн iPhone в 2025 году, что станет рекордом за всю историю компании.&lt;/div&gt;</content>
   </entry>
 </feed>
