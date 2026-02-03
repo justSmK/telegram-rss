@@ -3,13 +3,26 @@
   <title type="text">iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT (@iosgr) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosgr"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr"/>
-  <icon>https://cdn4.telesco.pe/file/DZBe2zEWqsXezHMjV8HOndpfJzHpl1sk1ytFuJWOaabfl8fGrMiwjO3ezb1kqT9yPpo27IC2bmt4Zx8d2fe2cBTtPZTJj2_fFMrADbBRdvcWKipTMSL6CmMbm-Vvw42n6a8Pp2CBIA0LDyznqz0UXl6Z64aY4f95c2Y87GGs9hsOoXG2R77epiMf4M2DRuw-wyTDH22gWdcQBgHcso-V9iMD1Nln0TfGl71oYeC20yDgXqXaL3X3_0hSbKymenoYFjKKtN4-2aHjg24JVOJmmPH-QGxnWnijlDNtMW9fyIJfShvvHYuKnnUYTIxF5qUujXBHy3x0hy4x6MGzy08Tgw.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/DZBe2zEWqsXezHMjV8HOndpfJzHpl1sk1ytFuJWOaabfl8fGrMiwjO3ezb1kqT9yPpo27IC2bmt4Zx8d2fe2cBTtPZTJj2_fFMrADbBRdvcWKipTMSL6CmMbm-Vvw42n6a8Pp2CBIA0LDyznqz0UXl6Z64aY4f95c2Y87GGs9hsOoXG2R77epiMf4M2DRuw-wyTDH22gWdcQBgHcso-V9iMD1Nln0TfGl71oYeC20yDgXqXaL3X3_0hSbKymenoYFjKKtN4-2aHjg24JVOJmmPH-QGxnWnijlDNtMW9fyIJfShvvHYuKnnUYTIxF5qUujXBHy3x0hy4x6MGzy08Tgw.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/eUrzMQkUKVJ0bOm9AhmcozalX_4l-iBuQCuT1ypHt49cn3W2oQ6N5JRUM69rOpsxpILitZ3OAHMZT5lKFsnhEwoFPM9X0TvaWsrw6FbUGPbDB132UCog12NnAKMHNwPjf2sBcLyBj6HPgSfuqq1BWO5nGeMN_Tl_46979Fs2YDsN6txkdVZubVVRSntM9YpTZWKV1hoyydRd4Aiw2xYvs1SwSR5C9OMh1ruNA8R55Dif89Djc_eS8dVhAEqEwU0Q5oADya7WdEjB-mm0QmpH8qOl6ytBJoTXQQ0diD3fex1Cd0qk_dt2ggvQelr0KPMgK5CwQ8gOJwE7bLNULUoDeQ.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/eUrzMQkUKVJ0bOm9AhmcozalX_4l-iBuQCuT1ypHt49cn3W2oQ6N5JRUM69rOpsxpILitZ3OAHMZT5lKFsnhEwoFPM9X0TvaWsrw6FbUGPbDB132UCog12NnAKMHNwPjf2sBcLyBj6HPgSfuqq1BWO5nGeMN_Tl_46979Fs2YDsN6txkdVZubVVRSntM9YpTZWKV1hoyydRd4Aiw2xYvs1SwSR5C9OMh1ruNA8R55Dif89Djc_eS8dVhAEqEwU0Q5oADya7WdEjB-mm0QmpH8qOl6ytBJoTXQQ0diD3fex1Cd0qk_dt2ggvQelr0KPMgK5CwQ8gOJwE7bLNULUoDeQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-03T05:52:57+00:00</updated>
+  <updated>2026-02-03T06:56:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как работает генерация UUID в Swift&#13;
+&#13;
+Разбираемся с тремя...</title>
+    <published>2026-02-03T06:03:26+00:00</published>
+    <updated>2026-02-03T06:03:26+00:00</updated>
+    <id>https://t.me/iosgr/4597</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4597"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4597"&gt;&lt;img src="https://cdn4.telesco.pe/file/aqIeR1r3l1Jp4EGlugdbZ-UBMu4qaEVCcqtk-MqlFwrxmz3ury8qug2NmUV3qdClPpPIHxVcOzJgeH9jOOTUopdXXkw3sYoGSDOmUl1pJdhicV92ohJ2XE9-b2qdyVU2GvpUhFF9YpDNw_MPiF8YtaXnJ0svYqzUgwRsoti1ky6PZ1DlqV0DVs0aSZUMub6ez3TO1NkEr3K_sbScCDZPXy9Co8SZ9Ca305k_nWZEKUHQui12l7iRrHx6-_tvfUizdgtKGJ2QoJsfTDOjdnA6ExWdQX4ATkn5UCcI_oXCMcAHDfkk_dQaEj5hI8inCw8LEGjX4HgLvmxTEwUCOtW8Yw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftdifferently.com/blog/swift/the-magic-behind-uuid-in-swift" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как работает генерация UUID в Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Разбираемся с тремя подходами к генерации UUID – на основе таймстемпа, рандомизации, и смеси этих подходов.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Новых приложений в App Store стало намного...</title>
     <published>2026-02-02T06:03:01+00:00</published>
@@ -251,18 +264,5 @@ GitHub - Dimillian/Skills: My Codex Skills - GitHub&lt;/a&gt;&lt;br&gt;My Codex 
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4578"&gt;&lt;img src="https://cdn4.telesco.pe/file/gcr09zNMRttossYn1xPBKzS65uu73f7x1A0g0nvIijcnzyFOy54T88cwFt0n9GIm3jFsl_KxHc5IR_kq4748UBK6lObz_xneWXB2-s6PcP0KHsBdnimjMRAvegrToadP6ykic84DSKAkdOh0VpJGxcG9Fi-Gh7EKxBnMWGz2t4TKi850DisV41x5jDuQdXiqMseObCSNNLaeS78j7mQ20YOrSUpJ2TC5gH66VmsPgi4xifXf6BZ4jRg37l_S7AaROFVgEq-b0iY7jtNWMwX3tRk2XVZ-KS3PmaBx6FhdwsWI1Za0sQFWiMVgzuKN6Qv1RGcKzAAwdhiW66-9PviAeQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tonsky.me/blog/tahoe-icons/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Что не так с иконками в macOS&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В macOS Tahoe дизайнеры Apple поставили прред собой невыполнимую и бессмысленную задачу – добавить иконки во все пункты системных меню. Держите огромное эссе с разбором всех беспощадных ошибок и нарушений принципов HIG.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Учимся работать с пакетом swift-subprocess&#13;
-&#13;
-Swift Subprocess –...</title>
-    <published>2026-01-09T06:06:22+00:00</published>
-    <updated>2026-01-09T06:06:22+00:00</updated>
-    <id>https://t.me/iosgr/4577</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4577"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4577"&gt;&lt;img src="https://cdn4.telesco.pe/file/jzNXNPZ7AbUs9tlCbJoz4wPIOROhGALoFslvAhdc8bO1xdzJiyUdhHKAHRSRfCpFrnBcFgTGbyQPi2QfHTvjaN3a-HjEJcjp3ZWI5rivzK3JOpKzhZtXN3MDpkOQv-fhdvKw9mV71OdmqEA-i7av6v1Y_Z73jPCPEvOJxkGs1YYxOmHZultl8AUHHKU3rfimqShfinVr9o9pELEev_qdRODQLh6WIkk1mXBQBjK-KjtMprkKe1s5adPL_wxg_sCt63NP9F_eGVR-PPRdtbgclkJK0WxUsULQsABtnXLf1G4K7ejebmJkj7UFR8f5RdWOuZA0M2qoc8sua0A1W_7Zkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://swiftdevjournal.com/posts/subprocess/?utm_source=ioscinewsletter&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=issue_84" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Учимся работать с пакетом swift-subprocess&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/swiftlang/swift-subprocess" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift Subprocess&lt;/a&gt; – сравнительно свежий пакет, который упрощает задачу вызова терминальных команд из Swift кода. В статье разбирается, как с его помощью:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Запускать CLI программу из бандла для macOS&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Передавать аргументы&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Определять рабочую директорию&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Организовывать аутпут, в том числе информацию об ошибках&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Проверять успешность запуска&lt;/div&gt;</content>
   </entry>
 </feed>

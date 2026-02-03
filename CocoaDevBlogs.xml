@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/QqM58hMQaNXEh2qb02QEPe3Wv0xjEX1Mm8AT5TEVHX2AovDuGpIGTu-9kVqR5zQ91_OpmIS-Yutbm1BaL9bczqH8ExLeLGpXFCLg77e4sy2-Fbka8R5PSDUm_ZdAYdpaiRc26qIppPzGUdwfGZP1zZmGGq6nwgHepI9bKcSPZX1GQ5EjjTeL-UNPmpP9q4ixbV3FKAWHLFsjIpzMKnsyWP2rEN8GNSKKLEvwy_FncjCDE40BNhcJ6wJt76IVLQnYUqhBQ7iImWP8lEHY4Fk-LSoLak15LX2VyGcv1MUiA0f9vfP7Hx3ZbMYLBve-h71UurcrC0uVF0KMG1LdJ5NHgw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/QqM58hMQaNXEh2qb02QEPe3Wv0xjEX1Mm8AT5TEVHX2AovDuGpIGTu-9kVqR5zQ91_OpmIS-Yutbm1BaL9bczqH8ExLeLGpXFCLg77e4sy2-Fbka8R5PSDUm_ZdAYdpaiRc26qIppPzGUdwfGZP1zZmGGq6nwgHepI9bKcSPZX1GQ5EjjTeL-UNPmpP9q4ixbV3FKAWHLFsjIpzMKnsyWP2rEN8GNSKKLEvwy_FncjCDE40BNhcJ6wJt76IVLQnYUqhBQ7iImWP8lEHY4Fk-LSoLak15LX2VyGcv1MUiA0f9vfP7Hx3ZbMYLBve-h71UurcrC0uVF0KMG1LdJ5NHgw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-03T05:52:55+00:00</updated>
+  <updated>2026-02-03T06:56:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use?...</title>
+    <published>2026-02-03T06:47:50+00:00</published>
+    <updated>2026-02-03T06:47:50+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25868</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25868"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use? &lt;a href="https://t.co/hb0NENQSR7" target="_blank" rel="noopener"&gt;https://t.co/hb0NENQSR7&lt;/a&gt; &lt;a href="https://t.co/uuhjeGPqaN" target="_blank" rel="noopener"&gt;https://t.co/uuhjeGPqaN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;&lt;img src="https://cdn4.telesco.pe/file/kCqglEVN6mjmUx7kqMMsyVBroKqyYrvN9ud4zbwDJflUF4hoC9ATMy5SXcDhB8ravVUmZgHy1aSf__KvPVCbadtbdevkH3IoQpo01KSKJ8O8rPTIXLFgbZspVk-ZIdzo1aGrDV3Fnae3y3CaUNmpsP6VmCnSlmIZ5-ngCKBRcFusermHW6GdWBEabRVkD2kKcu-JBdcDnw_e0-eG8LaAvY5YX9atNonzbcYqKAcxc3pWB5gf8SKawtQPm8UEhRB9tJPqhwcEDjeItDzRuGz3DzxsB-yUgvcMb2RCvnLkldF7yqNpw9K1dNYUGSrzCPT6yeRrBP-VqaSpwhqnxgQXdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;
+SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use? - Medium&lt;/a&gt;&lt;br&gt;Choosing the Right iOS Architecture Without Losing Your Sanity (or Your Weekend)&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : insidegui/VirtualBuddy https://t.co/gR5yUCKFnQ</title>
     <published>2026-02-03T02:12:38+00:00</published>
@@ -241,17 +253,5 @@ When building macOS apps, you often need images that fill their container while 
 How to bulk delete GitLab artifacts using GraphQL API | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1005&#13;
 GitLab CI/CD pipelines create artifacts that take up a lot of storage space. While GitLab has a UI to delete them, doing this for thousands of artifacts one page at a time is slow and boring.&#13;
 In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition https://t.co/C9HcuI5P5k</title>
-    <published>2026-01-30T23:37:16+00:00</published>
-    <updated>2026-01-30T23:37:16+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25848</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25848"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: January 2026 Edition &lt;a href="https://t.co/C9HcuI5P5k" target="_blank" rel="noopener"&gt;https://t.co/C9HcuI5P5k&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;&lt;img src="https://cdn4.telesco.pe/file/qjQPw1o4dxj9UBGM4y9uvmy6D9e-bO4MjTUs4Y0nhYZnxRx8JxsUcP2K3KrmzR2px2Nn23HGRUvsi5FxgjQzhveEC12yBZvQ5mvHyu9m71to8F7-oommAVNM7JWnGU5S9XQPon3W0kI2N5hlEkoE_Xa8Jn3cNwG1UzdKhFYXwNTA4egjW4EIkeYz5lIIW47dIf7JyCqjCk5YX0pV-LJdcckxFXh2Gskf0omyTCyAY1qpopyBkE12pFIQVQ1skCq4oEjptYq_xKn4U9n30D9hhKCc8RtV4ZYpy-8QWXC6sJy3cYgZ0y8rg9SxDdw6z7s_Yxz5pC-J8cOvOorxaXum6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/C9HcuI5P5k"&gt;
-What&amp;#39;s new in Swift: January 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;A Reddit thread earlier this month asked about building web apps with Swift. For this edition of “What’s new in Swift,” we invited a developer to share their experience:&lt;/blockquote&gt;</content>
   </entry>
 </feed>
