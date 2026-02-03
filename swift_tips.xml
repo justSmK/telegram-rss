@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/jLFs9K1ohbvqg_fk6AuhDVno4ZiCThFuEK5_pKx0wjH-GlT4kZQaHS4dTUS7JXqhanJOeb9-LNkKEw7FYziqlukDtGUqu9AC1rdm16Gyb3QjD2eJ9yLUI-RJzf8CS3Ch0DdOPtkiflN7IZZIE72NwxqJIzqOK12yRU1iM3xZLH6M2UWEVNQr6ZBYgPVTlZTFoOlW5EI5QtPVvFb33DVnDz40j7lgItUuwRn5tVVorn8pHQZ41VwbNAA2woFoElnyBRGL3H1FvU-aWjOyPS-qmWDKGp8UFLEakkUbfq2LthFCQetlNJl2Qy9IpGpdXt5p-bxD_JoHqi8T3FrS23dqIw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/jLFs9K1ohbvqg_fk6AuhDVno4ZiCThFuEK5_pKx0wjH-GlT4kZQaHS4dTUS7JXqhanJOeb9-LNkKEw7FYziqlukDtGUqu9AC1rdm16Gyb3QjD2eJ9yLUI-RJzf8CS3Ch0DdOPtkiflN7IZZIE72NwxqJIzqOK12yRU1iM3xZLH6M2UWEVNQr6ZBYgPVTlZTFoOlW5EI5QtPVvFb33DVnDz40j7lgItUuwRn5tVVorn8pHQZ41VwbNAA2woFoElnyBRGL3H1FvU-aWjOyPS-qmWDKGp8UFLEakkUbfq2LthFCQetlNJl2Qy9IpGpdXt5p-bxD_JoHqi8T3FrS23dqIw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_tips</id>
-  <updated>2026-02-03T11:37:12+00:00</updated>
+  <updated>2026-02-03T13:07:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -256,6 +256,6 @@
     <author>
       <name>Swift Tips</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swift_tips/794"&gt;&lt;img src="https://cdn4.telesco.pe/file/GktT6z_1gtLGvdcbZmUBpgB_aeZod2gxrM45CcN2vpay-Bd8VBR9tTiSRE-hsrlWjgGOTJJ7CvYBlTNTcaBZ25OCtYo9NXBJJn2QkxELl3b_20RRDGXy1-4VZIT5-xATHiPdk_BXmPfqZ8UwoaJTw4EB15TeGoos4OAy1Hu8NO06lEhjykOAv8LmRxW2FQrQUwUPVu_ta-JMwU3RYDCJpyN2Jgp4aDSi5tLpYHEjxE1ojr-OkBA5cmBF-c3CoxSWGJCf7BIEg4b7cKh4VfiE0o5kiSDAGXDHh2Lq5qa5LnV-F4gPtLVRPac1Wp4V65iRQotC-fZGcY0xX_maDwo2NA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;What&amp;#39;s New in UIKit&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Большая &lt;a href="https://sebvidal.com/blog/whats-new-in-uikit-26/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt; с детальным обзором всех изменений в UIKit в iOS 26. &lt;br/&gt;&lt;br/&gt;&lt;a href="https://sebvidal.com/blog/whats-new-in-uikit-26/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swift_tips/794"&gt;&lt;img src="https://cdn4.telesco.pe/file/WwNrf3z84lLxi_YfxEwaUm0A5jpQgVtO0Y1aIW6Z84X--g58lVXODGOWDfQJlIlH2bVt7SiIRWZSXPyMTTMAIqMA-bdNlwAwIMGQFP8OGRHOsWfp8VWFgVnsC33iS63toepTUVhC11_tkvff1qVCZ-Q2haMH799DLMahb6_XdfmIQICEBrJShmu_RkBdjnj6f-PI99JDNEsvsDU13jScR1zMbtfyB2LZKrkdfzIrPY8nb5WEGJfRr5964aAq3KZPyeQoM1TtlMchyikbdBArTbaCjn20w2H_xEG2kdlVEcsAVcAoiIfOh-v0VGVdOvB7C0b-kHKOjIkh9eiYA6ZTGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;What&amp;#39;s New in UIKit&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Большая &lt;a href="https://sebvidal.com/blog/whats-new-in-uikit-26/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статья&lt;/a&gt; с детальным обзором всех изменений в UIKit в iOS 26. &lt;br/&gt;&lt;br/&gt;&lt;a href="https://sebvidal.com/blog/whats-new-in-uikit-26/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Читать (En)&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
