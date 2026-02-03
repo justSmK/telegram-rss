@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/lUm3ozenihI1SAX7gyfgsV9tpaZEiqWn7tB0BDijn1z2YbHPsyaCKwB9ud1AvVG_9AV0EOki3SFa1RQwtFyAxfPgqNntY4xn5VYQ_6WrwLaujAWpJuMe2YpHUVRKily47c8fkiOrDb5a1PdvGZcsXrMTcpQ5p4UsxuaYXgHIz6msOA0OdU9Su2lYOoxm5lRkTybmaJ3dBAtP2_sE9NbPxuxz6MzkBynFEVEp-W3vMsjKUpoMhGB6L5MTFHluLYiZefsrHAO6AnjnXlTJXCDOccJJZqjGD1YOaidca45R7wmGc6tpoX2ExEjA_gu0xW1KkK5LP8R6viPCichgVo5FYg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/lUm3ozenihI1SAX7gyfgsV9tpaZEiqWn7tB0BDijn1z2YbHPsyaCKwB9ud1AvVG_9AV0EOki3SFa1RQwtFyAxfPgqNntY4xn5VYQ_6WrwLaujAWpJuMe2YpHUVRKily47c8fkiOrDb5a1PdvGZcsXrMTcpQ5p4UsxuaYXgHIz6msOA0OdU9Su2lYOoxm5lRkTybmaJ3dBAtP2_sE9NbPxuxz6MzkBynFEVEp-W3vMsjKUpoMhGB6L5MTFHluLYiZefsrHAO6AnjnXlTJXCDOccJJZqjGD1YOaidca45R7wmGc6tpoX2ExEjA_gu0xW1KkK5LP8R6viPCichgVo5FYg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-03T13:07:40+00:00</updated>
+  <updated>2026-02-03T14:47:12+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Практическое руководство по структурированию...</title>
+    <published>2026-02-03T13:30:58+00:00</published>
+    <updated>2026-02-03T13:30:58+00:00</updated>
+    <id>https://t.me/ios_heads/1103</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1103"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/JouJFa3OCK_CcJ10vJ0phgJ9ViI6uyu7iB3whUYrAKpCK8Ca2our9_Yosb9Kxc-6wHjpFR4e2ikpfrUnsboG3k9DcER2bfDhgQWtlrpwkLTRscYWnl22iNaOmKLiWG4hz8OujTlETGV6Gm-eoL3wW_N2MM7k1uJ8BH2xD4zifytEjDICixrRVASzL4SfkuL91kF1fC0qhHx9UaufAnxuctjsSHVFlV0Ak4heBs8m34bmf0eWM5GfLYxya0fUWOiubC6fuvaf4iNs41NRedITy0uuLKWif91rtCNTibOVuCVDOeS0oTJXM6r91gzXJRDhZIAuOn24jwfEEkwNBJaBFA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
+How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;How to Structure a SwiftUI Project in 2026   Starting a new SwiftUI project? The default...&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Давайте после перерыва сильно разгоняться не...</title>
     <published>2026-02-02T11:55:15+00:00</published>
@@ -240,17 +252,5 @@ Singletons with Swift Concurrency - massicotte.org&lt;/a&gt;&lt;br&gt;Singletons
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Обучающий материал о том, как сделать вью с «реал-тайм камерой» внутри в SwiftUI.&lt;br/&gt;Из коробки такой вьюшки нет, поэтому смотрите детали по ссылке&amp;#33;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/" target="_blank" rel="noopener"&gt;https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;&lt;img src="https://cdn4.telesco.pe/file/mjTePvojS1uLpViIw5KeQcHjxLaF3C1zTMXnN3AvrBXFwzQA9Wcok_KxFUD74HNF9o7He12dcK4Q-w-QBMcIjIxbHKJ-X8gJRYlHJaF3VdemDUFCD-flhCPuKKetcDmT6Y5hWGSWkaU3QUeRCQq4ibuKm1Fcovncx4DBHkPC7fy_n5OUzxf2qymYmV6Ktj6KNxzkNEYxZL8kyFGOv4BPAB7rNWk4C1xNkpCsP8-xYEMZPGAHmMWPVMTt8VKRWA_LCaOfxozken8_DeGizXRfQmoYQWZznruSPFfAPsIsEaLwfKDrcl-1LTgohKosL6qc1foVh6KFIv-_tuqA5LvYFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;
 Integrating Device Camera in SwiftUI Apps - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to bridge UIKit and AVFoundation with SwiftUI to integrate camera functionality.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Очень классный и подробный материал на тему того, как...</title>
-    <published>2025-10-27T12:58:46+00:00</published>
-    <updated>2025-10-27T12:58:46+00:00</updated>
-    <id>https://t.me/ios_heads/1082</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1082"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень классный и подробный материал на тему того, как уменьшить время билда вашего проекта&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/optimization/analysing-build-performance-xcode/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/"&gt;&lt;img src="https://cdn4.telesco.pe/file/rzZE6uW-CGnkgSDbxRUc_Q6GLLupalrngYXU2ly3iQp0jDorqEdHYteeZrPww-eL7RmYBv-9BDWktEdWutap15kkDRIHZkSCbZUSMfKMZrPgH1Rxjr_PZkg65y5LB5QviLldYua2kQw6JOEeRCJ2NX7-KOKIT3gemeMoKPG1ZxQaBXxMIiyzMBoIQv9DDAHN356TzzGmxzeS95RdafW8vdfRodUipPQnzbL2CJJCQzIuAwBBvgzQ-yXzQHa1shxbIv0spDoOhDnMalFzV99W0bj-LI31im_89O62PccIFnOqSNa2GEQ0wPKUz0PiQ3qx1yiqxe2lw5bjKs5vELsJ5A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/optimization/analysing-build-performance-xcode/"&gt;
-Build performance analysis for speeding up Xcode builds - SwiftLee&lt;/a&gt;&lt;br&gt;Speed up Xcode Build Performance by gaining insights using Build Timing Summary and various techniques that can save you a lot of time.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

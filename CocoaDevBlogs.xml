@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-03T13:07:32+00:00</updated>
+  <updated>2026-02-03T14:47:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Beyond the Human: Designing with Non-Human Personas in Mobile Apps https://t.co/v3TLNArA9t</title>
+    <published>2026-02-03T14:12:41+00:00</published>
+    <updated>2026-02-03T14:12:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25869</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25869"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Beyond the Human: Designing with Non-Human Personas in Mobile Apps &lt;a href="https://t.co/v3TLNArA9t" target="_blank" rel="noopener"&gt;https://t.co/v3TLNArA9t&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/v3TLNArA9t"&gt;&lt;img src="https://cdn4.telesco.pe/file/P-e_Z11tuSlW4-3gD_tBZCyYnZjL7t7C-Kf-i-ekl3nkVSuL6_fj3Ux26NywEI3PTi6A5THBmIOmh1LPnQrb59T0RWqnQbsNL92BVN18plbzFNo8z2-QLiz8buzXyBLww9_UO0gz828Xy1mVdtVUX-JAB8sGa8qALQpZaOUf_SpcyoSlN3h3v6dU4g5to4LOeHsxZjzgfzZGeQxqiA9jiiSgbqSdLAmmu6L1_YhOqMSLWSW0piKgsNBFtbTJHIuYgVlGtFBKLd88sOR0fbyq14SeyDowJbaHFsgAozUK4zoYAc1O8bKqj3D96Ig4yACrVMrQPGJ8f6JghzILVAYyeQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/v3TLNArA9t"&gt;
+Beyond the Human: Designing with Non-Human Personas in Mobile Apps - Create with Swift&lt;/a&gt;&lt;br&gt;Design beyond the screen, non-human personas bring environmental reality into decision-making, from energy grids to cooling systems.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use?...</title>
     <published>2026-02-03T06:47:50+00:00</published>
@@ -239,19 +251,5 @@ GitHub - TimOliver/TOCropViewController: A view controller for iOS that allows u
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to make scale to fill NSImageView with remote Kingfisher image &lt;a href="https://t.co/SovO1ysdCk" target="_blank" rel="noopener"&gt;https://t.co/SovO1ysdCk&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/SovO1ysdCk"&gt;&lt;img src="https://cdn4.telesco.pe/file/DSh8GM40u0diwDGQTTwV0EbkqG0RiaOYEdK8wUPidOoc42ZxTn4rVlWTkM3xyB9OZckun5HWJZMT4PlbaNQZpbDzLS2uWxe04h6vh2nzTH5fJeAtToMCEnS6YeJPT8RnMENvOK37E7aoKnFxPiXyqSBlg4Yx2Xbw2sQNfge3XNfKzgouD51QeY9PZwNnYtaVzl6NT9KUtahlslK4IPoqbi5pWJCRhlCZ6N7l2Uc_HE5NQ00IrQhzVOGuWCL6nITN3OTs-1S7TVLSCbMQmAbOjNeJRaAbMOhPe4yfUN5Tqt-II3cybQBJoOZ6RQkGIlUTi67ahDsyrrJSYou4VmOt9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/SovO1ysdCk"&gt;
 How to make scale to fill NSImageView with remote Kingfisher image | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1006&#13;
 When building macOS apps, you often need images that fill their container while keeping their aspect ratio - like cover photos or thumbnails. NSImageView doesn’t do this well out of the box. Here’s how to build a custom solution that works great…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How to bulk delete GitLab artifacts using GraphQL API https://t.co/Qic8W2jWBr</title>
-    <published>2026-01-31T13:03:09+00:00</published>
-    <updated>2026-01-31T13:03:09+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25849</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25849"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to bulk delete GitLab artifacts using GraphQL API &lt;a href="https://t.co/Qic8W2jWBr" target="_blank" rel="noopener"&gt;https://t.co/Qic8W2jWBr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Qic8W2jWBr"&gt;&lt;img src="https://cdn4.telesco.pe/file/X_lLRUu1kg-cZ3EMGjvdSQddcjrMtegDs2zqnQ0D1OQCkBl_oHf6lY5KQiZW1dB6g4iXcqjIbY_nJxCOXrLDznFfXmN5XLMdjxJM6e1idvVqPRjiw1ZUoqi0384mVip5ZVqA50Y4eAVSFw6jZpD5CTRcUxHjMM3cg78JDBJi-S4ZUlizNartN1i-PnfnE3yib06LTGsgkxVUYpptfCnUP8PehA8482huK5UEZKxJkIvwbm3Wg2Wrvzw6BfecDORYVsktJGbUhy8eXfeaCEma8hTHKNJFfCCljmtLKdQ7oVVf4u1c8xzaxpPMk_d33DK0nTbN9u52nGi8YkN1G9o3Ag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Qic8W2jWBr"&gt;
-How to bulk delete GitLab artifacts using GraphQL API | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1005&#13;
-GitLab CI/CD pipelines create artifacts that take up a lot of storage space. While GitLab has a UI to delete them, doing this for thousands of artifacts one page at a time is slow and boring.&#13;
-In this article, we’ll build a script that uses GitLab’s…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
