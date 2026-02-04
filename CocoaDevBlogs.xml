@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-04T18:55:52+00:00</updated>
+  <updated>2026-02-04T19:40:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -138,7 +138,7 @@ GitHub - iina/iina: The modern video player for macOS. - GitHub&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;On-demand resources in iOS app &lt;a href="https://t.co/tICt1bZ22d" target="_blank" rel="noopener"&gt;https://t.co/tICt1bZ22d&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;&lt;img src="https://cdn4.telesco.pe/file/dQfGXhttQAribb6wrMpMH2VhlQ_WCTVzqgIaSS8umYiUcBGB3aReebm6zqw-GG4_PhabRIRncCgqoU6-jKst_sxMmKZ_CcUChTeTE36taYQKkMLBIiRkiwBqc2Zvv9QYgqfF5GZyrlzfCZqWMbSz7pCTUf6B8ImlCzIdXYr7f29z0Uz2BtVnaCE0T0OpVglTeJvhBTfhkZBh7hYY3SwFxKmq5q6zfk_IbP0nsAvye455UQA65DMzhfrlX2VYZzra4OxalZzBK87y1tKGJcE_osKZsACCWe0ZkyTB_NTZmc1BZf2BwTuRkA6hbUqQul7D-T7NnpU4cQZ5KmFoDxgoMA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;On-demand resources in iOS app &lt;a href="https://t.co/tICt1bZ22d" target="_blank" rel="noopener"&gt;https://t.co/tICt1bZ22d&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;&lt;img src="https://cdn4.telesco.pe/file/r9QKeM9mEOg6-lS3BxZyG6Qci5mZKGAGvC_EhSHmI3kfb9E3Tse-fqqk9TKkEQf6x9VrTzQsVKieCMCrDLdGOns0aJpsglYFS1VaxQapJ6OaBiuUC-mYiwqQxAH9AT14uyMAnZfFOMnZ40PF2w_PSSOll1McXsd8vBcOmePYBovOrVb8fjRHEA4TK2z9K31AHWZ_VqN47sgTXsxa-7TibyFN8OAIarx178u9mqMOJCH3lFJkCreKZRmi-hxEHB7ZiwZv458TtJJFHK0caLRsjw_YiSJ-CK_d47uYnHgDTYxXv_g1VDgd3tTIOH78v8baVtcr93U0S9ibe5W98ECbBg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tICt1bZ22d"&gt;
 On-demand resources in iOS app - Swift with Majid&lt;/a&gt;&lt;br&gt;On-Demand Resources allow you to ship a smaller initial app download and fetch additional assets like images, sounds, level data, ML models, and more only when a user requires them. This week, we’ll explore how to utilize on-demand resources to store secrets…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -150,7 +150,7 @@ On-demand resources in iOS app - Swift with Majid&lt;/a&gt;&lt;br&gt;On-Demand R
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming SDK minimum requirements &lt;a href="https://t.co/1FukSsiiaj" target="_blank" rel="noopener"&gt;https://t.co/1FukSsiiaj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;&lt;img src="https://cdn4.telesco.pe/file/irafuILw8rpS9rXq8khYIf4spBjkOKuF0Iy4Aa6KLFVBnS_O-vuMkxQmn2radvHjZ1Q1uRn29dHDWTl71XCnNPgDh3D_CZtwQq6Pe6nfXAa5RCD1xlZaDPZ9T2y5UkBWV1d7Af7wp_VO5GQuwK2QaXwofBmlc_rOBAPtBwsyjcAVxzmtmg0m0AgGAYwjQMFjIRpD-kZUtBzEb3Ji5797fCz0HCUAUaip-4teSrcoF5XFWaveROEIvxIRMNyIdAWNvRSJAbAxG_tU-1OnFeu_XcBVZMdrJVZScq10_BPh8Zud4EcQ_98Mnsv_JNEgkFSRsj5TaEV7lQmUKkeYOhHHoA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Upcoming SDK minimum requirements &lt;a href="https://t.co/1FukSsiiaj" target="_blank" rel="noopener"&gt;https://t.co/1FukSsiiaj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;&lt;img src="https://cdn4.telesco.pe/file/oiqJMlwYEzVdJup1pT6QA1hbQyMNQB6QF5keywGVgFfk7gKYol9fErcs-SfdxXBtPDxwDq69NTvoObBTUL4WeFKjV0Mqg_mF1g0NgMFqBOjmG_abpd76UcpRxR3QdnAqVWhsOEFF-4Rkrz84sYhhCkE3kfYz96anv9KYzyL1fUYXMNFM1UCP7GqyvxQR9rEQZ-mn1HCUQ-GteiDNFkEr7yrpY71FF-tqGF5La8Utt23h-pTAUeJxooB5AGCOV8mstGb6sReImr_M1IQCGOBWXV6hlkOnbSeFxd6-xStCA773pz5PlZna1NVbU59jOmaoYBdHcjnpgVTysLU5MIIPYg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1FukSsiiaj"&gt;
 Upcoming SDK minimum requirements - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Starting April 28, 2026, apps and games uploaded to App&amp;nbsp;Store&amp;nbsp;Connect need to meet the following minimum requirements:&#13;
 iOS and iPadOS apps must be built with the iOS&amp;nbsp;26&amp;nbsp;&amp;amp; iPadOS&amp;nbsp;26&amp;nbsp;SDK or&amp;nbsp;later&#13;
 tvOS apps must be built with the tvOS&amp;nbsp;26&amp;nbsp;SDK or&amp;nbsp;later&#13;
