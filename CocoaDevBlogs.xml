@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Wzfm2m5WjrR9yPGlU1OkMi3ZI-1WS-DhNt0i1guQlXHIMovJysELmR0_ScfcpM-EdjhYXHTX0yoPfjDLnASZGC18F_uL39byZ11CLyROISq5U3XDEhQaPF0o5dbVEy7y-vDcFwHHOCF-aFYbgVFYENcr1MdFiqX8Z79D47iB3xI7oX__OMEqjBk-HhpWo_OvPwurx7cObcRG4zsBzAkYI_jSNsBUoL9s30jvj7JBLDr0erXsHE-b3X524RI07MNz0Yl5orKnAFdipWkRt-8yihzUCtapgzhPl9koWHy8R8tSnOFHkNY0azmRdxT_On0UvEWCTeChriUU5mP4UKI4Pw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-04T05:52:06+00:00</updated>
+  <updated>2026-02-04T06:57:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -166,7 +166,7 @@ Beyond the Human: Designing with Non-Human Personas in Mobile Apps - Create with
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use? &lt;a href="https://t.co/hb0NENQSR7" target="_blank" rel="noopener"&gt;https://t.co/hb0NENQSR7&lt;/a&gt; &lt;a href="https://t.co/uuhjeGPqaN" target="_blank" rel="noopener"&gt;https://t.co/uuhjeGPqaN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;&lt;img src="https://cdn4.telesco.pe/file/kCqglEVN6mjmUx7kqMMsyVBroKqyYrvN9ud4zbwDJflUF4hoC9ATMy5SXcDhB8ravVUmZgHy1aSf__KvPVCbadtbdevkH3IoQpo01KSKJ8O8rPTIXLFgbZspVk-ZIdzo1aGrDV3Fnae3y3CaUNmpsP6VmCnSlmIZ5-ngCKBRcFusermHW6GdWBEabRVkD2kKcu-JBdcDnw_e0-eG8LaAvY5YX9atNonzbcYqKAcxc3pWB5gf8SKawtQPm8UEhRB9tJPqhwcEDjeItDzRuGz3DzxsB-yUgvcMb2RCvnLkldF7yqNpw9K1dNYUGSrzCPT6yeRrBP-VqaSpwhqnxgQXdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use? &lt;a href="https://t.co/hb0NENQSR7" target="_blank" rel="noopener"&gt;https://t.co/hb0NENQSR7&lt;/a&gt; &lt;a href="https://t.co/uuhjeGPqaN" target="_blank" rel="noopener"&gt;https://t.co/uuhjeGPqaN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;&lt;img src="https://cdn4.telesco.pe/file/oJB7lScQkL8KJezzGbOGiFw_-PFmo-jSJgOW5ZmOwI4VsRnA6WRpqNH3WcJK9DzZ56laeILgvqXiHfRa40FKcdkMaQidKKCdGoB4CUlvoL_K_pohM0f8urj8e1EO4EIKdEc2ZrLJOd6HR9nScZrphc-53Yh9x4AOxi32FVuTMJZ37f7gQSKQV-lHk5XrINJOvxCvKHT6RHPYU-QtZE-uU9YGPujgyf3mCbtzynPhO3w7Am91I7YbRQKk0X-CLWNBjWRFuNEijApbVZdzTTyrMKHULUyiJIXbjw7oloKGrWtB4xlmtzTmUX_nE9lSy-auX5CgBLE3PcWhCeXhQwaD8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/hb0NENQSR7"&gt;
 SwiftUI Architecture Showdown in 2025: MVVM vs MVC vs TCA — Which One Should You Actually Use? - Medium&lt;/a&gt;&lt;br&gt;Choosing the Right iOS Architecture Without Losing Your Sanity (or Your Weekend)&lt;/blockquote&gt;</content>
   </entry>
   <entry>
