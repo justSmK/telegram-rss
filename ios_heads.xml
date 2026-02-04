@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/uV4uFVPsm1Dp3azuaYljDYex09NF8WaKzgKOzvbRQ7LD5HHxtK3rOxCkO7QqTtMp8RW3WZo09Hfw--kXLqlBw3k-qWllbcVlYLOeCm0IQhNFMrk7G6RU1yeuGfYGucSxtpyLmG-YrZ5gx2FjdixGrZf6gHgN_YLd2wkxMVsC-98i4aLkbdzFfogB3V2iQqwvFhEhpkv6kOAB8xSYZElqAUNfrUh34YcTXpkA39IGX2_ZvU7OsOn1w3E1wpKhsbjEtOmQKt8ldQJJmIIIjTkAyTRnK25ES5UEJJscgZ4qKF8Q48UqzCjgJ0Nw5QZU6CaiOQox1lpuu08vbCA-EKuMjA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uV4uFVPsm1Dp3azuaYljDYex09NF8WaKzgKOzvbRQ7LD5HHxtK3rOxCkO7QqTtMp8RW3WZo09Hfw--kXLqlBw3k-qWllbcVlYLOeCm0IQhNFMrk7G6RU1yeuGfYGucSxtpyLmG-YrZ5gx2FjdixGrZf6gHgN_YLd2wkxMVsC-98i4aLkbdzFfogB3V2iQqwvFhEhpkv6kOAB8xSYZElqAUNfrUh34YcTXpkA39IGX2_ZvU7OsOn1w3E1wpKhsbjEtOmQKt8ldQJJmIIIjTkAyTRnK25ES5UEJJscgZ4qKF8Q48UqzCjgJ0Nw5QZU6CaiOQox1lpuu08vbCA-EKuMjA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-04T14:42:21+00:00</updated>
+  <updated>2026-02-04T15:47:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Статья разбирает современные паттерны навигации в...</title>
+    <published>2026-02-04T15:29:48+00:00</published>
+    <updated>2026-02-04T15:29:48+00:00</updated>
+    <id>https://t.me/ios_heads/1104</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1104"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Статья разбирает современные паттерны навигации в SwiftUI (с NavigationStack, NavigationPath, deep linking и архитектурным подходом для табов). Если раньше навигация путалась между NavigationLink и стэками, здесь объяснено, как сделать её чистою, предсказуемою и масштабируемою в больших приложениях.&lt;br/&gt;&lt;a href="https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g" target="_blank" rel="noopener"&gt;https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g"&gt;&lt;img src="https://cdn4.telesco.pe/file/uDe0jozZMDkZRZppnZtCG8QXtOJdMmSOxaku53Y-8QeawlR1ug-lUeMgkM35P3C17HIexZieSb26bhbmVdLI6VremzxwagS2V5JvRDN-VBwA56XVkB_2iFHkJMqf6bk0u_MtiIeYRivtyTUkENGYKmic1ImDrtInjO8OAoHDckynJG75N9wvbGLQ2SK37a2O0_Vom7rDyvDQ5GzzPLkjDwGdsxqinhMO07Mok6_inJbxkzkezcX2eczjVhS0o7gxgGoQJFcUNtOD1rYRncqSX9wj-2yZU_VT6aTHExao0uNTeIrYbdX9OEaevkvPtiMzvJzVT4jbxT6R96TAFa7qpw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g"&gt;
+Modern Navigation in SwiftUI - DEV Community&lt;/a&gt;&lt;br&gt;Navigation in SwiftUI has evolved massively since the early days of NavigationView. With...&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Практическое руководство по структурированию...</title>
     <published>2026-02-03T13:30:58+00:00</published>
@@ -240,17 +252,5 @@ Enhancements to help you submit and market your apps and games - Latest News - A
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не знаю насколько вам это нужно, но на всякий случай держите.&lt;br/&gt;Про синглтон в Swift Concurrency, если вдруг не знали что-то&amp;#33;&lt;br/&gt;&lt;a href="https://www.massicotte.org/singletons" target="_blank" rel="noopener"&gt;https://www.massicotte.org/singletons&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;
 Singletons with Swift Concurrency - massicotte.org&lt;/a&gt;&lt;br&gt;Singletons mean global state. Global state and concurrency can mean trouble.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Обучающий материал о том, как сделать вью с «реал-тайм...</title>
-    <published>2025-10-29T15:51:17+00:00</published>
-    <updated>2025-10-29T15:51:17+00:00</updated>
-    <id>https://t.me/ios_heads/1083</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1083"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Обучающий материал о том, как сделать вью с «реал-тайм камерой» внутри в SwiftUI.&lt;br/&gt;Из коробки такой вьюшки нет, поэтому смотрите детали по ссылке&amp;#33;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/" target="_blank" rel="noopener"&gt;https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;&lt;img src="https://cdn4.telesco.pe/file/u5XF1J7WOC_vu7g2hkG62oFpxvnBNdX2dgHsLKg0mQkAFQFVSy8zwPOYz8UiWP0b8pLD4Hz_NSKERedCKUebE1dNgHaxrOcyTf6_bsZh_uYIXIQ9sznF3rIaP4aiJBGScA9J3b_IHfbKRChV-fnNWoU-_k_pUNj-LcOZl786icTZ2W-jqJo-N5zvxJE04c-2-kb8PsSdpS9_1iuspkd_XAahjkVHhl_d4jD4TGSFRNx3X3W8GSIsV6kjC9m6l48TXfhtRSZbetukEhvDem8QxCZ1Q28NGnPzoHHJ8a694Qs6Sh-o2YfZ2UlqqvfIEzW9r5WGw_4TE0eCjQry9Lsa3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/"&gt;
-Integrating Device Camera in SwiftUI Apps - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to bridge UIKit and AVFoundation with SwiftUI to integrate camera functionality.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
