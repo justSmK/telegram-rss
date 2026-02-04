@@ -6,10 +6,33 @@
   <icon>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-04T17:50:05+00:00</updated>
+  <updated>2026-02-04T18:55:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Hello Developer: February 2026 https://t.co/bDWOVIyljY</title>
+    <published>2026-02-04T18:27:31+00:00</published>
+    <updated>2026-02-04T18:27:31+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25884</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25884"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: February 2026 &lt;a href="https://t.co/bDWOVIyljY" target="_blank" rel="noopener"&gt;https://t.co/bDWOVIyljY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bDWOVIyljY"&gt;&lt;img src="https://cdn4.telesco.pe/file/YQE3w5PZsL7cQz1PK9YgrsakeeqBQIHdjARh60mu0eNB8ByiOsFbmoJcEk8BeMfkFUsjUkaibr0Gr3CBJtmxZ7dW2iy8kftQYiHdlXznE1wB6G_Z1BVHv-aXCkdqulFw0uUe8w64vKBXifzHU-KNA7F9azjV5DA4TGMyY1Qn65QO6zGYqCMMWFnlrgY6tWHfNdkAQsJRw1nur_trfl9QV_FF4k5cPLQVrfA4uAfXgqWk7OL7hTqPow6VGBeIUopgbDrYa1LTidSPGVbRvLeh42Up6VA9-c4-_5FHnxHOVS7GIu9zY7dUhj6CGZPry_cFOqxkZ3U9N-aH-lxyRZjtaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bDWOVIyljY"&gt;
+Hello Developer: February 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;We’ve got big news about agentic coding in Xcode. Plus, join us for a code-along about coding intelligence, browse new developer activities, and catch up on the latest updates.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">RealityKit &amp;amp; Reality Composer Pro [SUBSCRIBER] https://t.co/apImJuW4Fm</title>
+    <published>2026-02-04T17:57:21+00:00</published>
+    <updated>2026-02-04T17:57:21+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25883</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25883"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;RealityKit &amp;amp; Reality Composer Pro [SUBSCRIBER] &lt;a href="https://t.co/apImJuW4Fm" target="_blank" rel="noopener"&gt;https://t.co/apImJuW4Fm&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">An Introduction to Liquid Glass for iOS 26 [FREE] https://t.co/RtZzsw9yFt</title>
     <published>2026-02-04T17:07:08+00:00</published>
@@ -142,7 +165,7 @@ visionOS…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing KeyFramify App, a simple Keyframe video editor&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"&gt;&lt;b&gt;🎉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.co/dmGcj4Ia2c" target="_blank" rel="noopener"&gt;https://t.co/dmGcj4Ia2c&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dmGcj4Ia2c"&gt;&lt;img src="https://cdn4.telesco.pe/file/nDNVu7yc-xixJ-mwLaw9wEWbUCPQvcAm-F67CtnCn_uE-qmBBhLiSE0z1BhSF8h94N5ehNzWFDtVavQAhFZH4mrWC9QqOW5aK-CJQYc19nkZfvT99iBTlVfWHYhkmF6P91DpLJ84rJy0q2zu8x_2ABlvSlL5NFlacQj9rSaNt9a51BhL8s3XWw9RAPtjV1MocltulZuIjpN0Ye7WHHLKWInterBWD6roSVo7rUZ5yjPAr_hAcSpW7L2Neuv_BkUveCrw6g8PdTLWbdObNbN2P_1FSDKBjn6avsHX02ctyJc0d2p-nCFSdOGIxfqi3OoAkEq1dT5tN3RIFyW3P4ofZw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dmGcj4Ia2c"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing KeyFramify App, a simple Keyframe video editor&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"&gt;&lt;b&gt;🎉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.co/dmGcj4Ia2c" target="_blank" rel="noopener"&gt;https://t.co/dmGcj4Ia2c&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dmGcj4Ia2c"&gt;&lt;img src="https://cdn4.telesco.pe/file/S9S3LbV5d_peDmnAoh5vV7PTykAgnQlX-xF85BenOdYb1NM6ZjDOc5JZEIBbmUT3bR9Kvro4hylr90Ty5yiv1nwE0G6K1vBGeBKi99XGGBzOBRSnbDcTQSptbjTWtGEyXACR_vLyUANXuwSUlfiVEAbp8CyOddgSiFmuzRKIrFtn9byL3SPtD9LBGGS3ECi5zzWhh7raJYrm-7rCgyDhgUkU1O3vd57QkVjj_VNtJRCil639rpOTZGcojs03jchI7LzQiVgBHK1hMk35Dckd-yqQmfyb2ISPUOFzJkvQOzkBIedU3CPb1CjTa0OD5W2BtwP7wAFc0KlMIwJUWUTFBA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dmGcj4Ia2c"&gt;
 Introducing KeyFramify App, a simple Keyframe video editor🎉 - YouTube&lt;/a&gt;&lt;br&gt;A simple and easy keyframe editor where you can easily create zoom and pan transitioned videos with ease&amp;#33;For More👇apple.co/4jZx5dcThe app is completely free...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -154,7 +177,7 @@ Introducing KeyFramify App, a simple Keyframe video editor🎉 - YouTube&lt;/a&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/csE7njCZs3" target="_blank" rel="noopener"&gt;https://t.co/csE7njCZs3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/csE7njCZs3"&gt;&lt;img src="https://cdn4.telesco.pe/file/owox71z3HnlSajvxFc074EiKPB-DOU9GMi7QwsACMYqh4FcYdOj3j9k1bcuz--ztovAwhku1AvntH565GwP-HVpJREIfzGonuCVSHZoalzPzv-IWsI05cFEpHVv9Rs00xQqHJLbF--DGDyHOu0-HLLZ7wXE8ErjqVS_oDGJiIvMp8PspkmVjcYs0y9xBS72YuL12GPea_F5vnIE25i_mpXPibm18MIWlKd4yyiaLIfmaZqVPnmcC0MV_AMTtQuiUdDYPF94st7ZKCcUtIws8IROzsVhGMvMjPVMcjv3UbZr2DQE1O1SpJ09Oiwcn9-9mngSLzdnbxtKsStqK6SUwxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/csE7njCZs3"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/csE7njCZs3" target="_blank" rel="noopener"&gt;https://t.co/csE7njCZs3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/csE7njCZs3"&gt;&lt;img src="https://cdn4.telesco.pe/file/YaS-Tr_wrLgWP6VYghP4y-xRA7yM_xcLGXaTJQnW6mMzF2L5KaoW1tGnsTT53VsaC9PzjAZMGZpqnvT0qCO25Q76MmMSvApDzpi3jCeuQ4kVLomeH7kxj4y2orEYEJWhWS6Y1wA_xXDUu2H7d7M-9RM4JInIdGUXF0fU5dmVr66rL0tm6tJgetfrGirAoCJPr2npTYw9tulyodk4n5Q6wfdJ9Y5lDVDdKwdQDPEeNYtHXi8Ic4ulzxB-oXixf_5fhULBLf7lGlWRMKejK5AJbiQjV795ip9fK_PoPzCGN3Wu2MbSdwEnnAQNgqVTv86nwGCfiAFQrk3TvahVEROx_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/csE7njCZs3"&gt;
 Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -228,29 +251,5 @@ GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading a
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;NSTableView scroll bug in macOS Tahoe &lt;a href="https://t.co/ZOHTvHZwVE" target="_blank" rel="noopener"&gt;https://t.co/ZOHTvHZwVE&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ZOHTvHZwVE"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ZOHTvHZwVE"&gt;
 NSTableView scroll bug in macOS Tahoe - TrozWare - TrozWare&lt;/a&gt;&lt;br&gt;Crazy Mac lady. Mac author &amp;amp; developer. Lover of Apple computers and devices. Swift &amp;amp; SwiftUI enthusiast. Unofficial Mac app dev evangelist&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 16.7.14 (20H370) https://t.co/lkTC91lGhx</title>
-    <published>2026-02-02T18:47:35+00:00</published>
-    <updated>2026-02-02T18:47:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25864</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25864"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 16.7.14 (20H370) &lt;a href="https://t.co/lkTC91lGhx" target="_blank" rel="noopener"&gt;https://t.co/lkTC91lGhx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lkTC91lGhx"&gt;&lt;img src="https://cdn4.telesco.pe/file/MB2jbIwtxoUsHZ0F5g5Fpc-WnQPaCen1Pv_RKyctlPv9FoCJtAbOnnlMy8Q73_pr-BRMkOuUteUrFTcWfsInBTfl6YA8NcjQJRYKkFCw2yEPYFlfL6JFLVlmwddU1PbcV9kSW6rqoql-tLS7ovDuFhng9Q7vKiVsrOmOTP05Db7ZTH_EsnC7O414XRJtN1YNyRga8n7GKs4xLajJs6eXU97tvnQDqR2FmTHFxUH5gG_Cs6eNFtYKGYmmJ_wxIdXV1wMGn2yYcKconK87727RxMPnu-iijELfqGQPEO6WiGEM8fK2PUL4PSX8Halv1A51Qc9PFKekzMx9YnajwYGHuA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lkTC91lGhx"&gt;
-iOS 16.7.14 (20H370) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 16.7.14 (20H370) https://t.co/T5gZrsX6Jl</title>
-    <published>2026-02-02T18:47:34+00:00</published>
-    <updated>2026-02-02T18:47:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25863</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25863"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 16.7.14 (20H370) &lt;a href="https://t.co/T5gZrsX6Jl" target="_blank" rel="noopener"&gt;https://t.co/T5gZrsX6Jl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/T5gZrsX6Jl"&gt;&lt;img src="https://cdn4.telesco.pe/file/DgzmmCVxXTGfy90ov0TI0UPkaRbZUg_OF96mjv0NKu0tIvXaRgQggsqJ9UGtf-tojPDFLauK0cTCbvb-GhaU3sdTNrsiCMi5u4Ku31c6dLG1f_G8uA4jVvQZnXIJaxIJfwxYtcvZzKDGUBryjHJtJHOcKhf6dzi6bk2Dufntl_XEkQjf687RYw3T8XIGHVj9--uF4y2pJOAhxI3wtaIqHxiVM7CHpqYRKp1IdFPD8d4vKtDqru-BnI2wriG8uKjjBEvGBCrkWLLmF7_6TdBtHACRYAgeI0EZNfwe4duMrKywD2jJzf2D7BneUEPpgtN-8wYsO0njOZhHPOYp6ncuWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/T5gZrsX6Jl"&gt;
-iPadOS 16.7.14 (20H370) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
   </entry>
 </feed>
