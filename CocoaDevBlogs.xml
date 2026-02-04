@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hPfeJwcVfhF-XOjyIqUMWWd1ff_2na4Pvl_5EIdNXBNmQZwE03HstKH1dxiDGgRWiyklAu5xr83SFY8Qt-PMa2qZirL1B5jrUbDOJcGHldAv_VOhGzo5nK5mtV7I-rMWGFC7HOPsj9Av9SKMuV-OJexGwi2Y4hxzd0UiPQcWf76bvbQ1cq89SZrw58yG1w4ob5K8DkeSpIVuyEw6hfi5eavLz5zgAJ2MT5VIltYc0IFtVk-j9yHUD6QZQ26YmF8VpgYUWM5L_lI20H1RoDVz4v91z_oogpL_wWbC-8GOjBwFbx_vndohAFOfrpVo1wzn5spdQNzZmSZS4flq6Rsy3g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-04T10:42:01+00:00</updated>
+  <updated>2026-02-04T11:35:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Codex Trap: Upgrading to Pro Won’t Unlock a New Codex Model https://t.co/5iFWDCyj8t</title>
+    <published>2026-02-04T11:17:55+00:00</published>
+    <updated>2026-02-04T11:17:55+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25881</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25881"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Codex Trap: Upgrading to Pro Won’t Unlock a New Codex Model &lt;a href="https://t.co/5iFWDCyj8t" target="_blank" rel="noopener"&gt;https://t.co/5iFWDCyj8t&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5iFWDCyj8t"&gt;&lt;img src="https://cdn4.telesco.pe/file/vpZvFgLmMH1SPWKestWjq3VuZ_JLrTUXp33l-Ke6S2QVnWT4EtId9YqpyFwkqe2X5dFifwGfWVSlGpSl8XMg9gwfukmQAklX8RaGaytlTpiuiWog2EyeOxXGwvKfjWAuaisTbjgNwqT-d6RIQcb4tx1P_uactiFYzTbYHRpp3tkfZY4ls3GzxjfPQAL3kzpEWs3rTsCp-ldkpQrJqaAoyBtXV3CJH83ut2jyMR8XRW1V4INSF09ELGv3So2zF1vF-zntyKWICMnWapOQDhMuHXoVSwY4pHo8ugJM7Vy7M0nY-s69FrIwNzDK0sk7hNujpL4V8_G1bjOlj4iAqMc2Kw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5iFWDCyj8t"&gt;
+The Codex Trap: Upgrading to Pro Won’t Unlock a New Codex Model - @samwize&lt;/a&gt;&lt;br&gt;I’m writing this as a friendly PSA for fellow devs who use Codex (especially via codex CLI) and are tempted by the &amp;#036;200 ChatGPT Pro upgrade.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : duguyihou/react-native-turbo-image https://t.co/SF9G398cOG</title>
     <published>2026-02-04T02:17:39+00:00</published>
@@ -240,17 +252,5 @@ iPadOS 16.7.14 (20H370) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tagging - Improving the UX | Sofia S4E4 &lt;a href="https://t.co/NuOspwUeGs" target="_blank" rel="noopener"&gt;https://t.co/NuOspwUeGs&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NuOspwUeGs"&gt;&lt;img src="https://cdn4.telesco.pe/file/VsghXCYmPIHr9UINxGFDDCvLT7amZ0oeo3trxXIHSHFnXw4FB9-r0xrcJdB4NLyW83XmULqXs_2O3KVbDAZs2u7CoQYG348NjANdx0aR3h0LjNUaN2u3uDCzUcAcrTOhr_09rnRxUTxeb_XE8XR5xwMBJjCczKwodd1Kw74K4kD1fi0feEw3Rzmfzo64j2ZY9LCvNC9d_JDciL1gjjHF_5MD44Djq8UwxNEXO6Ca3H9DipygcxGeO3E075B0Ep8zIGa-hmNnezgYOvCTITcsQj7o_duhB1xvQmwDFJQHw4bhOB5KGi8U4AH5hkJoGpQWVsFF2n18uNwEtKvQwkf_QQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NuOspwUeGs"&gt;
 Smart Tagging - Improving the UX | Sofia S4E4 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I will work on improving the UX of the smart tagging implementation - for example, by reusing the user&amp;#39;s existing tags.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftUI Agent Skill: Build better views with AI https://t.co/VNrPylolDR</title>
-    <published>2026-02-02T13:03:38+00:00</published>
-    <updated>2026-02-02T13:03:38+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25861</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25861"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Agent Skill: Build better views with AI &lt;a href="https://t.co/VNrPylolDR" target="_blank" rel="noopener"&gt;https://t.co/VNrPylolDR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VNrPylolDR"&gt;&lt;img src="https://cdn4.telesco.pe/file/dzgrvx_dewGOcdX9-wjR2XTT7y-FnrJU0fmWNr5wbFh3r7NaHJ85HGD9z1KhOarr2vgEfHV__dMY4xaW153_WyJm5XU5nD7hV6s5aoz4IR89vpDZKRYvdJQnnwkDHDUmtbsO2eh07FHnL4I5nystZcYdQgFNZIShrIOti9wDeRYvHTyimYa1xAW2XcSt19Y-oMc59E5r-aEgYjP5IECq5NCUZQOLpVd0rNTSIdY9-TCzQHI1KiDDadJl7rNj2szPCOW8E5FlglmcoD17YOutU2YWwKvNPe1Gqx_3--3L7-IpA4kU6pvVwmIZNgO7UM0NM0jzNh8Q-F5Hs7iI0jx5Dg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VNrPylolDR"&gt;
-SwiftUI Agent Skill: Build better views with AI - SwiftLee&lt;/a&gt;&lt;br&gt;Explore the SwiftUI Agent Skill that transforms view building and refactoring. Improve your code with this open-source solution.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
