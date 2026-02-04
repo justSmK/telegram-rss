@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/E4LZg8pbeYgIgO24ZPdC_sipOMNJlFLi-uE7FL_DHL9FUlfqemvuUFlKkSaXaiWyVr9MtFZZQAnkQcoCVC7IqKrJhT7XWADLrOi9RYx-4NQCQXCDJ55P_veZ-ul_30yqJ5Kmu5CXFMaQ8jU9qLIEPI4zdeyMp06CMqvs-80VlEZth4rSHzjbFhEB1jiJ1l4VRKs-3hm9RYEULnqBr9ZpwyIECfLp3LdBORrGAENHH2HICLzz8rQXL6v9UDtmufXJDpf75fYUe7HlwndtH5_IHVxihrUz6OB-7UwO-f_KdBlWuTESNTtdGCRcztNHXsk6l47Ok6XVXB9EQd-18PqoRQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/E4LZg8pbeYgIgO24ZPdC_sipOMNJlFLi-uE7FL_DHL9FUlfqemvuUFlKkSaXaiWyVr9MtFZZQAnkQcoCVC7IqKrJhT7XWADLrOi9RYx-4NQCQXCDJ55P_veZ-ul_30yqJ5Kmu5CXFMaQ8jU9qLIEPI4zdeyMp06CMqvs-80VlEZth4rSHzjbFhEB1jiJ1l4VRKs-3hm9RYEULnqBr9ZpwyIECfLp3LdBORrGAENHH2HICLzz8rQXL6v9UDtmufXJDpf75fYUe7HlwndtH5_IHVxihrUz6OB-7UwO-f_KdBlWuTESNTtdGCRcztNHXsk6l47Ok6XVXB9EQd-18PqoRQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-02-04T21:36:56+00:00</updated>
+  <updated>2026-02-04T22:32:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -30,7 +30,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Единая ли архитектура UI модулей в вашем приложении? (VIPER, MVP, MVVM, etc)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;55% - Да, все экраны сделаны на одной архитектуре&lt;/li&gt;&lt;li&gt;17% - Нет, но идем к этому&lt;/li&gt;&lt;li&gt;4% - Нет, было, но отказались&lt;/li&gt;&lt;li&gt;4% - Нет, каждый разраб делает экраны выбирая любую архитектуру&lt;/li&gt;&lt;li&gt;11% - Нет, но выбор только из нескольких рекомендованных&lt;/li&gt;&lt;li&gt;15% - Посмотреть результаты&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Единая ли архитектура UI модулей в вашем приложении? (VIPER, MVP, MVVM, etc)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;55% - Да, все экраны сделаны на одной архитектуре&lt;/li&gt;&lt;li&gt;17% - Нет, но идем к этому&lt;/li&gt;&lt;li&gt;4% - Нет, было, но отказались&lt;/li&gt;&lt;li&gt;5% - Нет, каждый разраб делает экраны выбирая любую архитектуру&lt;/li&gt;&lt;li&gt;11% - Нет, но выбор только из нескольких рекомендованных&lt;/li&gt;&lt;li&gt;15% - Посмотреть результаты&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Отношение к BDUI&#13;
