@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/GaxBX_Gdpww6lIh96qksCqLkFVTts86RSTOCr7vgUaQbCs8m1udmAXshkUx2qxhlNiqrjw73-0sPnhLDOJj-oVNKcvwiSeTrGziIGdv0q8dVLLgcpqoEge1I-3H4hw3GiMA3bSpqjRw1sssrR66qYRMd-56WNoCZN0xUYEiq5_EE-SaDsxryXIwcY8vbzERjKgmk2mbeNlBCJ7whR5M90fAzj5OrICJiyZeyT6Qpz9Rqi0Qt7dWMSE99VHB9wJCMexWxiZMAZYd0eFF9zJP1XUMCqS3jy-mzb9LPKGtQSyhBvpruR_YFZLkn6Gv5zJt9oRuevRMKZGtMwBrG2nQy-g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GaxBX_Gdpww6lIh96qksCqLkFVTts86RSTOCr7vgUaQbCs8m1udmAXshkUx2qxhlNiqrjw73-0sPnhLDOJj-oVNKcvwiSeTrGziIGdv0q8dVLLgcpqoEge1I-3H4hw3GiMA3bSpqjRw1sssrR66qYRMd-56WNoCZN0xUYEiq5_EE-SaDsxryXIwcY8vbzERjKgmk2mbeNlBCJ7whR5M90fAzj5OrICJiyZeyT6Qpz9Rqi0Qt7dWMSE99VHB9wJCMexWxiZMAZYd0eFF9zJP1XUMCqS3jy-mzb9LPKGtQSyhBvpruR_YFZLkn6Gv5zJt9oRuevRMKZGtMwBrG2nQy-g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-05T05:57:56+00:00</updated>
+  <updated>2026-02-05T07:11:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">В Xcode появились агенты&#13;
+&#13;
+На неделе неожиданно вышло...</title>
+    <published>2026-02-05T06:06:17+00:00</published>
+    <updated>2026-02-05T06:06:17+00:00</updated>
+    <id>https://t.me/iosgr/4600</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4600"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4600"&gt;&lt;img src="https://cdn4.telesco.pe/file/LfEAqhVtr0NWW92LivbKKsPl_SgAdsnoNMgK6yoBD1uPFgvbAEJAu434Zi3ybbvA5hdFVVUAQD3GDbm4SNgpl9vkjKXDnK2lFVQm3VTpyHAyAdbXstUl35oUnPo_VfQhdQbCzO8vQumRsL81PJVKcCcgYBFMq141atY1xtfMTfET3ejJ8rTZ7vLUBxpS9tjeaTXZXwe3StpPc8KqtrYos6S2xyvwjP7y1i37yZqcdxwbn63oXeutrCwqDg0hAcwDXBLRGqSFyLGQyJ6_zYWjPZW0arvYP3G9pjPYIDwC9qisL9kWLSVX9GRIXZ2QoC9XbJb4KCELyHzyYtVgxIGy-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;В Xcode появились агенты&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;На неделе неожиданно вышло крупное обновление Xcode, и в нем наконец-то добавили, кажется, нормальную интеграцию с агентами вроде Codex и Claude Code. У агентов есть доступ ко многим фичам вроде поиска файлов, сборки проекта и работы с превью (полный спимок на скрине).&lt;br/&gt;&lt;br/&gt;А если вы хотите работать с агентами из какого-то другого интерфейса, то можете использовать все это через MCP.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🤖 AI в практике разработчиков: новый сезон Podlodka AI...</title>
     <published>2026-02-04T11:04:02+00:00</published>
@@ -248,19 +261,5 @@ Drag…&lt;/blockquote&gt;</content>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как деплоить в TestFlight напрямую из Codex Web&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С появлением такой штуки, как асинхронные агенты, разрабатывать стало возможно вообще не трогая макбук. В статье разбирается, как с помощью Codex Web сделать PR, собрать его в Xcode Cloud, и сразу же залить для тестирования в TestFlight.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;&lt;img src="https://cdn4.telesco.pe/file/UyF59NjffC8Dem9fjlCpSeUfLWAyVwbLe4dj3h8VfqD1Ii4c8naFtj004QtNm-YHVCscvi3dvgd0fuNWh6lZnU8vDBmProJMFFz9qUNBGz-dx0YG7tSLnT2oTGJsmYBhNCkv8BNE53FTVdq_0gwNUO5oc2lxWoDO0_hcCR_W3iYcT5HaxVpNC_Qr-z3-d7BOIxx9CTUD07d4pPjNbJra8OrbYIJSCkaOW1XtYvrE8sIKHVxl2yrCaypcRt2WBz1ScQm1JHdNo_ZUkRfHW5LjRnRBaKTtAIY-lv6-jRPCLskfSLUfwofCJe78LDeb1yXopm-JvSMfUewPx8dj6P_7yg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;
 How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple будет использовать Gemini&#13;
-&#13;
-Ну что ж, Apple Intelligence, Siri, и...</title>
-    <published>2026-01-13T06:02:52+00:00</published>
-    <updated>2026-01-13T06:02:52+00:00</updated>
-    <id>https://t.me/iosgr/4580</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4580"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Apple будет использовать Gemini&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ну что ж, Apple Intelligence, Siri, и видимо локальные модели будут основаны на Gemini от Google. В целом это отличная новость, Google за последний год огромный рывок в AI сделали, и модели правда хорошие.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZveuApbPksPZzalZ0s_vGVONw9U30gCtAKYmFBgDHQuJYlM7BYBrBNo3Wv2QZQBxpQSnvlV_4A_7WkXSeam1hgEJvjSbtv9JlUsXDnAydYX12kC11jR1Ozf1MHo8lTLNN-hqh8tKur5WV0jw8I6QRNgYFpfukOK5eMi-O750grXSy2pg-X1kQl9rIddKACLR6jIN5wsOfc669lNPzQQYIUJDz5vz2JpDQItqLlTEj-ivh1M-vfN9fbbQkkHQUEMYUDmVeEISy0h7C-CQZAzWhL4H1OYKcU7MTPFi-Zr1jVTqwqYU-Tw25WBvlZSMWeMarkXJaVtpRUx1xT_PDDAX1Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"&gt;
-Joint statement from Google and Apple - Google&lt;/a&gt;&lt;br&gt;Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google&amp;#39;s Gemini models and clou…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
