@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/geXIFLtocJvzcj0Orfw3RklXzE1PJHUQ1re3DK03E2GUj5PK8pdCie6CUF498kn7t4027Dyb4bfeEM3hPBjgflIV9KoOCTeUj3uLmc25ayz9rnerAK8BRZPX7GTMgEcj3tv7R8IFt4RSUcZxIeoIOrv56nrRplmXZaMLeUDLARkv4A_lYEWy4Q2MnrRIebkuvt8bQFS_9KYqy8YKOLcEJ3RjSsIrh1swlFDncb0ZpefCiM7Sl7gSgsE5LXmvc_C82c2wR8V4_fPzWUEQixpglMDtxHI-umc--MgvqyBa4lihK1x6h_PxtdTbR5SxNT1ymxYwW2LZOvApUIc9GSj5ew.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/geXIFLtocJvzcj0Orfw3RklXzE1PJHUQ1re3DK03E2GUj5PK8pdCie6CUF498kn7t4027Dyb4bfeEM3hPBjgflIV9KoOCTeUj3uLmc25ayz9rnerAK8BRZPX7GTMgEcj3tv7R8IFt4RSUcZxIeoIOrv56nrRplmXZaMLeUDLARkv4A_lYEWy4Q2MnrRIebkuvt8bQFS_9KYqy8YKOLcEJ3RjSsIrh1swlFDncb0ZpefCiM7Sl7gSgsE5LXmvc_C82c2wR8V4_fPzWUEQixpglMDtxHI-umc--MgvqyBa4lihK1x6h_PxtdTbR5SxNT1ymxYwW2LZOvApUIc9GSj5ew.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-05T14:46:25+00:00</updated>
+  <updated>2026-02-05T15:43:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Setup Codex CLI notifications on macOS (iTerm2 + terminal-notifier) https://t.co/Lped6wo7Y7</title>
+    <published>2026-02-05T14:52:28+00:00</published>
+    <updated>2026-02-05T14:52:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25904</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25904"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setup Codex CLI notifications on macOS (iTerm2 + terminal-notifier) &lt;a href="https://t.co/Lped6wo7Y7" target="_blank" rel="noopener"&gt;https://t.co/Lped6wo7Y7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Lped6wo7Y7"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Lped6wo7Y7"&gt;
+Setup Codex CLI notifications on macOS (iTerm2 + terminal-notifier) - @samwize&lt;/a&gt;&lt;br&gt;Get reliable notifications (with sound) when Codex finishes a turn or needs approval.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS 26.3 RC (23D125) https://t.co/ffruNp5Bav</title>
     <published>2026-02-05T03:37:27+00:00</published>
@@ -238,17 +250,5 @@ iOS 18.7.5 (22H311) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 18.7.5 (22H311) &lt;a href="https://t.co/PsWlSOvjen" target="_blank" rel="noopener"&gt;https://t.co/PsWlSOvjen&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PsWlSOvjen"&gt;&lt;img src="https://cdn4.telesco.pe/file/Gpi8LfEUcmMLIpk4YFCSOeqR5Ttl-bDR_wmIJV7gZH272ThwQlCnz0bNtr0rrEdU2VdOqlMJmgW_lsVwTxk5quo6I6nNclpUv28-7rhscp8bkSVcvfWhukqg0DMDh7VK0B7xn-T5KQDsIjbegefMl85TZOUXN3WBGB2X09d8ywBYy64OJ9yb3xRNC7aBwHsKzqx2HwS_ZAdCWkNVylxoxE5LZLF3KV1htMh26UY_eDcnTgb9vxdrpRo_qIYL9wpr5w0I09K5eO3eHDTpOxFsYv5NJXs5uIDYoHECzvaIS4FQ0pfQuz6WYC6uZ7rbcSeMZaJBvGQ4mKlMI1moGku6ww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PsWlSOvjen"&gt;
 iPadOS 18.7.5 (22H311) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Hello Developer: February 2026 https://t.co/bDWOVIyljY</title>
-    <published>2026-02-04T18:27:31+00:00</published>
-    <updated>2026-02-04T18:27:31+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25884</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25884"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: February 2026 &lt;a href="https://t.co/bDWOVIyljY" target="_blank" rel="noopener"&gt;https://t.co/bDWOVIyljY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bDWOVIyljY"&gt;&lt;img src="https://cdn4.telesco.pe/file/YQE3w5PZsL7cQz1PK9YgrsakeeqBQIHdjARh60mu0eNB8ByiOsFbmoJcEk8BeMfkFUsjUkaibr0Gr3CBJtmxZ7dW2iy8kftQYiHdlXznE1wB6G_Z1BVHv-aXCkdqulFw0uUe8w64vKBXifzHU-KNA7F9azjV5DA4TGMyY1Qn65QO6zGYqCMMWFnlrgY6tWHfNdkAQsJRw1nur_trfl9QV_FF4k5cPLQVrfA4uAfXgqWk7OL7hTqPow6VGBeIUopgbDrYa1LTidSPGVbRvLeh42Up6VA9-c4-_5FHnxHOVS7GIu9zY7dUhj6CGZPry_cFOqxkZ3U9N-aH-lxyRZjtaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bDWOVIyljY"&gt;
-Hello Developer: February 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;We’ve got big news about agentic coding in Xcode. Plus, join us for a code-along about coding intelligence, browse new developer activities, and catch up on the latest updates.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/U_4PFhlUAysExqBVQS1ayWK21-y_ff9v-45HAt0wNm37chSoHtPh68CN_DLmoRxeJscuJ1d0iIxPApO85q_3JHQGMzhkikdksO0JQyLnB6uyFydBoVI9Hv4yGWNvz45CxSs1Cb4Rm0l6ERZPRDsRGaPCJj5E4-QeqL3UFQKhMf0756P4b9XAWaudwieVrbaP47te98uB_dDycKJDL1FjTxEciDT77s9Ma3sd8RovEIx2XpNDmfMukvtzWDjFL6LRfKLPM822xoyfWqakhpYq8c1tkGzilz01S3hrwu9PkFOFgJr8ih0cxPu6m5H735pl-0QwQA73KveqIvOkVmnL0g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/U_4PFhlUAysExqBVQS1ayWK21-y_ff9v-45HAt0wNm37chSoHtPh68CN_DLmoRxeJscuJ1d0iIxPApO85q_3JHQGMzhkikdksO0JQyLnB6uyFydBoVI9Hv4yGWNvz45CxSs1Cb4Rm0l6ERZPRDsRGaPCJj5E4-QeqL3UFQKhMf0756P4b9XAWaudwieVrbaP47te98uB_dDycKJDL1FjTxEciDT77s9Ma3sd8RovEIx2XpNDmfMukvtzWDjFL6LRfKLPM822xoyfWqakhpYq8c1tkGzilz01S3hrwu9PkFOFgJr8ih0cxPu6m5H735pl-0QwQA73KveqIvOkVmnL0g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-05T14:46:10+00:00</updated>
+  <updated>2026-02-05T15:43:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?</title>
+    <published>2026-02-05T15:29:21+00:00</published>
+    <updated>2026-02-05T15:29:21+00:00</updated>
+    <id>https://t.me/easy_dev991/312</id>
+    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/312"/>
+    <author>
+      <name>easy_dev991</name>
+    </author>
+    <content type="html">			Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;44% - При первом подключении в проект читаю инструкцию и делаю как там написано&lt;/li&gt;&lt;li&gt;44% - Если уже подключено в проекте, то не читаю, пока все работает, а в случае проблем иду читать&lt;/li&gt;&lt;li&gt;0% - Не читаю до последнего, а потом оказывается, что можно удалить половину кода для интеграции либы&lt;/li&gt;&lt;li&gt;11% - Вообще не читаю, закидываю все в LLM и получаю нужный код&lt;/li&gt;&lt;li&gt;0% - Не доводилось работать с чужими библиотеками, а по своим документацию не читаю (знаю наизусть)&lt;/li&gt;&lt;li&gt;0% - Что такое библиотека в мобильной разработке?&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title type="html">Детальнее рассказал про планирование, сложности и...</title>
     <published>2026-01-31T08:20:43+00:00</published>
@@ -169,19 +180,5 @@ https://teletype.in/@easy_dev991/zlfw_fKJvh9</title>
 	&lt;source src="https://cdn4.telesco.pe/file/67bac01ce0.mp4?token=Ui0t5H_NBpE5vyiOEUUcj3twKSqkAOY4M7Xz8jUL2955QNxRwBNXhNj3jcOWwHwUc8WaWb7pnbS2TqcBfR9Yt96FakI72u_CjGWb8RjtmXLHkw2udwFWy3tN1lh2peYAMnHDBz4ekq1ju3r0-QD3oZGkzKJfzFWq6vnf7jbVzyHXkSfjcQncjolJg1FYUqCJmsnaJn0hv6bJDvGvtYFRaUGXz4QGNVMuh9h6AdaQHpiJZW6IHG1Rve5l7oC5MNYGurouz31c2uKu-upONF2JpWkx3VurgsXMNpTlMEr9XrwNm2rqQizEAaEY78QUhM3SzgD3DmPoe6ux0pSsOeTDog" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23appstoreconnect"&gt;#appstoreconnect&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;Долгожданный релиз обновления «сотки» с приложением для &lt;code&gt;Apple Watch&lt;/code&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"&gt;&lt;b&gt;🎉&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;В общей сложности делал приложение на часы в течение 23 дней (после работы и по выходным).&lt;br/&gt;&lt;br/&gt;И что я вам скажу … удивлен, что часы не умеют в групповой &lt;code&gt;UserDefaults&lt;/code&gt;, то есть для синхронизации остается по умолчанию либо &lt;code&gt;WatchConnectivity&lt;/code&gt;, либо &lt;code&gt;iCloud&lt;/code&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4AF.png')"&gt;&lt;b&gt;🤯&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
     <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/jsTagW4wsvQ3Fal-dMIvpDi1nlPOiN7m7Sw4qXthllj7a24TfZSybvHK6gduEUqOo5ZFakF15qmNj9tylaqOuPwHCD-q07A-dWJJMLzcuWAxNAdQECfG1UPoEFWvNbNitBh3_iA9rMHsn8SDL7wkskU10-bp58luQxCZCTb1j44sD8_eEx3dAF3x2vT7gx6XscAWhJYHrJJjotZQXsfLBYlaZ8y99sVu6_LXuU95eSM-gQLsb0uR8g6fcm25pyOtSQ0_daS0QPUB3UiG48huPJvt0aeOVr9ejXgV1nruUofmm8N1U0803ADUZLGHfThIgFwd46F1GEqEGuppevqYag"/>
-  </entry>
-  <entry>
-    <title type="html">#ios #swift #xcode #bug&#13;
-&#13;
-Слева - таргет Apple Watch&#13;
-Справа - таргет...</title>
-    <published>2025-12-24T07:02:34+00:00</published>
-    <updated>2025-12-24T07:02:34+00:00</updated>
-    <id>https://t.me/easy_dev991/290</id>
-    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/290"/>
-    <author>
-      <name>easy_dev991</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/easy_dev991/290?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/n9oheavJMflKC4VMPeDWZq-6g4NoofGBhIfMsAF483mPITFtWilebMz4czfVIYHDyG3jwGzi81mTEbsQmauyN1x7gA31kKDsaj43lYoeDwn-Nt9LMyspStmV4wXDqnTdpOFEdZmVnWVOS4Vj_w4Yf1A_gkEvftRP656KBi8L2Ir9Y0a5h2w30ykq12_wvEPy5AbAYzS4KZvfKGdvnfaOudCU_cL8AzWd1ceqLxn-aCj_pYLuDVIYofaFgzdKvaa_-1ht4NcntEruVtbbdnahNg70qMTWMC1dYt3CIhzMYe-z8LWOWm-fZNPy_6ZfJNPLWwsWx2lAj7_7ZKoVL3ResQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/easy_dev991/291?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/WaJPTiOhuMLvv0Z7lo5ktClYAef8_dDN66R_6rmlFoUKJg598CDpFpqcnl0apaP8oklxiBsDosQbDYP_N4RHsIP4V8hTp2huwOnQbKZJ2WveWwIagwzD-2R_uhHUezsF_khxQt2UiMT3dQDkQECBX4Vb9f32t0iuMPFpx3gc0nrsIRn5fMxMBAgGqcuPvTvyo3kpiIEMKZ6lwrf2xntYtWD6zi858aczNAx4FGoW6HdIc6h5HemoiNIqG_oTpIYycwqbw0-YTrcq5O0HVs1rDOMc__cH-r7h3H_yPPrG9dz7HqZkZofbDF7AA5kqLH2URWhIIdpon9NpAKVQjn7vPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23swift"&gt;#swift&lt;/a&gt; &lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Слева - таргет &lt;code&gt;Apple Watch&lt;/code&gt;&lt;br/&gt;Справа - таргет основного приложения для &lt;code&gt;iPhone&lt;/code&gt;&lt;br/&gt;&lt;br/&gt;В обоих таргетах версия &lt;code&gt;Swift 6.0&lt;/code&gt; в &lt;code&gt;Build Settings&lt;/code&gt;.&lt;br/&gt;&lt;br/&gt;Если для часов закомментировать вариант с &lt;code&gt;String(localized:)&lt;/code&gt; и раскомментировать вариант с &lt;code&gt;NSLocalizedString&lt;/code&gt;, то ошибка уходит - чудеса &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9881.png')"&gt;&lt;b&gt;😁&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Баг на баге &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9988.png')"&gt;&lt;b&gt;🙈&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
