@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/lXNFC-IvwNwDm2yPyG_IUsNE1qnfMqhamvPqkb960h4nSii8Ad2V0FXmDU51hfsXYrAdG3SbA2OwLd2fC-RCLM7VaM6o8Snc_6gZrQbQd_DDAyMxvJ55_MvruqWf96-hZfR-OYS7DDOUKVRCd5sklG7W_wvUMjG1Nrx0FHvxfaNiE_oyC6ZWMwOBsMd3NTPZ16jmv0Tm7MRIkpIJXOZqXrkS_4ldZnswngRkNUE8hae9LH48CfWIJnUJq6RcryQUu__zKJqc4htnzPQxeV4r-i4cYLEfy--LCYvia3_tZd37PtXA7kbgBWf8nltYzbGhXN1Fz6dwy1vQGPWJu-A5_w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/lXNFC-IvwNwDm2yPyG_IUsNE1qnfMqhamvPqkb960h4nSii8Ad2V0FXmDU51hfsXYrAdG3SbA2OwLd2fC-RCLM7VaM6o8Snc_6gZrQbQd_DDAyMxvJ55_MvruqWf96-hZfR-OYS7DDOUKVRCd5sklG7W_wvUMjG1Nrx0FHvxfaNiE_oyC6ZWMwOBsMd3NTPZ16jmv0Tm7MRIkpIJXOZqXrkS_4ldZnswngRkNUE8hae9LH48CfWIJnUJq6RcryQUu__zKJqc4htnzPQxeV4r-i4cYLEfy--LCYvia3_tZd37PtXA7kbgBWf8nltYzbGhXN1Fz6dwy1vQGPWJu-A5_w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-05T18:54:04+00:00</updated>
+  <updated>2026-02-05T19:39:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;32% - При первом подключении в проект читаю инструкцию и делаю как там написано&lt;/li&gt;&lt;li&gt;44% - Если уже подключено в проекте, то не читаю, пока все работает, а в случае проблем иду читать&lt;/li&gt;&lt;li&gt;9% - Не читаю до последнего, а потом оказывается, что можно удалить половину кода для интеграции либы&lt;/li&gt;&lt;li&gt;12% - Вообще не читаю, закидываю все в LLM и получаю нужный код&lt;/li&gt;&lt;li&gt;0% - Не доводилось работать с чужими библиотеками, а по своим документацию не читаю (знаю наизусть)&lt;/li&gt;&lt;li&gt;3% - Что такое библиотека в мобильной разработке?&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - При первом подключении в проект читаю инструкцию и делаю как там написано&lt;/li&gt;&lt;li&gt;43% - Если уже подключено в проекте, то не читаю, пока все работает, а в случае проблем иду читать&lt;/li&gt;&lt;li&gt;9% - Не читаю до последнего, а потом оказывается, что можно удалить половину кода для интеграции либы&lt;/li&gt;&lt;li&gt;11% - Вообще не читаю, закидываю все в LLM и получаю нужный код&lt;/li&gt;&lt;li&gt;0% - Не доводилось работать с чужими библиотеками, а по своим документацию не читаю (знаю наизусть)&lt;/li&gt;&lt;li&gt;3% - Что такое библиотека в мобильной разработке?&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Детальнее рассказал про планирование, сложности и...</title>
