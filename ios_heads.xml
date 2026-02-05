@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/Gj5j9GY5OUBaDNMoE2ThQdFNYC6olQZmkGBHwijrol-cR0wn74TxS3vTOFkRXsUlzASIl0JGv1DQxs1f61hccZze4hJjBWUb1z-74INemqMo2Nr72GR0X6JQPo1wX5iSFQ3BLiUQ4t8rC2DyzGRE_VS4ApRzAHX89XRNFYGM25t5CXOJUQTjnnh-rx8SqZw4LGCd7G1e_zQ6WsIDv6IZgHTIQ0JVkkR2j1FfUocDrFU1xhwRxG6QLIacB_-qDoK8DXyfKNmu39YE7VEd54VGmRi6CkMM2bzVPthnFfm874CFLq_Q4ACBsE32RkJsp5_HWjEunvJIXnM_aYXksQY7gg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Gj5j9GY5OUBaDNMoE2ThQdFNYC6olQZmkGBHwijrol-cR0wn74TxS3vTOFkRXsUlzASIl0JGv1DQxs1f61hccZze4hJjBWUb1z-74INemqMo2Nr72GR0X6JQPo1wX5iSFQ3BLiUQ4t8rC2DyzGRE_VS4ApRzAHX89XRNFYGM25t5CXOJUQTjnnh-rx8SqZw4LGCd7G1e_zQ6WsIDv6IZgHTIQ0JVkkR2j1FfUocDrFU1xhwRxG6QLIacB_-qDoK8DXyfKNmu39YE7VEd54VGmRi6CkMM2bzVPthnFfm874CFLq_Q4ACBsE32RkJsp5_HWjEunvJIXnM_aYXksQY7gg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-05T10:44:22+00:00</updated>
+  <updated>2026-02-05T11:37:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Один наш подписчик поделился своей опенсорсной...</title>
+    <published>2026-02-05T11:31:23+00:00</published>
+    <updated>2026-02-05T11:31:23+00:00</updated>
+    <id>https://t.me/ios_heads/1105</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1105"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Один наш подписчик поделился своей опенсорсной библиотечкой.&lt;br/&gt;swift-agentation - библиотека, которая позволяет визуально давать фидбек кодинг агентам.&lt;br/&gt;&lt;br/&gt;Выбираешь элемент на экране, добавляешь комментарий, копируешь маркдаун, отправляешь на исправление любому агенту.&lt;br/&gt;&lt;br/&gt;В маркдаун автоматически добавляется информация о названии экрана, позиции элемента, типе элемента и остальная информация, которая поможет агенту исправить ваш комментарий&lt;br/&gt;&lt;br/&gt;Поодерживает как SwiftUI, так и UIKit; работает как на симуляторе, так и на физическом девайсе.&lt;br/&gt;&lt;br/&gt;Не знаю многим из вас пригодится или нет, но в любом случае приятно делиться контентом от наших читателей. Если будут вопросы, можете сразу в треде обсудить&amp;#33;&lt;br/&gt;&lt;a href="https://github.com/ertembiyik/swift-agentation" target="_blank" rel="noopener"&gt;https://github.com/ertembiyik/swift-agentation&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/ertembiyik/swift-agentation"&gt;&lt;img src="https://cdn4.telesco.pe/file/I63yf5uLj42Z17z_-6hAB7wdopHXVV2JtNGQVaXnMqAzmreG02DJ-zJ4b5SPSgRjdTyrfYACc2y6xj4G8e81j98MjC_g6eN5MrCWUqW4MNFPit9tny6vsJp6axVsqsThhyCKHmtvrOlEM1I-OkW3Fgmg-KTQg47xskd1lcE_68SdXFuaMFLH_h77Bvb0mpdJGyJebMl2eR2AD2eTKOeunFgSLnZiBOhumX02ZMxsCAIciAz6kLaQUojWG7av-J2iy3ORjrOcPfR2DZvtrAlnEE-D0dSx1kWKxJ4os-Vd-vuV7xMDb7TE8_Xdln6M8ZrlTuLqn3YSMELQTR78t3hBxg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/ertembiyik/swift-agentation"&gt;
+GitHub - ertembiyik/swift-agentation: Provide context from iOS application to agents visually (inspired by agentation.dev) - GitHub&lt;/a&gt;&lt;br&gt;Provide context from iOS application to agents visually (inspired by agentation.dev) - ertembiyik/swift-agentation&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Статья разбирает современные паттерны навигации в...</title>
     <published>2026-02-04T15:29:48+00:00</published>
@@ -43,7 +55,7 @@ How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;Ho
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Давайте после перерыва сильно разгоняться не будем.&lt;br/&gt;Вот небольшой материал про опенсорсную либу на SwiftUI, которая делает новый liquid glass TabBar.&lt;br/&gt;Автор надеется, что скоро будет хорошее решение из коробки, и эта либа вам не понадобится, но пока что держите&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/introducing-fabbar/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;&lt;img src="https://cdn4.telesco.pe/file/XE3pNNDgZ-kbK149qhIob-cCOsj_cOklV3yKtxn9RB6Iqi1agjGWt-woLJWvOIeSwO637BZFDaHZvFVu5rAq3wHat5046bjvWrZT6gv4bsuDMFIKvYkTg69MT5JEFL37EwkfBoOBdh-WLwC9OONynAWa6CcimjZHYgH9Nxvsa7-vLlxJnO_PhhqjOvvh_WeVujzXT8jbVL3C06IME8kXeFVt53NO9ioeCPlBs7sU4hlyNxHcomu9XUacbQ6WgG1y9KYVMRlkhdz-8DtVkB1u7BOc_IIsCbHjGO_mm8YIUblHkNQzlMyqFR8Avj8IDLc59A_fq0041aKlhUYOjMbkoA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Давайте после перерыва сильно разгоняться не будем.&lt;br/&gt;Вот небольшой материал про опенсорсную либу на SwiftUI, которая делает новый liquid glass TabBar.&lt;br/&gt;Автор надеется, что скоро будет хорошее решение из коробки, и эта либа вам не понадобится, но пока что держите&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/introducing-fabbar/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;&lt;img src="https://cdn4.telesco.pe/file/IHpVsSKO70BadObvvz62HOlG1B9NcXB1Vof4dt9MUt14AFrb5wkyBjlRz05xjvmdy28EOmziEpyflct8zWaNvfscRsAxqLI2GPrynlmNWJuCFx4qCF4bgFsaS570ZVocj_tmITAzp8v8hwPyYgg9I-_FaoZI_JOzhIBUjolR2b6ujJpuMo-mifNfhQMcDCCcnBWFrVwXsP9lMepQJC2rvc2yUKZP9eCtvflr0ZXcyN5JU_ntz5WviWgCuULgH7Ch3vLRB_O_kYjxyGw6wI7FTr-cXV75YSjtLgoqJn8dV40m-ViAJscmX1QfRUBMQ_r9WgfqM68ddokP8tq7jX9KIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;
 Introducing FabBar: The Liquid Glass Tab Bar I Wish Apple Made - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;Open sourcing FabBar: a faithful recreation of the iOS 26 Liquid Glass tab bar with a tinted floating action button.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -240,17 +252,5 @@ What&amp;#39;s new in Swift: October 2025 Edition - Swift.org&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Обещанные апдейты от Apple подъехали, что касается ревью приложений, их компонентов и про оффер коды еще.&lt;br/&gt;Не знаю, что именно из этого может быть полезно для вас. Не сказал бы, что супер крутой апдейт, но вот часть с оффер кодами приятная.&lt;br/&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6" target="_blank" rel="noopener"&gt;https://developer.apple.com/news/?id=gf6mgrs6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6"&gt;&lt;img src="https://cdn4.telesco.pe/file/dybd2-Q7WS5YWpV5WGqRmnKH-ezAjN2G805zx0U9wuug0pISYlPEe6uQzt0y1xyAaQUoA-fXewhmH2N9BR-bwqf_A5FSyVHtEAK446KEu91bOere7_jatIj1SzwhpunvRCFvOgSKdcSVthCa9sMQXvYMDSTX-WFvAfjL9Ii409SUPuj6-xAgUB0H_guKFfV7MiwE9EpLR92ekSeWa3Nzpdf7prjIJTSxyR6RGVNVzzLU6Az71BxrtaT9135k9uWe0Tj6IW7e2bd6gUd8WYiJcpO7SG27LW9IL5GvSal3rqHWRb2iILvOrW4CQMHmNWK_ySOpRfcar50Wj26pXx3biQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/news/?id=gf6mgrs6"&gt;
 Enhancements to help you submit and market your apps and games - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;As part of our ongoing commitment to helping developers succeed on the App&amp;nbsp;Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of custom product pages, and offer codes for all In-App Purchase…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Не знаю насколько вам это нужно, но на всякий случай...</title>
-    <published>2025-11-03T11:15:48+00:00</published>
-    <updated>2025-11-03T11:15:48+00:00</updated>
-    <id>https://t.me/ios_heads/1084</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1084"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Не знаю насколько вам это нужно, но на всякий случай держите.&lt;br/&gt;Про синглтон в Swift Concurrency, если вдруг не знали что-то&amp;#33;&lt;br/&gt;&lt;a href="https://www.massicotte.org/singletons" target="_blank" rel="noopener"&gt;https://www.massicotte.org/singletons&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.massicotte.org/singletons/"&gt;
-Singletons with Swift Concurrency - massicotte.org&lt;/a&gt;&lt;br&gt;Singletons mean global state. Global state and concurrency can mean trouble.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
