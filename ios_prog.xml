@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/euTmQueo_OkN_7o31NalfSA25ZEnFfhLp0JtJQZsGoD5JoPLPj5_zu6hJRbTUHcLoFauEHoUGOhqR4j3_wtJiePuQucVYkZHPJnkbdmdnT4Ym1EakXohJkAVRWiByd5dA9OnlBQkiC5ID0vlPyFlXFe9KgHgBwEKYfLNvIGN5MzICanLzaO9O4kfKvKn3mMm0DlAtR7s7itnn97MEx06Y8pTELQwrChT8g2rBjqwVUSWWUwGMzJpfDQFuE1-hzbAeXzNv6_PhuTZ1b3X9UvrbT8IB5lKLT-bnEu-1oFWxvqsZiT1s2rSxRiEYl8CI3QCFNtCjkBNJCOyOeOchPhAAA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/euTmQueo_OkN_7o31NalfSA25ZEnFfhLp0JtJQZsGoD5JoPLPj5_zu6hJRbTUHcLoFauEHoUGOhqR4j3_wtJiePuQucVYkZHPJnkbdmdnT4Ym1EakXohJkAVRWiByd5dA9OnlBQkiC5ID0vlPyFlXFe9KgHgBwEKYfLNvIGN5MzICanLzaO9O4kfKvKn3mMm0DlAtR7s7itnn97MEx06Y8pTELQwrChT8g2rBjqwVUSWWUwGMzJpfDQFuE1-hzbAeXzNv6_PhuTZ1b3X9UvrbT8IB5lKLT-bnEu-1oFWxvqsZiT1s2rSxRiEYl8CI3QCFNtCjkBNJCOyOeOchPhAAA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-02-06T07:00:41+00:00</updated>
+  <updated>2026-02-06T07:52:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Модульная архитектура — это не просто теория, вот...</title>
+    <published>2026-02-06T07:25:29+00:00</published>
+    <updated>2026-02-06T07:25:29+00:00</updated>
+    <id>https://t.me/ios_prog/710</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/710"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/710"&gt;&lt;img src="https://cdn4.telesco.pe/file/uP5bph5QDOmrVZO86qStmiJXqX1U-RnXCxzMsy2a5y6TFmy8LhnQyhGQrwC5EB44m2dfCcP0v0rnxJh7CU6VNXiC3JtfQb6OzH2MMHgPelnPeyG9CnHtaRk1EatAhtz5dpnoRCfr2U9QesUlQSqwy_D1RJDtHUikSXI5-Xz7yH1M4j-IuFj8a2CNgB5iJesl--CKJz6Rra7bWQszKWZKz8DqnLo1nSKH-2FHqaH-efP7NZrFKTEbqd-wO71q2ULxkUPkNq77uUCHpw-807IAGweCi2-tdOiaMylItfof89iD926d4_wCoZW0UPWlZ0M_KCMrH1cyQ6Ui0MKtsFy79Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/modulnaya-arhitektura-eto-ne-prosto-teoriya-vot-dokazatelstva.html?amp=1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Модульная архитектура — это не просто теория, вот доказательства&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Если вы iOS-разработчик и думаете, что «модульность» — это просто модное слово из теорий по чистой архитектуре, эта статья заставит вас изменить мнение. Автор на реальном примере своего приложении показывает, что такое настоящая модульность на практике и как она спасла его, когда пришлось полностью переделывать навигацию.&lt;br/&gt;&lt;br/&gt;Статья доказывает, что время, вложенное в модульность сегодня, — это не переусложнение, а страховка от бессонных ночей завтра, когда требования неожиданно поменяются.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🍏 iPhone 17 Pro Max и iPhone 17 заняли топ места по критерию...</title>
     <published>2026-02-05T06:16:37+00:00</published>
@@ -239,18 +250,5 @@ Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/691"&gt;&lt;img src="https://cdn4.telesco.pe/file/p3PveZxxUZkKQSEinA7G0f8S1du2bWhHcjPB-I1DOPeiocp0eZvMlOqvf-DaAfgi6hoBwntFFgeqh7AV93cDjydXekRVLXVmksPJd2qRNrbIhIkwcW_6b02rDYmNB51v_PpiUXdg0SF47YJ5r5BFNhMZZQKvyEhgKhV1HFn8YEvtU8UEs3roVlE3h6GkhnoD2oSPIMzQ27HS6LYXB8qAWtU35ARop80nUu8dlhXK7r3rch4QGzsrI-K2gXY2xa2G3MURzaiIUSkrIi8S5xC_fLOB8LD2puTRlOcJtJjd5X0Y4UU7z6fttiYh6ilUGY1IddNlRMirNgwHRHOH_AP5zQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/companies/tbank/articles/977694/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Codable в Swift&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Быстродействие мобильных приложений — один из критериев, влияющих на успех не только приложения, но и всего бизнеса. Проводилось множество исследований, где оптимизации в сотни миллисекунд увеличивали конверсию и другие важные метрики приложения.&lt;br/&gt;&lt;br/&gt;Особое внимание должно уделяться производительности кода в стандартной библиотеке языка, так как этот код используется почти во всех приложениях, которые написаны на этом языке.&lt;br/&gt;&lt;br/&gt;В статье сосредоточимся на анализе производительности внутренностей Codable: KeyedDecodingContainer, KeyedEncodingContainer, в особенности на JSONDecoder/JSONEncoder.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftUI совет&#13;
-&#13;
-Используйте submitLabel(), чтобы изменить кнопку...</title>
-    <published>2025-12-16T10:57:31+00:00</published>
-    <updated>2025-12-16T10:57:31+00:00</updated>
-    <id>https://t.me/ios_prog/690</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/690"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/690"&gt;&lt;img src="https://cdn4.telesco.pe/file/idCMNiA6kUfuaoaXNiI0WqD5BwtEb5KE8lBSg-zkysMa2VxdvekBny7nIpxLMwJSNONmA7ZQJtaDeAFmsOdVRmenoc1739sw2ffjQF2B3WJPbTlZWqehPjQqhAGotUN0w6T4NB3LJPiuwSTcdoljSLUFoEmbmgh2ZNuNoO10i0lMptvtCxGU4NZ3gMCmMxhbYG0QCZ8BTu8Nh3NYuMF-OogO5G61_sr1itfjxULVJ59woI53OOQycvPLSelpM0D75ntocXhQHFvX0GFM8HZ8uajZxItYujb_Eqdgp0NFVX_7R7YmFLAcc9vskWKZDwvEQqDjZ5Agnsp_S_l0-Il_tw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;SwiftUI совет&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Используйте submitLabel(), чтобы изменить кнопку отправки на клавиатуре на варианты вроде Next, Join, Search или Done.&lt;br/&gt;&lt;br/&gt;(Обновлено для iOS 26)&lt;/div&gt;</content>
   </entry>
 </feed>
