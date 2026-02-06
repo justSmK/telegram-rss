@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/VPWjhcQon6qeXd9ojjzEEtsrFEafP9JPmpRt-S_c7NkzMYQySmJwyH-RIJY5bjn4FxV3vVJjWf3gpi5C2_Is9kI4Yy7mPrwEYa1GFV0-sNR96He600G1SrcT5JCwcC0cn2VqgpFmRSPVxcuqdGyGxBpR-2FNm0WWi-BrZapQeUl3xEGrW8XQo99xSh-3XMRCtFndDZaMUfnnz9ONP6SKrE1yY3g33W3niK7LviHEQHUQlmXF-NGEWl4hn8bSWCRy6eNsXVkxPV4AIneA0usXHJRCL3w_M0qlj_JtyKyRReICVshtq5OhrYYdtPb1z56veNl6hhpMv6rYjrXAArsjxQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/VPWjhcQon6qeXd9ojjzEEtsrFEafP9JPmpRt-S_c7NkzMYQySmJwyH-RIJY5bjn4FxV3vVJjWf3gpi5C2_Is9kI4Yy7mPrwEYa1GFV0-sNR96He600G1SrcT5JCwcC0cn2VqgpFmRSPVxcuqdGyGxBpR-2FNm0WWi-BrZapQeUl3xEGrW8XQo99xSh-3XMRCtFndDZaMUfnnz9ONP6SKrE1yY3g33W3niK7LviHEQHUQlmXF-NGEWl4hn8bSWCRy6eNsXVkxPV4AIneA0usXHJRCL3w_M0qlj_JtyKyRReICVshtq5OhrYYdtPb1z56veNl6hhpMv6rYjrXAArsjxQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-06T05:56:13+00:00</updated>
+  <updated>2026-02-06T07:00:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">FabBar – правильный Liquid Glass TabBar&#13;
+&#13;
+Помните недавнюю статью...</title>
+    <published>2026-02-06T06:01:52+00:00</published>
+    <updated>2026-02-06T06:01:52+00:00</updated>
+    <id>https://t.me/iosgr/4601</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4601"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4601"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q6AyxNtCWE4VPug5V6BZzd6VYyLYAlfmjysIgtI-AHz_rqkZelSAQMcRoMlHOg06WAuSKbVRFldYaYc3Hk8JS2qMisU2_Y6WdZc-YBwO6S6lWFp2xrUxdIFwaE6AGD0RAcEp_Q7vHS1C5pLTXYjZ0KQAy22RAXesPKTTnH0Rv-jONgqW9fM_OtTiVIXPQOO01Q1UqAWRXjblp5z-spC349sXCadRTLiW4m4O7sTS_lVw_wSeFl8wefibsJYfYtDvLaCUzj1AG3qU9fWXF4yRDXznMRIqg1epHgiyuMfXsX-IzqZQbpEuG8wc9lwUl2fq1Z8RPAdnQ7uhDKmE0eL_0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;FabBar – правильный Liquid Glass TabBar&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Помните &lt;a href="https://t.me/iosgr/4587" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;недавнюю статью&lt;/a&gt; про то, что не так с таббаром в Liquid Glass? Ее автор не стал сидеть, сложа руки, и опубликовал &lt;a href="https://github.com/ryanashcraft/FabBar?ref=ryanashcraft.com" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;FabBar&lt;/a&gt; – кастомный компонент, в котором решена проблема больающейся сбоку кнопки действия.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">В Xcode появились агенты&#13;
 &#13;
@@ -247,19 +260,5 @@ Swift Package Manager Mirrors for Local Development - kunat.dev&lt;/a&gt;&lt;br&
 I often end up in the same situation: I need to tweak an internal package that a project depends on. The usual options are:&#13;
 &#13;
 Drag…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как деплоить в TestFlight напрямую из Codex Web&#13;
-&#13;
-С появлением...</title>
-    <published>2026-01-14T06:03:55+00:00</published>
-    <updated>2026-01-14T06:03:55+00:00</updated>
-    <id>https://t.me/iosgr/4581</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4581"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Как деплоить в TestFlight напрямую из Codex Web&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;С появлением такой штуки, как асинхронные агенты, разрабатывать стало возможно вообще не трогая макбук. В статье разбирается, как с помощью Codex Web сделать PR, собрать его в Xcode Cloud, и сразу же залить для тестирования в TestFlight.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;&lt;img src="https://cdn4.telesco.pe/file/PXodOZndUJReT1-b5i36R129qLRNp70WQ9ZDV8VJ0yhPJYaMQntdGR-4jb3u6JbLR6Ji_6t5sW4qHgoJNMBEVsbVEfY5kCdW5vcjNyOTrAzZSprTiGahEwb8LMxZVyeBUZy5JatleC_OZFNQK6RrKjqd1DtsItz4YarBbXyE9mvZOZOgRS-HY_5I5nMPSSNue1S0Kj2tU7ophgd0AU4orLEhoe0LUtNhiigJmzrhSQlvRWZ8ncHz64uRVWyZt7_AbtUbGj_zLPqOylrqBrTV6wkoWdtSGlXhu7HLJXcFvaAnYLxt_I1eoxEDjGvPHcZz-9zPQdM25QgeXvI6WQ1cGQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269"&gt;
-How to deploy TestFlight app from Codex Web automatically - Medium&lt;/a&gt;&lt;br&gt;Using Xcode Cloud workflow&lt;/blockquote&gt;</content>
   </entry>
 </feed>
