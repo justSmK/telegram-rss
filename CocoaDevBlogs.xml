@@ -6,10 +6,33 @@
   <icon>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-06T13:06:27+00:00</updated>
+  <updated>2026-02-06T14:41:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Call for Applications at the Apple Developer Academy 2026 https://t.co/n94aQNuTM7</title>
+    <published>2026-02-06T14:07:08+00:00</published>
+    <updated>2026-02-06T14:07:08+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25911</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25911"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Call for Applications at the Apple Developer Academy 2026 &lt;a href="https://t.co/n94aQNuTM7" target="_blank" rel="noopener"&gt;https://t.co/n94aQNuTM7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/n94aQNuTM7"&gt;&lt;img src="https://cdn4.telesco.pe/file/oy0qNtCjP5W0nwPohzNRwB7Emlb99HHr3zEbH3MqXpOs7y_hIjYwEvPUJ-u4nMS-zsbwikSooEAn96JhBIj-QtOoou1-SapCVCczrFx0lvXIRCJs35PvCDEYhDebtfaV4CZzLMa3XpetxVMONmZ6s-Qvonq_PBV12LaiBNFIZer7_dHEF69S3679TDwRpo2-3xv16t9AutXUK-nq3g0CyK_dSnYSwHMR-InHGo_Tqflp1dxMaLWd26sVdQBZjNLyCMgxkeHMMRaML_SXdBYPX1MD3TViUD4tEl1x3U6dSLAlMKzwO7Rh-lUHhF32pIS6ZgkkO_DGKj9K1QPoLkfREg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/n94aQNuTM7"&gt;
+Call for Applications at the Apple Developer Academy 2026 - Create with Swift&lt;/a&gt;&lt;br&gt;Become a World Class Developer at the Apple Developer Academy in Naples, Italy. Call for Application 2026/27.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 742 https://t.co/QLEFeZAKay</title>
+    <published>2026-02-06T13:17:40+00:00</published>
+    <updated>2026-02-06T13:17:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25910</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25910"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 742 &lt;a href="https://t.co/QLEFeZAKay" target="_blank" rel="noopener"&gt;https://t.co/QLEFeZAKay&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Xcode 26 LLM Markdown Summaries Are Actually Useful for Humans https://t.co/cyuniC6hOV</title>
     <published>2026-02-06T08:17:51+00:00</published>
@@ -225,30 +248,5 @@ GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swiftjective-C : Agentic Coding in Xcode 26.3 with Claude Code and Codex &lt;a href="https://t.co/3zzihJSzN3" target="_blank" rel="noopener"&gt;https://t.co/3zzihJSzN3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/3zzihJSzN3"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/3zzihJSzN3"&gt;
 Agentic Coding in Xcode 26.3 with Claude Code and Codex - Swiftjective-C&lt;/a&gt;&lt;br&gt;Xcode just put out agentic support, baked right in. Let&amp;#39;s take a look.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Complex 3D Animation Effect Using SwiftUI | BlueNote&amp;#39;s 3D Paywall Effect | Xcode 26...</title>
-    <published>2026-02-04T20:22:14+00:00</published>
-    <updated>2026-02-04T20:22:14+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25891</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25891"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex 3D Animation Effect Using SwiftUI | BlueNote&amp;#39;s 3D Paywall Effect | Xcode 26 &lt;a href="https://t.co/yIK9FzHjnm" target="_blank" rel="noopener"&gt;https://t.co/yIK9FzHjnm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/yIK9FzHjnm"&gt;&lt;img src="https://cdn4.telesco.pe/file/mjVBI7SW3YEsdA5pvq9Xd0FZzc3dyfwnQ6zHyIEDp6ZXWsHDTLMGGbPsz98mBeeBXWyYc4t5QOxbxcGPCExHo0NhICc7Hly4bpvoSnUfTkrebxmTOXtjseoVAPp0BT3w0bv7gQZoPVME-BIv9WMZ9ZNxSTyafzy5WzZ1DMaaqvNnchNwoG9FPTETryjqvLvu3EUKnt-fthWjlpeqo8QRsdhgYylI6erwgAuY4BhapcrMEglxNTe4lTFpfBksOLe_khZFdRKv4Q5ANFoD9JTlInqWHuZ62xjsgJhaFp5nnxw126TsCbG8gMlje-Yw318daKy2rgMXLkGGpwRFw0Exlg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/yIK9FzHjnm"&gt;
-Complex 3D Animation Effect Using SwiftUI | BlueNote&amp;#39;s 3D Paywall Effect | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll demonstrate how to recreate the 3D Animated Paywall effect from BlueNote&amp;#39;s App using SwiftUI | SwiftUI 3D Animation Effect | SwiftUI 3D Rotations | SwiftUI 3D Effects | SwiftUI Paywalls | SwiftUI Animations | SwiftUI 2026…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">macOS 26.3 RC (25D122) https://t.co/7xS9ICNNY2</title>
-    <published>2026-02-04T20:02:36+00:00</published>
-    <updated>2026-02-04T20:02:36+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25890</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25890"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 RC (25D122) &lt;a href="https://t.co/7xS9ICNNY2" target="_blank" rel="noopener"&gt;https://t.co/7xS9ICNNY2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7xS9ICNNY2"&gt;&lt;img src="https://cdn4.telesco.pe/file/VX5hEzmFPysNZKSNWwd6qQsVC7U7XICpOXyavFYnmwqO3xcYRmeH54T7iXKhDhLEboVqV7I4_Wiq5qO_bIi4CMmXgLcJy_6Nmpm1tzZa5jJzLuOMUP8nWCJ7tAAH1E1HJmVaTUVS6lD5UVFgTuZo3WeyVinNO6l_ViFzNdiXQ3Uns4oEpsX7Eq9WFlIWgZhwyC1lAqRkyr08xShJYxU617A0zdVyvO8g7rEZIKDvOQFmh5UGxq6K9ENvAfnkGkNrSaUrHG38WLeShwWvAHwybQBTx48w7unEuA-Giac1K_h9kWmutKzs0z0GEBTR7F4NbzsZ_vvIpXPTVKEEjFzjQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7xS9ICNNY2"&gt;
-macOS 26.3 RC (25D122) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
