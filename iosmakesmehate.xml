@@ -3,10 +3,10 @@
   <title type="text">iOS Makes Me Hate (@iosmakesmehate) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/iosmakesmehate"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate"/>
-  <icon>https://cdn4.telesco.pe/file/IGTEEetL7k05FR-GO2yeSE3KwNFYXEdtNbqJVJOOkJoJ9_fJAjHGh22ih64Bxqvs3fplAfBJ556tPDPrT4NZBkceFLNnYwHTrpTDxXZ87ewSluQWWYDYL2hlQ7SbPSdSwTusHnudChqhj_mEotOldXPgEeJ3e7ZRKs6l9lBRZ0l8VonAr5NaliyhH3rUmKhKHtO1Wp8EM-Y44oQuljpi5tmWKcOX66fWIM7WDi1Jk7pPQFvWyb8vk445DIFx3jHWwoXpbUREBefyjpQjs8bNREkRJXoWXTGwgGkyAXbdC-OEWj_GZGQww8oU2eXJN2kMG1T41Ykskof4EnB-NTodXw.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/IGTEEetL7k05FR-GO2yeSE3KwNFYXEdtNbqJVJOOkJoJ9_fJAjHGh22ih64Bxqvs3fplAfBJ556tPDPrT4NZBkceFLNnYwHTrpTDxXZ87ewSluQWWYDYL2hlQ7SbPSdSwTusHnudChqhj_mEotOldXPgEeJ3e7ZRKs6l9lBRZ0l8VonAr5NaliyhH3rUmKhKHtO1Wp8EM-Y44oQuljpi5tmWKcOX66fWIM7WDi1Jk7pPQFvWyb8vk445DIFx3jHWwoXpbUREBefyjpQjs8bNREkRJXoWXTGwgGkyAXbdC-OEWj_GZGQww8oU2eXJN2kMG1T41Ykskof4EnB-NTodXw.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/c57Zj_O5Z416B2ngW1hERJgJRPJaA1s2Ff8pV5gGUlooMJZI55yUyktxbcQacVuVR9RSUBteR5Qschmss7R_tQBH-zxouFOp4YqBYm4Op5E1Fv1oPlb_xfBTevflb2xnidNthUbqCFRIghje8H0PQbcyd0kd2TlsgTPteDU-mOYBw79iJy9ox9nZ3N7jAp6LIjT-azHLpnKdDrAdFhiCo9d-FS0IJP_N_P-dI-tpX8mUjS40XmfatIUw5wxGzXxuKOVh6hj5REWpG0Tt7IpU-5A7J-1Ndc3QZcyV3SFGZ8cMbbaUgOvQJzN4A1zjuuPeZNW2W_17_zqsb3p_fQVs1w.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/c57Zj_O5Z416B2ngW1hERJgJRPJaA1s2Ff8pV5gGUlooMJZI55yUyktxbcQacVuVR9RSUBteR5Qschmss7R_tQBH-zxouFOp4YqBYm4Op5E1Fv1oPlb_xfBTevflb2xnidNthUbqCFRIghje8H0PQbcyd0kd2TlsgTPteDU-mOYBw79iJy9ox9nZ3N7jAp6LIjT-azHLpnKdDrAdFhiCo9d-FS0IJP_N_P-dI-tpX8mUjS40XmfatIUw5wxGzXxuKOVh6hj5REWpG0Tt7IpU-5A7J-1Ndc3QZcyV3SFGZ8cMbbaUgOvQJzN4A1zjuuPeZNW2W_17_zqsb3p_fQVs1w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-02-05T23:26:56+00:00</updated>
+  <updated>2026-02-06T02:25:26+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -57,7 +57,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Единая ли архитектура UI модулей в вашем приложении? (VIPER, MVP, MVVM, etc)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;55% - Да, все экраны сделаны на одной архитектуре&lt;/li&gt;&lt;li&gt;17% - Нет, но идем к этому&lt;/li&gt;&lt;li&gt;3% - Нет, было, но отказались&lt;/li&gt;&lt;li&gt;5% - Нет, каждый разраб делает экраны выбирая любую архитектуру&lt;/li&gt;&lt;li&gt;10% - Нет, но выбор только из нескольких рекомендованных&lt;/li&gt;&lt;li&gt;15% - Посмотреть результаты&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Единая ли архитектура UI модулей в вашем приложении? (VIPER, MVP, MVVM, etc)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;54% - Да, все экраны сделаны на одной архитектуре&lt;/li&gt;&lt;li&gt;17% - Нет, но идем к этому&lt;/li&gt;&lt;li&gt;3% - Нет, было, но отказались&lt;/li&gt;&lt;li&gt;5% - Нет, каждый разраб делает экраны выбирая любую архитектуру&lt;/li&gt;&lt;li&gt;10% - Нет, но выбор только из нескольких рекомендованных&lt;/li&gt;&lt;li&gt;15% - Посмотреть результаты&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Отношение к BDUI&#13;
