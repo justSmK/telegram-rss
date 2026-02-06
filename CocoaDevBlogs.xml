@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/geXIFLtocJvzcj0Orfw3RklXzE1PJHUQ1re3DK03E2GUj5PK8pdCie6CUF498kn7t4027Dyb4bfeEM3hPBjgflIV9KoOCTeUj3uLmc25ayz9rnerAK8BRZPX7GTMgEcj3tv7R8IFt4RSUcZxIeoIOrv56nrRplmXZaMLeUDLARkv4A_lYEWy4Q2MnrRIebkuvt8bQFS_9KYqy8YKOLcEJ3RjSsIrh1swlFDncb0ZpefCiM7Sl7gSgsE5LXmvc_C82c2wR8V4_fPzWUEQixpglMDtxHI-umc--MgvqyBa4lihK1x6h_PxtdTbR5SxNT1ymxYwW2LZOvApUIc9GSj5ew.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/geXIFLtocJvzcj0Orfw3RklXzE1PJHUQ1re3DK03E2GUj5PK8pdCie6CUF498kn7t4027Dyb4bfeEM3hPBjgflIV9KoOCTeUj3uLmc25ayz9rnerAK8BRZPX7GTMgEcj3tv7R8IFt4RSUcZxIeoIOrv56nrRplmXZaMLeUDLARkv4A_lYEWy4Q2MnrRIebkuvt8bQFS_9KYqy8YKOLcEJ3RjSsIrh1swlFDncb0ZpefCiM7Sl7gSgsE5LXmvc_C82c2wR8V4_fPzWUEQixpglMDtxHI-umc--MgvqyBa4lihK1x6h_PxtdTbR5SxNT1ymxYwW2LZOvApUIc9GSj5ew.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-06T07:52:36+00:00</updated>
+  <updated>2026-02-06T08:48:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Xcode 26 LLM Markdown Summaries Are Actually Useful for Humans https://t.co/cyuniC6hOV</title>
+    <published>2026-02-06T08:17:51+00:00</published>
+    <updated>2026-02-06T08:17:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25909</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25909"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26 LLM Markdown Summaries Are Actually Useful for Humans &lt;a href="https://t.co/cyuniC6hOV" target="_blank" rel="noopener"&gt;https://t.co/cyuniC6hOV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cyuniC6hOV"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cyuniC6hOV"&gt;
+Xcode 26 LLM Markdown Summaries Are Actually Useful for Humans - Christian Tietze&lt;/a&gt;&lt;br&gt;Xcode 26 has a couple of tech docs that are intended to help LLM’s generate modern solutions to coding problems in Swift, but that also contain valuable info for us human readers.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : JerryZLiu/Dayflow https://t.co/dMoVSsUqjn</title>
     <published>2026-02-06T02:12:48+00:00</published>
@@ -238,17 +250,5 @@ In this video, I’ll demonstrate how to recreate the 3D Animated Paywall effect
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 RC (25D122) &lt;a href="https://t.co/7xS9ICNNY2" target="_blank" rel="noopener"&gt;https://t.co/7xS9ICNNY2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7xS9ICNNY2"&gt;&lt;img src="https://cdn4.telesco.pe/file/VX5hEzmFPysNZKSNWwd6qQsVC7U7XICpOXyavFYnmwqO3xcYRmeH54T7iXKhDhLEboVqV7I4_Wiq5qO_bIi4CMmXgLcJy_6Nmpm1tzZa5jJzLuOMUP8nWCJ7tAAH1E1HJmVaTUVS6lD5UVFgTuZo3WeyVinNO6l_ViFzNdiXQ3Uns4oEpsX7Eq9WFlIWgZhwyC1lAqRkyr08xShJYxU617A0zdVyvO8g7rEZIKDvOQFmh5UGxq6K9ENvAfnkGkNrSaUrHG38WLeShwWvAHwybQBTx48w7unEuA-Giac1K_h9kWmutKzs0z0GEBTR7F4NbzsZ_vvIpXPTVKEEjFzjQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7xS9ICNNY2"&gt;
 macOS 26.3 RC (25D122) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">tvOS 26.3 RC (23K619) https://t.co/4UwNrgLC3H</title>
-    <published>2026-02-04T20:02:32+00:00</published>
-    <updated>2026-02-04T20:02:32+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25889</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25889"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 RC (23K619) &lt;a href="https://t.co/4UwNrgLC3H" target="_blank" rel="noopener"&gt;https://t.co/4UwNrgLC3H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4UwNrgLC3H"&gt;&lt;img src="https://cdn4.telesco.pe/file/oLeYMFq3RtsPOmA7GFDgVd_VPbliGXcKgygtQew1KnHwPI2eFrFRjdMUlyHl2IJxxJIkbymGkRl34whrPGtU-S6mN_aM3AZvltsfAWvQQO5O0W8SVJrJ8v1UkhHMPXHLEX1JpbYRaGwXLY0AqV4T4uxoJlL899C5VQjyrG5o3Hbig30KZUoAMKmVAMQmvXHgjAtY3Mt7LkNRGlVJizQhZfA00C6G0OpJvzFB4E9WCKLrwXd2S3wdfUWG5d0zL5mHWQUbHw3PZMTvDP8dkRRCsibCRlzX3rVsFn9gUJMnwox10g8OcpX0Cwdhsnbdq_eRuenoU9FBP4EwApdQAs4HvQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4UwNrgLC3H"&gt;
-tvOS 26.3 RC (23K619) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
