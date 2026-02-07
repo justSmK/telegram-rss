@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/DRs9Dez_i15iF_-Oz3y2aAOVoSJx-1YLJZrLsHn6RUzdLvdXccivnMQwpvQVZ9eD8IRMuIY4WU9ER785vNVMCtcPfddceR-ekTJC03h5BMc7K7Lm_nlHKeTyhkrnyeYmnlv3LqRHuAS3bahdW3L-50KSSwzF9-wlUi04TV57s1BvBQc4zWh7CMncV1yR7yQZOlbG3zB9ZhbSrim14ePoAW00J1zC64FvvS_xhtTs8RgkyZIxzcE7OXcV_yCD0-RDq-GiJKwSEztChHP-zjwKnsYs8KWt9qa_dlXwX1QkhkHbPQPpfJ52S3yUbGsGJZKHE7_gbGqcmNmjCQIXZvpHIA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/DRs9Dez_i15iF_-Oz3y2aAOVoSJx-1YLJZrLsHn6RUzdLvdXccivnMQwpvQVZ9eD8IRMuIY4WU9ER785vNVMCtcPfddceR-ekTJC03h5BMc7K7Lm_nlHKeTyhkrnyeYmnlv3LqRHuAS3bahdW3L-50KSSwzF9-wlUi04TV57s1BvBQc4zWh7CMncV1yR7yQZOlbG3zB9ZhbSrim14ePoAW00J1zC64FvvS_xhtTs8RgkyZIxzcE7OXcV_yCD0-RDq-GiJKwSEztChHP-zjwKnsYs8KWt9qa_dlXwX1QkhkHbPQPpfJ52S3yUbGsGJZKHE7_gbGqcmNmjCQIXZvpHIA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-02-07T17:28:43+00:00</updated>
+  <updated>2026-02-07T18:39:58+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -104,7 +104,7 @@ Restoring the traditional icon-based tab bar on iPad with Liquid Glass - Bendods
       <name>iOS dev</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/"&gt;&lt;img src="https://cdn4.telesco.pe/file/es2e4Xstes4Hh5S8PF2ElO2Zi36W6fZ7WW-iUS-F4tBnoOijDGt0ZkKI42Fe7t4brkXfTTVKQ1U3G3vk3XpFw8coJUZNbRODd7zzY5COD8NsWKL6JrOUwQvdIbfuJCosVR5j_w1_1aAr_21LmNuedwPao0vopeoXokZTlz-qmSq7FptM-Fy7NLgkoB83k8Pgmbw-RBkPxsJG_0k8gRggh7Yn32YCv7a5tuSOo-_2rnEkJn-R9RurgdX4BOARRlAoEgjC7_4SWNSMRrZnovjspHqExn0pZn9fmmwnb_Ac88GqRsmFJ8V-3C6JU2rLKQg7STUO0hU6b9URgq0VANaVvA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/"&gt;
-How to Avoid Double Updates When Filtering SwiftUI TextField Input → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; SwiftUI makes it easy to react to text input. The common approach is to validate or format the string inside onChange and then write the processed value back into the same binding. It works, it is quick to implement, and it is often enough.…&lt;/blockquote&gt;</content>
+How to Avoid Double Updates When Filtering SwiftUI TextField Input → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; SwiftUI makes it easy to react to text input. There are two common approaches to handle formatted text input: Use TextField format option Format the string inside onChange and then write the processed value back into the same binding…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">https://www.createwithswift.com/crafting-document-based-apps-in-swiftui</title>
