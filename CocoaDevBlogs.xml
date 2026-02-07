@@ -6,10 +6,58 @@
   <icon>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-06T23:29:50+00:00</updated>
+  <updated>2026-02-07T02:20:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : jverdi/JVFloatLabeledTextField https://t.co/9tXz4MT81F</title>
+    <published>2026-02-07T02:07:49+00:00</published>
+    <updated>2026-02-07T02:07:49+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25918</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25918"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jverdi/JVFloatLabeledTextField &lt;a href="https://t.co/9tXz4MT81F" target="_blank" rel="noopener"&gt;https://t.co/9tXz4MT81F&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9tXz4MT81F"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9tXz4MT81F"&gt;
+GitHub - jverdi/JVFloatLabeledTextField: UITextField subclass with floating labels - inspired by Matt D. Smith&amp;#39;s design: http:… - GitHub&lt;/a&gt;&lt;br&gt;UITextField subclass with floating labels - inspired by Matt D. Smith&amp;#39;s design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users - jverdi/JVFloatLabeledTextField&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : jdg/MBProgressHUD https://t.co/OLv0iQAasH</title>
+    <published>2026-02-07T02:07:48+00:00</published>
+    <updated>2026-02-07T02:07:48+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25917</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25917"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZJEHUy-5qMqjlPdqSpWtvl74E5o8yBeUf14G3M2iE_vcTL6v4K7j0jT3dCyXjkYnFShP7PpjoRDYuWYdmxarxyEYSTZea8ABx-qSeity-n-2MJKQgYgkU5bGGRxJ9ntrxUYI1wXK2qcG2fpguWD26eaynSD9u_5cDPeA_YEggHKiqitT7SJCSS5xHH6VwdXOEZpXgDQa8fW7M2ONbd6wvnkVF2vh-WRsUgbOAofa98lR4zUr-5HYUCD2G4eaZ_fal-91xT3YdjBK4BRY9t7y3qS3AYUTEL_ad_elVykqaytmc8z8hQTIu2iukY6n3o-vbjRfOrqscsXlWNygLQVdoA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
+GitHub - jdg/MBProgressHUD: MBProgressHUD + Customizations - GitHub&lt;/a&gt;&lt;br&gt;MBProgressHUD + Customizations. Contribute to jdg/MBProgressHUD development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : coteditor/CotEditor https://t.co/2Yf437J7bx</title>
+    <published>2026-02-07T02:07:47+00:00</published>
+    <updated>2026-02-07T02:07:47+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25916</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25916"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : coteditor/CotEditor &lt;a href="https://t.co/2Yf437J7bx" target="_blank" rel="noopener"&gt;https://t.co/2Yf437J7bx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;&lt;img src="https://cdn4.telesco.pe/file/NwnxyHFjVcdgc-cfnESQQqX4C4v0KcQsqMEFEZHNo4rIZ2YN6yuBlWB2O5hx5EHYgex-lnFvQsHtoJ6Ybjh6aFuVuikTwjq1ATfkGK_bBUKaEkqIj8MwQ8aMGgbdjoiS7hx5O_M8A8h4B5BoV07n_n5tGFGkyYFjvtuaDp1C6cXLwoEJNpwfnloWaUJgSsf5d6q6tJbR-isSC-bkYxDcX1oZFHZMzZRuLyULoche6HwEVqJzvE4h-tTPNN--sC0orG1hCu8FPUdugGJQp_DeQYibcYHMvX-BHDdDJ7SJfZrtdAsBpk36R_ruWQU3l_G-zgiDNmup1LcZk1Ut2Hkx_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;
+GitHub - coteditor/CotEditor: Lightweight Plain-Text Editor for macOS - GitHub&lt;/a&gt;&lt;br&gt;Lightweight Plain-Text Editor for macOS. Contribute to coteditor/CotEditor development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : whoeevee/EeveeSpotifyReborn https://t.co/xKfRTFfHO8</title>
+    <published>2026-02-07T02:07:47+00:00</published>
+    <updated>2026-02-07T02:07:47+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25915</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25915"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : whoeevee/EeveeSpotifyReborn &lt;a href="https://t.co/xKfRTFfHO8" target="_blank" rel="noopener"&gt;https://t.co/xKfRTFfHO8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xKfRTFfHO8"&gt;&lt;img src="https://cdn4.telesco.pe/file/E_mQDsJxR3JbNdNqp49dbvXd0Y-eHgrZM-cy9ud4shBobHO5Y0w9_RSW0x-n9aj4Unl2bxD4-hxDtH2iDTBoxDCCYFHuYsTahOoZ1YJprFgl9POM66ugCyQxBndgMBfVM2ZigbCHYckh7VwJLMqQ72R27olFiuhBkKczoAKdYEtv3IK1AF4PtDQT6hlJRGFS0KNYGAd1SjiNaxo9M9JoYQOF2K3Q7AMt5wLcyAdHhgRDUPH3lpqy2ZzpzxwG-JToXq9W5-yIpO2dfd-TvkUhXpD2RUowDQ3ToGbS2zaUxBDgBMDOKZg-QLC5rN0bsNoatGeQGOtNX8MDgZrfcenwOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xKfRTFfHO8"&gt;
+GitHub - whoeevee/EeveeSpotifyReborn: A tweak to enhance Spotify experience - GitHub&lt;/a&gt;&lt;br&gt;A tweak to enhance Spotify experience. Contribute to whoeevee/EeveeSpotifyReborn development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Updated App Review Guidelines now available https://t.co/38k5COOO5T</title>
     <published>2026-02-06T18:12:11+00:00</published>
@@ -91,7 +139,7 @@ Xcode 26 LLM Markdown Summaries Are Actually Useful for Humans - Christian Tietz
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : JerryZLiu/Dayflow &lt;a href="https://t.co/dMoVSsUqjn" target="_blank" rel="noopener"&gt;https://t.co/dMoVSsUqjn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;&lt;img src="https://cdn4.telesco.pe/file/Cz_3egCf8ax3py-kwMfsKby7oMwj5nAtGdGc5ErBr-OjvaMmFaLthbWlWbGGFOrahUufND92GU_VdWtMgwQE8Kb4cMbU1hx3v2_iV2Dyu4ejVhoDdhMNyUEQJrepAnPfQ5HDidmDHHj7uj9nkSqdEuNa6_S6BjscYeU1PC32VpoUbcgxporwWH4pOk86sU72pJDcVxrIsr4iCjhDJq4Zd2YbqLEISt8kgn57Y0YRvufnlwccmWY6yng1GFlCiaM9P4887Aw7zsdxvVhTF7N2-BtOUqvqPYtw61xkyOetIQb7mH5-gbTec1AppOvaneTTiGm2_ZAnxkeD-mokSW7lPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : JerryZLiu/Dayflow &lt;a href="https://t.co/dMoVSsUqjn" target="_blank" rel="noopener"&gt;https://t.co/dMoVSsUqjn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;&lt;img src="https://cdn4.telesco.pe/file/KXPTR7SYYJmm6249qLeguEvmMBZIDDzxr15ZMjmXtPMKNQwC3GpWRN90gE9aYXk-CP6dU6EzvatONOuxgOWy73V-2RWw7DgQVWGemFOGchkqvS9png2UsaKBGuA5Xyjkiy-GuHDsxgqqXhhiZNdrHG9bDdE58KojEzbQvR8xk6WfiSDpf4L78RVfDi0VnJzSZuhN4WZJCyGjm0ckIRf0loHUpRFL3QoBS98BmZ-eJshAIm31sMMFiLvH7sr3miF-1Sc4wfl-MfFIPHWxQVmelJEyGdOy5m-KHv2GAU31da7j8hZbDw6JjzV-bBDB1bMrsHIZ4upNDc2lwwhMKDroDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/dMoVSsUqjn"&gt;
 GitHub - JerryZLiu/Dayflow: Generate a timeline of your day, automatically - GitHub&lt;/a&gt;&lt;br&gt;Generate a timeline of your day, automatically. Contribute to JerryZLiu/Dayflow development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -103,7 +151,7 @@ GitHub - JerryZLiu/Dayflow: Generate a timeline of your day, automatically - Git
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/imsg &lt;a href="https://t.co/jq7nD6rW8b" target="_blank" rel="noopener"&gt;https://t.co/jq7nD6rW8b&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;&lt;img src="https://cdn4.telesco.pe/file/aDT9Ug0W1m3JimPgebQOin4SK3Sf7JIdfVz2P_xAUYXNQCZbpoNIXQJA_KKQOZjpuLQPMreAkDvV3XY7SvhIy133ZG02HzfSaI4s2NUjAiSRJ4Qm7S5sZ8wn6gJVDbMvEyp7UUxK9x0gwClQW96QVIPx0aAs5GBYPWMJgWwKUwJ0YJadO-nqFSPhDyEPLEnh-SHbtutU4HJegPvYt0KbUqVr8no6D0X0jHSifNqr4U0Sh2uIhb2X8RVjzsbEgLw306y01VfQ0WmcIb6cUsZWNTywwzbAez1MA1aCVn4-8hTB3gipP2ySlbVlj4YJzGaw9YOzqX1LNQ7yJoAQpnL1CA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/imsg &lt;a href="https://t.co/jq7nD6rW8b" target="_blank" rel="noopener"&gt;https://t.co/jq7nD6rW8b&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;&lt;img src="https://cdn4.telesco.pe/file/vlDrN8nrrStOydgg-vOan7tXF18HjLz9Lu3S64eFJd-jeUyJHmpgy7v3nnScrSjceb3D7G-3G1SttLD8qCBJ_CltTTT63d6kVIi_3-jXUiezE-DU0ROWNOgL3AEuP3koEICYCbt_rESrkzeyrib0SBEtyzAc4Wn9oNBFQu5rKFYrPT5qOdXf8SvGqC2Mnl7khF2N1T2z8wDSrtLjex4QL05p5df0AHAlxhDWKAE68y8Fv60Gfh7RSmkltExrARf-Ghk5MOUpaNYNfSMIgGFuPQsMugKGol3Awr84C87K_vkePmh9P5KkFWinZl7yyPiMp-wiqbsFlmSwQAhq2PEybA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;
 GitHub - steipete/imsg: CLI for Apple&amp;#39;s Messages.app so your agent can send and receive text messages/iMessages. - GitHub&lt;/a&gt;&lt;br&gt;CLI for Apple&amp;#39;s Messages.app so your agent can send and receive text messages/iMessages. - steipete/imsg&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -115,7 +163,7 @@ GitHub - steipete/imsg: CLI for Apple&amp;#39;s Messages.app so your agent can s
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/BkzqyrgMz317cC5UJ7-CwpGmaX39AoGrUU49RkxosHe_arc2bSKMcaRZ2ulBAninKAxP3XwHYwkGgGzZ8C0TbW8pFblfQcBCs1NKPwLqEtXvStnWhCcNS4SmdRVqBCUSoO5uzFuVpsP-8m-WDbbkewInCW3SE6xYmqF_NVx7EOacU22E-XAtBflFhHUKJGEcXqGaaEfg8gkc4fz_2bRvGUbv9KzDCa7RxX8fXND7VPQ6oZuIGvhrSU8FpxrQUWsuD7d8CxtOHjTeP93GQV_yuE4lbfF4I9PGbAN5e89d85t08DLYpWrp8AjiycnDCe5fdmXe9-Z4nkTzx-wFZKg3qw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/evC5ieNQxil9EubNNuAAhzVUORzRi79i4ftqjzwdKi09QKp4QJZsSoMH0KKfL7bfWLHUGkeNj5MN1lUuR4nMQ_JPWM8OA3HS3PMeMZczgRiZ933fa3rYkHH48h6Tg1EV1U3Nd45Inp0pQhmxc0QWA80vjfza5a6tLoXvaJYCWrnD_Ai3PximEWS-wOeSyPCM5l-qyJaXxKM70F3_vr5ibECiwHT0JiH_lOJ0hqETwD1PFEyffscblKVOwBZzTk2CFKWMLc3K0Gkw1NuhhuM24mIs6SvrqYu8utN3TQPIqez1iRFSwTpl0YP2N_84SoSaYH7kBV2gUbOU77FjvjfjNA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
 GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -127,7 +175,7 @@ GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you s
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Imperial Units Strike Back &lt;a href="https://t.co/MhAhAvTrV5" target="_blank" rel="noopener"&gt;https://t.co/MhAhAvTrV5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MhAhAvTrV5"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zt7wcR7fVQUjYCgwfTW9AgQBRa-1GqyksLlbgyxvxVXLI9rLXVbCIr34ik7coVjy4OuTsa4nlO16UD1eV6C9P-TdO27wmXuy8Q3qRQG0H-hFu5qIATeeba9-otB3HLj6qe22kclziH1unj-24YPFHibTyAHQvvfb2Acb01xh0WZyV-J1Kl01QTD8LkkMnHnmsNlL2SN5o1WXuPK5UpXZLfmaVCAA0LQ_VJA3zlnd3Frx2xHEt-5sZQMC0McwPwZUC2vhV_CaVblDF3_FoT1IoXHSV_-v0l_iIncP6GcCYQj1UzHIVt8zqDBEtk-MaucZHDn3olC7iZQAVewcbT0vCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MhAhAvTrV5"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Imperial Units Strike Back &lt;a href="https://t.co/MhAhAvTrV5" target="_blank" rel="noopener"&gt;https://t.co/MhAhAvTrV5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MhAhAvTrV5"&gt;&lt;img src="https://cdn4.telesco.pe/file/EnuPyTD0Qh9BJpJiqxarKf1Y_dlJ0jb3WHaG7RDHeIEunvaVL_Mh8QQaQe4MiPZ728Ncog2iMn2-4tCKgm2b2r9jl_QMSSI7vNlU5mETHoYkkTFtcw3Ai-0CACfKGZ-Z0BYYDYod8SOI7-53s2oIHdvj1hBGV681ry2_m0ayjhT4WPWeI6kHi1tKJIL5QpGxKzG3wP7dikRZPZDaHK7VAp2hHYjuxPjHVIhjrqBubJZG5VYdpvrYBx3yxByddUZGuNZvRWgzqRctsBM9a7B6nuww07xQ_IMCfhb8kiyoMNU3iSR2xSjV0e5cGN6MTED9riI5PLwn05F-DlJYs_eS8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MhAhAvTrV5"&gt;
 The Imperial Units Strike Back - Ash Furrow&lt;/a&gt;&lt;br&gt;I lived in the United States for six years, during which time I resisted learning Fahrenheit. I was forced to give in to using inches because, unlike every tape measure I owned in Canada that had both inches and centimetres, every measuring tape I could find…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -201,53 +249,5 @@ tvOS 26.3 RC (23K619) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 RC (23N619) &lt;a href="https://t.co/svQlMnfPqR" target="_blank" rel="noopener"&gt;https://t.co/svQlMnfPqR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/svQlMnfPqR"&gt;&lt;img src="https://cdn4.telesco.pe/file/N7tsMdH43TREi5YhMjXvGgsvTCgkkN41ngGu_GNyKBFn518HnuSJbt29DsCsaXfeM681ZOzoTIMDN-dCn4Pm3EVG_xgDYiz5XID-EhDKk-GeC-5VTgbrlI5ROCzAjWvaykTzvsmJveyF1dElBBfpaEIfFi08t5cK66hyBugQG-4qlshoi8YXNsyewEOK4XS6MX-pMxxd-DtWkJDdZ0JA4rPgyEFP5ba426LCK0D8TcXrezPM4MFh_kv6VIxND1jBG4JF8jbW4M6Zsk5jLSoAHGytmYgbVpT1qlba1Qou3u9F_pYuOM1UzD4cHXkW_S4BcozLhHWpwj-x4XTRmIKKjQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/svQlMnfPqR"&gt;
 visionOS 26.3 RC (23N619) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">watchOS 26.3 RC (23S618) https://t.co/F03jkPqfY3</title>
-    <published>2026-02-05T03:37:20+00:00</published>
-    <updated>2026-02-05T03:37:20+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25898</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25898"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 RC (23S618) &lt;a href="https://t.co/F03jkPqfY3" target="_blank" rel="noopener"&gt;https://t.co/F03jkPqfY3&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F03jkPqfY3"&gt;&lt;img src="https://cdn4.telesco.pe/file/V1BJp57SEWNgITSFGcPT3QUvfNTDYHwyrtzGuFcjXPvF1XcB4S9-knoAyIjEtiEJCZMVqQiXyP4w45SEDA5D1Dh_Y74ke4c1fir3Dhx5MiIgvDumIxIaw1ok1br-OAS65TGSWkCgYVqH9AvW9AA5qRKjiKj0tihychQI_5InZBa8rDdWVgdgBr26KJijH9A63vcPBsjD79JHT7GxLi5XNZfewG32urB_rA3OqBbiAINlAbFDCbQ5SnfczrgDv8Jqb-pFT2damkIFZvgXEFlhSkA5swIM8JPKsjbyjDYG-Tc2kKIdfORMmCGiToykdujjhLPwkftPCXRvRi9fr0PwmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F03jkPqfY3"&gt;
-watchOS 26.3 RC (23S618) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 18.7.5 (22H311) https://t.co/uvlpScULYd</title>
-    <published>2026-02-05T03:37:19+00:00</published>
-    <updated>2026-02-05T03:37:19+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25897</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25897"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 18.7.5 (22H311) &lt;a href="https://t.co/uvlpScULYd" target="_blank" rel="noopener"&gt;https://t.co/uvlpScULYd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uvlpScULYd"&gt;&lt;img src="https://cdn4.telesco.pe/file/b3QJ1nVwWhhSSturwmMI_bYO4_awcyasbcgXAmA91f6s3wwKW-EdJl06QprKYIISYFLITgm7Pmn7hUn7siMDwJ3nRFH2LLmNlDZXPLDTCOVfv-w60lGBsYhuIDY8Y1xrTHU6EjVCopY_Ibz1pYWJjnx1U7bC7zjpO4wskcik7udfLWOsDM-SB2gR_w7WK8xjQzOFbhx-H5U43NA16OlkA5tavbF2wyYx6kPAW_K9TJmOzlMGXfuHiUPMERKk7peOU8T50Hz_3938Qz7VrWyJZ8YKh6bZO-WLn1bw65lxs-9Ip29oQ1tfv5cLGaSakBS8cfDY7spr41XTvps0ssNf6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uvlpScULYd"&gt;
-iOS 18.7.5 (22H311) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 18.7.5 (22H311) https://t.co/rrhRVngngU</title>
-    <published>2026-02-05T03:37:18+00:00</published>
-    <updated>2026-02-05T03:37:18+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25896</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25896"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 18.7.5 (22H311) &lt;a href="https://t.co/rrhRVngngU" target="_blank" rel="noopener"&gt;https://t.co/rrhRVngngU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/rrhRVngngU"&gt;&lt;img src="https://cdn4.telesco.pe/file/SlsKDJZS70cSI3AOz__6fl9m8EOy_o9u1dGdPmpWP42Hd4WD3Wk3MYhM7zpHZj5NKg5GeBkmNDK3P0C8G2qhOI3V-W9Qg1uSI4bAZ-p5q9btspsPN0XFon99I3fVnKUmKZhoJ5UEUWGtQIAibR4giAtCtTABwIpo7IkIQS6nQ-BE5PQj7flmH33TV9HO0wqWhItovDYP6Nflo4jQ0MqaXxTd98bD_p0xtmP0v5M-orRSrd6dyeu9ws0OrnFKX-ZTBBEegrZRgqPRsEIdwJngc8wp6IZb8L-VEYfFnWHtty563-Wn67dcoYwQgp4NzUMyC2eP9AVOrxYD02-HS7A_MQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/rrhRVngngU"&gt;
-iPadOS 18.7.5 (22H311) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">App Store Connect Update https://t.co/4bpuyCwcV0</title>
-    <published>2026-02-05T03:37:17+00:00</published>
-    <updated>2026-02-05T03:37:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25895</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25895"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/4bpuyCwcV0" target="_blank" rel="noopener"&gt;https://t.co/4bpuyCwcV0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4bpuyCwcV0"&gt;&lt;img src="https://cdn4.telesco.pe/file/iSKMRyqwmV6hOaBHXVdaRxxIGjim83qdoVBVmRw6bx7NiBE1K6BBCjh0TTUF4kWp0rZFW9XXl2xN4VBpGevXwe6yh96evomeu3jxVPyMm9275ZXrSsLY0MvoIRYBEVytfE_PpGTJlXHMlXzFoh9qIu1z1GAuzPLmInWAIkWdnew3uAzqUjNHmGqwNQhkwU72bmxfWXcorgypeawcmEjc4iCsxJKHHfTCuYjhWlR9yiY5vnf_vQkAyBN2jzBbfiguvfpoqDRdBe2anlWuslGZs7E3IUb9Chcw2qqGEEJts8CFrRq8zetvyPNd5hGpBx1YCYU6vSvgs0qpdVpIaNX41g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4bpuyCwcV0"&gt;
-App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
