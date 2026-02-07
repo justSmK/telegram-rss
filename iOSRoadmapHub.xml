@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/C8wPYS8micqt22imhDk44-Rsjo4eQjo8XBL1PhxZEgZKjhy_YNzg408DWz-u12wEV0EMVpJCisdqhV8EY291km6qCHPW5bwJ1zWEYI7DE_cOUQW5C-LNZgEpN1p2WJkL47nd7R0li_pOUnJwY1VSGDvz7Zf5dBZsayS7BJ29xsPDm7zHuIaOWlmhjnHp-_qM_OA29OlBdWvPLSyF8oxPeq7UZQ1pl-ZVJfybNHTF3MUK3tbZ0eKiaOJmER84j8_3oyo2owDcvoHAE9rTtFtSwPwFCoyrQfspUYqk5xal1veu6iaNGLSwvY35_DE3py25EOI2jIxjvF7BqbP0UNDRNQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C8wPYS8micqt22imhDk44-Rsjo4eQjo8XBL1PhxZEgZKjhy_YNzg408DWz-u12wEV0EMVpJCisdqhV8EY291km6qCHPW5bwJ1zWEYI7DE_cOUQW5C-LNZgEpN1p2WJkL47nd7R0li_pOUnJwY1VSGDvz7Zf5dBZsayS7BJ29xsPDm7zHuIaOWlmhjnHp-_qM_OA29OlBdWvPLSyF8oxPeq7UZQ1pl-ZVJfybNHTF3MUK3tbZ0eKiaOJmER84j8_3oyo2owDcvoHAE9rTtFtSwPwFCoyrQfspUYqk5xal1veu6iaNGLSwvY35_DE3py25EOI2jIxjvF7BqbP0UNDRNQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-02-07T06:48:12+00:00</updated>
+  <updated>2026-02-07T07:34:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -33,7 +33,7 @@ Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			Вопрос для тех, кто юзает AI для работы: что ближе всего к тебе, подумай.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;29% - Я использую AI - кратно лучше, чем без&lt;/li&gt;&lt;li&gt;37% - Я использую AI - лучше, чем без&lt;/li&gt;&lt;li&gt;25% - Я использую AI - когда норм, когда плохо&lt;/li&gt;&lt;li&gt;0% - Я использую AI - пока-что плохо, ищу другую модель&lt;/li&gt;&lt;li&gt;3% - Я использовал AI - теперь только ресерч и всё, что БЕЗ кода&lt;/li&gt;&lt;li&gt;0% - Я использовал AI - перестал совсем&lt;/li&gt;&lt;li&gt;7% - Я никогда не пробовал AI для работы: код / ресерч, оба или одно&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Вопрос для тех, кто юзает AI для работы: что ближе всего к тебе, подумай.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;29% - Я использую AI - кратно лучше, чем без&lt;/li&gt;&lt;li&gt;36% - Я использую AI - лучше, чем без&lt;/li&gt;&lt;li&gt;26% - Я использую AI - когда норм, когда плохо&lt;/li&gt;&lt;li&gt;0% - Я использую AI - пока-что плохо, ищу другую модель&lt;/li&gt;&lt;li&gt;3% - Я использовал AI - теперь только ресерч и всё, что БЕЗ кода&lt;/li&gt;&lt;li&gt;0% - Я использовал AI - перестал совсем&lt;/li&gt;&lt;li&gt;6% - Я никогда не пробовал AI для работы: код / ресерч, оба или одно&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Claude съедает весь бюджет? Мне посоветовали...</title>
