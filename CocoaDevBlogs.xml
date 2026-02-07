@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BTFEP1tp_mSL3UMO40GqoK5c0TJji5rmC81nKHN8HaT6pqUaxaYPoXEaBMsrhkzi4cju0yoV39aKyfO7zlFtQjscJRL8lt2Y2Pry5xz0CwPxt5v55FuauHL92bt9VvQ0OS8Sn--lNGFCqjrxdKYwNbIruXIJ8PKtnBVEiBrBe5GksB4oKmkcT3RfTUDjLFfKe2ja6YIajzrtI-9Auia9QSkcMJuInhSbHgeVEbXxUWIKVTje8GeT7WcwBI7Cl5PabFxvZw2PfMXuuo3OPFj2cHHdu19aSVSH4d3Enwt51OXwbzagTjj8uxTLfhiEW651MXLUPmdC6YOSNXFA0zeovw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-07T07:34:13+00:00</updated>
+  <updated>2026-02-07T08:36:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">macOS Built in Firewall: Quick Hardening for my MacBook https://t.co/OwBCSdjaEx</title>
+    <published>2026-02-07T07:57:22+00:00</published>
+    <updated>2026-02-07T07:57:22+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25919</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25919"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS Built in Firewall: Quick Hardening for my MacBook &lt;a href="https://t.co/OwBCSdjaEx" target="_blank" rel="noopener"&gt;https://t.co/OwBCSdjaEx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OwBCSdjaEx"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OwBCSdjaEx"&gt;
+macOS Built in Firewall: Quick Hardening for my MacBook - @samwize&lt;/a&gt;&lt;br&gt;I saw Jordan Lyall’s OpenClaw hardening thread and realized if there’s so much to hardened my servers, then why not do the same for my laptop?&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : jverdi/JVFloatLabeledTextField https://t.co/9tXz4MT81F</title>
     <published>2026-02-07T02:07:49+00:00</published>
@@ -237,17 +249,5 @@ macOS 26.3 RC (25D122) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;V
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 RC (23K619) &lt;a href="https://t.co/Lt2uDgIL9j" target="_blank" rel="noopener"&gt;https://t.co/Lt2uDgIL9j&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Lt2uDgIL9j"&gt;&lt;img src="https://cdn4.telesco.pe/file/nYPcQ2LOmd-Wp7flaLPXOU6qUWteWos2poU7t5qF8pwzIkMywLgKoFjjOVooT9tpx5JhocmkRQPZ82LexID9Rmribb39JvRuaJeRwGcOFQyeADMfC8mmm36YXTIF0bhcy97JaI86Xe-8QltEtByxjHYH87-kx5HHYaIG5bQKUsFG_gTddKATCcdSzc2gl6cYOcAOUb5SkVLfseU7JfskFQTKlylkLBzN6UKj3cMZRuf1i8sGQbXWVcboTNTjLj81EqDbjVeAxTMmzGmlww1LJO7YvdvpQeD-EIJ44eYKN4eVIKvXIufCM6KvhDsA5AfhWWf6gxKRg7k1W8pTsoGdPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Lt2uDgIL9j"&gt;
 tvOS 26.3 RC (23K619) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">visionOS 26.3 RC (23N619) https://t.co/svQlMnfPqR</title>
-    <published>2026-02-05T03:37:21+00:00</published>
-    <updated>2026-02-05T03:37:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25899</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25899"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 RC (23N619) &lt;a href="https://t.co/svQlMnfPqR" target="_blank" rel="noopener"&gt;https://t.co/svQlMnfPqR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/svQlMnfPqR"&gt;&lt;img src="https://cdn4.telesco.pe/file/IW8PR-Wv5wb9bu88lJRmeLYj9Psi89zdRLBLMo-i2x0s_XoBiH10JOF0VHlD9PJULRPjxpv6cM8r6FE0EVg9Ud2XN3vi2jke4aAJnGif9VqTM8BzS0nhqwzbXd6TQNdOb6kyHIj4cYMUVIK8BqNkh7phTMnxnBlYPftGUFEwbBsyIKh3Zbn7NRF9XAnOHDr8C_zlCGWBmhMxT0YJnCgeVdchIj-ACztiusW7dP1UqDwl8883KrxTWBXJZqJt-SAGmxIzyzj1DF11r9TvWGIzvdn5l_Q0a_3zk-hkDYyfU7K1m5nWJIcUlTBVccKQy-jgVH2EoxiM9LSsr-8gZWdVBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/svQlMnfPqR"&gt;
-visionOS 26.3 RC (23N619) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
