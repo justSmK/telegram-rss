@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Sn3Asb5cyuBTxs2g3Lws3kd0-KDIKGFWgiJkvQp1MMZE7CJPFxo9O1wQQy5J4-sqyfzelYOajfOpMPcS0QptPYenDhdbcn27ZA-9nzURFAOe1HxYI84gs4nEnsMs8xJ-sdNQ3n8v5LPAGaX9_AFp_GPMCvqbQHnBYgtGBfkvYGS-PiiPVJB_OeZPgdbtb0KkRraXJcThAh3s9dUu7JWvb4MBvhQXM_vQmUXTc4ZoCqOeXx3Hqpxjyjbo9XqAoTFFWlOtdKe3BhJhxX9I0lsVWSD4-NUvAStFJlmhNC4U-3Qn7q37YgdYOiEHXzxrzS__Iwu91rkA0TEiF718Noqg_A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Sn3Asb5cyuBTxs2g3Lws3kd0-KDIKGFWgiJkvQp1MMZE7CJPFxo9O1wQQy5J4-sqyfzelYOajfOpMPcS0QptPYenDhdbcn27ZA-9nzURFAOe1HxYI84gs4nEnsMs8xJ-sdNQ3n8v5LPAGaX9_AFp_GPMCvqbQHnBYgtGBfkvYGS-PiiPVJB_OeZPgdbtb0KkRraXJcThAh3s9dUu7JWvb4MBvhQXM_vQmUXTc4ZoCqOeXx3Hqpxjyjbo9XqAoTFFWlOtdKe3BhJhxX9I0lsVWSD4-NUvAStFJlmhNC4U-3Qn7q37YgdYOiEHXzxrzS__Iwu91rkA0TEiF718Noqg_A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-02-07T18:40:23+00:00</updated>
+  <updated>2026-02-07T19:27:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;17% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;54% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;15% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;13% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;17% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;55% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;15% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;13% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">struct Diff {&#13;
