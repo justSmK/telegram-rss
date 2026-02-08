@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/QOmdb-raQQXNRofCb39x-0no7kFwrUmil0iJYu0SoBfm1twHejDyObAkZXh09Oh8RcjJyvzTZ6DeCzG6mRVnvqNZOd4XnPl4P_vu2Jj1oY-PwnLdt-bihPxcCCfVTDqH9F8I0zUr0BowFI0wbeAenULk7ZQSDYRNPcT-pgizSIg_djrok8f9D7vCXwxM-EXAqhISs49tXZ-TdPocO_rt58B3Lk5_iEUWFX9maUjGjChXzmsXLgg4x4DHSTQ0KknzlValRNkWOtjnQtpyeT1hsicGFFWF5__88_9AjwNZwu6BZRKnbiu_a9YyhM5quNI67NEJcMc_Q3s5eGroiNDWXg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/QOmdb-raQQXNRofCb39x-0no7kFwrUmil0iJYu0SoBfm1twHejDyObAkZXh09Oh8RcjJyvzTZ6DeCzG6mRVnvqNZOd4XnPl4P_vu2Jj1oY-PwnLdt-bihPxcCCfVTDqH9F8I0zUr0BowFI0wbeAenULk7ZQSDYRNPcT-pgizSIg_djrok8f9D7vCXwxM-EXAqhISs49tXZ-TdPocO_rt58B3Lk5_iEUWFX9maUjGjChXzmsXLgg4x4DHSTQ0KknzlValRNkWOtjnQtpyeT1hsicGFFWF5__88_9AjwNZwu6BZRKnbiu_a9YyhM5quNI67NEJcMc_Q3s5eGroiNDWXg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-08T14:30:58+00:00</updated>
+  <updated>2026-02-08T15:29:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)</title>
+    <published>2026-02-08T14:56:26+00:00</published>
+    <updated>2026-02-08T14:56:26+00:00</updated>
+    <id>https://t.me/easy_dev991/315</id>
+    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/315"/>
+    <author>
+      <name>easy_dev991</name>
+    </author>
+    <content type="html">			Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;60% - правила (rules)&lt;/li&gt;&lt;li&gt;27% - команды (commands)&lt;/li&gt;&lt;li&gt;53% - навыки (skills)&lt;/li&gt;&lt;li&gt;27% - субагенты (subagents)&lt;/li&gt;&lt;li&gt;40% - mcp-серверы&lt;/li&gt;&lt;li&gt;7% - другое (напишу в комментариях)&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title type="html">#android #cursor #qwen&#13;
 &#13;
