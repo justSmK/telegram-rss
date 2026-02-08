@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/RxHINNyp-KhzXaGxFqZXjZ0SJXPnWYo9kmS9g3MYts74wEfWaT-Xp6ET8wUEv8Qsas14gqld_BjPcPTQaMSyhJkaxgK_hAmhTH7WriR4ZKJgxLV9o12131KYlBSXyGED1IHgb_pEMZv2JWOPAgA8QfE5eQGrlaTM9WPvInK0zZpPvw4Mq1Kcmp8gdlFll8c5w3oN-ObeSz0uqZqb8Hs86NTBk6QOUDgrpnnhTznpBBdoHV2d5YT3HsDYrPSdtk50SKFDEKKnIglflCXyAn9VlTGP1AadcCVsQIj7w0QPa9xmLP12VXtk5vLXCgAU6WVlx-90GB_c_NHQelTY8x7z1w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/RxHINNyp-KhzXaGxFqZXjZ0SJXPnWYo9kmS9g3MYts74wEfWaT-Xp6ET8wUEv8Qsas14gqld_BjPcPTQaMSyhJkaxgK_hAmhTH7WriR4ZKJgxLV9o12131KYlBSXyGED1IHgb_pEMZv2JWOPAgA8QfE5eQGrlaTM9WPvInK0zZpPvw4Mq1Kcmp8gdlFll8c5w3oN-ObeSz0uqZqb8Hs86NTBk6QOUDgrpnnhTznpBBdoHV2d5YT3HsDYrPSdtk50SKFDEKKnIglflCXyAn9VlTGP1AadcCVsQIj7w0QPa9xmLP12VXtk5vLXCgAU6WVlx-90GB_c_NHQelTY8x7z1w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-08T22:31:02+00:00</updated>
+  <updated>2026-02-08T23:34:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Core Data Agent Skill: Now available open-source https://t.co/UHWNY51N7t</title>
+    <published>2026-02-08T23:22:37+00:00</published>
+    <updated>2026-02-08T23:22:37+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25926</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25926"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Core Data Agent Skill: Now available open-source &lt;a href="https://t.co/UHWNY51N7t" target="_blank" rel="noopener"&gt;https://t.co/UHWNY51N7t&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Multi-agent coding with Antigravity | Sofia S4E5 https://t.co/bp10egkSSw</title>
     <published>2026-02-08T17:52:42+00:00</published>
@@ -238,17 +249,5 @@ GitHub - JerryZLiu/Dayflow: Generate a timeline of your day, automatically - Git
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/imsg &lt;a href="https://t.co/jq7nD6rW8b" target="_blank" rel="noopener"&gt;https://t.co/jq7nD6rW8b&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;&lt;img src="https://cdn4.telesco.pe/file/LTM3iLaBCJpbff_Vqv37Ali5k-QarvQgKEcerTR5Gk8tf3ATvkoYsdGGTB3kx2h6pPj8MmZZFW5rOJfWF0ZUI9C1zWNQztHk4JIFd3YtA7yj_Y0F4khcOu2_FPNV7OR6ompf-O1Df5_vl6rdemgZc2CxwTXvZ_gjG9wYDwsz4Pz55eo7gE7JMjYZumQWxMbxM8lEd653RjU-IW033ekFNJ2Z20MlG_LpIAJpW6QnXBuNEhf56qHlWfkAgFTbaGh4Ay8xkxWyjBdXdAnRSgCM8N4p4trLqAuQcs7CT-WhB5LK93pKStTELH-HMj72m8T7ptma9MfgE21IXYy5B8GusQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jq7nD6rW8b"&gt;
 GitHub - steipete/imsg: CLI for Apple&amp;#39;s Messages.app so your agent can send and receive text messages/iMessages. - GitHub&lt;/a&gt;&lt;br&gt;CLI for Apple&amp;#39;s Messages.app so your agent can send and receive text messages/iMessages. - steipete/imsg&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Beingpax/VoiceInk https://t.co/VWMPkfQfVe</title>
-    <published>2026-02-06T02:12:47+00:00</published>
-    <updated>2026-02-06T02:12:47+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25906</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25906"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Beingpax/VoiceInk &lt;a href="https://t.co/VWMPkfQfVe" target="_blank" rel="noopener"&gt;https://t.co/VWMPkfQfVe&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;&lt;img src="https://cdn4.telesco.pe/file/a_BfRqICJn9EXkT6UQzFm-ROM5dXE_29iLvf3K2E-d1nYga80YWCs1FwLVV4plERHG48VQJPO_jQN3ww__RdYwHV4FRZIgIzBlBo2nr5ANLxSm22U_mdRySQQ8R4fN66tov9Khy8HoqSvTanw8sLC0plQnq5dg0tGMaVtZM4ljNj8NzDL6xWrR78htqkimnGqyA3nxm4rG-n98j1fv7-fiwo4I-Da03kOOa1id-xX32icMJ_wxcEPaV2k6_rPvUmk8eT-J-2b59SgqPG3y2zV9XoH0CPy48HtFS4Y-1lSgKZ-LCS_fxajVv1c2iJrDf4jDHunsVNh2t-ISbCgsYGFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VWMPkfQfVe"&gt;
-GitHub - Beingpax/VoiceInk: Voice-to-text app for macOS to transcribe what you say to text almost instantly - GitHub&lt;/a&gt;&lt;br&gt;Voice-to-text app for macOS to transcribe what you say to text almost instantly - Beingpax/VoiceInk&lt;/blockquote&gt;</content>
   </entry>
 </feed>
