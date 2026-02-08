@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/m45xLLT0dvDMv4zLdLXsdbyyULgAQ3iv1mR4I4sZQzKx4hS_pA8pblXD77jiUD4C8WUxGpBdUDCNDG3xhT3-S1Th4nC12FGpJcmGjh2AHtR5UWOzC8YDuekC3mXOFfN3iVoAAmQ0vdlTMRQcFDKFKXpo1Xy74u4u8YIm9S4QW60YffXRKN2Whzc2d54xGFEY-LjZRiS3oNjVJKFEkc91x9oQddHzwoEyFDg2IBI5y0kzYZOsJQa8mrZQyjw4joFdxfZfiRTpzirfoeBnwC82Wbb8g53fiEbnprjMoCnSaBwvdq0QmT0RGV2FVgTLSFsna7sHXf012vXtn5HTS6DZGQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/m45xLLT0dvDMv4zLdLXsdbyyULgAQ3iv1mR4I4sZQzKx4hS_pA8pblXD77jiUD4C8WUxGpBdUDCNDG3xhT3-S1Th4nC12FGpJcmGjh2AHtR5UWOzC8YDuekC3mXOFfN3iVoAAmQ0vdlTMRQcFDKFKXpo1Xy74u4u8YIm9S4QW60YffXRKN2Whzc2d54xGFEY-LjZRiS3oNjVJKFEkc91x9oQddHzwoEyFDg2IBI5y0kzYZOsJQa8mrZQyjw4joFdxfZfiRTpzirfoeBnwC82Wbb8g53fiEbnprjMoCnSaBwvdq0QmT0RGV2FVgTLSFsna7sHXf012vXtn5HTS6DZGQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-02-08T13:51:20+00:00</updated>
+  <updated>2026-02-08T14:31:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -64,10 +64,10 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/f-HUkLOOUBler4q-1dPZ5BxEKHbiLNbnpxVUUPgAjsktQ4o5c3XPcP5ShMMhKOFsD9eUKTDpnNf-cOInC0zDb7S2jG7KHJbJWuOKz3_oAdR6O8jGH4do0XneQmuDTdGMjjBKoz8-B7raafT9T2qBvee8PYF4lrfHXeC7aKBCRGyP17VybtwMsqt3Mh0dMw_VJKgnRr78jTX0ZHjzfcjEb_vfLTCA3BN3hOp0XI_IC63R58IIjaeeGrxi7c9BimXQZG4FiGpDvBGM_6Z2dcn91zJFXdcqsAdJDwE9S1HJwXEGCsdwNhKRGshR2i8IJCCYlvdfRlzXTrHon3tjzIUF_g" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/c5eea79132.mp4?token=g3Yivl5sXIzY-qRXDT5FREfarK43cP3VPN-dSav6IozOXVXn2l_NRTX1r5hbZyK2EHPUgJvoYuovQ4n5kAruVqp_QMchEHudn33SdS05RqX-x_4I2BTeHGEjTbLFAQ3t6nA4iToNpFNv4py0xNr_N5XchLzk0jyEzeasYCnbCDjm4BEFJTYnHGgAtkMzPWNdb_hCzujnk5chtDKyL9NRiaiGhq2tnTS70e0zB2Rkhmt2_lkUuSJ3D9jKbXrVOPKg8dSGggAWxIFCd-3EQ0vw5dV42J5KLXpLIReKXdmqnq_vvxeC19VRu5GPz64hHPieiRG7Y6saVx6J55yvd6mAVw" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/YvrTQ01YRRGi5fM8ydgux0AB2lAXJlKE88ynrNQQovAF75BEPOW8JEQiKfxvmq4lWpLY52jhd8G29lIZ0E-a9Pn-xpKbCPPTGTnvTeFEHOjr539zuJXIlyED4nZGs1lEGlxp8DpX0c1SA6TO3VyTiuqJ1kY7Mz5dtxoVzdwPBg52gNPZHaHQIu0xPopXDX_QAWTmg6X1ApWyBFivZ5kyBTVJt4_OjF0YmFNVPEjF2rPusWnIUhr5WLLEBA1kqYI6br83Ej5Apzpl0ZM1kPaen6SkiiosB5qObg4IJsPo0N3pc24MaqyVxTMMesRynlPfjnPw-cnVVnbaRWiA3dqJXQ" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/c5eea79132.mp4?token=LZWNhGtSGv-Ne3hDGY7CuF_e8Lf7BVvzP-bbkP5GGnPtA4VsXfKRnwBce346PUZ9baL2R7uk5308uDIGZk5Na_rpVSP41atV5TeLQIPdXrPgnen5A9pF2zFrxvj76XeU3mo0fqHnOuMOja9OeAOIFP34yxLtDOXlnixe0gf-d1swLWZ58GRV7RR3Mlf22p4ej0P0qZrg7fTWZNHMcld-76O8qA3vTwn8WWAVrim2gOef5oA5e1yZbqZ6M074nZzrP-IxH-JPfeGA5jYN3Q0TYoBP7QRa-VP_o5e7rUwQTIIUPWwvlk74DQ4s8AIcypt_OJpjZkf278GodEbpjUXzvg" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех с праздником&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/f-HUkLOOUBler4q-1dPZ5BxEKHbiLNbnpxVUUPgAjsktQ4o5c3XPcP5ShMMhKOFsD9eUKTDpnNf-cOInC0zDb7S2jG7KHJbJWuOKz3_oAdR6O8jGH4do0XneQmuDTdGMjjBKoz8-B7raafT9T2qBvee8PYF4lrfHXeC7aKBCRGyP17VybtwMsqt3Mh0dMw_VJKgnRr78jTX0ZHjzfcjEb_vfLTCA3BN3hOp0XI_IC63R58IIjaeeGrxi7c9BimXQZG4FiGpDvBGM_6Z2dcn91zJFXdcqsAdJDwE9S1HJwXEGCsdwNhKRGshR2i8IJCCYlvdfRlzXTrHon3tjzIUF_g"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/YvrTQ01YRRGi5fM8ydgux0AB2lAXJlKE88ynrNQQovAF75BEPOW8JEQiKfxvmq4lWpLY52jhd8G29lIZ0E-a9Pn-xpKbCPPTGTnvTeFEHOjr539zuJXIlyED4nZGs1lEGlxp8DpX0c1SA6TO3VyTiuqJ1kY7Mz5dtxoVzdwPBg52gNPZHaHQIu0xPopXDX_QAWTmg6X1ApWyBFivZ5kyBTVJt4_OjF0YmFNVPEjF2rPusWnIUhr5WLLEBA1kqYI6br83Ej5Apzpl0ZM1kPaen6SkiiosB5qObg4IJsPo0N3pc24MaqyVxTMMesRynlPfjnPw-cnVVnbaRWiA3dqJXQ"/>
   </entry>
   <entry>
     <title type="html">Есть ли у вас под рукой примеры актеров, изображающих...</title>
