@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/ZpTvEG34tYtp5piKdzFYJUKGLzrEdRBvW8z10oVHObF6cmKpn-_bfZZLthZ9jnrBHBiYh6yvF3leUsksMmYfs5qgn7WPn5TY3FFM2qSw8T1t1TFHA17RrhFbGvw1ObPwEh2vTDk77Sjrp2RNiBl0bwxU5PJ0Hj4PDiYmbvQAGQR0t6hssO4zAIBLE3lE7B_FXUkRBrgDvsFCm4ybJs4YjFZ_s5YR2mIxCsMXdwZC8KTVhrn9jOMXSL3WvA4d2JujJfDMrf4Y7W3dnS9a2BXQ3BROdMMxP5waiB0Dw2cSKYOxjP15B0ouhhDD_znlqzb_-hR6EChrkRGkhTz6_TUDSQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ZpTvEG34tYtp5piKdzFYJUKGLzrEdRBvW8z10oVHObF6cmKpn-_bfZZLthZ9jnrBHBiYh6yvF3leUsksMmYfs5qgn7WPn5TY3FFM2qSw8T1t1TFHA17RrhFbGvw1ObPwEh2vTDk77Sjrp2RNiBl0bwxU5PJ0Hj4PDiYmbvQAGQR0t6hssO4zAIBLE3lE7B_FXUkRBrgDvsFCm4ybJs4YjFZ_s5YR2mIxCsMXdwZC8KTVhrn9jOMXSL3WvA4d2JujJfDMrf4Y7W3dnS9a2BXQ3BROdMMxP5waiB0Dw2cSKYOxjP15B0ouhhDD_znlqzb_-hR6EChrkRGkhTz6_TUDSQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-02-08T21:30:34+00:00</updated>
+  <updated>2026-02-08T22:31:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -98,7 +98,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3735"&gt;&lt;img src="https://cdn4.telesco.pe/file/En7WsWwkliyIMejnJEiu_U9yzzEngAQr6ErCPaLA4W0P8gQ6VfPF1xYeTP_W8KAlIfRRLEcQ_lO-VVT11Vy26_azhZAozbjq8v4VaKc31V-mGZtd3xBloZ1PRr52MnrdcPqMy85dEy8Ev4gWx1k2cKaN9zaDdtugWQJZdvzdwI4-9qHsUmyfdN1agrNwLyxp22Xm3EnRDJPWZpnJ_KKEC3QKY72A5KbHbMoshgcsAOt-80P5uGHXcYLAvIodWS3U113ATA7T2a01eT455RswTJQAuSv_M2nDAuMRBeTk0jsom0LrktpsYjEPYBLlkjn2PQ_jr98uMIxEUqTHcnuXag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;кстати хочу в канале сделать серию постов чем же так плох вебвью&lt;br/&gt;&lt;br/&gt;по отзывам платформенных инженеров из банков — в иос это отдельная жопа. Это хуже любой кроссплатформы с рандомным результатом&lt;br/&gt;&lt;br/&gt;особенно смешно когда некоторые компании говорят &amp;quot;все перепишем на вебвью и не будет проблем&amp;quot;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3735"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ypd3Kggf0ExDdpjWzyWfC0YvnW-k9gHp-7cGeTDafQpZtMdkS2m4sl8Nbx6UtZD8WIfJ0tJjaY79ktHiXk0kMm1rt6nKSxt8bnG_csbHaOf5biCxW6A_Txdxj3LBcucPuPrgB0mIokVS8DBwAmVw9jl-HH3GSe-qi2kr59mEmrSqHVwG_nEJJAe8ihFqz29pwU_n3rmpm07Ft7tQUyHVthx9pTs1XsgB5Zh5FKdcGqycanPH0iwkQMWIxC0gEB3J60Os3KNp60gRO0Ez6iDzypV-awFuKQDav7eSbFmLn0L1d5YjEUg0YcT-bKs5VKDjFLiFVEGcwIQUGySet0XzNg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;кстати хочу в канале сделать серию постов чем же так плох вебвью&lt;br/&gt;&lt;br/&gt;по отзывам платформенных инженеров из банков — в иос это отдельная жопа. Это хуже любой кроссплатформы с рандомным результатом&lt;br/&gt;&lt;br/&gt;особенно смешно когда некоторые компании говорят &amp;quot;все перепишем на вебвью и не будет проблем&amp;quot;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Единая ли архитектура UI модулей в вашем приложении? (VIPER, MVP, MVVM, etc)</title>
