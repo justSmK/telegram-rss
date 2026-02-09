@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/RxHINNyp-KhzXaGxFqZXjZ0SJXPnWYo9kmS9g3MYts74wEfWaT-Xp6ET8wUEv8Qsas14gqld_BjPcPTQaMSyhJkaxgK_hAmhTH7WriR4ZKJgxLV9o12131KYlBSXyGED1IHgb_pEMZv2JWOPAgA8QfE5eQGrlaTM9WPvInK0zZpPvw4Mq1Kcmp8gdlFll8c5w3oN-ObeSz0uqZqb8Hs86NTBk6QOUDgrpnnhTznpBBdoHV2d5YT3HsDYrPSdtk50SKFDEKKnIglflCXyAn9VlTGP1AadcCVsQIj7w0QPa9xmLP12VXtk5vLXCgAU6WVlx-90GB_c_NHQelTY8x7z1w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/RxHINNyp-KhzXaGxFqZXjZ0SJXPnWYo9kmS9g3MYts74wEfWaT-Xp6ET8wUEv8Qsas14gqld_BjPcPTQaMSyhJkaxgK_hAmhTH7WriR4ZKJgxLV9o12131KYlBSXyGED1IHgb_pEMZv2JWOPAgA8QfE5eQGrlaTM9WPvInK0zZpPvw4Mq1Kcmp8gdlFll8c5w3oN-ObeSz0uqZqb8Hs86NTBk6QOUDgrpnnhTznpBBdoHV2d5YT3HsDYrPSdtk50SKFDEKKnIglflCXyAn9VlTGP1AadcCVsQIj7w0QPa9xmLP12VXtk5vLXCgAU6WVlx-90GB_c_NHQelTY8x7z1w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-09T05:03:48+00:00</updated>
+  <updated>2026-02-09T07:08:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux https://t.co/MPGu1zM1iS</title>
+    <published>2026-02-09T06:52:33+00:00</published>
+    <updated>2026-02-09T06:52:33+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25932</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25932"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux &lt;a href="https://t.co/MPGu1zM1iS" target="_blank" rel="noopener"&gt;https://t.co/MPGu1zM1iS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MPGu1zM1iS"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MPGu1zM1iS"&gt;
+Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux - @samwize&lt;/a&gt;&lt;br&gt;I want to control my Mac Studio from my iPhone: run commands, vibe code, kick off builds, restart services, check logs — without opening my home network to the internet.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : yonaskolb/XcodeGen https://t.co/Kz8WWqBLP5</title>
     <published>2026-02-09T02:12:43+00:00</published>
@@ -238,17 +250,5 @@ Updated App Review Guidelines now available - Latest News - Apple Developer - Ap
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift Student Challenge submissions are now open &lt;a href="https://t.co/cgeAsXk1C2" target="_blank" rel="noopener"&gt;https://t.co/cgeAsXk1C2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cgeAsXk1C2"&gt;&lt;img src="https://cdn4.telesco.pe/file/Hq20zArH-pYXcn4Beponj1zEgaPFFawUrFeSKd7zn5cQTWCcK461nqxKHXQ3TBXsuCa2msp3gPJJe7hAXjwS7NALO8FtZAKOr8lFOb94nwszXe-VW92XrudfCb9lGODAbjdkohtKee8yDh7jqOksD0pWW7hbEkjQziADn7xWuyIxz__4cHFiCH-zc3CsCI7qWzrUubqq7pMaausO5dAcP16rWXoYNNYrQ4CtY2e7jYbVC77u5za23wVMkQ28tPfutaUzkEDetTRexj0wzKgDWRt0ihdUvOlmOL591YmLJCOmMO3Dp4ytnrlrE86LeNFtPd6FcbaqnmxLbwxeMb3jPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cgeAsXk1C2"&gt;
 Swift Student Challenge submissions are now open - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The Swift Student Challenge is here&amp;#33; Submissions are now open through February 28, and students from all over the world are invited to submit their app playgrounds.Learn more about the ChallengeKey things to know&#13;
 No prior experience is needed. The Challenge…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">The tipping point https://t.co/w4CuH9mwkJ</title>
-    <published>2026-02-06T15:12:43+00:00</published>
-    <updated>2026-02-06T15:12:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25912</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25912"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The tipping point &lt;a href="https://t.co/w4CuH9mwkJ" target="_blank" rel="noopener"&gt;https://t.co/w4CuH9mwkJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/w4CuH9mwkJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/s4viO-c0yhyy2PyQhPhMPoywm2PcMjf2n5Oamg7BQxWOD2L2hmdLmiwE6YTGi1y2jqaSILd6_kI0gH8vmfP2VLTsJa66zPtp3E4O8jptSJpT7J3g1n9ZZizwHQDgWfKYMewpfBzgos_9oQVbQW_DiuicCNXLNtW8-a7O9TCON0wVlaMbv0B4EmKBbLYeGYvPR9me-dZteFkLdi6qFh4R3-IHN-FP-ozOzzru08-ed5q5XBywGWjWQjM7pz28Sb_XHJ11dgIEY1a7d8eVB7WLEsdiKTRLDfhW73B7COKXcTjn2apnS-DFBewB-sWcAL_49pjmP5OwI16DSHRdwU9HGw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/w4CuH9mwkJ"&gt;
-The tipping point - Medium&lt;/a&gt;&lt;br&gt;The collective awakening to agentic programming&lt;/blockquote&gt;</content>
   </entry>
 </feed>

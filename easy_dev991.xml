@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Aon3KSp5shY2pRmSMIyMnY4iriFIjXHlWabPixSSVqw8-zvTZFGqXrmJh9WupBNxh1cv1EFYwsN7K95BdBAxewvm5tTXi2YyJmpwfW6jDCPgYy2xVm1vf9dveL_5ECUJ2c8UwwWiVe8ivtvafy5Nf2sXIEkxKwD0Cq-wywf2bYSch7_isff0pq7i_I4EqY6co_9EMVXBnAGvxWtTNacTCtxfqDsxxXbt7tfxbK0GXOSIowvDPaW3-w0cwRI6TpNoTiLxVG73ww1q9VsC4iAWWSL6CXrrmNTBYkXBMcxs5VeQ0DxxsiX7ulRLpQIvXgALAF9kLRPgg2uvcC4qdsreWQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Aon3KSp5shY2pRmSMIyMnY4iriFIjXHlWabPixSSVqw8-zvTZFGqXrmJh9WupBNxh1cv1EFYwsN7K95BdBAxewvm5tTXi2YyJmpwfW6jDCPgYy2xVm1vf9dveL_5ECUJ2c8UwwWiVe8ivtvafy5Nf2sXIEkxKwD0Cq-wywf2bYSch7_isff0pq7i_I4EqY6co_9EMVXBnAGvxWtTNacTCtxfqDsxxXbt7tfxbK0GXOSIowvDPaW3-w0cwRI6TpNoTiLxVG73ww1q9VsC4iAWWSL6CXrrmNTBYkXBMcxs5VeQ0DxxsiX7ulRLpQIvXgALAF9kLRPgg2uvcC4qdsreWQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-09T05:03:33+00:00</updated>
+  <updated>2026-02-09T07:08:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;55% - правила (rules)&lt;/li&gt;&lt;li&gt;12% - команды (commands)&lt;/li&gt;&lt;li&gt;39% - навыки (skills)&lt;/li&gt;&lt;li&gt;27% - субагенты (subagents)&lt;/li&gt;&lt;li&gt;48% - mcp-серверы&lt;/li&gt;&lt;li&gt;12% - другое (напишу в комментариях)&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;53% - правила (rules)&lt;/li&gt;&lt;li&gt;12% - команды (commands)&lt;/li&gt;&lt;li&gt;38% - навыки (skills)&lt;/li&gt;&lt;li&gt;26% - субагенты (subagents)&lt;/li&gt;&lt;li&gt;50% - mcp-серверы&lt;/li&gt;&lt;li&gt;12% - другое (напишу в комментариях)&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#android #cursor #qwen&#13;
@@ -43,7 +43,7 @@
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;42% - При первом подключении в проект читаю инструкцию и делаю как там написано&lt;/li&gt;&lt;li&gt;36% - Если уже подключено в проекте, то не читаю, пока все работает, а в случае проблем иду читать&lt;/li&gt;&lt;li&gt;5% - Не читаю до последнего, а потом оказывается, что можно удалить половину кода для интеграции либы&lt;/li&gt;&lt;li&gt;13% - Вообще не читаю, закидываю все в LLM и получаю нужный код&lt;/li&gt;&lt;li&gt;0% - Не доводилось работать с чужими библиотеками, а по своим документацию не читаю (знаю наизусть)&lt;/li&gt;&lt;li&gt;4% - Что такое библиотека в мобильной разработке?&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Как часто вы читаете документацию по использованию какой-то библиотеки в мобильной разработке при работе с ней?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;43% - При первом подключении в проект читаю инструкцию и делаю как там написано&lt;/li&gt;&lt;li&gt;36% - Если уже подключено в проекте, то не читаю, пока все работает, а в случае проблем иду читать&lt;/li&gt;&lt;li&gt;5% - Не читаю до последнего, а потом оказывается, что можно удалить половину кода для интеграции либы&lt;/li&gt;&lt;li&gt;13% - Вообще не читаю, закидываю все в LLM и получаю нужный код&lt;/li&gt;&lt;li&gt;0% - Не доводилось работать с чужими библиотеками, а по своим документацию не читаю (знаю наизусть)&lt;/li&gt;&lt;li&gt;4% - Что такое библиотека в мобильной разработке?&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Детальнее рассказал про планирование, сложности и...</title>
