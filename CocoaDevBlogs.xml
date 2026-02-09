@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/DKVGa5dE_20zwwAUKY-PiTxnT-7PwyFX9mVZmEl6rPGGw5dPZTPfX2D8sQj058YOHxWom3prBQS_Qx4ffpn5_c-hA4Tc6a2Pyo6NBv7unx02LnUvbI4vSxXwJ_Hl3TOh_0VA-BSAPtPtNhJ44nsVp_jad_8Q_OlrdUmhypFe0CKgK7GianZbjPPx3_7E9timkEX0f4pOak___kXDhVy6Vxms-cDU_U3roSbR0dlENH00_8CGU8I7BcjMQwf1vUsYsnYfjGmxYLnd1ttTjw_LYa-HHl3jtxYYvl7BVFpWOsvfnRGPADMpn93D1nk1UuEQFP-z8ufubJRJFzBhjfFWjg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/DKVGa5dE_20zwwAUKY-PiTxnT-7PwyFX9mVZmEl6rPGGw5dPZTPfX2D8sQj058YOHxWom3prBQS_Qx4ffpn5_c-hA4Tc6a2Pyo6NBv7unx02LnUvbI4vSxXwJ_Hl3TOh_0VA-BSAPtPtNhJ44nsVp_jad_8Q_OlrdUmhypFe0CKgK7GianZbjPPx3_7E9timkEX0f4pOak___kXDhVy6Vxms-cDU_U3roSbR0dlENH00_8CGU8I7BcjMQwf1vUsYsnYfjGmxYLnd1ttTjw_LYa-HHl3jtxYYvl7BVFpWOsvfnRGPADMpn93D1nk1UuEQFP-z8ufubJRJFzBhjfFWjg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-09T10:10:46+00:00</updated>
+  <updated>2026-02-09T11:48:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The importance of human touch in AI-driven development https://t.co/X9TjR3kydy</title>
+    <published>2026-02-09T11:42:35+00:00</published>
+    <updated>2026-02-09T11:42:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25933</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25933"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The importance of human touch in AI-driven development &lt;a href="https://t.co/X9TjR3kydy" target="_blank" rel="noopener"&gt;https://t.co/X9TjR3kydy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;&lt;img src="https://cdn4.telesco.pe/file/im5xGsWXXWvKIbUtsXPNTPJvcqVVXDh6hvldzFC5jR36c3qms5ptLVHCrlUMBQPuFe5GEVQQ5_xQtan2qHCXJszWLp7clWkLBc3UA1RcfT8w06K9SFpbTkSTDGXmLy1XIOehjp2KYH5GVFOK74II5nWoG-1nM_u8fMqKAPNAJPzrC2y-cF-LEsM-mS948B9ODrrghhwVGP0Dx_f5y9mf7WsJznSmEzLSTpdeyCkoYh_bT70HxgRYUvuGzNRBJ0vE7UGDvMAzvBWg1lZyvoKS6vE4RGqC02VvDFluQ5kOQMKABKRB3rZT8t2J8ahHJlU8NUbc1lIs1apfEYEYk8jhAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;
+The importance of human touch in AI-driven development – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;AI is changing how we build apps. That’s not news. What might be less obvious is how this shift is forcing us to think differently about what actually matters in development. In this post…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux https://t.co/MPGu1zM1iS</title>
     <published>2026-02-09T06:52:33+00:00</published>
@@ -237,18 +249,5 @@ GitHub - whoeevee/EeveeSpotifyReborn: A tweak to enhance Spotify experience - Gi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Updated App Review Guidelines now available &lt;a href="https://t.co/38k5COOO5T" target="_blank" rel="noopener"&gt;https://t.co/38k5COOO5T&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/38k5COOO5T"&gt;&lt;img src="https://cdn4.telesco.pe/file/ARzxdCRcQqS_31ALp35cBVQKpsJLckmTFUzyvytK7gRT9vlp11O6LR9GEGFk51TtcxrmnblobD1D2hvNb8sCPQwtyIKlg4kaaUbEE_1B97Wa7OHDH698_GWzvbaYV2O3SFSo3OjcpwbsRrSd-p0lnAUuzQHr7vTyEf5_oT3y3LsiJD2qdahNlYdDK_bX-Foin8H8qkH_ZSpVIZwRYg57leq6AMWS1-ymM9YCfRdr68FFrVjSEcdJibVxm4nVqCVgvCENRLP3WehsZZCS_SpcAK_8YxWmR7PxSKZ3p--CfRxaYLL_x6exDV0HHoS8gAVUjQtCBf1wunNd7uxkzQIRHg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/38k5COOO5T"&gt;
 Updated App Review Guidelines now available - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The App Review Guidelines have been revised to clarify that apps with random or anonymous chat are subject to the 1.2 User-Generated Content guideline.Translations of the guidelines will be available on Apple&amp;nbsp;Developer website within one month.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Swift Student Challenge submissions are now open https://t.co/cgeAsXk1C2</title>
-    <published>2026-02-06T16:47:33+00:00</published>
-    <updated>2026-02-06T16:47:33+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25913</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25913"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift Student Challenge submissions are now open &lt;a href="https://t.co/cgeAsXk1C2" target="_blank" rel="noopener"&gt;https://t.co/cgeAsXk1C2&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cgeAsXk1C2"&gt;&lt;img src="https://cdn4.telesco.pe/file/Hq20zArH-pYXcn4Beponj1zEgaPFFawUrFeSKd7zn5cQTWCcK461nqxKHXQ3TBXsuCa2msp3gPJJe7hAXjwS7NALO8FtZAKOr8lFOb94nwszXe-VW92XrudfCb9lGODAbjdkohtKee8yDh7jqOksD0pWW7hbEkjQziADn7xWuyIxz__4cHFiCH-zc3CsCI7qWzrUubqq7pMaausO5dAcP16rWXoYNNYrQ4CtY2e7jYbVC77u5za23wVMkQ28tPfutaUzkEDetTRexj0wzKgDWRt0ihdUvOlmOL591YmLJCOmMO3Dp4ytnrlrE86LeNFtPd6FcbaqnmxLbwxeMb3jPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cgeAsXk1C2"&gt;
-Swift Student Challenge submissions are now open - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The Swift Student Challenge is here&amp;#33; Submissions are now open through February 28, and students from all over the world are invited to submit their app playgrounds.Learn more about the ChallengeKey things to know&#13;
-No prior experience is needed. The Challenge…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
