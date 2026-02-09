@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/EbqjLIRmE_1MOTGPqa3eT_UwezOFQRw2depDU3u-W6V92SC-jqISnLzHyJgs5yWTQ032ND6dBVR_73whhs3iDPVem69xNZ7Noh7TXMmqIDqYgwSKxUnWd4uLQ4QKlhcB2-57ci76h_fXx0LE1n9eAm2lSp-V8MZSGlST3oZrNDuaTCTQnS7MdFSvfQqPHnqD-Uvij8lHfCJU30N5r8ESFS4wi1wRo0mCFS8th7USut42n4XNWLI7GNs3MI73TaloOwRHnwujcbir3e-yva5_8x_2ceVbX9Vcqv4dgBfJ5hCBBmufCzJJKFG-TeBiOXXc66eBsG4vnDh9OMSAkLtTZQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/EbqjLIRmE_1MOTGPqa3eT_UwezOFQRw2depDU3u-W6V92SC-jqISnLzHyJgs5yWTQ032ND6dBVR_73whhs3iDPVem69xNZ7Noh7TXMmqIDqYgwSKxUnWd4uLQ4QKlhcB2-57ci76h_fXx0LE1n9eAm2lSp-V8MZSGlST3oZrNDuaTCTQnS7MdFSvfQqPHnqD-Uvij8lHfCJU30N5r8ESFS4wi1wRo0mCFS8th7USut42n4XNWLI7GNs3MI73TaloOwRHnwujcbir3e-yva5_8x_2ceVbX9Vcqv4dgBfJ5hCBBmufCzJJKFG-TeBiOXXc66eBsG4vnDh9OMSAkLtTZQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-02-09T11:48:40+00:00</updated>
+  <updated>2026-02-09T13:17:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -165,7 +165,7 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/techbybird/2086"&gt;&lt;img src="https://cdn4.telesco.pe/file/WzJaU4LabFDGfsEIHB3-laWuXD6ls47hofMtOD7xc49IRvIvLOMgI9Xa1hiCQb3NxbS0UY2NB9JSxem-bywqjE5IG1V7WUB3YjqHBg6ve_VuwC5n-h5YTDrB-TEmOAtpeRTdUftHHslCIxt0i8tEpBy_vKjbGp9z1unvlOZqDV1wK4T8XlRjvdXs9qZ659TnHyuZSVPXsuwrvZU9xR0OxV6OpPXDKByT5-9gWqGvxDpre2ALZug4uTYbYlSj1U6CMfvBccO4ybSYvaRFQp6XDct3LzcSGdcWlz3aZZEbUMN2_w4v_BbsBztB9PYspAxj-7KX32BTtSkGj3L5omhn_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Добавил &lt;/b&gt;&lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;в наш бот&lt;/b&gt;&lt;/a&gt;&lt;b&gt; GPT-5.1&lt;/b&gt;. Open AI пишут что она богиня кодинга&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Переключится на новую модель по команде &lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;/models&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/techbybird/2086"&gt;&lt;img src="https://cdn4.telesco.pe/file/Oc33IfCRQeZLI5yv7sj8fgWPgWkeXPMU9WdDDlRbkjEQy-m0mvtGJIMfzkVg8OFewFV97kzHW-U4PmxiSg1W7PP-WwZy0ewTxA6cfxNyjBppo10zDivVERoGYgj-PcqlRHA_5nB_9Zgx4_T-0iOVug1TAsZ5P7ha6oxQw8RemEV_5Zd4xQkjYsD1EE9hX3DGlaVmzDxSkFsKv3OiRB44qFsSvh_2flVbBRfFSOoxrfTGGsYuqtkRV-CcJruXBaSPvqQJjAL0_uyXomi6qG8Q82O5A3XGZW0-T1qFahuvMDJUBIoye6BAurP06OEfXDLKbam3L4A5TkowJpl03t4T0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Добавил &lt;/b&gt;&lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;в наш бот&lt;/b&gt;&lt;/a&gt;&lt;b&gt; GPT-5.1&lt;/b&gt;. Open AI пишут что она богиня кодинга&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Переключится на новую модель по команде &lt;a href="https://t.me/chatgptatebot" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;/models&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">❌ Скидки на обеды с доставкой&#13;
