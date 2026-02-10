@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-10T17:05:29+00:00</updated>
+  <updated>2026-02-10T19:09:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Agentic coding in Xcode https://t.co/qflXBiuA6s</title>
+    <published>2026-02-10T18:32:42+00:00</published>
+    <updated>2026-02-10T18:32:42+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25936</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25936"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic coding in Xcode &lt;a href="https://t.co/qflXBiuA6s" target="_blank" rel="noopener"&gt;https://t.co/qflXBiuA6s&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qflXBiuA6s"&gt;&lt;img src="https://cdn4.telesco.pe/file/GkkHejBLQmF8E0rI-KcZQ7oF37HKyWkIjYBVTBWiwxb8d1xmDo6ySnWpnDhLjXN_W7gXqpIRdhvduAemqwz2mSyyykrkTED8A4m5BUUwdbxePSJMhtFhiwpzwMTaRtfAKMfX8ZvbSotvvvlVjwkAOy9haoNCh5CDe_krZBCxMwC0lagKF5KVM6wBUDrgtZ_Sp7Jlmz7KMahq4iYOCnn_hhNfJ7oZ-_U1a_rgq01DlOHilSYvuBZ6b1gyA6Yuz9HzMw17CxnkPPw4g6NpKp0Srr0JyMM-dEH4rdwMjgJ_8a1AdLeGCKzb-Chqzm4BzNFY_p7aF-Z0eszaWepvYuaTpg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qflXBiuA6s"&gt;
+Agentic coding in Xcode - Swift with Majid&lt;/a&gt;&lt;br&gt;Apple has finally released Xcode 26.3, which now supports agentic coding. In this article, I’ll guide you through configuring Xcode 26.3 and utilizing the latest best practices when using agentic tools for building apps on Apple platforms.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Agentic AI Engineering Workflows for iOS in 2026 https://t.co/ab0sZCGpMg</title>
     <published>2026-02-09T16:12:27+00:00</published>
@@ -138,7 +150,7 @@ GitHub - git-up/GitUp: The Git interface you&amp;#39;ve been missing all your li
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Multi-agent coding with Antigravity | Sofia S4E5 &lt;a href="https://t.co/bp10egkSSw" target="_blank" rel="noopener"&gt;https://t.co/bp10egkSSw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;&lt;img src="https://cdn4.telesco.pe/file/gRCSsrubrA2i5RbBX8NE5xH5du4A2DZPNrPH7xnXgetJyhoYKJfKlD8SaF461TmMn9lltLjYbSxi6U86c6Dxghwl0xjmQn46oEe5OWiTvfPGf1IpuWx5506uDDf80cUXiELe-ccwyoYbEuEC-T2NrmWP5mnR_b2IfX66DZ4zSqNcQX6MRczH8UsmC1qwfnu5m4l00t3r-1ps9e8xxMadTjoWrlmu4AbDLQp3WeqZzpMU9gn1raoiQr1nrZ1o0PmUX9a5jBBvWV6pTOqwg7a3V2x4mjl76yLY8hcen8Q-VH3WPYL4yNl6YcCsG1GBXrEEM4vdbPHmZTcGMaITqoMT7w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Multi-agent coding with Antigravity | Sofia S4E5 &lt;a href="https://t.co/bp10egkSSw" target="_blank" rel="noopener"&gt;https://t.co/bp10egkSSw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;&lt;img src="https://cdn4.telesco.pe/file/Mb7rtGjXunnVfaszCp4JG6aCXHYPL-aYJJdt1FGH8WSMoINnvrc39twTvFkc6T220WLWc3kyMVwKpOQMsMLb1oz4jcW83ui0qvoi7wO5gQ1lKI7xBXGNWMWts3QclP72UKIgNMa0_0MnM9fPWp24YwhlNs3VCo3dIDii_a_1Z9Ix6FhKnNbFPra-QFw12a3J4_qNH_Yln3CWkoU9wpIY2xPPxG70nDmwarslbNd0ywNr32yZgbHIDvUEsTwBQW5UPuGPIhMQ5TghHQ30_bwrzm4OsHWrX72wDqPUT35ERFCzwtrJXrVH5DlpwDVBXxrRpPaRNASOTwXL71DPujMDtA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;
 Multi-agent coding with Antigravity | Sofia S4E5 - YouTube&lt;/a&gt;&lt;br&gt;In this livestream, I’m going to implement several features in parallel using Antigravity’s agent manager. We&amp;#39;ll also make use of git worktrees&amp;#33;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +249,5 @@ GitHub - jverdi/JVFloatLabeledTextField: UITextField subclass with floating labe
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;img src="https://cdn4.telesco.pe/file/RBfIg8og-hy6eDR-nSndtmlJ3x_rHhiiaJSi7gpM-J58G5KHQRJH8hlpb2IUgOyjSQrrXJvmcw_lT8OCK--tLNNsHsK__zdulGamM8w2rTpyO4-bOE_5NgGE-C_1_EDOZBEjmZ9ssg_99Jy1gIeLHeoDeHw5NSjdET2EomFol45hwTIsu7NPaQVZdqgI1_AQrLLcO9rOIqvemqJ2S_1gXCvWh000b1lFPpeX325riqnIJfHxilKA4TrM81wKqrymqCjnLlDD_JLEjjyaGGsI5lWJO2rabL6cCOH7HlOAcBQK1bK8d1It0cKjZ0d0XvZX37iAPa3_URr6rxksdAwjNQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
 GitHub - jdg/MBProgressHUD: MBProgressHUD + Customizations - GitHub&lt;/a&gt;&lt;br&gt;MBProgressHUD + Customizations. Contribute to jdg/MBProgressHUD development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : coteditor/CotEditor https://t.co/2Yf437J7bx</title>
-    <published>2026-02-07T02:07:47+00:00</published>
-    <updated>2026-02-07T02:07:47+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25916</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25916"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : coteditor/CotEditor &lt;a href="https://t.co/2Yf437J7bx" target="_blank" rel="noopener"&gt;https://t.co/2Yf437J7bx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;&lt;img src="https://cdn4.telesco.pe/file/Uty21v8yPIixjKyE_O_1LNQ5K0PWtt5U6ABVAvZCtKcxiJLHl9FIgnxslCsUzHe9rdKUl8p-cDXM_ro-0YZliqBaNocoj1UQM9m5ujghbJuMrjmnsr-dJ9NU4xqKY7NTEbxORhg58ldDXXFWoNUasRzZbHVnCJEcBYGfBemX7Dj00PHlESzZ5R_HFlvyJ0jXXBrV4UiQpLbYdDC_FwRmFlwI54NsmQiFwltOdkQ50xD-g_NmjsAH4sMvVQF_wmE2nGeOHZ82xdOC6S91-0_DWTLgB6d34Iv6qix-KHJZxBUsdShAFQU4Fa8jaHbIrzbrNqMxWJIhfwvILKI1E53a0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2Yf437J7bx"&gt;
-GitHub - coteditor/CotEditor: Lightweight Plain-Text Editor for macOS - GitHub&lt;/a&gt;&lt;br&gt;Lightweight Plain-Text Editor for macOS. Contribute to coteditor/CotEditor development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
