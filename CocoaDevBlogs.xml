@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-10T11:53:14+00:00</updated>
+  <updated>2026-02-10T13:21:09+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -31,7 +31,7 @@ Agentic AI Engineering Workflows for iOS in 2026 - Jacobstechtavern&lt;/a&gt;&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use SwiftUI Coordinators to communicate with UIKit &lt;a href="https://t.co/MG73uJSClm" target="_blank" rel="noopener"&gt;https://t.co/MG73uJSClm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MG73uJSClm"&gt;&lt;img src="https://cdn4.telesco.pe/file/XOi1G37GNVfY05RoaoO8v2Xf5bL_Mg28YulrNVD-tV2Ql3o1ZF2yjtpAP1WSAbSy1TDnsSodi8FCRhlYRWJ9kF8FFjYGlJIhXqCj9wyvmZmLhqYtR-ZrQ39zTYKlyugzTFgCwwYPuzzAf-LELmwe2CPn1BSJGmql9Sl72oKbey50spbJh4_dusSBLvI8l0ATPxAMiZJqieRKBDTTZ6yQXlzo9TUpl2g7saXpJ-gOdNEBwUwq0jrG7wRx_rt5lJK4_29jTqG24X5bBNN6qS6k01X4xhWdKCvASZ17y1RHqws4wJS8an0ZPt0nbpcgtvhv9u-iLOxP4eG2OnZReZfPNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MG73uJSClm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use SwiftUI Coordinators to communicate with UIKit &lt;a href="https://t.co/MG73uJSClm" target="_blank" rel="noopener"&gt;https://t.co/MG73uJSClm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/MG73uJSClm"&gt;&lt;img src="https://cdn4.telesco.pe/file/apd-jWlhMictXCa7ZqdTW9853RCMqTUBgdX0WaMXhkxG13UjDQ0lHy88ApEYqGU0mSa6nHN1_eDaoFfL5SinM1UN7yFvq94aSUMfO3tGEUbuuWVAE9PXm5j1hrqAKf4SCGjPDh6sFQiKEW2c7lstFgl6pHrYPqoxVVzvwB0FulduV_E5-13tVo2aXYQD_uN4xVhQBFF9FXgZnRBPDXthLsCrV3pIGY9oKEF3brMvwCwTMk5uZaFqKpLL7LSyfInTlA1vHbtk1ycSI2O7MNUoN7QKwm1gaE_KNdYhPdk8VHq3gEvhy8ujP6L79d1TEbj712Br5GKqRswMDn44hUp_Tw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/MG73uJSClm"&gt;
 How to use SwiftUI Coordinators to communicate with UIKit - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how to use SwiftUI coordinators to bridge UIKit views, handle delegates, and send events back to SwiftUI when integrating UIKit components.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
