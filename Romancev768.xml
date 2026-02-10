@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/iK-fDHUM7qgyeQsVNPIIRVgZCdOqJ5OTJrc4PiRMkxZH4WRAQTcIQkwXdkjj3P94xDP7hZWQLnSRKK93UCTlMY70igjd296loZAzvbu0hlLZhc_lYQnlYbMUvJWRVD_EWwx1JdB_31WTJdKkj5eDYK9PFlLYTqgpQ9EKNqhTgDPrNM9B2zYQRQ_IQ2Zsa_s0c505YC-y0yiJrltLKfmthhBEAkoScw5bHAJpPJi6NohfWE0HRpfkgQjGnwtYombQf9ify1M7XVio6rdy4iPVeLpin-QzlfX7pduHp1JjzFURuIs2jIEAGxStpIys-xEKDceJPO87EFzBs4PEvsfukg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/iK-fDHUM7qgyeQsVNPIIRVgZCdOqJ5OTJrc4PiRMkxZH4WRAQTcIQkwXdkjj3P94xDP7hZWQLnSRKK93UCTlMY70igjd296loZAzvbu0hlLZhc_lYQnlYbMUvJWRVD_EWwx1JdB_31WTJdKkj5eDYK9PFlLYTqgpQ9EKNqhTgDPrNM9B2zYQRQ_IQ2Zsa_s0c505YC-y0yiJrltLKfmthhBEAkoScw5bHAJpPJi6NohfWE0HRpfkgQjGnwtYombQf9ify1M7XVio6rdy4iPVeLpin-QzlfX7pduHp1JjzFURuIs2jIEAGxStpIys-xEKDceJPO87EFzBs4PEvsfukg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768</id>
-  <updated>2026-02-10T09:00:07+00:00</updated>
+  <updated>2026-02-10T10:08:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">@Romancev768 posted a video</title>
+    <published>2026-02-10T09:01:31+00:00</published>
+    <updated>2026-02-10T09:01:31+00:00</updated>
+    <id>https://t.me/Romancev768/15542</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15542"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">     &lt;div class="message_media_not_supported"&gt;       &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;       &lt;a href="https://t.me/Romancev768/15542" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;     &lt;/div&gt;   &lt;video controls="" poster="https://cdn4.telesco.pe/file/UaZJEgph3frsLOScvLtsEOuT72D11js5RJ2msPqOEf8pZbLdcSI-Dguquu77oJcRqB4K6rZG8Cju36KB_5jPVM1E5ZhZm4DEYls0nG5kqQxMg9YdT7pOmA_csQdOqXaAjAI3cbTDDRgtxP8-3BX3oh9ehX_NveVDWEoZndsmO1EpbPGSkpU0SHhpwH0EIKWSi5riKaisdEtfX6DNTR4Ep8amdISxFUjK9DbNOslxNG6Z4V_u2JOCuRRycCcHdxq82dup5faD6Ofr7hr3MP1oKgU-yCagJXhFuNESoR5lbe7uozDm8VOnO9KSmOkqgmFLjy6jETELeRlBQ0D4LEO_aw" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/e5dd468b7f.mp4?token=MkvUz6Q3Y5MHepBGUR30Qj_jbmucDd0IDT2KHyykZ8DpKtsZRwYuxn0aqh7BH6XHvLFS_5yWUvipafSsDyYRCHLKYKZIEp267mA6oqp6MT0CYwnYC2zLZSrbf2w62XgKb5oWTwc_hy99YelYJOiiRnpWIOZZ0bixkf-I9EbfZihA1U_RigVMi1nCMJ2ikpa5lxyvmCqnlyDQFLy199f5XlT7QwHZUAOk8GRpQioccXCW2cLicioBshbjMLyEO7iRAm8CGIyAiIWmcbCRAwdMAH01WWcNaGkd80E188wjD5aUn0u88yOY0Wv_-iA4mXX7oUrFs_zp7JYvlHSvfukxZA" type="video/mp4"&gt;
+&lt;/video&gt;</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/UaZJEgph3frsLOScvLtsEOuT72D11js5RJ2msPqOEf8pZbLdcSI-Dguquu77oJcRqB4K6rZG8Cju36KB_5jPVM1E5ZhZm4DEYls0nG5kqQxMg9YdT7pOmA_csQdOqXaAjAI3cbTDDRgtxP8-3BX3oh9ehX_NveVDWEoZndsmO1EpbPGSkpU0SHhpwH0EIKWSi5riKaisdEtfX6DNTR4Ep8amdISxFUjK9DbNOslxNG6Z4V_u2JOCuRRycCcHdxq82dup5faD6Ofr7hr3MP1oKgU-yCagJXhFuNESoR5lbe7uozDm8VOnO9KSmOkqgmFLjy6jETELeRlBQ0D4LEO_aw"/>
+  </entry>
   <entry>
     <title type="html">Айфонизация февраль&#13;
 &#13;
