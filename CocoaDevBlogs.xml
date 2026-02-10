@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/dt0QidqAfde1KM3BLZqDt_4WCtn1IZMfGDiHarTJmtibyMXEaMFLlYJRO5QuiqT3i_9w7VrlN0Vf84FK82hpfqMpi6ZCy5yCMSUO1pxHzWDnAsYsrxwYhyuRvDmccEdOvfGGT6Kv1r5zbCwAc7JvXpjMY53HToGN_cUxjD6-cSHKnoWb2SAlSNM1WqmaV2q3LdYdbzPMP9gJt16AqKhJvwtf1J9Qm97qK1-FekJh96F4B4QgxEuajHlRxwLy9G2RaVDz2VVc72lVETDwPW_uZFe8foaKlMHd9jt7GKFvlxNYnJzoCN5BTNdFeEld-cfRQO6I7pdkQZmu-5QSZpDGVg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-10T10:07:43+00:00</updated>
+  <updated>2026-02-10T11:53:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -43,7 +43,7 @@ How to use SwiftUI Coordinators to communicate with UIKit - Tanaschita&lt;/a&gt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The importance of human touch in AI-driven development &lt;a href="https://t.co/X9TjR3kydy" target="_blank" rel="noopener"&gt;https://t.co/X9TjR3kydy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;&lt;img src="https://cdn4.telesco.pe/file/im5xGsWXXWvKIbUtsXPNTPJvcqVVXDh6hvldzFC5jR36c3qms5ptLVHCrlUMBQPuFe5GEVQQ5_xQtan2qHCXJszWLp7clWkLBc3UA1RcfT8w06K9SFpbTkSTDGXmLy1XIOehjp2KYH5GVFOK74II5nWoG-1nM_u8fMqKAPNAJPzrC2y-cF-LEsM-mS948B9ODrrghhwVGP0Dx_f5y9mf7WsJznSmEzLSTpdeyCkoYh_bT70HxgRYUvuGzNRBJ0vE7UGDvMAzvBWg1lZyvoKS6vE4RGqC02VvDFluQ5kOQMKABKRB3rZT8t2J8ahHJlU8NUbc1lIs1apfEYEYk8jhAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The importance of human touch in AI-driven development &lt;a href="https://t.co/X9TjR3kydy" target="_blank" rel="noopener"&gt;https://t.co/X9TjR3kydy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;&lt;img src="https://cdn4.telesco.pe/file/Igp2P3QmpJBLCKRHVKKzbTLCsmI1sV1ltKvF3x_EzmZB1YUq_vUcr6KIEFS2ejgx3xhFPNOKWS2DoWsGXc4hvdEDhgnv264lXCaN2xd259IgSonNC0rAKm66J99h_Xuzs3IUVt8sY2soDugWQCFn-IMVC6ML6UfmcFDCd3gsb7sInFyEmedbKM984zfdL6ynL1W3Zn-dTdgXMeY2ZoVZ3fmGP_8mi2i0UMARYhAa6ftbepn7uZrJs80Mr8ipPr0DIyyFO-Qoqko33ecdvlBGxPotcE_xavqG7Hvgapxw-wFxCnV_bwvx_4p8f01RQOcLoq3QVJWpALzsBCZ8TT_RMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/X9TjR3kydy"&gt;
 The importance of human touch in AI-driven development – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;AI is changing how we build apps. That’s not news. What might be less obvious is how this shift is forcing us to think differently about what actually matters in development. In this post…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
