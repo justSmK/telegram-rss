@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/rspDjCKAnHOLN-0my8qSCoEh67nyqajf7UuLc2-lAocxB_3LH5b8GcaKKEGE0ZPe0wCYrLYF8yA_kTKidz2cUatvYAdxswQ6oLS9pJaaOWTR0bRTjO-wp6jpMRqFxWFZTuyaBDTcnBvnotueN0Bi5pQfT8T4jxik53veNPIJ1QFVIxMsRbQ2m2uu6Mu3xuC0CjoI5pPiIXgf4raop5ZSfcUzU2HBZRXMGVG26__kbTjpLOCBGoAn2B4oF2gXy8QwM5lnbOkCcnMT0obfqp8dg0o3EOMrwGcW-xhalhlhv84kfVhKyyTHdCWRTNvPH_eR48inI4eWlPfN-mnBHW2fdQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rspDjCKAnHOLN-0my8qSCoEh67nyqajf7UuLc2-lAocxB_3LH5b8GcaKKEGE0ZPe0wCYrLYF8yA_kTKidz2cUatvYAdxswQ6oLS9pJaaOWTR0bRTjO-wp6jpMRqFxWFZTuyaBDTcnBvnotueN0Bi5pQfT8T4jxik53veNPIJ1QFVIxMsRbQ2m2uu6Mu3xuC0CjoI5pPiIXgf4raop5ZSfcUzU2HBZRXMGVG26__kbTjpLOCBGoAn2B4oF2gXy8QwM5lnbOkCcnMT0obfqp8dg0o3EOMrwGcW-xhalhlhv84kfVhKyyTHdCWRTNvPH_eR48inI4eWlPfN-mnBHW2fdQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-11T16:07:46+00:00</updated>
+  <updated>2026-02-11T17:58:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -174,7 +174,7 @@ GitHub - git-up/GitUp: The Git interface you&amp;#39;ve been missing all your li
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Multi-agent coding with Antigravity | Sofia S4E5 &lt;a href="https://t.co/bp10egkSSw" target="_blank" rel="noopener"&gt;https://t.co/bp10egkSSw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;&lt;img src="https://cdn4.telesco.pe/file/Mb7rtGjXunnVfaszCp4JG6aCXHYPL-aYJJdt1FGH8WSMoINnvrc39twTvFkc6T220WLWc3kyMVwKpOQMsMLb1oz4jcW83ui0qvoi7wO5gQ1lKI7xBXGNWMWts3QclP72UKIgNMa0_0MnM9fPWp24YwhlNs3VCo3dIDii_a_1Z9Ix6FhKnNbFPra-QFw12a3J4_qNH_Yln3CWkoU9wpIY2xPPxG70nDmwarslbNd0ywNr32yZgbHIDvUEsTwBQW5UPuGPIhMQ5TghHQ30_bwrzm4OsHWrX72wDqPUT35ERFCzwtrJXrVH5DlpwDVBXxrRpPaRNASOTwXL71DPujMDtA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Multi-agent coding with Antigravity | Sofia S4E5 &lt;a href="https://t.co/bp10egkSSw" target="_blank" rel="noopener"&gt;https://t.co/bp10egkSSw&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;&lt;img src="https://cdn4.telesco.pe/file/HHFG7fzezPUdbrRtuXxp0HJL4SDe8kQnOUx_HvlNJfV3oKo9pCsSKUL36Bv_Fl5TeBIIPcsXcb1ayNNTb-7-QEiJhO4MzRsdHx9sZnats9ZojE8HujNo8Bkr2QUVO7xWPiDJYh0qTG0ERObLxQ2KE6rJQ6wkR9RHLBFK9zCypLJ-sHQP367fUVU_P8Dp9dGTywC6ye2Ar7E79khrHhZKGQbxO4C8SM8swLnx4aS0GGCyRdeq27ENdq52nv-iB2DGtmJ3r_wMUYgCy2S5VdJj4oilhAOGo-xG_FVDYsHwlaqP-CQk32lck5onOUK24kyarmWvTnKBFnHEhPI6nrZI0w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bp10egkSSw"&gt;
 Multi-agent coding with Antigravity | Sofia S4E5 - YouTube&lt;/a&gt;&lt;br&gt;In this livestream, I’m going to implement several features in parallel using Antigravity’s agent manager. We&amp;#39;ll also make use of git worktrees&amp;#33;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
