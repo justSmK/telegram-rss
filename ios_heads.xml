@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/eUlOB2NUmTcKYROaVVqi_5Ck8eyWruI1B1BTqhDG1xb0wUlMQtLsG3TWAq4VOxMdJJ8HihOB1LWSv6RZKIo_ipGF8LTvC70WUzXCbcfEukr3Ba_KcXCzNWHMui51MaIGC4Pj5_2baNy0KswGEVR4zHwV5j_w2hnvXqX1o4l7UflP07F206VtSVK7zfE5P8ocwbIwwDcrNYW-astKCt4FguLITNDXUgRK0raGohK2Fm5rTircJZUfkzYbGXSNzK5tPFeBpscV0muRnfnAKXZtIYhztHg7wiLRWlv0U2BqtlAyyA47y7ouY2XQYwqT4OL0og6pUbt3XFieKwpxbe7zmg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/eUlOB2NUmTcKYROaVVqi_5Ck8eyWruI1B1BTqhDG1xb0wUlMQtLsG3TWAq4VOxMdJJ8HihOB1LWSv6RZKIo_ipGF8LTvC70WUzXCbcfEukr3Ba_KcXCzNWHMui51MaIGC4Pj5_2baNy0KswGEVR4zHwV5j_w2hnvXqX1o4l7UflP07F206VtSVK7zfE5P8ocwbIwwDcrNYW-astKCt4FguLITNDXUgRK0raGohK2Fm5rTircJZUfkzYbGXSNzK5tPFeBpscV0muRnfnAKXZtIYhztHg7wiLRWlv0U2BqtlAyyA47y7ouY2XQYwqT4OL0og6pUbt3XFieKwpxbe7zmg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-11T10:57:26+00:00</updated>
+  <updated>2026-02-11T11:51:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Кейс, конечно, очень специфичный, но и материалов...</title>
+    <published>2026-02-11T11:13:01+00:00</published>
+    <updated>2026-02-11T11:13:01+00:00</updated>
+    <id>https://t.me/ios_heads/1108</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1108"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кейс, конечно, очень специфичный, но и материалов подобных крайне мало, поэтому поделиться нужно&amp;#33;&lt;br/&gt;&lt;br/&gt;Если ты иногда используешь C-либы (crypto, sqlite, что угодно) и каждый раз страдаешь от “Си-вайба” в Swift — вот гайд, как сделать API по-свифтовски без переписывания библиотеки: labels, методы, enum’ы и даже ARC поверх refcount.&lt;br/&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/g204EUEFFbsaph3w5-J-1LU2b4gZKed_Pe7GtXZEjuy-bq2Tj99MbG4d0h7xsW2yL54Cj-OH5UwcMpPo6_R6Zv_CEE0Bl_ljKExhBjquVCxSXVxhxOd8cS3CqpZLsymJGnzgXhtm7PirCt430BLj4bKjIMYdZgk6rwhP7So_Piz_1MStPIpuePBgPOkHuzltyMfVe-L89kQCYQ3prvHklAQOBJibPM6_8NzseXkGRBrh4SWKCGObTYVjRG1R4v0fXXN1uW39d_ZA1weYo9YYjLaoGxdmO8K8vWQMn6Lo6hTLeFq2KmcEEKAS-tBEDxPbI6Ke6OQr3R-XZJlsvOIgEA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/"&gt;
+Improving the usability of C libraries in Swift - Swift.org&lt;/a&gt;&lt;br&gt;There are many interesting, useful, and fun C libraries in the software ecosystem. While one could go and rewrite these libraries in Swift, usually there is no need, because Swift provides direct interoperability with C. With a little setup, you can directly…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Если ты уже пишешь с агентами (Cursor/Claude) — вот способ...</title>
     <published>2026-02-10T11:10:48+00:00</published>
@@ -19,7 +31,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если ты уже пишешь с агентами (Cursor/Claude) — вот способ перестать чинить одни и те же SwiftUI-косяки по кругу: автор вынес “правила хорошего SwiftUI” в переиспользуемый skill, который агент реально читает. Плюс внутри — список конкретных anti-patterns (scroll, state, performance), которые обычно всплывают только в проде.&lt;br/&gt;Материал не большой, но полезный&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;&lt;img src="https://cdn4.telesco.pe/file/pH0eITCqM0ZQW3r6CsjGcF2O5ru8QG-JMwFh2BOijw9GF5JlmNXa8BUebYXIvUvhUZng-QkmK3bTNSausQVdnmhzwhTxZMhDympCjjrrAPijprpr0smSYVYusjp4149CIQW9WIbEAj3eHUbtg66qbl2N0JjEBdgvvhrkEUFG1Zmo0nEjhmU7uJPJqv3UU8bBqR9yyeSVpZ1UMNpjS2bzi1kXSqskjx0xj_bg9Ou_1ovGu8Env7Ue46OssxvgCfnf1_lC9ZJvyVVzHuc3l1rOUa9PBpxcy2aQPyyzsiuXRmuDer-dPZ6I3g4p2ncOkn0hoVLnq4QVCLbx0gLtT97tZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если ты уже пишешь с агентами (Cursor/Claude) — вот способ перестать чинить одни и те же SwiftUI-косяки по кругу: автор вынес “правила хорошего SwiftUI” в переиспользуемый skill, который агент реально читает. Плюс внутри — список конкретных anti-patterns (scroll, state, performance), которые обычно всплывают только в проде.&lt;br/&gt;Материал не большой, но полезный&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ACjWPch-TLlu6IojI86dfj_zzHELhm90OEyZ31NzpQcdbckFcP0ncc5UXQbLP4kYWTj0XjiJEhT5RQMwjLpMpSWPoWJ1h-MqDl8ejBW0Y8mySxewN8bGKB7rSssxptyNpjpz9UWL56IBZ5n7z8n144JJlB4XITWalE-KeWV0qMkjQDXjL393J6mo5VYsxBK_wImaF4Vl-0wPhCRatfCHBvgkrOBxoScY0P7YSA88NQnOZV2SghKa5nL_6qiKPrpPprlUq5fcasQc112NvgH5veszAAyCE-5cndzNxNum-UUU6WBwzAizurR4KGyQBDfwCRTgg8ikp_syfJyWRwOg7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;
 SwiftUI Agent Skill: Build better views with AI - SwiftLee&lt;/a&gt;&lt;br&gt;Explore the SwiftUI Agent Skill that transforms view building and refactoring. Improve your code with this open-source solution.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -240,16 +252,5 @@ MainActorMessage &amp;amp; AsyncMessage: Concurrency-safe notifications - SwiftL
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень крутой и подробный материал о том, как сделать креативные решения с анимациями в своем проекте&amp;#33;&lt;br/&gt;Много всяких красивых вещей &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/" target="_blank" rel="noopener"&gt;https://www.createwithswift.com/creative-coding-randomness-and-noise/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/"&gt;&lt;img src="https://cdn4.telesco.pe/file/LJcjAeBN9um-ybrxi17FzERezl6VvlEBfEFv-FyCgGxwxhpF4WPB2LVypHwJCXkVYl6Lto6SHW6oYfZkWEiscdLLZxLlRk_9BxI5KZf2fHQt-vvZ0Q_EFUTwnsCuygK2JbnBZmXrhuO-jpnLf0E88XJRBJJ6jQ3_wvO2J3cLKw3VUs-i1rCpo107rdMMDA0qDB_cVU5H3hKf66BbSl-aeAXnjxcDkMTi2awgydjGubvu4Mt2rFzjECFiiR4_kf-6DRRK6B9p3ygDbhCLqrg53QE6L68cNhveuvBYf5Bz_oHdxlQjXLz1WZSqBCfXRPlpiozD9mJuVupvpubn0tsbFA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.createwithswift.com/creative-coding-randomness-and-noise/"&gt;
 Creative Coding: Randomness and Noise - Create with Swift&lt;/a&gt;&lt;br&gt;Understand how to introduce noise in your algorithms to create smooth variations that change across time and space.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Совсем небольшой материал о том, как при помощи...</title>
-    <published>2025-11-10T13:05:29+00:00</published>
-    <updated>2025-11-10T13:05:29+00:00</updated>
-    <id>https://t.me/ios_heads/1087</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1087"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Совсем небольшой материал о том, как при помощи профилировщика найти view в SwiftUI, которая обновляется чаще остальных&amp;#33;&lt;br/&gt;&lt;a href="https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/" target="_blank" rel="noopener"&gt;https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
