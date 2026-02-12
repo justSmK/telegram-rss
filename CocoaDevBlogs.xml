@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/NL5mmOppYJkFDMv4KKYQ0Slkpeeqht5AY6z0yV_rKyL05-ArsuG3LF_LkZtcm1z0zxjXKA24TAVGhlsVaYG-mH1O-KIBQhZP0Z98995et4B1DqNRnE7dL3TpC_zKNODi7oE9_pJvvp8jHouaizOCLrcNBSrDydSOIpvF-lM_kddTUVINtgCTWIVY4U8X7kIHyh_XsZxCXGnFTRWWoRWjuCn2XDgqEPGMu8WDj-T2e2cb_WANybL-KsopPV6dcq56eZrjML7f5PPr0JggVYsqC6Lgh1hSVhVrQBAmP0eHGhbi9KxQ6s8VzxWc4PbDrMFgwOS_wkKNWt7FYgOj4k2hXw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NL5mmOppYJkFDMv4KKYQ0Slkpeeqht5AY6z0yV_rKyL05-ArsuG3LF_LkZtcm1z0zxjXKA24TAVGhlsVaYG-mH1O-KIBQhZP0Z98995et4B1DqNRnE7dL3TpC_zKNODi7oE9_pJvvp8jHouaizOCLrcNBSrDydSOIpvF-lM_kddTUVINtgCTWIVY4U8X7kIHyh_XsZxCXGnFTRWWoRWjuCn2XDgqEPGMu8WDj-T2e2cb_WANybL-KsopPV6dcq56eZrjML7f5PPr0JggVYsqC6Lgh1hSVhVrQBAmP0eHGhbi9KxQ6s8VzxWc4PbDrMFgwOS_wkKNWt7FYgOj4k2hXw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-12T14:51:22+00:00</updated>
+  <updated>2026-02-12T15:56:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Taking First Steps into Metal Shaders https://t.co/tkw4ht9MGy</title>
+    <published>2026-02-12T15:07:20+00:00</published>
+    <updated>2026-02-12T15:07:20+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25950</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25950"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Taking First Steps into Metal Shaders &lt;a href="https://t.co/tkw4ht9MGy" target="_blank" rel="noopener"&gt;https://t.co/tkw4ht9MGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/JgReX1rSw3xRqrqn7-JN134H-mN7L3VzlcQ472FiYYJbM0gF0WrpTKLYUQ3owcL_YJh9uK8MnnE_pqVOeJCO6bA7qL0PRRPp5urRgF6jMGZIgf9PF3PFE2_TqxJSdwvT6c7vcYUaEJTpbflFtHBMtR8Mr8_PaqehE22VM_1zW663ng0zZ3R-zaQkXEYRedQEcBtG7fe-LniyaLPuWUJRUL5cI5ZGCJtmjAgUSmMxXjK6BajmBpxC6lg7Tu2V0Zi6ac3fjJGtMJdOM6CoTBHeuWyfWgPDEBNL-lnLJHDQX7kGoORtoZFrcGRhpjOZmd3IDZ1y5OFM4lpqHAOlZf70Dw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;
+Taking First Steps into Metal Shaders - Create with Swift&lt;/a&gt;&lt;br&gt;Learn the basics of Metal with SwiftUI to take your first steps on using shaders in your app UI.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Xcode Agentic Coding, AI Anxiety, iOS 26 Adoption, Micro-Interactions https://t.co/Xo1VMYxtN3</title>
     <published>2026-02-12T13:12:45+00:00</published>
@@ -193,7 +205,7 @@ Agentic coding in Xcode - Swift with Majid&lt;/a&gt;&lt;br&gt;Apple has finally 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic AI Engineering Workflows for iOS in 2026 &lt;a href="https://t.co/ab0sZCGpMg" target="_blank" rel="noopener"&gt;https://t.co/ab0sZCGpMg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ab0sZCGpMg"&gt;&lt;img src="https://cdn4.telesco.pe/file/bM5JzPF4vJiDQkTXRjdt-kOR57Lu-tyl5WjNg4ivuihWvrC0-KxGtVqjQoecruir21Cm6j0oqhtxhgImUqAW4dzWruV4nLIN1Kk02wTl2czDE5xpFVCY7sw0_gi9FGLoYgMJkFBCa3tdR2Dt2EIhhAsxm_9IvTvyn5CZRYuXrh5Lg8CRBXOjb-g60HkqF2uKVQ9aNvByYGWnOUi9HfVfkOC-9NqfSmOio8VPnqpuOWH1Ow2nkorDIKyqaFDijCu_3sgbT9lZ9_FCIsI9CFJuFjkKzLfv9fKJsj242EbAw_KiSFifsTAZ5XqwCWsJl7FAo6eFH3S7wDcEQ3gVEu9iZw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ab0sZCGpMg"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic AI Engineering Workflows for iOS in 2026 &lt;a href="https://t.co/ab0sZCGpMg" target="_blank" rel="noopener"&gt;https://t.co/ab0sZCGpMg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ab0sZCGpMg"&gt;&lt;img src="https://cdn4.telesco.pe/file/YSIIGx4Ht3ae_RGAKp8tSBNOG0jkTZidgifUXu-2hwwzAYJKiFRKaJy4rULPtVYBlPYYUitd73DtwyOVKyOTSNjozrRISonRdf9mYux4m4wXUSnkO8Q2WRcc7nA_Q2Vg_5PDvgl-Nv2HUdbUWbB24Oc3M0MSTx3TUa1yA_zqqo6QddPbchavIWPyxDambozJpk4kFQuHX7s_zh_0v3B_M3SUNNmAjWWaiSoUG1TpauqMW0wv_SYrTIBgiJCJRI4DwLJtPu4zcNZCjeykBBj_kigsetl7L2N1g-rS-MPzyDRTvPE9PfICdapUwhofG9wEBq1q2WWtetjSPpAvQiil8A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ab0sZCGpMg"&gt;
 Agentic AI Engineering Workflows for iOS in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Cargo cutting the creator of Claude Code&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -243,17 +255,5 @@ Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux - @samwize&lt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : yonaskolb/XcodeGen &lt;a href="https://t.co/Kz8WWqBLP5" target="_blank" rel="noopener"&gt;https://t.co/Kz8WWqBLP5&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;&lt;img src="https://cdn4.telesco.pe/file/lo0XgcjBhdXliFbEmyzBp5dBtiLW9lb7Q0aIm0limLKUetJ1-IDEQUzoFWb4uloS2psti2-GtEptzWmg3GkSvJcQBpTKnwqQt9ACDBA5UQUk5BEsN997UYAht3KzIrR1KNLChWFxNR2BTiW81cFX2S1aJ2FVMx4mNT3H7vxdcsCEFn0T8gSQblG-cpUPYlII8gr5UJ5ccndaxqHpN_vbJdAWTku8uvGtZKK7bBixbmoX1sj8FMpdoTxHlccgumEFbH8iPfp-9ZTJRehdNAU4CAz8iobmH9D53ZaH6XqSgAv-ZBoQph5at3yjp2-V6J5qHzBNGAqTpJo-MxAoO2hCSw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Kz8WWqBLP5"&gt;
 GitHub - yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project - GitHub&lt;/a&gt;&lt;br&gt;A Swift command line tool for generating your Xcode project - yonaskolb/XcodeGen&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : nikitabobko/AeroSpace https://t.co/blUURszNUY</title>
-    <published>2026-02-09T02:12:42+00:00</published>
-    <updated>2026-02-09T02:12:42+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25930</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25930"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nikitabobko/AeroSpace &lt;a href="https://t.co/blUURszNUY" target="_blank" rel="noopener"&gt;https://t.co/blUURszNUY&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/blUURszNUY"&gt;&lt;img src="https://cdn4.telesco.pe/file/otHV6c_nOFiVFRj8_VUYN6G3omOad95Ky3SHP0vu7W3eBIEe1wmDPlG1KqoTV0jbhRJ0J1ti2g85aKQk9qbUtbKhayGkdVIpO4bJkF961qiGQLc1dhBkwmpnVnhUllVE0VW4a-WrHXyg7Os50i_XRn_fSl7Y8PqdI2_NR2bTpCOJ6FhgC1tuDF0I7gqsykCUs6o12M6uEqvH7J0_7-0H0NCCdnNvm6bHIWNirVj-3ZqQLr-ZH5VNQYp5FMg8id_vvPcMQ0O4caYgFoyN51pFSTGAjXSFTnTlcPd7F8o-LM3ik8En_aU2gcY7II_dGH9FV7WeaBGCXeG__fqKkWmyLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/blUURszNUY"&gt;
-GitHub - nikitabobko/AeroSpace: AeroSpace is an i3-like tiling window manager for macOS - GitHub&lt;/a&gt;&lt;br&gt;AeroSpace is an i3-like tiling window manager for macOS - nikitabobko/AeroSpace&lt;/blockquote&gt;</content>
   </entry>
 </feed>
