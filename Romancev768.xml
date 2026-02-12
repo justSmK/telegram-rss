@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/swcF0zR25dZh4RpPajWFDWV3fFxRn1H20vR_Nbjy7InjSmclEp1qdDpIpD9d4wgfG2NaQtpP3Hh6GO5Ew7Ppyekb9MalDo1CjWsbrBtcj1Zk47RLOw6oNZPrHaWviYVABGUpTqMQTxeu5D0h9xwRU8wNrGOowgqFAYZsomkrVnXxD3B8805Ph2BkbDmjeHht7L5NDa962_VeR7kgyVEhYtFXZKfeVY12o3HCmC6RP53nQkXDL6OY5yKyKDgzq7vOxMKbCIPfNeR9b4jFcIij2R97PtdMtbeRW7miia5KJHAWRnxmOhXm4OUCFHOTn4lQ5P7V7yStE7kvj9SZuZcuqA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/swcF0zR25dZh4RpPajWFDWV3fFxRn1H20vR_Nbjy7InjSmclEp1qdDpIpD9d4wgfG2NaQtpP3Hh6GO5Ew7Ppyekb9MalDo1CjWsbrBtcj1Zk47RLOw6oNZPrHaWviYVABGUpTqMQTxeu5D0h9xwRU8wNrGOowgqFAYZsomkrVnXxD3B8805Ph2BkbDmjeHht7L5NDa962_VeR7kgyVEhYtFXZKfeVY12o3HCmC6RP53nQkXDL6OY5yKyKDgzq7vOxMKbCIPfNeR9b4jFcIij2R97PtdMtbeRW7miia5KJHAWRnxmOhXm4OUCFHOTn4lQ5P7V7yStE7kvj9SZuZcuqA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@Romancev768</id>
-  <updated>2026-02-12T07:55:22+00:00</updated>
+  <updated>2026-02-12T08:53:20+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Назвался Ротенбергом или Абрамовичем? Остался без Apple...</title>
+    <published>2026-02-12T08:50:54+00:00</published>
+    <updated>2026-02-12T08:50:54+00:00</updated>
+    <id>https://t.me/Romancev768/15565</id>
+    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15565"/>
+    <author>
+      <name>Романцев768 | Romancev768</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Назвался Ротенбергом или Абрамовичем? Остался без Apple ID.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Российские Apple ID в которых имя владельца совпадает с именами людей попавших в санкционные списки - блокируют. &lt;br/&gt;&lt;br/&gt;У меня есть несколько подписчиков, которые в целях анонимности решили выбрать себе имена богатых людей. &lt;br/&gt;&lt;br/&gt;Шутка вышла боком. На данный момент тех поддержка отказывается восстановить доступ к аккаунту так как мы не можем доказать что он принадлежит условному Ивану Иванову, ведь пополняли они баланс подарочными картами.&lt;br/&gt;&lt;br/&gt;Проверьте ваше имя в Аккаунте Apple.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Греется iPhone: нормально или нет?&#13;
 &#13;
@@ -183,16 +194,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>Романцев768 | Romancev768</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Max прилёг. Сообщения не отправляются. Только вот не говорите что он завязан на Телеге &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"&gt;&lt;b&gt;😂&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"&gt;&lt;b&gt;😂&lt;/b&gt;&lt;/i&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"&gt;&lt;b&gt;😂&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">У вас есть проблемы с Телеграм?</title>
-    <published>2026-02-10T12:13:30+00:00</published>
-    <updated>2026-02-10T12:13:30+00:00</updated>
-    <id>https://t.me/Romancev768/15545</id>
-    <link rel="alternate" type="text/html" href="https://t.me/Romancev768/15545"/>
-    <author>
-      <name>Романцев768 | Romancev768</name>
-    </author>
-    <content type="html">			У вас есть проблемы с Телеграм?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;64% - Есть (я в России)&lt;/li&gt;&lt;li&gt;26% - Нет проблем (Я в России)&lt;/li&gt;&lt;li&gt;1% - Есть (Я не в России)&lt;/li&gt;&lt;li&gt;9% - Нет (Я не в России)&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
