@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/H_GMGhHF5Uvlt5RD51hgL_bgmfUei4ydNY1q-NEagzwUYAKgw6mxZrbpCehTl_U42J7053K43NsiDslbAGUaC843AqSFSWP0twd3Z_5zHkUTNPs3DiTlLBAn09wWfgthENrJmxP4_kmgDOvkkQ1jaDqWRL-HLMxT9dqvFRZILtk0kb7uNTa3qm8kUgfI-HwWZg3DT8X2lBX-dFe1Hbafk-U54fo3lnbtN8dmJy7m0J_Ku9D6lMctmurAv3wLTWx8uuKjoics3HzYNwBr9hoQBCh7Ug9in8MmZpQJ6qgeHonlSGMrRM7FO8mYa8Wnp-q_a1KoOq2KXL86yH9cG-Q2nw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/H_GMGhHF5Uvlt5RD51hgL_bgmfUei4ydNY1q-NEagzwUYAKgw6mxZrbpCehTl_U42J7053K43NsiDslbAGUaC843AqSFSWP0twd3Z_5zHkUTNPs3DiTlLBAn09wWfgthENrJmxP4_kmgDOvkkQ1jaDqWRL-HLMxT9dqvFRZILtk0kb7uNTa3qm8kUgfI-HwWZg3DT8X2lBX-dFe1Hbafk-U54fo3lnbtN8dmJy7m0J_Ku9D6lMctmurAv3wLTWx8uuKjoics3HzYNwBr9hoQBCh7Ug9in8MmZpQJ6qgeHonlSGMrRM7FO8mYa8Wnp-q_a1KoOq2KXL86yH9cG-Q2nw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-02-12T19:06:57+00:00</updated>
+  <updated>2026-02-12T20:38:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -49,7 +49,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			Где iOS-разработчик быстрее деградирует?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - В аутсорсе (частое переключение контекста, да и пилишь однотипные экраны почти всегда)&lt;/li&gt;&lt;li&gt;21% - В небольшой компании с одним продуктом (так как не изучаешь новые технологии)&lt;/li&gt;&lt;li&gt;8% - В стартапе (плохой код ради скорости)&lt;/li&gt;&lt;li&gt;28% - В бигтехах (долгие согласования, одна фича за год)&lt;/li&gt;&lt;li&gt;32% - Другое/посмотреть ответы&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Где iOS-разработчик быстрее деградирует?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - В аутсорсе (частое переключение контекста, да и пилишь однотипные экраны почти всегда)&lt;/li&gt;&lt;li&gt;21% - В небольшой компании с одним продуктом (так как не изучаешь новые технологии)&lt;/li&gt;&lt;li&gt;8% - В стартапе (плохой код ради скорости)&lt;/li&gt;&lt;li&gt;28% - В бигтехах (долгие согласования, одна фича за год)&lt;/li&gt;&lt;li&gt;33% - Другое/посмотреть ответы&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">🤯 Telegram превращается в VibeGram?&#13;
