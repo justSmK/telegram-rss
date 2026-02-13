@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-13T18:55:24+00:00</updated>
+  <updated>2026-02-13T19:43:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 743 https://t.co/Eymla9BxnP</title>
+    <published>2026-02-13T19:12:28+00:00</published>
+    <updated>2026-02-13T19:12:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25957</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25957"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 743 &lt;a href="https://t.co/Eymla9BxnP" target="_blank" rel="noopener"&gt;https://t.co/Eymla9BxnP&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi https://t.co/Im2K8U0FIJ</title>
     <published>2026-02-13T07:42:21+00:00</published>
@@ -243,17 +254,5 @@ watchOS 26.3 (23S620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic Coding in Xcode with Gemini CLI &lt;a href="https://t.co/apE4Zc4GgC" target="_blank" rel="noopener"&gt;https://t.co/apE4Zc4GgC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/apE4Zc4GgC"&gt;&lt;img src="https://cdn4.telesco.pe/file/S0hnaIKh-mY32nKPYc2B4a9h19uTdUh5MnnES5EdMw8ajDMW_uhuKm1JtwmZBkHahs653W_1wWC1Ck71jjDsd8W0CSxeoGqcgGxnMEXRVV3h9CQbqBqsqO0VBB4ir9HhQqDz4eEIFxGOgwJOmlU8_4kKPZ6tNxejqsVbLaX6Fqfxr8hAkxXTTjympAhnxInRbTNnG3o5jA1cCcxtX0YMOq4Iw7w_F66vrcxBet8jI1slWA_aiWpxcixxkMJH3mKHajtrQybLMJSfiMZoA8z2Ri5jKZUuygBgoa1fFIy1lY_kBprmZHUwp_E214uc49PuAAeQamOuaLv33m2A9MbjFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/apE4Zc4GgC"&gt;
 Agentic Coding in Xcode with Gemini CLI - Peter Friese&lt;/a&gt;&lt;br&gt;Learn how to use Gemini CLI for agentic coding in Xcode 26.3 via the MCP bridge. This post covers setup, configuration, and a practical example of building an emoji physics playground.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : apple/swift-collections https://t.co/wMtD89xyAU</title>
-    <published>2026-02-11T02:17:30+00:00</published>
-    <updated>2026-02-11T02:17:30+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25937</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25937"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-collections &lt;a href="https://t.co/wMtD89xyAU" target="_blank" rel="noopener"&gt;https://t.co/wMtD89xyAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wMtD89xyAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/plMEZPX0cQlq1kroCZfiGsuYSnYhPv2YKMIQ-E7ljjypHIaDCBmYhiGzUcCY-mGPoYIYSk_Q7H2QS84cpvjjsownfweYhiVAJcogtqdRqE2uHgmo_RnnKSKmvmzYsJeI9medUGvM-orIZYqnUTYohDBqnz-eAGGaLosoYIOeTAqLmNQGQekpNInPgTyb2tmOz3er91rLm1VNOUsfyCTQr6tcMfe9DAzKczMG8iSL3_JHk88kogbg2fpiMWa45EGTHhqgeRPipLFUapO-bbtxv_EQlki6dgWMznEneyFpVfZWyW1hd-rhM5wR8_6HxYvfjhUBzh98-OI2vpA4gMFlFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wMtD89xyAU"&gt;
-GitHub - apple/swift-collections: Commonly used data structures for Swift - GitHub&lt;/a&gt;&lt;br&gt;Commonly used data structures for Swift. Contribute to apple/swift-collections development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
