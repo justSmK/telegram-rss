@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-13T20:42:13+00:00</updated>
+  <updated>2026-02-13T21:39:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -155,7 +155,7 @@ GitHub - PureLayout/PureLayout: The ultimate API for iOS &amp;amp; OS X Auto Lay
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Toolbar Header Scroll Animation Effects Using SwiftUI | Luma&amp;#39;s Header Scroll Effect | Xcode 26 &lt;a href="https://t.co/kzxjLEOP8A" target="_blank" rel="noopener"&gt;https://t.co/kzxjLEOP8A&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kzxjLEOP8A"&gt;&lt;img src="https://cdn4.telesco.pe/file/j2NE2bBnjjGhy0zU0EoJf5Mwxo-vBludBqGLHJA9U3v7JFJ7WjjSKrCCMq574YqmuuvsHmXyKSNHlu1RijKw4d9c58DURiWV4XB6e7zOu2vOzU6-0uw4BAXWW5dXYR7kqBFKHblsgUHRYo5E7uN_PpIhnJ2Og3LzzLSjqsJBzuCAyG-sCQUYKpOeFzYh_D2gnHItVkdLK3OxlGLz_8QNM-44mdQO68aLCmzydXGzhWzXx7LZ7ifzMBq_iHTNEbNd8452LydUkFoHjE2gRNuLx-Xpyzptun4K0h2KakvZ748uDPJlnugpej3vJyaq-VJKSKbVP367KhsCjz_c0i6kRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kzxjLEOP8A"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Toolbar Header Scroll Animation Effects Using SwiftUI | Luma&amp;#39;s Header Scroll Effect | Xcode 26 &lt;a href="https://t.co/kzxjLEOP8A" target="_blank" rel="noopener"&gt;https://t.co/kzxjLEOP8A&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kzxjLEOP8A"&gt;&lt;img src="https://cdn4.telesco.pe/file/CUM4VNw0w0kBUmp0nj-dNRuaoRC_QIjR4lQjvQyl76tQAmiMS-MhXk9-rPyHw5layEFw_SOAu-4Yzq04Akwl-ndCisgiJsQogP6f8Gz3Ln5dfV3lYa0l6E6BPjlEutGTgBIj4sCsA9vZQdoL7LfTl8mn4KQG3ko7Dkod9P5_JxLSMwRlZMmf7EiZSCYi8lIPd5svR4muTRxsZ6z5Gf-_eZ0OxkEWPTd-iUrWmOwOlBnO9rt7egglgnyY2fUcuDtz1l0wdl3pU4Yxo8oM4L-s8OL4zX-lrryJM4uGvrYbq0IrIwRoNwlK5BkF5G3iqpTiwwbUG0THDh-jmYPnXdP8_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kzxjLEOP8A"&gt;
 Toolbar Header Scroll Animation Effects Using SwiftUI | Luma&amp;#39;s Header Scroll Effect | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to recreate the toolbar header scroll animation effect from Luma&amp;#39;s App using SwiftUI | SwiftUI Header Scroll Effect | SwiftUI Toolbar Scroll Effects | SwiftUI Custom Navigation Bar | SwiftUI Custom Header…&lt;/blockquote&gt;</content>
   </entry>
