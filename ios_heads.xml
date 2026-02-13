@@ -6,20 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/bueWSc-8gsyTaPnoMVsYiKWFiZiQ93UXWIUrMVDKYs9nynStkX-_IqbmucZAP1lxVLR2D1YGNlNWC4rwbY7PGUm2AEoOAhgcPYgX0q8Sdm6HZQIo4eSYHpRsNP1jRr1-DVyRL8nw958AC40XQvt6TeDPT4WgzOlIjdwF8mp3CUHCWbSKz_veCSICRZnxAu1v4QVvNybomHLGTMUE0ZAgTfHLr2S6SSWnTNGuUM8Kt5yAQBhj4jZ7MKTH2DHys-BoLl5dCUr3D2RMipCMkAF28oBO57bvbMVXSZ8VdnJm2EZgHR0CK66AZKrROKkTjxw0lhAt-hyy47FcXbP7pa7EPA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bueWSc-8gsyTaPnoMVsYiKWFiZiQ93UXWIUrMVDKYs9nynStkX-_IqbmucZAP1lxVLR2D1YGNlNWC4rwbY7PGUm2AEoOAhgcPYgX0q8Sdm6HZQIo4eSYHpRsNP1jRr1-DVyRL8nw958AC40XQvt6TeDPT4WgzOlIjdwF8mp3CUHCWbSKz_veCSICRZnxAu1v4QVvNybomHLGTMUE0ZAgTfHLr2S6SSWnTNGuUM8Kt5yAQBhj4jZ7MKTH2DHys-BoLl5dCUr3D2RMipCMkAF28oBO57bvbMVXSZ8VdnJm2EZgHR0CK66AZKrROKkTjxw0lhAt-hyy47FcXbP7pa7EPA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-13T11:33:35+00:00</updated>
+  <updated>2026-02-13T13:07:17+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
   <entry>
-    <title type="html">State restoration в SwiftUI — это не “nice to have”, а то, что ломается...</title>
-    <published>2026-02-13T11:13:46+00:00</published>
-    <updated>2026-02-13T11:13:46+00:00</updated>
-    <id>https://t.me/ios_heads/1110</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1110"/>
+    <title type="html">Раз уж с предыдущей статьей случилась какая-то...</title>
+    <published>2026-02-13T11:51:55+00:00</published>
+    <updated>2026-02-13T11:51:55+00:00</updated>
+    <id>https://t.me/ios_heads/1111</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1111"/>
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;State restoration в SwiftUI — это не “nice to have”, а то, что ломается первым в реальном проде. Здесь показано, как правильно сохранять и восстанавливать NavigationPath, чтобы пользователь возвращался ровно туда, где остановился — без костылей и ручного роутинга.&lt;br/&gt;&lt;a href="https://www.donnywals.com/handling-state-restoration-in-swiftui-with-navigationpath/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/handling-state-restoration-in-swiftui-with-navigationpath/&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Раз уж с предыдущей статьей случилась какая-то мистика, то ловите другую&amp;#33;&lt;br/&gt;Пошаговое объяснение того, как управлять навигацией в SwiftUI через NavigationPath и navigationDestination, чтобы навигация стала управляемой и масштабируемой.&lt;br/&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination" target="_blank" rel="noopener"&gt;https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Jp09WbB2bzuChc-E2y6F1JTSUT8GjbXWn4pl6HjPUp5vepMpuiCnk4EOM6Ov4jj5sb5aaPhUwX_7uoivevsh5s-ObA8xIOlO39psjuDQ00ICoPR-9fGDd7V94oXMhXIl7-kxfO_vccujhSEqR0yZ5Jha8e2Hv5uqXzRh5rgKBU3u-u0mVNUpnmN2NaQ5yYLTv1hwlnWybAVOM3fL3CB2U324jQKyI05em03eHPQXD4qWj5p7jt2nWyd71JmPZ7ZRrVNfMujOhXbyrnIwcYCA0RXA28rqD9onJpGXmCMs5uCWeIAFTXykk2PkGijBQCmzJ6kQakABNcGvfQEZsoaovg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;
+Programmatic navigation in SwiftUI with NavigationPath and navigationDestination - Donny Wals&lt;/a&gt;&lt;br&gt;Learn how you can leverage NavigationPath and navigationDestination in SwiftUI to implement programmatic navigation&lt;/blockquote&gt;</content>
   </entry>
   <entry>
     <title type="html">Last Call: iOS-интенсив от Яндекса в Сочи&#13;
@@ -102,7 +103,7 @@ Modern Navigation in SwiftUI - DEV Community&lt;/a&gt;&lt;br&gt;Navigation in Sw
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/OqHAKJE1LNSbbAGsrZDiw040ELuIXuJW72hjZB9xalQEVgaG_hIcthbQObYBg_9DGvTONnJ0ZAnaKVbYSdx14eYlsJ-cWR2-Pxdj3JspVHlmVcNDT2gHIflHW5Wusw-MXSN06ke3r9b1fqixY8v5N3eMKqpV6zE6eT9tKxeu5NfdfYNApKFsAAULuq6e03-A8FctI1mXvE0UQuM5IEcwlbghy3mkOpY5Tl5FOjVqjFDOeZwoH2Ws48DD3JhSQhx1dn93h5hIgxG31kciI5VtmaV0TUZfN4iCgBzVwL_eyuBveXDomZF1JpdlnRZp-dkHP4SyRIaR3nGI19h2bxReKQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/PuOvCN7XGWmmHwoJ82-r2sXTNljJeFttALjzZ9yyStTcXek3hhQNtWhaZHqJeLMA37hkxlAYDLY-j6Z75MDxQoxjFaNhraGhwHB30m5yg1fpLO9Zrx7PqwJr_Pu76IFtkEhjMo7oDLhm_qcB7u1yzkQJLYmzthC9KqSH34Ot-HE4Jqxao1wB03O-oSMCfV8G4Jqm9F3xaV4HzPEoLGOIQb36SsRPgY7WqQ_-uPB1QIMdm_rZsfw1R_GkFqfVhU-ILJ884ZS9Opyn6FF7CrhmrVgSRFg2MarscBOqGuxqcpRwU2F5ZhTQHeRiIXuG6Aq0FEc6enFPwrHOQiV3OMmKLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
 How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;How to Structure a SwiftUI Project in 2026   Starting a new SwiftUI project? The default...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
