@@ -6,10 +6,34 @@
   <icon>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-13T21:39:30+00:00</updated>
+  <updated>2026-02-13T22:37:11+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Lets make a React Native Host Component https://t.co/bQQskTuM3m</title>
+    <published>2026-02-13T22:17:36+00:00</published>
+    <updated>2026-02-13T22:17:36+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25959</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25959"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Lets make a React Native Host Component &lt;a href="https://t.co/bQQskTuM3m" target="_blank" rel="noopener"&gt;https://t.co/bQQskTuM3m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bQQskTuM3m"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bQQskTuM3m"&gt;
+Lets make a React Native Host Component - Whacky Labs&lt;/a&gt;&lt;br&gt;They say if you really wanna know how React Native works make a host component. So that is the task for the day.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">React Native Navigation 101 https://t.co/XJTW4RR9ku</title>
+    <published>2026-02-13T22:17:35+00:00</published>
+    <updated>2026-02-13T22:17:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25958</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25958"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;React Native Navigation 101 &lt;a href="https://t.co/XJTW4RR9ku" target="_blank" rel="noopener"&gt;https://t.co/XJTW4RR9ku&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;
+React Native Navigation 101 - Whacky Labs&lt;/a&gt;&lt;br&gt;This is a quick guide to various navigation patterns in react native.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Dev Weekly: Issue 743 https://t.co/Eymla9BxnP</title>
     <published>2026-02-13T19:12:28+00:00</published>
@@ -230,29 +254,5 @@ tvOS 26.3 (23K620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 (23N620) &lt;a href="https://t.co/59SFhHofg1" target="_blank" rel="noopener"&gt;https://t.co/59SFhHofg1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;&lt;img src="https://cdn4.telesco.pe/file/hD7FWjolbeO8X0NjoeAT144ZZwT7CTMklDeeTUEckaX8n-3f0JHkNDpgcFKRwaasJdIt47NuVZ54WtHaEOjA0vgV1anwrhMa6T6t8qgTIbe-gvDadH_UFNc8YGG8Umdj7mwJ1UF7r7i0vCS9RVtE80k5LVdLVNvzpRQQsugb1_cl42PcI2v4QuqKiE4aLQwI9uyC6ci_5sSangDS6cmxaje0Us2S-ZEe__xWsC0t2JtDWIsSPCGxH07Epablt03swdgkMuwuq9-OHAknzUjUsBH2bZZbojJ2CeHUm-ttThg48ziLO4mN-QBLEs-JPSQRbc3C3ryHH-C5OP03itQeaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;
 visionOS 26.3 (23N620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">watchOS 26.3 (23S620) https://t.co/wYriMSctyT</title>
-    <published>2026-02-11T18:22:40+00:00</published>
-    <updated>2026-02-11T18:22:40+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25939</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25939"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 (23S620) &lt;a href="https://t.co/wYriMSctyT" target="_blank" rel="noopener"&gt;https://t.co/wYriMSctyT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;&lt;img src="https://cdn4.telesco.pe/file/hI4o_cjsJBe3znL0YohPb3AxhCd3K0lLqUqaaI3RMo62rXhbcVwVZmoOaQI-z3gfVlZrsxrGsn5EeJQp6M7i3SJt14yQ7EbsURVZ2Jx_UbL1qSX_TwOlFkR6nEPq97T2uG4UtMfVanHpbKzPrFS2e-fF8omEKPH08uSVx3y1z7qZJrU8yxOkaniXqUXpIP5DP0x1RR9foCETvaIlFqRYgSImVcjtqPiC9G3V_O9PN3n_LQcet216i4kyfN5ByXB9EwO97eC8zZUqnuWr0r0ryWsW8xXhoDjFni0OAdB45TroTf1NiMgjnPX-iUxnb8G5vmXF5XhEY3dTFnKN6kM5LQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;
-watchOS 26.3 (23S620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Agentic Coding in Xcode with Gemini CLI https://t.co/apE4Zc4GgC</title>
-    <published>2026-02-11T12:37:12+00:00</published>
-    <updated>2026-02-11T12:37:12+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25938</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25938"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic Coding in Xcode with Gemini CLI &lt;a href="https://t.co/apE4Zc4GgC" target="_blank" rel="noopener"&gt;https://t.co/apE4Zc4GgC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/apE4Zc4GgC"&gt;&lt;img src="https://cdn4.telesco.pe/file/S0hnaIKh-mY32nKPYc2B4a9h19uTdUh5MnnES5EdMw8ajDMW_uhuKm1JtwmZBkHahs653W_1wWC1Ck71jjDsd8W0CSxeoGqcgGxnMEXRVV3h9CQbqBqsqO0VBB4ir9HhQqDz4eEIFxGOgwJOmlU8_4kKPZ6tNxejqsVbLaX6Fqfxr8hAkxXTTjympAhnxInRbTNnG3o5jA1cCcxtX0YMOq4Iw7w_F66vrcxBet8jI1slWA_aiWpxcixxkMJH3mKHajtrQybLMJSfiMZoA8z2Ri5jKZUuygBgoa1fFIy1lY_kBprmZHUwp_E214uc49PuAAeQamOuaLv33m2A9MbjFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/apE4Zc4GgC"&gt;
-Agentic Coding in Xcode with Gemini CLI - Peter Friese&lt;/a&gt;&lt;br&gt;Learn how to use Gemini CLI for agentic coding in Xcode 26.3 via the MCP bridge. This post covers setup, configuration, and a practical example of building an emoji physics playground.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
