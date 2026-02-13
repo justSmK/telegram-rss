@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/DwuRjcor-OuSqKyHgvtS-17J3VTQQbpAiAGQvwrF4YfWm-tHifhY87hSfWbu7ejnp7UHOKJPglic_rIHo2nTvvFqcJDfEW1p2Z9653sxHhhCIrbMHThKdoqdjWpCMr0QR3CnQNo6qM97fAQCHAUpO6Kd8RwUzdNL0hgjb8DNOA968bqLjs5jlzjv6gTRk88ssAUeMWLOKjrbtawPQSTQeVpnrdbllIrJuB_7I1aDkdbFsNzRBm1TpmDhwP_mnAaMeGGjwRIxDqgxF4zIcbTscX8fw7qOM6o8lWKjWwWN4MX5e8pQlZEgwJfk-s5u2hoC6LDYFnW2DEk8G0k8e9LQ5g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/DwuRjcor-OuSqKyHgvtS-17J3VTQQbpAiAGQvwrF4YfWm-tHifhY87hSfWbu7ejnp7UHOKJPglic_rIHo2nTvvFqcJDfEW1p2Z9653sxHhhCIrbMHThKdoqdjWpCMr0QR3CnQNo6qM97fAQCHAUpO6Kd8RwUzdNL0hgjb8DNOA968bqLjs5jlzjv6gTRk88ssAUeMWLOKjrbtawPQSTQeVpnrdbllIrJuB_7I1aDkdbFsNzRBm1TpmDhwP_mnAaMeGGjwRIxDqgxF4zIcbTscX8fw7qOM6o8lWKjWwWN4MX5e8pQlZEgwJfk-s5u2hoC6LDYFnW2DEk8G0k8e9LQ5g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@engineering_path</id>
-  <updated>2026-02-13T09:50:02+00:00</updated>
+  <updated>2026-02-13T10:42:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Чему учит бег?&#13;
+&#13;
+Последние месяца 3-4 я активно бегаю....</title>
+    <published>2026-02-13T10:31:45+00:00</published>
+    <updated>2026-02-13T10:31:45+00:00</updated>
+    <id>https://t.me/engineering_path/163</id>
+    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/163"/>
+    <author>
+      <name>engineering path</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Чему учит бег?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Последние месяца 3-4 я активно бегаю. Это не первый раз, когда я это делаю, но в этот раз я решил подойти к этому более системно и ответственно, тем более, что даже зима в Лондоне вполне позволяет это делать (привет московской).&lt;br/&gt;&lt;br/&gt;Как вы возможно знаете, пульс во время активности делится на 5 зон. Чтобы научиться бегать на длинные дистанции, не уничтожая организм, нужно адаптировать аэробную систему, чтобы большую часть дистанции бегать в 1-2 зонах (для адаптации в этих зонах и нужно бегать).&lt;br/&gt;&lt;br/&gt;Процесс этот довольно долгий, по началу пульс постоянно норовит улетать выше 3 зоны, поэтому первое время приходится бегать медленно, а то и вовсе местами переходить на шаг, чтобы держать сердцебиение на нужном уровне.&lt;br/&gt;&lt;br/&gt;Для человека спортивного (в футбол я начал играть года в 4), бежать как черепаха и наблюдать, как мимо проносятся другие бегуны, было невероятно тяжело. Появлялось желание забить на систему, забыть про основную адаптационную цель и начать бежать не медленнее других, «ведь я же не лох». Но каждый раз я останавливал себя, повторял, что я ни с кем не соревнуюсь, у меня есть своя цель. &lt;br/&gt;&lt;br/&gt;Люди вокруг меня, бегущие быстрее, быть может вообще не понимают, что делают, и гробят свой организм. А быть может, они бегут быстро, потому что когда-то прошли тот же этап адаптации и дискомфорта, что прохожу и я сейчас. &lt;br/&gt;&lt;br/&gt;Как бы оно там ни было, пока я понимаю, в чём заключается моя собственная цель, я нахожусь на правильном пути, вне зависимости от скорости.&lt;br/&gt;&lt;br/&gt;Думаю, вы поняли, что я не только про бег.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">3 лучшие книги за 2025&#13;
 &#13;
@@ -147,16 +160,5 @@ Scheduling time to do...</title>
       <name>engineering path</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;An easy productivity hack — instead of spending time getting «in the mood» to work, just start working, confront the work. People think they need perfect conditions to start, when in reality, starting &lt;i&gt;is&lt;/i&gt; the perfect condition.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Последнюю неделю рубль сильно штормило и, наблюдая за...</title>
-    <published>2024-11-30T22:04:53+00:00</published>
-    <updated>2024-11-30T22:04:53+00:00</updated>
-    <id>https://t.me/engineering_path/130</id>
-    <link rel="alternate" type="text/html" href="https://t.me/engineering_path/130"/>
-    <author>
-      <name>engineering path</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Последнюю неделю рубль сильно штормило и, наблюдая за этим, мой мозг в фоне пересчитывал текущие доходы в долларах, а вместе с этим возникало внутреннее ощущение недовольства от происходящего.&lt;br/&gt;&lt;br/&gt;Вчера вечером я в очередной раз наткнулся на кадры войны в Газе, и это заставило меня задать себе вопрос — а действительно ли у меня вообще есть реальные причины для недовольства в жизни?&lt;br/&gt;&lt;br/&gt;Если так посмотреть, у абсолютного большинства из нас есть то, что для кого-то другого является пределом мечтаний, в том числе здоровье, семья, безопасность и крыша над головой, надо только начать &lt;b&gt;замечать и не обесценивать&lt;/b&gt; это.&lt;br/&gt;&lt;br/&gt;Это не значит, что не нужно всегда стремиться к большему, но я думаю, что чтобы быть счастливым, нужно быть благодарным. А чтобы быть благодарным, нужно не забывать хотя бы иногда смотреть на тех, кому в жизни повезло намного меньше.&lt;/div&gt;</content>
   </entry>
 </feed>
