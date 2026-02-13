@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/NL5mmOppYJkFDMv4KKYQ0Slkpeeqht5AY6z0yV_rKyL05-ArsuG3LF_LkZtcm1z0zxjXKA24TAVGhlsVaYG-mH1O-KIBQhZP0Z98995et4B1DqNRnE7dL3TpC_zKNODi7oE9_pJvvp8jHouaizOCLrcNBSrDydSOIpvF-lM_kddTUVINtgCTWIVY4U8X7kIHyh_XsZxCXGnFTRWWoRWjuCn2XDgqEPGMu8WDj-T2e2cb_WANybL-KsopPV6dcq56eZrjML7f5PPr0JggVYsqC6Lgh1hSVhVrQBAmP0eHGhbi9KxQ6s8VzxWc4PbDrMFgwOS_wkKNWt7FYgOj4k2hXw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/NL5mmOppYJkFDMv4KKYQ0Slkpeeqht5AY6z0yV_rKyL05-ArsuG3LF_LkZtcm1z0zxjXKA24TAVGhlsVaYG-mH1O-KIBQhZP0Z98995et4B1DqNRnE7dL3TpC_zKNODi7oE9_pJvvp8jHouaizOCLrcNBSrDydSOIpvF-lM_kddTUVINtgCTWIVY4U8X7kIHyh_XsZxCXGnFTRWWoRWjuCn2XDgqEPGMu8WDj-T2e2cb_WANybL-KsopPV6dcq56eZrjML7f5PPr0JggVYsqC6Lgh1hSVhVrQBAmP0eHGhbi9KxQ6s8VzxWc4PbDrMFgwOS_wkKNWt7FYgOj4k2hXw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-13T06:02:12+00:00</updated>
+  <updated>2026-02-13T07:51:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi https://t.co/Im2K8U0FIJ</title>
+    <published>2026-02-13T07:42:21+00:00</published>
+    <updated>2026-02-13T07:42:21+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25956</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25956"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi &lt;a href="https://t.co/Im2K8U0FIJ" target="_blank" rel="noopener"&gt;https://t.co/Im2K8U0FIJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;
+I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi - @samwize&lt;/a&gt;&lt;br&gt;After years of legacy dotfiles and oh-my-zsh, I moved to a lean chezmoi setup with agent-assisted cleanup.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : googlemaps/google-maps-ios-utils https://t.co/UR1wY4sQCa</title>
     <published>2026-02-13T02:12:19+00:00</published>
@@ -243,17 +255,5 @@ Agentic Coding in Xcode with Gemini CLI - Peter Friese&lt;/a&gt;&lt;br&gt;Learn 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-collections &lt;a href="https://t.co/wMtD89xyAU" target="_blank" rel="noopener"&gt;https://t.co/wMtD89xyAU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wMtD89xyAU"&gt;&lt;img src="https://cdn4.telesco.pe/file/plMEZPX0cQlq1kroCZfiGsuYSnYhPv2YKMIQ-E7ljjypHIaDCBmYhiGzUcCY-mGPoYIYSk_Q7H2QS84cpvjjsownfweYhiVAJcogtqdRqE2uHgmo_RnnKSKmvmzYsJeI9medUGvM-orIZYqnUTYohDBqnz-eAGGaLosoYIOeTAqLmNQGQekpNInPgTyb2tmOz3er91rLm1VNOUsfyCTQr6tcMfe9DAzKczMG8iSL3_JHk88kogbg2fpiMWa45EGTHhqgeRPipLFUapO-bbtxv_EQlki6dgWMznEneyFpVfZWyW1hd-rhM5wR8_6HxYvfjhUBzh98-OI2vpA4gMFlFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wMtD89xyAU"&gt;
 GitHub - apple/swift-collections: Commonly used data structures for Swift - GitHub&lt;/a&gt;&lt;br&gt;Commonly used data structures for Swift. Contribute to apple/swift-collections development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Agentic coding in Xcode https://t.co/qflXBiuA6s</title>
-    <published>2026-02-10T18:32:42+00:00</published>
-    <updated>2026-02-10T18:32:42+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25936</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25936"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Agentic coding in Xcode &lt;a href="https://t.co/qflXBiuA6s" target="_blank" rel="noopener"&gt;https://t.co/qflXBiuA6s&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qflXBiuA6s"&gt;&lt;img src="https://cdn4.telesco.pe/file/AgDU1Pvh8MkqZeKtFpcr_h4hhF7mU31U6sOuQIglH2ZIxGYQHCCdBKZCFOWiWh6e2IODS9kSpsHYXjXRhvNKleHqDcH1TR7njeu62EEXtpdkBA2_oNtJcphaUJ_3-BfRW31V7WLgXol7KPU6jMGN6SF6HAEb2HiYGPtXQZ_XQw130b-h2Uynhf-PuiERUlkKGhCUp8VSdusImY02hPMKRo06gNy-GFqun_F_FDODhTAaczMuPqdbwfX6nmC8e5eaOifuSSHwi6dcjAtGv4RstcjoBSH4U-9Zx4lUOppAN4YOQ8TQ-Ls4_crQaVArgjV8gjfYgPxYswAwn_keE9ag4A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qflXBiuA6s"&gt;
-Agentic coding in Xcode - Swift with Majid&lt;/a&gt;&lt;br&gt;Apple has finally released Xcode 26.3, which now supports agentic coding. In this article, I’ll guide you through configuring Xcode 26.3 and utilizing the latest best practices when using agentic tools for building apps on Apple platforms.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

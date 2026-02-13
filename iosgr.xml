@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/HEClhJg3QiqQcDE9bZ2zB9R0P15k-TruJ6rPw8Vrm2lP43Ee-RC2C7k7ZJcUiM2kCc3Wc4b7ykp5pkQUAdrBixcsbAtOBP1w_Mb7if4q7QMk3oFKVFd6WGktF2yplA0d9yiMKcyKwxGilne9VWx7IblkAAdEexdMQG-qebfLS8iBxOuPcAVAwavDSGRMcO8ozbrXELQ55fNLJf1QK82iziN0gWUV7lLiXQgaf4dRfMyJnBXbLF-OJ88NVXjteWStAolrlvfNtpVxfk-XS_tblFgCe22qD1NcntJTN5ynvILyBLrTTZtIB_wfSMOIM9ul5ZDDHMSnwC0knney2wThEA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HEClhJg3QiqQcDE9bZ2zB9R0P15k-TruJ6rPw8Vrm2lP43Ee-RC2C7k7ZJcUiM2kCc3Wc4b7ykp5pkQUAdrBixcsbAtOBP1w_Mb7if4q7QMk3oFKVFd6WGktF2yplA0d9yiMKcyKwxGilne9VWx7IblkAAdEexdMQG-qebfLS8iBxOuPcAVAwavDSGRMcO8ozbrXELQ55fNLJf1QK82iziN0gWUV7lLiXQgaf4dRfMyJnBXbLF-OJ88NVXjteWStAolrlvfNtpVxfk-XS_tblFgCe22qD1NcntJTN5ynvILyBLrTTZtIB_wfSMOIM9ul5ZDDHMSnwC0knney2wThEA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-13T06:02:13+00:00</updated>
+  <updated>2026-02-13T07:51:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Работа с Xcode MCP&#13;
+&#13;
+Подробная инструкция по настройке...</title>
+    <published>2026-02-13T06:02:45+00:00</published>
+    <updated>2026-02-13T06:02:45+00:00</updated>
+    <id>https://t.me/iosgr/4607</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4607"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Работа с Xcode MCP&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Подробная инструкция по настройке встроенного в новый Xcode MCP сервера, подключению его к Claude Code / Cursor, и особенеостям работы со всеми доступными тулами.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;&lt;img src="https://cdn4.telesco.pe/file/Pm6HEBfbcoJRa_bUeZs7oI4VIReXbItv-y86GfWuWgKCwDjEbsPASGAiQDVASFPPv02_Bm1-rXR0rZtfV_ndSjsq4YX3CYwUQ7vLv57wuWDFu0P8s4q0jhD34yg5mN5f_ZuvefeiWtn-lp5yTljnRXvJ2AgR4Cehpn710JgIJUzwQ2NlgFWMg6_0aIvzS8bRSTAD4iSogP1V87D9IQBQ_vqNoHMBJMfLA2u1p3FDFE-Ae1r7RS_BN3xT8w3Boz5wgoUokxULvVdVF8gHoSl-LvEn32Bj7oOL28hdzdFurl7C0osORvowODGdnzo8x2smyEGYMViVEwPfwyuVEd3KNQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;
+Exploring AI Driven Coding: Using Xcode 26.3 MCP Tools in Cursor, Claude Code and Codex - Rudrank&lt;/a&gt;&lt;br&gt;Xcode 26.3 ships with 20 native MCP tools for AI agents. Learn how to use Xcode&amp;#39;s DocumentationSearch, BuildProject, RenderPreview, and more from Cursor, Claude CLI, or any MCP client using the mcpbridge.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Как и куда расти мобильному разработчику в эпоху...</title>
     <published>2026-02-12T15:00:40+00:00</published>
