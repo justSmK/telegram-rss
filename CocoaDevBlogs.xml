@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/F8MjZTE3hkHvL0r5WYPU6AbcNKlrW68x7YtzT9ghlrZsVWiS_DU9nnLvGTRoIvqojecJAXij0r4YehXymMnKkdqDaM8ytjRdOKtaZ5ZZ5o01v3sbD0oDYbEWeY3mDiAQdNGHEbK-ToyToLOEIiuZN8RxljfDpXPNWgQst0wb_4bFSWc0LKAdR4vCfth1RQcKQNPZz3u4K2mcpTTsRIi_Os-o1zka67QWULy8JLJRWXUzuOkSsWcHzbnVheJNd_XGssS-YNZoXxdv0fRUzgMCK7YPRU-xLV0hdm19KGZKsCygAdn-jW3vM_nU_psOlysauImTBsXwuPihZ_2gxsGuQQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-13T17:41:13+00:00</updated>
+  <updated>2026-02-13T18:55:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -157,7 +157,7 @@ In this video, I’ll demonstrate how to recreate the toolbar header scroll anim
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Getting Started with SwiftData in iOS 26 [FREE] &lt;a href="https://t.co/9oaAstdEwZ" target="_blank" rel="noopener"&gt;https://t.co/9oaAstdEwZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9oaAstdEwZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/atgUR7fzWjzqY-u09GdGca3WbcXyeJMTNi2U2R1Equb7_f3MLWHQU1zaUHXUpKpWTG3LOMQfmGOYm1svfi2DyyLFo-3FNm5K4Fkf_mIKau25Hj74tU9Td6gJnuXvrbcbc-ERbP1NvkcdPd1Nhiavu48iV9DH3A-VkoJmamW5jhb9klyOumsf5Sd6twGbN68mOdf_A2XkJLG9sQ9YdK6im8d1gCvZE_h0ftqndW9BckqTpuMDmx9oStGRpQQyEFYuL6Lbplz-dLXcmieX855hlAyrJBNHIk-KHGmSN2XVEvL4CF-Zys7YhRQ0_UMvbxtZvYl-klNb-lumQ6P4egtW7g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9oaAstdEwZ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Getting Started with SwiftData in iOS 26 [FREE] &lt;a href="https://t.co/9oaAstdEwZ" target="_blank" rel="noopener"&gt;https://t.co/9oaAstdEwZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9oaAstdEwZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/XuuMVPQ_-0X4HGeqELbXGN0capG0S7FiPmxktp7FQ1HqnX1QMAmAqjnuEIevyxbnDMMVLVAZrDu6oUjanrqZ_s3l5fho8QbHJ_qnF9EsVi0DRYvZaQqdphHBvMCc90Q95ZezTkrJwDQvKPkGNoti89yG4U7mIWaVX5NveVnMy3-X3mOWAHTinTnIo4i1DE9w5udzOoAsUbztUigB7QgXfkp3hIPmAH6RncySnWpYYU8hwecR3o2ghE98quDSk-8cZP7cdG82gPI4VKoBrGRRZzldHj2us1eej31bWGQYAEN63cVIbW2FppOHqKQAPtiGpiGcp-rWpqF8cCYFzGrc1w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9oaAstdEwZ"&gt;
 Getting Started with SwiftData in iOS 26 - kodeco.com&lt;/a&gt;&lt;br&gt;SwiftData is Apple’s modern framework for managing data in SwiftUI apps. In this article, you’ll explore the core concepts behind SwiftData in iOS 26 and learn how it fits into a modern iOS architecture.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -169,7 +169,7 @@ Getting Started with SwiftData in iOS 26 - kodeco.com&lt;/a&gt;&lt;br&gt;SwiftDa
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 (23D127) &lt;a href="https://t.co/IDqbrvE8Bt" target="_blank" rel="noopener"&gt;https://t.co/IDqbrvE8Bt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IDqbrvE8Bt"&gt;&lt;img src="https://cdn4.telesco.pe/file/NYxVfo-Wl5OCqeH_HfuUNkVCPO932tr9Gh3vXrqdpLI6g-SG4Ns4851Z9oJHjCrrl759LLXtliGPwVrCoTivYSz_CTL9RyHZ6AnUemADx2PtKhRaii7V7ADdyBQCDbZDhb11TGHMEnd5IgdEOmlsr2DNeZr20YVqrakoGVBJG-pNG7C5YulFHo0xIsfJwHTqlsFnrvGF3L4VtjRhMrIZ3dNoFf3WQU3UwcuW5wrXDaWnmEwZ8oVR-cTdN0jtjyfkSFHqQ5Qi_q1RnQ-lNd4qSdqTO9MO4hyoqt_l4t8WLRuXuDX7vBp3QYQtW9j72uVSFYVhudz8Cm8e18V2TwaQnA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IDqbrvE8Bt"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3 (23D127) &lt;a href="https://t.co/IDqbrvE8Bt" target="_blank" rel="noopener"&gt;https://t.co/IDqbrvE8Bt&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IDqbrvE8Bt"&gt;&lt;img src="https://cdn4.telesco.pe/file/Yq11iyGwAt2FPqe2OutNicbURSsr1tlY-hClJYp60ILucgbmnBizThLxw_BAljjtxoC8sz3Ut-w3rsgpT8RGe_X1vPya5n8eVJUDmMBuFIkauRsjEDrc_4k1iSvff81s1usWnmj-B2g4QDmRz7T2kjBypdJjWU_W7a7tzCzSYjbRQ50fLsMSgM5zn1q-s9XpxI7bamxBWfI7DUxHi5yUYVmzbt4-QqDrSlTgiMcBw4SVn4sZWEEiueqMHWVNooz62oEN7Mtc_0-iocxWAY0zphdjUrSPETpNyZR191kmU8gI_4vouIlnv3JeXYQ98nWhhBC__NvqIeqiw0RPW2SQVg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IDqbrvE8Bt"&gt;
 iOS 26.3 (23D127) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -181,7 +181,7 @@ iOS 26.3 (23D127) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View d
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 (23D127) &lt;a href="https://t.co/puhtG5mPC9" target="_blank" rel="noopener"&gt;https://t.co/puhtG5mPC9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/puhtG5mPC9"&gt;&lt;img src="https://cdn4.telesco.pe/file/lhkPJdANT2Bh15K0duAE9rn5qzXKKY40xomIV54SKU50LQMQIRAYNf5TQqulkjfzTB34fiafWE6lYucmvBw9-vs98wTRfz96zdxxd8Y3RzyhYCZsNXJcJmNP7eLq8uiey8-8_PcJBrjIv3zpbswtHha9stVC5N7rTANDjPMq7d6lWSfSUf5DdKbuxdcw5J87y39AhD4MEWSggFqtpMVm1V4hqkx0ID7G_N1ZmMfz4x4MqYZyusbsPzmwkNyYYleyHEH6G1z77AMkrWYCkrQuuW7AoR4yFlowDJjsu8xtL4c8UqT0ztRRGlt7f1iC-Zp2-tPrGVelweZWKBJ4iTxHaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/puhtG5mPC9"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3 (23D127) &lt;a href="https://t.co/puhtG5mPC9" target="_blank" rel="noopener"&gt;https://t.co/puhtG5mPC9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/puhtG5mPC9"&gt;&lt;img src="https://cdn4.telesco.pe/file/a5XY-GcZMXuz0GwmHpmFxw-5vozZLgMopgicB0ZC8loL0RJOpQntvjrU1-M30YH5L-JSahse-M1RG8dTluSdEmridsT1INcmzbaE2UQFIu7EHEp5mWLy7NHqN8dd6TmKMktkYbM9-VTx80PzlNeOVXwR0jyslt8KzNBvnXcmcCU2j2KB38tHhE_S04hLczRV_r3lVubTxCTlDRH_u3CdQCHsqdlAnXTCDaHloJGk1KO1hzT7aC-HAArR6keTuv-vr9bfYT1umeXPLdL8-O6NsMJmsHzoTCUzAjbd0K--sQKvCivE3pvT5pRQXvzGJRBQnwNCVgMH2c8xoCDamta7wg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/puhtG5mPC9"&gt;
 iPadOS 26.3 (23D127) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -193,7 +193,7 @@ iPadOS 26.3 (23D127) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vie
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 (25D125) &lt;a href="https://t.co/FlMIeeoyff" target="_blank" rel="noopener"&gt;https://t.co/FlMIeeoyff&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FlMIeeoyff"&gt;&lt;img src="https://cdn4.telesco.pe/file/aP0YoSybasiZBfbnQ634acp7gXfU0yaffDNtA6T1zroVHlOxFGJuIZIjnYdZnpyITTG1UN630uwsw14SxTWNQ5-eBC6cE9ioM6NEdv-3F1XIk6Emkc_LKqZCXDxrDexYAydgv9lV-Lr8ZkiN3tlT50HDod1Z4pQWf61ZSXZinoMSEpjyUp8ONAFpjkLtyT1PfVDaW3pHa_0mxyiabFpUmFRImlSUYmtkAF5Skod6q95M9JMDnLnsg0NsgCPOpCw4TVRnvlWRZ5YFz4xkp6nRA048G1lLXgxuuzOjGBsKkJaX5L5r0pHpI-9n2_KarKdREcKZDFScId47zFJFtndZxw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FlMIeeoyff"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3 (25D125) &lt;a href="https://t.co/FlMIeeoyff" target="_blank" rel="noopener"&gt;https://t.co/FlMIeeoyff&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FlMIeeoyff"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZiADYvyJ8d12ZHPC2l4xbNgcwrI_Ivl_FU1c6DzNEFROF_crzt6r8E-8t_5eA52K70Kaz3FyctiwCQbsxNvmy6mLfuTdUpO3Neya3hFdoNX9CP4eR6Wls7VOL_nV-lDe6CYz0VjMXVxeRRcIkkAQ74RJ7HIxR9nKam9JL5UwLD0W14DSzbCuBycqE8PBdGFIyfM3f8Fqy0VIORVzQ4QZcJCsVJdsv5a9Pm7-6MHTe7jEpscx6sR9wG4pE_6ROOOq_-wzZnScjzBj0Lzyd6dRvOn_uJ1Ys-YzcXmj_dFw-BTtuHgdPnlVTMHLCmg6CZv_lsy7vG7RHCoCYLaVvmpWJg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FlMIeeoyff"&gt;
 macOS 26.3 (25D125) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -205,7 +205,7 @@ macOS 26.3 (25D125) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 (23K620) &lt;a href="https://t.co/KETABEbf16" target="_blank" rel="noopener"&gt;https://t.co/KETABEbf16&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KETABEbf16"&gt;&lt;img src="https://cdn4.telesco.pe/file/GC5pJ4GvYnnYoaHgxjjXIhLuB7XtwqWkxIamW1-kGBv-uLL-BZwag2u97vtVyzwRmIBXjGdkq8dtwIbWjdo_JAS0HmJ-Y-M-9sDoXffuDruZ-2inGCkyEMhUzcYGs0lpxYyUzZH-rIcIuCuiY_5x3RfEaON7tIFiia_FnTff79Tind1haPYnDEUD66MgFwO0HmNnUbxFJxkUm0-MVwu5lhY4SUBIj_A6C2RFYwfJ_xrIuFkQM7H5Vfv1C5PCtnWsixtHo-GWOsMviOeVxpfh6PoNd9CjLPyQR7k_7-5gBBoPoxkEr3RrQJnh8LdUb4g7Rqi-L3emAlDcr6yOwqNiQA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KETABEbf16"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.3 (23K620) &lt;a href="https://t.co/KETABEbf16" target="_blank" rel="noopener"&gt;https://t.co/KETABEbf16&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KETABEbf16"&gt;&lt;img src="https://cdn4.telesco.pe/file/jk0Rrvfx9vvLPgIjJ6qZkPUaeeSude60eTtWi6b56aiDieDKg3sReXFILmCnjeNSOG0THQB0y_w8q1GmPSGvR__dzmzAR8BPOv0KIWIJxJ6Tb-jwkq8I2OKj1jKKUQutQQk-5k3GWwYSRB8DMFIrTqzAMjlCozD0jcYWjE0FJnLD3KR-7vU9QGzACHa-miiq8yPLrZQv7Y7aimbckXIhGvZWMpdz1h3pWJ89cwxQ9DX8fveIn7zI1-pS2FEWS8Trma-JLa2u9TXGQfmNMLI_3D6urr9KjriZOEllhF6qUXbOb-WPjSVQjMVjlYdIew8QG7MUBnvtJ_i0Q73YIk7K_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KETABEbf16"&gt;
 tvOS 26.3 (23K620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -217,7 +217,7 @@ tvOS 26.3 (23K620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 (23N620) &lt;a href="https://t.co/59SFhHofg1" target="_blank" rel="noopener"&gt;https://t.co/59SFhHofg1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;&lt;img src="https://cdn4.telesco.pe/file/b5C2ERmYt2e_jkG0lpRq8jZwFo-HigDe5UXs4QGz8ZKnz1Q6MllfT6n0_byzvlbLILZ1cUQOLQqk5Dp8nFfHt2a5g_xCKuw49Ce01PNgg1NILioZXBkwPiovO1gS6JSga6vmm2f8-qQTXqf3FW1XJhvseb6brD98NbI4gIOb8YI8vZ_EATQEccdQA4iydi0-I668rlZEskdcCtLzUVgWG3dlPwZgPS68Jcs2lXL2yqZNcOzrxu7F-06MI5_8C6NWqBnV_kyDjNXaZxVaNdTgZM7QUf9f7mqzhspiDpccGfvDBTgjpc7nd_o3Egfd0FNYIsm3Y4dhks6CeKfSm9tYsg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.3 (23N620) &lt;a href="https://t.co/59SFhHofg1" target="_blank" rel="noopener"&gt;https://t.co/59SFhHofg1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;&lt;img src="https://cdn4.telesco.pe/file/hD7FWjolbeO8X0NjoeAT144ZZwT7CTMklDeeTUEckaX8n-3f0JHkNDpgcFKRwaasJdIt47NuVZ54WtHaEOjA0vgV1anwrhMa6T6t8qgTIbe-gvDadH_UFNc8YGG8Umdj7mwJ1UF7r7i0vCS9RVtE80k5LVdLVNvzpRQQsugb1_cl42PcI2v4QuqKiE4aLQwI9uyC6ci_5sSangDS6cmxaje0Us2S-ZEe__xWsC0t2JtDWIsSPCGxH07Epablt03swdgkMuwuq9-OHAknzUjUsBH2bZZbojJ2CeHUm-ttThg48ziLO4mN-QBLEs-JPSQRbc3C3ryHH-C5OP03itQeaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/59SFhHofg1"&gt;
 visionOS 26.3 (23N620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -229,7 +229,7 @@ visionOS 26.3 (23N620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;V
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 (23S620) &lt;a href="https://t.co/wYriMSctyT" target="_blank" rel="noopener"&gt;https://t.co/wYriMSctyT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;&lt;img src="https://cdn4.telesco.pe/file/bIL-C1g9VE1ub3hsdnapzAA8c3aAUPSEI6HyjOIVZ8SDgWa7edc5sipUSSre_8NMC132LikgkrzHGIC0gi5FNPaiiUIDMUtbBrpYVo4y8HwVQ7jW6bgHqLRv_MQ_c92m-zv3QM3oOOKY9OdTz4kTb0Jh6hkAE_ITyv6LZPo9QutumtDSPRojZHEcrAchRCRVg2PhLrYYCp3POGJQxFfEpQoqbQ6fEmpPkhZKbU0a9C40OylGDgjRWQJ6bKJ-UvAtPxgsMKYEqdu0pFGdlMqerncX3EWt4OoZkRG2RPk9X2zHGdpPz3XyRoAtlyhstnaIDZ1C-8-J99Ipe63vAiodLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.3 (23S620) &lt;a href="https://t.co/wYriMSctyT" target="_blank" rel="noopener"&gt;https://t.co/wYriMSctyT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;&lt;img src="https://cdn4.telesco.pe/file/hI4o_cjsJBe3znL0YohPb3AxhCd3K0lLqUqaaI3RMo62rXhbcVwVZmoOaQI-z3gfVlZrsxrGsn5EeJQp6M7i3SJt14yQ7EbsURVZ2Jx_UbL1qSX_TwOlFkR6nEPq97T2uG4UtMfVanHpbKzPrFS2e-fF8omEKPH08uSVx3y1z7qZJrU8yxOkaniXqUXpIP5DP0x1RR9foCETvaIlFqRYgSImVcjtqPiC9G3V_O9PN3n_LQcet216i4kyfN5ByXB9EwO97eC8zZUqnuWr0r0ryWsW8xXhoDjFni0OAdB45TroTf1NiMgjnPX-iUxnb8G5vmXF5XhEY3dTFnKN6kM5LQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wYriMSctyT"&gt;
 watchOS 26.3 (23S620) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
