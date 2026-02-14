@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/bUQc-WfsmH8WrxR2EHaEa0HcSepFmyQ5LP7xyy2VnsXhKotO9t-XmmS_t9sOgnKj5fHjesxijUQuLvq2FWOWhmOBud6gxTcT7F8o64cL0KtMQETKcYsA2XpBIJxwADsdHyB-AovdwjsBOL4aG6_QZQd35n2z6VZanBO5e6LVUrKyZCp-6GttUKRD5iuMApE93U0CfIGdC0houScx6XZs7gPpNK27FTg_bI8VSjfRovSj_OvWwST6YtOu4FO73gJ5jfyuFW73uc1uKz27Jn5l2PxWRPwBpNWocakBb3zXZaCncb4wodb8_nrJrHnzF5ZPOvYsLTJ5is7yk6Hz3KUiQA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bUQc-WfsmH8WrxR2EHaEa0HcSepFmyQ5LP7xyy2VnsXhKotO9t-XmmS_t9sOgnKj5fHjesxijUQuLvq2FWOWhmOBud6gxTcT7F8o64cL0KtMQETKcYsA2XpBIJxwADsdHyB-AovdwjsBOL4aG6_QZQd35n2z6VZanBO5e6LVUrKyZCp-6GttUKRD5iuMApE93U0CfIGdC0houScx6XZs7gPpNK27FTg_bI8VSjfRovSj_OvWwST6YtOu4FO73gJ5jfyuFW73uc1uKz27Jn5l2PxWRPwBpNWocakBb3zXZaCncb4wodb8_nrJrHnzF5ZPOvYsLTJ5is7yk6Hz3KUiQA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-14T11:24:57+00:00</updated>
+  <updated>2026-02-14T12:55:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -32,7 +32,7 @@
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;49% - правила (rules)&lt;/li&gt;&lt;li&gt;15% - команды (commands)&lt;/li&gt;&lt;li&gt;41% - навыки (skills)&lt;/li&gt;&lt;li&gt;26% - субагенты (subagents)&lt;/li&gt;&lt;li&gt;49% - mcp-серверы&lt;/li&gt;&lt;li&gt;10% - другое (напишу в комментариях)&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Фичи, которые я использую при работе с кодом, документацией или тестами в проекте (с нейросетью)&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;48% - правила (rules)&lt;/li&gt;&lt;li&gt;18% - команды (commands)&lt;/li&gt;&lt;li&gt;40% - навыки (skills)&lt;/li&gt;&lt;li&gt;28% - субагенты (subagents)&lt;/li&gt;&lt;li&gt;50% - mcp-серверы&lt;/li&gt;&lt;li&gt;10% - другое (напишу в комментариях)&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#android #cursor #qwen&#13;
