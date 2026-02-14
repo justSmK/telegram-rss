@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/fUmMSznMkdvwCOedVqEShEc-2pSuoHp4ruVN95DD1nF1H2BXCgrSn8XOe_YZXOw91RfG-pYpNhLAryLdz0YH9R9mk4Q42v1wTSJXFyHqlPS7d_jr13wccEfNrihCOZs4B5aZAfbDboldz5IfUirRuJPX9EmZ14aSuaErz9ITqqpPVhHNDlHHLO-zyRn0byOghhn0LiNShWJ6ZLvcCBAE2qaLJSyYYwgcB7Yt5CLDQA8kAp1XR8oYIl8rhIq8_UmwLqkcHz-Qq-3mWAQS5lnoaQYSKL2IafDCwzvYpcDp3LzawaJitRW79C2wSdURY0kXF-4RjtsUPgrRE1QyPSpQfQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/fUmMSznMkdvwCOedVqEShEc-2pSuoHp4ruVN95DD1nF1H2BXCgrSn8XOe_YZXOw91RfG-pYpNhLAryLdz0YH9R9mk4Q42v1wTSJXFyHqlPS7d_jr13wccEfNrihCOZs4B5aZAfbDboldz5IfUirRuJPX9EmZ14aSuaErz9ITqqpPVhHNDlHHLO-zyRn0byOghhn0LiNShWJ6ZLvcCBAE2qaLJSyYYwgcB7Yt5CLDQA8kAp1XR8oYIl8rhIq8_UmwLqkcHz-Qq-3mWAQS5lnoaQYSKL2IafDCwzvYpcDp3LzawaJitRW79C2wSdURY0kXF-4RjtsUPgrRE1QyPSpQfQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-14T14:30:52+00:00</updated>
+  <updated>2026-02-14T15:29:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -174,7 +174,7 @@ GitHub - Meridius-Labs/electron-liquid-glass: ⚛️  Electron bindings for A
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Taking First Steps into Metal Shaders &lt;a href="https://t.co/tkw4ht9MGy" target="_blank" rel="noopener"&gt;https://t.co/tkw4ht9MGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/vDdTWuc73h9z2mr9LxWPyTEjkKJpgtPCeP5pHQAhYeWZ3icKC2hG_iHIu9roeFcUBkdiU0yK4wgm9BvPzdNoKNGzk4RawnusiTpqOw79IsZD68yljT3iv9ej0WpcIQXw6EGj9UOcwhHHswBJT7odxWQqV9Q1X3TBLHMFFiKrdVYV98HStDeDMhj6nYe4m4pdxTb-DVbRhS3A40ebcazE3J37WevSjGJC6U9rLmnchD38UqVon_-c8SIyL_9n-G1d4MrFlmZ_7qWI1A9PbkH_Se9rcs4VcpdsXsXpH-1fC14W__lj2TPGoORDB6ETaEfsJv7X2zwHpNtFc-yt4jA6nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Taking First Steps into Metal Shaders &lt;a href="https://t.co/tkw4ht9MGy" target="_blank" rel="noopener"&gt;https://t.co/tkw4ht9MGy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;&lt;img src="https://cdn4.telesco.pe/file/LJEkanh5TvurJTrTQjSLaX9y_kCyuUjsvuxwDyOPc9SJPJqegAvyV-kmdqz122HXX0LbkSwC-yhtiImzAKExgSqO35_toztAAzdPwbxEaZ5bcvR7XQDDaM58HezktKZc4VuoqpSgHOM29zmjl3WicQ_wf8eks9F55YAlE_x0aCYWyCevOBdNfJZG6UMBxHt1URBHpoHgj1JDQeS3qx8R2a4BrjkryRfuUIVFqxquP5NbOBvof8ThzGTq5b7ZBMC6DirN_EYtpdgwYuGQmGX7WIB7O1OEuRYm0oz8-OhBtkYmIi-3rvErd3CiS1y9L154z0iLUc1gp-1AtQYdtW6RNA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tkw4ht9MGy"&gt;
 Taking First Steps into Metal Shaders - Create with Swift&lt;/a&gt;&lt;br&gt;Learn the basics of Metal with SwiftUI to take your first steps on using shaders in your app UI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
