@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/mRQgH3VhVsBlmM1A4hPpHD_wscYCqjS6pa-_HGp3qf9uXLRGtfSUb0ojTz1oshB3U79_zDiL8kJgqyCfSCGPpR8Wquwl-iXgf38zVHpSzFRdzm3d7407s3WAUduJCBzCjC_Em0TRM2F3ConamwVWWnGnUJNNkBcCDoNWdrkbe4b1ptSGpCds7AXbURTp2mgoa_aLB2Z1fzSCs8HBGhshx5z7ad_0TAjqex4OOTULcW3VOZmVTpY4mbglAVqUe2VQfXPHPPcpv_JwIwXxYdERuawPk5u_eh2BmiMwG3rMRL-WeXPAjcGFHe-sUCNeMhcVFvqR5xvpasrq1h4c1LRgoA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/mRQgH3VhVsBlmM1A4hPpHD_wscYCqjS6pa-_HGp3qf9uXLRGtfSUb0ojTz1oshB3U79_zDiL8kJgqyCfSCGPpR8Wquwl-iXgf38zVHpSzFRdzm3d7407s3WAUduJCBzCjC_Em0TRM2F3ConamwVWWnGnUJNNkBcCDoNWdrkbe4b1ptSGpCds7AXbURTp2mgoa_aLB2Z1fzSCs8HBGhshx5z7ad_0TAjqex4OOTULcW3VOZmVTpY4mbglAVqUe2VQfXPHPPcpv_JwIwXxYdERuawPk5u_eh2BmiMwG3rMRL-WeXPAjcGFHe-sUCNeMhcVFvqR5xvpasrq1h4c1LRgoA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-02-13T23:34:36+00:00</updated>
+  <updated>2026-02-14T02:23:11+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -45,7 +45,7 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/techbybird/2100"&gt;&lt;img src="https://cdn4.telesco.pe/file/qdHpLkYQ4MeZD4Cg4ltb9vwdp6SwrfkDa3limwd3ldfwPETaKKCWb2uZCJ2GoiV1RD8-Y3127pt2ZkFdw17fer7aFSp142_Bbrt8mRbd0jUlcn9N0CT3nXB3cvYRnC55pQOkR2P9gyYkkSe6mqLvpW7lUwKarUGe5x5NB7TJEc7LopC7iXl3ZxdwwyOrhhiy85BBuRuCwSgkN7JzRwWFOLs9-iK_1yyKY_oDN3UepnKm_juNC0TNLjdTB_wcMmd40XRjljNulfba-G6P0NBdhhb5VZwA4UJCpiiui1KYBLAwOAbacoxfiWWL2DgGFOb4OIOmfeqp2xjxbjYd0pnHzg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Точка отсчета &lt;a href="https://t.me/techbybird/2096" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;по хуавей-магазину &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Месяц ушёл на публикацию приложения. То проблемы с энролом, то с проверкой приложения&lt;br/&gt;&lt;br/&gt;Консоль хреновая. Ревью 3-7 дней. Реджекты странные&lt;br/&gt;&lt;br/&gt;Что получится заработать напишу через месяц&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/techbybird/2100"&gt;&lt;img src="https://cdn4.telesco.pe/file/mxc73YCl6wPX54Nw8SfS-9A7Cb7sXCWAIw8zjGXLHeZ0l56zcG7DQpC9AUvD0_0lxNXlJlCtUlOgm4IwJQYWLbCGwdFC8oJGc89N7jX-1yLoLngIjwQqKo0fVgvknSuP0uU53YeNgDjbandudsW7Ytmmj7N4ggG20K4A1RkMPBBWw5t_oGXNRgKiBTTC-U7yA_YLiriXDsxwBw-_k_TP7dJaTcqXyas310Bb3PjyPRZiXT86LYUOG3j45RxTH3cpidRFKGjdXMefwhrNg-zeRPOfwbCWG6BERRY3hn-S3AKMnH7OnC1d7l9Ylwz1EowEYKvpT0hZilPrsymlYiUp3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Точка отсчета &lt;a href="https://t.me/techbybird/2096" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;по хуавей-магазину &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Месяц ушёл на публикацию приложения. То проблемы с энролом, то с проверкой приложения&lt;br/&gt;&lt;br/&gt;Консоль хреновая. Ревью 3-7 дней. Реджекты странные&lt;br/&gt;&lt;br/&gt;Что получится заработать напишу через месяц&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Чего-то не хватает нижнему каналу</title>
