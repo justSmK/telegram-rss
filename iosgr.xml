@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/My6s5q8pOYBfp_u7Id-iwRmN0qpLRr9gWwZecf5EdyTBhVhBrRM39Jt1qGXX8vcW4OhqCgVQxjO7i40y_tLU-u4BtghlXhnH_cUKHdTP7jZDxkOr0SRWox4s0Qg_65dVslhi9zfwwvzjjQwUCVdV2ERd4h2qQGst-dgmlArveVP1bmbG6lAGaH4l_lODHH5LyrH75v9t1hgPaB5reE6rgcEEqKtsLDvoP1PnN38E6GgCpg0JbgBeB4M6XPtKTnLDwbZ-wtJnQqCGqJwX34kqu4jKnKHvh7NT601yovl9NDEIdRG7DHBEOaQgwouaULilXhRQeVlgRczFoUxKJkhkcg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/My6s5q8pOYBfp_u7Id-iwRmN0qpLRr9gWwZecf5EdyTBhVhBrRM39Jt1qGXX8vcW4OhqCgVQxjO7i40y_tLU-u4BtghlXhnH_cUKHdTP7jZDxkOr0SRWox4s0Qg_65dVslhi9zfwwvzjjQwUCVdV2ERd4h2qQGst-dgmlArveVP1bmbG6lAGaH4l_lODHH5LyrH75v9t1hgPaB5reE6rgcEEqKtsLDvoP1PnN38E6GgCpg0JbgBeB4M6XPtKTnLDwbZ-wtJnQqCGqJwX34kqu4jKnKHvh7NT601yovl9NDEIdRG7DHBEOaQgwouaULilXhRQeVlgRczFoUxKJkhkcg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-15T11:25:33+00:00</updated>
+  <updated>2026-02-15T12:57:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">@iosgr posted a photo</title>
+    <published>2026-02-15T12:36:28+00:00</published>
+    <updated>2026-02-15T12:36:28+00:00</updated>
+    <id>https://t.me/iosgr/4608</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4608"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT&lt;br&gt;
+Новых приложений в App Store стало намного больше  Впервые за много лет количество новых приложений, появившихся за месяц в App Store, существенно выросло. Все связывают это с тем, что с помощью агентов делать приложения стало намного проще.
+&lt;a href="https://t.me/iosgr/4596"&gt;https://t.me/iosgr/4596&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;a href="https://t.me/iosgr/4608"&gt;&lt;img src="https://cdn4.telesco.pe/file/jVg3D0Z9X-ubsRvNYaxmP_QE-iJ3t4lY6a3tNor5sPBFzd9uchgdXH9akDiSS_0YHnrdBSuN4NAFXdOAuKwBTnIx4YQtY1lk_1gGZ2053I3t93_7xwESfk0d0xOdb_8Uybdwegvx02qYF8LF9GN7jz1mlHctEB9SdZTUGxquD1ISL4shK0ayWzI5xNVyLxLV6ZUV9oAo-3sRnwcpKH8pGXYjzgAcyS1YBiyP7gkm-w0dA3PTBKlDJDhiwkX2iH_mL4_iHnZeBjTynr_tB2rRviHxmvkDWwujkGz6_Za59TilACHBeJfLY8gg36qDHagVjNVSAvLB01A-SXgLhPtWIQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;</content>
+  </entry>
   <entry>
     <title type="html">Работа с Xcode MCP&#13;
 &#13;
@@ -255,18 +268,5 @@ Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4589"&gt;&lt;img src="https://cdn4.telesco.pe/file/uOVRQXWpq9a5XBTisq_80XoYuT3OrAXhRuPzq1gD2BBVU0eRMf91tIQ99JiFss2HZEVS8ya7b_jNPqTL_8Cub5y4z2UfMaCY-mGpcQy42-pu7BEy19d6u5nth6hxrxkVSQv2PrA5LJ9bgjKuyvd0sMIhNdFSMNTb6xX54WgOc0nhDvFdKSfXzZugS83i07m-hQfQjuPZwEXvs6q6iVz2-aT8gvsvxllYkC0i_DvO3q7Zf4Va0B1FW7TKXvQU46fDAkkNYI6Kz2dhxhVk-xmY8QtTsTPfGSKX0TAiavSSoHrXSQp-sN4c5SRWEbv2LvdC7JtSppor4kk7Yhwzfr_5lQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если построить иконки Apple от самых новых к самым старым, можно увидеть, как начинающий дизайнер постепенно учится делать классные иконки&amp;#33;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Проблемы Tab Bar в iOS 26&#13;
-&#13;
-В iOS 26 в таббаре появился новый...</title>
-    <published>2026-01-21T06:06:21+00:00</published>
-    <updated>2026-01-21T06:06:21+00:00</updated>
-    <id>https://t.me/iosgr/4587</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4587"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4587?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/uTUPaS9mINpScHGCLZ0XjCcFEkTzYkCDJq6CbtSid1W51TkvTWaIFI9PgavELlm6eazbStfdi6UsLJbKPN65ZsQ_4GuOrK3wd4--ucA4ZtzL9Y9Dn4VEn-hstyFTnDv-3OdclNPDBRLJ5WvirqctkTwECKXD02nyR0jSeeuD_kfalKTfZ3s4RXfVS3z_JIrYxLofLV4dvUhVxQPVfZNnOGdVTJPn_DsqVOAOPqphjiIq6O3DmcGjINTslxsXzpD18GzAhdbzoxvb9xcq-XFXr6BHqCl70-16kpBlnqz44pCZ-Unc31_CoWjfoazYYoaPstL1b0wCdZJt0i7ZmH8kgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/iosgr/4588?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/Vf_oqbfGcdGjfVyaUjrjHX20axBE-dg8Prv9BNB0QuIU97ya2Q5OenlN6CpngZiL2irLm8xNiDTSmony3dRAC7aFe21IgQxg3T85DBsDnck8UNlY8YQ9J3Jgd3LObxwUMPYCjlsXjR5wrTLLm3PNH5j1-eJlZCeDdFiiiHd26Zyb9xMcCPER09coROVeeHLL7L9vEyGf54yC81swrHtBjQ1qmlx15-EfPbYi9ifVjUyoIlOFt1mSw61eGrXIOUgj6qOa0blPvm4J_WraqchRdcqyV30Yft_TfW2mHxBkNAnxtOBW9CCO2lXXEFG0z7S0E17ZSO3Mm0wEiT97up_IBg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Проблемы Tab Bar в iOS 26&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26 в таббаре появился новый специальный вид таба – поиск, который визуально отделен от остальной панели и в целом похож на кнопку. В том и кроется проблема – из-за этой похожести в кастомных реализациях таббара туда начинают добавлять другие действия – например, создание нового элемента, что будет путать пользователей еще сильнее.&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
