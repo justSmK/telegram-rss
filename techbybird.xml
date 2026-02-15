@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/hqxJUDXWnGLCkhFhCGA39sgZvJGMjIRyK4Q5ndEWKlCDlWO2MEr_gVygkuv3l80VX-tzfhVkkb6OsEZ2YMfEsK-xuV86O1oCS6qwp4CrIQH6osK5sd5WrtFYxH2pwKtCxROF8DH3Tij1iVJekxylS_ke312mTpnHayiYUH-9rOmAmPVAAM_gW02Q2hWQyeIWqJysdrdFujd_sW5J6cKRtwegyiIZILT8h-PO7a_LfwCanH9ojwnsIYjAPLulfIeqcuZdir4st3bNPE8dyO9YNPrCf39gMmODYZE8BZYnOLeY5WiKZTVIG9V6A9U_H1t5Sfvt39YgwoZd0_kPAf5WgA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hqxJUDXWnGLCkhFhCGA39sgZvJGMjIRyK4Q5ndEWKlCDlWO2MEr_gVygkuv3l80VX-tzfhVkkb6OsEZ2YMfEsK-xuV86O1oCS6qwp4CrIQH6osK5sd5WrtFYxH2pwKtCxROF8DH3Tij1iVJekxylS_ke312mTpnHayiYUH-9rOmAmPVAAM_gW02Q2hWQyeIWqJysdrdFujd_sW5J6cKRtwegyiIZILT8h-PO7a_LfwCanH9ojwnsIYjAPLulfIeqcuZdir4st3bNPE8dyO9YNPrCf39gMmODYZE8BZYnOLeY5WiKZTVIG9V6A9U_H1t5Sfvt39YgwoZd0_kPAf5WgA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-02-15T19:29:10+00:00</updated>
+  <updated>2026-02-15T20:31:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">искусственный интеллект заменил...</title>
+    <published>2026-02-15T19:38:40+00:00</published>
+    <updated>2026-02-15T19:38:40+00:00</updated>
+    <id>https://t.me/techbybird/2104</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2104"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Воробей&lt;br&gt;
+&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"&gt;&lt;b&gt;😂&lt;/b&gt;&lt;/i&gt;
+&lt;a href="https://t.me/techbybird/2103"&gt;https://t.me/techbybird/2103&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;искусственный интеллект заменил _ВСТАВИТЬПРОФЕССИЮ_&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Я пиздил готовые куски кода ещё 10 лет назад — прямо из ответов на Stack Overflow. Сэм Альтман тогда только выбирал между бизнесами: GPT или кофейня на районе&lt;br/&gt;&lt;br/&gt;Я копировал код не потому, что тупой (я отличный программист), а потому, что не запоминал конструкции. Нужна сортировка массива — гуглил строчки для сортировки. Я мог найти код в документации, но так быстрее&lt;br/&gt;&lt;br/&gt;Я контролировал проект, управлял архитектурой, сложностью и его будущим. Я выбирал, что оптимизировать, вынести в модуль или сделать из говна. Всё это вместе — стратегия. Любая задача следует стратегии. GPT вам не даст даже капли этого&lt;br/&gt;&lt;br/&gt;Мой ответ, кого заменит GPT: &lt;tg-spoiler&gt;кто спрашивает у GPT, как стать богатым. Топ-10 способов. С выходными и включая путешествия. Если спрашиваете —&lt;/tg-spoiler&gt; значит, вас заменят&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">😂</title>
     <published>2026-02-15T15:19:48+00:00</published>
@@ -235,18 +248,5 @@
       <name>Воробей</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Павел Дуров показал сосун. Пруф в коментах&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Помните, я энролился в русторе?&#13;
-&#13;
-Сейчас меняю UK-юр....</title>
-    <published>2025-10-28T15:29:40+00:00</published>
-    <updated>2025-10-28T15:29:40+00:00</updated>
-    <id>https://t.me/techbybird/2080</id>
-    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2080"/>
-    <author>
-      <name>Воробей</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/techbybird/2080"&gt;&lt;img src="https://cdn4.telesco.pe/file/r5tnb-hzutHtdugYAgzaddSugdkOidG8hYFXz4vKzzE52dRHqTgQoR-EeWqXrsZZTmoVwffkkppC9WMJC-yCxuSnVgqPKvrOLy-_d-PWT-8p1A6phsw9im-DzGWylVOoCVKCD-rhBDavlBRq9Fh3z8r9ELtryj6zJ7k8vOd4HhZpgBUFFEBblfsYoiodAsg0g4HHjqqdRX2SQ2z4OlzERqSbbdc_rfTvM53lx2myGQAliZT3gWZDgEd9UNkonROAzGNBpygxr7Dkp4dKk6oLud1v5BJwxbxOFUUstyPM9xf3iV7-gehKibmAvA24ESfa5FKSJjhnSEdYOpBOR9_sBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Помните, &lt;a href="https://t.me/techbybird/2044" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;я энролился в русторе?&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Сейчас меняю UK-юр. лицо на РФ. Саппорт сказал зарегать новый аккаунт и они сами все перенесут &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"&gt;&lt;b&gt;❤️&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Эпл бы &lt;tg-spoiler&gt;выеб*ли меня и всех паблишеров, кто дышал со мной в одной комнате. Перенос я блин придумал&lt;/tg-spoiler&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
