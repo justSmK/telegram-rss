@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-16T15:43:11+00:00</updated>
+  <updated>2026-02-16T16:51:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Setting up a delivery pipeline for your agentic iOS projects https://t.co/trNNcOp1US</title>
+    <published>2026-02-16T16:17:43+00:00</published>
+    <updated>2026-02-16T16:17:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25975</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25975"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/bIVA5Lx5lHKyDbDqvzYRLdfP8fL3orvuv2veY4WH6ecYi16GCKv4T0i8ZqTO4PDGGX7_YE1HjQrz7FAz7jN1KmTrNcPXJ8G7be3Iu106HmIzL-VkqnIv_w2aiIA3qIPGkdJc6L6q_zsooMUYOyUBozuyko_3nNO44VpilZS23ROQpgElq2mRsuHkrvBz7UvqJG6sbd5ZY-Z02RTtITAvwNdgY2haIpzo3-8DwdQZNgKo3HVAyFpRcMfjwZFf4XPjENoy5RmOaZ7LjG3jEAqHTVBescO4ua3Aok6pkdjjP7vIt9uvMllBWYcQN18w4djJgYAbelabn76ya7gkQ32rsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
+Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : yattee/yattee https://t.co/8eebA9RObD</title>
     <published>2026-02-16T02:17:19+00:00</published>
@@ -237,17 +249,5 @@ React Native Navigation 101 - Whacky Labs&lt;/a&gt;&lt;br&gt;This is a quick gui
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi &lt;a href="https://t.co/Im2K8U0FIJ" target="_blank" rel="noopener"&gt;https://t.co/Im2K8U0FIJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;
 I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi - @samwize&lt;/a&gt;&lt;br&gt;After years of legacy dotfiles and oh-my-zsh, I moved to a lean chezmoi setup with agent-assisted cleanup.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : googlemaps/google-maps-ios-utils https://t.co/UR1wY4sQCa</title>
-    <published>2026-02-13T02:12:19+00:00</published>
-    <updated>2026-02-13T02:12:19+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25955</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25955"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : googlemaps/google-maps-ios-utils &lt;a href="https://t.co/UR1wY4sQCa" target="_blank" rel="noopener"&gt;https://t.co/UR1wY4sQCa&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UR1wY4sQCa"&gt;&lt;img src="https://cdn4.telesco.pe/file/NuJzdeRQa2G5lu-YyL4X6Syx4bs4-Cgsdfbjfxdxms5HTUkFgpERfX3vbnOlD0gb3w8xWzZN80Fa55gYbtFA1pW0gvjkjzJjpUMddRXHja7jAeDieGIalht1cezU80fmSlpq5d-rmxM3PiOmnFGvo4W6FLNXNGMcgAOQyV8NPfalDY4ijT2Jg19Y2S_EBLiCElW_uBRP98JS6hpw-Lq8MnNMHBRVxtDu7uoCSnKqK8hZMoofu9clqLIpCM9jo5kYxSOefwV3mvJW0VVHzreCsb0GTjD880Vtnq5nhm8PewRiMSLJhra6gF-PnfMuBos5uYF9Hw-GNniBMyPBisS3bA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UR1wY4sQCa"&gt;
-GitHub - googlemaps/google-maps-ios-utils: Google Maps SDK for iOS Utility Library - GitHub&lt;/a&gt;&lt;br&gt;Google Maps SDK for iOS Utility Library. Contribute to googlemaps/google-maps-ios-utils development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
