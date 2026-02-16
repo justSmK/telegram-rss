@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-16T20:35:45+00:00</updated>
+  <updated>2026-02-16T21:32:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs https://t.co/5ltBlDXSPb</title>
+    <published>2026-02-16T21:17:51+00:00</published>
+    <updated>2026-02-16T21:17:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25978</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25978"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs &lt;a href="https://t.co/5ltBlDXSPb" target="_blank" rel="noopener"&gt;https://t.co/5ltBlDXSPb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;&lt;img src="https://cdn4.telesco.pe/file/TFdgzWHPSrciNq8z3NtUt_CA50Ke8iQo6rIBEmapb85oSyojj8BOVdos-Atu00x6JUkFirJtgFIy4g6j366ogu5cScNf7mGGNhHpf7-XCC4ZLDmL4KHRriqDrEGxsoSnUO7dZwCuQEyIZYa3aJY6s1OhYBn_bqXOYM_-lHL5vqwNTAc9jKoPdeBOIjUSMkXyn2ycsT9bEjwBNexti2674FQjjmnFfIajdHEMfhTsbMPY2eGgRoaOccQ57SXcm7wgaJ-Vy3bxgMWM69AAgS7my_0Z1uQSDAZbk3hqVafZwJ9S4oKPjz8HsDaGWN1HwOQiHpxJ8cI7YFExrQiAkSW-tw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;
+Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;I used Claude Code to create an Emacs GUI window (frame) package. Press a key. Get Emacs. Press again. It&amp;#39;s gone.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to build a simple CLI tool using Swift https://t.co/p1R5hgf5pR</title>
     <published>2026-02-16T19:32:43+00:00</published>
@@ -238,17 +250,5 @@ GitHub - Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI -
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Lets make a React Native Host Component &lt;a href="https://t.co/bQQskTuM3m" target="_blank" rel="noopener"&gt;https://t.co/bQQskTuM3m&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bQQskTuM3m"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bQQskTuM3m"&gt;
 Lets make a React Native Host Component - Whacky Labs&lt;/a&gt;&lt;br&gt;They say if you really wanna know how React Native works make a host component. So that is the task for the day.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">React Native Navigation 101 https://t.co/XJTW4RR9ku</title>
-    <published>2026-02-13T22:17:35+00:00</published>
-    <updated>2026-02-13T22:17:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25958</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25958"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;React Native Navigation 101 &lt;a href="https://t.co/XJTW4RR9ku" target="_blank" rel="noopener"&gt;https://t.co/XJTW4RR9ku&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;
-React Native Navigation 101 - Whacky Labs&lt;/a&gt;&lt;br&gt;This is a quick guide to various navigation patterns in react native.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
