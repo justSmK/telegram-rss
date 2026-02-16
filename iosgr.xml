@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/BNQ6yBgis8dpYC6yb2df3sCLH57kBg6v-TshcMXhnGP2fEDL8XZ7xQTHAuj4PW2P2ANrZ4d3Fks3nk7tgK-ZTP54SD0CGJyywtgcIuwDqN2SD_AWzEmvVRb7SjO4cKIBQ-RdMTIOSPD42PHsc_y9Bx4Mv9GuY0valQeUQifefKopVeiV9STDLHN9oi4C7yuQy3g13s7tpfGCz39M6W399wtoNrlBylazJKLjSaperMI0jW4bfRCssEw6UIfTIYbpHRHVX1eufJlg31012jurtJoSluyq4qHqjiRaZvNxtVhfcOD6mljdysTxeWbFGO9BiiJ5xZm63-0Qm0OHUjTzdQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BNQ6yBgis8dpYC6yb2df3sCLH57kBg6v-TshcMXhnGP2fEDL8XZ7xQTHAuj4PW2P2ANrZ4d3Fks3nk7tgK-ZTP54SD0CGJyywtgcIuwDqN2SD_AWzEmvVRb7SjO4cKIBQ-RdMTIOSPD42PHsc_y9Bx4Mv9GuY0valQeUQifefKopVeiV9STDLHN9oi4C7yuQy3g13s7tpfGCz39M6W399wtoNrlBylazJKLjSaperMI0jW4bfRCssEw6UIfTIYbpHRHVX1eufJlg31012jurtJoSluyq4qHqjiRaZvNxtVhfcOD6mljdysTxeWbFGO9BiiJ5xZm63-0Qm0OHUjTzdQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-16T05:01:36+00:00</updated>
+  <updated>2026-02-16T07:07:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SimTag – упрощаем работу с несколькими ветками&#13;
+&#13;
+Скорее...</title>
+    <published>2026-02-16T06:02:54+00:00</published>
+    <updated>2026-02-16T06:02:54+00:00</updated>
+    <id>https://t.me/iosgr/4609</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4609"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4609"&gt;&lt;img src="https://cdn4.telesco.pe/file/VehEpIKAlEeRDd_KsTP4y2r-S7h3TibvEXW4nN4E8WUsyP7OWKi4ymm3DpiG7PXZrPur-URCYzDNXsYp5GR0m7pUohL7qHU6ID6U9TGZ6GlPHNnINNT6cwRfivqkNCRtBM9Wj8VfJmk5bw0IX6AFSw7KQcmaJnCdcARw9crre7JTblUvfJOxeJae_hJvTqTOvtNEWyF4aQjHybuLcRR17KpuPTYoHbV4_FJeIu9lQEjYon9En6MPh117YUVSiBi89K7nIVEW_jLl0H9bbXVQZHpG_aXMYqp5DL8i0P0IgkQa-PvbQFcA4Lf6rR89dFmoYG2zBdBe8NGWWVbK2f6F8g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://digitalbunker.dev/simtag-context-for-your-ios-simulators/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;SimTag – упрощаем работу с несколькими ветками&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Скорее всего, вы уже кое-как приспособились к тому, чтобы работать сразу над несколькими задачами в параллели – с агентами тяжело работать по-другому. Держите SimTag, небольшой инструмент, который чуть упростит вашу работу с симуляторами – на каждый из них будет добавляться оверлей с названием ветки, из которой он был запущен.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">@iosgr posted a photo</title>
     <published>2026-02-15T12:36:28+00:00</published>
@@ -34,7 +47,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Работа с Xcode MCP&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Подробная инструкция по настройке встроенного в новый Xcode MCP сервера, подключению его к Claude Code / Cursor, и особенеостям работы со всеми доступными тулами.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;&lt;img src="https://cdn4.telesco.pe/file/erdnfGG2lLEA5O5y7a-uv8WrTrEwfB9kWqhKGmBbY_oZm8Iem-FBH6elu4EvsfohNRkY-kVNggqm9ANi2SQYJUMjemO48KMopySiETkdWNfpkqsSH0KrU7jtvNtq4kxQ27EMK2scskQo2aN4VkWWxVwKnUoeaarV-K96VeO05So4vvuJ0foeTtVMpSwtT3Wku4kCrtYbZnvgxdJKmwpeEX_6IrF8G4nWR4g2IoiwSC5UNiR_5lvruZiBXHYyCKk2KgkhgQ2FK1O0Bc6gpXDvCgZCamb17YTopbNkIjjPGhYLJAJbfW3-HfYr2NbUnv2pk0yrRSZ7l7zVwwY2nO2Qaw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Работа с Xcode MCP&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Подробная инструкция по настройке встроенного в новый Xcode MCP сервера, подключению его к Claude Code / Cursor, и особенеостям работы со всеми доступными тулами.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;&lt;img src="https://cdn4.telesco.pe/file/As73c3bJ-F25-1FUhOZTuDN7r0MLobFsjVIUfYlZF3HTaeTZJgbWJz3esBZtMKelQVBhC2cTHIqxDEdNVKgnhhhMam7eU6VkFVVEYvBB1AHAVUMHjh_LwL5xWA7a9VC6xgJ9wPUB6jx9xmRGVBIoM_p7yC1Vl_Ii78qOTMqyd1BlV2OrDs0EiJ3FFXWj64qv0xRkEPW6cHvVHYoklpiAXDYj9HM69jripzYSTFGNH8DOVmiocrC2U-im-qUt--x0CRoPHheUz2VJ5aQg_AEd1kcfKaZHQ5hN4Djb-yIBfUsIrRlJauKBMGOi5i1AUtUW5a_qpo6yqn6fe0ETClOJfw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;
 Exploring AI Driven Coding: Using Xcode 26.3 MCP Tools in Cursor, Claude Code and Codex - Rudrank&lt;/a&gt;&lt;br&gt;Xcode 26.3 ships with 20 native MCP tools for AI agents. Learn how to use Xcode&amp;#39;s DocumentationSearch, BuildProject, RenderPreview, and more from Cursor, Claude CLI, or any MCP client using the mcpbridge.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -257,16 +270,5 @@ Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://skip.dev/blog/skip-is-free/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Skip теперь бесплатный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Про Skip, набор инструментов для транспилирования Swift в Kotlin, мы на канале говорили довольно часто. Большого адопшна у ребят так и не случилось, но главное, чего они добились – добавили Android в список официальных таргетов Swift и запустили полноценную рабочую группу вокруг проекта.&lt;br/&gt;&lt;br/&gt;Так вот, раньше большая часть Skip была закрытой и платной, а с этой недели бизнес-модель меняется, и все выкладывается в опенсорс. Основная причина – никто не хочет платить за инструменты для разработки. Выживет ли проект дальше, пока не очень понятно, будем следить.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Если построить иконки Apple от самых новых к самым...</title>
-    <published>2026-01-22T06:04:10+00:00</published>
-    <updated>2026-01-22T06:04:10+00:00</updated>
-    <id>https://t.me/iosgr/4589</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4589"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4589"&gt;&lt;img src="https://cdn4.telesco.pe/file/ttShr4n2z1mRtnKRJB38e_Wn12tJKBfdrzrVtwQGqMakGHSHZcLB_RoiQILptREU36YXGbkj8KQ9I9lU5Qv_Ebd7ZniHSwsWsjtlhgd_amR9jEWsKoFgMw6_R3ls-stFBE-xg5VFRYy8XeOOBvYW_gEBJazs9rIeDcO1aeyyGxq5W_W8IIx9T4m3oYg1YHJzlRU1-LHwmwGX_kXej1QeYZ2BXjswElbPMbG_BoTSFATmhm2_YPGq9o-3twli9f1mCwqoxNt1BtXkhPaFlIxwcJjs6m42gQS1DcjD5zf3xNdl6C_1wL66zTnaWTKKt4AVADRUMe_T4H_NszfomANuZA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Если построить иконки Apple от самых новых к самым старым, можно увидеть, как начинающий дизайнер постепенно учится делать классные иконки&amp;#33;&lt;/div&gt;</content>
   </entry>
 </feed>
