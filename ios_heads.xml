@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/ffjcm5patdjLZ9FRh986KJOXPaWXs-sd5QL_WKJIOGZVLMOGN6x_NLLV-soYHq9CY6yVp-S8NN3-AxKUW4nxrKCNb0Oj30eif42MdnktjN2sHONw_7NKVGTG-0s1ZyU-2ZyNGStjQV_uHqIKo-cfwlVadHHGoIejbcBTYIV9tKtyYid200mJPBjoMhDfgqBQKnwYMgFFTktra7_nuPQB_9QkoLeEM1at76-qBSeEmw4RN04p64VSOGK5Lyzy1rdUhT1HMEntF38hE22SOXs46qmE0LO5YGdyC06Xh5Sh3Al6xLa4wBk5bCObZZlmWvCQ7kPJnvQgg-Tforpjy_iIpA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ffjcm5patdjLZ9FRh986KJOXPaWXs-sd5QL_WKJIOGZVLMOGN6x_NLLV-soYHq9CY6yVp-S8NN3-AxKUW4nxrKCNb0Oj30eif42MdnktjN2sHONw_7NKVGTG-0s1ZyU-2ZyNGStjQV_uHqIKo-cfwlVadHHGoIejbcBTYIV9tKtyYid200mJPBjoMhDfgqBQKnwYMgFFTktra7_nuPQB_9QkoLeEM1at76-qBSeEmw4RN04p64VSOGK5Lyzy1rdUhT1HMEntF38hE22SOXs46qmE0LO5YGdyC06Xh5Sh3Al6xLa4wBk5bCObZZlmWvCQ7kPJnvQgg-Tforpjy_iIpA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-16T19:33:55+00:00</updated>
+  <updated>2026-02-16T20:35:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -251,7 +251,7 @@ Approachable Concurrency in Swift 6.2: A Clear Guide - SwiftLee&lt;/a&gt;&lt;br&
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Интересные рассуждения про Task в SwiftUI на примере загрузки картинкки. Про проблемы и даже от команды Apple есть ответ&amp;#33;&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener"&gt;https://chris.eidhof.nl/post/swiftui-task-identity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/vKIv2n0cvOtki6V8O0CEHSKePjORxLUi2KLI605YpJJPx8gTFpEh5YYzI97iFDudtKa_ugC_ul7XPGel9qUd_Ig1StB1EHyfeJ-_ajNqh9-319HwP5dbdDYhLLaNAPT8agWn3tTJdZ-PqWBoajpg9Av9AisoUwFFtkc2VOqLRrLC6Ki-tO5-23DYJOlGfzBMQc-mjoADigYYiarP4CgfYHz-Z7-VwR82lCURClpY4XUAWEXMJKGGqNX0o_WUKtmScPZujihE01QfbtL91Ux1BeiV9tDUNTu6Fl1BwsOygJFEwYwwcVfhZSXMklmzofPhAEHyjWbTr-gzQ8rlP1lXpQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Интересные рассуждения про Task в SwiftUI на примере загрузки картинкки. Про проблемы и даже от команды Apple есть ответ&amp;#33;&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener"&gt;https://chris.eidhof.nl/post/swiftui-task-identity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/A4tLcU1dV1EvNrI_WWU_3U1Zv7gnRB2iRAii00fUc45Uq3NoBmRkXT08Ff3My_7eBzcr_tBMKdhukTPXXTrIoPFriBlGtlhHD9grHyZygyyMs_gWjem_tGBR99i1A3wW8RHPZviO6U0w-iCH7dkt1BCJoZZf-JFW65M9tCjZxCcA_iu-AgC-xckcTxXxYLuEBaAE1IePRnnXsaAGOOvV0rP7HTqhMwoSWxGZkPFM4kiA1J0N1TnY8QfKkJ0x1h2SBMAdc6u6srJsIYUibaAR3ath-GwFCMGQo4sAYxB9vNfjOZuNYuzj_MlKviT_VFZWjz7tsB3PX1JVl-vZzpp5gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
 Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
 </feed>
