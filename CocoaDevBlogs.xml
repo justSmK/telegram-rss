@@ -6,10 +6,34 @@
   <icon>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JoMeTfhAb8dxYUMZ8QZ4UPpYfgeTF3ivG9Bmud13IJlAKX0pN1KJsfYCAf2uAu0Q25BIO7mCxJ_eM6YvlhmgzzezjN7krD4RjBGRoc42HLuOtE9SBklWscOE5tAow1l1t75KV5eiaoEfJrdcwX8KqKCCKD38vwTtor6L2-UZ2BSBdGOQKy2go0MMzGzbd7S_CJKUwWxMI3HK77b83KrgJTqyonwSbxosUKR85K_-_VCRAYTkqjX2KhWwsfmWf0reNlYf0n4ecYnqCRg09AZIn2YIJZEbRSNewyRGicG4Pv259tNkJfZNCW2AzrU7JF8xIDAYfGjjPWqPx-KrwrqY1Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-16T18:49:57+00:00</updated>
+  <updated>2026-02-16T19:33:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to build a simple CLI tool using Swift https://t.co/p1R5hgf5pR</title>
+    <published>2026-02-16T19:32:43+00:00</published>
+    <updated>2026-02-16T19:32:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25977</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25977"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to build a simple CLI tool using Swift &lt;a href="https://t.co/p1R5hgf5pR" target="_blank" rel="noopener"&gt;https://t.co/p1R5hgf5pR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;&lt;img src="https://cdn4.telesco.pe/file/RNqNEqwS-8bSbxD2EwAaXy-8ohYO7rSLN4MgrujZ_krZUKoMGKWwTxkQfvQ2bWhPyVxnVQgdzdot2kiIxUFR2I61JPKZELRfnM-GiTWZBpJ7VhGlgNiSqswkQN8O-lq51ViZ3ioB1otqb6_LAQf5Z0NDh9E-rrAQL6V7QlzQ7Oab5QqjeIChPli9-0GXm7ID4MDQgYydLXJ1351b5Wg5s40tVQ9o5u3NMRcBZ6TPps7aTXl9Ec1JX0m6Q_6qRCyqZE_fUgVngvGvEZZ-lrN0DQqyZ93K4C1t5ori0K_oOKBwtLbBFwgDVv76QoVAltb8H7A2e-B-8ThCKmjujtd3TA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;
+How to build a simple CLI tool using Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how to build a simple command-line tool using Swift, parse arguments, and create a solid foundation for automation and scripting.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Get ready with the latest beta releases https://t.co/y05LiJIHA4</title>
+    <published>2026-02-16T18:57:49+00:00</published>
+    <updated>2026-02-16T18:57:49+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25976</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25976"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Get ready with the latest beta releases &lt;a href="https://t.co/y05LiJIHA4" target="_blank" rel="noopener"&gt;https://t.co/y05LiJIHA4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;&lt;img src="https://cdn4.telesco.pe/file/s8M8odK5eST9JC1Nj_UjQakOMfFscFpAeLsogMucAowVt4bP2Gd0WNwwJ_e2aob8no9TBAyPAFLgmvupYJcMmT-AE4v37tH6qj4jgHghL_pwRo-HUUvnmPQiVbVzSAjRWd9fliZgGXuV_hzfldMdLMT6CJmm-Aa1CRXHZWQS3fpdQ1Mc8SUTBwTNhl-EwSzlDSzhxDB5B0_Jz1rMBvJlGaYDjhOy_Y-wh0GxK5lgKPUkU5aQj5kNnmZIb07BaW1vmRPCaqcvYhNclfk7_sVgckQ37vsbZxNSR1Mca839Frp4uFo-7OYe100eie1xLu_rFvzGup-U5xCW2OU_tNLciQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;
+Get ready with the latest beta releases - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The beta versions of iOS&amp;nbsp;26.4, iPadOS&amp;nbsp;26.4, macOS&amp;nbsp;26.4, tvOS&amp;nbsp;26.4, visionOS&amp;nbsp;26.4, and watchOS&amp;nbsp;26.4 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.4 beta to take advantage…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Setting up a delivery pipeline for your agentic iOS projects https://t.co/trNNcOp1US</title>
     <published>2026-02-16T16:17:43+00:00</published>
@@ -226,28 +250,5 @@ Lets make a React Native Host Component - Whacky Labs&lt;/a&gt;&lt;br&gt;They sa
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;React Native Navigation 101 &lt;a href="https://t.co/XJTW4RR9ku" target="_blank" rel="noopener"&gt;https://t.co/XJTW4RR9ku&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XJTW4RR9ku"&gt;
 React Native Navigation 101 - Whacky Labs&lt;/a&gt;&lt;br&gt;This is a quick guide to various navigation patterns in react native.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS Dev Weekly: Issue 743 https://t.co/Eymla9BxnP</title>
-    <published>2026-02-13T19:12:28+00:00</published>
-    <updated>2026-02-13T19:12:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25957</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25957"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 743 &lt;a href="https://t.co/Eymla9BxnP" target="_blank" rel="noopener"&gt;https://t.co/Eymla9BxnP&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi https://t.co/Im2K8U0FIJ</title>
-    <published>2026-02-13T07:42:21+00:00</published>
-    <updated>2026-02-13T07:42:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25956</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25956"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi &lt;a href="https://t.co/Im2K8U0FIJ" target="_blank" rel="noopener"&gt;https://t.co/Im2K8U0FIJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Im2K8U0FIJ"&gt;
-I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi - @samwize&lt;/a&gt;&lt;br&gt;After years of legacy dotfiles and oh-my-zsh, I moved to a lean chezmoi setup with agent-assisted cleanup.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
