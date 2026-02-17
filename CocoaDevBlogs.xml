@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-17T11:41:13+00:00</updated>
+  <updated>2026-02-17T13:10:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Tracking token usage in Foundation Models https://t.co/7ehuWo5nRg</title>
+    <published>2026-02-17T11:47:54+00:00</published>
+    <updated>2026-02-17T11:47:54+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25981</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25981"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Tracking token usage in Foundation Models &lt;a href="https://t.co/7ehuWo5nRg" target="_blank" rel="noopener"&gt;https://t.co/7ehuWo5nRg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;&lt;img src="https://cdn4.telesco.pe/file/GJDn8tDQ5cnouKhLWdfDYmW5GTKFJYyB0fSPQBql-ROtbfq5-Swd3br_clTggsaQ6dJpFIa47JEFezMCJINygHl7kn6Z9wOaAO-ceLPAT4EOjFWQa0ZGaHaoHrAOL73A_Vcx-oh-xHv2uvzedQ7_B2c4aN-J7d63mswmEUmibdTEAqdLMH-qvuKanORyJNrxXFZevEfPlS2gB4PTu5c73tJ-eoh5J0Kk32qGhl8-obQ9I7b7EzMNmMnoBVBGc2KpPqMXA5Ezw-FWbxLCn3b3tc2nWXTAn9Z2lPqA_poH8_WeszqydBkdy3hcSW6KXVzV4jIFqqb0p0lL_se-hgDUkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;
+Tracking token usage in Foundation Models - Artem Novichkov&lt;/a&gt;&lt;br&gt;Measuring instructions, prompts, and transcripts against the context window&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Swift Testing Agent Skill: Write high quality tests with AI https://t.co/cdzNu0VV5G</title>
     <published>2026-02-17T09:47:27+00:00</published>
@@ -238,17 +250,5 @@ GitHub - pinterest/PINRemoteImage: A thread safe, performant, feature rich image
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OAuthSwift/OAuthSwift &lt;a href="https://t.co/Dr73A0CrzB" target="_blank" rel="noopener"&gt;https://t.co/Dr73A0CrzB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Dr73A0CrzB"&gt;&lt;img src="https://cdn4.telesco.pe/file/pZVtMmd_3s_WHkC8h_Ac29Wc5rb40cBY6odf_C8VM01AhFWqBBXtp4jEEju1AsXXyUi0us-tMQiqb6XHoHv6N0Vw6K7yP87ivDaF-qCr3Rnhl78D2xJCw-PzynSce0n-18chyko_nqhIRpgBsLeF9X1fM7gvMvqv7Z2T4AyoC4L32P9QYlFcY8I8ZiRQmBNilMN3Lz7E_f-oEWBwFdCp_d6JZH_DDU0CTCWKnA6R1tDx1dvmX3QYfLDx-ITNQtjQvGainosu-DrFOJal0eBHhJlDOYtJYEaFaISFLNOc0vVvWpiaGq1Gv1hXf9xLowIfDhaiXL2KSetr5cBYgVRbfg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Dr73A0CrzB"&gt;
 GitHub - OAuthSwift/OAuthSwift: Swift based OAuth library for iOS - GitHub&lt;/a&gt;&lt;br&gt;Swift based OAuth library for iOS. Contribute to OAuthSwift/OAuthSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : TheBoredTeam/boring.notch https://t.co/VGtbZzTqKO</title>
-    <published>2026-02-14T02:02:34+00:00</published>
-    <updated>2026-02-14T02:02:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25961</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25961"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : TheBoredTeam/boring.notch &lt;a href="https://t.co/VGtbZzTqKO" target="_blank" rel="noopener"&gt;https://t.co/VGtbZzTqKO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VGtbZzTqKO"&gt;&lt;img src="https://cdn4.telesco.pe/file/H1vBDz9TSrUw2foak5j-C5jx-VvCuchQTlFJmb4l4_E84EbygPEPlHggfbTqSBctNGLsXrxVbC9PCzYdHQXQupLwHT2nRxBnOVYkhn0gbiNz2wNwo8fEYHZLuMCeVSIG9D3QplT4eC0UIuqahCXndyZkew_PXMSB_a5AFvl7z3VXd-UE7A58G5mk3FIIk0PIlgvLtoC33UU1xjveFY1R79MA0w6PBnU8MlcPX7DQqoybHHJ5jFfdBTcJzTXpraL7nMh3mH03Tne0-a81IXCW_cjkgc29wfkNcIIgy4wIwZK8J-9Ki6vS7YMcucvt0Y46UAZ1tKBRJqjuGYyiDOla-w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VGtbZzTqKO"&gt;
-GitHub - TheBoredTeam/boring.notch: TheBoringNotch: Not so boring notch That Rocks 🎸🎶 - GitHub&lt;/a&gt;&lt;br&gt;TheBoringNotch: Not so boring notch That Rocks 🎸🎶. Contribute to TheBoredTeam/boring.notch development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
