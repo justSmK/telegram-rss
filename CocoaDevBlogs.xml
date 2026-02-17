@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-17T15:55:52+00:00</updated>
+  <updated>2026-02-17T17:01:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">The Most Complicated System I Ever Worked On  https://t.co/WsiPib4lRb</title>
+    <published>2026-02-17T16:02:47+00:00</published>
+    <updated>2026-02-17T16:02:47+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25982</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25982"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Most Complicated System I Ever Worked On  &lt;a href="https://t.co/WsiPib4lRb" target="_blank" rel="noopener"&gt;https://t.co/WsiPib4lRb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;&lt;img src="https://cdn4.telesco.pe/file/TH0cwfsDk7SLz7cgNQg9qfgsBnU3E_VwbFjbOCp1Y2Dx91FhW3Nzdb2aAVODB9q0G3_bpks7c3VzTIlB5y0rDjhwuDbJXlhJu0iZEOSqVfjXPv_2icgd4bhY7U2P0BIWEm3M31PlvVxrKWv8FjbN0H9VmE4WHCu3e6astE_yUbaau013uR6l6azGDEGcSai0xlczlyRfE-IpXvfsCpvi-AgJPwy0ntVrFij3qfbfWZUTq8SK14cmPktBqOcwZuhBwjRIbx-bpd6LuuC2MlwPqf_RqaO2VCKeQR1EAhMFFZ--cCvkmyTniWqbYUj6gTwNquAu8nUWpohO20Z8jGmfIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;
+The Most Complicated System I Ever Worked On - Jacobstechtavern&lt;/a&gt;&lt;br&gt;A ludicrously elaborate pipeline of webscraping, parsing, persistence, processing, and polling&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Tracking token usage in Foundation Models https://t.co/7ehuWo5nRg</title>
     <published>2026-02-17T11:47:54+00:00</published>
@@ -91,7 +103,7 @@ Get ready with the latest beta releases - Latest News - Apple Developer - Apple&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/bIVA5Lx5lHKyDbDqvzYRLdfP8fL3orvuv2veY4WH6ecYi16GCKv4T0i8ZqTO4PDGGX7_YE1HjQrz7FAz7jN1KmTrNcPXJ8G7be3Iu106HmIzL-VkqnIv_w2aiIA3qIPGkdJc6L6q_zsooMUYOyUBozuyko_3nNO44VpilZS23ROQpgElq2mRsuHkrvBz7UvqJG6sbd5ZY-Z02RTtITAvwNdgY2haIpzo3-8DwdQZNgKo3HVAyFpRcMfjwZFf4XPjENoy5RmOaZ7LjG3jEAqHTVBescO4ua3Aok6pkdjjP7vIt9uvMllBWYcQN18w4djJgYAbelabn76ya7gkQ32rsQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/kPGAcOCMs8YUw0brL7nRgAgSbKmakzHQW21AI3uRGdUwVhGZX___-bA1PdJ6spkn3oatL__f5zKm-Rg7rywdnI7K5c1ExhKGExxB8u9gC4YpbSeXs5BLvm5eX3wrOD8NsJCKOvPWA3wPc1Qt9-q53s6vX8mhhrBWh19caF-8AFIKtJkKXZElYf4152sq-L6-K-mplvIU6BTs9YCIqIyNnbqYWQR-32kiKm8PHSoYiWPGkRotQZkxHSwnLky61_HVm5sRiKfAVYRShwSqF8iPTIlj59eLz8dn1H0hSaqAZy6I4PH1yp7RO1e-FObklHrmB-V9z-rtuRtO1P5dj0VMbg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
 Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -151,7 +163,7 @@ The Agentic Loop - Medium&lt;/a&gt;&lt;br&gt;Compound engineering is not a recen
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/hh1cq2GlemSJTfzfOmVDu6tmiFgu0bF27i5jTlAr9rGf5iBbsvz_Pe_GoxwxUj4TNcnv1dfYw353ZlkiAUcCMIRwEVP37UbYbeNy2VuBanIWJIi44gR6ktBSL9baI5OKXZ0Dyh-ghFwtToYFMYt5HMUlFEwo4bJD-gMzzbaAR3IuHyHXTrpmzq6AgZcmsaft6j6368hvNhH25jlHRqLuENfcBQTJ4ab3-myUKom763SzZs4fFx8BQ-4Ignmw4LxeK_ti90Dyu16R7nBAD5KMcTMp69j05hK47S6jryQDVTaWeS0361eIlzFAHLi-javveQzlbN-IU3Jm4HwSwozGDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/hedVjqdMaWjkUG_PvaSPh7RgWFiguvY918heipZD76U_XkWS9VZl_VBPvJhlz3VnQFWsC8_wD823BeW6ORMT-gROIMkk2wD3u1S2OVS-6Ch4EXvdfWeISNj0FDonh1LMF8pVoCoOQ6u7DUDx2JztFfQyP9qqvjpcZdwI8G8F4uwksvCc5rrZNCZUzuTrvh1ql1hIaguXHvNxO75-Vlnx-tpIZtM_sNMbqPWOV0pPHzy7UrHlcfLdLDhbrCmxO7EW4WOdqCTJMWyFURYm6WtAFDBUIEoAOqQXvevfK-Uffy31RRa20YE6sdW9zac7AgQDnhnL0ag2umAlTGKF1ZAWnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
 GitHub - MonitorControl/MonitorControl: 🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display.… - GitHub&lt;/a&gt;&lt;br&gt;🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. - MonitorCont...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +250,5 @@ In this video, I’ll demonstrate how to create a custom Liquid Glass tab bar wh
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pinterest/PINRemoteImage &lt;a href="https://t.co/qmWEQmFesi" target="_blank" rel="noopener"&gt;https://t.co/qmWEQmFesi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmWEQmFesi"&gt;&lt;img src="https://cdn4.telesco.pe/file/u0Jh6_cwmzfhVUpIpcDWIMp_lXV1aV2_u9FU3DAVv1M8NY_1JJzpZem4vKI9c4NH2LFjg9Jjk8u8FpMdb8JpPruaNONuNS9hUOC8utGTk_WA323z-7JXM4_LO0izrY2JcHFeoEBFBdgiLHzP4i1-IRXsz2hppYdijL0-dib5qzmqZgb0Pn7d6OVI3Z42fTJhC02BAsCtkWLrmSmocIcOhdGYarO80_Bf1MnbYbAR5fXrZqfw_3jYras2ji--dXuc69xI0hTwGNsO22hIxgLbFd-LOkb6LLjD6TuH2GjZ0EI7cx-rihZ8PL4Rpu5Akh6XIBLRgm5pA93C0tcI6tczlQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmWEQmFesi"&gt;
 GitHub - pinterest/PINRemoteImage: A thread safe, performant, feature rich image fetcher - GitHub&lt;/a&gt;&lt;br&gt;A thread safe, performant, feature rich image fetcher - pinterest/PINRemoteImage&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : OAuthSwift/OAuthSwift https://t.co/Dr73A0CrzB</title>
-    <published>2026-02-14T02:02:34+00:00</published>
-    <updated>2026-02-14T02:02:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25962</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25962"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : OAuthSwift/OAuthSwift &lt;a href="https://t.co/Dr73A0CrzB" target="_blank" rel="noopener"&gt;https://t.co/Dr73A0CrzB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Dr73A0CrzB"&gt;&lt;img src="https://cdn4.telesco.pe/file/pZVtMmd_3s_WHkC8h_Ac29Wc5rb40cBY6odf_C8VM01AhFWqBBXtp4jEEju1AsXXyUi0us-tMQiqb6XHoHv6N0Vw6K7yP87ivDaF-qCr3Rnhl78D2xJCw-PzynSce0n-18chyko_nqhIRpgBsLeF9X1fM7gvMvqv7Z2T4AyoC4L32P9QYlFcY8I8ZiRQmBNilMN3Lz7E_f-oEWBwFdCp_d6JZH_DDU0CTCWKnA6R1tDx1dvmX3QYfLDx-ITNQtjQvGainosu-DrFOJal0eBHhJlDOYtJYEaFaISFLNOc0vVvWpiaGq1Gv1hXf9xLowIfDhaiXL2KSetr5cBYgVRbfg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Dr73A0CrzB"&gt;
-GitHub - OAuthSwift/OAuthSwift: Swift based OAuth library for iOS - GitHub&lt;/a&gt;&lt;br&gt;Swift based OAuth library for iOS. Contribute to OAuthSwift/OAuthSwift development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
