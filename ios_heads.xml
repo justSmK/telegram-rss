@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/ffjcm5patdjLZ9FRh986KJOXPaWXs-sd5QL_WKJIOGZVLMOGN6x_NLLV-soYHq9CY6yVp-S8NN3-AxKUW4nxrKCNb0Oj30eif42MdnktjN2sHONw_7NKVGTG-0s1ZyU-2ZyNGStjQV_uHqIKo-cfwlVadHHGoIejbcBTYIV9tKtyYid200mJPBjoMhDfgqBQKnwYMgFFTktra7_nuPQB_9QkoLeEM1at76-qBSeEmw4RN04p64VSOGK5Lyzy1rdUhT1HMEntF38hE22SOXs46qmE0LO5YGdyC06Xh5Sh3Al6xLa4wBk5bCObZZlmWvCQ7kPJnvQgg-Tforpjy_iIpA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ffjcm5patdjLZ9FRh986KJOXPaWXs-sd5QL_WKJIOGZVLMOGN6x_NLLV-soYHq9CY6yVp-S8NN3-AxKUW4nxrKCNb0Oj30eif42MdnktjN2sHONw_7NKVGTG-0s1ZyU-2ZyNGStjQV_uHqIKo-cfwlVadHHGoIejbcBTYIV9tKtyYid200mJPBjoMhDfgqBQKnwYMgFFTktra7_nuPQB_9QkoLeEM1at76-qBSeEmw4RN04p64VSOGK5Lyzy1rdUhT1HMEntF38hE22SOXs46qmE0LO5YGdyC06Xh5Sh3Al6xLa4wBk5bCObZZlmWvCQ7kPJnvQgg-Tforpjy_iIpA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-17T10:51:10+00:00</updated>
+  <updated>2026-02-17T11:41:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Автор показывает, как использовать NavigationStack, NavigationPath и...</title>
+    <published>2026-02-17T11:35:08+00:00</published>
+    <updated>2026-02-17T11:35:08+00:00</updated>
+    <id>https://t.me/ios_heads/1113</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1113"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор показывает, как использовать NavigationStack, NavigationPath и типобезопасные маршруты, чтобы навигация работала как ожидается даже в сложных приложениях с deep links и программной логикой.&lt;br/&gt;&lt;a href="https://levelup.gitconnected.com/swiftui-navigation-in-ios-a-practical-guide-2a4820971681" target="_blank" rel="noopener"&gt;https://levelup.gitconnected.com/swiftui-navigation-in-ios-a-practical-guide-2a4820971681&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://levelup.gitconnected.com/swiftui-navigation-in-ios-a-practical-guide-2a4820971681"&gt;&lt;img src="https://cdn4.telesco.pe/file/j0VWHfnzYkGeiG8Lg4JHmeH76h7H49lRYQiKggHstCZOY8g0GUpqJQsAR1tHpO5S_5QxE2fISmZ5e1zWgsRaJ-SNsfFMkrFitf91LYkMVNhxQiE6ztnnFbtKJClescxojAB1p_CdJ8GNbQy8VJHbCHXVbxSEVP6WqGL0WZlPEOpxH545IYOKhdUlGjM8zVsGxez_evXC63KX24f-wo4evYsXxSDC8jNsS8Cw76h0iDUhi20DpbwyESxmPGrDch8pKkwibL8tqmLjM84dHdW7kxHeOxW8xxvoUhlXn7vz6nCqVgrC0RKanfB3TAa2FdqmBn7rKjC1xAweSeL-5YxGzA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://levelup.gitconnected.com/swiftui-navigation-in-ios-a-practical-guide-2a4820971681"&gt;
+SwiftUI Navigation in iOS: A Practical Guide - Medium&lt;/a&gt;&lt;br&gt;NavigationStack, Typed Routes, and Paths (Without the Headaches)&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Хранение данных в iOS — это то место, где «и так сойдёт»...</title>
     <published>2026-02-16T09:57:01+00:00</published>
@@ -30,7 +42,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Раз уж с предыдущей статьей случилась какая-то мистика, то ловите другую&amp;#33;&lt;br/&gt;Пошаговое объяснение того, как управлять навигацией в SwiftUI через NavigationPath и navigationDestination, чтобы навигация стала управляемой и масштабируемой.&lt;br/&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination" target="_blank" rel="noopener"&gt;https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ocsC67gPwYeJN5R0PB4U2ydaJj1RyRqzGaxEvw-qF_txYEGbFeUzraH49hSYCe9GtwhVmF8yyt4of4qlvIhqdvOCyMDmSmcGpAxqFo6kghvkmItS04pEhwPYc7Q0H97wHI4Q_Viij3Bqh7KmksWwJBU3smFtAU0l70aTHYP_ggKTop8erG1mmxMHM1TWeNnq3DgnY7iI8EnMY3X6630p-zD_yp0jBQQEbN90pr6AqJof6keJ_D4eH6tasVEjgsSjEXTfdxTTkqG8BI1mfbwy8hWeXz56mbl04bH7U8fXHji_OfEdSbhsUwghgPVy0otGERAIE9dgrg61DoRKf9uBqQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Раз уж с предыдущей статьей случилась какая-то мистика, то ловите другую&amp;#33;&lt;br/&gt;Пошаговое объяснение того, как управлять навигацией в SwiftUI через NavigationPath и navigationDestination, чтобы навигация стала управляемой и масштабируемой.&lt;br/&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination" target="_blank" rel="noopener"&gt;https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;&lt;img src="https://cdn4.telesco.pe/file/QZ7if5VTVNcz4vxd9KpWFSGfN3eX_founxgoLzKqQfNc6tzottYBAfpy4jVfx3pu4fpXme5TySi-z8tHaE43J6lJ7duX0OZfT-KKKIHkJwchxPUIUdC0_WTmELeAPJ-mCYI1p5uYuraXQqEgNLKFJ_d-fmmbPs1REwzBaoWnU8nX-oKPLgKfcWPehLFY2rs_z74oSVftJ3Rz6zNzY1NWlTFfRvXra4jLoFlbGrLfk5gB6SIvn9lEvU_c_tI8rhQt_J0eE4Ial-fNnCaSmSGqoj5tlYGyB-yRR7oYKBNlgpjxtn3LtSUFLZLrwhsZSFe4hqHIUqnYoNlk6qwpPNhcow.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/"&gt;
 Programmatic navigation in SwiftUI with NavigationPath and navigationDestination - Donny Wals&lt;/a&gt;&lt;br&gt;Learn how you can leverage NavigationPath and navigationDestination in SwiftUI to implement programmatic navigation&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -114,7 +126,7 @@ Modern Navigation in SwiftUI - DEV Community&lt;/a&gt;&lt;br&gt;Navigation in Sw
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/F3tNk-pEdakdz-9mP9janwuxCWWSJOEWtkX-QFOVv-Sh_yo0kodD7N-O8aE6dlOTHEYFHohdKm6qRiaPtkNDGU1bzXH55F9vglhECja2KvIzsJHnKD7rU2oOmh1lzVOvLlp7q67HR8UPMpDLVUMjl2gmp5bbdl1lVn0XEg6upx_LRAEvMrKy3CHx_h9GYC9jaHLhPjKhiGXex0DcZr1PU0q5Gp8HElxUcN1ZzEe2i6P9egD83BqXpAmuS1ebBvfCatAZWNXoVxrQrXu3nK4_FVoCPJZr3WHQ1EObzE1vnCcqBV2yNpXRsqshuLjMGyamxjCigRb9DaAfklqDGqUWMQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/RbKlSb1NxXyE2qUnmrCYAMXkqILxq6SkfSr_NUU7fq-vqgi0xQiuTHJ58VuvlLqN1cIbAlNEjuJSQJBR1qnAANlD7l1lxiJGvR3nWY7kok4_zuBSEE0F9eUhCnUb0RzMtwi9iGUASjtu9-h6ylfGqjwFWDMk7venOQX0-fq-HvOO64xTrrg5CliDkiVZub-uhK72neF8srhw27j-ppUjGsvP-OgT5pLiJ0eDP626pMFdJpnH5Jae6aL7x3Rd9RhgtXFNYulxa6jHSEJ3JJxWmtQgxFMsUMwodaQVDAVWDBKxglQdpbp9ZEUBsdCJB7lksSNoYj88pLOA_zrVIHWeTg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
 How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;How to Structure a SwiftUI Project in 2026   Starting a new SwiftUI project? The default...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -241,17 +253,5 @@ Approachable Concurrency in Swift 6.2: A Clear Guide - SwiftLee&lt;/a&gt;&lt;br&
       <name>iOS.Devs</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Про зум в SwiftUI&amp;#33; Даже и добавить особо нечего&lt;br/&gt;&lt;a href="https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/" target="_blank" rel="noopener"&gt;https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Интересные рассуждения про Task в SwiftUI на примере...</title>
-    <published>2025-11-18T11:10:42+00:00</published>
-    <updated>2025-11-18T11:10:42+00:00</updated>
-    <id>https://t.me/ios_heads/1091</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1091"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Интересные рассуждения про Task в SwiftUI на примере загрузки картинкки. Про проблемы и даже от команды Apple есть ответ&amp;#33;&lt;br/&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/" target="_blank" rel="noopener"&gt;https://chris.eidhof.nl/post/swiftui-task-identity/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;&lt;img src="https://cdn4.telesco.pe/file/A4tLcU1dV1EvNrI_WWU_3U1Zv7gnRB2iRAii00fUc45Uq3NoBmRkXT08Ff3My_7eBzcr_tBMKdhukTPXXTrIoPFriBlGtlhHD9grHyZygyyMs_gWjem_tGBR99i1A3wW8RHPZviO6U0w-iCH7dkt1BCJoZZf-JFW65M9tCjZxCcA_iu-AgC-xckcTxXxYLuEBaAE1IePRnnXsaAGOOvV0rP7HTqhMwoSWxGZkPFM4kiA1J0N1TnY8QfKkJ0x1h2SBMAdc6u6srJsIYUibaAR3ath-GwFCMGQo4sAYxB9vNfjOZuNYuzj_MlKviT_VFZWjz7tsB3PX1JVl-vZzpp5gw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://chris.eidhof.nl/post/swiftui-task-identity/"&gt;
-Task Identity — Chris Eidhof - chris.eidhof.nl&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
 </feed>
