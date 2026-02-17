@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/JlsIMWQiq9stDw_zKO-X6lVwGfrQ6zrHnbF4gQgFWQAGbKpbj-me3T9Sp-IE8IjRHhVIBPji9m-YyMQWP8Y03LMB32givu1fGcEP_yogY3qLWb2MitgxlSTzvdm3Q72L-2Sgu6m0Ggl3n1hkrK8NKNBKOhEwgIh4P-lrV-lVPzbMSYNt-E2Dj6Uqf9FXOPyI0LDu1o0LEWPhVUabB-e1KRRIgEleqII5H36ybPBnWprPsOenY-7qJjFshBiUWzlNfvu8Ozu6BKuT-GvxoIKhC4FB2Cta5RIaIZZESq2PbD_1oyw8bJcz3EX51nEo_BvYY1f_HHc97hKFYVCdZ3fjiw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JlsIMWQiq9stDw_zKO-X6lVwGfrQ6zrHnbF4gQgFWQAGbKpbj-me3T9Sp-IE8IjRHhVIBPji9m-YyMQWP8Y03LMB32givu1fGcEP_yogY3qLWb2MitgxlSTzvdm3Q72L-2Sgu6m0Ggl3n1hkrK8NKNBKOhEwgIh4P-lrV-lVPzbMSYNt-E2Dj6Uqf9FXOPyI0LDu1o0LEWPhVUabB-e1KRRIgEleqII5H36ybPBnWprPsOenY-7qJjFshBiUWzlNfvu8Ozu6BKuT-GvxoIKhC4FB2Cta5RIaIZZESq2PbD_1oyw8bJcz3EX51nEo_BvYY1f_HHc97hKFYVCdZ3fjiw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-02-17T05:59:13+00:00</updated>
+  <updated>2026-02-17T07:11:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Sentry покупает XcodeBuildMCP&#13;
+&#13;
+XcodeBuildMCP – самая живая и бодрая...</title>
+    <published>2026-02-17T06:05:09+00:00</published>
+    <updated>2026-02-17T06:05:09+00:00</updated>
+    <id>https://t.me/iosgr/4610</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4610"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.sentry.io/sentry-acquires-xcodebuildmcp/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Sentry покупает XcodeBuildMCP&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.xcodebuildmcp.com/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;XcodeBuildMCP&lt;/a&gt; – самая живая и бодрая из всех попыток дать фичи Xcode в руки агентам. Несмотря на появление аналогичного сервера в самом Xcode, проект продолжает развиваться – и вот сейчас его вместе с автором купили Sentry. Новость точно хорошая – то, что происходило после покупки ими EmergeTools показывает, что они готовы очень сильно вкладываться в опенсорс.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.sentry.io/sentry-acquires-xcodebuildmcp/"&gt;&lt;img src="https://cdn4.telesco.pe/file/tXy9nMrgV6O9yqkW5jq2ge-gZ6SoCChJwgWvoR9Ke22yPFnqkQVp62F4UCQfWokxX3Wde3hBw79MGGM5QFUEUjtYiheDD4I6UPDNIgB4axofeGztN-kgRtzj86__2RFDCfk3nl8dtulQkZPPf3OO4iVqZ79BqEg50Goss_sX48dwq7jUmQMJdcLZPBKdGeJEpDzyAPMBq6Hzp8m9EDL0w20BdwL2A3Q9eUgMLtJHiwbxm8fiEaq9T_9pj2slzISmuvx03cBlfaPsKUT249Y7KHzPM9DSdtsMwqWSdHYhz3Dt3i0TeyvR53U55ZMmAHTYBZWw3LBLl77pwFu4FiLQOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.sentry.io/sentry-acquires-xcodebuildmcp/"&gt;
+Sentry acquires XcodeBuildMCP - Sentry&lt;/a&gt;&lt;br&gt;Sentry acquires XcodeBuildMCP, an open source MCP server that gives AI agents the ability to build, test, and debug native iOS and macOS apps autonomously.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SimTag – упрощаем работу с несколькими ветками&#13;
 &#13;
@@ -257,18 +271,5 @@ Universal Links At Scale: The Challenges Nobody Talks About - Alberto De Bortoli
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Кастомное поведение строковой интерполяции&lt;/b&gt;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;Помимо простой подстановки значения, со строковой интерполяцией можно делать и более интересные вещи – например, прямо на ходу исполнять какую-то логику – форматировать значение правильным образом в зависимости от его типа, валидировать его, или применять условную логику.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fp2FBxttxo-0iylQ5yC1SANwT83H2mTRgbQkbXwWx4CT9bg6J-zNQrBjRJON-71-xvoSKunka5VOI-Vpi27BgEkDt5na2HR_OUNv8y47IhziWs5YEXrO-jUDbG5JsUPO_c31pkWxaJmh-F_qievLfO4gnSlPmoQya7ZDd2xb_jTEW-RSxwtnLoVD6Wc8m8eAUA6COIqpPNlFyroVOKBwluierPN6CdYtepJMrN662QM-De6ZUwivaC3HMABditTRn0Whtu0_cbev_YkSgUNrjEjjddSb9nnmiYiTgUbBliLOWrbuSZi9ZtWxkgNw3EZJ-dhbl4L0Ghglo5ZFrrddwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift/"&gt;
 Defining custom string interpolation behavior in Swift - Nil Coalescing&lt;/a&gt;&lt;br&gt;Extend Swift’s string interpolation to define custom behavior, such as value formatting, directly inside string literals.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Skip теперь бесплатный&#13;
-&#13;
-Про Skip, набор инструментов для...</title>
-    <published>2026-01-23T06:03:49+00:00</published>
-    <updated>2026-01-23T06:03:49+00:00</updated>
-    <id>https://t.me/iosgr/4590</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4590"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://skip.dev/blog/skip-is-free/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Skip теперь бесплатный&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Про Skip, набор инструментов для транспилирования Swift в Kotlin, мы на канале говорили довольно часто. Большого адопшна у ребят так и не случилось, но главное, чего они добились – добавили Android в список официальных таргетов Swift и запустили полноценную рабочую группу вокруг проекта.&lt;br/&gt;&lt;br/&gt;Так вот, раньше большая часть Skip была закрытой и платной, а с этой недели бизнес-модель меняется, и все выкладывается в опенсорс. Основная причина – никто не хочет платить за инструменты для разработки. Выживет ли проект дальше, пока не очень понятно, будем следить.&lt;/div&gt;</content>
   </entry>
 </feed>
