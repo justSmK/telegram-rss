@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-17T22:35:33+00:00</updated>
+  <updated>2026-02-17T23:33:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">TestFlight Update https://t.co/Zj6cbEctBb</title>
+    <published>2026-02-17T22:52:04+00:00</published>
+    <updated>2026-02-17T22:52:04+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25984</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25984"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/Zj6cbEctBb" target="_blank" rel="noopener"&gt;https://t.co/Zj6cbEctBb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;&lt;img src="https://cdn4.telesco.pe/file/NkfK5Qezee3n7qAryxDOfxOi8OLo-zatN7V8aqPHY7diTxPlQ1tzq69cjN9o9E1Wdm4l7GizcMZ97-FH2fmjBjT8JAludkrB2R0WJxkzao9Fd5aHiv_sJ9kbHXmh4M58kXWrqJ6GDI8AfhosTYkMJmRGoNZjRWcpWVsqksiHEo33i9W_4hFVvdid-LuQjJgdDmUaoBupioFkVow68wfrpdEymP5nEFPBHU3lLF0XSuKhXqHsT-TgkMhfqPoqOrVoaivS7a2_Xr9hPPy2IJjSyn49qsYzcHaSg_8fDh7D2-kGK-Qs7it0C-BChe3tLQ_MdH6SgDxcYMJrF1b9-Q0uHg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;
+TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Goodbye Clementine https://t.co/eI76dxtazZ</title>
     <published>2026-02-17T21:02:54+00:00</published>
@@ -237,18 +249,5 @@ GitHub - segmentio/analytics-ios: The hassle-free way to integrate analytics int
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : stripe/stripe-terminal-ios &lt;a href="https://t.co/6V2nFhyTS1" target="_blank" rel="noopener"&gt;https://t.co/6V2nFhyTS1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6V2nFhyTS1"&gt;&lt;img src="https://cdn4.telesco.pe/file/gmkAH-OQ7o_mNWcu0hCs1wiBlMBPDdlQywnfZb6LdMfvrFrhHOOgFNe7AxyTzbM1b88WSs6-FEhsMi3e_SRvUErbuNr0rP_PM7gqaiRnIwU-LmLYhZPu5jMLP6NWKyGiuDW_phvusCNFwZNuZ_CQVsiH8TN04amhpVqtwPGew6ZcYrfCL7sQP7tO9L-zoD5K_A-tPxhGtkNKsWpzBDm_NUrEf-PZbsAUod0-eSqR0iyFrkXI9HosMIz2STh7HWTJIZYPjGA7jvDRf9WQ47WlX0SLt5D9apWkxHAxnHRi714ihNNdu6Qvp2VrY7LosZgGzxIxOvV903XNsIdfSZyUXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6V2nFhyTS1"&gt;
 GitHub - stripe/stripe-terminal-ios: Stripe Terminal iOS SDK - GitHub&lt;/a&gt;&lt;br&gt;Stripe Terminal iOS SDK. Contribute to stripe/stripe-terminal-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Liquid Glass Morphing Tab bar | Expandable Tab Bar | SwiftUI | Xcode 26 https://t.co/xNfygpypIH</title>
-    <published>2026-02-14T23:12:39+00:00</published>
-    <updated>2026-02-14T23:12:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25964</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25964"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Liquid Glass Morphing Tab bar | Expandable Tab Bar | SwiftUI | Xcode 26 &lt;a href="https://t.co/xNfygpypIH" target="_blank" rel="noopener"&gt;https://t.co/xNfygpypIH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xNfygpypIH"&gt;&lt;img src="https://cdn4.telesco.pe/file/cyNf54K6LZ0cN612x5GZYG3bkIo-ikbNrJE8LmEn6_KjmR-tHQX6AD9GyCA0FaOoqotgHRCk3Lws3b_bF9VYrzss5qpyfUA_YPpzPlJtfRTFig-k2PMTWhRxZ9T0YzxoO26Nx0qVNcR35Y9UAshAGeXQWDCQRdJ8bZPn_NnGNxg2v09urFn9KevAItGLBOR92-vjoKtW62Er8ctv60FVEgv2QOUH4qbeSlXUJ0r-ORbpM6qev744jbD79OsmgRSw6_6rVo-FZLRRdlGz4uRfrSt8RTT2RiqhfR_OcQeUV2dSaCqd_GYeYyqsVR36TZrIsx-G2zsaWwUs4Gf_vb1VwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xNfygpypIH"&gt;
-Liquid Glass Morphing Tab bar | Expandable Tab Bar | SwiftUI | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll demonstrate how to create a custom Liquid Glass tab bar which smoothly morphs into a custom view using SwiftUI | SwiftUI Custom Tab Bar | SwiftUI Custom Liquid Glass Tab Bar | SwiftUI Expandable Tab Bar | SwiftUI Liquid…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
