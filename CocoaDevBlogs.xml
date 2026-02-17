@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-17T17:01:37+00:00</updated>
+  <updated>2026-02-17T19:01:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -91,7 +91,7 @@ How to build a simple CLI tool using Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Get ready with the latest beta releases &lt;a href="https://t.co/y05LiJIHA4" target="_blank" rel="noopener"&gt;https://t.co/y05LiJIHA4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;&lt;img src="https://cdn4.telesco.pe/file/s8M8odK5eST9JC1Nj_UjQakOMfFscFpAeLsogMucAowVt4bP2Gd0WNwwJ_e2aob8no9TBAyPAFLgmvupYJcMmT-AE4v37tH6qj4jgHghL_pwRo-HUUvnmPQiVbVzSAjRWd9fliZgGXuV_hzfldMdLMT6CJmm-Aa1CRXHZWQS3fpdQ1Mc8SUTBwTNhl-EwSzlDSzhxDB5B0_Jz1rMBvJlGaYDjhOy_Y-wh0GxK5lgKPUkU5aQj5kNnmZIb07BaW1vmRPCaqcvYhNclfk7_sVgckQ37vsbZxNSR1Mca839Frp4uFo-7OYe100eie1xLu_rFvzGup-U5xCW2OU_tNLciQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Get ready with the latest beta releases &lt;a href="https://t.co/y05LiJIHA4" target="_blank" rel="noopener"&gt;https://t.co/y05LiJIHA4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;&lt;img src="https://cdn4.telesco.pe/file/r4YccqYjeSdbgMUXnMSA82Ah2nisbPWEG_UnXRc-FH32dQdQhRuVyJIDKq6qJa8vYy3dBf3pVbwztv50cR3bp6cC_AVm-vzDFQ85nihAR7_6GXOPkAiqW3r5IyvsCeYLMbVr0MEK_l7nHUnWtnu34700MssI5THU3tK-conMJDnFqWHaJhQ4kBIfsdktWQoxW5RdgEB_Q0acUrIRYTPcHVpkr-A15onKCRDjfVLOzueQ4OgZU5oAvOSbCAUwTyuv6vgIq3zvYQwZr8q9NbkYXqpuIgZMWzNONuOO55w2bzwCU6y2LS7_UEKlo93L4S6vuLX3jkBblKN7tmP9R8shpg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;
 Get ready with the latest beta releases - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The beta versions of iOS&amp;nbsp;26.4, iPadOS&amp;nbsp;26.4, macOS&amp;nbsp;26.4, tvOS&amp;nbsp;26.4, visionOS&amp;nbsp;26.4, and watchOS&amp;nbsp;26.4 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.4 beta to take advantage…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
