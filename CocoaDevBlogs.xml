@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-18T15:55:19+00:00</updated>
+  <updated>2026-02-18T17:08:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -151,7 +151,7 @@ Get ready with the latest beta releases - Latest News - Apple Developer - Apple&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/kPGAcOCMs8YUw0brL7nRgAgSbKmakzHQW21AI3uRGdUwVhGZX___-bA1PdJ6spkn3oatL__f5zKm-Rg7rywdnI7K5c1ExhKGExxB8u9gC4YpbSeXs5BLvm5eX3wrOD8NsJCKOvPWA3wPc1Qt9-q53s6vX8mhhrBWh19caF-8AFIKtJkKXZElYf4152sq-L6-K-mplvIU6BTs9YCIqIyNnbqYWQR-32kiKm8PHSoYiWPGkRotQZkxHSwnLky61_HVm5sRiKfAVYRShwSqF8iPTIlj59eLz8dn1H0hSaqAZy6I4PH1yp7RO1e-FObklHrmB-V9z-rtuRtO1P5dj0VMbg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/KHLFrLr1zt0LgglJrZ7g6Vx30m047sed1Ix0UGgJyv_c_E63y7DRON3tkHFcqaJXeQR6NUPT6sdPd0RHwFIq-xrmBx7bh_UjBcRs561JtK6PIKLmEZBUGFrWf9e62KOwikZ2q2H4tHuPKclITh-sjkAmcQVRd3ziVHcfL-KGOUODSEAZUXwgeDt9UkX6TLIXO8VqvjtDYO9eoythTYSphIXHwSNRcEvb0cbNvKHBXS_N269w3GA_V9hVPwQ2IZdmGFee2Bs0rdd8oq2FlhHTAsraqMHs-Bnl0aSqtJBRED2bmIA3gCZhyiB7AnoO1LbVvZ-SX1ENcQrFTzR1qLuWdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
 Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -211,7 +211,7 @@ The Agentic Loop - Medium&lt;/a&gt;&lt;br&gt;Compound engineering is not a recen
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/hedVjqdMaWjkUG_PvaSPh7RgWFiguvY918heipZD76U_XkWS9VZl_VBPvJhlz3VnQFWsC8_wD823BeW6ORMT-gROIMkk2wD3u1S2OVS-6Ch4EXvdfWeISNj0FDonh1LMF8pVoCoOQ6u7DUDx2JztFfQyP9qqvjpcZdwI8G8F4uwksvCc5rrZNCZUzuTrvh1ql1hIaguXHvNxO75-Vlnx-tpIZtM_sNMbqPWOV0pPHzy7UrHlcfLdLDhbrCmxO7EW4WOdqCTJMWyFURYm6WtAFDBUIEoAOqQXvevfK-Uffy31RRa20YE6sdW9zac7AgQDnhnL0ag2umAlTGKF1ZAWnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : MonitorControl/MonitorControl &lt;a href="https://t.co/JVhf2Ng27H" target="_blank" rel="noopener"&gt;https://t.co/JVhf2Ng27H&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;&lt;img src="https://cdn4.telesco.pe/file/DcpqexMU8kgJfTgO1Jxa6vILOptqfsfId3QFtebFdGSuKAJjNZ0Ifky4fZVuzzPrywxNBRccYwBYIqTDeP8M6qEnelbjfDSF_paxWL7rmo-RDlONopreRKg9-gI0yrm92gZjLtd0-JqEsqWorJKtSydsCm407g2GYCHflfFOhvVb2i3jQqGs1e0kbu0Tq8WvYNWoAPRTnz9R-DB9vPpBTB-uVmEnwFnhjsmq76mNjfmb86Kf3_8GmakzAiLpviTQ02nDXxIe-jTH-OAGHtq-ZQewj3PyW9ciDjEOAjir6KLGGurNz3UbADdfpBbaVXj0luztRhPVofVRvga6tRQpZQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JVhf2Ng27H"&gt;
 GitHub - MonitorControl/MonitorControl: 🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display.… - GitHub&lt;/a&gt;&lt;br&gt;🖥 Control your display&amp;#39;s brightness &amp;amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. - MonitorCont...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
