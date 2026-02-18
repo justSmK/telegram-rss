@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/cNnEstItFVuLevXfPj64J7naLuug32e3iQv9uvRWXrKhsDhs6VhDjUCvEfvpemBaDNrvQ1uD39KCTU4_GwwMpto-G1maCC_1Sepmc5_APVxkz9Y-1vjv1cFzCGgrjzmeRk6PqDZ-O6SGklmSHoWJprHo8nxiVYQn-5cCbhjAfZ9A_n2VVVcmkESH0Sy32HqlKwkez8XspLGWHJ4ZPjatuARK1j7IGcHdHRPyb1t-D4tE_HcV0w5BBh5-hbUqzimnh3g5KV-fN9nZO2PYzxl7jAnPR_klNY0IsPjUrKW9ZDq3R-G6zsDaup3F2kD6HhMHPRDPCvJbZwTHXtrk65rSlg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/cNnEstItFVuLevXfPj64J7naLuug32e3iQv9uvRWXrKhsDhs6VhDjUCvEfvpemBaDNrvQ1uD39KCTU4_GwwMpto-G1maCC_1Sepmc5_APVxkz9Y-1vjv1cFzCGgrjzmeRk6PqDZ-O6SGklmSHoWJprHo8nxiVYQn-5cCbhjAfZ9A_n2VVVcmkESH0Sy32HqlKwkez8XspLGWHJ4ZPjatuARK1j7IGcHdHRPyb1t-D4tE_HcV0w5BBh5-hbUqzimnh3g5KV-fN9nZO2PYzxl7jAnPR_klNY0IsPjUrKW9ZDq3R-G6zsDaup3F2kD6HhMHPRDPCvJbZwTHXtrk65rSlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-02-18T08:51:36+00:00</updated>
+  <updated>2026-02-18T09:53:16+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -67,7 +67,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/711" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/XvXHmY6vNFu1WPGnn8v_ywdCKlYLB_w-edh3C3IhRF5k-QzMNM6rn9pZalaaXWkJ1woxXP6behqY1i9jdd3PHo_cRnAgS10Hnv5cE1FhqzNeO-TMrEvDuo_ZdczWifTsNInb2QOcw10uP8a5vfnvRS9CSf8r6mNwa3bb8hbEOOicAWWQBdKnbJKHXDShtKoPMQIhogeH8W5zi6OhyrBpzzd1XaLGatI5YQk5CD_a1bzC8704NozFZ3piNHEWOCybAn1gZ-2N4yoIwUCKroCTwE7kFeoaTrtTQYwHp30L1-QptD7CbxvWkHSzYcDru9t2RTdKRl9udzH0Hqd0wW9wbg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5017470156276761427"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Что ожидать от будущих iOS.&lt;/div&gt;</content>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/711" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/VF8SSrr79r23KLWAbJuTuPDlxbxnYKmktm5-pxJFhWHoxgnCYZ3s3OwIgRlDk2bk0Tn9sxRsCoMezQoyAYG51P9IoTXrJEF5xfQo25pVGU4a3pPiY2VuCEmTKTRNnynK3qSPKR4n5WPodFwkm6D6NCRpSPBxMfwZJwdbNTpnTu3Fzo9u_kettaeHACNGgegWCde7b_mmJecKb-F03D408wFF5gO-FxLbA5IoMV07XbQWrNboxYC7ihWjDfcgbO0Ltg7Yg0esM8NitD_VdIGnKz23QMHUfdJHXuIOpcztS7I6i-zDvq8sUzbd4IqWSQFpu4vsk-7ZHJu74qpCYyV7Wg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5017470156276761427"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Что ожидать от будущих iOS.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Модульная архитектура — это не просто теория, вот...</title>
