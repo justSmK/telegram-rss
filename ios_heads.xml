@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/FaKOfTfI0Dj3kUeyAIs3RcTuO20Kzv2R96187Fmh71NLjTBGzJ3ikzGCDl5hl3JoVLMiUk1FqOAq8qsFA8nqT02TFSRmUVX0O_7-6cQ35BcCExnyB8V0ccvBwgA48LCxpJhJR-ZX_nSEo5Zmxma9ZlX82L8VUIbGV3F_xVPy4SfLPv0GiI-h_sjCAcy3O2QZkvPrOdpiQkK9yHaTTZ7kIxcWChvMloByOdMAj3kZ_31-A7rmr14n4xVUtYg-Qu1YGCzWQDJWHMARzeIySV9Bc1GRnRTNuZ8lJDEP-8qxhsj9T6jhZB5-xqDVmKqHMBWyMYM-UyGGIMCMP33Nh4RiAQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FaKOfTfI0Dj3kUeyAIs3RcTuO20Kzv2R96187Fmh71NLjTBGzJ3ikzGCDl5hl3JoVLMiUk1FqOAq8qsFA8nqT02TFSRmUVX0O_7-6cQ35BcCExnyB8V0ccvBwgA48LCxpJhJR-ZX_nSEo5Zmxma9ZlX82L8VUIbGV3F_xVPy4SfLPv0GiI-h_sjCAcy3O2QZkvPrOdpiQkK9yHaTTZ7kIxcWChvMloByOdMAj3kZ_31-A7rmr14n4xVUtYg-Qu1YGCzWQDJWHMARzeIySV9Bc1GRnRTNuZ8lJDEP-8qxhsj9T6jhZB5-xqDVmKqHMBWyMYM-UyGGIMCMP33Nh4RiAQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-18T14:49:28+00:00</updated>
+  <updated>2026-02-18T15:55:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Еще материал про навигацию.&#13;
+Подробный и с примерами,...</title>
+    <published>2026-02-18T14:52:17+00:00</published>
+    <updated>2026-02-18T14:52:17+00:00</updated>
+    <id>https://t.me/ios_heads/1114</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1114"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще материал про навигацию.&lt;br/&gt;Подробный и с примерами, но на этот раз SwiftUI + MVVM + координаторы.&lt;br/&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/" target="_blank" rel="noopener"&gt;https://matteomanferdini.com/mvvm-coordinator-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/SLteyepbRLHbTsAxIwrIewpmhXH5D-qQaCe1uJq3ggVBuyvoWUV_eRbGK8u0wLr9pCQpcnPqY2MpGcsdj_ymEGgs9LuEIkA6z8GfOstLWx0_HMKqJ5P845iIIXxsRcGQPy-_jBGkrQOsnp0qpidMW0nL125tGYVxLJGuIhuQ1vOpMbJbiGTAlnW4r7r_V85VGG6c_cpBYRKZX3niEd2AmxzJvFvy0lLXu-aKV7CymjTZjdCDpT4I5vKOzjHifY4v4Kxqj13EDMQ7QkTl4ljutMF_46GWbYKX60P3oZDVGk6C7H2kNMsBw5KevAVhZRKGVbUzVxdFM53eVEgBmC_QtA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;
+From broken to testable SwiftUI navigation: The decoupled approach of MVVM with coordinators - Matteo Manferdini&lt;/a&gt;&lt;br&gt;SwiftUI provides several tools for managing navigation, and the introduction of NavigationStack and value-destination links improved programmatic navigation. However, in larger applications, vanilla SwiftUI navigation can pose challenges for testability,…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Автор показывает, как использовать NavigationStack, NavigationPath и...</title>
     <published>2026-02-17T11:35:08+00:00</published>
@@ -242,16 +255,5 @@ Build Smart Before You Build Fast - tuist.dev&lt;/a&gt;&lt;br&gt;Discover how me
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Очень полноценный и полезным материал про Approachable Concurrency в Swift. Внутри есть видеоформат на 28 минут &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"&gt;&lt;b&gt;🔥&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/"&gt;&lt;img src="https://cdn4.telesco.pe/file/s9tKcrhMWC-4rxHiadan80d02YX1jqUl0O1RFqeeHxPC-jlK1NogJJLqb7vEfvCrdmg8zUhdjyVyLTkS7jM8DdI9aTX6uqj9PgNANG12pcDWyHf_Fjciu9vEEfLENC70LMfc7q7JuuQVF42vNud6giUxY7nekq1d4IJ_j-eQ3mF_UeFp4BDhfKKzeLIFYxPWNM3JsUR4J19n9kOkrmqmr1DB3d90KtRZoqS8PDqHHTGHczHBtWfU5geXKdwPBD56yBqGPPEPuUoZ9IFZw1qlY8hfLSqLAs6uwUceqhpBrNxpW6IJn5jovdhc-FjXs-fCbQOR6bsPT-WW9I-X9Niu-A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/"&gt;
 Approachable Concurrency in Swift 6.2: A Clear Guide - SwiftLee&lt;/a&gt;&lt;br&gt;Discover what ‘Approachable Concurrency’ means in Swift 6.2. Learn how it simplifies async/await, helping developers write safer Swift apps.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Про зум в SwiftUI&amp;#33; Даже и добавить особо...</title>
-    <published>2025-11-21T11:15:34+00:00</published>
-    <updated>2025-11-21T11:15:34+00:00</updated>
-    <id>https://t.me/ios_heads/1093</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1093"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Про зум в SwiftUI&amp;#33; Даже и добавить особо нечего&lt;br/&gt;&lt;a href="https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/" target="_blank" rel="noopener"&gt;https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
