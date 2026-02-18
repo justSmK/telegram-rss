@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/bHTekaV1CSHcVcfsF3VvK7jJSYNXCsC5wS1WRwzaBK_yH4Ks8fSc0eJxrajMrdRb8TLa3BuF76bduxmwH2Yf4uKv4-K3X1UztjHm-zQzfU5Qa-oxEQnY7uTNWvtYPfo8qbVsS7T8B4CwkVGAIlXWE5yONHRhzLzntcEbSHqCfH_eE3QIsIEKNwlD7mQBYn7IjKgkwz4hV7rljVKTBj9PUf5NKZja5nMdSUhWIFVm10X3zTjHsETmGezxzWYIqy-tqcxK-JYR6OwZOk1AIFZ1vj44aARh0PyB0NWsomUl9iOS3lAfXlRr3fcQHjBNTZiwngpGCsVrzOLO17dQc14dkg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bHTekaV1CSHcVcfsF3VvK7jJSYNXCsC5wS1WRwzaBK_yH4Ks8fSc0eJxrajMrdRb8TLa3BuF76bduxmwH2Yf4uKv4-K3X1UztjHm-zQzfU5Qa-oxEQnY7uTNWvtYPfo8qbVsS7T8B4CwkVGAIlXWE5yONHRhzLzntcEbSHqCfH_eE3QIsIEKNwlD7mQBYn7IjKgkwz4hV7rljVKTBj9PUf5NKZja5nMdSUhWIFVm10X3zTjHsETmGezxzWYIqy-tqcxK-JYR6OwZOk1AIFZ1vj44aARh0PyB0NWsomUl9iOS3lAfXlRr3fcQHjBNTZiwngpGCsVrzOLO17dQc14dkg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_den</id>
-  <updated>2026-02-18T17:08:25+00:00</updated>
+  <updated>2026-02-18T19:00:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -56,7 +56,7 @@ Xcode 26.3 unlocks the power of agentic coding - Apple Newsroom&lt;/a&gt;&lt;br&
     <author>
       <name>Swift от Дена</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swift_den/690"&gt;&lt;img src="https://cdn4.telesco.pe/file/SxfV7r529ABjFesEk-6z_NNecpX85lEI0lcnvAMYJb8AyijVthm1GLC3rFtbv-cMR91RCQzyEVes0aIm48kBBkMl-9Gi-dsVPTEUeg_t3Mv36hGDbC_11itafELIOCoa2PC7hrxgRnJYODlMYTTTTdrOkmv-5i99SvS7bbSuZ-RaJMPCjI-kvqe-8RmeGAdyXU9A325OcYD3aii-jrp8oX9yEihGoA9BhMbhlQJ20RbYKsM4ghtODWce1IkYDahwjXwhrqFONPbxSrM_doVv5E6wHeDM88OipPi58Xf-7_UKwwhmHvpN0a5W244jU_Vp7PwW0ODEq-1H2zTMjHSYRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple тестирует новый дизайн &lt;a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;App Store,&lt;/a&gt; который размывает грань между рекламой и результатами поиска&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swift_den/690"&gt;&lt;img src="https://cdn4.telesco.pe/file/nBYBT4dWRpYdFSc6CCTWMWH8kJiTaQNQ-6BpoQWW8eRBSEMtuJZrMRF_uPYjWxZ-TDGn1w7um1nTp_cO8o7T10GlSyedfssc9lwOdBOw89VAuhOtp0rgTspdqVamluZqbWEb7KOxb-9dwTwUAjr82xh-UJXAVgcwNqQDzoDaDdAvx-Xs0tf2tQgYXfiC0p6BbJEiHuR6ggCT90fMpsFsy0wXnT4Ec30XARrVK9EbY3GZMLDuAmtWF6725kBU3WyVN4UurwhdLy6J-QyHU6GiJuXmZeGBSSs8pSBwJNIh1YJbtl6KONfEAHDSjjBW9oAuVEWxb_f_cgMsCyuWSc77YQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple тестирует новый дизайн &lt;a href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;App Store,&lt;/a&gt; который размывает грань между рекламой и результатами поиска&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">🎵 MusicKit в SwiftUI — создание настоящего музыкального...</title>
