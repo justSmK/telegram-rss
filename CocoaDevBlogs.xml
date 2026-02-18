@@ -3,13 +3,25 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/HtFm3Oex2elnrorRKg6b0PpD0XqybQv02CwgYd2ceJJVLxofxZxtW__Y-jFQgRHmXFDYDMWTY37bjoWjmv_5U93b8suwiJ0kdWPebXt3rIfw8XDfpgXWIHhfpSr-JR9Jli41CAn1FfnZJZ3ua6oaRA9sjUmvwHU2MAEju4pTGJ_SZYlmQvDybQosHS_in40KQhFMzs-fZ-l8v_7JVyblyU3bjn1tLhKCim9T-OUBJzK6nuLbOn7Qx0_tZ4kEfm3WToVmDd-dCpUk5HR0N18MVKPd_oM8-COxsxKGHPrm8yAxNtGyVs5pozp_L_MCZrAvR4PvEZUIQxSKNfLS46yeKw.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-18T06:04:01+00:00</updated>
+  <updated>2026-02-18T07:52:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Isolate SwiftUI animations to specific attributes https://t.co/1eNGymlqVI</title>
+    <published>2026-02-18T06:37:32+00:00</published>
+    <updated>2026-02-18T06:37:32+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25986</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25986"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/bQj7W0LpaZASkuJBavhCO_y-uSORdZU7DYsbDjxwhQ7cF47Wi0Yq-XF1r5cthoaFn_vW01XcNDnaWqQlrZQqSQKSb3QXyeM57HctJSOfIjx3_UEhHtwPSChRGCosGRvMKqV0SaXM_kyKfWbhW1JGQk_11kKzkVnkIBFmf8UwXjoaKgyDACNtqTyx_b6Q1oOagoJN8Isq82MA_3YUC-KTYc83qzXMX3XWeY7eDXYaN1-xZdv9K8lg1ekczJS_6bXggfqxf9U9shoqBmgRIFZvD-2XeOXgPQJcz7kPE5dxj21kSjHGwaybgwAfnUZD7uI7MQhJAwoNy2l8-vMI412nsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
+Isolate SwiftUI animations to specific attributes - Nil Coalescing&lt;/a&gt;&lt;br&gt;Precisely scope animations to specific animatable attributes by using the animation(_:body:) API introduced in iOS 17.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : pinterest/PINCache https://t.co/UhKGnlNAI3</title>
     <published>2026-02-18T02:12:36+00:00</published>
@@ -237,17 +249,5 @@ GitHub - seemoo-lab/openhaystack: Build your own &amp;#39;AirTags&amp;#39; 🏷 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/fGwJxdevhLpPcheQlhuaN3Z5XdwnH6r7ScCSMYcd-Ebe969ZW0k_KVhJGcmWGG7IIlALMJg0bvyFIvBiNB_QVPXvXSyV54hEIlXvdank4bPzbaxKldIqj-sNrghoTA4l-uzu2B33Jge6uxEfCX0mwIt92R44kz3rZrkxgwFkOGiWwNjC8K2mxHz87ZO_k0bdua62Daqt5Hl60GJCEv2UGCN9VpsLbkGX2Wz96-g2WjCFZ6HQ70uet5KwMhysdXHJPE4_snNGOQ8fnAFjcESgomN7D7p0V28pcAL8xLXZOlsJUq4dN586aTt4YYHDxiFh0U_VVqF8gzxqxxpHwFJXkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
 GitHub - apple/swift-nio: Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - GitHub&lt;/a&gt;&lt;br&gt;Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - apple/swift-nio&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : segmentio/analytics-ios https://t.co/Ywlt6TRbfP</title>
-    <published>2026-02-15T02:02:38+00:00</published>
-    <updated>2026-02-15T02:02:38+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25966</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25966"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : segmentio/analytics-ios &lt;a href="https://t.co/Ywlt6TRbfP" target="_blank" rel="noopener"&gt;https://t.co/Ywlt6TRbfP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Ywlt6TRbfP"&gt;&lt;img src="https://cdn4.telesco.pe/file/Nvh6pYL-hiF23vaSPbBnrgE-fcpilf2pn61HJaqomagNcLza4V8yZR1SEElOJ31DeLCrVFcsFij9a5CvxZP2OBbjhB1b3lgnKXBA83ZWT9EC7t2NuPtzC-pt6sWvvMc-K03HH17q2bnqTUWw1gck7bOLD4wBtiLONurGHaqou0ZRNgGcxUxrOADHmGwe3MgZ_Xpr7DhJKKOG0cYiwr2YP9bIPsZzJK9CxWByJGwFc5R9-dtcMkKg97xvaBTzdqIinO9cWsX9ctns6glUSxXBPZZ9OH810h8j8KAwwZ-2wUGU1hMLGxNfJsw_gIO__yPKMS-hCZs2vhGU66q8EyZ2GA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Ywlt6TRbfP"&gt;
-GitHub - segmentio/analytics-ios: The hassle-free way to integrate analytics into any iOS application. - GitHub&lt;/a&gt;&lt;br&gt;The hassle-free way to integrate analytics into any iOS application.  - GitHub - segmentio/analytics-ios: The hassle-free way to integrate analytics into any iOS application.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
