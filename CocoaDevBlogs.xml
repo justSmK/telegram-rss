@@ -3,13 +3,25 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/Qsod21P641FNhWeB4q2faLwdcPcvQZ5WaSsu4bqs4ZsOGo3-5QMCWhko98Zhyvu5BTsH3H4Y17L5qFSPzR6r5gFG86nXhAOQiM45lu8Thu01Cc3FIX6SxFMcPdDLh7Mq8Pbt7d_O1L5NcBzMip1U-eBDnhV1FnB_uhKUfoZGQ5X4OCNDU647gRfc4bdhcIufwSdUkOWxs5Yf5mTPOmOV9Be4IxRqXhmseE8-97H3PvyqosfTayUAaGRluzTu2i0oTtYpoet1lhEvnVYEbIQW444r85XkHdPVJJSVFHxW6Ulossol-Ll9fvNP_er2ZtnoKSK9-YbOituy6vF9wSfvCg.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-19T06:01:52+00:00</updated>
+  <updated>2026-02-19T07:50:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Institutional Knowledge Is a River That Can Dry Up (Don’t Fire All Your Workers)...</title>
+    <published>2026-02-19T06:37:25+00:00</published>
+    <updated>2026-02-19T06:37:25+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25991</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25991"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Institutional Knowledge Is a River That Can Dry Up (Don’t Fire All Your Workers) &lt;a href="https://t.co/5ZFloi9trV" target="_blank" rel="noopener"&gt;https://t.co/5ZFloi9trV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5ZFloi9trV"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5ZFloi9trV"&gt;
+Institutional Knowledge Is a River That Can Dry Up (Don’t Fire All Your Workers) - Christian Tietze&lt;/a&gt;&lt;br&gt;Fire all your workers because of the potential savings from using LLMs and you may end up choking your company to death.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : kitlangton/Hex https://t.co/YXS2TxyBsu</title>
     <published>2026-02-19T02:22:35+00:00</published>
@@ -67,7 +79,7 @@ New Xcode 26.3 Onboarding Animation using SwiftUI | #animation #apple #ios - You
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/bQj7W0LpaZASkuJBavhCO_y-uSORdZU7DYsbDjxwhQ7cF47Wi0Yq-XF1r5cthoaFn_vW01XcNDnaWqQlrZQqSQKSb3QXyeM57HctJSOfIjx3_UEhHtwPSChRGCosGRvMKqV0SaXM_kyKfWbhW1JGQk_11kKzkVnkIBFmf8UwXjoaKgyDACNtqTyx_b6Q1oOagoJN8Isq82MA_3YUC-KTYc83qzXMX3XWeY7eDXYaN1-xZdv9K8lg1ekczJS_6bXggfqxf9U9shoqBmgRIFZvD-2XeOXgPQJcz7kPE5dxj21kSjHGwaybgwAfnUZD7uI7MQhJAwoNy2l8-vMI412nsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/h1Ft-YTtXLfl1Mm417ipiMrB7uy5KaapXAO-Xu3_8pQkfirW1BVk0FoUK076HpOzFw-xOpTNc7Ix5-JoskoDjjYjg1NN-FkTdwJt_YozLRqRn16SwsrbFGfEHiE_ZLVKop0nDe0dlEKFv9qsu7L8ZvJ-KLgvKRpX4hQesVhuIp_iiaT-nJYXQnzaDTFeV9y43KX-FwjpaZYzvpIuubROm0bAKIiodgRIRAGZjEVC6Fs48Xu2SpO9ZtrbQGM5VtameUgaZx06IVDquhdZ4xpPDQ12HfszOey__EJ12ny_pdEdBtxoOpGESp1lFsofLsjDCcSkzrZMqBVJKXCJiO4hlA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
 Isolate SwiftUI animations to specific attributes - Nil Coalescing&lt;/a&gt;&lt;br&gt;Precisely scope animations to specific animatable attributes by using the animation(_:body:) API introduced in iOS 17.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +249,5 @@ GitHub - lwouis/alt-tab-macos: Windows alt-tab on macOS - GitHub&lt;/a&gt;&lt;br
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : airbnb/lottie-ios &lt;a href="https://t.co/pqS6Tdbp7o" target="_blank" rel="noopener"&gt;https://t.co/pqS6Tdbp7o&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;&lt;img src="https://cdn4.telesco.pe/file/XPiMaYBWvXIBtLzqKPSnohorTR1UUAnHRCeyXxhssKtacdpMzEGkTIyJo3W2GtdXCY7zksS7Q6sAw-vUqqSOEKtTJbi2EUD3hcBuRnZDYN0WDOORvvtVGmYLK8p6sxTCNT1tsu51bH8BTzoLXhO9xpWNcfAqOd-XUnxAgeiaIp7WnDRyNgGtRzX-Ivoq0RnV0iZzWV0PQkZ89wRtBY-i4J36RFEsD4zqW8R8I7s60ZBoxSe_Ry2HH1vs-_UioSTahR0haibaLLq7NI6HEYAWhglhn39cI6obd99mG5rXWnGXAFCw0WxNa4PTTg-_eCuC_BmJ1LQItTsVuZCOASQ_wA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pqS6Tdbp7o"&gt;
 GitHub - airbnb/lottie-ios: An iOS library to natively render After Effects vector animations - GitHub&lt;/a&gt;&lt;br&gt;An iOS library to natively render After Effects vector animations - airbnb/lottie-ios&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">The Agentic Loop https://t.co/UldguRhN3V</title>
-    <published>2026-02-15T09:07:26+00:00</published>
-    <updated>2026-02-15T09:07:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25971</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25971"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Agentic Loop &lt;a href="https://t.co/UldguRhN3V" target="_blank" rel="noopener"&gt;https://t.co/UldguRhN3V&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UldguRhN3V"&gt;&lt;img src="https://cdn4.telesco.pe/file/nxaNc0fFOQxwt4BJETCsYtgzRZqgzb0bgkTKRXE_VITH587PdEdRmsW5gKStdlquLsDa4hg1ohYEm68OcU53sNty8T1_xXy60yt5r_qFh4isbEzGzqeLxmXLJGkhSxsWsXtdIzSQ4kx4xqNYA83lAHDcDfTqDM9R5fzlNrFTqrcqg0dDp5c4Ho6h32nY_cMPqR8L6sYlRFzEpWoJnJeRi3DEEB2rMMeKLutRmnEgm9MyMGhJqv94CeZ0xR5bqDs34ni4XgWY_dx6vYiEVEz_Edwd2EkkRUV2lWR1RkNmwQ1SuH8RUU75t6Q0TdncuFZWpa_UxcfbYrhcko3v6Wdb_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UldguRhN3V"&gt;
-The Agentic Loop - Medium&lt;/a&gt;&lt;br&gt;Compound engineering is not a recent concept, but its relevance in the last few months has been increasing exponentially. The pace of…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
