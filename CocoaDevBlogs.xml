@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-19T18:55:30+00:00</updated>
+  <updated>2026-02-19T19:40:16+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -200,7 +200,7 @@ Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs - Chr
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to build a simple CLI tool using Swift &lt;a href="https://t.co/p1R5hgf5pR" target="_blank" rel="noopener"&gt;https://t.co/p1R5hgf5pR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;&lt;img src="https://cdn4.telesco.pe/file/jvX0bBckG9jovOqPaW2cvMuo71ol31XfN9ukwGbDPf2FEJ4KQdNSlyp4TUiTmfZzCImdz_5xw5-_1q-aSJIlT7Qtq1981hOr2B49Qhx_gNw-MRgLlyFPc_558P2JED_M7_Gp6ewFzEjyigCgSxTRXM7lGLEh9jeKb7tehbZWpBeED03TPqVLEBu-mybeYgdpE9AP7Xjw9ADZJvhgiMrAw6d0JLuaempZ4MhGPw_88OXQjwfVN1itu826A1omQ8VSRFB5GPQJr6XQ2tGTDvRc_Zx020yci6TAaeF8It2W3vGyfmDMg92S4KtNYtsza06ZWNEr4UDMislXY3pstcp6XA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to build a simple CLI tool using Swift &lt;a href="https://t.co/p1R5hgf5pR" target="_blank" rel="noopener"&gt;https://t.co/p1R5hgf5pR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;&lt;img src="https://cdn4.telesco.pe/file/tGSTWoGCzKS1FKHtlL5Svr8TXPs9qeI0UKLJLI-iuAxv7_fDDKDBLjbvOFZvPNUXOaHZs_iYgA3cc5c6H0s6lg3YOZR78mmj-tcqkGXTe-Uw6McOgMky6CfEBAE-IoR3gCqnXN4Y7SSrxdBMpDbbFxTgozAazbUwBdXglZloKkRSbFkBeN5RLEogfwPnca7lT0CRHt1xibYM9gjZwx47p4gxlD6Vlm_LIAxjXlCr6K-8lxHbbtsGip8MBluErh69TqmVvetcg8SVNmSLplBg-2-JHtXNeFbxropGV1-QcubopW_7DeraAnoFEXunYbvkJ4VVlsx9LfG9xP-cVOdacQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;
 How to build a simple CLI tool using Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how to build a simple command-line tool using Swift, parse arguments, and create a solid foundation for automation and scripting.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
