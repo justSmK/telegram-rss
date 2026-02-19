@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Fqa-AbPklXLmCtcpj7NyuegEeEu6tsEF9R5bGCbxOrhWZfOlbJWnY3Fi1wNjE330UwqJZacGfJTtI34QWjylug7tVtaekCkJrpkVDB0PipMu9_BOu1b53ekygovZgsw3_akZHBCLQAv-Asrql6JYYeBrWXdLmMrHN5Ygu-_ASTl8FkhkZY4a8HiPCYAisZMT44BPLkySpSJ6X6Q12_OQXwRY2V8iXGldX8elijmxrkw3mm9mtKD1Z2hHbQZmvx8F5-PlnyJGVHc2svHEBXlVXtGnXDACrbpl2mfHuFmvQzL82OelX4_1SC7Voh8RKCuUz0FUTWAaWKlnu2Pa1qkOtQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Fqa-AbPklXLmCtcpj7NyuegEeEu6tsEF9R5bGCbxOrhWZfOlbJWnY3Fi1wNjE330UwqJZacGfJTtI34QWjylug7tVtaekCkJrpkVDB0PipMu9_BOu1b53ekygovZgsw3_akZHBCLQAv-Asrql6JYYeBrWXdLmMrHN5Ygu-_ASTl8FkhkZY4a8HiPCYAisZMT44BPLkySpSJ6X6Q12_OQXwRY2V8iXGldX8elijmxrkw3mm9mtKD1Z2hHbQZmvx8F5-PlnyJGVHc2svHEBXlVXtGnXDACrbpl2mfHuFmvQzL82OelX4_1SC7Voh8RKCuUz0FUTWAaWKlnu2Pa1qkOtQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-02-19T10:48:22+00:00</updated>
+  <updated>2026-02-19T11:40:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			У тебя на устройстве одно ядро. Вопрос, что будет?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;26% - Будет parallelism&lt;/li&gt;&lt;li&gt;51% - Будет concurrency&lt;/li&gt;&lt;li&gt;15% - Будет parallelism и concurrency&lt;/li&gt;&lt;li&gt;9% - Ничего не будет&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			У тебя на устройстве одно ядро. Вопрос, что будет?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;25% - Будет parallelism&lt;/li&gt;&lt;li&gt;51% - Будет concurrency&lt;/li&gt;&lt;li&gt;14% - Будет parallelism и concurrency&lt;/li&gt;&lt;li&gt;9% - Ничего не будет&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#vibecoding #agent #github&#13;
@@ -142,7 +142,7 @@ Apple поменяла планы и сделает Siri полноценным 
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;12% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;11% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;42% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Функция выполнится на MainActor&lt;/li&gt;&lt;li&gt;12% - Функция выполнится на concurrent thread pool&lt;/li&gt;&lt;li&gt;12% - Поведение зависит от контекста вызова&lt;/li&gt;&lt;li&gt;42% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Что будет если увидеть такую сигнатуру записи:&#13;
