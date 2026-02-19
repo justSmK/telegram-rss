@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/fHsd__--cJU-kDtrKtHAXxNwZ6ohhFBu81qHpyDe6wnTri-prJoO73H9uMmLc_S6rwDI7lpANMAGUeh0frEmC6_fVi9UMQ1aiKeUI7onYbl8Sv5_RZOeT2fWSMUXaYZgKcn5QjU9ek_EBsBPp4mYUsCdN6nfeGtDx1sEMhixbw91-SuqgZfUdiTeaQY8mX2d6QnAblIZOJWnNxB5-7EtBDb4xm_h4hOJoDKfFXKM6PTOxiVgi9Nmdw8eH1PRQ0Fn-y29Aa3fWkh1b6i6JUnqzwnNpxYC-cUK-AB4P-fP5Ehaz9uW2ZUU7l4La-CXz3uIAMb0nY1yjl1ofjg82rBs5g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-19T15:52:30+00:00</updated>
+  <updated>2026-02-19T16:57:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -211,7 +211,7 @@ Get ready with the latest beta releases - Latest News - Apple Developer - Apple&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/KHLFrLr1zt0LgglJrZ7g6Vx30m047sed1Ix0UGgJyv_c_E63y7DRON3tkHFcqaJXeQR6NUPT6sdPd0RHwFIq-xrmBx7bh_UjBcRs561JtK6PIKLmEZBUGFrWf9e62KOwikZ2q2H4tHuPKclITh-sjkAmcQVRd3ziVHcfL-KGOUODSEAZUXwgeDt9UkX6TLIXO8VqvjtDYO9eoythTYSphIXHwSNRcEvb0cbNvKHBXS_N269w3GA_V9hVPwQ2IZdmGFee2Bs0rdd8oq2FlhHTAsraqMHs-Bnl0aSqtJBRED2bmIA3gCZhyiB7AnoO1LbVvZ-SX1ENcQrFTzR1qLuWdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/WbVWZk5iVqNtsUKKkQPPdjIp55THLqih14ztT3fxgAAobmBw7OP0XMFKlQUr194SblTG3hm2N3rWmCkgfAKYELQwAf12mZwTTfNLK5HOq-5LMWlzwdOkkhpUyXN-8JHv2Rk60HH2aixnnVILdfTjhy-iXHrmXFg4kofnA0LMxsLqiD9GP8N0TIjKpINy5DY_5XxUqrQjbqBL2T13tg0zAzwDtaWdSrgVQmqqDtOdLj6rZeorKleBAD6tINgP2tbzUdhE4lVoVMW3e6hmU0WAz9DaWDO2SqD9Z3yTLBPLPc6XHyIzXHVNfp69c0jSBnO67hLQfi17SR5yh0R8nZBOPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
 Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
