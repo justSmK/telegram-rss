@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/crJHz__UJS5Pr-EPSEqHJH7skJ4kuRPVAQbI7Kflu11cXJDJjTFxHLfoDdCVc3GxuUe78rzMnmQFk0cR-n2RNcNHOTRLyiNc2SwVVGqg88oNsdfYAPPhD-HYGn7QZ-UQQK0dIgFtBzVJCp-kjDHuvJ5pJEyxMkR2PT8m4x-sbbyeeRundnlcvr_Ep4wR4mqAuWeRWCucEFsYxRJBiYHPm2XUqLRXAlNkhRJQNI7NkY6eiHZHf7wUy2ZBMuq_TrCqhOL1C3wbHD2RcYoykUcvxwcxLBm2czJSzyZBEPOBBy0AoqAV5h4Qcs185m4dYNlzDzccaiyb3gFGLjxVOiSEJA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/crJHz__UJS5Pr-EPSEqHJH7skJ4kuRPVAQbI7Kflu11cXJDJjTFxHLfoDdCVc3GxuUe78rzMnmQFk0cR-n2RNcNHOTRLyiNc2SwVVGqg88oNsdfYAPPhD-HYGn7QZ-UQQK0dIgFtBzVJCp-kjDHuvJ5pJEyxMkR2PT8m4x-sbbyeeRundnlcvr_Ep4wR4mqAuWeRWCucEFsYxRJBiYHPm2XUqLRXAlNkhRJQNI7NkY6eiHZHf7wUy2ZBMuq_TrCqhOL1C3wbHD2RcYoykUcvxwcxLBm2czJSzyZBEPOBBy0AoqAV5h4Qcs185m4dYNlzDzccaiyb3gFGLjxVOiSEJA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-02-20T15:39:55+00:00</updated>
+  <updated>2026-02-20T16:43:17+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Вдогонку прикол. Donny Wals тут рассказал как настроил...</title>
+    <published>2026-02-20T16:21:02+00:00</published>
+    <updated>2026-02-20T16:21:02+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3780</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3780"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;iOS Makes Me Hate&lt;br&gt;
+&lt;tg-emoji emoji-id="5465277190453085073"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Подборка полезных аи-настроек для вашего проекта  Настройка для проекта сабагентов, правил, промтов и других md файлов — это супер горячая тема. Не уступающая по холливарам архитектурам и стайлгайду.  А не редко такие описания для агентов являются и хорошей…
+&lt;a href="https://t.me/iosmakesmehate/3779"&gt;https://t.me/iosmakesmehate/3779&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Вдогонку прикол. Donny Wals тут рассказал как настроил сабагентов, которые запускали код. Проверяли. Находили баги. И сами фиксили&lt;br/&gt;&lt;br/&gt;Разрабам осталось недолго?&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;&lt;img src="https://cdn4.telesco.pe/file/mwnbWIdTXlvmHt9ilixsR18C6qfS9gxiwApKf3i6aHDk0aFesap5smkx2cr973eHpv5A-QD-96drQ9A5J76pObSMfLhUMg4P2L3Wgx2GuXfZCauSNgy9ECq_7_YJ5k-aKglMDlHCiGn5a0v4tJkWgPc-O16OH791f8OC6Tfl16He_ygZocsXpqUI79pvketJJGU8QeXI7gzEkmxHzLNJEJETDgAT8fyNPwbGV_6GyDjUunz6YwmlERZ0Ouqeju9Eo_08tymEJwIC4nV3jpWOyap2bX8RTV_DFnYmE8fXXeJCXIeXsv_I6Ue_8D5ZEMOCvVM73flq9UXXuo0z7nQvyA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;
+Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">🤖 Подборка полезных аи-настроек для вашего...</title>
     <published>2026-02-20T06:47:28+00:00</published>
@@ -31,7 +45,7 @@ CLAUDE MD Mobile Development - GitHub&lt;/a&gt;&lt;br&gt;🌊 The leading agent 
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Сколько вы тратите на подписку аи-агентов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;33% - 0&amp;#036;&lt;/li&gt;&lt;li&gt;38% - 20-40&amp;#036;&lt;/li&gt;&lt;li&gt;9% - &amp;gt;40-100&amp;#036;&lt;/li&gt;&lt;li&gt;7% - &amp;gt;100-200&amp;#036;&lt;/li&gt;&lt;li&gt;2% - &amp;gt;200-1000&amp;#036;&lt;/li&gt;&lt;li&gt;2% - &amp;gt;1000&amp;#036;&lt;/li&gt;&lt;li&gt;11% - Посмотреть результат&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Сколько вы тратите на подписку аи-агентов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;33% - 0&amp;#036;&lt;/li&gt;&lt;li&gt;37% - 20-40&amp;#036;&lt;/li&gt;&lt;li&gt;9% - &amp;gt;40-100&amp;#036;&lt;/li&gt;&lt;li&gt;7% - &amp;gt;100-200&amp;#036;&lt;/li&gt;&lt;li&gt;2% - &amp;gt;200-1000&amp;#036;&lt;/li&gt;&lt;li&gt;2% - &amp;gt;1000&amp;#036;&lt;/li&gt;&lt;li&gt;11% - Посмотреть результат&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">🗺 За кулисами Яндекс Карт&#13;
@@ -248,18 +262,5 @@ Size, Stride, Alignment - Swift Unboxed - Swiftunboxed&lt;/a&gt;&lt;br&gt;The ba
 	&lt;source src="https://cdn4.telesco.pe/file/fe34c0107b.mp4?token=FDGFerZXCU5iBeoBDvEAgVELyfWUm7WBQaCwKKUmLj78Ji9R9NDEJe25QgoUUntm7ebPWrHr1YJnu2OJ8c3sJd8wYuNXnHHlfgS8p4hjGTPwBGvcotpVL5P90FCLMhS4riPpqej0_We0vUc8AbE3RX0sa4ruUKB_WgpxetfgpWcm-MhGmvwpGH1RuMeoJ9njxA1M5EAFXTvQKDpNqE96jgMOMSvH1nrtExnZ57eSzvcjGtKoCXOwy1a-JrGHic9Xxpn5d3M-bRpJeMF3Zeh1ycge-zY_ELqW5O9UbvNIat4RuX7Gx1dojB2WMhK2B8jmMPai3aJBJtvjtObhC9BIqg" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.warp.dev/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Лучший терминал для программиста&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Если вы не знали, то в Яндексе написан свой Git.&lt;br/&gt;&lt;br/&gt;Такое делают многие большие компании из MAANG. Вроде круто, но приходится юзать только терминал. Никаких любимых Fork, Github Desktop и тп.&lt;br/&gt;&lt;br/&gt;Здесь на помощь приходит самый СТИЛЬНЫЙ И КРАСИВЫЙ ai терминал — Warp. Когда аи органично вписывается и улучшает работу.&lt;br/&gt;&lt;br/&gt;Ну посмотрите какая красота.&lt;/div&gt;</content>
     <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/u369I2kDQ9dT9Wr-pYGRSukhltOkwo6WmWNS2qJKCG4-OQQU32rTQ_XSEejMeRsVOHzqljg9M9T0S7HL-IVAldijUyNWoCbnrqqrL3kRrzatTkumVxCF4cO0Yee3eMC-6meYtLR77aie83j1LynFtHEpcIRH2y8pICvvjEnKH00lzMnhUCLe7JCRkMw5ldONaw19RwyoZBytItNVjycrQEVVOmK9cmFeTESgfJ-BXegiUXnh2Td8pEiva_ctziVjAxNpSUWFkVyUgyZ61oXnEWwOctwoEJVc3uOEc3EIR8zkt7QUcx5wpMpOHtxGXIU9af6xhi6ntosCG4sEDlCkSA"/>
-  </entry>
-  <entry>
-    <title type="html">ваши предложения куда переезжаем</title>
-    <published>2026-02-10T10:05:43+00:00</published>
-    <updated>2026-02-10T10:05:43+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3756</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3756"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;blockquote&gt;Москвач • Новости Москвы&lt;br&gt;
-Роскомнадзор начнет ограничение работы Telegram — власти приняли решение начать работу по замедлению мессенджера в России 10 февраля.
-&lt;a href="https://t.me/moscowach/37698"&gt;https://t.me/moscowach/37698&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ваши предложения куда переезжаем&lt;/div&gt;</content>
   </entry>
 </feed>
