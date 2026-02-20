@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-20T21:28:54+00:00</updated>
+  <updated>2026-02-20T22:30:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring...</title>
+    <published>2026-02-20T21:37:43+00:00</published>
+    <updated>2026-02-20T21:37:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25998</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25998"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring &lt;a href="https://t.co/80NFnVEY8l" target="_blank" rel="noopener"&gt;https://t.co/80NFnVEY8l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;&lt;img src="https://cdn4.telesco.pe/file/rzWldvQfJWZYtUiAe_aCHJ3fdFueP84hbfBSs85MgKQPpIFNcocPEQPhvZxsUd4rKmAf62Un7qpTAu8Hd-XG9IzjoGqGp3H0FUvzZd1q9EfD2IfBfzxL5T2vyM6GcrZIQiq1frPTEeHTA7tq9qZlACp1ZllCUh3w4ULEogAzTcQ7Xoe781ARKMXnVSNynqBoLubtxRN6Xl010beDylh4UipaOOhu06riY7U6MolMVWMw_OarHxCy2wVa8CEy5jTw_pLl-SEf0ehTEheAl7ET2fDal9ncqgNugDsh_v75SEBRaRDXE-scBuR_bIkN38SEo0OmyYYgfXdaL8trnZPjFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;
+Announcing Swift System Metrics 1.0: Process-Level Monitoring - Swift.org&lt;/a&gt;&lt;br&gt;We are excited to announce the 1.0 release of Swift System Metrics, a Swift package that collects process-level system metrics like CPU utilization time and memory usage. Swift System Metrics runs on both Linux and macOS, providing a common API across platforms.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">App Store Connect Update https://t.co/0IiJcimMOx</title>
     <published>2026-02-20T20:47:52+00:00</published>
@@ -176,7 +188,7 @@ GitHub - pinterest/PINCache: Fast, non-deadlocking parallel object cache for iOS
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/Zj6cbEctBb" target="_blank" rel="noopener"&gt;https://t.co/Zj6cbEctBb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;&lt;img src="https://cdn4.telesco.pe/file/S2evVaapXIgZ-fL1lQcJSIF6ORWAAXWKEjEhWc3IlexJv1nusUyo4XG5dZU3se0VNxFvffk5rR2gO9DonSM4iecggRpqCXSOB_TPrFaHF7EAle8Eo3VwaNwzFZPBIUGbLNgMysmFyEiEyury48DTl3XFN8kLyG1S1IAVbORPhnMZ7DzByHURmG1-0xNiSg5ScbgubFLX9sK4PaQ5aViB5mDdxeRvecDt1wDFcdhADEoI0BC3UG8VTkRsBeSzm_8vHvr-Y-LOFxIfDmYw9FucI8lcZZNiAR2fgy7BCMLeuRjf7glrGrQnvzm1uzTp0dfVUBJ-bIo6b1ddDjgsmO2u8w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/Zj6cbEctBb" target="_blank" rel="noopener"&gt;https://t.co/Zj6cbEctBb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;&lt;img src="https://cdn4.telesco.pe/file/bFCg1Dvr8HZ4zl37PnASd6C4Y5pJaEl4-7z-MYnb955n9Ewe0llTJNo_n7_4fC8uF0KBMqe9q7-FC7nk0stF15IYjZ4pFdV6B1MvUSSAQ9sZ5PCNL12AvQfCEdRmQHL7HEwRn8zILNNivh8eQavcoUKZjfVpz2DLhhVkHjIVTm-XxENjqWLjMe2F9qWOoc6ZRBlUA21LoEyyyPZspwS8a0XVQF51FeKLgOTY8kOHD-THbZ-v-OlEUOiEk22_-OWzIJ7VobokAj_9LTPofMuGKpYHNyLUQ-dAPPdle3ofXmxrDq98QmhxaCGqLvLDzw9YzdC94I8s_Gio2COYgAYHhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;
 TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +250,5 @@ Swift Testing Agent Skill: Write high quality tests with AI - SwiftLee&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pointfreeco/swift-snapshot-testing &lt;a href="https://t.co/2bfs8JLwCq" target="_blank" rel="noopener"&gt;https://t.co/2bfs8JLwCq&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;&lt;img src="https://cdn4.telesco.pe/file/V5COXe6gvpFY_jxsLKgbM13vD9QxF6mspR9mpcrUlhW0jZBOGStkxKXt1hM1qky5x8QNRgzW-VIyh60NZn4qSCoRUuamkXPA6BXhxLWdP2J6rXkkJwTSNaxoo56eGHYAwLzMyWVzVAWnfILU7iOz2mMZaEbS2ORmyMTr_YlmRJPoDKlC1qf0iUUqqcxeHb7xezujtZPzb_Prq0egOe4pr9jI3HQbYEK9x96igyw-fIXiLE2eztnQ-OPc8X8hYqAIpPPvgwOu-5ZIqpiPJeQSozcmJ_KVATQp4LjDVT2zYxY44KwA8IGGjO4lLkjlFC7qQXQaBUmf7vGsuWsavlnCOQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;
 GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot testing. - GitHub&lt;/a&gt;&lt;br&gt;📸 Delightful Swift snapshot testing. Contribute to pointfreeco/swift-snapshot-testing development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs https://t.co/5ltBlDXSPb</title>
-    <published>2026-02-16T21:17:51+00:00</published>
-    <updated>2026-02-16T21:17:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25978</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25978"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs &lt;a href="https://t.co/5ltBlDXSPb" target="_blank" rel="noopener"&gt;https://t.co/5ltBlDXSPb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZNA2LsR2P7PhSIq3apX9kiKAQhZOk8ry0mvMA7MoKiss8hunVttG5MSdlGLPm5DVutq8YkhxIlQ9J-kQ5Xowq6H22MXMtd-Irhzjlr4Plm2CCGzYHEvCePYOEm6OSpE1L1TwTMDEbz5lsOiM2VX5t4vobGiifUfF_F8sCoLdiiXesDVeiW9kmDkdTF0waIomoPVtiq_nqhUGaolp0ZqoFJ8PK1-y_sRidW4Pp-jAq3-YCA8msSWzoCQjYemxxK5NHEkSxAnsW9d8NRbEQvy2bgGMHb9ikVomGTgT2875McUN90MgrCkN8SyL9uH6SHnxHSTYSH-CFjvRKiW40PlFRg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;
-Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;I used Claude Code to create an Emacs GUI window (frame) package. Press a key. Get Emacs. Press again. It&amp;#39;s gone.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
