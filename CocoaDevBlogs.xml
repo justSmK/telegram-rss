@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-20T10:40:52+00:00</updated>
+  <updated>2026-02-20T11:35:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -176,7 +176,7 @@ The Most Complicated System I Ever Worked On - Jacobstechtavern&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Tracking token usage in Foundation Models &lt;a href="https://t.co/7ehuWo5nRg" target="_blank" rel="noopener"&gt;https://t.co/7ehuWo5nRg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;&lt;img src="https://cdn4.telesco.pe/file/U6ykXMe9vbga3__rPZ5qFJncJjo10aqEIU--uJvxbZvhgWjIgxFnfBSCnGBE76ihBUbqUnuQ6aYNz-q1UVRGNW1Y-NLeTEQ9_OQdyitNdIt3-Bu5BLN0jTPiXENsOmcHMv8gYT9nwS0QarJz4Yyu678EnUcLFnj2sKqItn5zlYyFu6775D1b83yEprGVZ3UuyYpMu7EdLXgj0nYkatOK5qRYb4CGTbYCYYqZz99XE7iiWuvUahz32kR1fG9flknpUNwSmBUnu2CvI_nRxwLeBCFx77Ao0WQ3vkckyM7_b9P07fMWu1qTKNnoB2QBH6TkvImMqfbEK5oN0PhBIOuLxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Tracking token usage in Foundation Models &lt;a href="https://t.co/7ehuWo5nRg" target="_blank" rel="noopener"&gt;https://t.co/7ehuWo5nRg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;&lt;img src="https://cdn4.telesco.pe/file/CvtwMwqBfnF98xuPPjIU3Cb41N9xC6dpBCcaKJhbKnPmKktEzZ2uCfDfY3P9-3aYgvgmLST4BGuPbFUwrBBAlIYBURDCA_9iIEHflrKFq3Hoz6cXM18QJXdzH3A1TLsj36CuDVY5tw8xQhd9wezJg4O-uGuvOV4Ks4jCjimFQz5c8_t1QVThjwaOdkKO8ssY6n8Zs2tXdn89wTTVtuCTxVg60coF7YiNYpCYPhX9qHB1ZWgJTt1LvEutY1Hy_oF3VB0XsZ2lCDRD3Ocm18mv00LUldK0EcpIW61WEZnhh5j-s2Fo-v6vFFFB1gCBb7PMFPFo3w7bbQ1OTr1KIayNYA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ehuWo5nRg"&gt;
 Tracking token usage in Foundation Models - Artem Novichkov&lt;/a&gt;&lt;br&gt;Measuring instructions, prompts, and transcripts against the context window&lt;/blockquote&gt;</content>
   </entry>
   <entry>
