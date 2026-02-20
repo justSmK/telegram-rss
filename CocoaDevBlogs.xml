@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-20T20:36:17+00:00</updated>
+  <updated>2026-02-20T21:28:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Connect Update https://t.co/0IiJcimMOx</title>
+    <published>2026-02-20T20:47:52+00:00</published>
+    <updated>2026-02-20T20:47:52+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25997</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25997"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/0IiJcimMOx" target="_blank" rel="noopener"&gt;https://t.co/0IiJcimMOx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;&lt;img src="https://cdn4.telesco.pe/file/py_-vuNtEWvXIPzUsRsLGgZdLY_ipG8uOHJFI45wrYTSZeVV7DWxvM1LzSCbNytdFveFXRSa6FOL63uD_yqxYmToO1fM1ccsU9wVHjzVcmsiPug8BKYPVuvi0CT-Nhe1lutijStdvY0zH7QZ-p9ceGJC5-DtPYblrW3DLM9LGzZ8X9LOWNrXfYSVtIDpNszG-rLXHkyzvmP-4OrPUNRTMgknRMoIBnyrigWvCkcCs60PyurTXEkIavHCXJkCZfnYnyqvuIQ8GiE7Z_fHdjMwqXdlTbGrSqMj_vZx93W49J-Jg0x77chXkLd2AJtIqSxWp4MuHegcOex9-Hk11tNmQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;
+App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Xcode 26.3 Release Candidate 2 (17C528) https://t.co/Wyqc9WHzWI</title>
     <published>2026-02-20T18:22:22+00:00</published>
@@ -238,17 +250,5 @@ GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot test
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs &lt;a href="https://t.co/5ltBlDXSPb" target="_blank" rel="noopener"&gt;https://t.co/5ltBlDXSPb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZNA2LsR2P7PhSIq3apX9kiKAQhZOk8ry0mvMA7MoKiss8hunVttG5MSdlGLPm5DVutq8YkhxIlQ9J-kQ5Xowq6H22MXMtd-Irhzjlr4Plm2CCGzYHEvCePYOEm6OSpE1L1TwTMDEbz5lsOiM2VX5t4vobGiifUfF_F8sCoLdiiXesDVeiW9kmDkdTF0waIomoPVtiq_nqhUGaolp0ZqoFJ8PK1-y_sRidW4Pp-jAq3-YCA8msSWzoCQjYemxxK5NHEkSxAnsW9d8NRbEQvy2bgGMHb9ikVomGTgT2875McUN90MgrCkN8SyL9uH6SHnxHSTYSH-CFjvRKiW40PlFRg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/5ltBlDXSPb"&gt;
 Introducing quake-frame.el: My Take on a Terminal Visor, But Running Emacs - Christian Tietze&lt;/a&gt;&lt;br&gt;I used Claude Code to create an Emacs GUI window (frame) package. Press a key. Get Emacs. Press again. It&amp;#39;s gone.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How to build a simple CLI tool using Swift https://t.co/p1R5hgf5pR</title>
-    <published>2026-02-16T19:32:43+00:00</published>
-    <updated>2026-02-16T19:32:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25977</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25977"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to build a simple CLI tool using Swift &lt;a href="https://t.co/p1R5hgf5pR" target="_blank" rel="noopener"&gt;https://t.co/p1R5hgf5pR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;&lt;img src="https://cdn4.telesco.pe/file/mvrYk8oOrP0cMu1bFBcitUc0ZCTUfQamdevYBcByS0kG4SxAugwYCNhJ5e_nGKiqhL7_2I5NSzRRX6NDXC822cWfPHroHvW2SNmwzH50o6zsI19z905FptI6JxaeQWLKso9msxS0snhXOuxLDr33wcmVTx-WNCUUzHnWQrn7SPbqIEoi8mvpwA4cEKGgWH8_tSflkxrwDTTgTZMzIVtbDh13_8yCF-jd1qHNaCuHqcQA2RXgDHkm7wqDnwQqhoQzkIEdJeu9ZxkdpgowZ7RTi_NLLJoFyk2qBg8Xo4MWDKBP1qGsgzy4swLg2nhxUvYXOfBEizLa8Uvz8Zsg9sFrig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p1R5hgf5pR"&gt;
-How to build a simple CLI tool using Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how to build a simple command-line tool using Swift, parse arguments, and create a solid foundation for automation and scripting.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
