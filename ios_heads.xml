@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/WRtvgko60mskEFcvdAvaeE6OhGRmP1PO6oaZic1I-V3s9NyASrCxh_kLmKNmI21I4nOS2p0KbEFh91XfY4VKQeh4QHGFBa-UWJVgCCeUn6_EAKrNpH9JTB0KPM0qdt8jT-KsZ16DeWLRofDS_nzeKgcswXObxKOfLKP-O24WvVGnHIG7XT8b0Dz_hldC1g4oqbHni4TlVLbVIQMybudGo0J4W2BveIuHOd8qj_G6JOD9O5wdgSyXaFgCat0kjt9Vw3GKOy4LTJ3S7B6nviEMub4DDoRpdXyGA2aLsg4vPbEGR-FvY7nvmhQLkp6niBB4jOb3qh--alcQGOaL9aDMNw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/WRtvgko60mskEFcvdAvaeE6OhGRmP1PO6oaZic1I-V3s9NyASrCxh_kLmKNmI21I4nOS2p0KbEFh91XfY4VKQeh4QHGFBa-UWJVgCCeUn6_EAKrNpH9JTB0KPM0qdt8jT-KsZ16DeWLRofDS_nzeKgcswXObxKOfLKP-O24WvVGnHIG7XT8b0Dz_hldC1g4oqbHni4TlVLbVIQMybudGo0J4W2BveIuHOd8qj_G6JOD9O5wdgSyXaFgCat0kjt9Vw3GKOy4LTJ3S7B6nviEMub4DDoRpdXyGA2aLsg4vPbEGR-FvY7nvmhQLkp6niBB4jOb3qh--alcQGOaL9aDMNw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-02-20T13:05:15+00:00</updated>
+  <updated>2026-02-20T14:41:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -20,7 +20,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще материал про навигацию.&lt;br/&gt;Подробный и с примерами, но на этот раз SwiftUI + MVVM + координаторы.&lt;br/&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/" target="_blank" rel="noopener"&gt;https://matteomanferdini.com/mvvm-coordinator-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/nVZqm62IJlp4fJKzX86rhpXWbR8pEVWgzl43bjMMy72kFzxWyXWfbxaVqOmGcM5_edOGi9xtJT8RzHagAdaz6jXWIlOeIh90bS3aDx27AnUTEvWVEU1R5D9G3YWfu4c7hwCESmeQv6F8DXcx2PD_6CQ4TnhBun57uiQ_jmfr-r3Tsu-aNQnCxX5cxoF9QqV5i1TF1bKq9jH8EnMXrA7O64jtrpw-wS0Uoei3tDAFIyY0SZ5pBGbWsMtSc0OfU1yly2l9seG2L4JNnE_-vZUGemv3T8PeYRkpI2j-5RPVNyUkTh6B1gtVjaaErBb6VKC6WELWsRaROjn-QoZGDv2o_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще материал про навигацию.&lt;br/&gt;Подробный и с примерами, но на этот раз SwiftUI + MVVM + координаторы.&lt;br/&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/" target="_blank" rel="noopener"&gt;https://matteomanferdini.com/mvvm-coordinator-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/UU38SF_isGJ32BAeqknbRbtX-9Yh5ZNB3M1HnA9jd4sFVR9cpCoxEcc27CsJUlK5KvMG4VGg1xllae252bvyol4rUTRWtvoSNON85bPDBfDuW3BQtb5emqDG-mobKvPzs-ctZkU2pqOYZWjii5A_m6GhdbjWoBLf2ytoYf1ACCl39XI73kLQVjXgZGKxlgkQf7aXvfTHus3WXhtEjZ5iXMFbsj69Gu1h6FzE42XcLM6JcCcMINswuF2GwePhQx-ClLtzrCOycEm6uyYVmoVo01C8263CbpcbaMGnU19AC4dhgfLxJd6AEMw0IvC3fUJriN9QsMdP0e6qyhgx-hdg4w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://matteomanferdini.com/mvvm-coordinator-swiftui/"&gt;
 From broken to testable SwiftUI navigation: The decoupled approach of MVVM with coordinators - Matteo Manferdini&lt;/a&gt;&lt;br&gt;SwiftUI provides several tools for managing navigation, and the introduction of NavigationStack and value-destination links improved programmatic navigation. However, in larger applications, vanilla SwiftUI navigation can pose challenges for testability,…&lt;/blockquote&gt;</content>
   </entry>
   <entry>

@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-20T13:05:07+00:00</updated>
+  <updated>2026-02-20T14:41:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Creating Maps in SwiftUI apps with MapKit https://t.co/BgnTdONI1v</title>
+    <published>2026-02-20T14:12:35+00:00</published>
+    <updated>2026-02-20T14:12:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25995</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25995"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating Maps in SwiftUI apps with MapKit &lt;a href="https://t.co/BgnTdONI1v" target="_blank" rel="noopener"&gt;https://t.co/BgnTdONI1v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;&lt;img src="https://cdn4.telesco.pe/file/Mkf0f7Nj_FBjFySPYDet59HKyv5GpDV6hcCobZDw13bjZ_JD09c73hUCsGG7nu6fOY6iC3xNnlptLnjzVEy1iramKwxRmDS1YVfpj4YoOacdKcPeXXUQfg9CmYlpVYKuyHpB6EpCKlJp85RlOzZXA0Kga-jg6UifsGVn9N4X8L7xtLAi3zCLYe5ub3AZeAz95QxjBULPMst4vpNtqdSXC_DY-vXVHmak1qkV4gmxBsPpZRkBbjY9RjNlbACFWRzt66VVSN8zSR9TiarzwZY11VPoULQ_j7aOLHL8sBP2fvdfegVU47gZgi9uL5mLHA6MCHS9zA2Oi2zDsBgb8cmxWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;
+Creating Maps in SwiftUI apps with MapKit - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to integrate Maps using MapKit in modern iOS applications.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : jonreid/OCMockito https://t.co/AjyyIJ7fFB</title>
     <published>2026-02-20T02:17:50+00:00</published>
@@ -238,17 +250,5 @@ How to build a simple CLI tool using Swift - Tanaschita&lt;/a&gt;&lt;br&gt;Learn
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Get ready with the latest beta releases &lt;a href="https://t.co/y05LiJIHA4" target="_blank" rel="noopener"&gt;https://t.co/y05LiJIHA4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;&lt;img src="https://cdn4.telesco.pe/file/W04fD9IBslhgPmAPCWtPUTFfcIBj0pvOJkTLx0mKelf9njr2v-t0PeomvpksVgNojjuR35iCzmp_QOofVQHBe3D32zV1e0yYE6xodoTZhFHLEkMNx4AUJPybAhdMP7f33vHglUxxZ0b32fSa4HgYJgzGuO6k1VgTeG2-B4UMY6iE8Xu-j8bYPXO6ANlOJ6mTLehW3lEI_P4GvTV4nZcI23s91aLS9GHmqsE-DOyeuyl-PFISrAlANxuL7rW-QAFexccSSAdqsPDXFCPE1Zkmkp9auvIFV3RbCcVwYrGZdmf6vZz7tjqYHgsxO6-Ep7WAkTxWqxGSyHVqaiE-xcMFSA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/y05LiJIHA4"&gt;
 Get ready with the latest beta releases - Latest News - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;The beta versions of iOS&amp;nbsp;26.4, iPadOS&amp;nbsp;26.4, macOS&amp;nbsp;26.4, tvOS&amp;nbsp;26.4, visionOS&amp;nbsp;26.4, and watchOS&amp;nbsp;26.4 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.4 beta to take advantage…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Setting up a delivery pipeline for your agentic iOS projects https://t.co/trNNcOp1US</title>
-    <published>2026-02-16T16:17:43+00:00</published>
-    <updated>2026-02-16T16:17:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25975</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25975"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Setting up a delivery pipeline for your agentic iOS projects &lt;a href="https://t.co/trNNcOp1US" target="_blank" rel="noopener"&gt;https://t.co/trNNcOp1US&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;&lt;img src="https://cdn4.telesco.pe/file/WbVWZk5iVqNtsUKKkQPPdjIp55THLqih14ztT3fxgAAobmBw7OP0XMFKlQUr194SblTG3hm2N3rWmCkgfAKYELQwAf12mZwTTfNLK5HOq-5LMWlzwdOkkhpUyXN-8JHv2Rk60HH2aixnnVILdfTjhy-iXHrmXFg4kofnA0LMxsLqiD9GP8N0TIjKpINy5DY_5XxUqrQjbqBL2T13tg0zAzwDtaWdSrgVQmqqDtOdLj6rZeorKleBAD6tINgP2tbzUdhE4lVoVMW3e6hmU0WAz9DaWDO2SqD9Z3yTLBPLPc6XHyIzXHVNfp69c0jSBnO67hLQfi17SR5yh0R8nZBOPQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/trNNcOp1US"&gt;
-Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
