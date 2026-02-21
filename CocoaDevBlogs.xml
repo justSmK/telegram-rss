@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-21T05:44:29+00:00</updated>
+  <updated>2026-02-21T06:48:08+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -176,7 +176,7 @@ New Xcode 26.3 Onboarding Animation using SwiftUI | #animation #apple #ios - You
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/W9YFQDHpv0ya7PaXGdVXSIDIWEPHS-sMUJsmWM9L2nBOGhZfpPfnY2lWDcP6q0vJXl1JsSWv0ZcMSuzDOTLcYr1tGED1g4S7Px5vujMiVlliN8r7wddb_ZCnziGPYVieCKsFHBDD1ViA1NztjfaK_DmsPsysGqpcPJhnTBmwfN3JrE2mbYtZbVB5ig8_9kgXhVuiNF9slQa8zSAuD0bcYL6uEcE0kfiOJe5fKVi9MoCxIg1bIEA6cUqEUdLbONK384S7WKQC1u6serVvZPF8zLP_hyY5mwSyfls90moYXBAnbUnodRqlnIUHGl7jdGhVSgX8mKzikBGlSCrv0UVR9g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/f4Xe_XpWm8RJTRgU6sBY0Ig2nXbAZiRmX_EJsa-h73o4bzl_j7c61F2bIsKgQpHsVH0pQ4Dabg-ozQZv6uS2hCuCW2lK8gaWqtNF6SnJ8qkOLMr70fFskeSNbMJUOARU_plUTgXXcjI0Jem_Xrrnkoh9qzeF1T2ZYMLoYS1LvFffnF63q8DtolsFqMXBh4IIqQHJkJJHvemniNaIhjvsXJM7zn--wJJNZS7EllnFDWaO73zMc2NQ9y9nX5u3Q41EoJ1umRbUBgSIxCWj33EuCPLwYkpfIppibL52MlNvqsXYWgOgyC2uTt7M3xAIypGrjZUl7Pnce_Ym0gNbTalu_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
 Isolate SwiftUI animations to specific attributes - Nil Coalescing&lt;/a&gt;&lt;br&gt;Precisely scope animations to specific animatable attributes by using the animation(_:body:) API introduced in iOS 17.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
