@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KzEEA-gk4u55VjQ2SRiOQ9LzgLgg4aLPQQPrJLI7OIT_Ra0Y2ASfqdXq0L5dqMiQWw_BLYw5BMvtMlS9EStin43ZDhwH2bXi4govxiKo5Y8hzjbWPYWZUj0OMusua9CulSW3DBo5BGQXI0P3wPz49fZs-Kt3HrMRPVinDJKBXj3D4W9gEJjZFXqd-0Z3giBuNp7KiVCOag_-ggySsOCHs8VTd2V52VPypwSvIpvSDA8J-2pOe2pkjXfQ8t62UqRm5_qvcxSPhIkeDsiGdv6HzbkjwdCB5k8mfi2f1YAlL00ostlrUYYgQuIhoS81ZpMOmin2CFjgAK3-81XXK3JgZw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-21T02:12:17+00:00</updated>
+  <updated>2026-02-21T04:38:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : marmelroy/PhoneNumberKit https://t.co/2XHNCm6iEX</title>
+    <published>2026-02-21T02:22:10+00:00</published>
+    <updated>2026-02-21T02:22:10+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/25999</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25999"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : marmelroy/PhoneNumberKit &lt;a href="https://t.co/2XHNCm6iEX" target="_blank" rel="noopener"&gt;https://t.co/2XHNCm6iEX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2XHNCm6iEX"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qle_1LCeb4KZiOGz4F7Pk--JWXQslbsk0p5GRDW2QkcCOpdhl8_9vY1pCT5ZGkN9tcZC9VeEK4Wk0Mt-vvcFWp0nt1Diy6rwvJdq3XBhguLLVdvkXPz-oQ8ckeWMxtoGGjpcFgUH5zFBB4CsMz9fmXLAjuJKyM5LW4MyNqZ-nnA5SX76K-Jv944ypcU2-NQ6rUBZSQGBMUNmajPngB9HENmgMdKEZyeRSRYXTTIx-dxZe9LbfUin71mg7qL7VQnvi6qJxwDDuuMoIVw2YNwHrhougsrt4ijYNfU3eTKAbwl994L75qP-yg5iLYsGkTuDya5CSEYDQte3AKbY8fkufA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2XHNCm6iEX"&gt;
+GitHub - marmelroy/PhoneNumberKit: A Swift framework for parsing, formatting and validating international phone numbers. Inspired… - GitHub&lt;/a&gt;&lt;br&gt;A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google&amp;#39;s libphonenumber. - marmelroy/PhoneNumberKit&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring...</title>
     <published>2026-02-20T21:37:43+00:00</published>
@@ -238,17 +250,5 @@ Tracking token usage in Foundation Models - Artem Novichkov&lt;/a&gt;&lt;br&gt;M
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift Testing Agent Skill: Write high quality tests with AI &lt;a href="https://t.co/cdzNu0VV5G" target="_blank" rel="noopener"&gt;https://t.co/cdzNu0VV5G&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cdzNu0VV5G"&gt;&lt;img src="https://cdn4.telesco.pe/file/ibPASzS7cnB6UFdABooi-ipiRKumPQuoJBUy-BcYaYtPyZnz4_tIWWuHLwRjIqeACBuB0EhU9NEDuj3Izz6PZFAL32oSG7TLJm2soow0ZPHuR1ADSinOCdSjqLelxt0aPADvAnwqvHzZoBuXm6Vlmds4wCN6k5udsd3S1w22k24P8zl_wgZGR1inWhn-0xa1WmKcBr3dcofH82QSl_hXPG0VLgfi8BiQfyQ10YpkLMe_Xs6Inn1zJZ_77Q-rILQnLlIO3v1_0expqKBPQvVMtRJcsT0uRwdKy6waTPICfVaDt1uhDvbbt3dv6qlVcAWB63o8E7gPuDK-E8XleHVl4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cdzNu0VV5G"&gt;
 Swift Testing Agent Skill: Write high quality tests with AI - SwiftLee&lt;/a&gt;&lt;br&gt;Explore how the Swift Testing Agent Skill enhances your development process, integrating best practices for effective testing.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : pointfreeco/swift-snapshot-testing https://t.co/2bfs8JLwCq</title>
-    <published>2026-02-17T02:17:22+00:00</published>
-    <updated>2026-02-17T02:17:22+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25979</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25979"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : pointfreeco/swift-snapshot-testing &lt;a href="https://t.co/2bfs8JLwCq" target="_blank" rel="noopener"&gt;https://t.co/2bfs8JLwCq&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;&lt;img src="https://cdn4.telesco.pe/file/AVxMgXWiTRgHydXvOrgW-UOW-5pPGFNHoJjTCB36kk2xdWyDCd5SntviPNq_GNEpcG5E3FTb0Pu4ZCbxhWQ4eaxRf1XN7omCbruHTucHYrLE3lv94KvHFZOY4N5pohCxdlL9XUjEU-Tq708QjxZfkwtUT8WgeGyPjQfphBjz20twUXKZUWNGGHb3phGG-ZMDz0f_S7i3jKEX2mgLqQrNDQFrbAIU0CyRkK8eKqs4z4XaXrh6Izq8lhz_mA1d02sbwbHigfZtg7G06Q-m3dXh1tDLzQHP_lf2Gz-homQBYeeXB47my9WZs6QfSlJvQcsM3ECzewrEM7DD8NAs6X2csA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2bfs8JLwCq"&gt;
-GitHub - pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot testing. - GitHub&lt;/a&gt;&lt;br&gt;📸 Delightful Swift snapshot testing. Contribute to pointfreeco/swift-snapshot-testing development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
