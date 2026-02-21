@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/pwKvr8fBLjLSmKjgS--rN3q95Q6Cz4YtZvlMRU6cwjqBX9Bwtmq8qntX7qAcEIcFNemkebMcdTllolTqYZMWPvAPuwOZ88tMjMOOFhyfHqm-IUauUkqPao9XvEm7GQhhMtP81zZCFaxDAsb8fj8L0tCgcgzSMYcNsY64GatnAldUnSohcaFFbt5mIz6Cm3LKbuET2eQ1LMkwEU0VMWwv33hD424Isip7PX0vF0l0CcfsO25OrCiiQ1yBjhUoqR5zc4AJJ9sPzM2075H7KtM5yyOC-guTzCuXEKlWPvEWRsuGqOb3hwbnR6NIv3s155NltYWzRixFiqIwpXeB2cxEhg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/pwKvr8fBLjLSmKjgS--rN3q95Q6Cz4YtZvlMRU6cwjqBX9Bwtmq8qntX7qAcEIcFNemkebMcdTllolTqYZMWPvAPuwOZ88tMjMOOFhyfHqm-IUauUkqPao9XvEm7GQhhMtP81zZCFaxDAsb8fj8L0tCgcgzSMYcNsY64GatnAldUnSohcaFFbt5mIz6Cm3LKbuET2eQ1LMkwEU0VMWwv33hD424Isip7PX0vF0l0CcfsO25OrCiiQ1yBjhUoqR5zc4AJJ9sPzM2075H7KtM5yyOC-guTzCuXEKlWPvEWRsuGqOb3hwbnR6NIv3s155NltYWzRixFiqIwpXeB2cxEhg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-21T13:44:59+00:00</updated>
+  <updated>2026-02-21T14:29:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -67,7 +67,7 @@ Xcode 26.3 Release Candidate 2 (17C528) - Releases - Apple Developer - Apple&lt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating Maps in SwiftUI apps with MapKit &lt;a href="https://t.co/BgnTdONI1v" target="_blank" rel="noopener"&gt;https://t.co/BgnTdONI1v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;&lt;img src="https://cdn4.telesco.pe/file/Mkf0f7Nj_FBjFySPYDet59HKyv5GpDV6hcCobZDw13bjZ_JD09c73hUCsGG7nu6fOY6iC3xNnlptLnjzVEy1iramKwxRmDS1YVfpj4YoOacdKcPeXXUQfg9CmYlpVYKuyHpB6EpCKlJp85RlOzZXA0Kga-jg6UifsGVn9N4X8L7xtLAi3zCLYe5ub3AZeAz95QxjBULPMst4vpNtqdSXC_DY-vXVHmak1qkV4gmxBsPpZRkBbjY9RjNlbACFWRzt66VVSN8zSR9TiarzwZY11VPoULQ_j7aOLHL8sBP2fvdfegVU47gZgi9uL5mLHA6MCHS9zA2Oi2zDsBgb8cmxWg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating Maps in SwiftUI apps with MapKit &lt;a href="https://t.co/BgnTdONI1v" target="_blank" rel="noopener"&gt;https://t.co/BgnTdONI1v&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;&lt;img src="https://cdn4.telesco.pe/file/q7e3E-yvqTuhemmEYfiRDiePJ6aSG-9gGl27NHYX27Eodh179j-ZVbXd_L9C2pVmEW75gic0IDypYMDl9D3Eq0Oa2v4aeDhwld-sapHwccGGiQq7GinCEW3ADUUPB3RM0dZIfz_T05eIQosibAPVwrKmwfw4KTPyyJTpg40fs799tLlXMNaPCpzd4qvXU7N7dLEAXGCyCOp2CndqrzL6KMkFYZ3c6rHRrp-BOix8QPKfsyLhw9xWsDTjgSrQCg0z4ifcs07JPCM5J0EssWqGG5SvSSmrQB4zgndtVqUbs-EH5e6rEWA4jrjeoGP-hg-4lOH7F5g3If_DLzBH5wcHig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BgnTdONI1v"&gt;
 Creating Maps in SwiftUI apps with MapKit - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to integrate Maps using MapKit in modern iOS applications.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
