@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/pwKvr8fBLjLSmKjgS--rN3q95Q6Cz4YtZvlMRU6cwjqBX9Bwtmq8qntX7qAcEIcFNemkebMcdTllolTqYZMWPvAPuwOZ88tMjMOOFhyfHqm-IUauUkqPao9XvEm7GQhhMtP81zZCFaxDAsb8fj8L0tCgcgzSMYcNsY64GatnAldUnSohcaFFbt5mIz6Cm3LKbuET2eQ1LMkwEU0VMWwv33hD424Isip7PX0vF0l0CcfsO25OrCiiQ1yBjhUoqR5zc4AJJ9sPzM2075H7KtM5yyOC-guTzCuXEKlWPvEWRsuGqOb3hwbnR6NIv3s155NltYWzRixFiqIwpXeB2cxEhg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/pwKvr8fBLjLSmKjgS--rN3q95Q6Cz4YtZvlMRU6cwjqBX9Bwtmq8qntX7qAcEIcFNemkebMcdTllolTqYZMWPvAPuwOZ88tMjMOOFhyfHqm-IUauUkqPao9XvEm7GQhhMtP81zZCFaxDAsb8fj8L0tCgcgzSMYcNsY64GatnAldUnSohcaFFbt5mIz6Cm3LKbuET2eQ1LMkwEU0VMWwv33hD424Isip7PX0vF0l0CcfsO25OrCiiQ1yBjhUoqR5zc4AJJ9sPzM2075H7KtM5yyOC-guTzCuXEKlWPvEWRsuGqOb3hwbnR6NIv3s155NltYWzRixFiqIwpXeB2cxEhg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-21T21:26:57+00:00</updated>
+  <updated>2026-02-21T22:28:03+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -31,7 +31,7 @@ GitHub - marmelroy/PhoneNumberKit: A Swift framework for parsing, formatting and
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring &lt;a href="https://t.co/80NFnVEY8l" target="_blank" rel="noopener"&gt;https://t.co/80NFnVEY8l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;&lt;img src="https://cdn4.telesco.pe/file/rzWldvQfJWZYtUiAe_aCHJ3fdFueP84hbfBSs85MgKQPpIFNcocPEQPhvZxsUd4rKmAf62Un7qpTAu8Hd-XG9IzjoGqGp3H0FUvzZd1q9EfD2IfBfzxL5T2vyM6GcrZIQiq1frPTEeHTA7tq9qZlACp1ZllCUh3w4ULEogAzTcQ7Xoe781ARKMXnVSNynqBoLubtxRN6Xl010beDylh4UipaOOhu06riY7U6MolMVWMw_OarHxCy2wVa8CEy5jTw_pLl-SEf0ehTEheAl7ET2fDal9ncqgNugDsh_v75SEBRaRDXE-scBuR_bIkN38SEo0OmyYYgfXdaL8trnZPjFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring &lt;a href="https://t.co/80NFnVEY8l" target="_blank" rel="noopener"&gt;https://t.co/80NFnVEY8l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;&lt;img src="https://cdn4.telesco.pe/file/DYDYJu4kdxClwHZZwcHfOYmznOExxDwb66zZ-zDE6QKhUvEHsQ_2YQU28Fo3JOkahPiVaEg2CHJoyN5NpGmNJNAvqj3sALLbEpywm2Y2eo-ueiXMAwvDgivF-h0oBnw8Q2fIAH7pRdyVX2g0d2jSCyqZ5rX97a0oyucYtFx-XI9WH9SmXPJ9kTDAW8VkY17bK2DZrq7ye7sjEc_hLmu8Yx6KpVZSuDRy-SkF7E4sEghc4mB1yzjTzhYHBZB_YgiTtZPSQRND14w9G64-yDY0JU6aParoJgDD81vccvBSJ-lsEaiF-s_BkX_VP7hxqmzOxC3PRwwzgnwDtyBKynm3kg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;
 Announcing Swift System Metrics 1.0: Process-Level Monitoring - Swift.org&lt;/a&gt;&lt;br&gt;We are excited to announce the 1.0 release of Swift System Metrics, a Swift package that collects process-level system metrics like CPU utilization time and memory usage. Swift System Metrics runs on both Linux and macOS, providing a common API across platforms.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -200,7 +200,7 @@ GitHub - pinterest/PINCache: Fast, non-deadlocking parallel object cache for iOS
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/Zj6cbEctBb" target="_blank" rel="noopener"&gt;https://t.co/Zj6cbEctBb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;&lt;img src="https://cdn4.telesco.pe/file/bFCg1Dvr8HZ4zl37PnASd6C4Y5pJaEl4-7z-MYnb955n9Ewe0llTJNo_n7_4fC8uF0KBMqe9q7-FC7nk0stF15IYjZ4pFdV6B1MvUSSAQ9sZ5PCNL12AvQfCEdRmQHL7HEwRn8zILNNivh8eQavcoUKZjfVpz2DLhhVkHjIVTm-XxENjqWLjMe2F9qWOoc6ZRBlUA21LoEyyyPZspwS8a0XVQF51FeKLgOTY8kOHD-THbZ-v-OlEUOiEk22_-OWzIJ7VobokAj_9LTPofMuGKpYHNyLUQ-dAPPdle3ofXmxrDq98QmhxaCGqLvLDzw9YzdC94I8s_Gio2COYgAYHhg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/Zj6cbEctBb" target="_blank" rel="noopener"&gt;https://t.co/Zj6cbEctBb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;&lt;img src="https://cdn4.telesco.pe/file/LKbV4uoseV9D-cO40ABrwt7Ty05h8LPp4voQYJ1nAuz2Gt8phcqKoSv55Dq-CiklKYBFX2jw52aXMd3c7QYuJL0-4XoHtMjpNOfJgDqh4NIRLY9ELDKjDgQbMAPAztoCAq4Mo6HV1xYiPPSBmpgEAJPU1bhUNsFECOtU5vuRDFs1z4fTlf-JLvtE1vIROoY1AzVJPuKkBJP0MxvIgnFJMqEEbh1kyLlAigEzCVS660wGNk8TRk9IwCotGNOpTwFzjoaylCUXhx4Fro_goygey3pPhctSNrJaPjI1_EsK6KdQ6Shp5EtPPzciJDMNUl6D4Bect6jLynuIQlg509887w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Zj6cbEctBb"&gt;
 TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
