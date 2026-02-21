@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/hUZjDConRe0Q6znUauvN4tj5ZdVobiJch4jxnIccFQeDnb39TVkSEYKtT0ABaI3ATCEhOC3BBs_C1NyToUX6-8QleCeopKvy4SnrsQhKZlVgOKaOUSOEFmqGXI_t9rJn2q93LwRxMdLQbORsQbgw8hjzCtEF68a7QYxe2pUM7v4tR67UQhWlSUUMzG2bApaWOopMfk2_kkf-5MqbeXo233Q5GhqX8yKcv9cylzFOcFmPn_bdwUKoj6h5jmI22eAQOZ6drnV_2ub0YiJkleUzSz_0ax5AtVSwsTjY-vfrAKCXsLp-fGiENCuk5lt453NVwcU9glFeCbhOqlQ-D4QmVg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hUZjDConRe0Q6znUauvN4tj5ZdVobiJch4jxnIccFQeDnb39TVkSEYKtT0ABaI3ATCEhOC3BBs_C1NyToUX6-8QleCeopKvy4SnrsQhKZlVgOKaOUSOEFmqGXI_t9rJn2q93LwRxMdLQbORsQbgw8hjzCtEF68a7QYxe2pUM7v4tR67UQhWlSUUMzG2bApaWOopMfk2_kkf-5MqbeXo233Q5GhqX8yKcv9cylzFOcFmPn_bdwUKoj6h5jmI22eAQOZ6drnV_2ub0YiJkleUzSz_0ax5AtVSwsTjY-vfrAKCXsLp-fGiENCuk5lt453NVwcU9glFeCbhOqlQ-D4QmVg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_den</id>
-  <updated>2026-02-21T08:35:26+00:00</updated>
+  <updated>2026-02-21T09:33:52+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">🙏 11 уроков, которые я усвоил, работая с ИИ-агентами&#13;
+&#13;
+1....</title>
+    <published>2026-02-21T09:00:18+00:00</published>
+    <updated>2026-02-21T09:00:18+00:00</updated>
+    <id>https://t.me/swift_den/694</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_den/694"/>
+    <author>
+      <name>Swift от Дена</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/694" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5283103038741946859"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"&gt;&lt;b&gt;🙏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;11 уроков, которые я усвоил, работая с ИИ-агентами&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;1. Не использовать режим планирования&lt;br/&gt;2. Рассматривать подсказки как разовые явления&lt;br/&gt;3. Игнорирование навыков&lt;br/&gt;4. Пусть все решает модель&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;&lt;img src="https://cdn4.telesco.pe/file/q2muRG7SMwo6z5BVlOHwmE28_-iBpBm-D2mmfDYG6AYeL1fGB8--jQZLrBGQNgQC11frdSfazLNfQDV3TjAgNtZcWRKzjDmmmViKeVu5fqEx2tqwuTpLIvuVAibM5vKk4XhRfFstdRTQSHWRWA0lq8WexEP-7RFP5SLmLcUHcctwn5T2hDFB3phv-FfVVeZPzU6n1oeUBwZE11aMAzMuE0nPEsFsnnxYhaHxAxuXCk4zSOSfXIW3gPnLOicp4Bwn0gTLvPLvvxeWkwRUJs2O3FGUQ4OCiUHcxyPsH7oJ7NvLnsmsnV1IaxYaqtf-hFYpuz_bvt-0AOa9M9Orx8-mgg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;
+11 Things I learned after using AI Agents full-time - SwiftLee&lt;/a&gt;&lt;br&gt;Learn how AI agents and tools like Cursor have reshaped my workflow and brought new efficiencies to my app development process.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">🔨 Xcode 26.3 unlocks the power of agentic coding&#13;
 &#13;
@@ -252,19 +266,5 @@ Learn Metal for SwiftUI - Metal Shaders Course&lt;/a&gt;&lt;br&gt;Learn Metal sh
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/675" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5463206079913533096"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B9.png')"&gt;&lt;b&gt;📹&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://youtu.be/EIGl6GOo210" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Доклад про Swift на Android&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/EIGl6GOo210"&gt;&lt;img src="https://cdn4.telesco.pe/file/v_Yqk4k2kpMyXkpp0yV6e1erK1HYXViC2Jzn2czDIRk86dJxkQgBSzoqRLUHxfCYJFBKrC2LLuP_XLOquScNUSVk6Uc5uzKv_f__vBOJRR96XzQ3fjR1Q7Uw-LjFf3AevXYw-gMGtrR-kMCDC0jsuueB4R0eKubPKoc2fi833prq7eWAoaEy97xkU6CXxZxRxxBs5hkDdDqi34n5-6RV05-m76wKyYE7D8Q6rgWbXF7qy6x_jJe2nrHvqZDYOLqPZXuJ9OYs0Kj1jQ53Lt7Emn_he3DH69u6p6USmxu7mqtRQYldSxdw5T-jry_wk97oIW-3vxNDE60QuwfeA7fEpA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/EIGl6GOo210"&gt;
 Android Doesn’t Deserve Swift—But We Did It Anyway - Pierluigi Cifani - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🔨 Ролики про оптимизацию, Swift 6 и многое другое &#13;
-&#13;
-Apple...</title>
-    <published>2025-11-01T06:44:59+00:00</published>
-    <updated>2025-11-01T06:44:59+00:00</updated>
-    <id>https://t.me/swift_den/674</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swift_den/674"/>
-    <author>
-      <name>Swift от Дена</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/674" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5312153450207793039"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Ролики про оптимизацию, Swift 6 и многое другое &lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/live/yXAQTIKR8fk?si=aNdkyMIwTCQgg7AW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Apple Developer&lt;/a&gt;&lt;br/&gt;&lt;a href="https://youtu.be/6zOL4641dCc?si=qnODCtH0FkJ6djAf" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Переезд на Swift 6&lt;/a&gt;&lt;br/&gt;&lt;a href="https://youtu.be/MRECUJPKWAY?si=cb7XkDRZ2E8ebr9f" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Swift Testing&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/live/yXAQTIKR8fk?si=aNdkyMIwTCQgg7AW"&gt;&lt;img src="https://cdn4.telesco.pe/file/GJeG0bA--45y27Dl8hvL0tknLkWUmbG9-bntVy3_1nc1TPtqWgdfeYkIzodTxBB3Z6SfqpeLEIVB6uaBYt9AzCmqcvo28-YhfHf-epKFqX2iTggmQUBXA1yMbjvtZN9ZUHvGgN4MVFK7TbqOskC_l-MyrY77bc-bGVgthjHOe32MFoHQxUD6vdJweljAR6bzEcUSFGcOAPfabtaZwrIIvNs66ThKqak1_wGbbavOzf33bxqFKIRRjOup49kHJJn-O8IxRMP4M5fRmqbnHFANUT8k3mf2FNF9laRE5hAFPn2wA8CmNIkGHlJhvJWPB7MqtsZ86lTNvp9BBJLq6G69KQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/live/yXAQTIKR8fk?si=aNdkyMIwTCQgg7AW"&gt;
-Optimize your app&amp;#39;s speed and efficiency | Meet with Apple - YouTube&lt;/a&gt;&lt;br&gt;Join us online to learn how to elevate your app experience by maximizing performance and resolving inefficiencies. Whether you’re optimizing an existing app or just starting out, you’ll learn how to improve your app&amp;#39;s responsiveness with SwiftUI, monitor…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
