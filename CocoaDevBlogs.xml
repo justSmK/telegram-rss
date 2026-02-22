@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-22T14:29:44+00:00</updated>
+  <updated>2026-02-22T15:29:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -248,7 +248,7 @@ Goodbye Clementine - Ash Furrow&lt;/a&gt;&lt;br&gt;My wife and I said goodbye to
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Most Complicated System I Ever Worked On  &lt;a href="https://t.co/WsiPib4lRb" target="_blank" rel="noopener"&gt;https://t.co/WsiPib4lRb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;&lt;img src="https://cdn4.telesco.pe/file/iD8dn8YRJb9F5spDEylAy-duo-4dNfZfgFajb-mamHv8T8BAT-ZsjA-In82mPaS_gnXcsGWKNECTTeYOJVJkaYTbZl-w6SABO28CcVSeO-KEBR0zRi9y71EioHzfIbrCiY-Pi-8Nls8kMl1-Xv4dPruj5PcUOMK00zG_wLyRslFoG8iE_X29kIwU_0keC_rSk7TVflFo6T3AoLNGgPJBFVXN3ZoeutE3vpYQ_e7I_2Abt2Cj9Ld3uATc5bEcZFYO9G5jq8_0GSFbl_QdWWP2jxdc9oilgUBsYVI8RSFc8xAWqxVqnTQF8_r4Cl160fkb6kA9-TYsuqWFucBPq5EaAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;The Most Complicated System I Ever Worked On  &lt;a href="https://t.co/WsiPib4lRb" target="_blank" rel="noopener"&gt;https://t.co/WsiPib4lRb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;&lt;img src="https://cdn4.telesco.pe/file/L3sD2MyDKgbAl49Q1AuStz48Jy1EeXSyBRvfqowQv9i1hGgSaytwyCC5EzZ563Oy2wIHwXk7Me7AZyCfrNJTuxnZWvd8QvdQpTY-zi1CfCDT_Y_5xaScLgCtbUfS77yT7srepEpo5cd7xGf_4HEtP0f0Lst6b_46a2Ca1NCdjTyJxd_8C7u5a88jVojmViJ8Fifbb0r6LKvV5-5K-IBj_DT_okY3iqOsrNhJDTaBZc_Y-lukAP0c9iWKEjI3qz0KOp850oruhM_Whba-QfhC5RCzFvq1c5PztgUhPHuv5qakv3UKOfD2ffP2PXXjZup7A5QVSvos46cFEEWl05rWoQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/WsiPib4lRb"&gt;
 The Most Complicated System I Ever Worked On - Jacobstechtavern&lt;/a&gt;&lt;br&gt;A ludicrously elaborate pipeline of webscraping, parsing, persistence, processing, and polling&lt;/blockquote&gt;</content>
   </entry>
 </feed>
