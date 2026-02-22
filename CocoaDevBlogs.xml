@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-22T19:27:50+00:00</updated>
+  <updated>2026-02-22T20:30:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -79,7 +79,7 @@ Announcing Swift System Metrics 1.0: Process-Level Monitoring - Swift.org&lt;/a&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/0IiJcimMOx" target="_blank" rel="noopener"&gt;https://t.co/0IiJcimMOx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;&lt;img src="https://cdn4.telesco.pe/file/blR_XK8R9o6GeozOCt3bIwR7TR_V58FomeHiLZXcCHUUzNed-PArPhpcZtS43L4bgu6r5ZrTVHif_qQwq2HAflutYYHEygn-q17urpW_K61rsy21C5CW67RpwUJjwvSUIjuRP5aHR21nj3tN6pdOxvBjZ28z49-EbVR-FBCcEZoJfyzBQYarAPPQvk995st-kc8b6llzeLq8QH8v77pdAWogsVwxobpzPslcdAtDbimbeUah3-dkdueEvYCk9TKOZ9udR9Fp7tmitTdYJ_tiYOegtPDs9sihvXHD5YD_chZNedJbgvpSbHJ_wOeI9Se-W55R6Kig6XcJ9iiLWK6TKg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/0IiJcimMOx" target="_blank" rel="noopener"&gt;https://t.co/0IiJcimMOx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;&lt;img src="https://cdn4.telesco.pe/file/XUGlE9CoPeb3t9KT5gkaej0Ghfe8EuBCxjkV49VYGgUCWJScivIa6ACXaBYimBUg-I_yiysmVg3w9GAL4N2XZVwkCPrRNFjtXU5VjiVhBwzw1n1gMADe4PxytSp5vTNhPtyP_11Vb_EM-WS-3qGMm3skuy1_PG8Sisqpp_6pB-X3-RLk5R7phCyrzZiVNi_xyvqYmyFqeLoAVmlZhVIIEOpnLi0o7aHaon8gKIUFA0M8IwIKqxLMoB1vYQP7oN9oT4eXsF2r9ojOV4eXOY_DYET3VVQkQHYiJMRlMa2bhtStKVPHr_kv5ekdjusLymEym8GFZeQAjJrjIfCPXGbJdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/0IiJcimMOx"&gt;
 App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -200,7 +200,7 @@ GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on appli
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Xcode 26.3 Onboarding Animation using SwiftUI | &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/DreUvMmHqv" target="_blank" rel="noopener"&gt;https://t.co/DreUvMmHqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/Lp8DDD9mL36mJZv64rx_dbZUYS5R2CSx4a6i5uSXqS9b7EwjWCuBxXATGo05nEHjwTOIEkVuMA-f2MRjf0mJiy1j7bCk2B1f4HxfyjQRiTlM8SWA_U78K_Vp9eYiE5pOTxuc6nM_pN4r5FUXJ8p2pJQv3G0KtSsduyA0y40Ce2BmN-3GaUXkrCfVEZRQqVfkkYfmJeLIVMeUZ-Dp4vdzrDTRwbMj_g_DIAUafY69hRpVD5WV7GL8jncdgu1TvPxtqsEk7P_UM2XV34vs_O-LES_3OIthmM3DaLriUEwh2aPL4E3FULrKZFHa5Vjj0t6PD6oWAwpCxML8pZlCFJUQFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Xcode 26.3 Onboarding Animation using SwiftUI | &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/DreUvMmHqv" target="_blank" rel="noopener"&gt;https://t.co/DreUvMmHqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dw5gVYbXXZW_AoSA2Bw2-tuI42lMpCThBCFfK7LjyqbTkM9iZIElByMmV4kU9RcBBdCaw0yr_qGoV3IUzJQek-mJ70ji_uc-PehyZt0Ls0kSuuM5afmjhxRaBDh1OzS3fXuF0vGzVOvPBZAHSzjZA3rcSlZ0Z7tieef_SoKW1_JxVPuQvR8SlO68rMB0995flzxL5TpPACK-d2VI7Z852NCwcPHBBLO6nJHZjprgKVGgODw5XcjOzcEmKE5gTkjyKpYnp3nLnT_f_DfI79m6m8Y_xSxtsAmuEt1B6fTw2YA1B80-u8xQuTeRygmSw7gq6GzihlseIrfyjX5SBiL-MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;
 New Xcode 26.3 Onboarding Animation using SwiftUI | #animation #apple #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -248,7 +248,7 @@ TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View r
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Goodbye Clementine &lt;a href="https://t.co/eI76dxtazZ" target="_blank" rel="noopener"&gt;https://t.co/eI76dxtazZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/eI76dxtazZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/g4GXjVDF1vYSBw3zYwjsd8nq3DdllHFGJLS34JPQinBF5e1Hj-NN1M4OcXr7sdMWm0ltrxFdxukDzrQikT520oqo6lGrt8_J9uHfSr5j1G3qeadZqt2KQ3VqJ3JxNhLnpYJLlIY4veJ94VFsaZEE1yAp8mp3Wd8Ih6CajiOWEgFHjonwCTpzT2Vej7SqsjFS2HELdxjQqLvU4KGeNXmoNyPTPMCegvHhYhLA1XT2Hk6eQmMqo9swo4H-6TdDVm9NFbK74NXORou1lbDpAmsyU5stjYT3WGct-h7gNzU_bfhpc0BWG6LNiv_-rKJir8xT3UHQkKzKDE1C3CqsJy2I1g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/eI76dxtazZ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Goodbye Clementine &lt;a href="https://t.co/eI76dxtazZ" target="_blank" rel="noopener"&gt;https://t.co/eI76dxtazZ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/eI76dxtazZ"&gt;&lt;img src="https://cdn4.telesco.pe/file/G7n4nr0agEpnbA8z9y63Tcc9hyQwkQwYfc_HWuDDcZYbSqtv3k4-djiKFYcCv1KI4Czlqdz2fKxGK9vUiLRBZTTXhNQLcSf_yE50LzlRUBwI5XP6nTONj4ubt-9srhm-FHIyKTCJHJgedFhGe0uyGpABKUELR-YWHStacA_Jw2vYEsdfKT1A31zHkUgR-K66s3ajapW7_zGmMnQL0P5BgbqB0ZF-GZkDpFpDxvdDpUeloYiZMcjaw72lO8rLl1Ed_cX0RaR9XtGgOgZpcWWIi7GLr14BPgb9Odh76ELHNzgDzWbMjQ6sBOIbmVs2iKH-VOEqJ8IcCc7mpLuFGpOpxQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/eI76dxtazZ"&gt;
 Goodbye Clementine - Ash Furrow&lt;/a&gt;&lt;br&gt;My wife and I said goodbye to our cat Clementine today. We had her for just four years – our time was cut short by cancer. Things have been up and down for months, but at the start of the year we changed priorities to keep her comfortable.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
