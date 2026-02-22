@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/a7jiv8cIayVaWzTEfG8jndhxLPf_Fbel7SS7VdTNsL5oepKDMS5nNQo_6k53MGuOg3I21cSUAZMmP2MLOU7fSObf-TQbIehUVzDJLM60MLx-19BWA5PRy-iZYsnPBRtqJQL22wQctmOf6_S2e3WR3uNQqEGfpUku56uIcjS7rr9b6saZ9xJaCJ8GS2qOlgY7qsZUqAB_qIZaSaK2Ur2DmxxDRylCtTA9Xf966j9MuT_JQ23d7nPcQ0FIMNek5yrwLK6SNOFN8neejtDd0_1JOuo468k1Wek0dihgB3UQ3SSMEJ8xiPzgYCRnATd_xG6TIeudw6uueCHX-QHezdSTjw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/a7jiv8cIayVaWzTEfG8jndhxLPf_Fbel7SS7VdTNsL5oepKDMS5nNQo_6k53MGuOg3I21cSUAZMmP2MLOU7fSObf-TQbIehUVzDJLM60MLx-19BWA5PRy-iZYsnPBRtqJQL22wQctmOf6_S2e3WR3uNQqEGfpUku56uIcjS7rr9b6saZ9xJaCJ8GS2qOlgY7qsZUqAB_qIZaSaK2Ur2DmxxDRylCtTA9Xf966j9MuT_JQ23d7nPcQ0FIMNek5yrwLK6SNOFN8neejtDd0_1JOuo468k1Wek0dihgB3UQ3SSMEJ8xiPzgYCRnATd_xG6TIeudw6uueCHX-QHezdSTjw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_den</id>
-  <updated>2026-02-22T08:37:22+00:00</updated>
+  <updated>2026-02-22T09:35:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">👨🏻‍💻 Айтишники массово списывают себе опыт, чтобы...</title>
+    <published>2026-02-22T09:09:26+00:00</published>
+    <updated>2026-02-22T09:09:26+00:00</updated>
+    <id>https://t.me/swift_den/695</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_den/695"/>
+    <author>
+      <name>Swift от Дена</name>
+    </author>
+    <content type="html">Forwarded from&amp;nbsp;&lt;a class="tgme_widget_message_forwarded_from_name" href="https://t.me/moscowmap/75086"&gt;&lt;span dir="auto"&gt;Новости Москвы&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/swift_den/695"&gt;&lt;img src="https://cdn4.telesco.pe/file/j2DZhmfT7lvTKphnkLGdZKpPWgZUUF6dVRlTA2r9zF1HP-NkXHpOcM0zSKM9hCmFNcNN0QZ95lW7SmgVgs56A3b__yc4XpLnfJxd2GGkf17njB13dQ8ZFZGY7im6ukg87Y7qzOz6OhLcHe1l4DW9Rr2aQR_uAo1MB9bgpP7BkHgJZXYVPNmfa5vQm_NQVUZnYzpJeueWxdZGz9rJ2sX2UYmE363FIKeRgCHBlxXiTuOlKLpHqcHazJOk-n0twJg2TjZgvqgySQI_I8N0Du_ylMmugOaEKL0WH6OSdDIyRlXfUNrp4KKfZid261aIUXE7NZwfSUWyyQ7suuCJ6xLvUg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8F09F8FBBE2808DF09F92BB.png')"&gt;&lt;b&gt;👨🏻‍💻&lt;/b&gt;&lt;/i&gt; Айтишники массово списывают себе опыт, чтобы найти работу&lt;br/&gt;&lt;br/&gt;Причина в дефиците вакансий для синьоров. Брать их часто не хотят, так как это грозит спорами с начальством, быстрой потерей мотивации и увольнением при получении нового оффера. Иногда такие спецы вообще совмещают несколько подобных работ. Джунов также брать не хотят, но из-за нехватки навыков.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">🙏 11 уроков, которые я усвоил, работая с ИИ-агентами&#13;
 &#13;
@@ -254,17 +265,5 @@ Merge conflict в головах: зачем командам нужны рет�
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/676" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5312114597933631996"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"&gt;&lt;b&gt;🎓&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Научитесь создавать потрясающие визуальные эффекты в SwiftUI с помощью шейдеров &lt;a href="https://www.metal.graphics/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Metal&lt;/a&gt; — графический опыт не требуется. Поймите основы графического процессора и применяйте их шаг за шагом.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.metal.graphics/"&gt;&lt;img src="https://cdn4.telesco.pe/file/hAaETYxBMlmHNGnRuSB8BCGWRjQa4H_0t_w2S6jp_93ylR8Rp0Fkg0SIUHEfE_jPVmB5rYbHP9EYAFNotwDRq2eL8B0uuAJoeyHWnpsT7TTkqvBnKmBdi7ZlfEt5AB6ghA6shNjgf_kN2dVjo7hduV_Ajv9nATDHFdOz7LvfJoxiXKADG_QLJ6rfl4WXOxJ2oSb4rjVVm-rgVzD_3GCyFLIRcRQVR5ikRY8lw_P7CB0mTvSzlvWbfWcchBBXE1bbSp2zuX-4AVr6Rykqb8QFzM3jg4bKL2g5AIByGr7x9Kf7A5gwSCvTO28J_prKtODwsqg03XVsGBg0IeGR_zdWng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.metal.graphics/"&gt;
 Learn Metal for SwiftUI - Metal Shaders Course&lt;/a&gt;&lt;br&gt;Learn Metal shaders for SwiftUI development. Master GPU fundamentals and create stunning visual effects.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">📹 Доклад про Swift на Android</title>
-    <published>2025-11-07T03:44:05+00:00</published>
-    <updated>2025-11-07T03:44:05+00:00</updated>
-    <id>https://t.me/swift_den/675</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swift_den/675"/>
-    <author>
-      <name>Swift от Дена</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/675" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5463206079913533096"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B9.png')"&gt;&lt;b&gt;📹&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://youtu.be/EIGl6GOo210" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Доклад про Swift на Android&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/EIGl6GOo210"&gt;&lt;img src="https://cdn4.telesco.pe/file/boE_qqx5dyYEmO5BvYEmD2dRycEiPAgEzQPmMmZMB0U7Ln-TQX8YuIlXFRzk7msFW3_eus8vgoVBj1im7EOL1Xw-6WvkpNekUwDzLE2jDFZxVba02o1jinwXi1FSgmhnlWcOpcQat9xs9qiAU39cXiOJ2sZy8zT-yXekIUPbOi_QVzWO7JLaeF1QfIRuUTtfnUAMVsClHXYc8ythj2ZZGadGDxEPbBVjbwulmKIcOU2h3TNoavodkA2TOQJvzAVtnaNHhXAwGsfgDg6XTWq4QmzLbAKIROIBPVJwG7CJ-Gc1V8sLu_T2r2VLEF2z5XZ4NliKxBZXoR_Wr_4zGJQ0KA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/EIGl6GOo210"&gt;
-Android Doesn’t Deserve Swift—But We Did It Anyway - Pierluigi Cifani - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
