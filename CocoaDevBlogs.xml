@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-22T17:28:06+00:00</updated>
+  <updated>2026-02-22T18:39:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -91,7 +91,7 @@ App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 Release Candidate 2 (17C528) &lt;a href="https://t.co/Wyqc9WHzWI" target="_blank" rel="noopener"&gt;https://t.co/Wyqc9WHzWI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Wyqc9WHzWI"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q7UBiLXQOayrFomsbwlLP1HeBCg7iebhlfXMHX9ygoddvcxTmBJJClSskz9J_FTFTjYekA9nDCSBNqt456UHexP_2NLnzqz-tM1oZqk-RuSIKe-s1h-ex9rHn6b2b44dfFr68tlEbC9CPNpz8rr7-oe6rzaLaBCyx4Ut_ZsrVkyqU2lQiobkBoCZeNa7ic-M878yCLvDF5q3MxqCMlJi4D_h-V49I1Rw5G_CwYJd97Bu_J62I3HZabh4X8sU4UM7rwjIFEIkLz9RDjBrM_6yMXxWqZMhud8m6GhNZ3ZMizTosn17VKC8fctWJwp2vDGgdqM50cB_7hwL9uBhIuQlqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Wyqc9WHzWI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 Release Candidate 2 (17C528) &lt;a href="https://t.co/Wyqc9WHzWI" target="_blank" rel="noopener"&gt;https://t.co/Wyqc9WHzWI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Wyqc9WHzWI"&gt;&lt;img src="https://cdn4.telesco.pe/file/KK0w78NxycGoM6MhvKyVTEU5bQTr0i3fuS2NECf0kj16220yl9qldDPyNGYQwdNDswmp3DTQELq8prRmY4EQC4I6Nrjj-PQbSrB7uO5ddsjgN7-c1HY0cITc_nTmkUNyzeVSrggkm1ZsMOBXGN-rmHyw64o4uFp5IOx1vTodl4LJRJAzLiXvsBu2bTR8KPENQMPcSYjdv340HzVWYVa7Gp2mFdBtQ_Q4PWf_VlwVnTU066h6svws8LsS19vYCfbt99WxnAsaCvDc5a6S9E_K-IQhYJ9Wr1jG5pOsYDacvvIxrj6ZVvgeRH4VMe2OSTcJZEEH1c8-HNHy8a_jAmOVyg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Wyqc9WHzWI"&gt;
 Xcode 26.3 Release Candidate 2 (17C528) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -139,7 +139,7 @@ GitHub - overtake/TelegramSwift: Source code of Telegram for macos on Swift 5.0 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 &lt;a href="https://t.co/RpOPRFFhF7" target="_blank" rel="noopener"&gt;https://t.co/RpOPRFFhF7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;&lt;img src="https://cdn4.telesco.pe/file/EHoEmWON0-oWv0V_UubtZufzwEtJdGhZEeUsDMlkEbpDe3HK8UVfQ7s3QBXAjsK_fl0qQyG7c454aiwfHsp3q_GE7XeOQop5RR4uD7n_jYQ40m5SFu4DFEkqgUxWLKqBdDvaLhFMFDnQGXT9dwyVcx-I6qGRGxXSPgKapD4ECi6O3GHpRgyj5Dw16ZdlyEmMnot-kLzhhIOfkokixYVOnP4MurakZqcpL708Yuh3q5iQn_naQJl6yJkqDKl6JVYzBwPU5YBYZyDC_5Hjj-7kXvLCo0wbqR0fifT9DW9YcQP8sxmh1K14d-8EJOfGZVHbCBvqM8C-EQLkinclBj0Plg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 &lt;a href="https://t.co/RpOPRFFhF7" target="_blank" rel="noopener"&gt;https://t.co/RpOPRFFhF7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;&lt;img src="https://cdn4.telesco.pe/file/qtSbeP5ZX4qR6MRPmd9lW6dsEWb57dZLW7kWNrKjLzZJHofM5jBCB8EXSJhtYjM1EZ2QSVOuOgP1XlpGKycOVd2uz78Pt5QFmCsP_QX55Yz45FImWmeMbyCgd1jO-fwBjZu8szFV8yd9fPg3IAJnuUut9qe_a95Yc9OvxBEWgTIrmDg0NK5B9PzpWZPuxKhqi-nqrGvl7J4fN7BAQ9mbh3xBFipzGCMZjI_mjuaoSoR8THj4A6DjOJulNROz4QMIJPYUC-i9Sanla3o5SWmROxdEGhwoJEDmZiJd5Uw3jXWdgMtyc-Sgi4RWQk1F5XsGr7jTM0PyI8ntc62ncfREKQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;
 New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to recreate the iOS 26 First Time Onboarding Animation Effect using SwiftUI | SwiftUI Complex Animations | SwiftUI OnBoarding View | SwiftUI OnBoarding Animations | SwiftUI App Intro Animations | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
