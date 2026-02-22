@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/rPm_jh0NA89UjhUl5a_MBoggU1p8XieQQHCMAlQ0ky04TlAvgcKQddiZgZxECy5X9VPpTyW61KMgTMGTWM_jySV8Xhkkg_j_6gI4wP__nD48F-X65c3lodl4JybGYQUWpoyZ1PyoUkXEaayUef6hRypGkvqf8Ld2jTfi53_0N5MzuCXDCoBFEBEzMMtowvLDDxf5tDk6RId11MONeCu7HOQmkhJt1q8C5hRTHDXEartvKrAACQTH6QOdP4yuTKTzjMXk1hTtQ08QcDsUW_xFROu3z2A2ZwnmaBlzPlRcBes7OW1q9hxgHBQ9aRgqO3k6s7xecVsw94MTUZj2s5MfVw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rPm_jh0NA89UjhUl5a_MBoggU1p8XieQQHCMAlQ0ky04TlAvgcKQddiZgZxECy5X9VPpTyW61KMgTMGTWM_jySV8Xhkkg_j_6gI4wP__nD48F-X65c3lodl4JybGYQUWpoyZ1PyoUkXEaayUef6hRypGkvqf8Ld2jTfi53_0N5MzuCXDCoBFEBEzMMtowvLDDxf5tDk6RId11MONeCu7HOQmkhJt1q8C5hRTHDXEartvKrAACQTH6QOdP4yuTKTzjMXk1hTtQ08QcDsUW_xFROu3z2A2ZwnmaBlzPlRcBes7OW1q9hxgHBQ9aRgqO3k6s7xecVsw94MTUZj2s5MfVw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-02-22T13:47:52+00:00</updated>
+  <updated>2026-02-22T14:30:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			У тебя на устройстве одно ядро. Вопрос, что будет?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;26% - Будет parallelism&lt;/li&gt;&lt;li&gt;49% - Будет concurrency&lt;/li&gt;&lt;li&gt;14% - Будет parallelism и concurrency&lt;/li&gt;&lt;li&gt;11% - Ничего не будет&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			У тебя на устройстве одно ядро. Вопрос, что будет?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;26% - Будет parallelism&lt;/li&gt;&lt;li&gt;49% - Будет concurrency&lt;/li&gt;&lt;li&gt;15% - Будет parallelism и concurrency&lt;/li&gt;&lt;li&gt;11% - Ничего не будет&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#vibecoding #agent #github&#13;
