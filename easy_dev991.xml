@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UjsYsrqDtTCeglLnvwaHpCXMJZJydJBWIAhonLwjvD4_1WAGKleIuSlKbTpB1_rgx7ESD7iRH9XA4nyTEUixLfMWoBVsrS2uYhHdytLAyYv0mMUdeKiAF9eIwrMbBVrfg4IZnxd_1plk-g7KPSAX4AlwjqIwXrlreUsa4msAng1U6pWJ9bJq9pUCdEMOUh3AQk2A9iu-DwlaFCGth1mNY1t4g5Xx6mBugBYnWI2CkcvGr4DRkzGM99RK3Mh9sIkQjps4Dlu7Rj1SrLyXLeubM5ibZOnZgGijEnYnwsz-t4llY3wlhwTWRoPCG9CjnEXTRsN7usP85_-IRIoKcjzTQw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UjsYsrqDtTCeglLnvwaHpCXMJZJydJBWIAhonLwjvD4_1WAGKleIuSlKbTpB1_rgx7ESD7iRH9XA4nyTEUixLfMWoBVsrS2uYhHdytLAyYv0mMUdeKiAF9eIwrMbBVrfg4IZnxd_1plk-g7KPSAX4AlwjqIwXrlreUsa4msAng1U6pWJ9bJq9pUCdEMOUh3AQk2A9iu-DwlaFCGth1mNY1t4g5Xx6mBugBYnWI2CkcvGr4DRkzGM99RK3Mh9sIkQjps4Dlu7Rj1SrLyXLeubM5ibZOnZgGijEnYnwsz-t4llY3wlhwTWRoPCG9CjnEXTRsN7usP85_-IRIoKcjzTQw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-23T05:00:20+00:00</updated>
+  <updated>2026-02-23T07:08:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5% - 700+&lt;/li&gt;&lt;li&gt;11% - 600 - 700&lt;/li&gt;&lt;li&gt;5% - 500 - 600&lt;/li&gt;&lt;li&gt;5% - 400 - 500&lt;/li&gt;&lt;li&gt;8% - 300 - 400&lt;/li&gt;&lt;li&gt;26% - 200 - 300&lt;/li&gt;&lt;li&gt;39% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;8% - 700+&lt;/li&gt;&lt;li&gt;10% - 600 - 700&lt;/li&gt;&lt;li&gt;5% - 500 - 600&lt;/li&gt;&lt;li&gt;5% - 400 - 500&lt;/li&gt;&lt;li&gt;8% - 300 - 400&lt;/li&gt;&lt;li&gt;28% - 200 - 300&lt;/li&gt;&lt;li&gt;38% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#xcode #simulator #ios&#13;

@@ -3,10 +3,10 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/EY-OMiX-N7Ywu7zONz9AsnRWwJmoyLnn4MQihWQnlRT7b0F9JfJ2zC05M950SmkW8Hcx6zVPxSW_a3o5RX6p6ysBo2Ob-YyhnhcjSQRwR0aOJ476WkLbc34nypzO0xUbbtl8gq4QKPv_jUpNLWC8-wxYjZxeb5TXz1-5EbXdsfXAxd9vzV1TLCELQ4UTEhZBUEPZQHkJM8dEA27lvYAv7uRFyxjGGITWzarTq0nmq5ApHk3CZj7uDbvDU4-V5mssm_wAuAlsbj9BS3nBb1hGmv6wcLsbjSBQYxAppGajEIM9Pd9hmCMl25x-7qS08foz9NV6e7kGjb39TmUNmWG60g.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-23T05:00:33+00:00</updated>
+  <updated>2026-02-23T07:08:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -236,7 +236,7 @@ New Xcode 26.3 Onboarding Animation using SwiftUI | #animation #apple #ios - You
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/vwiOrtqLnWxQ1gBXa36FtQhSaRqszfFlnWT3BznilR_2g98-RISO4lJcX6FAiPielCTYayniUBm-gLq_KAvmiEWDzMWzUR5DGKb9Jwreq_N0cBFaGD3sjKkLdCcog-4rwZDZeyFcPdw8EiloanM43631DYACkYCp62yDWnwMb_zjQ4FjPUgEUoCUQMSRdsT4_yLAmMtM-gtKrSSDFLE-F5fVIQfs_tKRkXGe4Ez4J7BAu7xrOBzB4wDSMtBDUAAmVESaJjVvQ_5YUcEO09sqI1HPTlNZCRKt-2eUVsEuuI0dtPHsGm0c1QWOXvivJCbD9dWTb9mpn8Zm8kKiFWu_xA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/geYGxRmtqsfjEhZTMK76cgxPHWBPwBao3fBoZ6fkZX3etav-A0g7FA0k7tQIwR9niTwWyOi4Sxm_9enssl_VE2Fer25GmaD-SVgdWSq9RoxXDFbZOFvoLfL3CHXAV6ZF5QF_P_iDRIxIxHWCA4HyIlMIuQ5R0NCyh3IGe42Bna9WtqVSZWghqwjBIRNpAaDioTvZFZVmaLmCS8WwpaYyMMSZTc5i3UdMGplOEwCZACrAC1y2OQfP-Td3P4hkcvG6AfuhmRekOu-L6DjyOcZiWNmAddChVQHlJGo18cVQiSRyjWqIkMwPxIyllZt4gNMjCjPyEpKhzRx33lY2s6uKew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
 Isolate SwiftUI animations to specific attributes - Nil Coalescing&lt;/a&gt;&lt;br&gt;Precisely scope animations to specific animatable attributes by using the animation(_:body:) API introduced in iOS 17.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
