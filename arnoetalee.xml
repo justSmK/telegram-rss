@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/cvJyWULqNsqcIP_LfwOo3dtARmCVvaYbmL_yBwB_Kg9jth8qZEzvG4ONCE4r19Bk2wpZut8UJbcoCoilM5K2bINgqu2nLd0kzE6EJhtE8bmrLQuRcqVju4UoSSr0GCt6q4UISfVq77VNes9cq92LifRkXTafLb6ac3ODtbKwo3wByLspi-UxEobZem7DV52pM9d_n8cYw5Lq-l_muBfXZ4OTOL4oBr0p4xFXitmOrz12AMH-Vk7kDmTo-ftFBSQmaPYlsnyhnZ75MV1Au9Ub2NUszErw6hyM4drpMTxwGFswfFl3P0ux3y0Xg_k3YTe-tVOyqV_Cyl2-H6g30TeSAQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/cvJyWULqNsqcIP_LfwOo3dtARmCVvaYbmL_yBwB_Kg9jth8qZEzvG4ONCE4r19Bk2wpZut8UJbcoCoilM5K2bINgqu2nLd0kzE6EJhtE8bmrLQuRcqVju4UoSSr0GCt6q4UISfVq77VNes9cq92LifRkXTafLb6ac3ODtbKwo3wByLspi-UxEobZem7DV52pM9d_n8cYw5Lq-l_muBfXZ4OTOL4oBr0p4xFXitmOrz12AMH-Vk7kDmTo-ftFBSQmaPYlsnyhnZ75MV1Au9Ub2NUszErw6hyM4drpMTxwGFswfFl3P0ux3y0Xg_k3YTe-tVOyqV_Cyl2-H6g30TeSAQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-02-23T21:51:06+00:00</updated>
+  <updated>2026-02-23T22:44:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Звучит странно, что именно арабы придумали слово...</title>
+    <published>2026-02-23T22:05:28+00:00</published>
+    <updated>2026-02-23T22:05:28+00:00</updated>
+    <id>https://t.me/arnoetalee/3041</id>
+    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3041"/>
+    <author>
+      <name>Арно Тали</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Звучит странно, что именно арабы придумали слово &amp;quot;алкоголь&amp;quot; (اَلْكُحْل, al-kuhl)... Это же буквально иллюстрация поговорки про расческу. &lt;br/&gt;Но, оказывается, это было исключительно в алхимических целях.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Вершина горы Олимп, 2919м над уровнем моря. &#13;
 Представляю...</title>
@@ -171,16 +182,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>Арно Тали</name>
     </author>
     <content type="html"> </content>
-  </entry>
-  <entry>
-    <title type="html">За праздники я так одичал, что снял новое видео...</title>
-    <published>2026-01-27T18:01:39+00:00</published>
-    <updated>2026-01-27T18:01:39+00:00</updated>
-    <id>https://t.me/arnoetalee/3020</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3020"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3020"&gt;&lt;img src="https://cdn4.telesco.pe/file/pxT_wjCy6N_cveB3Xp9oMB4OOP6uwe3fT21-7SNy0bVGHFbdahq5C4GCXk977RnvyZ7BQUpIG0BWhJ6MVauuNLOJx936JR19-e_wLTR92lhRJz7rMLwmMxQ0EgUFG6S-h_IeukjlikUzpx615D3d2fJknQre4JP-jJXiXxYoD_-KDVs_wbthxN31I8xeRbaXM0JirMrj8nI7PUwMb-Va2Vvdc5WAUW_1uRgyPq8TfntfSmEbbocv7NBca4qkXbYRRsgnaDLnbE4iwA9NXBbY1cWldhsdGMcujjfocyuj8HuXSMx151GFNakRSIraYiGyS1y5p9pvB6WXTNUH-7mGrw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;За праздники я так одичал, что снял &lt;a href="https://www.youtube.com/watch?v=miVRPyq924s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;новое видео&lt;/b&gt; (клик)&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Насколько крутые были языки у первобытных людей? Мы осилили бы изучение? &lt;br/&gt;Пригласил в видос спец. гостя, который шарит. &lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=miVRPyq924s" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;&lt;u&gt;СМОТРЕТЬ&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
