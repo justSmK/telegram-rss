@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-23T10:58:05+00:00</updated>
+  <updated>2026-02-23T11:46:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Preventing forgotten database migrations with automated tests in iOS https://t.co/t4zXUf721G</title>
+    <published>2026-02-23T11:07:36+00:00</published>
+    <updated>2026-02-23T11:07:36+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26006</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26006"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Preventing forgotten database migrations with automated tests in iOS &lt;a href="https://t.co/t4zXUf721G" target="_blank" rel="noopener"&gt;https://t.co/t4zXUf721G&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;&lt;img src="https://cdn4.telesco.pe/file/jgT16z8BEX88kP5QfPULdKBrrEDQR4VAxGyJJuryTw_Rcjlaww8D3RxRH7hRRUhUnYgKOEaUJXGWFDLAglfWWX8Lordk3iBBuvY1y-ct_nVOnQoC69k9mRZrnx4rlwfbMCTVmKLin070GcgDZAU1BDwIU6zYs7z0rtTNsZeYnQJ5TRXIZaxWqGtJqFYmYoio39ENckUgPpjg5aSEozgDLLVkr4gM7wz3wbpzHHtn8GbfbzrK5h-iMg1Q-i5tWio0arfHIOF88MGbUum9BVSzq978YVpGD4WUKRK3dYtWyO2V7gn-VrOsjZzRWqIwx6CDZx0v4ROq1C30z7eR34GH8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;
+Preventing forgotten database migrations with automated tests in iOS - Tanaschita&lt;/a&gt;&lt;br&gt;Database schema changes can easily break existing installations if migrations are forgotten. In this article, we&amp;#39;ll look at a strategy to automatically detect migration errors before shipping.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Eternal Storms : ScreenFloat v2.3.5 improves the Shots Browser, Markup, and more...</title>
     <published>2026-02-23T09:02:53+00:00</published>
@@ -238,17 +250,5 @@ GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on appli
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New Xcode 26.3 Onboarding Animation using SwiftUI | &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/DreUvMmHqv" target="_blank" rel="noopener"&gt;https://t.co/DreUvMmHqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/Dw5gVYbXXZW_AoSA2Bw2-tuI42lMpCThBCFfK7LjyqbTkM9iZIElByMmV4kU9RcBBdCaw0yr_qGoV3IUzJQek-mJ70ji_uc-PehyZt0Ls0kSuuM5afmjhxRaBDh1OzS3fXuF0vGzVOvPBZAHSzjZA3rcSlZ0Z7tieef_SoKW1_JxVPuQvR8SlO68rMB0995flzxL5TpPACK-d2VI7Z852NCwcPHBBLO6nJHZjprgKVGgODw5XcjOzcEmKE5gTkjyKpYnp3nLnT_f_DfI79m6m8Y_xSxtsAmuEt1B6fTw2YA1B80-u8xQuTeRygmSw7gq6GzihlseIrfyjX5SBiL-MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DreUvMmHqv"&gt;
 New Xcode 26.3 Onboarding Animation using SwiftUI | #animation #apple #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Isolate SwiftUI animations to specific attributes https://t.co/1eNGymlqVI</title>
-    <published>2026-02-18T06:37:32+00:00</published>
-    <updated>2026-02-18T06:37:32+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25986</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25986"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Isolate SwiftUI animations to specific attributes &lt;a href="https://t.co/1eNGymlqVI" target="_blank" rel="noopener"&gt;https://t.co/1eNGymlqVI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;&lt;img src="https://cdn4.telesco.pe/file/geYGxRmtqsfjEhZTMK76cgxPHWBPwBao3fBoZ6fkZX3etav-A0g7FA0k7tQIwR9niTwWyOi4Sxm_9enssl_VE2Fer25GmaD-SVgdWSq9RoxXDFbZOFvoLfL3CHXAV6ZF5QF_P_iDRIxIxHWCA4HyIlMIuQ5R0NCyh3IGe42Bna9WtqVSZWghqwjBIRNpAaDioTvZFZVmaLmCS8WwpaYyMMSZTc5i3UdMGplOEwCZACrAC1y2OQfP-Td3P4hkcvG6AfuhmRekOu-L6DjyOcZiWNmAddChVQHlJGo18cVQiSRyjWqIkMwPxIyllZt4gNMjCjPyEpKhzRx33lY2s6uKew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1eNGymlqVI"&gt;
-Isolate SwiftUI animations to specific attributes - Nil Coalescing&lt;/a&gt;&lt;br&gt;Precisely scope animations to specific animatable attributes by using the animation(_:body:) API introduced in iOS 17.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
