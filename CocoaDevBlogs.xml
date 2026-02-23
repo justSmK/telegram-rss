@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-23T20:48:41+00:00</updated>
+  <updated>2026-02-23T21:50:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -199,7 +199,7 @@ GitHub - marmelroy/PhoneNumberKit: A Swift framework for parsing, formatting and
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring &lt;a href="https://t.co/80NFnVEY8l" target="_blank" rel="noopener"&gt;https://t.co/80NFnVEY8l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;&lt;img src="https://cdn4.telesco.pe/file/TRoJ_PIxSaATkg8TMFKqD8vpJLoZ2kuVBm-gcI9x4TFbgSmhzxY9bmWvi4F7pLcpH0PARdqChB0nJBgXyFo-b7p04ldjjsSk_E1i_Jlw4ewT5ZMP709OvGKfPCcmy714ml77l5bTeUS9qOBdeletElC7ec3uVtmWz85B6F8zv34a239HKB_D8EAaCdyBsUTuT57aKLFCwkZ_sjxJ_8lPSx6HYsMkZZmcDyKu-vZghzcrhv-LCcGZVPXILbkpK7Lk7fvNKFFW6PFKe17rJ7kEknBTRFdfXUDGH6X03oVSQmMYqX351Zz_Z3AzMMr190nnPFfqTlrFkbhLvHj3kPLtzw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Announcing Swift System Metrics 1.0: Process-Level Monitoring &lt;a href="https://t.co/80NFnVEY8l" target="_blank" rel="noopener"&gt;https://t.co/80NFnVEY8l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;&lt;img src="https://cdn4.telesco.pe/file/eLyngKCwCEI0xQ3Qs-3qdA4lSS75ZjtWhF1dtNQhZxbabfrK2RKUfDZcZrRRZL3YsWMz4ZXiXszzaNQ0TTMsjzXgTUVp_ZW9lSdqPdMTO88ypPvvltkXc9mGJ3GtEV1tABhw0eJyRTlhoDoG2V_klV3aG9Av_giURfY70XI8Z0PrirLTUlyWxFUbm5ekh9G98ftzp9nVWC_uMUfV-nDvg6FiwgXjwGaDXlJgjtMHYpmitHSjMtsNWrhEqrL_hZ4m3vnIiaaLiOPLYmpIi0qYJDMnC04J7dmgv9FNBos6UPhLRaC3Bz4vTAAhJ2oF_spQeNkRMBQi66xF7LynVEVx1g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/80NFnVEY8l"&gt;
 Announcing Swift System Metrics 1.0: Process-Level Monitoring - Swift.org&lt;/a&gt;&lt;br&gt;We are excited to announce the 1.0 release of Swift System Metrics, a Swift package that collects process-level system metrics like CPU utilization time and memory usage. Swift System Metrics runs on both Linux and macOS, providing a common API across platforms.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
