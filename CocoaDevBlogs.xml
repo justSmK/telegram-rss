@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UyZb96ZSh9bQ-SgygxfzRpL-ZSOCLPGGCvlOIkuB3YhgUEUcCsFXOXaqjqD21P5jpRNmXchyhl7wwI3wDGpOuwDAuKyBYNjWlTODzHKSo9GpL8Jmabs-H_Dk843jwZLzahhS528f-glnLcuZURBzFjiVddVJ2i0NtvEmqTKSAMzesZjdegHHRY3KMBO_2a9sa0U4TrMJuWwKWq3OM74lP-gMnYjOleFr3v8oMTRsgViQwnUBgSGPkFIZ9P5LE0cQSJNZB5KezvVNeGELWquO_auXB8XK3r5jcde1FF2VsjZXC3V1s5yKFpGMLGLhZWY2ATMvz0gM4a7BtYXwdL8vrA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-23T07:08:28+00:00</updated>
+  <updated>2026-02-23T08:55:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -163,7 +163,7 @@ GitHub - overtake/TelegramSwift: Source code of Telegram for macos on Swift 5.0 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 &lt;a href="https://t.co/RpOPRFFhF7" target="_blank" rel="noopener"&gt;https://t.co/RpOPRFFhF7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;&lt;img src="https://cdn4.telesco.pe/file/qtSbeP5ZX4qR6MRPmd9lW6dsEWb57dZLW7kWNrKjLzZJHofM5jBCB8EXSJhtYjM1EZ2QSVOuOgP1XlpGKycOVd2uz78Pt5QFmCsP_QX55Yz45FImWmeMbyCgd1jO-fwBjZu8szFV8yd9fPg3IAJnuUut9qe_a95Yc9OvxBEWgTIrmDg0NK5B9PzpWZPuxKhqi-nqrGvl7J4fN7BAQ9mbh3xBFipzGCMZjI_mjuaoSoR8THj4A6DjOJulNROz4QMIJPYUC-i9Sanla3o5SWmROxdEGhwoJEDmZiJd5Uw3jXWdgMtyc-Sgi4RWQk1F5XsGr7jTM0PyI8ntc62ncfREKQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 &lt;a href="https://t.co/RpOPRFFhF7" target="_blank" rel="noopener"&gt;https://t.co/RpOPRFFhF7&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;&lt;img src="https://cdn4.telesco.pe/file/b-TGeVQNcejEfhozhiSxgQhYoBX1t9ZPskYbP34vPtDMhmXRkX2AUA3TcDKp7cRBJ_DmfNt5A_STnAw7sFNXT7cPS3NKB_CH6RGHm8CXNMHf4mcIGAxcpNhX1rZYJ5AIP-uUoCfXOHqWLoQG-IFUlO-pgRRT1Kel_Zeo-oH8jt0_uYBLPV8eikw-Kaj8ShgfWUtG1K2NrVPnnaG93z-t4zscPP5-hXu9TMiNHgacG5ktR46k43vqNp3Kmq15uF0_qH7ZTCrEyK7PdAb0XBceRJPmFXmlTR6OlULcj38VjPIiSF04MZ7FSeQ39X1DaJIelX3kOinoXzG39mb7P6F6pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RpOPRFFhF7"&gt;
 New iOS 26 Style OnBoarding Animation Using SwiftUI | Complex Animations | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to recreate the iOS 26 First Time Onboarding Animation Effect using SwiftUI | SwiftUI Complex Animations | SwiftUI OnBoarding View | SwiftUI OnBoarding Animations | SwiftUI App Intro Animations | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
