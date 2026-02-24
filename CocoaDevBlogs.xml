@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-24T13:13:25+00:00</updated>
+  <updated>2026-02-24T14:53:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Custom Parameters and Animation with Metal Shaders https://t.co/6ppAspth4l</title>
+    <published>2026-02-24T14:07:16+00:00</published>
+    <updated>2026-02-24T14:07:16+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26020</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26020"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Custom Parameters and Animation with Metal Shaders &lt;a href="https://t.co/6ppAspth4l" target="_blank" rel="noopener"&gt;https://t.co/6ppAspth4l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;&lt;img src="https://cdn4.telesco.pe/file/mLOhdNpmTSot35ph1YDwhSAZUdUnNGDXBlzE4NrVbl46hEQQvtXdZK7qQaB3H3Y-LE5yw-XCfFsD-f589sscosr7NHObbhe4MRRfXkHvP7VSzT4SGuDXQS4yG0c1jEaCZswMwgPkKLjvlevVOHONp0qpzGubwuRvXsdwPvDpPoyxKxYaQILRFMK1vmTTsmtGjm7DWnT7RVMddR7b63X039dEYuVF0kAWa7IIlN3p8JWdUzTc1MPEm0TcotOGElKugR4mFnsJB9Gj5OqQf_3UezMUa938q750WpCzgtSPyQQi-ivCSzXb3MoQLs3WQoZh6sWsygfdqM7-EOiE0YfX6A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;
+Custom Parameters and Animation with Metal Shaders - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to create and use parametrized shaders with Metal and SwiftUI.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator https://t.co/pc9lcVkujW</title>
     <published>2026-02-24T11:17:35+00:00</published>
@@ -237,17 +249,5 @@ Disintegrate, Reintegrate, Extrude - Ash Furrow&lt;/a&gt;&lt;br&gt;I wrote last 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tddworks/ClaudeBar &lt;a href="https://t.co/ReJSDdA3fH" target="_blank" rel="noopener"&gt;https://t.co/ReJSDdA3fH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ReJSDdA3fH"&gt;&lt;img src="https://cdn4.telesco.pe/file/v0uslj0TfKwW0vpCEvuy8x-DfVLCoI3GA50XQAefUGdn9zg1p3kM8PhYBgtaxRj5XkXsq3tZpAo9GqpofvDHF16UPzhlni9qJR-B1xC-jBXftAegS53155QXsKWxDo-Z9sOQco-4jLUnFWiEZDPGcE4Y_Z4KkTkhIAs0Lu4-CVZ2WQkACPUIIhS_-rw9eTB8msxA5FrY_DehwTvrwfoGA4dsGY8XM3ox8rni2IOwZfhofDc2Txsf2W_jbGlMey-Muqx2CAbcbkrXCX-mbqgt4QpcAGnR81E6v_yXMmxda2gPSkQKcVfAmJ__BUkv2RT8xpVx_6pySqtYn8cFEnWr3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ReJSDdA3fH"&gt;
 GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude… - GitHub&lt;/a&gt;&lt;br&gt;A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. - tddworks/ClaudeBar&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : button/DeepLinkKit https://t.co/jh77LHPary</title>
-    <published>2026-02-22T02:12:14+00:00</published>
-    <updated>2026-02-22T02:12:14+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26000</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26000"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : button/DeepLinkKit &lt;a href="https://t.co/jh77LHPary" target="_blank" rel="noopener"&gt;https://t.co/jh77LHPary&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jh77LHPary"&gt;&lt;img src="https://cdn4.telesco.pe/file/b56dI91gJnnHgHTrd0EZoQLltRJtdOtl_teAlEvIM3qHVcwDySmJSx-Aio1OcJhB6eNLazIZwPqYDjLbAPbo7aU4d95sZNZ5XXYzLrPHWjykdIAs9qXOuV60wDzq3JJhWofa-NK6utLQdY9fWu7-yHBJm1QyqneVCXj2wEQ2JgGIZaNW5_1tlscF2drUBVXT_Xsw-x22ZqKa2gqL5s1-0SK_2ja9yJ_WpFaoC7iY9EJHOo9zHVtYQUYeE_ouGFUGC9BdkzPCIWcGAJf56NG1CHtiUyjg6dSySyDbA3zoWQVutZRalhsRwaWHZ0HLIJsEdghgRPuvVwEXzXnVsclUCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jh77LHPary"&gt;
-GitHub - button/DeepLinkKit: A splendid route-matching, block-based way to handle your deep links. - GitHub&lt;/a&gt;&lt;br&gt;A splendid route-matching, block-based way to handle your deep links. - button/DeepLinkKit&lt;/blockquote&gt;</content>
   </entry>
 </feed>
