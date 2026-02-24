@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-24T17:57:15+00:00</updated>
+  <updated>2026-02-24T19:12:55+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ GitHub - migueldeicaza/SwiftTerm: Xterm/VT100 Terminal emulator in Swift - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.4 beta 2 (17E5170d) &lt;a href="https://t.co/vj8rWQ4mNg" target="_blank" rel="noopener"&gt;https://t.co/vj8rWQ4mNg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;&lt;img src="https://cdn4.telesco.pe/file/aKFTDnsQdlG3ACdZSdnzIpQDC5wcW6d9_pv5DCrn1ARQmbv0dAQymkw7j_Jqn02HQc75UAKyf1YjoqHywuUzi2YpF9Q-gp6wZ5fyQSZP15d5ux2HmTC16nlI84XPf93li-CdffXr7D1ZGRGV1JUB05EsS49dPAV2ji-2ZAHMSK6V3SZr-YphteMIJB_oEuAF9JQGlMwHgoIKO-1rPvx_WPYP9ZvHgV9CgTMyCjHkPK9rq8tNaMime0B9p6QFGYICRVQorrYUrTdIJQYVuHhlGEocgpVNmmP3mfLNpNBb3wIiOq0HRQnA6dgAT8WBudT-8MRCnCO7xyJ6PhWyuz6-uQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.4 beta 2 (17E5170d) &lt;a href="https://t.co/vj8rWQ4mNg" target="_blank" rel="noopener"&gt;https://t.co/vj8rWQ4mNg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;&lt;img src="https://cdn4.telesco.pe/file/N_f_APlINpp-PqftEuIpH5sIW9m8dkcWfWUF457oKFQ2NubcrI7wABhybd4N8rYP36FYg1IEc_qOlqSQO_RvJ0k-1txA8NEEj4w0QffxmjRZziIB2kS4r-5LspPNpBucmiJxkToluVLIL5Z2W8wDlmPvv0zpqcKR9xlyvl77VEC-yeYScZEaAork_9Oy9pyCpt93jJCRb2FWh3K5y0WA0RRQlwIRnwtaWOXXKGo7AUWM4z40epYOx8teRrPI-_vdCbUaH9MRUwUmR41XO-BaurABMPDgmvo64C0gH-l3URgiOuQVkYMX9c5g0s5YWu1Z57Z_FDJMzeriRA81oxPBrQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;
 Xcode 26.4 beta 2 (17E5170d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -115,7 +115,7 @@ Xcode 26.4 beta 2 (17E5170d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/pNgigqWlJm" target="_blank" rel="noopener"&gt;https://t.co/pNgigqWlJm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;&lt;img src="https://cdn4.telesco.pe/file/LnpJTJcG3HlD9prKbobb1vVv36hEVGQHf_wEsDIammj1RIs8MkyA01aH5euy8g8Kx00qsLYVE2gY-_69BkMK5Lj3wiUiWydHDfc4E5O9M9ch31Chitw2XvwNDTV33do8zBBk8pTsyQhz_G3gpdl6nCCevOGo44GeIfTZWF7TNDmAhch8dp8_L6WTJucRR6DNi_-jAlVb5ct7Ziu2Zr46_iWRnEL-PIlNTAgoF9Brhu0sASKAYGAeRJhAIWJ4wi69l8zs5K9XnS4MIV3GuO9-WeyvihAdfANxjM0dMkyCTAbNTSi-jXODn8tVFzGGcLGCSD132ob1Y4AWp38zH90ZZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/pNgigqWlJm" target="_blank" rel="noopener"&gt;https://t.co/pNgigqWlJm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;&lt;img src="https://cdn4.telesco.pe/file/T4-KR8PDhPEuKPpv3VUBpjHLUUDeuBKxfWDaJeu0BURXquxaRxRIhsDwuBR3lwQGM6NtO1458sK_KpoFwXqWc94Bqtzjz7vWmye4BbLUJPNLlsnddnLRBGh__wnQV8CdpwxjxFY0yHyCbnk6HIhZlAf7pHjLl9uPPShLuYcMhxdPWHlDr7XAjaAC0M3kLc8vfBbM35-lv-8lOh3XE8y8n1-eJihe3d6Gc_Sl-BL815OupnRTJUwUvjg2KcDHmNN-9HfQE_xq9khOojvX_f88Ojxm_FmnJ73RrW2i-iHV0R2B6cqcLNk3Q669Q4t6Sh5Vfq1UAo2vkC84Bl9Jd5teNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;
 iOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -127,7 +127,7 @@ iOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/bw1bHlaFdJ" target="_blank" rel="noopener"&gt;https://t.co/bw1bHlaFdJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/b2dyVxiXv8uPxliX2_Q3OekMQ3b-WJQD3BFBfvgudqkH9tmlsP6MZfPWYRMtWFaJKOd7bDltg5ypPbQRgeDmqPZLzz5iZYHHVSTlVGPHJ5Fok383GPLEAn5sP686u_GCE-X0BcrKNfoKuN4PI9n51CK7rHqUdjLda9e0H1YcABnV2i9sXSD-A-EB9axIhYP1BxoXij0uFZlOEqUybTh8Uk9Hup_cstZkfYRex0xVgU8MBywkOnqa6DXSgiuGxMQQcRNsJoRWrnaaVsv91pocupEtl11IZrkQLjL_57OezWxjC1zTJXVcHXMsXdBcHTpwR8zgIYF796XoaSKf-MzZvw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/bw1bHlaFdJ" target="_blank" rel="noopener"&gt;https://t.co/bw1bHlaFdJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/I7iutNCeHF9NOvD04kntKZIsWlAk4liyZM1jFbfw54U8xntTTWWW7tlF978ob2bUlXCsjpllUOC99LBs1CviQ4Ua3tBA3PuS5dgT3q491GO6F5WP1dqee8y_j7_yFkkbWXjvhGCzcIjfBcDQ6HcJMtRNQ3Ji9_kq3wjQ7Nx5uLj56HZP67GcfGDpbGVm6MFtocnONBjrkyM_I0tG9xu-nj4-d1w0TgF29Hhos6svD0W-AIMG3ltUZeL7_HFzojpi5Lf67UfxHbjRqFeNJweyRjYh5tX_4AExcFq0POCIx0G3BjhmsoMmsEcyHqUbiZn6lqLUxFK5Q5SVNaKn7hVnKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;
 iPadOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -139,7 +139,7 @@ iPadOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 2 (25E5218f) &lt;a href="https://t.co/8YcmLu0Coy" target="_blank" rel="noopener"&gt;https://t.co/8YcmLu0Coy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;&lt;img src="https://cdn4.telesco.pe/file/kAB0J2_a7tCqxk-EHizD_EEpPq0yV7p5gayvqGK9bVeJg81Og1_uDLVlBVB59LkbWAFW_5uvelGSy7egWg1mvbQLMhFkr8hO1YI1JcRLwFu7pDZZSrrCkiOxw-Nf9jR9tcmSY1gLvvEw8u_7lJc1hupgd7eicu4daKpYQN3ecTlYys1rCYNQO-P_IPYvzSEH8yQfnXVRzMGKCgq5pZxn82LWfdyjOxfxFJzu1WMErdpuVUOGEooYzfuzB5oTf2c8TU1bVWUXXlut0P-GeEnhxh-hGgfPHAyqMIT4_z0fb_j4rPNv4dLUORYfGzrozHzzBxqusBfS4dl7sEH5PWQ_6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 2 (25E5218f) &lt;a href="https://t.co/8YcmLu0Coy" target="_blank" rel="noopener"&gt;https://t.co/8YcmLu0Coy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;&lt;img src="https://cdn4.telesco.pe/file/ENq05PE324u9eOJIYJj9PzwQM7RMPTQKmYyUgpd09MBYO3BEW-Fr1pTfvE4UHS9vRHaHGGaJsBUexzx4Vo7NGJx7ZMYZVkDdXFmGWmHjomqEJ8GrbvWufOER_mbNPheyRTOeou6QjcuzxPsau_WjoU6hBDs_K5e4GxMM6PMqyZA_k_nIPBemJ5KMkYC2hAoVSWPOamVDVBJz5OvPZM-UM2PHGbZuaNs41Go44NtSudHgpujYz_OqDvtE5bpwnN-81Zb79bJytdvXADDVT6GWrfv7aRYuVVDud7Rn7vTrN_T5eKrpJu9DR99HS-DMzcCKdaJq5UHltdE9pO4bDZuFng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;
 macOS 26.4 beta 2 (25E5218f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -151,7 +151,7 @@ macOS 26.4 beta 2 (25E5218f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.4 beta 2 (23L5219e) &lt;a href="https://t.co/gQwklOFXx6" target="_blank" rel="noopener"&gt;https://t.co/gQwklOFXx6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;&lt;img src="https://cdn4.telesco.pe/file/t18QfNOnL_LDOaVBYyHxr9rIdxmkFyqR3Yj_YYoXk3On7GpzzZV3Xd5hin54PLmNyfcnZN6mA8duzyBKiICpWDngek0rhe3EKcCVRuhIsnV79owWwMjApctR-EGMk5_Q9-IQ7xHGBTvFCSagWQBqeUDOfqnmitncmYb9aGl52SazVaqnBndtn33PcEqloBxcYsXtWLJXnuWYrc_qe03gWsRSjPYj0xLb6DHm8VX65buUhfPRHYej7t9ztvXxX8rMUdzS4iMCXFdOSp9lxt5TZuz-GiI03lv4ZkX_2hQRF1GP9HxCxDqUKzwpiJGBhXNrMkYE5AlvHAIRFH32T8b3lA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.4 beta 2 (23L5219e) &lt;a href="https://t.co/gQwklOFXx6" target="_blank" rel="noopener"&gt;https://t.co/gQwklOFXx6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;&lt;img src="https://cdn4.telesco.pe/file/JT2MjzZxTcyMoUtGo6QnC7D6f9vNHbfQ-Vbyh5XnA5VpTaD8WWCH05La5b-6GkqHPLQC7CK255njJj72v4LZhaB4bB_TbGQkOOYiUnIZwh4fkkOnZULZXh5Agm85PSBVLZe8H1w4whPlWfAq-6eNilGRplFyo-nUrKa3lo0KaghpkPxd_uL0Ra8tKOxiTjX5361YZlNNGPcdenLzuBTRCmV-Y3Li971Fevirj1sHR2g3rQMm-JIi5laO3NrHqTOsqF4uvhywTXR84M56TDqaYJnA4e_OKAGBIgbZj-uocrDCQsYHwi-BeKd6ZQghUf7qyFHU0Z9QLaTqispUENR_TQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;
 tvOS 26.4 beta 2 (23L5219e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -163,7 +163,7 @@ tvOS 26.4 beta 2 (23L5219e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.4 beta 2 (23O5220e) &lt;a href="https://t.co/KhZHWv6GLm" target="_blank" rel="noopener"&gt;https://t.co/KhZHWv6GLm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;&lt;img src="https://cdn4.telesco.pe/file/s4EE_qpSNFZXK8pXRSa3oYB8nYepYjMqNGpIior3yQ_PMRCc61HzsLM0WL6ietIbUrk-Eu1bPCSxpTTHHSz3eAJ-LPVNHD-NuJfmGVW1_WsJYBSz_FdBihmOPl037OMXZHN59MK00veuUDgDc3XiLhqjCriKUFaqRjVQlJ2Mn9P990fhP8MTe51XaIRG_5WJ3nyWbcnRY5PJJXCtn3FvV5u4XQDr6TYFcuNLQn-kEZXeq7c9gZGNIPHEAR6IAeGJIUr8NpBUuap5GdHnL_T8REBNFI1HSbnl5wqbvxrMSfLmV_2lr5nruOR1qadd_0MXuE8hgruJ8QiuOd-QMVPO4w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.4 beta 2 (23O5220e) &lt;a href="https://t.co/KhZHWv6GLm" target="_blank" rel="noopener"&gt;https://t.co/KhZHWv6GLm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;&lt;img src="https://cdn4.telesco.pe/file/n9ifLtdiSeYu4AX70qmKOvysnrUx9HPpLiwhmPhbkqwQQ8AJY02JenlMuuF_qHd5YvXo1YqgoyANuiCU4Ukw6bc1bbkzokRT4uymmLtVF5AyQmueaElT8v_WsGGRQ1ZmB3QqrC9fQtczi_08DkS9XpyhXg2oyns99zV3kNJF0alL54CqXHr9AO7csYwGo3DOSTkZSdtHOvjIa2J9bsbbH2__BeKJnVjsTGYnW_ErO1C1NWLmRAh_YoNZ_e_QbN5v4c0bOsHZPaaXOs6Bnf_kajjvJ_mkYlHV0gELEBYp4OZuK8yt-S6Aa0hoesv4b5ISchJK8seZdOiBPmcq-jo_pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;
 visionOS 26.4 beta 2 (23O5220e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -175,7 +175,7 @@ visionOS 26.4 beta 2 (23O5220e) - Releases - Apple Developer - Apple&lt;/a&gt;&l
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 2 (23T5221e) &lt;a href="https://t.co/Gi0yqbPKEl" target="_blank" rel="noopener"&gt;https://t.co/Gi0yqbPKEl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;&lt;img src="https://cdn4.telesco.pe/file/A3xwFqZy-Q7wESHgbJsrhrpN2HnRL6v29SKOn7pzBc5dKcbFmJ7ox9uvh50Am02PTjGfVgGYgeRJDcSCaiSuwrD1vd9ZtDrhK_9IeVIin_1VGZyQLRR2upLu1eTNwzajA4OSkCc_9feQ-ns5DBo1pTnjmAn3mJMt5PmBSWqeO_9TdYk5QpukhufN-yTmzHnrx2GOYXtZ-pM4Dp8QATKuLkxPhQVBPUT4dhFI-WI7vg1DbQ3jMcsQFh8w0PDn1ymwkJD3ZqTApCzE5fuF1ek3RP3bFD-HM1CvsHZMeKpwJHtA5PmWRPV2eKy7Hx7vbYeoRPfQjoFeZQU8jcD5L4APDQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 2 (23T5221e) &lt;a href="https://t.co/Gi0yqbPKEl" target="_blank" rel="noopener"&gt;https://t.co/Gi0yqbPKEl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zr2fkvGYZLX1IG5WZ5Qzuk0xZ-_JVFg-LXHBZ4COzqsNihU1ISUeL451HPh9UTek7FJNO-g-Y9i4qN3CAyFeXAJLlaj861pJoSAiisSxETp6B2tj68fBUQ2Aces6qKPjBcFojb4YqfROWbMwc7hw6b6ZEdbLg6hmrryIB7pwJ7lxW3ZD5g2oRI8ln7dWp7wGVSGr2zSqh7zaxxOOJkI6wmvt6vVmFE9ZBu0m-yogwKZC6QC8DkVVq_s0TQUr_2yyARSch7LZHXKl46Y0uGSJgmKOIq8jDADQTaBJRd9XVXxjH5G0Gx8vaGgRU8kAEdPVq4O6IOI_LQ_i19HjfUCDtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;
 watchOS 26.4 beta 2 (23T5221e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
