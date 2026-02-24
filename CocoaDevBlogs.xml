@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-24T10:53:42+00:00</updated>
+  <updated>2026-02-24T11:42:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator https://t.co/pc9lcVkujW</title>
+    <published>2026-02-24T11:17:35+00:00</published>
+    <updated>2026-02-24T11:17:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26019</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26019"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator &lt;a href="https://t.co/pc9lcVkujW" target="_blank" rel="noopener"&gt;https://t.co/pc9lcVkujW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;&lt;img src="https://cdn4.telesco.pe/file/gQi8BPjwe73ZNRvGjgPeefI88cI6ntMqrMd9agMe__KBopOsrTmE_v3yVrC7qc1W_JX4BETE0YGbzeS6FH669pQSgTB2EPzTluXQDi992SpBestSsokMTEZt6B24osBpyH_wM2qTKV5gXSGiAIF_jFj8uyEuTSFTUAbMrh93IcGMzuA3_ewfJq1OtIMZvaz_v3bKK5yLYVkZCU1LNKk4ZuQAuyE3ai--IyeFjvhZLdoxG0z7iHfKhuq31QsMjb5n2JyMS9SxxP8gj36-JrWKatCRFnd0KElyAVk4OIB07rrWqYhPX0Y2f1YjQdH5ZIt9cbGeS4A30Pus_dESDGJcPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;
+VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode&amp;#39;s Simulator - SwiftLee&lt;/a&gt;&lt;br&gt;Explore VoiceOver testing with RocketSim&amp;#39;s latest features, including high-quality recordings and AI insights for developers.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : geode-sdk/ios-launcher https://t.co/JN03ue4gko</title>
     <published>2026-02-24T02:12:35+00:00</published>
@@ -163,7 +175,7 @@ watchOS 26.4 beta 2 (23T5221e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Preventing forgotten database migrations with automated tests in iOS &lt;a href="https://t.co/t4zXUf721G" target="_blank" rel="noopener"&gt;https://t.co/t4zXUf721G&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;&lt;img src="https://cdn4.telesco.pe/file/jgT16z8BEX88kP5QfPULdKBrrEDQR4VAxGyJJuryTw_Rcjlaww8D3RxRH7hRRUhUnYgKOEaUJXGWFDLAglfWWX8Lordk3iBBuvY1y-ct_nVOnQoC69k9mRZrnx4rlwfbMCTVmKLin070GcgDZAU1BDwIU6zYs7z0rtTNsZeYnQJ5TRXIZaxWqGtJqFYmYoio39ENckUgPpjg5aSEozgDLLVkr4gM7wz3wbpzHHtn8GbfbzrK5h-iMg1Q-i5tWio0arfHIOF88MGbUum9BVSzq978YVpGD4WUKRK3dYtWyO2V7gn-VrOsjZzRWqIwx6CDZx0v4ROq1C30z7eR34GH8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Preventing forgotten database migrations with automated tests in iOS &lt;a href="https://t.co/t4zXUf721G" target="_blank" rel="noopener"&gt;https://t.co/t4zXUf721G&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;&lt;img src="https://cdn4.telesco.pe/file/YIED98a4SQinHS1P8-H1dEhEsbRypo1xBoN6Rc2ce5YlsFEwTa6h9b0w8Yxp1qBq8s5Xu-FZ8prLXeU_M_sWFCk4i1TEpWQAwgyaR9W3U5hJGQzKwIzAZiMTJPYLlOdl0xh5M8z_z4lIzEHcZxPNKb2BFkWZci6BHGGnTrFvgEt0r5913vQtJuGo45rdolOhMhEDipUTb0xMYg_lZnRRfWG2dFWdB1jRwTgL0ddSzYJyWw_Uozp6b6cPwK8eVLWTgtdtKdeAHxId9GuH840yLLhLNVRcKoYJREUzqLe8cEsYd74aaAUjjWaInk-c8I23G9k1fkQlbUGdLPLeWSpmFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/t4zXUf721G"&gt;
 Preventing forgotten database migrations with automated tests in iOS - Tanaschita&lt;/a&gt;&lt;br&gt;Database schema changes can easily break existing installations if migrations are forgotten. In this article, we&amp;#39;ll look at a strategy to automatically detect migration errors before shipping.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +249,5 @@ GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI codin
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : button/DeepLinkKit &lt;a href="https://t.co/jh77LHPary" target="_blank" rel="noopener"&gt;https://t.co/jh77LHPary&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jh77LHPary"&gt;&lt;img src="https://cdn4.telesco.pe/file/b56dI91gJnnHgHTrd0EZoQLltRJtdOtl_teAlEvIM3qHVcwDySmJSx-Aio1OcJhB6eNLazIZwPqYDjLbAPbo7aU4d95sZNZ5XXYzLrPHWjykdIAs9qXOuV60wDzq3JJhWofa-NK6utLQdY9fWu7-yHBJm1QyqneVCXj2wEQ2JgGIZaNW5_1tlscF2drUBVXT_Xsw-x22ZqKa2gqL5s1-0SK_2ja9yJ_WpFaoC7iY9EJHOo9zHVtYQUYeE_ouGFUGC9BdkzPCIWcGAJf56NG1CHtiUyjg6dSySyDbA3zoWQVutZRalhsRwaWHZ0HLIJsEdghgRPuvVwEXzXnVsclUCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jh77LHPary"&gt;
 GitHub - button/DeepLinkKit: A splendid route-matching, block-based way to handle your deep links. - GitHub&lt;/a&gt;&lt;br&gt;A splendid route-matching, block-based way to handle your deep links. - button/DeepLinkKit&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : marmelroy/PhoneNumberKit https://t.co/2XHNCm6iEX</title>
-    <published>2026-02-21T02:22:10+00:00</published>
-    <updated>2026-02-21T02:22:10+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/25999</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/25999"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : marmelroy/PhoneNumberKit &lt;a href="https://t.co/2XHNCm6iEX" target="_blank" rel="noopener"&gt;https://t.co/2XHNCm6iEX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2XHNCm6iEX"&gt;&lt;img src="https://cdn4.telesco.pe/file/LRY9-I0oh71DhF_6uKniFkdBY00bIuqGtFWUYw_EY-kHP1oBeqBnJNnwXeC35vxiT0v_-LtnLWLZ_FZf4JfSz243rIp6gkc-ZnDt_HPHC8E6PYvncq4FU_JU6A0Um1UK-EltaViY9ebJsUtZxnIcTseM96Cus38e0DczCroKE9Cc7XNac3Eq65nNjGddzTn5CfY9JH0esOwu7Y8Mt_SotmszqfQVNbXcdfmsFfJMRnEcS9kgNNGA5bNtUU7Oq0U3qUsdypB7YK6Y0BKA6bT0TMx0wXIKJst7APO96CO8vBuILriFGNPcJlli78Jkt0Mb-OQr0z7eXSs9JLMxUblTcQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2XHNCm6iEX"&gt;
-GitHub - marmelroy/PhoneNumberKit: A Swift framework for parsing, formatting and validating international phone numbers. Inspired… - GitHub&lt;/a&gt;&lt;br&gt;A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google&amp;#39;s libphonenumber. - marmelroy/PhoneNumberKit&lt;/blockquote&gt;</content>
   </entry>
 </feed>
