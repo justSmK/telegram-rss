@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-25T08:54:33+00:00</updated>
+  <updated>2026-02-25T09:58:09+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to wrap UserDefaults with Observable in SwiftUI https://t.co/1uwOQVXOdK</title>
+    <published>2026-02-25T09:57:40+00:00</published>
+    <updated>2026-02-25T09:57:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26029</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26029"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to wrap UserDefaults with Observable in SwiftUI &lt;a href="https://t.co/1uwOQVXOdK" target="_blank" rel="noopener"&gt;https://t.co/1uwOQVXOdK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;&lt;img src="https://cdn4.telesco.pe/file/cIxIYLfgWj4iNt8gTtoAK7qLIjzz_pYdAlQkyM3koOp8jHfewBVhgdOm8CkWfhAhx4rzxdecDSKLVR7xHndTtUh6L6xecc0RXxXmeNPfOR9MmYnv4uuNOsEdgDbepaLDA3k3TgifwmnBWCGX2Wv0FFEKzoKbwT8uqNeQ5RVpVHS8kJgK0HJwbq4TEAVpnW2bxGJGlmQ6mKMuY-eBEyCpwpc7ma-qbDRIuG9X184Nkpmy1l1eMYE6zqkSwEhfpYNtYvi9yYtszT_fMUqZ7zEZ7U7U1W41q9Lu1rPvtlWV-zoJtRZuZtuNvDkBtA7XB-knmeAMFsGDQ2uuyS0gex6IgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;
+How to wrap UserDefaults with Observable in SwiftUI | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1009&#13;
+SwiftUI’s Observation framework makes reactive UI updates effortless—when a property changes, views that depend on it automatically refresh. But what happens when your data lives in UserDefaults? You might want subscription status, user preferences…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to connect MCP server in Claude Code https://t.co/2E4eb9BhrM</title>
     <published>2026-02-25T05:52:27+00:00</published>
@@ -243,17 +256,5 @@ iPadOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 2 (25E5218f) &lt;a href="https://t.co/8YcmLu0Coy" target="_blank" rel="noopener"&gt;https://t.co/8YcmLu0Coy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;&lt;img src="https://cdn4.telesco.pe/file/ENq05PE324u9eOJIYJj9PzwQM7RMPTQKmYyUgpd09MBYO3BEW-Fr1pTfvE4UHS9vRHaHGGaJsBUexzx4Vo7NGJx7ZMYZVkDdXFmGWmHjomqEJ8GrbvWufOER_mbNPheyRTOeou6QjcuzxPsau_WjoU6hBDs_K5e4GxMM6PMqyZA_k_nIPBemJ5KMkYC2hAoVSWPOamVDVBJz5OvPZM-UM2PHGbZuaNs41Go44NtSudHgpujYz_OqDvtE5bpwnN-81Zb79bJytdvXADDVT6GWrfv7aRYuVVDud7Rn7vTrN_T5eKrpJu9DR99HS-DMzcCKdaJq5UHltdE9pO4bDZuFng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;
 macOS 26.4 beta 2 (25E5218f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">tvOS 26.4 beta 2 (23L5219e) https://t.co/gQwklOFXx6</title>
-    <published>2026-02-23T18:27:52+00:00</published>
-    <updated>2026-02-23T18:27:52+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26009</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26009"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.4 beta 2 (23L5219e) &lt;a href="https://t.co/gQwklOFXx6" target="_blank" rel="noopener"&gt;https://t.co/gQwklOFXx6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;&lt;img src="https://cdn4.telesco.pe/file/JT2MjzZxTcyMoUtGo6QnC7D6f9vNHbfQ-Vbyh5XnA5VpTaD8WWCH05La5b-6GkqHPLQC7CK255njJj72v4LZhaB4bB_TbGQkOOYiUnIZwh4fkkOnZULZXh5Agm85PSBVLZe8H1w4whPlWfAq-6eNilGRplFyo-nUrKa3lo0KaghpkPxd_uL0Ra8tKOxiTjX5361YZlNNGPcdenLzuBTRCmV-Y3Li971Fevirj1sHR2g3rQMm-JIi5laO3NrHqTOsqF4uvhywTXR84M56TDqaYJnA4e_OKAGBIgbZj-uocrDCQsYHwi-BeKd6ZQghUf7qyFHU0Z9QLaTqispUENR_TQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;
-tvOS 26.4 beta 2 (23L5219e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
