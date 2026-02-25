@@ -3,13 +3,43 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/PlrV7SOP4biJYTuv1JAMNObQf4m4Z6trZVth2aawSbQL-v7k7Ej0rrsFxyDPjZHgADqq7wDkrMqvj_Vgf40JzfOlrN-Kw6wVqFTiv9RG-eZdF6R3nw3VvXdBmbhmUhBbjUZBiTGYpfdcrT6WnUvI5JqDGNFE5j90LEBgZSnrO4s3EA3H6xOgAaYZwV0XyCtJJCQogWdgrjNN-zH3xaIoZ8ILpc6orZLNnQ6J2TXDtmI7TBNVQdxlyc1q_JFiWDEPCSkZ8HHuouUpzyQpVr9G7cev_85yC9zm45MgFejzBcxddzDW2ubnlppKvPJptozvFIY36fATglxMePyOwl9Xwg.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-25T04:55:07+00:00</updated>
+  <updated>2026-02-25T06:03:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to connect MCP server in Claude Code https://t.co/2E4eb9BhrM</title>
+    <published>2026-02-25T05:52:27+00:00</published>
+    <updated>2026-02-25T05:52:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26028</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26028"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to connect MCP server in Claude Code &lt;a href="https://t.co/2E4eb9BhrM" target="_blank" rel="noopener"&gt;https://t.co/2E4eb9BhrM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;&lt;img src="https://cdn4.telesco.pe/file/hmsSpT4KUkXewXE1GNTSbLyRzLNM3CxbSvetb_T6Hs5Rb2oHPu_Jf9JRVNM3rFVxBGz4BAVRUAX8X9s5ZUPqU3jqBd1Yle0syZdlJagpgJd9sZM9guy4m0GIhFfyRc1H06CFg8uubLpOVhoszObuc6ZCmAj7glIpG3DMxJJGK2ZfJ3BfLPOcu0LAyhykNYPhfER8WlWqRIs7PDNZ-7GMri-8qx8HndHseAz0OSrXpqzC3XUW5Cl8J5TmGBWEHhyt2NiZ5yjh2Z0FnJcs7C-nn_vNgQdCmodillXMiX4hYDI4pYg_32nGRntActKM7W2jZjvzq5ZTdqQRwS0VYpsyhw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;
+How to connect MCP server in Claude Code | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1008&#13;
+Model Context Protocol (MCP) allows Claude Code to connect to external tools, databases, and services. See the official MCP documentation for more details.&#13;
+Scopes and Configuration Storage&#13;
+MCP servers have three scope levels that determine where…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">How to use Swift Testing https://t.co/pdXWcSQeQD</title>
+    <published>2026-02-25T05:52:26+00:00</published>
+    <updated>2026-02-25T05:52:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26027</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26027"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use Swift Testing &lt;a href="https://t.co/pdXWcSQeQD" target="_blank" rel="noopener"&gt;https://t.co/pdXWcSQeQD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pdXWcSQeQD"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pdXWcSQeQD"&gt;
+How to use Swift Testing | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1007&#13;
+Swift Testing is Apple’s new testing framework introduced in Swift 6, designed to replace XCTest with a more modern, Swift-native API. Let’s explore its key features and how to migrate from XCTest.&#13;
+From XCTest to Swift Testing: The Basics&#13;
+Import…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : opa334/TrollStore https://t.co/kF0zC4z0xU</title>
     <published>2026-02-25T02:17:43+00:00</published>
@@ -225,29 +255,5 @@ macOS 26.4 beta 2 (25E5218f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;tvOS 26.4 beta 2 (23L5219e) &lt;a href="https://t.co/gQwklOFXx6" target="_blank" rel="noopener"&gt;https://t.co/gQwklOFXx6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;&lt;img src="https://cdn4.telesco.pe/file/JT2MjzZxTcyMoUtGo6QnC7D6f9vNHbfQ-Vbyh5XnA5VpTaD8WWCH05La5b-6GkqHPLQC7CK255njJj72v4LZhaB4bB_TbGQkOOYiUnIZwh4fkkOnZULZXh5Agm85PSBVLZe8H1w4whPlWfAq-6eNilGRplFyo-nUrKa3lo0KaghpkPxd_uL0Ra8tKOxiTjX5361YZlNNGPcdenLzuBTRCmV-Y3Li971Fevirj1sHR2g3rQMm-JIi5laO3NrHqTOsqF4uvhywTXR84M56TDqaYJnA4e_OKAGBIgbZj-uocrDCQsYHwi-BeKd6ZQghUf7qyFHU0Z9QLaTqispUENR_TQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gQwklOFXx6"&gt;
 tvOS 26.4 beta 2 (23L5219e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">visionOS 26.4 beta 2 (23O5220e) https://t.co/KhZHWv6GLm</title>
-    <published>2026-02-23T18:27:51+00:00</published>
-    <updated>2026-02-23T18:27:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26008</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26008"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;visionOS 26.4 beta 2 (23O5220e) &lt;a href="https://t.co/KhZHWv6GLm" target="_blank" rel="noopener"&gt;https://t.co/KhZHWv6GLm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;&lt;img src="https://cdn4.telesco.pe/file/n9ifLtdiSeYu4AX70qmKOvysnrUx9HPpLiwhmPhbkqwQQ8AJY02JenlMuuF_qHd5YvXo1YqgoyANuiCU4Ukw6bc1bbkzokRT4uymmLtVF5AyQmueaElT8v_WsGGRQ1ZmB3QqrC9fQtczi_08DkS9XpyhXg2oyns99zV3kNJF0alL54CqXHr9AO7csYwGo3DOSTkZSdtHOvjIa2J9bsbbH2__BeKJnVjsTGYnW_ErO1C1NWLmRAh_YoNZ_e_QbN5v4c0bOsHZPaaXOs6Bnf_kajjvJ_mkYlHV0gELEBYp4OZuK8yt-S6Aa0hoesv4b5ISchJK8seZdOiBPmcq-jo_pQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KhZHWv6GLm"&gt;
-visionOS 26.4 beta 2 (23O5220e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">watchOS 26.4 beta 2 (23T5221e) https://t.co/Gi0yqbPKEl</title>
-    <published>2026-02-23T18:27:50+00:00</published>
-    <updated>2026-02-23T18:27:50+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26007</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26007"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 2 (23T5221e) &lt;a href="https://t.co/Gi0yqbPKEl" target="_blank" rel="noopener"&gt;https://t.co/Gi0yqbPKEl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zr2fkvGYZLX1IG5WZ5Qzuk0xZ-_JVFg-LXHBZ4COzqsNihU1ISUeL451HPh9UTek7FJNO-g-Y9i4qN3CAyFeXAJLlaj861pJoSAiisSxETp6B2tj68fBUQ2Aces6qKPjBcFojb4YqfROWbMwc7hw6b6ZEdbLg6hmrryIB7pwJ7lxW3ZD5g2oRI8ln7dWp7wGVSGr2zSqh7zaxxOOJkI6wmvt6vVmFE9ZBu0m-yogwKZC6QC8DkVVq_s0TQUr_2yyARSch7LZHXKl46Y0uGSJgmKOIq8jDADQTaBJRd9XVXxjH5G0Gx8vaGgRU8kAEdPVq4O6IOI_LQ_i19HjfUCDtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Gi0yqbPKEl"&gt;
-watchOS 26.4 beta 2 (23T5221e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
