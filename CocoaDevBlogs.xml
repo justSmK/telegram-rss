@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-25T10:59:45+00:00</updated>
+  <updated>2026-02-25T11:48:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -146,7 +146,7 @@ Custom Parameters and Animation with Metal Shaders - Create with Swift&lt;/a&gt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator &lt;a href="https://t.co/pc9lcVkujW" target="_blank" rel="noopener"&gt;https://t.co/pc9lcVkujW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;&lt;img src="https://cdn4.telesco.pe/file/gQi8BPjwe73ZNRvGjgPeefI88cI6ntMqrMd9agMe__KBopOsrTmE_v3yVrC7qc1W_JX4BETE0YGbzeS6FH669pQSgTB2EPzTluXQDi992SpBestSsokMTEZt6B24osBpyH_wM2qTKV5gXSGiAIF_jFj8uyEuTSFTUAbMrh93IcGMzuA3_ewfJq1OtIMZvaz_v3bKK5yLYVkZCU1LNKk4ZuQAuyE3ai--IyeFjvhZLdoxG0z7iHfKhuq31QsMjb5n2JyMS9SxxP8gj36-JrWKatCRFnd0KElyAVk4OIB07rrWqYhPX0Y2f1YjQdH5ZIt9cbGeS4A30Pus_dESDGJcPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator &lt;a href="https://t.co/pc9lcVkujW" target="_blank" rel="noopener"&gt;https://t.co/pc9lcVkujW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;&lt;img src="https://cdn4.telesco.pe/file/UgqQ8RjSNaCgRb9ji6L1WATWoql76PIp4SBwxqOoCoUOwUEjpWKIsTz6QzNTslJFx-41nhbPsi107GyBfsI-fUw5MDUMycBZ1Dn6miHuDEGtyrBIqV7VGAgMNOG47rp8fomCq1oTJm8qONIDmjMzL4UPGEV4tlVulG6vGO1i6cmJEAjLz9aXwyfs7lfl9l4nJ0wAPzsLiBzbYMxB6CUIcwqXiKKNNc_duh22cTU7w3qpx3nV3dZcmXrkOJFAHXZEMXnx-sGlis3y2EuwyOVjViOv0vGMK-IjSp9Ve7YYbXy7ksQvQfvJmV-D4PL7xXo4a6JixUDeMnVimYcroKDY7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;
 VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode&amp;#39;s Simulator - SwiftLee&lt;/a&gt;&lt;br&gt;Explore VoiceOver testing with RocketSim&amp;#39;s latest features, including high-quality recordings and AI insights for developers.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
