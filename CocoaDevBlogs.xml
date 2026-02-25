@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-25T13:12:30+00:00</updated>
+  <updated>2026-02-25T14:52:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -134,7 +134,7 @@ Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Custom Parameters and Animation with Metal Shaders &lt;a href="https://t.co/6ppAspth4l" target="_blank" rel="noopener"&gt;https://t.co/6ppAspth4l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;&lt;img src="https://cdn4.telesco.pe/file/mLOhdNpmTSot35ph1YDwhSAZUdUnNGDXBlzE4NrVbl46hEQQvtXdZK7qQaB3H3Y-LE5yw-XCfFsD-f589sscosr7NHObbhe4MRRfXkHvP7VSzT4SGuDXQS4yG0c1jEaCZswMwgPkKLjvlevVOHONp0qpzGubwuRvXsdwPvDpPoyxKxYaQILRFMK1vmTTsmtGjm7DWnT7RVMddR7b63X039dEYuVF0kAWa7IIlN3p8JWdUzTc1MPEm0TcotOGElKugR4mFnsJB9Gj5OqQf_3UezMUa938q750WpCzgtSPyQQi-ivCSzXb3MoQLs3WQoZh6sWsygfdqM7-EOiE0YfX6A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Custom Parameters and Animation with Metal Shaders &lt;a href="https://t.co/6ppAspth4l" target="_blank" rel="noopener"&gt;https://t.co/6ppAspth4l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;&lt;img src="https://cdn4.telesco.pe/file/gQbB-SGaR2jO-ThHHQhTq7jP1atWgBvBkN3lzFSgcaAE8GxvvjrwifRS2S9uaImsBj9tQI7j4btK189W5c97vCJ8vCE4vHaDhWmM0FnaCRU0H0eqAqiBO5SWu2BIdSi7XMd7A6pPnaeEYFs3QbrnZzB0O5wUcot4tLx-rCMboJyW9h60JVQKHqLQTmxJc4GVkA68F06Vrf8QJE5IHcq-QvtMLjxx3vWrubucRos4enWtu3F6bP4qNJTVzFITnWH7OSSuB5JjCzDWY2DfgShthmwqenFO0vWvIJUS4fU1eI0sT59zr7VG4PRhRj1dL7Vg7MoR-pDkcs5SLoz8oF1i2Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;
 Custom Parameters and Animation with Metal Shaders - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to create and use parametrized shaders with Metal and SwiftUI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
