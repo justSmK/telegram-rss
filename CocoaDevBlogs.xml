@@ -6,10 +6,40 @@
   <icon>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SK71cjYg7ALkBKvlLT2R-7bsaqDEZtkhiuiczXNyCQvdLyJe7XO6o9thSXU_ZsAEDFqkAlxeVnl1Al1kH7OT9Mbgr5cOCW0FYe8DvV8bu3g3S6mOuwdQfl0bfdQx5aYlbw71oqjJ2ojHiHenF8hGk3YbzUxGWGbVwG9s69CnnkWUVXgIG8893N3B7rGOq-8g_IfyduzLwGTXahPlIZn1s42JLOldRFzdJ7jLmiM8PzTHclBAc1DGOc6eNgE_Y1WqfDdlf5vcYmeg2YcGknY1khY5jVsvdOV1thXZEs05pF8npw8dGgC2fMrjHSX78T3MP2_UVIP7UVPTZbzYoBaStw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-25T18:00:07+00:00</updated>
+  <updated>2026-02-25T19:17:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">A better way to update UICollectionView data in Swift with diff framework https://t.co/9q0iPAAODR</title>
+    <published>2026-02-25T18:22:30+00:00</published>
+    <updated>2026-02-25T18:22:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26031</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26031"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/jdW3cTpwNaUJ_sisxiHmFcb8dfjMuvr7ZORC9_t5yA-jhNkpmjLpyZHxlZrWxaVH9XJA23gEM495bYuaSnzw15Siak82xOU6UGFZ89gB2cUeaQ_9OLrRFxdH2Rkb0bTOF5P-lmMsCj0aUDN7tKQkuF-l3ciD9tO_R9ImZtU45UVd7B0Vud7zhS0XpVkzpuInYnY-_MqcOVkxOnw-deD1zKJSJ0AcGbzTOlf7xBdY7A5Gq9TPxdPE2BbM9Ls6zcu4qsoW6kLsNHVtPcDyBlbzLYQX8sIRFwKHdLoqFZfoJewScVxBSVBmGrsiV4O3mq-MJJ1ZINwFi3XdMD4UeKJOrQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
+A better way to update UICollectionView data in Swift with diff framework | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1010&#13;
+Medium post https://medium.com/@onmyway133/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86&#13;
+&#13;
+A Better Way to Update UICollectionView Data in Swift with Diff Framework&#13;
+Familiar Friends&#13;
+It’s hard to imagine…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26...</title>
+    <published>2026-02-25T18:07:44+00:00</published>
+    <updated>2026-02-25T18:07:44+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26030</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26030"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 &lt;a href="https://t.co/j7x5zBAunL" target="_blank" rel="noopener"&gt;https://t.co/j7x5zBAunL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;&lt;img src="https://cdn4.telesco.pe/file/syOgbGzCS0EFYTls6KK7LxjAERek4bX6jQMwRK0Wiony4lmH9iVUUQGUc-GzLD1qX2MJ0ySabCjyiWACaXb-ekMXAzGf9Nn8sQThnrez8pveQJWositH6k6dCnJc-Nla1pYGk5D2FvnmrKw66Bp5wK87majrQZaVQ1vxa-SJeno62Pcs-iITDKaGTZN8ps416r_ZQHqvZawqjLrM0JloGEQUVs1HL18MuDTuXk1DZWAbRZDqFW_CbNkk7-gnd2KA0aXonoqAWUtd36MB5BkshCiq9Kegvv0mJAdTu5w9GXnf_kUIii7E1uQnq106Le-E4P_uDF7e3V7iDVTjaFI-Og.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;
+Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
+In this video, I’ll demonstrate how to create a cool Permission OnBoarding interaction with iOS Style Permission Animation using SwiftUI | Permission OnBoarding | Permission Animations | SwiftUI Complex Animations | SwiftUI Animations | SwiftUI…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to wrap UserDefaults with Observable in SwiftUI https://t.co/1uwOQVXOdK</title>
     <published>2026-02-25T09:57:40+00:00</published>
@@ -218,7 +248,7 @@ GitHub - migueldeicaza/SwiftTerm: Xterm/VT100 Terminal emulator in Swift - GitHu
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.4 beta 2 (17E5170d) &lt;a href="https://t.co/vj8rWQ4mNg" target="_blank" rel="noopener"&gt;https://t.co/vj8rWQ4mNg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;&lt;img src="https://cdn4.telesco.pe/file/N_f_APlINpp-PqftEuIpH5sIW9m8dkcWfWUF457oKFQ2NubcrI7wABhybd4N8rYP36FYg1IEc_qOlqSQO_RvJ0k-1txA8NEEj4w0QffxmjRZziIB2kS4r-5LspPNpBucmiJxkToluVLIL5Z2W8wDlmPvv0zpqcKR9xlyvl77VEC-yeYScZEaAork_9Oy9pyCpt93jJCRb2FWh3K5y0WA0RRQlwIRnwtaWOXXKGo7AUWM4z40epYOx8teRrPI-_vdCbUaH9MRUwUmR41XO-BaurABMPDgmvo64C0gH-l3URgiOuQVkYMX9c5g0s5YWu1Z57Z_FDJMzeriRA81oxPBrQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.4 beta 2 (17E5170d) &lt;a href="https://t.co/vj8rWQ4mNg" target="_blank" rel="noopener"&gt;https://t.co/vj8rWQ4mNg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;&lt;img src="https://cdn4.telesco.pe/file/I2pKs8nI60MIRxBHJoJ8ABrwXHFUh2IGzQE8BugffiQFftdolNc5Zx0M520zJRqj5nbm43c7lfcjXhBKs5z2u78-L9BoK3LAZbWC86CJ9R4goZke8JSAH8TdGjEqKuivLSC654kacw9qN_AJKo9Ci5ATu6UVYM-T9B_p7LAVaT8zuk4NIwmEPiF6MfOkCvzcNG_SmmEoeX4ITSuV_mki_GELDfwZeiSaGnN83FErMP-QN8GBcAD1R-YeV4yj5cpZdL7WFi5WhcjYReHmFkNv9mH6oo3UzwDPvt-WlrUSH0MdRw1W1tgb7u-ox9ztRn3Ekz2tRNGEr_PaTuLw1OEhdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vj8rWQ4mNg"&gt;
 Xcode 26.4 beta 2 (17E5170d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -230,31 +260,7 @@ Xcode 26.4 beta 2 (17E5170d) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/pNgigqWlJm" target="_blank" rel="noopener"&gt;https://t.co/pNgigqWlJm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;&lt;img src="https://cdn4.telesco.pe/file/T4-KR8PDhPEuKPpv3VUBpjHLUUDeuBKxfWDaJeu0BURXquxaRxRIhsDwuBR3lwQGM6NtO1458sK_KpoFwXqWc94Bqtzjz7vWmye4BbLUJPNLlsnddnLRBGh__wnQV8CdpwxjxFY0yHyCbnk6HIhZlAf7pHjLl9uPPShLuYcMhxdPWHlDr7XAjaAC0M3kLc8vfBbM35-lv-8lOh3XE8y8n1-eJihe3d6Gc_Sl-BL815OupnRTJUwUvjg2KcDHmNN-9HfQE_xq9khOojvX_f88Ojxm_FmnJ73RrW2i-iHV0R2B6cqcLNk3Q669Q4t6Sh5Vfq1UAo2vkC84Bl9Jd5teNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/pNgigqWlJm" target="_blank" rel="noopener"&gt;https://t.co/pNgigqWlJm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;&lt;img src="https://cdn4.telesco.pe/file/q0s95F0oc8Xsz9py7H7prYpeOkhYPxIIRaiMowhFMw0syPJfBdfGIsrVxsFQI0pkTX9sQv2DRyFUMPtFihvAkl5IMsftbTczbhCFdnJjxKkdvMDJc_5ANiN3e-L8oYj6qhfQncR0GQQN64H-SSHn39te5-hZ1DjhauH_YnnD74rOb2B4iBQIQ4teGB-_uGEEoCxmyROvL4RCROmF-MhVhoZ03GcC8KK6d5OVxypwBnATZ7C5_PDM6G-DHyFnp521Kcu_NNu3K4D6zhM18KdiDVvFK1Ruid1RLwG7Zy8N8sdFRAYOmAvVkyc4a9dyP6bL3CMuxaFvMrZifRsXAHaKPg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pNgigqWlJm"&gt;
 iOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 26.4 beta 2 (23E5218e) https://t.co/bw1bHlaFdJ</title>
-    <published>2026-02-23T18:27:54+00:00</published>
-    <updated>2026-02-23T18:27:54+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26011</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26011"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 2 (23E5218e) &lt;a href="https://t.co/bw1bHlaFdJ" target="_blank" rel="noopener"&gt;https://t.co/bw1bHlaFdJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/I7iutNCeHF9NOvD04kntKZIsWlAk4liyZM1jFbfw54U8xntTTWWW7tlF978ob2bUlXCsjpllUOC99LBs1CviQ4Ua3tBA3PuS5dgT3q491GO6F5WP1dqee8y_j7_yFkkbWXjvhGCzcIjfBcDQ6HcJMtRNQ3Ji9_kq3wjQ7Nx5uLj56HZP67GcfGDpbGVm6MFtocnONBjrkyM_I0tG9xu-nj4-d1w0TgF29Hhos6svD0W-AIMG3ltUZeL7_HFzojpi5Lf67UfxHbjRqFeNJweyRjYh5tX_4AExcFq0POCIx0G3BjhmsoMmsEcyHqUbiZn6lqLUxFK5Q5SVNaKn7hVnKw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bw1bHlaFdJ"&gt;
-iPadOS 26.4 beta 2 (23E5218e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">macOS 26.4 beta 2 (25E5218f) https://t.co/8YcmLu0Coy</title>
-    <published>2026-02-23T18:27:53+00:00</published>
-    <updated>2026-02-23T18:27:53+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26010</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26010"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 2 (25E5218f) &lt;a href="https://t.co/8YcmLu0Coy" target="_blank" rel="noopener"&gt;https://t.co/8YcmLu0Coy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;&lt;img src="https://cdn4.telesco.pe/file/ENq05PE324u9eOJIYJj9PzwQM7RMPTQKmYyUgpd09MBYO3BEW-Fr1pTfvE4UHS9vRHaHGGaJsBUexzx4Vo7NGJx7ZMYZVkDdXFmGWmHjomqEJ8GrbvWufOER_mbNPheyRTOeou6QjcuzxPsau_WjoU6hBDs_K5e4GxMM6PMqyZA_k_nIPBemJ5KMkYC2hAoVSWPOamVDVBJz5OvPZM-UM2PHGbZuaNs41Go44NtSudHgpujYz_OqDvtE5bpwnN-81Zb79bJytdvXADDVT6GWrfv7aRYuVVDud7Rn7vTrN_T5eKrpJu9DR99HS-DMzcCKdaJq5UHltdE9pO4bDZuFng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8YcmLu0Coy"&gt;
-macOS 26.4 beta 2 (25E5218f) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
