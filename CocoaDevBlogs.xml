@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-26T08:53:44+00:00</updated>
+  <updated>2026-02-26T09:54:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -121,7 +121,7 @@ In this video, I’ll demonstrate how to create a cool Permission OnBoarding int
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to wrap UserDefaults with Observable in SwiftUI &lt;a href="https://t.co/1uwOQVXOdK" target="_blank" rel="noopener"&gt;https://t.co/1uwOQVXOdK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;&lt;img src="https://cdn4.telesco.pe/file/cIxIYLfgWj4iNt8gTtoAK7qLIjzz_pYdAlQkyM3koOp8jHfewBVhgdOm8CkWfhAhx4rzxdecDSKLVR7xHndTtUh6L6xecc0RXxXmeNPfOR9MmYnv4uuNOsEdgDbepaLDA3k3TgifwmnBWCGX2Wv0FFEKzoKbwT8uqNeQ5RVpVHS8kJgK0HJwbq4TEAVpnW2bxGJGlmQ6mKMuY-eBEyCpwpc7ma-qbDRIuG9X184Nkpmy1l1eMYE6zqkSwEhfpYNtYvi9yYtszT_fMUqZ7zEZ7U7U1W41q9Lu1rPvtlWV-zoJtRZuZtuNvDkBtA7XB-knmeAMFsGDQ2uuyS0gex6IgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to wrap UserDefaults with Observable in SwiftUI &lt;a href="https://t.co/1uwOQVXOdK" target="_blank" rel="noopener"&gt;https://t.co/1uwOQVXOdK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;&lt;img src="https://cdn4.telesco.pe/file/gYcjVaMevMKAQ0Fls_aW7B0nC8GmyTS-oeZiUErdD8UQaoI7YgpgMXH_GY4XsFppjSMMqLqj7JOBpPkx_El9yt18jx9QdyCJfXjM9x2DIN3TCeAnVwR_E5_1nlMuZmLL55LSEI5zPMxAGC27-CYTMQ-r4lgyTXM2xEz5lpuQvPoDjyQgn-Ymv330ahGpPvL0QG8ObmWc9A7Adkf81iBuy-z8-rn8aYtyIVcBnltGtJ0uLiABdL2m1LlABhe9mR7kbvw7M9kk-lcnMCE1W-zrBNB_DhlUpsle_3MbNR4Q1lD5cNaXVbQ6RxB1Q2EaEISHlN_CYL3vYbmB3DGdHfVn-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;
 How to wrap UserDefaults with Observable in SwiftUI | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1009&#13;
 SwiftUI’s Observation framework makes reactive UI updates effortless—when a property changes, views that depend on it automatically refresh. But what happens when your data lives in UserDefaults? You might want subscription status, user preferences…&lt;/blockquote&gt;</content>
   </entry>
