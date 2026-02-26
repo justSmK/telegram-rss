@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-26T05:59:33+00:00</updated>
+  <updated>2026-02-26T07:12:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output...</title>
+    <published>2026-02-26T06:47:51+00:00</published>
+    <updated>2026-02-26T06:47:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26037</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26037"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output &lt;a href="https://t.co/qMYkKqx0SB" target="_blank" rel="noopener"&gt;https://t.co/qMYkKqx0SB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qMYkKqx0SB"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qMYkKqx0SB"&gt;
+Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output - Vova Ignatov&lt;/a&gt;&lt;br&gt;How I doubled my output as a senior iOS engineer using coding agents daily for 8 months.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : onfido/onfido-ios-sdk https://t.co/cJ71aosNFK</title>
     <published>2026-02-26T02:12:29+00:00</published>
@@ -250,17 +262,5 @@ VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode&amp;#39;s Simulator -
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : geode-sdk/ios-launcher &lt;a href="https://t.co/JN03ue4gko" target="_blank" rel="noopener"&gt;https://t.co/JN03ue4gko&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JN03ue4gko"&gt;&lt;img src="https://cdn4.telesco.pe/file/qVtLXd88lo3KIVwWiK7BKFDAjJKCuif8IvKQkmhg398J3-a_HLGlMtbBWKVswXF27DrGfrexsVQIMh_R31SC1lYYsF-9agMej_O9bjnp2XVSHILNvcoW0zyIXbGp0AsgboFYXD6mnuIQuznkKbU1Ivf2DXyum1vNNp3u99GOrc00RLle11_ou6CmHe6RDdwIwubLf-cEsAuND-3NG4ymv1TeI_ON67r9HMi1cFKK_FxNoVFPXGPrlqmGr0N6DvJ89ps7TYNovuPGNKOEnhAMJK0Aq_GZ3hfIGY1uTt-0N_SPcXUYccEdqlAbGQiEXSgKm3Z8s1xn619-VH3DVz7UAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JN03ue4gko"&gt;
 GitHub - geode-sdk/ios-launcher: Manages installing and launching Geometry Dash for iOS - GitHub&lt;/a&gt;&lt;br&gt;Manages installing and launching Geometry Dash for iOS - geode-sdk/ios-launcher&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : argmaxinc/WhisperKit https://t.co/gAHpexUDxM</title>
-    <published>2026-02-24T02:12:34+00:00</published>
-    <updated>2026-02-24T02:12:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26017</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26017"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : argmaxinc/WhisperKit &lt;a href="https://t.co/gAHpexUDxM" target="_blank" rel="noopener"&gt;https://t.co/gAHpexUDxM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gAHpexUDxM"&gt;&lt;img src="https://cdn4.telesco.pe/file/p10Brr4smBwt0GF1_9t5a69De1ztfOGm5jGPj4LI2z9TBNpd1F0FUIHPtZe9YNDWP7twGqbia07jcKnvCMPdl7WzX6A_fjVXZ50CW8W1rACXOcGknC87xHdL0VAcCw7VNhNSOLHirlAn9u8L9heX1-jiOKSViRVzg1Lus_9PV-ohPFWki9TTHO_ycVOXCd7UAtoP_kmbeciBnTJhAyvTYmz0FHy6uyJWhGT5Qdoo9YnuKKuT_jtlVbybm6yxjZhtgifxs3MltwblPAy99xqHf_BVxTB4GD7Kvd0fzzR0xohPsWyjp9ZNSmehr-It5ieCTxdNaIi3qHxV1ToRHL3ERQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gAHpexUDxM"&gt;
-GitHub - argmaxinc/WhisperKit: On-device Speech Recognition for Apple Silicon - GitHub&lt;/a&gt;&lt;br&gt;On-device Speech Recognition for Apple Silicon. Contribute to argmaxinc/WhisperKit development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

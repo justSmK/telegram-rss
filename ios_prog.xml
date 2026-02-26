@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/FXKT3Unwm38RedWPfhu9wAnDbqBGIKdyNg2P2aqtIsrdPAdLe5wS0NfLvKZlCPV8LrVhGUaUHLk4C6f7hNTXXFCv8Kn43liURxtQOZ65KQNS303Oj7aVJotOzM9Ye1Z3JkWKKJzGqLDbUYyS522vuQMCFqmQbd6fJCRn9I9l3gzlOR5oecIQ9av6b8fkyycDfp9PzF_znVc4YAommekVYKuqbtdyCwcc5FelGqqmO08bdna0tQRNiJ4vFJoOJQS6tXameiLHcuIdvdNGRmxzYbBKkli5WEobhO4DoG72THTeVLzXHVH87T3QRN5Xly_NukYAQd69fi5di_1JWXxn7w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FXKT3Unwm38RedWPfhu9wAnDbqBGIKdyNg2P2aqtIsrdPAdLe5wS0NfLvKZlCPV8LrVhGUaUHLk4C6f7hNTXXFCv8Kn43liURxtQOZ65KQNS303Oj7aVJotOzM9Ye1Z3JkWKKJzGqLDbUYyS522vuQMCFqmQbd6fJCRn9I9l3gzlOR5oecIQ9av6b8fkyycDfp9PzF_znVc4YAommekVYKuqbtdyCwcc5FelGqqmO08bdna0tQRNiJ4vFJoOJQS6tXameiLHcuIdvdNGRmxzYbBKkli5WEobhO4DoG72THTeVLzXHVH87T3QRN5Xly_NukYAQd69fi5di_1JWXxn7w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-02-26T05:59:40+00:00</updated>
+  <updated>2026-02-26T07:12:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Создание тоста в SwiftUI за 5 шагов&#13;
+&#13;
+В SwiftUI до сих пор нет...</title>
+    <published>2026-02-26T06:05:53+00:00</published>
+    <updated>2026-02-26T06:05:53+00:00</updated>
+    <id>https://t.me/ios_prog/717</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/717"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/sozdanie-tosta-v-swiftui-za-5-shagov.html?amp=1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Создание тоста в SwiftUI за 5 шагов&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;В SwiftUI до сих пор нет встроенного компонента для всплывающих уведомлений (toast). Существуют оповещения (alert) и всплывающие окна (sheet), но они, по своей сути, являются модальными. Тост решает другую проблему: оно предоставляет кратковременную обратную связь, не прерывая рабочий процесс пользователя.&lt;br/&gt;&lt;br/&gt;В этой статье вам расскажут о практическом способе реализации всплывающего уведомления в SwiftUI. Решение является лёгким, многоразовым и работает поверх всего пользовательского интерфейса приложения.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://apptractor.ru/info/articles/sozdanie-tosta-v-swiftui-za-5-shagov.html?amp=1"&gt;&lt;img src="https://cdn4.telesco.pe/file/MdvsoEeEStqAkGa6QVEQtz34NaxbuKVLNmeKEpojMQ7T2bJevunoF771OBzJpiPXwxYA9SC29jJ1UDwAKBsy54zXtmU5fMBVy_KFzOqZoG0HCcGErG4f3cVtFXGIYK9I4yhg2WEPyJ6iuofUdbKXdmyXEqNa948Dmsozm4JTqR065_obuTBrZo_B4asnMTQaoWvvVYH6Gm2AhgCTr2uqodODAuPF9P42bjNWZn2Hp1APhkNP8hsg-Xr2qap7kJzzgBPClfN0oLK8iPRcRxkm1rYOtMCODNeuJMuh1HecRR8gwmGUK8KWV9jyTSlhaS9N1B0cBrkaEjgTNYU-VizCdw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://apptractor.ru/info/articles/sozdanie-tosta-v-swiftui-za-5-shagov.html?amp=1"&gt;
+Создание тоста в SwiftUI за 5 шагов - AppTractor&lt;/a&gt;&lt;br&gt;В этой статье я расскажу о практическом способе реализации всплывающего уведомления в SwiftUI. Решение является лёгким, многоразовым и работает поверх всего пользовательского интерфейса приложения.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Ошибка на 12 миллиардов долларов: почему Apple отказалась...</title>
     <published>2026-02-19T05:50:51+00:00</published>
@@ -235,16 +249,5 @@ Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/698"&gt;&lt;img src="https://cdn4.telesco.pe/file/ItYZFXcInoh-DmXldXuOjrZ5o1V_zjTHqCHvm9khHW14_4Ee4iutifbNiJoySw8ecoKq24d4q0xNXIXOXT-cmTAO7rW9hZdXpIvCxrAQUQxa0TwApsuUr_3tw0eFusBB6B7jIELIGkvvFi57XZWCkQ3jHvAhVjWs6XRdzWSzBKETooLpZyL4DS-b48W_Pv2otc2FJ5_lCSYQyM6gSK3dyARqsmaNajJ60DACoLfkto6PcjR-cJadEYRX2lC-pXvmr-7L-aEeBI2_qzhLFKSi-EShyK6jA1P1V7n61-hu4WGAuTI0tmONoE-mRdCM-DyZsp0doBJn0pZmlfTVwPuXDw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/ya-sokratil-potreblenie-pamyati-swiftui-na-80-s-pomoschyu-odnogo-kontrintuitivnogo-tryuka.html?amp=1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Я сократил потребление памяти SwiftUI на 80% с помощью одного контринтуитивного трюка&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Иногда решение сложной проблемы — не в тоннах нового кода, а в одном правильном понимании.&lt;br/&gt;&lt;br/&gt;Делимся историей: автор был готов забросить SwiftUI из-за растущего потребления памяти и постоянных сбоев. Инструменты не давали соврать. Прорыв наступил, когда он осознал ключевой механизм работы фреймворка.&lt;br/&gt;&lt;br/&gt;В этой статье — не магия, а конкретное и работающее изменение, которое кардинально улучшило стабильность приложения.&lt;br/&gt;&lt;br/&gt;Цифры говорят сами за себя.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🍏 Таким был бы iPhone 17 Pro, если бы Apple выпустила его в...</title>
-    <published>2026-01-15T16:02:34+00:00</published>
-    <updated>2026-01-15T16:02:34+00:00</updated>
-    <id>https://t.me/ios_prog/697</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/697"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/697" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/697"&gt;&lt;img src="https://cdn4.telesco.pe/file/cecMq2tb-4NNfLfWGcFNyUwZh_Zy2nLcKURmFYjYaynvcjyaF4hoX1cz7DI3HVIyhJTTeaWtvDuaNbjY8HOxdyErdHoAhVlTXPUCvxIINIfjcP3wYnkEvnATYwdhi9hzLbr8HrJBgiIz2Amvvw7phuIBd1ukZw1PzwDG9XbvqN9mo0N5ZogfybsKf0zrJ4wlsKY8dMozcvxtKS4K4sd6LRKUYvQqvjA9bTZ8QKUtb_-ao_wwLAsoN_xAxFRIbaSTZaR1nzq16DVhI352uDXvOtlkt4L_kE8CQcBDvRflfKaFlcFNGCY1RHQ7JScx8jEjTTkQIDlG1zQAYcbQGtaEhQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5019557471727911633"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Таким был бы iPhone 17 Pro, если бы Apple выпустила его в корпусе из титана и стекла, как раньше.&lt;/div&gt;</content>
   </entry>
 </feed>
