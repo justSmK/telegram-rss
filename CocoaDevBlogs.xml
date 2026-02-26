@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-26T17:04:31+00:00</updated>
+  <updated>2026-02-26T18:56:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Xcode 26.3 (17C519) https://t.co/poWPkZ8XFI</title>
+    <published>2026-02-26T18:27:49+00:00</published>
+    <updated>2026-02-26T18:27:49+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26038</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26038"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/v6-J5d6c90nAQY1Z0F0Rh-UPa_lhJiQ0SUma_0T0367OyDfynMZEC1cBUqXVZm_8DTXlXNlEhZUi6aomFl9L48nO_ShQ2kvO_2tfjxM_aOM0UJ8iJgXDCRYqWB3i6H0Vk93_Z0P72Lh1AHyFE8aepC6fFKIiZ5PbSOcYCqGTlDq8WJrsv19sFE4KOhjDVMpz2RWAqF-I8PAyGh2aYZdEz7LGBlzi7InROnb5FsvOGwxgF77Xkg41oJ353ATRyrVyjCt18NHwavgjFcHgdkfGm2o5oW2pcau0_8kQ6Gw14EF4EM69h7MgDD4pidnoZCn8pVq9D_yKWaN_RuDH9yl3TA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
+Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output...</title>
     <published>2026-02-26T06:47:51+00:00</published>
@@ -91,7 +103,7 @@ GitHub - claration/Feather: Free on-device iOS/iPadOS application manager/instal
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/jdW3cTpwNaUJ_sisxiHmFcb8dfjMuvr7ZORC9_t5yA-jhNkpmjLpyZHxlZrWxaVH9XJA23gEM495bYuaSnzw15Siak82xOU6UGFZ89gB2cUeaQ_9OLrRFxdH2Rkb0bTOF5P-lmMsCj0aUDN7tKQkuF-l3ciD9tO_R9ImZtU45UVd7B0Vud7zhS0XpVkzpuInYnY-_MqcOVkxOnw-deD1zKJSJ0AcGbzTOlf7xBdY7A5Gq9TPxdPE2BbM9Ls6zcu4qsoW6kLsNHVtPcDyBlbzLYQX8sIRFwKHdLoqFZfoJewScVxBSVBmGrsiV4O3mq-MJJ1ZINwFi3XdMD4UeKJOrQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/h0xoqUHefx1aH9WZgfvpmRwepwtxAvsJmyULVbircSBjQWt8cb2q4DsDVYH2mQjlXhnIXlAh9rOCBtSeNhDFKM7choLXF1VyaFuwmV7Orslx41a5mT3cG5OYNF1v6IRDDaijFHLkblQ82XfWbPvRbak3EwgHHdFlK5hiljlR_suioW0NuRVnTTohWFpUHH1ovKYYtqkywIfpddmgGSeqwbuRvMrdrVBqR_RIAmqwQy13S3Lam8xe7I6TeEJ4YPilhskoufatJC54BJPQYwNUIuPzc24FoylMtz96rf_uCmHcu64C7ZqQTm8sFXsZ93OR2liMsH3IKhLyrFbnG-RkGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
 A better way to update UICollectionView data in Swift with diff framework | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1010&#13;
 Medium post https://medium.com/@onmyway133/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86&#13;
 &#13;
@@ -108,7 +120,7 @@ It’s hard to imagine…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 &lt;a href="https://t.co/j7x5zBAunL" target="_blank" rel="noopener"&gt;https://t.co/j7x5zBAunL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;&lt;img src="https://cdn4.telesco.pe/file/syOgbGzCS0EFYTls6KK7LxjAERek4bX6jQMwRK0Wiony4lmH9iVUUQGUc-GzLD1qX2MJ0ySabCjyiWACaXb-ekMXAzGf9Nn8sQThnrez8pveQJWositH6k6dCnJc-Nla1pYGk5D2FvnmrKw66Bp5wK87majrQZaVQ1vxa-SJeno62Pcs-iITDKaGTZN8ps416r_ZQHqvZawqjLrM0JloGEQUVs1HL18MuDTuXk1DZWAbRZDqFW_CbNkk7-gnd2KA0aXonoqAWUtd36MB5BkshCiq9Kegvv0mJAdTu5w9GXnf_kUIii7E1uQnq106Le-E4P_uDF7e3V7iDVTjaFI-Og.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 &lt;a href="https://t.co/j7x5zBAunL" target="_blank" rel="noopener"&gt;https://t.co/j7x5zBAunL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;&lt;img src="https://cdn4.telesco.pe/file/IlUF-Cr5FVQjozRYcKimjQf02gkveiLYiiNow5bwVfxax1mnMcTAyb2IESoTfqU4SDwN6NyhRKm_49A4RgB7tidfs2jhuL2rNBVEHr1rMe4xm4AbRyc7yNBe-uotBhYZfBQw_MEFYUQy2_o4yBisl-0hq5Rnj45py-gX5aiDGXVG-h3ZFtfCfomjEyQ58rd4WhpGA5i-K91CLLWvDYMnhCpH2x_RwelYmFJE6YvZxRWYHDirRILQ31TugGB8us-LSuCVZWPO6vnALp3kpikwywL1D6MykxFe5o5LLK4MpjpO3a3__Xuq6oPGAuwZqZ9L_IlRTL5foIWb2rRauLn0OQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;
 Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to create a cool Permission OnBoarding interaction with iOS Style Permission Animation using SwiftUI | Permission OnBoarding | Permission Animations | SwiftUI Complex Animations | SwiftUI Animations | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
@@ -250,17 +262,5 @@ Custom Parameters and Animation with Metal Shaders - Create with Swift&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator &lt;a href="https://t.co/pc9lcVkujW" target="_blank" rel="noopener"&gt;https://t.co/pc9lcVkujW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;&lt;img src="https://cdn4.telesco.pe/file/OIPHU31p-jSd72IhvlML1eBR5smf8DltjOzSj0eBTK_hauxdpWeDaCdSdhv3YJiKNWYE5ZI3Jgpn18szPE6R17OSqTPq-4W1x87RIAiCNSsDGEVDhXU_Tt2atyfaLsy-eGdorj84L_FDNiNjIsKquDJVA-Sskqo14At5cPTWAXQBaw_MxT-QTnc2-5LL1gDwB9BhRNbpEzuN_ZojFA2NE7C4yHk6E3P2C-VGISQf4OZoi0CxqQMl0XHHj5gVHruJ6VNb59shghqDSX6ABDZhBFpo8PA-Btks0GKq5lHpbGEzeTr4GGrh68PAN3-yYM9ynCuHbV3f6NAKO6vVcYQDJw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;
 VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode&amp;#39;s Simulator - SwiftLee&lt;/a&gt;&lt;br&gt;Explore VoiceOver testing with RocketSim&amp;#39;s latest features, including high-quality recordings and AI insights for developers.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : geode-sdk/ios-launcher https://t.co/JN03ue4gko</title>
-    <published>2026-02-24T02:12:35+00:00</published>
-    <updated>2026-02-24T02:12:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26018</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26018"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : geode-sdk/ios-launcher &lt;a href="https://t.co/JN03ue4gko" target="_blank" rel="noopener"&gt;https://t.co/JN03ue4gko&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JN03ue4gko"&gt;&lt;img src="https://cdn4.telesco.pe/file/qVtLXd88lo3KIVwWiK7BKFDAjJKCuif8IvKQkmhg398J3-a_HLGlMtbBWKVswXF27DrGfrexsVQIMh_R31SC1lYYsF-9agMej_O9bjnp2XVSHILNvcoW0zyIXbGp0AsgboFYXD6mnuIQuznkKbU1Ivf2DXyum1vNNp3u99GOrc00RLle11_ou6CmHe6RDdwIwubLf-cEsAuND-3NG4ymv1TeI_ON67r9HMi1cFKK_FxNoVFPXGPrlqmGr0N6DvJ89ps7TYNovuPGNKOEnhAMJK0Aq_GZ3hfIGY1uTt-0N_SPcXUYccEdqlAbGQiEXSgKm3Z8s1xn619-VH3DVz7UAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JN03ue4gko"&gt;
-GitHub - geode-sdk/ios-launcher: Manages installing and launching Geometry Dash for iOS - GitHub&lt;/a&gt;&lt;br&gt;Manages installing and launching Geometry Dash for iOS - geode-sdk/ios-launcher&lt;/blockquote&gt;</content>
   </entry>
 </feed>
