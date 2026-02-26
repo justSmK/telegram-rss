@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/vzr2LsJpLYe-UuDRFIORauUv7BrTvqmQt5FggXwh7B48b4TBuIKgVGf3yY74N2k5mUPqKto1ltIKRPS5A1dWS3TZIYZLMBqt4ejjQ7y1XgqSwkZEs9dLcrNlYzdEUTe3o8jboT-wa_kP85Ch-QMpmg1ZOhZLTQxmnaeOdQyjuHlubClxrRv3irU4NLdL5ckg7C68fIqvz30FP9GB2DFdnfo0fDbdx3y2gF8DeP-uQsoIWmzxJYmvt40wkRnqycp2c6KGpBDc_bsF-PAiMaOfHWExdu-FjiljlnjlwDu5zPQErUMeFTbz3ax4_PN9tUwgxss2DsgaDFUNxfWeNF9UsA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vzr2LsJpLYe-UuDRFIORauUv7BrTvqmQt5FggXwh7B48b4TBuIKgVGf3yY74N2k5mUPqKto1ltIKRPS5A1dWS3TZIYZLMBqt4ejjQ7y1XgqSwkZEs9dLcrNlYzdEUTe3o8jboT-wa_kP85Ch-QMpmg1ZOhZLTQxmnaeOdQyjuHlubClxrRv3irU4NLdL5ckg7C68fIqvz30FP9GB2DFdnfo0fDbdx3y2gF8DeP-uQsoIWmzxJYmvt40wkRnqycp2c6KGpBDc_bsF-PAiMaOfHWExdu-FjiljlnjlwDu5zPQErUMeFTbz3ax4_PN9tUwgxss2DsgaDFUNxfWeNF9UsA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-02-26T02:24:31+00:00</updated>
+  <updated>2026-02-26T04:53:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -247,7 +247,7 @@ Apple ежегодно обновляет API MapKit,...</title>
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosdev/1853"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ben6583oUBp9L5calbrmSLnO06cXD0bsILi-N9JUeqISGhBwCZx2jN0NACtJcm4LaETht33hHIAd6WV0UMPJwJlI_QeSjPb8hYFGfmMr7V8gB9zwtS-T8MLiskjTlO3cj4qPJ8smbljQNMZ6gvvBlqgUC_bI2gh3SceqXVT0JNRdlhfHwdN91W_4zf3ZVKI8613RsXxbCCsO6SmpI2PiP8rDU0COY0-bMRqT0vCc-vL7yPCtpmoD_9gz0PuFsYX5UZWe3ofrPIw4SmWjEzQBrDiVZqpzfkg9DUEUNEsQgNQ7JvngpbiLo2OchOPKlgN6L0NA286cXMPZxdI8coYgDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Просто напоминание, в Матрице плохих парней называли &lt;i&gt;агентами&lt;/i&gt;.&lt;br/&gt;&lt;br/&gt;25 лет спустя они уже здесь.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosdev/1853"&gt;&lt;img src="https://cdn4.telesco.pe/file/gANt47UsPaupbYItDcfMtRmTJxC2LXO6fRfbFVMMvAPJ5iyAOdpjZpjkM43Hh3P7DvceBDswdyoVsDtAH5wj_6rlmNS2DSXcmggmv1eYd8-cXYbAHB4g2hdqhsKIBQJz0cZQYsMrMOzegWgSW7_DApvp7dLJH1Gqka-XwpLfY9vMu-vdYcUCJ--4ZdZKq4SlMtYZ0nCVQFi97u_JTPsx_xi2BC04K-pDHGrzxLlJ_xqemV-ZlikYE5HQux-a_SA4iLyMso_Z4NEkzan0ySbIH1FgIUGuXOTaUuPvS774fHvOnSc3cPZnbsS2fXhr_tEkER6awvPYWiOACnF1gr9d_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Просто напоминание, в Матрице плохих парней называли &lt;i&gt;агентами&lt;/i&gt;.&lt;br/&gt;&lt;br/&gt;25 лет спустя они уже здесь.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Универсальность использования Tasks в Swift&#13;
