@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-26T21:35:08+00:00</updated>
+  <updated>2026-02-26T22:37:15+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Connect Update https://t.co/kGZRDJWTi4</title>
+    <published>2026-02-26T21:37:30+00:00</published>
+    <updated>2026-02-26T21:37:30+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26039</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26039"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/kGZRDJWTi4" target="_blank" rel="noopener"&gt;https://t.co/kGZRDJWTi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kGZRDJWTi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/ILEByhHEcl-bx9CNTVLj0HYe2ZJIVHpIT-WUrsyyWOS6h94A6G_lM6526YtbXptJhmbBfZRpY5xdTjnOhysEnJ4AyNxaZ2_-3irIEBOHRR3KJtnLPtWd3qBYSD9AbSX20KIMROEQrqlyWZ4Fq104aJxAVhd0CtSD5_nSguXQLA-c0AkVLhQdcg_aMYL0MmAe3LAQFFsB24x_CMGkbPlZ_oaAo4Cy7ex8fO83_7dUYfCN5bG-TBwfpImo-F410MugX2IDF7W7tff27Dyq0Nr_WnraBvM-qryvoX7SqtiWmZht0jxESwfXimwBDhEybi85F_PBsittUuGcgYTpeSOdtw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kGZRDJWTi4"&gt;
+App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Xcode 26.3 (17C519) https://t.co/poWPkZ8XFI</title>
     <published>2026-02-26T18:27:49+00:00</published>
@@ -224,7 +236,7 @@ TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View r
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/Bi4SbXKtpF" target="_blank" rel="noopener"&gt;https://t.co/Bi4SbXKtpF&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZMXGFDk-KdziDqyEZL4KDFDtFmaJeBj2z7WelT7JyWcGzX3ND82yRZ433FWxTnKFOhCLY4MH-PzxJQhV7NCHH0slBrsHI1PamFcOYTBfMpifnTS6ow25tZXR88yUROWAjSMMYzucfu0fH53JfvufYQtA0DwJDn5kzxiopiT8SK_v7nqtLtIATgpGmoiVfb9Ta-q8lkEhEEFQWgIBGtdEQfpo-dCPI9MbapCTR3D7LcCsMUICTBWxuNWqQWP9iT6cXLCX7G1HR3YOlh88BPb84VOtlYWcyc8ch-gTq0IBdLqkXsXtEffutpxISKtdRtRAxHY39S8ID3hRa2DfdZCxhQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/Bi4SbXKtpF" target="_blank" rel="noopener"&gt;https://t.co/Bi4SbXKtpF&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;&lt;img src="https://cdn4.telesco.pe/file/oGBgu8mQRfLPPnvKGDYY104v9bC7KrbprJfFRoYBk8Ka4KSzN9sPuITdQZ3Yb1I5i368TSZ33ov4K91-xqtVwJ6fjrVCnM-3cjyTgB3gWNE0p8at-wkwH7ewFbKaG-Tnwi_pDTf9Odf6_0HSc00TtVMvo1APN70qOvGmExa8XJ6yOPN8BKbcZUs4cvX6H6JhxgqWTpkONM0NnImIHLbIN8PHDg3r35UmmaeNvOTOdbpURDKzqc5kDbsHWhUT_zYPGkqR20QP-kmZtosFE3zCTwKuEOS7hs_Ga-5r1J0ByaMZBbhn4oSYi52lJHN7-QcrltesOvXJA8aljdyWVL2nbQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;
 New iOS 26 Style OnBoarding Animation Using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -250,17 +262,5 @@ Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Custom Parameters and Animation with Metal Shaders &lt;a href="https://t.co/6ppAspth4l" target="_blank" rel="noopener"&gt;https://t.co/6ppAspth4l&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;&lt;img src="https://cdn4.telesco.pe/file/SO9TSUKweNMhndrX-vOJSVMqwgCiA4UG1LqNQQJDZmhAL7w3QmUpzYkrpMzBzOK9NPHPHYoNfqHPx6u-JGKpfO_1-LZXnExyKRmuFXlrmD6BfegdcGsIiAhEBUA16pE91ANEmnN_azOGa0yqcCRs9GPDqAR7rsmY3kG0KaToGBYibBxgVMyrWri7nwupHJYK0bt7_il7N1wJMNJQh9upm2lTrbbnGIqhaS0bL39dephSC2Kyd55YGhSZwP1O_q0x_atB5hUwmcvQ-hrZS_wUbdlQ6RgIGs34-YWyI1zCa8vp08LCNHwEivCw5yIB-2citzb4bPvhgaH932UriSRrug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6ppAspth4l"&gt;
 Custom Parameters and Animation with Metal Shaders - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to create and use parametrized shaders with Metal and SwiftUI.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator https://t.co/pc9lcVkujW</title>
-    <published>2026-02-24T11:17:35+00:00</published>
-    <updated>2026-02-24T11:17:35+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26019</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26019"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode’s Simulator &lt;a href="https://t.co/pc9lcVkujW" target="_blank" rel="noopener"&gt;https://t.co/pc9lcVkujW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;&lt;img src="https://cdn4.telesco.pe/file/OIPHU31p-jSd72IhvlML1eBR5smf8DltjOzSj0eBTK_hauxdpWeDaCdSdhv3YJiKNWYE5ZI3Jgpn18szPE6R17OSqTPq-4W1x87RIAiCNSsDGEVDhXU_Tt2atyfaLsy-eGdorj84L_FDNiNjIsKquDJVA-Sskqo14At5cPTWAXQBaw_MxT-QTnc2-5LL1gDwB9BhRNbpEzuN_ZojFA2NE7C4yHk6E3P2C-VGISQf4OZoi0CxqQMl0XHHj5gVHruJ6VNb59shghqDSX6ABDZhBFpo8PA-Btks0GKq5lHpbGEzeTr4GGrh68PAN3-yYM9ynCuHbV3f6NAKO6vVcYQDJw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/pc9lcVkujW"&gt;
-VoiceOver Navigator &amp;amp; 120 FPS Recordings for Xcode&amp;#39;s Simulator - SwiftLee&lt;/a&gt;&lt;br&gt;Explore VoiceOver testing with RocketSim&amp;#39;s latest features, including high-quality recordings and AI insights for developers.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
