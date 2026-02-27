@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-27T17:38:46+00:00</updated>
+  <updated>2026-02-27T18:50:17+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -79,7 +79,7 @@ App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/v6-J5d6c90nAQY1Z0F0Rh-UPa_lhJiQ0SUma_0T0367OyDfynMZEC1cBUqXVZm_8DTXlXNlEhZUi6aomFl9L48nO_ShQ2kvO_2tfjxM_aOM0UJ8iJgXDCRYqWB3i6H0Vk93_Z0P72Lh1AHyFE8aepC6fFKIiZ5PbSOcYCqGTlDq8WJrsv19sFE4KOhjDVMpz2RWAqF-I8PAyGh2aYZdEz7LGBlzi7InROnb5FsvOGwxgF77Xkg41oJ353ATRyrVyjCt18NHwavgjFcHgdkfGm2o5oW2pcau0_8kQ6Gw14EF4EM69h7MgDD4pidnoZCn8pVq9D_yKWaN_RuDH9yl3TA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/ADPzcRpAU7cZEefVDQByAnesNMg73lgA-bmwwzrTF0Y-Wt3tOQ3Ij2VrW2Wzt8fBp6bE-2VV781iNQxubi1_NwR34Itlhq_aEzPld1gGhZr5hClyZ99Ppx2rC3TZ0xEXwpMC5fuB2irjTRPNe0SPyEzriJeZ4s2dnACy1USKtLQBbzrT2BQ2TpGt3mhZXxarGznX4QBXZv7-lnBK042jQMwbhF8EdN7IbwO60Vblzmk4OL6NbBTziFBhSJ1U9t87a_1Q5xOkB9rt6wOEwv-CXpBLCExvqtLsNc8YfPOFc5SzuA2fyL4Pyk1y7wwcDyvub6t7u0FM5rNzfYSsUGHs9w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
 Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -163,7 +163,7 @@ GitHub - claration/Feather: Free on-device iOS/iPadOS application manager/instal
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/h0xoqUHefx1aH9WZgfvpmRwepwtxAvsJmyULVbircSBjQWt8cb2q4DsDVYH2mQjlXhnIXlAh9rOCBtSeNhDFKM7choLXF1VyaFuwmV7Orslx41a5mT3cG5OYNF1v6IRDDaijFHLkblQ82XfWbPvRbak3EwgHHdFlK5hiljlR_suioW0NuRVnTTohWFpUHH1ovKYYtqkywIfpddmgGSeqwbuRvMrdrVBqR_RIAmqwQy13S3Lam8xe7I6TeEJ4YPilhskoufatJC54BJPQYwNUIuPzc24FoylMtz96rf_uCmHcu64C7ZqQTm8sFXsZ93OR2liMsH3IKhLyrFbnG-RkGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/IMCb8J4SHqzHq4Tn_jrL9HGl0M5S8BNxrpQlgLfM6HwN5CbF0SUpCaYeDEAoQXPy97l1yeY-m1sCeKkD7Wp6-D2l_Za7iTk8pyy77j16HPE9M4rQdqaMNGf04GO4QWCJi90H2baS_hxoJ4ZlK0_b4YgvqY67Gqz14EyMgsEwRZ0OSQsqMtZlzdlKaeURA-hAtTq8YeMJQiNgZHbl5lv0wjSNPEeIEENU4KBhr4uRRFwCay31Sj5iyBfpw_PjB3kR8XOWl9pkqaNKqcFD7ALR2t3nNIPdtesDWeLF_TVl1fJSz-vLeXeQgjL8lVbCKxJsNgjREgGuduINC0oXrnsR2A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
 A better way to update UICollectionView data in Swift with diff framework | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1010&#13;
 Medium post https://medium.com/@onmyway133/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86&#13;
 &#13;
@@ -180,7 +180,7 @@ It’s hard to imagine…&lt;/blockquote&gt;</content>
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 &lt;a href="https://t.co/j7x5zBAunL" target="_blank" rel="noopener"&gt;https://t.co/j7x5zBAunL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;&lt;img src="https://cdn4.telesco.pe/file/IlUF-Cr5FVQjozRYcKimjQf02gkveiLYiiNow5bwVfxax1mnMcTAyb2IESoTfqU4SDwN6NyhRKm_49A4RgB7tidfs2jhuL2rNBVEHr1rMe4xm4AbRyc7yNBe-uotBhYZfBQw_MEFYUQy2_o4yBisl-0hq5Rnj45py-gX5aiDGXVG-h3ZFtfCfomjEyQ58rd4WhpGA5i-K91CLLWvDYMnhCpH2x_RwelYmFJE6YvZxRWYHDirRILQ31TugGB8us-LSuCVZWPO6vnALp3kpikwywL1D6MykxFe5o5LLK4MpjpO3a3__Xuq6oPGAuwZqZ9L_IlRTL5foIWb2rRauLn0OQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 &lt;a href="https://t.co/j7x5zBAunL" target="_blank" rel="noopener"&gt;https://t.co/j7x5zBAunL&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;&lt;img src="https://cdn4.telesco.pe/file/QZ_2ST6esggIEUTV2Yq8zGNPnV96ZxoaxF8sxHoMp5QQm_wcnsOA8698gQAo-ZWP4lkVog9rall-ljVqnKKob_wrLmeWuJRP6Eotu7eT7cBP_KjhOqZvDj23W7I4cIV5MXE8si9C9029McoN-xmFaAoeYv445yG0i00sFEw95Oza6xPmukdjx_x-44mm-z7T3eCDP2wBOqthDhqOo6NEpQWpFfVtJBYIAn6dGQ-30pyNBKnZKQNZiVNFyimYnHGb7TSk2q5ttatp2LnA-8O3kCBSM453V4L_wAm2RsFR1RlCQi_BcyOaX3CXYJUu8gusrtd2E7_BEBfCOMH3rj7W-w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/j7x5zBAunL"&gt;
 Complex UI Animation: Permission OnBoarding Animation Using SwiftUI | KeyFrames | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to create a cool Permission OnBoarding interaction with iOS Style Permission Animation using SwiftUI | Permission OnBoarding | Permission Animations | SwiftUI Complex Animations | SwiftUI Animations | SwiftUI…&lt;/blockquote&gt;</content>
   </entry>
