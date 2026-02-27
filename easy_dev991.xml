@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/DKAlIkVe2Hu62avFZPpMUMZlEV9wch2Eu--Dgzb5tibvUaSQZnELg7H1Rc0GyX-dov51gg9cjhcbEYDA4FBgOObi6wKgRiUfjAI18nwP3_cSHeY8JFD9wfbLQkcodoOyFTDcLirc8UxK3K2dxVs8j1ztwZt2fNnpBZ2IZ7mIAldEgCvIecgkB8flqWBfbcy3jCSLXX9yNRH8snBJUuw0257Xwp4psg6mZxNfdqloDHnS-CCAu9mjFs8JvT-VOnv20CZH7BGUne-5nN0uCmQeLa9v9MoC9gKfFE1yTiBuurvYRcarpDXtVPG2YksMPQH6RV-iPdOPuRWudwM5YbPSyg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/DKAlIkVe2Hu62avFZPpMUMZlEV9wch2Eu--Dgzb5tibvUaSQZnELg7H1Rc0GyX-dov51gg9cjhcbEYDA4FBgOObi6wKgRiUfjAI18nwP3_cSHeY8JFD9wfbLQkcodoOyFTDcLirc8UxK3K2dxVs8j1ztwZt2fNnpBZ2IZ7mIAldEgCvIecgkB8flqWBfbcy3jCSLXX9yNRH8snBJUuw0257Xwp4psg6mZxNfdqloDHnS-CCAu9mjFs8JvT-VOnv20CZH7BGUne-5nN0uCmQeLa9v9MoC9gKfFE1yTiBuurvYRcarpDXtVPG2YksMPQH6RV-iPdOPuRWudwM5YbPSyg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-02-27T09:45:18+00:00</updated>
+  <updated>2026-02-27T10:40:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -59,7 +59,7 @@ Xcode 26.3 RC Release Notes | Apple Developer Documentation - Apple Developer Do
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - 700+&lt;/li&gt;&lt;li&gt;9% - 600 - 700&lt;/li&gt;&lt;li&gt;4% - 500 - 600&lt;/li&gt;&lt;li&gt;4% - 400 - 500&lt;/li&gt;&lt;li&gt;9% - 300 - 400&lt;/li&gt;&lt;li&gt;24% - 200 - 300&lt;/li&gt;&lt;li&gt;40% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - 700+&lt;/li&gt;&lt;li&gt;9% - 600 - 700&lt;/li&gt;&lt;li&gt;7% - 500 - 600&lt;/li&gt;&lt;li&gt;4% - 400 - 500&lt;/li&gt;&lt;li&gt;9% - 300 - 400&lt;/li&gt;&lt;li&gt;24% - 200 - 300&lt;/li&gt;&lt;li&gt;39% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#xcode #simulator #ios&#13;
