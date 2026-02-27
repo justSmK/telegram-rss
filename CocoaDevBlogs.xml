@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-27T08:46:17+00:00</updated>
+  <updated>2026-02-27T09:45:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Emacs Complete: Feedback Loops in Emacs, Feedback Loops in Computing https://t.co/8FMThqw7GN</title>
+    <published>2026-02-27T09:07:38+00:00</published>
+    <updated>2026-02-27T09:07:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26042</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26042"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Emacs Complete: Feedback Loops in Emacs, Feedback Loops in Computing &lt;a href="https://t.co/8FMThqw7GN" target="_blank" rel="noopener"&gt;https://t.co/8FMThqw7GN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8FMThqw7GN"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8FMThqw7GN"&gt;
+Emacs Complete: Feedback Loops in Emacs, Feedback Loops in Computing - Christian Tietze&lt;/a&gt;&lt;br&gt;If it is representable as text, it can be moved into Emacs. And if Emacs renders as text, it can be moved into other processes to interpret the result, like snapshot tests, e.g. for automated regression testing. The loop is fully closed.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : home-assistant/iOS https://t.co/D83j4PLDCV</title>
     <published>2026-02-27T02:12:25+00:00</published>
@@ -169,7 +181,7 @@ In this video, I’ll demonstrate how to create a cool Permission OnBoarding int
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to wrap UserDefaults with Observable in SwiftUI &lt;a href="https://t.co/1uwOQVXOdK" target="_blank" rel="noopener"&gt;https://t.co/1uwOQVXOdK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;&lt;img src="https://cdn4.telesco.pe/file/gYcjVaMevMKAQ0Fls_aW7B0nC8GmyTS-oeZiUErdD8UQaoI7YgpgMXH_GY4XsFppjSMMqLqj7JOBpPkx_El9yt18jx9QdyCJfXjM9x2DIN3TCeAnVwR_E5_1nlMuZmLL55LSEI5zPMxAGC27-CYTMQ-r4lgyTXM2xEz5lpuQvPoDjyQgn-Ymv330ahGpPvL0QG8ObmWc9A7Adkf81iBuy-z8-rn8aYtyIVcBnltGtJ0uLiABdL2m1LlABhe9mR7kbvw7M9kk-lcnMCE1W-zrBNB_DhlUpsle_3MbNR4Q1lD5cNaXVbQ6RxB1Q2EaEISHlN_CYL3vYbmB3DGdHfVn-Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to wrap UserDefaults with Observable in SwiftUI &lt;a href="https://t.co/1uwOQVXOdK" target="_blank" rel="noopener"&gt;https://t.co/1uwOQVXOdK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;&lt;img src="https://cdn4.telesco.pe/file/g-xnuXmNLYYvMPMtg2MfWB9VWqj1j0PGDb2XH8gIaLWINaop17xnGW-rNMusAzYWi-VbIBnDm5qegkJFKCEDOLeCqNpoiIyh-EjJgCNIJWy3D4WX6tmkWYuJaUlOdYhoAFLx0qzGzaiiOGPkkYQODX5RDkT8l6l6Jx53VpW4n-7RkIq2LOa1WKlwJiWCPTfqiG5M3sY__Mhc62cUydHbZ_AzJ1Wnmoyge2v8bC-kP_Ggt-KS7UfR4jL7_afLMhiaLYY38O-PSTREc2-ub-H32t3-tmAlrbSiMHe3c9eBzJA5w4k4Wb79vs4QuVMu03VFhIsUkMQLalWm2CFKF5ORFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1uwOQVXOdK"&gt;
 How to wrap UserDefaults with Observable in SwiftUI | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1009&#13;
 SwiftUI’s Observation framework makes reactive UI updates effortless—when a property changes, views that depend on it automatically refresh. But what happens when your data lives in UserDefaults? You might want subscription status, user preferences…&lt;/blockquote&gt;</content>
   </entry>
@@ -250,17 +262,5 @@ GitHub - KrishKrosh/TrackWeight: Use your Mac trackpad as a weighing scale - Git
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/wQ1a6Lq0a9" target="_blank" rel="noopener"&gt;https://t.co/wQ1a6Lq0a9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wQ1a6Lq0a9"&gt;&lt;img src="https://cdn4.telesco.pe/file/HUu68hTFiNOOxb67qTLYkVai0v7hoqPR-Q2_dsFh52d9P0x92xe7GXV-ieXN9ApBXfI3toZH9YwWX4rEIoWlT3paVE4ta6Y7SBknGSNQmlEdi6BL7kkL_F9sLWbgcmzJexqDrsJLkQTgWxJwDrIl1cyB4lNXSUvLqB-09FyC6h_7c-9fNnhIiF4g9FL1Ougf9cKF3n47lOC4nrvztSjPcpAAMJ9znArzhwr3OX8aKnEnxkTGzSmxJOo25NQkRkTFrAISfB0ElEjOSXITgszF7DMmCoUqPnA3u-JKt3Br7wcUDiWSplvoth9JQJ0LDMWpsYrMXWnTyFJYtIQxOqCZNA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wQ1a6Lq0a9"&gt;
 TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">New iOS 26 Style OnBoarding Animation Using SwiftUI | #apple #animation #ios https://t.co/Bi4SbXKtpF</title>
-    <published>2026-02-24T22:22:39+00:00</published>
-    <updated>2026-02-24T22:22:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26022</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26022"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;New iOS 26 Style OnBoarding Animation Using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="https://t.co/Bi4SbXKtpF" target="_blank" rel="noopener"&gt;https://t.co/Bi4SbXKtpF&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;&lt;img src="https://cdn4.telesco.pe/file/oGBgu8mQRfLPPnvKGDYY104v9bC7KrbprJfFRoYBk8Ka4KSzN9sPuITdQZ3Yb1I5i368TSZ33ov4K91-xqtVwJ6fjrVCnM-3cjyTgB3gWNE0p8at-wkwH7ewFbKaG-Tnwi_pDTf9Odf6_0HSc00TtVMvo1APN70qOvGmExa8XJ6yOPN8BKbcZUs4cvX6H6JhxgqWTpkONM0NnImIHLbIN8PHDg3r35UmmaeNvOTOdbpURDKzqc5kDbsHWhUT_zYPGkqR20QP-kmZtosFE3zCTwKuEOS7hs_Ga-5r1J0ByaMZBbhn4oSYi52lJHN7-QcrltesOvXJA8aljdyWVL2nbQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Bi4SbXKtpF"&gt;
-New iOS 26 Style OnBoarding Animation Using SwiftUI | #apple #animation #ios - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
