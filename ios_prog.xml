@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/uzfMZSuvWc46K9-MbthQs19YbgN6-V9mk_cWtHb8vc_x3rZ6yAoDBfUonvyUIfoVC0QVUS4kFOT88UihLaK_9P6pzpAt8BPmFOq9D7-tMAQ8nRjjmunYOOT4yJ6bya50g0l7OWOwyz3zagGQiD-tZAg0ujaxQS0JRWvcLYySEl1KHWHztYQpsyafczrph3HK9HwwcApGMIVHtAL_ZDH9_U8lFG4l6xUCwk6wtd5azVPwLTEtElCiupiWUXPjs9jPQsmL5wCoMt7s18o137Nk2Lis2wzRFdSQJV79xzC2DWVoixSJ-PgTOQObpYRopdzzqrB7FT8LbdjbRFl2HJjj_Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/uzfMZSuvWc46K9-MbthQs19YbgN6-V9mk_cWtHb8vc_x3rZ6yAoDBfUonvyUIfoVC0QVUS4kFOT88UihLaK_9P6pzpAt8BPmFOq9D7-tMAQ8nRjjmunYOOT4yJ6bya50g0l7OWOwyz3zagGQiD-tZAg0ujaxQS0JRWvcLYySEl1KHWHztYQpsyafczrph3HK9HwwcApGMIVHtAL_ZDH9_U8lFG4l6xUCwk6wtd5azVPwLTEtElCiupiWUXPjs9jPQsmL5wCoMt7s18o137Nk2Lis2wzRFdSQJV79xzC2DWVoixSJ-PgTOQObpYRopdzzqrB7FT8LbdjbRFl2HJjj_Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-02-27T07:51:51+00:00</updated>
+  <updated>2026-02-27T08:46:24+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Всем привет&amp;#33; Есть ли в этом канале iOS разработчики...</title>
+    <published>2026-02-27T08:14:33+00:00</published>
+    <updated>2026-02-27T08:14:33+00:00</updated>
+    <id>https://t.me/ios_prog/718</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/718"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всем привет&amp;#33; Есть ли в этом канале iOS разработчики или кто-то из технического отдела РЖД, может у кого-то есть знакомые или друзья там? Напишите в личку пожалуйста &lt;a href="https://t.me/new_repository" target="_blank"&gt;@new_repository&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Создание тоста в SwiftUI за 5 шагов&#13;
 &#13;
@@ -92,7 +103,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/711" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/kt18DkY1h3Oxs96uOIO86v0BAnZbSH0YkBI0Ag6LgNsvcsEKTYQ2JR15aHYChwgeOkwMogczRAY7ejdeRTMWskwCO8u0AiYccTjk1cZ801m5Yf39WIzSE87lZSJ_QFp0konQ_S3jHK2IcvdDQaL0H0Glq_HlI1XKOGBiM1OM8nysN_729-dIm47LRhbrw1KcLpn6O0SC6pi6BTg802zGgwFrMKwcG7Ks00YybxNFcdvvj72FvPxP3HyXubEFXphubHvm2PHFmq0kliXn_cCG2MgYI7T5g3LGlisA-5ik_b7pvyFaUfy3i-PNWADTETCVZTPHykq-4KGad1nx3h8Gng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5017470156276761427"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Что ожидать от будущих iOS.&lt;/div&gt;</content>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/711" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/711"&gt;&lt;img src="https://cdn4.telesco.pe/file/b2IXRju4E85O8YBVvwyWXDMHZwmDShaLblBZmZ74RWPQq5Vy7BOehI7hzB-nH2bge9xdA03DkFi3PeLE_x9K4eCGFSly7l1Px4Tpq708bFcS3XU67rXYcF3fQW9cQ1dAacfzrrQrEK0iqCRyl8HxxwZmrl9_G97wzjE3t2oLjKzMxj263RMmNN2dmZ-BlBPeBIt3SQbcb0NgAly6-pIYoFYu8O7GHQo9HOYvm22R7OZLsVZT8SbJKL2aq3Wc5ySan9hpBrq-03JpwHK98NM-OFldfWzSb6QIPng0mFt7Ys5zeU-6EXy4mnoZH-TgO5odddNQ3H5kGsvNneQ6kiuU1A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5017470156276761427"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"&gt;&lt;b&gt;🔄&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Что ожидать от будущих iOS.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Модульная архитектура — это не просто теория, вот...</title>
@@ -238,16 +249,5 @@ Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/699" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/699"&gt;&lt;img src="https://cdn4.telesco.pe/file/DSGiUhCi-7wzhOHVfR1gzsTjm34o6YqlXYsp3LrU9HiHIQtKw1MvlryzsGnjIZ7U7ZV4h-WgHQ2-61S6oDeXRPBsmHpO3LxSsFqA55gcAUBZAWNXS6lAOaG_V_3p6b8uHFEH09ADmQdwyjlEkSjDpId_X8yS2aL6F0ZG_0bSjL4gIXc7n8vhGkiCrIoa1kAu-8L7C5nwkLCjEXaYgF9MMyLwGV2LdUb3HZ6XBTzFh8bhiV9RXAre9B3VFUgixjg1RNObVyYjYw_HhK060OWpPDJZ8SH29rMITtnK88IoQ6tNGzkR3Xl7Ddo9ktGiyRDrFDU2z3LCYfObwO1i1ZJfVg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5449467351412013115"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Загрузки мобильных приложений падают уже пятый год, но Apple продолжает зарабатывать и даже увеличивает доход за счёт подписок.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Я сократил потребление памяти SwiftUI на 80% с помощью...</title>
-    <published>2026-01-20T07:17:00+00:00</published>
-    <updated>2026-01-20T07:17:00+00:00</updated>
-    <id>https://t.me/ios_prog/698</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/698"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/698"&gt;&lt;img src="https://cdn4.telesco.pe/file/D78TVMsqxKTEoPoVAWux2FhiWvlKYMgMLpUUe1zpjxVaTEebm-XCwiK7BWQxyUL15lN9zJTE5p_2gAoK66AhsnvxlmxOts1rR-W2uPFlz_g0hjKm7qGPEAy7JN5NBVcrwwke2_UhH7h4xjdTa-4tv6QvuAuc6lmlRgASp0JjYXSd5k0L114K8hEs4IgTzGe_MO5HQUMcsywbcz-3_SCwm57W-jcV7fj-RA07xhxDi_bz5S5gLIRGSchypYalwUctAUMfNtr0_zWkeg-vodZtr6dA1zP9V9OgZDaCyeWUJdQyAE7ZJPwoKzx5kOeZv4EjFBjZTaHLht7J-q9OIWZfwA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/articles/ya-sokratil-potreblenie-pamyati-swiftui-na-80-s-pomoschyu-odnogo-kontrintuitivnogo-tryuka.html?amp=1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Я сократил потребление памяти SwiftUI на 80% с помощью одного контринтуитивного трюка&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Иногда решение сложной проблемы — не в тоннах нового кода, а в одном правильном понимании.&lt;br/&gt;&lt;br/&gt;Делимся историей: автор был готов забросить SwiftUI из-за растущего потребления памяти и постоянных сбоев. Инструменты не давали соврать. Прорыв наступил, когда он осознал ключевой механизм работы фреймворка.&lt;br/&gt;&lt;br/&gt;В этой статье — не магия, а конкретное и работающее изменение, которое кардинально улучшило стабильность приложения.&lt;br/&gt;&lt;br/&gt;Цифры говорят сами за себя.&lt;/div&gt;</content>
   </entry>
 </feed>

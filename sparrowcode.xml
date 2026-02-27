@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/BQLOmNZhkxfJqYcTnZwXG9nodFStmAppCuPBduFxeafUxtIv-V0SBZIb0iewU55cr0_5dgUrSiqwB0kX2iCehZPAP9zPXwWhZqijHkj-o1vhs93T1_dN0dbwGbnHRYQvG-vTTg-OMOyykVgjhKDqGxi0X_Dxkz9V_rZW9_zq53MTF_YTVxTjdaEUNjKQ75MtIhBwZIcAYark2mTg6_Z1vTP_E-0P_nnupRUbTGQqJ5rSw5pi3vKS15hZvuEiVrR09mQKinoSrGfU0wsBEMo-PeGpLSvBEBvEMqKmubLx92J_fxKkYafFYtS2cnxVYbsvc5N0n6kZKklitiMrad7JIQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/BQLOmNZhkxfJqYcTnZwXG9nodFStmAppCuPBduFxeafUxtIv-V0SBZIb0iewU55cr0_5dgUrSiqwB0kX2iCehZPAP9zPXwWhZqijHkj-o1vhs93T1_dN0dbwGbnHRYQvG-vTTg-OMOyykVgjhKDqGxi0X_Dxkz9V_rZW9_zq53MTF_YTVxTjdaEUNjKQ75MtIhBwZIcAYark2mTg6_Z1vTP_E-0P_nnupRUbTGQqJ5rSw5pi3vKS15hZvuEiVrR09mQKinoSrGfU0wsBEMo-PeGpLSvBEBvEMqKmubLx92J_fxKkYafFYtS2cnxVYbsvc5N0n6kZKklitiMrad7JIQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@sparrowcode</id>
-  <updated>2026-02-27T07:52:11+00:00</updated>
+  <updated>2026-02-27T08:46:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Вышел 🔨 Xcode 26.3 с интеграцией ChatGPT и Claude&#13;
+&#13;
+• Где...</title>
+    <published>2026-02-27T08:01:05+00:00</published>
+    <updated>2026-02-27T08:01:05+00:00</updated>
+    <id>https://t.me/sparrowcode/718</id>
+    <link rel="alternate" type="text/html" href="https://t.me/sparrowcode/718"/>
+    <author>
+      <name>Код Воробья для iOS разработчиков</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/sparrowcode/718" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/sparrowcode/718"&gt;&lt;img src="https://cdn4.telesco.pe/file/vkFIId8C1YbcGqn8b1TCN6abkgEM4HHDd1zrylQ38rtLi_z47KCdG51fBqEzMzdWMZ1-WUOPkyDQD-aJFSDH8-fZgi8zY04VPBqz2VvZVGuzJcR3prwNEpQuNrLvG63hYMFxcoDlpWQ6sG_flee9RPh6cG1av-vV9NyWP9jtg3pXuSOT3ybbhPUiluambjYnmFgwEfb_gbUuT1p0dVzyd2ju_nvMpQhlkC8hRvdfwwYntYrGQ1zjr-twN5EBcL1l5V890Z8iuqjLVvNh9mvLu9ggl_qLH6PZ1ei1UWgO_Ghn2b3zwrZGoK0EizBzmYUrkfDntpEg-GQjP43wU09vBQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Вышел &lt;/b&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5335071296915016681"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;b&gt; Xcode 26.3&lt;/b&gt; с интеграцией ChatGPT и Claude&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://developer.apple.com/documentation/Xcode/setting-up-coding-intelligence" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Где настраивается&lt;br/&gt;• &lt;/a&gt;&lt;a href="https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_26.3/Xcode_26.3_Apple_silicon.xip" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Скачать&lt;/a&gt; для Apple Silicon&lt;br/&gt;&lt;br/&gt;Вместо подписки подкидываю API-ключ. Можно, работает&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">📊 В следующем месяце в Аpple ADS раскатят рекламные...</title>
     <published>2026-01-26T12:32:51+00:00</published>
