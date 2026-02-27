@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-27T19:35:30+00:00</updated>
+  <updated>2026-02-27T20:31:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 744 https://t.co/J08cFMbtdg</title>
+    <published>2026-02-27T19:47:21+00:00</published>
+    <updated>2026-02-27T19:47:21+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26045</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26045"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 744 &lt;a href="https://t.co/J08cFMbtdg" target="_blank" rel="noopener"&gt;https://t.co/J08cFMbtdg&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Cocoanetics : Post https://t.co/PFEucQ3cHS</title>
     <published>2026-02-27T19:32:28+00:00</published>
@@ -250,17 +261,5 @@ Import…&lt;/blockquote&gt;</content>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : opa334/TrollStore &lt;a href="https://t.co/kF0zC4z0xU" target="_blank" rel="noopener"&gt;https://t.co/kF0zC4z0xU&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kF0zC4z0xU"&gt;&lt;img src="https://cdn4.telesco.pe/file/unBJuIMEu_bFEG9AId0k6fzV7430-ysUChufsyA_ggojcTZvE3b2b1FTw989FVJz9RJZraQDCF6tFYF6CJpeGpQAtAXi1ZrU5JtjSaTZe8t1-ePHcEnwt64krbavRlw5jcLo1jwfp9pPpkh-CmHIj69hPNIAB5Zm6O9VPY9xn2EfZGWuCXHCm6L_eK1N4bpYtfOwBuqarsXHitvFZ-3CKJfhlY5rFL9LjGK42skq4p4Zt36HtjoKur01zIit0AFUeVjH6xvbvPQt6WHsr5PsrAVslJpTdlEzUYB6ACtFE5vLKP5X1u15Uke2cen5aKmh5LjAkOrAjjEPKsl7ChY4Rw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kF0zC4z0xU"&gt;
 GitHub - opa334/TrollStore: Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because… - GitHub&lt;/a&gt;&lt;br&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple - opa334/TrollStore&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : syncthing/syncthing-macos https://t.co/xpP2dqrpqn</title>
-    <published>2026-02-25T02:17:43+00:00</published>
-    <updated>2026-02-25T02:17:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26025</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26025"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : syncthing/syncthing-macos &lt;a href="https://t.co/xpP2dqrpqn" target="_blank" rel="noopener"&gt;https://t.co/xpP2dqrpqn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;&lt;img src="https://cdn4.telesco.pe/file/kTpWzkriFTdi41pFzHjnMaUIQazesH1OqlQhhYrDb_IEt8zXNjMRWOESIEd_lJQ-UQpK182VSwA305r4Pkd5AwViz3ooMixYMEIvAhL8gtiXPxZ4BMQPNkvoILqV1P-MdVkZYjfbINXuT9soaSZcOKzottyfFWrVbDSZjGkxYJqBNGQZ1ZsGkP4P0cRx_RTBx3bHw9oYoJGP0eZH-KCdgzKYM7R0LRUqzmcjyh75RCs9v2VuReaFM3xDC0U1BWiEttzOzZOWRw3LvLU56TzbqGQLZDZo_6wqm6UuhwBTl9Y1Z4_GPHNHYfL3DAvxBYv2Aq1pBWdyMK08YCapI6E9VA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xpP2dqrpqn"&gt;
-GitHub - syncthing/syncthing-macos: Official frugal and native macOS Syncthing application bundle - GitHub&lt;/a&gt;&lt;br&gt;Official frugal and native macOS Syncthing application bundle - syncthing/syncthing-macos&lt;/blockquote&gt;</content>
   </entry>
 </feed>
