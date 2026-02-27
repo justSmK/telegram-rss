@@ -3,10 +3,10 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/KFVHctjcWRMkQwRiacpnDi4NtJBaZq-dsfyj6nuCELwg3YZ9YJlmZSYYXoUaCrR8ga2LqsPOiDXf74r9gFsGsizwZSLc-5qpVmkR6nZsZg4mjrFbHBTCYD7qn-ZN3uqHWS0DYa-Bz2kTV5i_TQdvkjaIxgLjPLNuxC9TZmS3yNRaJbR8YY03RSm9T8cCN_5BUBqjw9BlLZ7MEOXbZg9V741f6YC4oIzSNTdVJei3yQiYBVvetTF0U4ETN7LM7EjNF99zmqPbB6Anzpp2vYtBKmvFFqzqvlXZEJbXsQM6rCKk73vq04iQiVSGwwmtkoZMcIWZSf4TDVdH7rIy1ceo4Q.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/Zb4K0wl5x2-6rExp4QdyzlWm6tSWT-28g0sS4yMTM2schBT152vldzr_bHO0GjMWYfxhlwH0TW8OCKWX8g0PG3eF8z9MONASIi2m1McafqydF9w_Az0Rw0jIuQrOzTGC5i1Kehsv5KWjnVOSHNvebJgOyo5mcj20RwNWlK8Nvmk8WUYbLF8pAIqWJv7q4IbmU40N4Cv3Z42K1LyJ0qrwuf_-WoXkYk0LMiptwWoXGC0ArHaBHngA5fVY0GLiNDTwDkBIXDnbRjMLJYE0c9fIlCy8PXUkaIJXQ4UN2UWkmeV-i5TnSR_rJ360KU2-TXgYdV7eKVO8iF3TW1ld5cVmlg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-27T04:47:34+00:00</updated>
+  <updated>2026-02-27T05:54:42+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -182,7 +182,7 @@ SwiftUI’s Observation framework makes reactive UI updates effortless—when a 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to connect MCP server in Claude Code &lt;a href="https://t.co/2E4eb9BhrM" target="_blank" rel="noopener"&gt;https://t.co/2E4eb9BhrM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;&lt;img src="https://cdn4.telesco.pe/file/OKhmveSWL0vl_rfPG6DsV9pwhUggFw2Uz5xtFX1u68ICeXOtLJcVkoQXd5hiRVams382UijACMjcg6fgVb-kSM_cU793lhdY_uVo24wc-0IB3O6-Khw2SYFWddWdnxIijFkoIiB3rpDYqB93wwyCqmgiMdlE-qPsFSSnratbm9oMxqHCBmAmh-UV4M4PshVBFPNKoD8Mh5GYOQ7FEsxa9_J1FFkS1Mu8wGE6GQqR0APo2L1AVN13DI5LZRrN_yR_V1hb6Y69DooJQM9GCFuRqBji8FUJ-KGs-g9TNIC9hFALhj7oz_pMFvGxMCZOK6aVo2A07CtmHNc3SyzViLBGRw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to connect MCP server in Claude Code &lt;a href="https://t.co/2E4eb9BhrM" target="_blank" rel="noopener"&gt;https://t.co/2E4eb9BhrM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;&lt;img src="https://cdn4.telesco.pe/file/FSCHfTpxZ0cEqG-RDvK2KKnYvvFaxoWnLAUlRarP731yePHmUpVSuLu5k7LGgJQiITZEqgLAxUSeAqboGIS42R1NBP28Ux4eq39M9JcGk4uFlwE21kTPiKclpaQKYF1-vAiKPrC3Gqk2WH8sZUicV16b6XGcu1ZWj8hZiFK6cctfN-gj5Cj7bb-MLF37VxiuwWF4K8YBYL_A3KCPMP3tojIEa7rXAjcPkeGkc41JcRMmzYn3ipqXqGr9p6iHK1r1XSmpFo4yD9VnUA-Zy0FntnDSptfTCR1KXgcw4GTuCIZO26rt17yWzO-6xAd7qcZbovLyRyehlKJmw80HBze6rg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2E4eb9BhrM"&gt;
 How to connect MCP server in Claude Code | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1008&#13;
 Model Context Protocol (MCP) allows Claude Code to connect to external tools, databases, and services. See the official MCP documentation for more details.&#13;
 Scopes and Configuration Storage&#13;
