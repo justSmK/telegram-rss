@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/eKD9J6K1WaIpgGjt3l8bQubQd-pXmQU78DnwpI4ySNCpyuZdR3V_LkoGgnfQjuzOhiTMtrvMDnEdgKf0ZdpXNBjwEJwPBQCB8IYdDlxqued-BbRCOA-t_y4_aA7L-ArJR5ouYZNZ4YwEJPAVm7Ex0LMdanAbcJVY5C5z3rv3Hj_mI6BqnHT0zW-C1Hmx0Tepy9-ZNZGDMSDE_nGODfit2bPm0xi4Dbw6WSz7GmxE_kZjxfE34O7kY032YBVM1Lf1Azc18Iv9Jdedn8LNPhPgUU0zpXCU1NMCg5unW-AgipVPNHErcNgI6bMoUHFUXjXtWdK4IBDZIENVj1KNJcGmqw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/eKD9J6K1WaIpgGjt3l8bQubQd-pXmQU78DnwpI4ySNCpyuZdR3V_LkoGgnfQjuzOhiTMtrvMDnEdgKf0ZdpXNBjwEJwPBQCB8IYdDlxqued-BbRCOA-t_y4_aA7L-ArJR5ouYZNZ4YwEJPAVm7Ex0LMdanAbcJVY5C5z3rv3Hj_mI6BqnHT0zW-C1Hmx0Tepy9-ZNZGDMSDE_nGODfit2bPm0xi4Dbw6WSz7GmxE_kZjxfE34O7kY032YBVM1Lf1Azc18Iv9Jdedn8LNPhPgUU0zpXCU1NMCg5unW-AgipVPNHErcNgI6bMoUHFUXjXtWdK4IBDZIENVj1KNJcGmqw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swift_den</id>
-  <updated>2026-02-28T15:27:06+00:00</updated>
+  <updated>2026-02-28T16:30:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Treat Your Data Like a Backstage Pass: iOS Security Best Practices&#13;
+&#13;
+1. Безопасность в...</title>
+    <published>2026-02-28T15:38:23+00:00</published>
+    <updated>2026-02-28T15:38:23+00:00</updated>
+    <id>https://t.me/swift_den/696</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swift_den/696"/>
+    <author>
+      <name>Swift от Дена</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.wesleymatlock.com/treat-your-data-like-a-backstage-pass-ios-security-best-practices/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Treat Your Data Like a Backstage Pass: iOS Security Best Practices&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;1. Безопасность в iOS 18+&lt;br/&gt;2. Обнаружение джейлбрейка, которое действительно работает&lt;br/&gt;3. Обнаружение ботов и снятие цифровых отпечатков устройств&lt;br/&gt;4. RASP (самозащита приложений во время выполнения)&lt;br/&gt;5. Привязка сертификата (защита TLS)&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.wesleymatlock.com/treat-your-data-like-a-backstage-pass-ios-security-best-practices/"&gt;&lt;img src="https://cdn4.telesco.pe/file/bzpXLj-E2xBBRgnfvv93L4OXzzDOSDcnCiTbPeqF4V1STntXinE3NE13XUpMkTzq3va9_aROQauDvWpblRHf4dPR_9siSH0fdIvOcHMfdeHmVo22M3n0i9DgLR5P6R09bjGY5e_Ye-eFf1oj93NFEbocwx0GkBYVzMXmFrChiQos4bEYxPKxKE66cjCJEgZS0w2C1MUi0vDalIIUthcdf7NGIgHKnupxf1hCmAkWkRVz8aqDM8WF8N-T6ziUhrBDI7BjVjtgj37xEW6AufOB0RlY7h-kZ9Rd0yPUM44sCr1zoRdzb49QFwbBxr2bIeWV6_xgSb_Od_aLI12Icrrpvw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.wesleymatlock.com/treat-your-data-like-a-backstage-pass-ios-security-best-practices/"&gt;
+Treat Your Data Like a Backstage Pass: iOS Security Best Practices - Wesley Matlock&lt;/a&gt;&lt;br&gt;Professional iOS Engineer specializing in SwiftUI, VisionOS, and modern Apple platforms. Expert in HealthKit, tvOS, watchOS and even some VisionOS development with 50+ technical articles and comprehensive portfolio.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">👨🏻‍💻 Айтишники массово списывают себе опыт, чтобы...</title>
     <published>2026-02-22T09:09:26+00:00</published>
@@ -253,17 +267,5 @@ Merge conflict в головах: зачем командам нужны рет�
       <name>Swift от Дена</name>
     </author>
     <content type="html">&lt;a href="https://t.me/swift_den/677"&gt;&lt;img src="https://cdn4.telesco.pe/file/H4MNjU3OcMTX7Dy5gpoiow7TThf2xPfOaj0GYVukcNXGmgxMaMW18Vxm2EpHVVv00clFddfGXG0gBFZtQ5owJ1coNKok1jrXubp2h5aYvRRfiKwViqkQd9ufe9BnqHp3Yp8LlqPGgxrZTdROTVpwd_uGyLCZs5TUPioNSnsST91oDRIZRZU43Ak69bHxOz_OmDNDk0w0LdDOOVBMtM1GV77WEhUFt9iwf86irDVkZ2novvKdSDZJx0gIVAcyi70Ubzc0hdf0uIb3-yrNM0WXLQC19_v0WtzWukSJKfYojWumJSnuB8uvFExTQfgBqexDnO3ZdKPPvZmpEuba4RzILA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Привет, хочу поделиться классным &lt;a href="https://t.me/+mlC4uciAHjBmYjI6" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;каналом&lt;/a&gt; про iOS разработку и мобильную разработку в целом.&lt;br/&gt;&lt;br/&gt;Ребята делятся только полезными гайдами, важными статьями, примерами кода, новостями и многим другим.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Буду благодарен за подписку&lt;/b&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"&gt;&lt;b&gt;🙏&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://t.me/+mlC4uciAHjBmYjI6" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;@hardworkerIT&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🎓 Научитесь создавать потрясающие визуальные...</title>
-    <published>2025-11-17T17:10:38+00:00</published>
-    <updated>2025-11-17T17:10:38+00:00</updated>
-    <id>https://t.me/swift_den/676</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swift_den/676"/>
-    <author>
-      <name>Swift от Дена</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swift_den/676" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5312114597933631996"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"&gt;&lt;b&gt;🎓&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Научитесь создавать потрясающие визуальные эффекты в SwiftUI с помощью шейдеров &lt;a href="https://www.metal.graphics/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Metal&lt;/a&gt; — графический опыт не требуется. Поймите основы графического процессора и применяйте их шаг за шагом.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.metal.graphics/"&gt;&lt;img src="https://cdn4.telesco.pe/file/psd2HROxXCkR_y45eion2N-amVAZRa7aMpfYOimVlDW2_ZqvgUvHybhKqbW7en4UWTQDQCmD--N2uoo-a8s1dn3eBNPTi64UHl_x-TaH0Fs640wtk7WH3tY9KVCglPJ-9q-yXkj9SIU71qxzB5tT--FOFNVXroWqTXxwxL8JhSQb3l3M9htb3sJVy--Bt3EHpONOKews0vAJ_ydjL9CH_Ru30linnaU7jy5mbZHjX3YDSZAWkBJhNlFozP21qMNQhgnDyLlBxQ5Sa9WqY_SJB9rjMyvFYEvjPyAQ6FmZd44Y_-HIcpLVVMDbyMKSTOVPFZJ8FuSxJuMDDeF8tGKOew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.metal.graphics/"&gt;
-Learn Metal for SwiftUI - Metal Shaders Course&lt;/a&gt;&lt;br&gt;Learn Metal shaders for SwiftUI development. Master GPU fundamentals and create stunning visual effects.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
