@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-28T20:29:50+00:00</updated>
+  <updated>2026-02-28T21:24:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Media Transfer Protocol Tools https://t.co/KLKzuqwTMm</title>
+    <published>2026-02-28T21:12:40+00:00</published>
+    <updated>2026-02-28T21:12:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26052</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26052"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Media Transfer Protocol Tools &lt;a href="https://t.co/KLKzuqwTMm" target="_blank" rel="noopener"&gt;https://t.co/KLKzuqwTMm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KLKzuqwTMm"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KLKzuqwTMm"&gt;
+Media Transfer Protocol Tools - Christian Tietze&lt;/a&gt;&lt;br&gt;I want to get books on my Supernote and notes off it, so in my desperation I began to write scripts and make tools to help.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26...</title>
     <published>2026-02-28T19:02:41+00:00</published>
@@ -237,17 +249,5 @@ GitHub - Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或�
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Ebullioscopic/Atoll &lt;a href="https://t.co/bkOsugL9HJ" target="_blank" rel="noopener"&gt;https://t.co/bkOsugL9HJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/EuoYpKugJOAxYtDXIlemx5nDBCjsqI9sJyGpmHb6qzUDyjy65k07aPZl1xmdoc3HJIZ-uCzWIaBxjFqk_DTdkU0vnVoOMv4rHoyB8TX6rKLY2II0TpYtsqxW-WBPDKbaoK8c0muUCwwEANCxXTV9fcpJOKYKn2LIDEBCBFnsd3-vAFNnrExPDUUV1_GI4LGJGD8azaLxG9u5chj0wIWxTuxgPQz4V8j28M95hdRQ6TMTpH9BobT6bnhGszAkRvFZwkWsjsYBjrrO43Kn-S8Fd0tOQqBDY48a_oa3VZvs96IwcI6HloMVXL-lsqdSsi8y3el-0WodeFIt1IH31o291A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;
 GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&gt;Dynamic Island for macOS. Contribute to Ebullioscopic/Atoll development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : claration/Feather https://t.co/Z8HsBTjdyO</title>
-    <published>2026-02-26T02:07:26+00:00</published>
-    <updated>2026-02-26T02:07:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26032</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26032"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : claration/Feather &lt;a href="https://t.co/Z8HsBTjdyO" target="_blank" rel="noopener"&gt;https://t.co/Z8HsBTjdyO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Z8HsBTjdyO"&gt;&lt;img src="https://cdn4.telesco.pe/file/L-PtJD6Q8nY4R2wqOO8yZgzTkodLhAkdKTtyo6uAEUvjUcOmXTHkHEkbdOkxvXqXky45b8iR1FnDYWDwWXZYfptzCBJv8YYPLBcw9EDqWdUKOndnmXr7iUHL_iIkGZnvZl3ugRCKRD1037sid4Vs5wF1IqYt37p4foCTxDzD5zyfGRPqDqyiK5tACEfhw4xAdPIj0L4XNCYt3sLzPD4JnVMSB2eu2hfGvd7SblItbWjaduwxlpfx1GzUI4VeUhH-ouxIrKkPlJJyDr4_PKeIfeyBHpx9kzjj2-5HKFcRWMPEgQkcUiFLtTU6Ru2gPHcqSVkaEy1QCl9ZbqU5Y5341Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Z8HsBTjdyO"&gt;
-GitHub - claration/Feather: Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer… - GitHub&lt;/a&gt;&lt;br&gt;Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. - claration/Feather&lt;/blockquote&gt;</content>
   </entry>
 </feed>
