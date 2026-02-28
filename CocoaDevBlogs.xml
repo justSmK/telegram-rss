@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-28T17:23:21+00:00</updated>
+  <updated>2026-02-28T18:37:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -162,7 +162,7 @@ App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/ADPzcRpAU7cZEefVDQByAnesNMg73lgA-bmwwzrTF0Y-Wt3tOQ3Ij2VrW2Wzt8fBp6bE-2VV781iNQxubi1_NwR34Itlhq_aEzPld1gGhZr5hClyZ99Ppx2rC3TZ0xEXwpMC5fuB2irjTRPNe0SPyEzriJeZ4s2dnACy1USKtLQBbzrT2BQ2TpGt3mhZXxarGznX4QBXZv7-lnBK042jQMwbhF8EdN7IbwO60Vblzmk4OL6NbBTziFBhSJ1U9t87a_1Q5xOkB9rt6wOEwv-CXpBLCExvqtLsNc8YfPOFc5SzuA2fyL4Pyk1y7wwcDyvub6t7u0FM5rNzfYSsUGHs9w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y5ioqXeSU_hwX18xRLl1rPDtW6HbT2MKsIjl4Ns8oNKkeE-1mi7QHZe08O736-KSFXMJtZ2H0PLPqEGEvpUwR6XdONRjWd9Hs2MvSCkhkTuOHuW8_7-RV8rESoB9huRTo96nMGj19qJzprtkkoQ7tGnnDVc9aCWhJJnfzSghkp207zDXYdtQMad_CK5BFGDnHW_SzkKamoqfCThGDyLeddifwnNSeUl-fzrXu46HaA6jZW89kVLx4M47P9IVZoyvSetDbTWQOxGXBm3FUT89MRhAoaqPSydmj78TaW5vD8HmDYZXturpAkNTJc-8DEecxg3BrXEt-frQow4sZISrWA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
 Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -246,7 +246,7 @@ GitHub - claration/Feather: Free on-device iOS/iPadOS application manager/instal
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/IMCb8J4SHqzHq4Tn_jrL9HGl0M5S8BNxrpQlgLfM6HwN5CbF0SUpCaYeDEAoQXPy97l1yeY-m1sCeKkD7Wp6-D2l_Za7iTk8pyy77j16HPE9M4rQdqaMNGf04GO4QWCJi90H2baS_hxoJ4ZlK0_b4YgvqY67Gqz14EyMgsEwRZ0OSQsqMtZlzdlKaeURA-hAtTq8YeMJQiNgZHbl5lv0wjSNPEeIEENU4KBhr4uRRFwCay31Sj5iyBfpw_PjB3kR8XOWl9pkqaNKqcFD7ALR2t3nNIPdtesDWeLF_TVl1fJSz-vLeXeQgjL8lVbCKxJsNgjREgGuduINC0oXrnsR2A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;A better way to update UICollectionView data in Swift with diff framework &lt;a href="https://t.co/9q0iPAAODR" target="_blank" rel="noopener"&gt;https://t.co/9q0iPAAODR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;&lt;img src="https://cdn4.telesco.pe/file/AmNF0kkibM0zHnCeKFAAE_T-x9VT8AaR7oh7ZRbUIOzGm7jUmSQ900DR1AedwtO1cEl7wXHVj92whyoWcl4ut6Xw7wI00tONLzTPK6O4Kq-zb33T-FwY_4tQOpH1k3vyORG_chnZIOo6GXUurF2kGygGqUL_8AwSYiEzRVCNBmu5Gz2QC0fmIk72ITP9458p0i9TDJYuv8l5AZKi57IYy8BwIWNhqu-oRVfAT9Oz4vxwhSdSuYMFcg-fLjaoC0gGxLNvgrhorFUexOrpHyCh96TLSeyyWd_Suuh9OgF5OR4Jdijk45wPdr234-15oZ0zauJMu6swyshKGRlPk8ca1A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9q0iPAAODR"&gt;
 A better way to update UICollectionView data in Swift with diff framework | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1010&#13;
 Medium post https://medium.com/@onmyway133/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86&#13;
 &#13;
