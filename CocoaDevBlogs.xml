@@ -6,10 +6,70 @@
   <icon>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bqWk-PAVKGMmylZdPC5gSXfHAZ2fKsDkXVD74ZSmDcAEoKN9oxGQ1YOSaMchPlZkZQlyuDpcq4TJ_wLJ0foSQ02pSSnvcH2gEoeamIUzCglx7_2iZmfl33P4Wd0dG_0eh1Nn_noj7ODt0WvREWtYWr7Qn6BNx75QmsLF9Pqlai1k5LMBGuTlpEW35uPqn24OMZuoqTUT0hRyU2sWfTuXCPDrENn9ofBySM3mJ6Yh-nlv2moa0gsPn4_uGlWxESkgqWVYgPV13lJKwgkmmO7FIvsink1TvF0XWW9LJvZAkJ4KODbru5GogyE-5RoiJJyYlsZ41tbkQq788GB09xiYhA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-02-28T23:26:04+00:00</updated>
+  <updated>2026-03-01T02:37:01+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : nicklockwood/SwiftFormat https://t.co/qmhoOkvVUh</title>
+    <published>2026-03-01T02:07:41+00:00</published>
+    <updated>2026-03-01T02:07:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26057</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26057"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/SwiftFormat &lt;a href="https://t.co/qmhoOkvVUh" target="_blank" rel="noopener"&gt;https://t.co/qmhoOkvVUh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;&lt;img src="https://cdn4.telesco.pe/file/pYg-dYoydElcEtUKiebZ7Mia5KV2JVSCdf_sF7GBPBbx8WRoBHFyzrn1L24UrzQKDxQpax-BWGwVVO2WuUlI4nazzJ7Wsg-gz9B_QEXkuzMWODm_V6SdZ2Rv52WfrlaBNUorGb2tvcGxsKkTJJhA2F0rDEAdIoGiWSsjPDQrcKTpgH521zpPiWJqMBmT-3xacsn6_xQAo_9QpwZR1SF3d8ibA2SgsyMBzKJPvv8I1otdbwullut_aF5RCbqsB5sFtgCE54STB4u_ctu5GY9PgDIFXml2_2aKLm2sj2H99luuv4Mos5ZWl20gaQXQJtji9QpV7Ur4-cj-affYPNcAqA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;
+GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code - GitHub&lt;/a&gt;&lt;br&gt;A command-line tool and Xcode Extension for formatting Swift code - nicklockwood/SwiftFormat&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : productdevbook/port-killer https://t.co/6yVby5RzNX</title>
+    <published>2026-03-01T02:07:41+00:00</published>
+    <updated>2026-03-01T02:07:41+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26056</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26056"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : productdevbook/port-killer &lt;a href="https://t.co/6yVby5RzNX" target="_blank" rel="noopener"&gt;https://t.co/6yVby5RzNX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;
+GitHub - productdevbook/port-killer: A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes… - GitHub&lt;/a&gt;&lt;br&gt;A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click. - productdevbook/port...&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Meeep1/EeveeSpotifyRevivedPublic https://t.co/FolsI5xVAo</title>
+    <published>2026-03-01T02:07:40+00:00</published>
+    <updated>2026-03-01T02:07:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26055</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26055"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Meeep1/EeveeSpotifyRevivedPublic &lt;a href="https://t.co/FolsI5xVAo" target="_blank" rel="noopener"&gt;https://t.co/FolsI5xVAo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FolsI5xVAo"&gt;&lt;img src="https://cdn4.telesco.pe/file/SE4kW7B0_YRUQhh476rm5pqOJhyZXjQY-HeMaV7tR25-II2sYcoAhophUJ2QDQEB9MOBr46pxh2ukiqU7IgnUmbqE2cjYI0ncsP8xK0CAiI_QWfQK5WGPDbTvKyTY1GdF3N2MKoyk-TGMD7FPP4vZFKbvb2GHPDl5nFRhQSmWrc_GBfypav9kt_nlEym8-HQfUPpsQVnrbkOMD_f6rrgM5yeWp8YUV9lBxAmEqN0zUaEHrg2xlXjtp_VGsvGZqufKJw4CSly7YbUJc_9fV9PDK78fxGiZt9B0vzbze42tX9yMoaGpw3rd2BqEfUWvTpkTBc9i7Eo96ByVEdAdSvx_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FolsI5xVAo"&gt;
+GitHub - Meeep1/EeveeSpotifyRevivedPublic - GitHub&lt;/a&gt;&lt;br&gt;Contribute to Meeep1/EeveeSpotifyRevivedPublic development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : modelcontextprotocol/swift-sdk https://t.co/Vhhzatekw1</title>
+    <published>2026-03-01T02:07:39+00:00</published>
+    <updated>2026-03-01T02:07:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26054</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26054"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : modelcontextprotocol/swift-sdk &lt;a href="https://t.co/Vhhzatekw1" target="_blank" rel="noopener"&gt;https://t.co/Vhhzatekw1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Vhhzatekw1"&gt;&lt;img src="https://cdn4.telesco.pe/file/EJfTVzpYcgNbjS-kRf7IYXM6Zikn0Obz78_F1ttoNDigbfjEUxhV4p5OOzvsBwJybWXJE1WUItYCwZR801Og8hRWzAdNKmz4V3aeljYNj1gzVrHoxGJB1EENyQnwH-CK0EspTZ6bHsxzMgHVVyhfwJlPH_EuknVitWhTAuCM-FQoZwcXsZk9YAl51G_FcUbOXJGCe8Zl_SbH_kgi8X8hxr3YV-XJds3PSO_8XrJu-3TxAYsFTrLpgoAB2wGA95WnAZaqfO7S_hKtw5KPimRO_G8edNltxItwyfZteZzp5a_DlrlKfpQyup2dLLInYi3nJPIzZs0Deaa1oJRMQPTGCA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Vhhzatekw1"&gt;
+GitHub - modelcontextprotocol/swift-sdk: The official Swift SDK for Model Context Protocol servers and clients. - GitHub&lt;/a&gt;&lt;br&gt;The official Swift SDK for Model Context Protocol servers and clients. - modelcontextprotocol/swift-sdk&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : steipete/CodexBar https://t.co/AidzjVVsr0</title>
+    <published>2026-03-01T02:07:38+00:00</published>
+    <updated>2026-03-01T02:07:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26053</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26053"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : steipete/CodexBar &lt;a href="https://t.co/AidzjVVsr0" target="_blank" rel="noopener"&gt;https://t.co/AidzjVVsr0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AidzjVVsr0"&gt;&lt;img src="https://cdn4.telesco.pe/file/S6IEFuovUB-VXG0h515iH_RJqPnP1hax4aFLLAfv5NaFYhLj2c-s26Cr6prVRX3AaPzX6rC7slrJaFVUtpL5_dsyE0hp_BuSetX2fer6imKmLMCQvEW0_MlViAZt3Z5Z72kf3JxML93cIeV8XLhCsu7bJmbeC05HeFGiI0VZUZvd4dFz_8nqcx1qFNpj-cCQAqZu2QRYoeiv-4zuh5LgpBxaoR029U9TBtCfyoiuN7ea7OKkksgls_GrkW8a5JSJUa-zsWMWTBKbOVE0laPbagxUfO1Yigsrn0SzQkZeSlqlvo8lyPNS3pjv6TetFWhwcl72mMGs1N4qTpNU-iTVRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AidzjVVsr0"&gt;
+GitHub - steipete/CodexBar: Show usage stats for OpenAI Codex and Claude Code, without having to login. - GitHub&lt;/a&gt;&lt;br&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login. - steipete/CodexBar&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Media Transfer Protocol Tools https://t.co/KLKzuqwTMm</title>
     <published>2026-02-28T21:12:40+00:00</published>
@@ -44,7 +104,7 @@ In this video, I’ll demonstrate how to recreate the Apple Stores App Minimizab
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nakst/gf &lt;a href="https://t.co/BMhYZIvA5r" target="_blank" rel="noopener"&gt;https://t.co/BMhYZIvA5r&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;&lt;img src="https://cdn4.telesco.pe/file/BswydaYz6oqR0O7SNIg0vVEGKSwUkTH0CYMgio0_EuriCfnJWePcoxy7RE5ZszHikLhVvmSWp3VpunUXwVYRZgzg6dsMKoMdGIXYdW-L5s0e7sGSkcSAq1Kd0OQnAHVAVuxjOTmtq4no8VaB1sUli6-6yU2kzkmY6fB3-ifyq79QCv15VC6j413gKxNVrrVLTZ_YX2wlSctmnSntrbKBsyK2ODhqR8etFKboc-GJ9jYId7vW7K_Sw4tCJafbVYhY9kgVrkyXd_XsquRX4ZCz-T4mopBwSByF6KR9kY-NGmsWvwUCFiMBXG8E1pLa6Bn4GEPLcC6g2snnKkNBQ18YgA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nakst/gf &lt;a href="https://t.co/BMhYZIvA5r" target="_blank" rel="noopener"&gt;https://t.co/BMhYZIvA5r&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;&lt;img src="https://cdn4.telesco.pe/file/pgnXo-S75yXkSj4e8OXounsUVjFysHegGRP2spZKTQleV0OUoKPdDru8Luqa-UsmLQBPN_wJ8YJqt1dPFsiB0_hHuc0CLcFzhl9ibc2feesoGWVIsQYM9pysnMOgNc125FWVIK_-6IQG-tJB5bfLuBoFE8YUDG2_GQ1DWNtGYw8LREaVcD6sDODZLN4OB-U-ej95uIpaRWh6TarkafEgTmHPHQ8v6vXIyb6DFkN1ieicfwlZE6crHCm6zeCExAnK6296CSwvMolxyKqX92tl_phf7c5o4RrucLtuNhBd94e8RlyUum5_4rG4za3ldxHitISWUD7STZ8BR41Tb91HOw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BMhYZIvA5r"&gt;
 GitHub - nakst/gf: A GDB frontend for Lïnux. - GitHub&lt;/a&gt;&lt;br&gt;A GDB frontend for Lïnux. Contribute to nakst/gf development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -56,7 +116,7 @@ GitHub - nakst/gf: A GDB frontend for Lïnux. - GitHub&lt;/a&gt;&lt;br&gt;A GDB 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ml-explore/mlx-swift-lm &lt;a href="https://t.co/EstG0eWE8u" target="_blank" rel="noopener"&gt;https://t.co/EstG0eWE8u&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;&lt;img src="https://cdn4.telesco.pe/file/V8Uj_hixbpSDUK_546TI5C_WjZEtbTrrpYQH9K0xdUift13qLdLdiLfQZvVGJdt3g8eBcRu9LCtidNfT6lTwpOaHi0AYH5H4tx1kmwg3jWcyWKDE56iHBDRpc8wA8RMifwluAEtaH_aXRN3uiGnA7vG9omIhaRqU_nGRwAThKkaXLxFLbyI2I6GPziT61dfmvSC6hq6IcZJp5I84TmWFGa_8l2H6hMdE6egaSGrs-1-SLNzN1gZOFUWyGA70AmYbu8QbvGkS3EEo2VtR-9UvUxogK3QKHzMEovNVRG-9tSv5YR47T6v5U2-f_xKjPZSaKiJKn7x1Fd8nev3VdrOJKg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : ml-explore/mlx-swift-lm &lt;a href="https://t.co/EstG0eWE8u" target="_blank" rel="noopener"&gt;https://t.co/EstG0eWE8u&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;&lt;img src="https://cdn4.telesco.pe/file/cszIh_wLF4HJoDO3EXIUYNwCBIKth8ABhVgO_VXqIQ4Fm6gq_t1ZEsyqnEes3MS1GC09Mnj6GClk7wTGDrh7TM1MJOWX4C8NsZcK8vsFlF2RNsnozTiZLYF2YkI7-SBOole5RoUHNZp1u6TyGfuj2S2QN4MvLYQmtjB76ODAH1Wd9mcoLUzzKg10cZX1bbQbEwKVNWsHOsaUSeXru4lRyJJrHKLSqSXmudUKFBp2njD8hTN0HE6KrbxirdiVxU7yZMZkoVAlnqbs75QKqKX013I6qRYz7CPTVPn9rvOmRziIwA5yELaBGTd4ih-NxJowTaWPVJL4kyLWZoJ3MP-JEA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/EstG0eWE8u"&gt;
 GitHub - ml-explore/mlx-swift-lm: LLMs and VLMs with MLX Swift - GitHub&lt;/a&gt;&lt;br&gt;LLMs and VLMs with MLX Swift. Contribute to ml-explore/mlx-swift-lm development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -80,7 +140,7 @@ GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS - GitHub&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : SwiftyJSON/SwiftyJSON &lt;a href="https://t.co/wZwFXAFbHl" target="_blank" rel="noopener"&gt;https://t.co/wZwFXAFbHl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wZwFXAFbHl"&gt;&lt;img src="https://cdn4.telesco.pe/file/Uv_zhsPGXRjntFLrII7Li_aD79ZJaXREr2Fdxu5H9q51ptlU21qo8PT1j34egmq-qCgMZWB8mXuO2i0UBoAHLeNQxcJ0va_Fk9Oq_5j-BoCfkuf3EWXBDsQ4N__sQfcnOXgu9DFmMF0_rFI25ce_13Neb8pieo73IiwVXIfsoIjVdNbyVO_XCc19GJGPSO2qdfcYYtf-DK0Ik-YSohDwBDVp6gNI1HwQ1BV8ouimfSpxu8TCNC9UU3-6PpU7h40FVYnR2rZHwCg_jqKLZUypUmiPgZ1dPhc5pbBPUzHS08wrYMLf9XrhTPPa7Qv1Ogq_pb0nQ10gsXa4IgZzXM2tTg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wZwFXAFbHl"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : SwiftyJSON/SwiftyJSON &lt;a href="https://t.co/wZwFXAFbHl" target="_blank" rel="noopener"&gt;https://t.co/wZwFXAFbHl&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wZwFXAFbHl"&gt;&lt;img src="https://cdn4.telesco.pe/file/scwY_YN8w6S9RAvC5cTgDRm-OYUXjNJGgK16awLr6pEHPvfcK6O--JeGEFYvlo4l6Dpgi-h55-BQi-knyTuIDbaZ6Il-ZuUgEMFRND4j-BVTyZMgShpu0HGRS08B_K-RItEZPkdnygU6SyE4FEi_cJiqr-IdoX8VV-5Yp7P-gDbRi3BCpSNLVdAJy-sDaVMAEZHsugNGarqtOa6YFElIxCFLxxiJGQHxXoQWuqe_FxB_bwEOsIN7AiZkHDmNLT-Ofv_2Rxw0fnXDVtbFCuK93MaAWH_0jOS_p3rdh0Ftxs35SjoXZqGfTktejLmtEoBzNLoVaymaFGURBdWlEZhFzQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wZwFXAFbHl"&gt;
 GitHub - SwiftyJSON/SwiftyJSON: The better way to deal with JSON data in Swift. - GitHub&lt;/a&gt;&lt;br&gt;The better way to deal with JSON data in Swift. Contribute to SwiftyJSON/SwiftyJSON development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -92,7 +152,7 @@ GitHub - SwiftyJSON/SwiftyJSON: The better way to deal with JSON data in Swift. 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swiftlang/swift-syntax &lt;a href="https://t.co/XdjRQ62pJr" target="_blank" rel="noopener"&gt;https://t.co/XdjRQ62pJr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;&lt;img src="https://cdn4.telesco.pe/file/i1uZJbEcEDXVrIaLDsFwf7guGa-dE-9Gjmt8t5FAuQX0ozYObPddEiM3jyPCv31CDAyccPH7VZ7Ph1ISwrFgnkqnKrwcX9UpQiH76DLw9OeNAn8kmmPDlzi__1bJcN7VtvWILQbyfgwuFdbNVOeThXv2T-GvK1SLftH4d2sFZdkEmmQgmTddHWXEo5Kgf73GS15go7c-RoiQWH6cVsDbcQ8bJvLBWDaxXYUph36wIR6U4DezssNxiJljkQvVEMd8saQPO4RJaEzKnsASY7olfiW84uE1Jd3cJ49Md2YroVuMChmVaKy2fntNs5ozdo1Cb0NtZHGCYUvCN3e1OVw75g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swiftlang/swift-syntax &lt;a href="https://t.co/XdjRQ62pJr" target="_blank" rel="noopener"&gt;https://t.co/XdjRQ62pJr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;&lt;img src="https://cdn4.telesco.pe/file/qy893I4M7xrkJTjAWvRABEetc4gEUd1ih8y96N7D_BhcPXHQJkzpSp6PkH7kAX-GFSzRxi7wgLakh8TcbxuhnqJ6E8C1zv9fTzDtOdT57oWh7aZ_ihXvxU2-auw0rBAkpLMTJrE4LouXiFEaTDtUrVUqjHlF0dKVxTGd86_7rm-6s-2d8scwBw73ClRNuBsdBLRoSd9sQwhRk1tEobvzRpUoAd4gXcppHwKPnvWa-yI48aEuDR_BaNI_C_da1HK_2QaVji0X7DvTmBfrosb5OCIwFzESOm-YuufGsmQtsJKbHSBfTxkRysfhIQITL_lKihkJQLqwN7QUUPHG9rT-cg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;
 GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - GitHub&lt;/a&gt;&lt;br&gt;A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - swiftlang/swift-syntax&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -151,7 +211,7 @@ Emacs Complete: Feedback Loops in Emacs, Feedback Loops in Computing - Christian
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : home-assistant/iOS &lt;a href="https://t.co/D83j4PLDCV" target="_blank" rel="noopener"&gt;https://t.co/D83j4PLDCV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qsmi9_WJX_c5CMnA_1mP24aMHMEz5_BIAH9r7oeC67ntIiU-szNA4HWvUzOmOD_TTCvD-2MfE84wgbwS1442aFRThKH6uUUAehIu2SPne8PnJaVVsh5hhHhV4Wr4XVByqLHv93iJOnwMrV1JPr5pwXOKy43K98r-MFRX_4VlMgb8C0FilHzokU8BuVp9VW9rRL4H8yqahKF3p4IHnqMhWL4IO2yMGCAGFJXnYbvYo66gG72tqmjF7OSn1AZL7yGSUEj31vhacj1cxghFbZGUaNTjzRM8sHVo2zEvMaMvnHf65x7TRSf0GSbO-pvmekWEvTcfvbWmzAf5BH-ZZL-1Gg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : home-assistant/iOS &lt;a href="https://t.co/D83j4PLDCV" target="_blank" rel="noopener"&gt;https://t.co/D83j4PLDCV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;&lt;img src="https://cdn4.telesco.pe/file/MH8znnerdGUWEgoUDK02X_yUh8Zh_X1mnpuoVcezw0k1mga9Ep7Bh6kAG3X_1ci6w5SwvimE6CXi907HzLWxYSg6OxmpyJvHyx9CLxng79U_7Qzl7wKXlZyBuV57KDH9iI45rAsPwv0lYRsRSvDHlQC8xIX995cM3mN89r0n1uh_sopaDpup5V-RRvMWpvyh46VZaxPaPncQAuUlHe-dsmdkQtKFiyZ9gJa2i7YcBgMxaqbP0GeaPLBVN_-FVzu6-L-QMJgUNTZCjj6uBRWyGFl3j5pVlPCHVAsC4_39IthDgJt9RwnNj9AiorV9Pg2gFCkNMM3lQ_iiUFmiCGikyg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/D83j4PLDCV"&gt;
 GitHub - home-assistant/iOS: :iphone: Home Assistant for Apple platforms - GitHub&lt;/a&gt;&lt;br&gt;:iphone: Home Assistant for Apple platforms. Contribute to home-assistant/iOS development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -189,65 +249,5 @@ App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y5ioqXeSU_hwX18xRLl1rPDtW6HbT2MKsIjl4Ns8oNKkeE-1mi7QHZe08O736-KSFXMJtZ2H0PLPqEGEvpUwR6XdONRjWd9Hs2MvSCkhkTuOHuW8_7-RV8rESoB9huRTo96nMGj19qJzprtkkoQ7tGnnDVc9aCWhJJnfzSghkp207zDXYdtQMad_CK5BFGDnHW_SzkKamoqfCThGDyLeddifwnNSeUl-fzrXu46HaA6jZW89kVLx4M47P9IVZoyvSetDbTWQOxGXBm3FUT89MRhAoaqPSydmj78TaW5vD8HmDYZXturpAkNTJc-8DEecxg3BrXEt-frQow4sZISrWA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
 Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output...</title>
-    <published>2026-02-26T06:47:51+00:00</published>
-    <updated>2026-02-26T06:47:51+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26037</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26037"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output &lt;a href="https://t.co/qMYkKqx0SB" target="_blank" rel="noopener"&gt;https://t.co/qMYkKqx0SB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qMYkKqx0SB"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qMYkKqx0SB"&gt;
-Coding agents for production iOS: a senior engineer&amp;#39;s setup for 2x the output - Vova Ignatov&lt;/a&gt;&lt;br&gt;How I doubled my output as a senior iOS engineer using coding agents daily for 8 months.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : onfido/onfido-ios-sdk https://t.co/cJ71aosNFK</title>
-    <published>2026-02-26T02:12:29+00:00</published>
-    <updated>2026-02-26T02:12:29+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26036</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26036"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : onfido/onfido-ios-sdk &lt;a href="https://t.co/cJ71aosNFK" target="_blank" rel="noopener"&gt;https://t.co/cJ71aosNFK&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/cJ71aosNFK"&gt;&lt;img src="https://cdn4.telesco.pe/file/rfslzCK186aC9jwAA9txRK2hUg2GlECgZgAaAifNF-J_Xem-NPHKL41dDJY99BF0a60i51Nkiz9pytXf2oWw967umq3IIpzisQhoEkFgdmQVCWorjLJTRdZ0_cSuOJoOI0FKRqQWtCKt37w7SPOtzzdETvSKlPQ1LJqsok2kWG-Uhx_6x1y0m0yt1Rz7cDDoxF-Og-ociIdUkPXycEC_b7SAJp0oxxXimwfK4VMJTOKI0wA8AiJcWd-JggLGPfzL-1FASDUUSQ-RtAEcVZ7N5ORXra57qcYZZnwVoOTmAabng5FYlkwntVNd9mHEy1EUIFOv9uTxM_1vHcrB-xmL3w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/cJ71aosNFK"&gt;
-GitHub - onfido/onfido-ios-sdk: A Swift client for the Onfido API and a collection of UI elements to capture photos of documents. - GitHub&lt;/a&gt;&lt;br&gt;A Swift client for the Onfido API and a collection of UI elements to capture photos of documents. - onfido/onfido-ios-sdk&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : shakebugs/shake-ios https://t.co/089kinciLp</title>
-    <published>2026-02-26T02:12:28+00:00</published>
-    <updated>2026-02-26T02:12:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26035</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26035"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : shakebugs/shake-ios &lt;a href="https://t.co/089kinciLp" target="_blank" rel="noopener"&gt;https://t.co/089kinciLp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/089kinciLp"&gt;&lt;img src="https://cdn4.telesco.pe/file/VNnNB2bUHHH96WUWKJC8I46yW1NEfuQXZokmSuWXNKWAQQZCtLp7sXxTVE0gbt2DJcJSXt0reuFv6CRbGGTYvoRZbeMZ7D4VPA1WKkA0s5V05CV0BnU9OwH_K2k3LQIYMV2ztczHhqV_6X5wOFNnK-Jsf5yDijLb9mnF4NTxSphr2IpG3rrZTdWzLKETthG_43AhVLrfMG8TFJlq31M6zpVGxD_kysvBbuJVTNnoxQI46ZN0j1roYcBZ1DTyC63U4CcuycWzZ5gVrEk2pTOGb7cd-AeIo-WWpRZ0icBdapDwpgVeoN8QhwgH3meimRCnlccB4sbKnPBUDdkrU_5HYQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/089kinciLp"&gt;
-GitHub - shakebugs/shake-ios: Bug and crash reporting SDK for iOS apps. - GitHub&lt;/a&gt;&lt;br&gt;Bug and crash reporting SDK for iOS apps. . Contribute to shakebugs/shake-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Caldis/Mos https://t.co/uB0VHpJnC4</title>
-    <published>2026-02-26T02:12:27+00:00</published>
-    <updated>2026-02-26T02:12:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26034</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26034"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Caldis/Mos &lt;a href="https://t.co/uB0VHpJnC4" target="_blank" rel="noopener"&gt;https://t.co/uB0VHpJnC4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uB0VHpJnC4"&gt;&lt;img src="https://cdn4.telesco.pe/file/ot4dP7uoXQHx-ZVBvy5d6QLB1ssdECApr30usy_OTml0vv48htfcslTVRuODp14Ljrs7PDvKLvWNUaYrFFbeGhZFSIRwUPzmKdSuob2d08WhgyK4mYj0Z9aMlB8mHSsSi1lHo397_jf42VCLOacTeoLDuFPrLEv3qCBMHxVF9vGmiDjjbvHLOfSTK02kM1CrutBv8RzZK2n_PO_CHfwS1dG0D50ZhsR_kmUgR0UT3-LfxV7baPG0zAWLFuSaFwFRbX3zMXzJyQav4IdUiO6HHl9IYwiDuVUrT_ozgYlszpYrnXuZeULPF7_4CN50Ju9Zq50gEIgJh5jGjFSejn1qIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uB0VHpJnC4"&gt;
-GitHub - Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll… - GitHub&lt;/a&gt;&lt;br&gt;一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS - Caldis/Mos&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Ebullioscopic/Atoll https://t.co/bkOsugL9HJ</title>
-    <published>2026-02-26T02:07:27+00:00</published>
-    <updated>2026-02-26T02:07:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26033</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26033"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Ebullioscopic/Atoll &lt;a href="https://t.co/bkOsugL9HJ" target="_blank" rel="noopener"&gt;https://t.co/bkOsugL9HJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/EuoYpKugJOAxYtDXIlemx5nDBCjsqI9sJyGpmHb6qzUDyjy65k07aPZl1xmdoc3HJIZ-uCzWIaBxjFqk_DTdkU0vnVoOMv4rHoyB8TX6rKLY2II0TpYtsqxW-WBPDKbaoK8c0muUCwwEANCxXTV9fcpJOKYKn2LIDEBCBFnsd3-vAFNnrExPDUUV1_GI4LGJGD8azaLxG9u5chj0wIWxTuxgPQz4V8j28M95hdRQ6TMTpH9BobT6bnhGszAkRvFZwkWsjsYBjrrO43Kn-S8Fd0tOQqBDY48a_oa3VZvs96IwcI6HloMVXL-lsqdSsi8y3el-0WodeFIt1IH31o291A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bkOsugL9HJ"&gt;
-GitHub - Ebullioscopic/Atoll: Dynamic Island for macOS - GitHub&lt;/a&gt;&lt;br&gt;Dynamic Island for macOS. Contribute to Ebullioscopic/Atoll development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
