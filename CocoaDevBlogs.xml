@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/jt5y91SfEYS_5fBarR2el_Qec3_go7uhmacuTUYsl_BZzbg4xLm_Ka75HgLXWfZkMhcP1bMht389CRNeQg_tgZmHoXFaOq0_RRH1LR-56E-5POv-L1tPctG66mAvEE_YBv1_wet9o53DiTcIwDYBBLiYGvsaAbTCaTPbngqu2t03mFVkUGz65JEwZN4QJqi2QIIQAWXJlMhmk-rivvfAQEHcaxdTiFt1KrWrIuH_aocfGEApldf3fS_Anst80YT2TQO5-er713G4ojfvLcDAD_N-rPjFA92z3jboKWlPP-93802C8dhVSj7chw4OpZNC1AtwvIo53rJu8XTEZ0jrEg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/jt5y91SfEYS_5fBarR2el_Qec3_go7uhmacuTUYsl_BZzbg4xLm_Ka75HgLXWfZkMhcP1bMht389CRNeQg_tgZmHoXFaOq0_RRH1LR-56E-5POv-L1tPctG66mAvEE_YBv1_wet9o53DiTcIwDYBBLiYGvsaAbTCaTPbngqu2t03mFVkUGz65JEwZN4QJqi2QIIQAWXJlMhmk-rivvfAQEHcaxdTiFt1KrWrIuH_aocfGEApldf3fS_Anst80YT2TQO5-er713G4ojfvLcDAD_N-rPjFA92z3jboKWlPP-93802C8dhVSj7chw4OpZNC1AtwvIo53rJu8XTEZ0jrEg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-01T17:25:08+00:00</updated>
+  <updated>2026-03-01T18:38:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Implementing Passkeys in iOS with AuthenticationServices https://t.co/57X2BMmPIB</title>
+    <published>2026-03-01T18:22:14+00:00</published>
+    <updated>2026-03-01T18:22:14+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26058</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26058"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Implementing Passkeys in iOS with AuthenticationServices &lt;a href="https://t.co/57X2BMmPIB" target="_blank" rel="noopener"&gt;https://t.co/57X2BMmPIB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/57X2BMmPIB"&gt;&lt;img src="https://cdn4.telesco.pe/file/bVNFMTfkLh73zpPa7HLPOlkPIiAVWAyXf6n3BQIV5RLM3-xcPJSsPxbPi4-U2ctXrp0YdUOrKHvLuAg1SNYlbvvH5QTjrCSY-Oc1TfyuhAP7JV_YrszuwnkAB81dWAAOYw0IS-5cShr1CbZkI7iFNFpIG8wox3OMzRyW1T79x0c3vBdlQPQ6hQt2dAi7U2mXpn-g9Hg5aJPqBuavHePDAdk6BS897euLSouHcB0chbfB7o0knT0d6_kXH1kUQ8fgWfXDVBjCyU0LNIYpDbavZuZiQZen7Kpmpupoqsn_IO_xXOcfDyQcYZKQfAfcybKGz10OGUbx1j-Am2XC2zKz8g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/57X2BMmPIB"&gt;
+Implementing Passkeys in iOS with AuthenticationServices - Tanaschita&lt;/a&gt;&lt;br&gt;Learn how passkeys work on iOS and how to implement passwordless authentication in your app using AuthenticationServices and the WebAuthn standard.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : nicklockwood/SwiftFormat https://t.co/qmhoOkvVUh</title>
     <published>2026-03-01T02:07:41+00:00</published>
@@ -237,17 +249,5 @@ visionOS 26.3.1 (23N630) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect Update &lt;a href="https://t.co/kGZRDJWTi4" target="_blank" rel="noopener"&gt;https://t.co/kGZRDJWTi4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kGZRDJWTi4"&gt;&lt;img src="https://cdn4.telesco.pe/file/rMo3nLxMs8o8j0Ly_DlTaMYLtqwB7Atg85qhlcN5lqWkYXGTs8-_EYAYS9TfdvTTICqnca0p0MvswK7mzN6Uvb4Ozg2YdMIhlb4phfqkKNb-bp95d8CVxvMpM5CnPdlgz8LfZTDkUBpbKZxh-tZeVU3ia1KeyJGEW66MqFRK-4IGtosf7R7tNmwArq7Cqv-dXlTK4XlrZExcbFX3GGVWnDzCb9_Bgn2XHzhzTHdym7dqYdS7EWo-55x7qPt2MHMWxbnAm0iVR2FA8a0GIHYVLAr77b68OJhwx1tQjVDTPB_N-R0gpp3OIjLVxpqHa-UK0gqMEe0YAc8_mzk44flvkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kGZRDJWTi4"&gt;
 App Store Connect Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Xcode 26.3 (17C519) https://t.co/poWPkZ8XFI</title>
-    <published>2026-02-26T18:27:49+00:00</published>
-    <updated>2026-02-26T18:27:49+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26038</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26038"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.3 (17C519) &lt;a href="https://t.co/poWPkZ8XFI" target="_blank" rel="noopener"&gt;https://t.co/poWPkZ8XFI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;&lt;img src="https://cdn4.telesco.pe/file/Y5ioqXeSU_hwX18xRLl1rPDtW6HbT2MKsIjl4Ns8oNKkeE-1mi7QHZe08O736-KSFXMJtZ2H0PLPqEGEvpUwR6XdONRjWd9Hs2MvSCkhkTuOHuW8_7-RV8rESoB9huRTo96nMGj19qJzprtkkoQ7tGnnDVc9aCWhJJnfzSghkp207zDXYdtQMad_CK5BFGDnHW_SzkKamoqfCThGDyLeddifwnNSeUl-fzrXu46HaA6jZW89kVLx4M47P9IVZoyvSetDbTWQOxGXBm3FUT89MRhAoaqPSydmj78TaW5vD8HmDYZXturpAkNTJc-8DEecxg3BrXEt-frQow4sZISrWA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/poWPkZ8XFI"&gt;
-Xcode 26.3 (17C519) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
