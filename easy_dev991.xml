@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/REiHNC05Od_oO7xTnWmR6rxchwkjDFMN79ZTxWiBTczil2dNOTRB6T1lKFAjt0U4v0DuVLAZrCJTJo3SVNm-SY9c6RJGrY4E9xrHvgWy937j9XcRhDk1GoSS98jk3pfPMzJa6MtXomWoqy5rd6mxR9xYegA546OgjPuNLoPgkS_8hsnYib0p8U-oXqI4RIhH6930sTjhxpSGiSghb838-cLUjedc37eIkrzO5HUykxyUqLHgMQ-WMx9Y9CXGHbfkbA3J5SFiAoFAS7P9cg6dWXkNHKs_pzFs35g1mVLKKtirXEnRUIIGzUHWeGDpMWRexRFISMiZdPEAtDdsfOaAlw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/REiHNC05Od_oO7xTnWmR6rxchwkjDFMN79ZTxWiBTczil2dNOTRB6T1lKFAjt0U4v0DuVLAZrCJTJo3SVNm-SY9c6RJGrY4E9xrHvgWy937j9XcRhDk1GoSS98jk3pfPMzJa6MtXomWoqy5rd6mxR9xYegA546OgjPuNLoPgkS_8hsnYib0p8U-oXqI4RIhH6930sTjhxpSGiSghb838-cLUjedc37eIkrzO5HUykxyUqLHgMQ-WMx9Y9CXGHbfkbA3J5SFiAoFAS7P9cg6dWXkNHKs_pzFs35g1mVLKKtirXEnRUIIGzUHWeGDpMWRexRFISMiZdPEAtDdsfOaAlw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-03-01T08:35:49+00:00</updated>
+  <updated>2026-03-01T09:33:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -21,7 +21,7 @@ https://teletype.in/@easy_dev991/BJryrCj0DMr</title>
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr" target="_blank" rel="noopener"&gt;https://teletype.in/@easy_dev991/BJryrCj0DMr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr"&gt;&lt;img src="https://cdn4.telesco.pe/file/Nz7-apxh_lzp_vBESndxi3i1xnnOPIOy-IhaKJaKzU-9-WcrVqMYYoEvKxow6kg14s2QXalNZ3rfuZWcwiYz7WtpyyWTZN9dwHyRbDlcTkh3yncsf-8asT7fCZAMhpyXD-CcgYX17J3pl6s2f7ZVpdt4Hz7rh4ZfU5EjcBnpEWvQ6-lpsc3nC-XohXK1pU9K7amkVx7wA09FSrpbfrEZwYCOFJuZpvBp7ANACwJ4VGMACYy-vwjslPsy-v6wVU5IxePQT9HsECGamkWq3VG_ovoOugB1HbuD7OXmGjMHDLa1jKf06g1nhwF77jF4sweqPWpahP2h6W98W2nCO11E0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="?q=%23bug"&gt;#bug&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr" target="_blank" rel="noopener"&gt;https://teletype.in/@easy_dev991/BJryrCj0DMr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr"&gt;&lt;img src="https://cdn4.telesco.pe/file/CoGHLO3CPVNy1apmFKdczjQz71zG00YDmn_6LIgipoUBTfIR2ilR_8xLnwpP6ixP5_nwOeGb0hgPzvf9MjPjtfNoN6zIBL0cO5tOUeDcZfar1fEtC9nMXSUrg8R5kAChfeXAj8JlIaWYiz7PhJldO-X8ZMsE3pAodeZX3OXDmF2JLbTnrt_4jTH5B1thMJMK2qTvD2XFMLMAx6fMwwSWfkacZ35qjOQ18C9q4ahIpK442GtnnWpqBNmO2xCgNkT4wb5mUvFpJh6I3SiIAn4PNYvqZPqJEuExDceeFm9JP0weV8ByZ-FX_HW6AYOr7WVHql8E4ZDwfD6O5tOzvxkCmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://teletype.in/@easy_dev991/BJryrCj0DMr"&gt;
 Xcode 26.3 Coding Assistant - Teletype&lt;/a&gt;&lt;br&gt;Вчера активно тестировал режим агента в Xcode 26.3, чтобы вам не пришлось&lt;/blockquote&gt;</content>
   </entry>
   <entry>

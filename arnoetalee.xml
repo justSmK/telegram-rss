@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/DMRIhnLQoNJ8f0mX9TdSEdl4RyGQQYEqueKEm9-QeJ_ESUfrb-RiSkD4iW9mpiiphC1jrXV6zd7ouEy6hP4y4chZLJiysQJPAHFXQyPeytHhU8P84H_nuxQw8HROBpidzefZdMXFtCTXCsFc-bhUrUkpJFBPNZV4n_ZrSXN0mPA6WYCUk7hkY2GirMDBXyGOwUcg8oVwj6T-LoNw3yvm5ifC2cl7fCQ2ZxG-1I0W1Qt2DUhJWDHXDFphBov9jqgDo5TYd34PlDgKiipUkU7BGf82Iq9mF59vu8wubd639LDYaL88OKh8HE3LRU4eRSUTFSayfi2nBNARgV0epNfoaw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/DMRIhnLQoNJ8f0mX9TdSEdl4RyGQQYEqueKEm9-QeJ_ESUfrb-RiSkD4iW9mpiiphC1jrXV6zd7ouEy6hP4y4chZLJiysQJPAHFXQyPeytHhU8P84H_nuxQw8HROBpidzefZdMXFtCTXCsFc-bhUrUkpJFBPNZV4n_ZrSXN0mPA6WYCUk7hkY2GirMDBXyGOwUcg8oVwj6T-LoNw3yvm5ifC2cl7fCQ2ZxG-1I0W1Qt2DUhJWDHXDFphBov9jqgDo5TYd34PlDgKiipUkU7BGf82Iq9mF59vu8wubd639LDYaL88OKh8HE3LRU4eRSUTFSayfi2nBNARgV0epNfoaw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-03-01T08:36:41+00:00</updated>
+  <updated>2026-03-01T09:34:04+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3043"&gt;&lt;img src="https://cdn4.telesco.pe/file/nOhXsQhP2M3Sm1ku2Bzosl9KTtrXGj4EdpL0nwXkXpqs193YwKB1NJKPJyYpCNMm6ebge4D7vtE50hHdp227kXvlIKLMfMY6LyaanpTtn8Ti9Ni47ltprgNw9PCOVdPAAKyuPnNnneBLZaWsWWkQHv1yOPyL4b6Z4i9iIW1Lz26yhUVDtBzYH3oRLiCIxQo4weTKeNQ3cSvE3vwHFimKGiKT5NA1exiBDvgrEoW2P7idgjlVRM8bYOWpZdR7oU9s9-CXnIsKcIwLLAbZfaDSDDLCnZcGyM27Fbe3OGdNoawzBRqR00raW40GF44kNXcBVbKqeOUGGq6M8e-xhH9q6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео на канале - &lt;a href="https://www.youtube.com/watch?v=CwlSGWZWXdQ" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;уже можно смотреть.&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/arnoetalee/3043"&gt;&lt;img src="https://cdn4.telesco.pe/file/AE8KYnAly50EVfPmTn0ttnua9LT_wZxUYTvY6mHWlgdpKhFzO-ieUI10mbgpb9LbnxZjYYncXKPdruWG1cw3ffmy2laK8cC3PGm6El9wUz3ZHkB4CEqSX_h0qaDVbNc-cfxvCPqPs3msbT61xExKN0GW7c51DC41gqqPvrxW2ptniq0Rx6n7DR6YBQ5X0tZ4u9SPzZQ7JO6BHdUjDMyXUOLpUYMtFJhRZ-D7IHlF1AUHhwqzI77L2IFPEhwThF8wW3wf_z-_HT8RFZVMTsHJf0pLbbdOUE0Q5n0IN1aMb6RlJDLBD6It9CD9ZXfc41BzDYZYFlJGdCnPVWA4Sateog.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Новое видео на канале - &lt;a href="https://www.youtube.com/watch?v=CwlSGWZWXdQ" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;уже можно смотреть.&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">так вот, о чем это я....</title>
@@ -30,7 +30,7 @@
     <author>
       <name>Арно Тали</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/arnoetalee/3042"&gt;&lt;img src="https://cdn4.telesco.pe/file/XKq6v-sNUWoSBSuYh_5tGOJOvrSdXbNWafG4aK8gNyEKFccJ8e4ykKuNGl7c8m5_sDP5qA58iPfq-PrAU0bvd44JaS-mzbTLehy8zYqx-Uje_IA-Ex-CRumCh3joXAOZZcZYetQKRIi97ohv46cKrd3299-9oeO7oQ83GqlRmQe5bfjZ1m40m4M5T0WkS9dq40VB__9Dht_ERDeAQfcE2M665p6LTf5yuQm9DGBQOrXp36EXj-1oveTSAvUE2TLheBOYb1mR8lxXAMlNL8H1XVDebsi7Jl0dw5twgRtG5gbE3LcT21LlPx_ukLiC2LPTMDo3bjuLWOTUmRoSVJTKYQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;так вот, о чем это я....&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/arnoetalee/3042"&gt;&lt;img src="https://cdn4.telesco.pe/file/kl8-PPQuNWbNk4u1PK2zSOU1Wa-w6eWpxybKcfwuv6nmtg4fLW06j3Sf2HQpnFwimnwByBIArGBI6kM3CQhNxjZzpIFW2hdF5ghlaXfgGVqfdF647BK9Yi6W0bdY91aejifYEYeUCJEY0nMDnqzpyVFoBCMCGYKY9FHbgtoZLSt26OV2WbLerlJbdu7Vs3tmzUNii3xbQTT-c9WfrDDXZIwQ6ONEuc8r8jCg_G43fn1yIcUjACUab8d69RSg6t2hCkEHSqlt3P2e5F2fMY0C_aqPrkHCoiDoPjWh74jPSYg8Dl4JMe_TFo5srdojD8m43nqf1CQhuRhHgmgw_LLT1Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;так вот, о чем это я....&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Звучит странно, что именно арабы придумали слово...</title>
