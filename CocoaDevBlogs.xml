@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/jt5y91SfEYS_5fBarR2el_Qec3_go7uhmacuTUYsl_BZzbg4xLm_Ka75HgLXWfZkMhcP1bMht389CRNeQg_tgZmHoXFaOq0_RRH1LR-56E-5POv-L1tPctG66mAvEE_YBv1_wet9o53DiTcIwDYBBLiYGvsaAbTCaTPbngqu2t03mFVkUGz65JEwZN4QJqi2QIIQAWXJlMhmk-rivvfAQEHcaxdTiFt1KrWrIuH_aocfGEApldf3fS_Anst80YT2TQO5-er713G4ojfvLcDAD_N-rPjFA92z3jboKWlPP-93802C8dhVSj7chw4OpZNC1AtwvIo53rJu8XTEZ0jrEg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/jt5y91SfEYS_5fBarR2el_Qec3_go7uhmacuTUYsl_BZzbg4xLm_Ka75HgLXWfZkMhcP1bMht389CRNeQg_tgZmHoXFaOq0_RRH1LR-56E-5POv-L1tPctG66mAvEE_YBv1_wet9o53DiTcIwDYBBLiYGvsaAbTCaTPbngqu2t03mFVkUGz65JEwZN4QJqi2QIIQAWXJlMhmk-rivvfAQEHcaxdTiFt1KrWrIuH_aocfGEApldf3fS_Anst80YT2TQO5-er713G4ojfvLcDAD_N-rPjFA92z3jboKWlPP-93802C8dhVSj7chw4OpZNC1AtwvIo53rJu8XTEZ0jrEg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-01T18:38:21+00:00</updated>
+  <updated>2026-03-01T19:25:28+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ Media Transfer Protocol Tools - Christian Tietze&lt;/a&gt;&lt;br&gt;I want to ge
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26 &lt;a href="https://t.co/BUGFNuuZqc" target="_blank" rel="noopener"&gt;https://t.co/BUGFNuuZqc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZFwSBuxMIUOR7BuPzZKW0H1baLlJVSxvA0ahSG0LQF4nLYWLrvFwZwYRlqAh2jx8e8IC4RPuovLKxdcFla9EFvNgJ9XuMpz5sYFLaV6iNWFf_1PRAK5bWDBi7A05zDf7CUDKeRpBB41xmb1NeyXHdwx2MkbYcR8YGsyQEDBi6UwzRAX5vdbp2xhPSts0MDi0t4th-EyRvKsj3sjL3nL0DQ3FYBgikFt6edbeLWHxchqfz-RVWSiMSqwHkcGymkUXq_xoWhnJA28vzY-P_WTdtSeJ7kQApkZ_6pL6RwqfLJG2uHeyXx5tP6b1vsME7zbaC1pU6bbe3MwXPEE2jE8T8w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26 &lt;a href="https://t.co/BUGFNuuZqc" target="_blank" rel="noopener"&gt;https://t.co/BUGFNuuZqc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;&lt;img src="https://cdn4.telesco.pe/file/fls-usPPHoL0nmx3U2YzqJgteiSTcy13Fw-4bmLe3DeLvKc9Ccbf2PB8Ehl-pzx_B-DngKTtAeAp2N_kglfRY4YXs86aA5g23Xhzx7ybRRYJsFmnyc3HrcW6D5tZcf3HtmRYOsshH7vli-SxSR9R645wrOj1AEYr9a2KE3Jz_43D0lNOD3IOdID0LhHdHDcd3emUTCe-N6cULaJYKJoHJJC6YDwtFTfD-RjXc2wuJYFO0IBoasBq6o2yMwjZInjOTyAyywreEtCMa3ild6n4knsb2uCkqbUDKQ98AyyYL58_lrf3Oli7h6cnb8CKshoMD37vW_PKaKQGUQFKb7yaQw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;
 Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to recreate the Apple Stores App Minimizable Tab Bar using SwiftUI | Scroll to Hide Tab Bar SwiftUI | SwiftUI Minimizable Tab Bar | SwiftUI Scroll to hide tab bar | SwiftUI Animations | SwiftUI 2026 | iOS…&lt;/blockquote&gt;</content>
   </entry>
@@ -187,7 +187,7 @@ GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspectin
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : Post &lt;a href="https://t.co/PFEucQ3cHS" target="_blank" rel="noopener"&gt;https://t.co/PFEucQ3cHS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;&lt;img src="https://cdn4.telesco.pe/file/ioyZnEErDqaxKc0mKw38Kb2z6cqiBAWeT2FEyKE2kZrBIEF96hfRcvu92lb1nHHYipg7xVT4xuN4EQNN7e4tBo5CI_sLQji4UpEA_x3RLVXqF_adHiqFPR7_naXzmxI4OVFUpVleSZTkQIjB9KIQZLsdyP7Ez2a-hblO4dtud2CGmB8yHP6WpKpkza0sumVpb6PyL-pY9895PQ8dW9kuKQ7hdYhyqd7P52SxBX0pxSN2VbdYbmutPBWFVqkZXhH6G_AYwFS3PIMGm3VXTd17NEVVo4kZ-oXU9ufG9ZnRefIasvRH6UwBujM_Tw8L9MrOktxWC-Ym18JOadlJfZQYSQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : Post &lt;a href="https://t.co/PFEucQ3cHS" target="_blank" rel="noopener"&gt;https://t.co/PFEucQ3cHS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;&lt;img src="https://cdn4.telesco.pe/file/NbREEkKfBBH1geCmsSYlW6mBFjGoTT41CfV2dcfAMXsUrtZwoQ4DIcHPMl_U6cm3uxr7PJKJ2CYhupCvHMA2MV3PsAICk2UPrVk6c4xYAvHzsY0Fpv5KPPfuHryue49ubh5bBMKOfgA8zc1N6BQmEKeS73jNJ_mY6rwvK9_Rly5BrGn7nPQ93UAYdN6YvFqayjCT-7x_M4AT7vU-hLutDAaw0zYiBAyYSVJPaCQBXqGC7KevNFJcHsb5aiIeND_beHjnyNmPPycltK6S9Tk6sQjxbI6xrycmVNgZbCN_Z2tHbD6rNKgGn8u-LSHLE7HGXV7YaDDwP_crGCubisR3OA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;
 Post - Cocoanetics&lt;/a&gt;&lt;br&gt;Many moons ago I had the idea that I would like for an agentic system to be able to access my e-mail servers. That came to me when I automated collecting incoming invoices for my company with a mak…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
