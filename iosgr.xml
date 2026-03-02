@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/Dbx42Yuoy2Dj9vubWPIiCI3bIP1k50F3RYOQjJ4gyA65a_LLFbfAMQMms7HO-D7tuaQkdfP6vEE_1fXiYCIwGrcWNIFXCrabmZq3TpH9ytwhHx7SvqCyE4a0en0jnOod_Q5WvEmarSpYWb7NLNPYwww6Xm2FsXMk3-H-sBjXlRcWgJ6fHB8__IQ1jHd5oiPCQvMb58TKWm9Zx5x4eiWlKD6wdPdSe8HZtDFKN80-PhfkGICrmffS8KtJOFNlgopuioktasuzHYzlqDdxz0qniBTJpOm0_TXK-ko-g0Jk_2DlVmut8LWHw9XeCPgt3tNN4SSlWH6xuWO0VnddPc9oow.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Dbx42Yuoy2Dj9vubWPIiCI3bIP1k50F3RYOQjJ4gyA65a_LLFbfAMQMms7HO-D7tuaQkdfP6vEE_1fXiYCIwGrcWNIFXCrabmZq3TpH9ytwhHx7SvqCyE4a0en0jnOod_Q5WvEmarSpYWb7NLNPYwww6Xm2FsXMk3-H-sBjXlRcWgJ6fHB8__IQ1jHd5oiPCQvMb58TKWm9Zx5x4eiWlKD6wdPdSe8HZtDFKN80-PhfkGICrmffS8KtJOFNlgopuioktasuzHYzlqDdxz0qniBTJpOm0_TXK-ko-g0Jk_2DlVmut8LWHw9XeCPgt3tNN4SSlWH6xuWO0VnddPc9oow.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-03-02T05:54:39+00:00</updated>
+  <updated>2026-03-02T07:03:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Трекаем потребление токенов в Foundation Models&#13;
+&#13;
+В iOS 26.4...</title>
+    <published>2026-03-02T06:03:44+00:00</published>
+    <updated>2026-03-02T06:03:44+00:00</updated>
+    <id>https://t.me/iosgr/4620</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4620"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Трекаем потребление токенов в Foundation Models&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В iOS 26.4 появилась возможность следить за тем, как Foundation Models тратят токены. Это важно с учетом того, что размер контекста у локальных моделей очень маленький, и его наполнение сильно влияет на качество работы AI фич.&lt;br/&gt;&lt;br/&gt;Вместо статьи можно сразу посмотреть &lt;a href="https://github.com/artemnovichkov/TokenUsageExample" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;код с примерами на GitHub.&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models"&gt;&lt;img src="https://cdn4.telesco.pe/file/vjb6Q4G5vHuiku3JBZRZ0wTD59ORhTuIv7Dhy4KoyAbJRaqx5QMs74IP34w1UH0oD3JERsXYyOHxwCe3ML3ZaCtc8fQyyrUJk1BUNDosX1l68RmLnPALcsAyAFq9HPNy0TZIrb-VZu7sAzuFr4cqxLv669JU8ARgdHZZmOqvdC7e9GZvn0VQwyU9MNsT8b1kjvtUrNVorx16vl_AkATLBGkiaXQZuaHT1UFFcRcdixHICgHWgaT_RpjnPdsH90JgPwifjFUW3EQZVNhZwfHDiY3D-RyXncjJ7k6l4nBc5oMHizymAa72eY1EcLp9dYk98p2YaaH_CxvuGknrJk5vHQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models"&gt;
+Tracking token usage in Foundation Models - Artem Novichkov&lt;/a&gt;&lt;br&gt;Measuring instructions, prompts, and transcripts against the context window&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Пишем coding agent на Swift&#13;
 &#13;
@@ -262,18 +276,5 @@ Announcing the Windows Workgroup - Swift.org&lt;/a&gt;&lt;br&gt;We are excited t
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosgr/4601"&gt;&lt;img src="https://cdn4.telesco.pe/file/sIx7jg9FVOymAHjLq-E3ud16T2UHgyP_5TkSfcVyP__ewEk0c8Y6t0frSA4kEMnnADkQ1bWGvDptdNHQtaA6LVxzDuy6vIoeVbLcBVZwasi_zid33a21hbXf8ptqSnvEivw-PtedlE88scqFK_-0-4T8eA5B_XYlltEOMsVYsYIf08KarZThy-KNgffr6wRRdAckmSaBlKcrF1LfTCAWGVJw5u9Hvtie0UG8JRLTz3StL4v1UVAAw8_XBcA1g1zeQI5oRpIvW5rOKf8n9I2kbEQc8FSvfa2Hf3U7vrUN8HW86lEvTm_nfyofnWtaLElEKB3BcdtybHRq1BaNygYnJg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;FabBar – правильный Liquid Glass TabBar&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Помните &lt;a href="https://t.me/iosgr/4587" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;недавнюю статью&lt;/a&gt; про то, что не так с таббаром в Liquid Glass? Ее автор не стал сидеть, сложа руки, и опубликовал &lt;a href="https://github.com/ryanashcraft/FabBar?ref=ryanashcraft.com" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;FabBar&lt;/a&gt; – кастомный компонент, в котором решена проблема больающейся сбоку кнопки действия.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">В Xcode появились агенты&#13;
-&#13;
-На неделе неожиданно вышло...</title>
-    <published>2026-02-05T06:06:17+00:00</published>
-    <updated>2026-02-05T06:06:17+00:00</updated>
-    <id>https://t.me/iosgr/4600</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4600"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4600"&gt;&lt;img src="https://cdn4.telesco.pe/file/cs0sOp_yFHOndgIplhMiLnzOYO0yZs0W9eItRjnWwBrho4MM7liBZRS7w_gJlZUF1s17F4knUm2fL8EI0EcXtG-6uR-GyNgB1Yxe64_se3YqltlhIcBcYbBeM7oyRqHb3iMF4rSlIXDSKeGTcDmRGWRej72263wKm3dsoFCmtRWW6P1gbVxCDFHgYlXRWrjTggF3p9hXcXWw8UU9uGgE7sBlMnAbC1uGew-8YhNE8-xhTSS_tYvBigoh97ubYwx3YhrTRrEYeHrAKmWvMSMPMferIR5FSSJY_bfUpDH0sZa261rKcFZrnHoIsPPwodJAnWiS4ZKRmFr88Wa41a3_3A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;В Xcode появились агенты&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;На неделе неожиданно вышло крупное обновление Xcode, и в нем наконец-то добавили, кажется, нормальную интеграцию с агентами вроде Codex и Claude Code. У агентов есть доступ ко многим фичам вроде поиска файлов, сборки проекта и работы с превью (полный спимок на скрине).&lt;br/&gt;&lt;br/&gt;А если вы хотите работать с агентами из какого-то другого интерфейса, то можете использовать все это через MCP.&lt;/div&gt;</content>
   </entry>
 </feed>
