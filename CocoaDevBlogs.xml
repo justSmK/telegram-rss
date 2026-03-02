@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-02T22:31:18+00:00</updated>
+  <updated>2026-03-02T23:29:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : What&amp;#39;s new in Swift: February 2026 Edition https://t.co/O7CTthBV6C</title>
+    <published>2026-03-02T23:02:43+00:00</published>
+    <updated>2026-03-02T23:02:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26071</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26071"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: February 2026 Edition &lt;a href="https://t.co/O7CTthBV6C" target="_blank" rel="noopener"&gt;https://t.co/O7CTthBV6C&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;&lt;img src="https://cdn4.telesco.pe/file/v0g7tB7MiKX--_52RIGhhN7MhENr7cvhfKVamrNM07zUETevcMjY7rbUsJWRyXYKCW1KiKY2i9SLreN-Ncpweq7daYsvrmgHUoUJmXoB7PI-PKOAsN8TcK7pPc0q6bEmETyDi8JVQRmltErYAQXQVj0KdGWC0L8QxL80CApvL12LEmTUHhlCoABMX910QdY8tPlo_laS-zAbj0QL5mPj071nC6iFHT1Bylln3VqzAnhBYU-ERrCFyM367xN5c4IvqSzilPmEq-O_dBs7njbVq275I5D4b4EAKIxk7F9zXYTJuhJ1Z28wNgEwoWraozQ3lQBIZM1eCBW5aWBUZZtkkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;
+What&amp;#39;s new in Swift: February 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Welcome to this edition of “What’s New in Swift,” where we share interesting projects and updates in the Swift community that deserve visibility to a broader audience.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS 26.4 beta 3 (23E5223f) https://t.co/5OSRtBEvBT</title>
     <published>2026-03-02T18:52:50+00:00</published>
@@ -237,18 +249,5 @@ GitHub - steipete/CodexBar: Show usage stats for OpenAI Codex and Claude Code, w
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Media Transfer Protocol Tools &lt;a href="https://t.co/KLKzuqwTMm" target="_blank" rel="noopener"&gt;https://t.co/KLKzuqwTMm&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KLKzuqwTMm"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KLKzuqwTMm"&gt;
 Media Transfer Protocol Tools - Christian Tietze&lt;/a&gt;&lt;br&gt;I want to get books on my Supernote and notes off it, so in my desperation I began to write scripts and make tools to help.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26...</title>
-    <published>2026-02-28T19:02:41+00:00</published>
-    <updated>2026-02-28T19:02:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26051</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26051"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26 &lt;a href="https://t.co/BUGFNuuZqc" target="_blank" rel="noopener"&gt;https://t.co/BUGFNuuZqc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;&lt;img src="https://cdn4.telesco.pe/file/TaxIRv8ou9EeSTVsoRQQSR3DPhvzh2iiZ1RpIeDtDOV8ce-5EG7gY-LuSBqP63tVHjjA9PvDlcNyO36VyngO_fz6UTJY8t-4Bq_srCieFbyyuupcz3HCgz3hy9P_qHiLPRYLqFur82p0HQrjwnWLBfDMxN_MONGAARJ1SRxaauuC7ETIlrztMMMWFKIMd-6UUI4sIESufofLr6_QykWuM5nKudK7C1lQ__MlCz4WPepVZ3tmYO3nWBC6A25DeyAnVdZ_U8Ocm2Db1ujlmtfR4W_ckK15wqMvIPfLMMKgmHUMW1oIEoINIQegFNzFbgJK3Kdoxy4TL896c9s3MxmgCA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/BUGFNuuZqc"&gt;
-Apple Stores App&amp;#39;s Minimizable Tab Bar Using SwiftUI | Scroll to Hide Tab Bar | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll demonstrate how to recreate the Apple Stores App Minimizable Tab Bar using SwiftUI | Scroll to Hide Tab Bar SwiftUI | SwiftUI Minimizable Tab Bar | SwiftUI Scroll to hide tab bar | SwiftUI Animations | SwiftUI 2026 | iOS…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
