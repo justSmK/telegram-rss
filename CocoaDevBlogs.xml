@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-02T13:05:39+00:00</updated>
+  <updated>2026-03-02T14:45:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Using an MCP to perform product optimizations https://t.co/IfDBhPeVDn</title>
+    <published>2026-03-02T14:03:17+00:00</published>
+    <updated>2026-03-02T14:03:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26065</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26065"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using an MCP to perform product optimizations &lt;a href="https://t.co/IfDBhPeVDn" target="_blank" rel="noopener"&gt;https://t.co/IfDBhPeVDn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;&lt;img src="https://cdn4.telesco.pe/file/IrJEknVfTtoi-zezk63ucY5piXrdMJpfncLpKTWBpzmSUumlJh3OulWGB5Um0c9FProacmxWAqxp0ObVkABAa10XtA8UDB4uTTxqcpTD5AFkUG-4Xulw4GUJlERzh2P61gHg9jvAZjgCDWmp2k5hxLXpi9_J4BPz70hGOgcJpl2DD3ZgQwhHDO8FUHBVPqdUCig8Gs6muPIG5am1XciZ1U8ShJ0xFKhC7gjh4Dmm2AxkFCJ-uxpwzzfI-3zwDje0DEz5G35-DqJYf-qar-U1yl5Xtx92NFpH4GcqPwGy_o-8tll9Qo8PtygKv51HYIf1OmGcbQ3Dt-fBV2flyuB43A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;
+Using an MCP to perform product optimizations - SwiftLee&lt;/a&gt;&lt;br&gt;A Model Context Protocol (MCP) can be invaluable when used properly, especially when talking about product optimizations. I’ve personally been playing around with it for a while now, and feel like I need to share my learnings due to the impact it has. In…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Juice it up with UIKit Dynamics https://t.co/Mw2xgPJRob</title>
     <published>2026-03-02T12:12:25+00:00</published>
@@ -238,16 +250,5 @@ GitHub - SwiftyJSON/SwiftyJSON: The better way to deal with JSON data in Swift. 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : swiftlang/swift-syntax &lt;a href="https://t.co/XdjRQ62pJr" target="_blank" rel="noopener"&gt;https://t.co/XdjRQ62pJr&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;&lt;img src="https://cdn4.telesco.pe/file/BFZRi6NpRQ0ZWaAiX4zmDiBajpg_zdOe7rde8_7QuFUIQNaiGj8fthfRRxfpHG-oRiadsmzlUorBMbIE_cwTW7WREgtreKEUN-2kFEQj9JoDK9zQyVWKT7viPkbNzP4ZceHOhWZknofnNihkzUYIRS0YGPfhL9NIrr0xRarPGMVr3XEwG4O4e33z-vQNmu6z5S70tsEhL0-4Lcq4njIYeZPEIUVEEx8A4pkJyM8NgHRmtecERITZ75spEsPtjMAdZQLdrv5YnQfRQHskMjj1ixwuez_ZB4UC2rz_HzxocwBrywJGzzsnR_tvV1j9VJTcnqxqj7GBzd2lrse5Acxh_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XdjRQ62pJr"&gt;
 GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - GitHub&lt;/a&gt;&lt;br&gt;A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. - swiftlang/swift-syntax&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS Dev Weekly: Issue 744 https://t.co/J08cFMbtdg</title>
-    <published>2026-02-27T19:47:21+00:00</published>
-    <updated>2026-02-27T19:47:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26045</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26045"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 744 &lt;a href="https://t.co/J08cFMbtdg" target="_blank" rel="noopener"&gt;https://t.co/J08cFMbtdg&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

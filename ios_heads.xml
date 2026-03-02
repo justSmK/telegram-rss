@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/MTpkbPJNW7oICGahG0kHgpO47AvPzmyinHSyb_7Btq-S3n_S27Hp-TxWiV5GvdYueQHJtLSOHJG68Or3z8q5zHg7D196EcthATQrICVQheZFQjxrLpUUMns0ajF-MNAedC9duwd7-pex2ZcfiKpIyKCq1nuTtJ54agtUiycDqkyubqZ_GS55kchlvBuluH1Ut_0w84NDmIU6-ClWmAOneDFuAbUmmiJmpXryAKh3DY4B1UEmLyKWmoicFiRi7wRnWrvbC3wkcchBgpdpqT9_iVJmljH9ljKSrXasQBWdjrUzbDqDT5I09agAhZCFdJ-AojR_eghF6FT1XXUBcNCTqg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/MTpkbPJNW7oICGahG0kHgpO47AvPzmyinHSyb_7Btq-S3n_S27Hp-TxWiV5GvdYueQHJtLSOHJG68Or3z8q5zHg7D196EcthATQrICVQheZFQjxrLpUUMns0ajF-MNAedC9duwd7-pex2ZcfiKpIyKCq1nuTtJ54agtUiycDqkyubqZ_GS55kchlvBuluH1Ut_0w84NDmIU6-ClWmAOneDFuAbUmmiJmpXryAKh3DY4B1UEmLyKWmoicFiRi7wRnWrvbC3wkcchBgpdpqT9_iVJmljH9ljKSrXasQBWdjrUzbDqDT5I09agAhZCFdJ-AojR_eghF6FT1XXUBcNCTqg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-03-02T13:05:47+00:00</updated>
+  <updated>2026-03-02T14:45:14+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Автор рассказывает о том, чему научился за время...</title>
+    <published>2026-03-02T13:19:11+00:00</published>
+    <updated>2026-03-02T13:19:11+00:00</updated>
+    <id>https://t.me/ios_heads/1119</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1119"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, чему научился за время пользования AI.&lt;br/&gt;Советы, которые, возможно, помогут и вам.&lt;br/&gt;P.S. Дизлайки ставят те, кто отказывается принимать эволюцию или контент действительно плохой?)&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;&lt;img src="https://cdn4.telesco.pe/file/dMLN6zYeyTztWrVucC-n8LG1COxKsx0i4mHkbGM5FfYbuW_rbnKYRBf8x6zK325t0I-x9hAnTVDWm6pKdrx-e2DsvZgxbRZp_MxkoUl0uhOqEo912JehDzU253kye7xkQIF4pGd8FVafsKjQ3CTKhIeh_EpZHUwHkKSFNiI4pxFUlyI_qYmUFsT5Y-pbTfS5T2jhCH3uW126It-EJecxmIfOILYlzPGVYe5Oig1hCwupW8-YwTytwFw4Mfo9BvfOuNeBccECEfNwqb446uR9Awn8cudTSrdbivpgH-ll3enaeSQTEjD5X7VmJLmcfKGCZIYBkkwp2jsqE2O41txuhw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;
+11 Things I learned after using AI Agents full-time - SwiftLee&lt;/a&gt;&lt;br&gt;Learn how AI agents and tools like Cursor have reshaped my workflow and brought new efficiencies to my app development process.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Еще один agent skill. Теперь для...</title>
     <published>2026-02-27T11:18:57+00:00</published>
@@ -55,7 +67,7 @@ Swift Testing Agent Skill: Write high quality tests with AI - SwiftLee&lt;/a&gt;
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, как собрал у себя цепочку на агентах, чтобы баги автоматически фиксились, пры создавались и так далее. Как раз будет чем заняться на выходных, если захотите себе такое же решение&amp;#33;&lt;br/&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;&lt;img src="https://cdn4.telesco.pe/file/USzfOr41rC9WJgltt4yfxCG4QG8iFYAqRqI7pd_baIcv6DFyUnGqPbuqdXVxKAPSxWR0bhY-HcANRc4Uuomf0wZlmP4LkcvpgxjxEzZb9lYYyK5_FFcF0sRiVIm5WmRZgh4yrwYzOq_JpUpRSmJsS3b6b2ifXuTDOA3mer0_9323uZNYWX9r7DQ_JW03sYfZ4ImoU6EQVlSV_l4SqjEt3hJJ2CzxTj8PrikF1u37hcfmGA7na2AhorbiK8z60ft87bhiiVcP8vBSWr5VTlAPIoKhUI2WDhv_qgvUeU2OPGDpsWdWHaSiL1cme_p0jHyEfpK3FzA2cc6asC3zCj1jmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, как собрал у себя цепочку на агентах, чтобы баги автоматически фиксились, пры создавались и так далее. Как раз будет чем заняться на выходных, если захотите себе такое же решение&amp;#33;&lt;br/&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ImyE_60J8ADfOkeZ_MtFb9er0FpKuEOa4aH3Tnx7_tiKUrHk98RYtyD3M8EyC_Ys8EXpYJxVpWG6_5fcJfwLNDnsLpfbxU37qga9jeGentf3zf_N2lNRzRVqqN-9CZn-Fx0xSbBvOazCsOOn8FTFyxGsM8PCe6Xxmh4wrAAoREb1kXmsDBnc8VKEGm54SbBHmGJpECzS-_WhQ_swBqGL-MsaWZ5HeNK1-r3WVNhUI9lWz5lWYoHxlcD4go0wwxjOfvykpsC9VqU36wjPEzYLjlwJB4BP6r0Zvh9VS8oPVE7NoHZKjYQiN_nzDj-efjAc87ymHRcO2ekw5uIDFqKvaA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;
 Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -244,16 +256,5 @@ Visual debugging with Swift Charts - Dimi Chakarov&lt;/a&gt;&lt;br&gt;When you a
       <name>iOS.Devs</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_heads/1098"&gt;&lt;img src="https://cdn4.telesco.pe/file/mJkvW2yIx9hyG6FUjpjffKjOGYxrRL4FnBst7aLjHsYomutxO3fwb0h3ssA3kG8YMHlndCMZLcNOGwQkSBm4Uxye2SoY31950P_erXZXLfP2YNUvLiVFedQMqnig6umpJm8i_S7q65V3EEfp54i1NvPRTHmMSzJDQc4fLkIeQAEUFoAfY4EC6QJxb1dTUDl3jfqoHIKyvJ_HP4Th42Ejj3I5AmT7ZbCj-hhU7YxUZmx802qvhDh1zwmXqqN1u5WBk1MgTP-0hkdn8XzeBtDRQYh7VUzXM_52xYQbl6tdlXD40Mu0K1gUqaDZ3RxI_KtIBlaurGxCk8XS49zwLBqJcQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Уже завтра&lt;/b&gt; &lt;b&gt;проведём заключительный вебинар этого года&lt;/b&gt; — разберём, почему для многих приложений онбординг работает “в стол”, и дадим простой фреймворк, по которому можно пересобрать цепочку за один вечер. &lt;br/&gt;&lt;br/&gt;Вместе посмотрим:&lt;br/&gt;&lt;br/&gt;• какие шаги онбординга действительно двигают trial start rate, а какие только создают шум&lt;br/&gt;• как правильно выстроить порядок экранов&lt;br/&gt;• когда короткий онбординг выигрывает, а когда — длинный &lt;br/&gt;• какие мелкие изменения дают неожиданные +5–20% к метрикам&lt;br/&gt;• как всё это быстро создавать и тестировать с помощью &lt;a href="https://go.qonversion.io/wUWC" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Qonversion No-Code Builder 2.0&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;А еще подарим 5 участникам вебинара кастомный&lt;/b&gt; &lt;b&gt;дизайн оффер-экрана для их приложения&lt;/b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"&gt;&lt;b&gt;🎁&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;a href="https://go.qonversion.io/UlXh" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Присоединяйтесь&amp;#33;&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;Одна регистрация = запись вебинара + дополнительные материалы.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Держите большой плейлист с недавней конференции Swift...</title>
-    <published>2025-12-01T13:07:53+00:00</published>
-    <updated>2025-12-01T13:07:53+00:00</updated>
-    <id>https://t.me/ios_heads/1097</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1097"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Держите большой плейлист с недавней конференции Swift server side. Очень много материала на разные темы&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt" target="_blank" rel="noopener"&gt;https://www.youtube.com/playlist?list=PLTFt3GGfH3hl2rTYswjVXCaNvXmafQ3bt&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
