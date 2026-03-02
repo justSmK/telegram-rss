@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/MMck5_zJrnhblolS7ldvIeXp0b1fyL_FwYPb-d_UY1NStp3NKd1nv7F39tXMcOQ9SdhHou3K11OiwTDTw3TYJ6G47CupKtpnxWKaGf0T1dDA7vAlMNObYw8FK3wFIpcTBrl9XryHvDu2Us2YxYxhgdT9NZrWlZKhOwOi4hDOgdd8tc9OrZ6OKzy3beequ1deMGJlhW2seJLifoX4IwsYlRxsKc7K2YMfbW6rojvZccSSk4Dnax9SrYbdsve0xvdY-8Lwla2jzleyQA8Miub2OD38wqahoDwLTsVTv8Tgy6leojN3SFFfBWoSktbjseBIHZa8X3IAcYkArd2j-lMdLQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-02T11:33:30+00:00</updated>
+  <updated>2026-03-02T13:05:39+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Juice it up with UIKit Dynamics https://t.co/Mw2xgPJRob</title>
+    <published>2026-03-02T12:12:25+00:00</published>
+    <updated>2026-03-02T12:12:25+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26064</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26064"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Juice it up with UIKit Dynamics &lt;a href="https://t.co/Mw2xgPJRob" target="_blank" rel="noopener"&gt;https://t.co/Mw2xgPJRob&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Mw2xgPJRob"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Mw2xgPJRob"&gt;
+Juice it up with UIKit Dynamics - Whacky Labs&lt;/a&gt;&lt;br&gt;One of my favorite framework on iOS has to be UIKit Dynamics and not enough people talk about it. But this is going to change today. Let’s build a color palette generator and have some fun with UIKit Dynamics along the way.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Blaizzy/mlx-audio-swift https://t.co/9PXci8Qj82</title>
     <published>2026-03-02T02:02:54+00:00</published>
@@ -237,17 +249,5 @@ GitHub - swiftlang/swift-syntax: A set of Swift libraries for parsing, inspectin
       <name>iOS Development News</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 744 &lt;a href="https://t.co/J08cFMbtdg" target="_blank" rel="noopener"&gt;https://t.co/J08cFMbtdg&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Cocoanetics : Post https://t.co/PFEucQ3cHS</title>
-    <published>2026-02-27T19:32:28+00:00</published>
-    <updated>2026-02-27T19:32:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26044</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26044"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Cocoanetics : Post &lt;a href="https://t.co/PFEucQ3cHS" target="_blank" rel="noopener"&gt;https://t.co/PFEucQ3cHS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;&lt;img src="https://cdn4.telesco.pe/file/NbREEkKfBBH1geCmsSYlW6mBFjGoTT41CfV2dcfAMXsUrtZwoQ4DIcHPMl_U6cm3uxr7PJKJ2CYhupCvHMA2MV3PsAICk2UPrVk6c4xYAvHzsY0Fpv5KPPfuHryue49ubh5bBMKOfgA8zc1N6BQmEKeS73jNJ_mY6rwvK9_Rly5BrGn7nPQ93UAYdN6YvFqayjCT-7x_M4AT7vU-hLutDAaw0zYiBAyYSVJPaCQBXqGC7KevNFJcHsb5aiIeND_beHjnyNmPPycltK6S9Tk6sQjxbI6xrycmVNgZbCN_Z2tHbD6rNKgGn8u-LSHLE7HGXV7YaDDwP_crGCubisR3OA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PFEucQ3cHS"&gt;
-Post - Cocoanetics&lt;/a&gt;&lt;br&gt;Many moons ago I had the idea that I would like for an agentic system to be able to access my e-mail servers. That came to me when I automated collecting incoming invoices for my company with a mak…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
