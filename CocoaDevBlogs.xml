@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-03T13:04:25+00:00</updated>
+  <updated>2026-03-03T14:46:43+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -139,7 +139,7 @@ watchOS 26.4 beta 3 (23T5226e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using an MCP to perform product optimizations &lt;a href="https://t.co/IfDBhPeVDn" target="_blank" rel="noopener"&gt;https://t.co/IfDBhPeVDn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;&lt;img src="https://cdn4.telesco.pe/file/IrJEknVfTtoi-zezk63ucY5piXrdMJpfncLpKTWBpzmSUumlJh3OulWGB5Um0c9FProacmxWAqxp0ObVkABAa10XtA8UDB4uTTxqcpTD5AFkUG-4Xulw4GUJlERzh2P61gHg9jvAZjgCDWmp2k5hxLXpi9_J4BPz70hGOgcJpl2DD3ZgQwhHDO8FUHBVPqdUCig8Gs6muPIG5am1XciZ1U8ShJ0xFKhC7gjh4Dmm2AxkFCJ-uxpwzzfI-3zwDje0DEz5G35-DqJYf-qar-U1yl5Xtx92NFpH4GcqPwGy_o-8tll9Qo8PtygKv51HYIf1OmGcbQ3Dt-fBV2flyuB43A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using an MCP to perform product optimizations &lt;a href="https://t.co/IfDBhPeVDn" target="_blank" rel="noopener"&gt;https://t.co/IfDBhPeVDn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;&lt;img src="https://cdn4.telesco.pe/file/gKicaNrxZptbaoiDp0dbrgXqRuObCT1zhlxeofdYCKKIjOuOqInLUHs71_CYiHs9MCOs_VwZfmS9dTjMzom7HhVFMnsNutWrEtIVzvzhMgoG0oa8Sbcqdu7BcGNFQ-MKD34x1AOf1KorOlTVXYj5ExG5he_uXgW6yxjFYMGu-xxIzEnooUW7_3lLC6g7yYw6fcB98pEblgFpG9S9488R5ixfL0pMdHcSzUkHdGso33ZQI6qjEgpp-qgHbRErW5k5jXOjwg_5WXJKikLulNhrn8zr6DJ_zYVulCSzvcrR0YTf767f33JtvBMWM2AhJVeiG1ixpNxD056Ri9HpZzy9YQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;
 Using an MCP to perform product optimizations - SwiftLee&lt;/a&gt;&lt;br&gt;A Model Context Protocol (MCP) can be invaluable when used properly, especially when talking about product optimizations. I’ve personally been playing around with it for a while now, and feel like I need to share my learnings due to the impact it has. In…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
