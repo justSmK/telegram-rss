@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-03T22:32:52+00:00</updated>
+  <updated>2026-03-03T23:30:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading a
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: February 2026 Edition &lt;a href="https://t.co/O7CTthBV6C" target="_blank" rel="noopener"&gt;https://t.co/O7CTthBV6C&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;&lt;img src="https://cdn4.telesco.pe/file/v0g7tB7MiKX--_52RIGhhN7MhENr7cvhfKVamrNM07zUETevcMjY7rbUsJWRyXYKCW1KiKY2i9SLreN-Ncpweq7daYsvrmgHUoUJmXoB7PI-PKOAsN8TcK7pPc0q6bEmETyDi8JVQRmltErYAQXQVj0KdGWC0L8QxL80CApvL12LEmTUHhlCoABMX910QdY8tPlo_laS-zAbj0QL5mPj071nC6iFHT1Bylln3VqzAnhBYU-ERrCFyM367xN5c4IvqSzilPmEq-O_dBs7njbVq275I5D4b4EAKIxk7F9zXYTJuhJ1Z28wNgEwoWraozQ3lQBIZM1eCBW5aWBUZZtkkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : What&amp;#39;s new in Swift: February 2026 Edition &lt;a href="https://t.co/O7CTthBV6C" target="_blank" rel="noopener"&gt;https://t.co/O7CTthBV6C&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;&lt;img src="https://cdn4.telesco.pe/file/pILctZRB_FbXP2gDlv6GV9T5yyjexyY8xuskWxfh3q3R8s3VNg38Mal3bSAt1-10wzifH8IZjouxWYRlejK9O_Jz0th23J_uXtqp9SfgCZV99QA6VC7woAz4z9zzAr4FGN5SQrMsDXyPQLA8XpId4TkDF-qIP7RIeaDAyY47nQS3GqWTPuN-mTJvi67-V6aBDUU8Oh11Lclp-jAjI6FKHiOvUTHqAmzn_nc4aH_b-wrIaFENnt_1bXL7DwmzAiILuAymaKrE7pZ-vJuPH9BZTcPdnKAdRnOOG1I9gz8BiwohF994_S8n6mcW_jfeHXbwiWEjxrtePDupZYXN8YfT8g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7CTthBV6C"&gt;
 What&amp;#39;s new in Swift: February 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Welcome to this edition of “What’s New in Swift,” where we share interesting projects and updates in the Swift community that deserve visibility to a broader audience.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
