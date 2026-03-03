@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/psFi1Pjeoa-CCtsGDBVzG8sXqVxcJxzD9Zv_OSaRztHe8M_lR0T6JultIZ6hGZXxYGmcIBdabVtDI9-1ZYa50e-OAlkwjMirsStS4XkswOl3PFfuGzOc7oLb-iDCMijTiX7ZJ4kw9MVEqPSpTsKlTqYTK6igQb3BXEflk82cFnLDHFl705k3MZ9JKtDNhep6eZnDW-6cVTqYfaZ3xHqLO8Yt-3RO7k-z_PutADd6BvSPG_vJzI7lLcsvlzAqpChnjikGk6aR8UaomFwgppSb51UtURtf3UoadQvCv9pNGb0OzETfSMNAHeV6-rfLaWOeAABlQzzrXuIzCkaoSmyVfA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/psFi1Pjeoa-CCtsGDBVzG8sXqVxcJxzD9Zv_OSaRztHe8M_lR0T6JultIZ6hGZXxYGmcIBdabVtDI9-1ZYa50e-OAlkwjMirsStS4XkswOl3PFfuGzOc7oLb-iDCMijTiX7ZJ4kw9MVEqPSpTsKlTqYTK6igQb3BXEflk82cFnLDHFl705k3MZ9JKtDNhep6eZnDW-6cVTqYfaZ3xHqLO8Yt-3RO7k-z_PutADd6BvSPG_vJzI7lLcsvlzAqpChnjikGk6aR8UaomFwgppSb51UtURtf3UoadQvCv9pNGb0OzETfSMNAHeV6-rfLaWOeAABlQzzrXuIzCkaoSmyVfA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-03-03T14:46:28+00:00</updated>
+  <updated>2026-03-03T15:50:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -73,7 +73,7 @@ Xcode 26.3 RC Release Notes | Apple Developer Documentation - Apple Developer Do
     <author>
       <name>easy_dev991</name>
     </author>
-    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;9% - 700+&lt;/li&gt;&lt;li&gt;9% - 600 - 700&lt;/li&gt;&lt;li&gt;6% - 500 - 600&lt;/li&gt;&lt;li&gt;4% - 400 - 500&lt;/li&gt;&lt;li&gt;9% - 300 - 400&lt;/li&gt;&lt;li&gt;23% - 200 - 300&lt;/li&gt;&lt;li&gt;40% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			С какой скоростью печатаете на клавиатуре (знаки в минуту)?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;8% - 700+&lt;/li&gt;&lt;li&gt;8% - 600 - 700&lt;/li&gt;&lt;li&gt;6% - 500 - 600&lt;/li&gt;&lt;li&gt;4% - 400 - 500&lt;/li&gt;&lt;li&gt;10% - 300 - 400&lt;/li&gt;&lt;li&gt;23% - 200 - 300&lt;/li&gt;&lt;li&gt;40% - Меньше 200&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#xcode #simulator #ios&#13;
@@ -229,7 +229,7 @@ https://teletype.in/@easy_dev991/zlfw_fKJvh9</title>
       <name>easy_dev991</name>
     </author>
     <content type="html">			Представим, что вы мобильный разработчик, а возможно, так и есть&amp;#33;)&#13;
-Какой девайс вы предпочли бы использовать на ежедневной основе? Да, именно основной девайс, а не комбинацию.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;43% - Айфон, потому что iOS лучше&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что он явно лучше&lt;/li&gt;&lt;li&gt;11% - Айфон, потому что привычно, фиг знает как там на андроиде&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что привычно, фиг знает как там в айфонах, да еще и дорогие капец&lt;/li&gt;&lt;li&gt;32% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в айфоне мне больше нравится&lt;/li&gt;&lt;li&gt;3% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в андроиде мне больше нравится&lt;/li&gt;&lt;li&gt;8% - Все равно, лишь бы телефон ловил интернет и батарейку держал нормально в течение дня&lt;/li&gt;&lt;/ul&gt;</content>
+Какой девайс вы предпочли бы использовать на ежедневной основе? Да, именно основной девайс, а не комбинацию.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;43% - Айфон, потому что iOS лучше&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что он явно лучше&lt;/li&gt;&lt;li&gt;12% - Айфон, потому что привычно, фиг знает как там на андроиде&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что привычно, фиг знает как там в айфонах, да еще и дорогие капец&lt;/li&gt;&lt;li&gt;32% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в айфоне мне больше нравится&lt;/li&gt;&lt;li&gt;3% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в андроиде мне больше нравится&lt;/li&gt;&lt;li&gt;8% - Все равно, лишь бы телефон ловил интернет и батарейку держал нормально в течение дня&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#mcp&#13;
