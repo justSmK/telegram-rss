@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-03T07:47:13+00:00</updated>
+  <updated>2026-03-03T08:47:36+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Swift 6 Migration Pitfalls You Should Know https://t.co/uFIwFVoSOj</title>
+    <published>2026-03-03T08:37:02+00:00</published>
+    <updated>2026-03-03T08:37:02+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26075</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26075"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift 6 Migration Pitfalls You Should Know &lt;a href="https://t.co/uFIwFVoSOj" target="_blank" rel="noopener"&gt;https://t.co/uFIwFVoSOj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;&lt;img src="https://cdn4.telesco.pe/file/SEepCh-NTU0lEckFWPHkizJHQH3FyHU61eyjqmyWDU__Eq7y5_LXfpnnhivhYB-lBz7eGKBO1y0fIjCVeDhsFPHULPfBPCJ9pg1nYTwmiP6ahiPtnr0dav5pcv7rmDSLZTtX6Agt4AQ0zxXQssLYqq-9ZfpMx5pt-KfbYKvKLiPywYwEckpyi6bQh8P0PI0OoA2GHioeVQRaMUKroUxeXR2MbiC1y6apzTKcaG3uAkdEaK_-2w0vidWtXVGyDgRIIT8tRWZLmJnZCa1IXz3FqNs40wjCo4tfcfR2mfKvH3TDJPPG8ao7tqsqKK8tD_4nSxm8peDjiC5CxQM9eXDnLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;
+Swift 6 Migration Pitfalls You Should Know - Hugh&amp;#39;s Blog&lt;/a&gt;&lt;br&gt;Real-world lessons from incrementally migrating to Swift 6—pitfalls, concurrency isolation gotchas, and practical mitigation strategies.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : cirruslabs/tart https://t.co/9zJ0e87ukR</title>
     <published>2026-03-03T02:07:15+00:00</published>
@@ -237,17 +249,5 @@ GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for f
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : productdevbook/port-killer &lt;a href="https://t.co/6yVby5RzNX" target="_blank" rel="noopener"&gt;https://t.co/6yVby5RzNX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;
 GitHub - productdevbook/port-killer: A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes… - GitHub&lt;/a&gt;&lt;br&gt;A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click. - productdevbook/port...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : Meeep1/EeveeSpotifyRevivedPublic https://t.co/FolsI5xVAo</title>
-    <published>2026-03-01T02:07:40+00:00</published>
-    <updated>2026-03-01T02:07:40+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26055</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26055"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Meeep1/EeveeSpotifyRevivedPublic &lt;a href="https://t.co/FolsI5xVAo" target="_blank" rel="noopener"&gt;https://t.co/FolsI5xVAo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FolsI5xVAo"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xo5wusfXzQmsxahwhDBIUlRUAWNtaM3h6h7aIcU758ANnlpR-r63XhxKbNBizOUW5GUKvfmwpXuDEE4wnDm62Rx3hgCd4W_YJkqMPeKsh4Sl00gUnODBLv3DDC_6fd8YtnDUKArak4subHzH5zEjcRjxfxbyKipnKXW0G5zsp-hg9avIsKGX8pCRlwd7L8ru8KugswXtHOnHkQeiyRTqqFi2Eotj726ANtGjGbaJ4LMbJNhEKmSzCb0ClOYoPEGzoy459SWZG2myn9fjjs-_l0lYDcyo4XL7cFKx-q-3uLM62iZ_30dwBJTpxoj6RWHv1PCwMY1Pqx9gZlZyLXsKew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FolsI5xVAo"&gt;
-GitHub - Meeep1/EeveeSpotifyRevivedPublic - GitHub&lt;/a&gt;&lt;br&gt;Contribute to Meeep1/EeveeSpotifyRevivedPublic development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
