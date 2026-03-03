@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GT-jP9IWsb61eBNcj9ANLoFecBmHytuDEMzIxMC714BxxGHGYsrIYoOx0ppND94M27i5LlkferDd0YP8oI7aCqK-21c1Uc8DRBj9qka7mYhR27X6KIhw26qYgJNnsowL5AROx1bcnD_URnSLhIZK4AqeYkFZh2wByV70q0NXox7RJNmQA8gGnvwUQnIfRtw8m3K2lv0LVj0ZkHE2gG9SH8b69t2deSwtRVGAmenAkr4ukei6nZ7qMA_6ZefLfUd6zpDs8t7t6YPW0C1PKKq182XquhwihrwEtcJKANrqaRw8it6F692jb1aQYdts9o4scHl11TdzC-IE5S7ZLNtqvQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-03T15:50:32+00:00</updated>
+  <updated>2026-03-03T16:53:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS System Design interviews in 2026 https://t.co/bJF6txVUkJ</title>
+    <published>2026-03-03T16:07:05+00:00</published>
+    <updated>2026-03-03T16:07:05+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26076</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26076"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS System Design interviews in 2026 &lt;a href="https://t.co/bJF6txVUkJ" target="_blank" rel="noopener"&gt;https://t.co/bJF6txVUkJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/bJF6txVUkJ"&gt;&lt;img src="https://cdn4.telesco.pe/file/tsTEq9RFxNAAZC3Z6xy3F25D3x3UvlX-tm0a2Xah1jHF9iC_8oXj94mVnH_8yAWRUtzNvOyX4HJPG7deYxW92sEdt85O7mdZly1czDM1xNjO5Oy-z11OJvKprGy6WDqmg43fx0JS9BCA3L-Fok_pHokO9-4dGij0SmvN2RBFhu3BI83ruds43_50vqN4Nz1wbNWQzghsklfwXi7dAwn7xBqfsrT-3RJV0DLnVE4EY8nWGPG3NQwWjEjn1JzcH_hPxQ5m765yfOJKEJMlttmrkzJ6gx4lL_GCl7kfLacxGbhuUXxrml3nuWNHMyoy66joW-COM-1s2pxIp9FanLSukQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/bJF6txVUkJ"&gt;
+iOS System Design interviews in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Practical prep advice based on three real-world interviews&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Swift 6 Migration Pitfalls You Should Know https://t.co/uFIwFVoSOj</title>
     <published>2026-03-03T08:37:02+00:00</published>
@@ -237,17 +249,5 @@ Implementing Passkeys in iOS with AuthenticationServices - Tanaschita&lt;/a&gt;&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nicklockwood/SwiftFormat &lt;a href="https://t.co/qmhoOkvVUh" target="_blank" rel="noopener"&gt;https://t.co/qmhoOkvVUh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;&lt;img src="https://cdn4.telesco.pe/file/bcVw_n8QU9Lrv7OjE7a_uW15rUgRQlYIHb2_aDrOxzYFuYRIjEwLU6Ugst2Z-bh0xq2_D3i6FXxDJbp3ZnJ2Uvv-9T6S-ahWMzDyYiRzOpxod2iDcX0_V1_8QUfCny8t2j8dJdGK5lFJVRw7rj2XEHAF_ki1ZiM_IlSysaIP8gVPA8wC-pO1xWlWKKiG5ylwsF5HCNGX0XdJGkj-HZrGm2Tm2uvdssHMVAHpfLVXO8XkEhwf1J5Td1JprtRcDqtVLfC04hNX0wprYiojFTXbLp5VLObxrFvZ_ZVWjw3YQg3K4Ge9RCL192KU9OY2IVEDMLW2GzPRIpyvL6V3tj-n4g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/qmhoOkvVUh"&gt;
 GitHub - nicklockwood/SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code - GitHub&lt;/a&gt;&lt;br&gt;A command-line tool and Xcode Extension for formatting Swift code - nicklockwood/SwiftFormat&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : productdevbook/port-killer https://t.co/6yVby5RzNX</title>
-    <published>2026-03-01T02:07:41+00:00</published>
-    <updated>2026-03-01T02:07:41+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26056</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26056"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : productdevbook/port-killer &lt;a href="https://t.co/6yVby5RzNX" target="_blank" rel="noopener"&gt;https://t.co/6yVby5RzNX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6yVby5RzNX"&gt;
-GitHub - productdevbook/port-killer: A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes… - GitHub&lt;/a&gt;&lt;br&gt;A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click. - productdevbook/port...&lt;/blockquote&gt;</content>
   </entry>
 </feed>

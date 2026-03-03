@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/JWlf5-qSpCRQdeImHm78Ii4Tsor3rEcXuYB-N7S-3eLj91qV-mTiNRsnmgYFfJwYyW6Sg_J3glkBrzJthj1Dt_jB0DnHTKTTgilnAxJH0uyHNKe21Y9Ir3XBwuFuMuMAed8IANirhiIXjFolmz8F7qr1hilIu8LfkY6KvXsJKc5h6rxHMpxnY8LiRV2tAAyUmT3BEVYu-IQD81_1RdKfGeYlMFUUtrs9AXhS7tqDNP3QYFhpDFifqSYx9I1B08_U4vWi0DTOmExcQPOZz92adsnDb2MNw3GLIKtOefIfqlxF6_OQI_lnWTF4_xGie_87hmzTx1IRDUI085TLGpq0jg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/JWlf5-qSpCRQdeImHm78Ii4Tsor3rEcXuYB-N7S-3eLj91qV-mTiNRsnmgYFfJwYyW6Sg_J3glkBrzJthj1Dt_jB0DnHTKTTgilnAxJH0uyHNKe21Y9Ir3XBwuFuMuMAed8IANirhiIXjFolmz8F7qr1hilIu8LfkY6KvXsJKc5h6rxHMpxnY8LiRV2tAAyUmT3BEVYu-IQD81_1RdKfGeYlMFUUtrs9AXhS7tqDNP3QYFhpDFifqSYx9I1B08_U4vWi0DTOmExcQPOZz92adsnDb2MNw3GLIKtOefIfqlxF6_OQI_lnWTF4_xGie_87hmzTx1IRDUI085TLGpq0jg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-03T15:50:55+00:00</updated>
+  <updated>2026-03-03T16:54:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;8% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
@@ -132,7 +132,7 @@ size — это сколько байт занимают...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Да, размеры равны&lt;/li&gt;&lt;li&gt;53% - First больше&lt;/li&gt;&lt;li&gt;13% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Да, размеры равны&lt;/li&gt;&lt;li&gt;53% - First больше&lt;/li&gt;&lt;li&gt;13% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
