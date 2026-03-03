@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/ZsI9rDVvHWyrXucdyQd9YA6deTAeTiStGCPgo_CwPaEe_1HMHt8MFJc_RcUlGXqWzRqrHiqwPijRtKz1D2Ydsy1U2eLt8sHYmpSQ1Ye_ma5QKPiEldSovvI3DJQfBDqgnAWoqKYxd4wIH3levIdd9Yed1vB4Ged5k1hxJvUklv5fiTbu-odl8K7SWaQ2f5GCxN9S4_yFweZe6NasqlMQRwsPOgigI65Qtx3nqbxMtf3wPXyRO52VsNPS6_ecewjEPN0KEH_4TWdjVhca0MlCvbK3ttJ2eDnXYdnJHBb0IUrjBf9ukniUghgQfdrBe5x4GxFPCHsD8PKk-xrem_nQuQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ZsI9rDVvHWyrXucdyQd9YA6deTAeTiStGCPgo_CwPaEe_1HMHt8MFJc_RcUlGXqWzRqrHiqwPijRtKz1D2Ydsy1U2eLt8sHYmpSQ1Ye_ma5QKPiEldSovvI3DJQfBDqgnAWoqKYxd4wIH3levIdd9Yed1vB4Ged5k1hxJvUklv5fiTbu-odl8K7SWaQ2f5GCxN9S4_yFweZe6NasqlMQRwsPOgigI65Qtx3nqbxMtf3wPXyRO52VsNPS6_ecewjEPN0KEH_4TWdjVhca0MlCvbK3ttJ2eDnXYdnJHBb0IUrjBf9ukniUghgQfdrBe5x4GxFPCHsD8PKk-xrem_nQuQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-03-03T09:47:27+00:00</updated>
+  <updated>2026-03-03T10:43:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -31,7 +31,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще один agent skill. Теперь для SwiftUI&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;&lt;img src="https://cdn4.telesco.pe/file/SkpnEA9Se16CHe5x7M7oSj45pdUtfzhm3BjshFIbMnKPnzkQ8-ozElTMvPzVlNK6TeC5ZxhneDRT4Tua0qh0JQIkJuBtvO8tBl4CMDXxU4U1GIiDHl8upPiC1LfA1ul-0KsmhROohw9mJ0npRsnq-8TOxDeV4f7JaAzVe6Q0UtxDojxeU2VWB0uzjgnnhDjwpKb_Q2N15bUFlYjwVH9FLL_pE9DE8o_4qsPf0oK0xfjtKiItADS719SyiTI1S8Xs4qUF92HhwZUtaaB84zhsoMOosd9nLT59JcHQV9dgUfvhsUcwD4YSed6XnMnckMzuMrDfemgEbWJDM0n6agK7iw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Еще один agent skill. Теперь для SwiftUI&amp;#33;&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;&lt;img src="https://cdn4.telesco.pe/file/LQj6ocv9AGtzV_vMf83KGUhIClZoWpcsP_lDTwe3EIdhihU0nNxP0y0xZeb6Aa0S_Wli69MPnjq1UkJ_Mv9wHe6dSDVIvkHtP3Bjs7iN4vFAj_h0Gp-NzZcDwrGvyILoQoKHUE89Aqbbgv5-4JKtH_Ev0CVh3pVyiG-lTHwheEN1PeWU-_nmsdFUJPx80HALy7CzEogOIxDrm73YYeaVWAMHDqmc_xExN6PUZk5_iI9xJvxLcxBb88fFCF38F7yiV2j-qJauxspaSzfTkrD9O6xsYxi-QAnvATheBuKNSvujzY97DqmeNLxtL3jW9-qXL8gH9ebGZYxjdeG4RQeVuw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;
 SwiftUI Agent Skill: Build better views with AI - SwiftLee&lt;/a&gt;&lt;br&gt;Explore the SwiftUI Agent Skill that transforms view building and refactoring. Improve your code with this open-source solution.&lt;/blockquote&gt;</content>
   </entry>
   <entry>

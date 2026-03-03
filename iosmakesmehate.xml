@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/nOmJikx-6KB8TxSIZAFyCBAmdvzX3PEwXKkBlNYg3-z5NhOMVoeyz4xVwbTOQlUAHlZi2tEe6hJx5iINMKgDYaJMHqKnPr1bhNXo9OHbcLIdXOQnFRb40KlW2IzDgrYBkHStlPPAeXIMPgVYjHvBf87Gq8PwVQpB3ysVam-YTTYAVhhCQw-eVNI07x3xVe8Ysr7quS-u90p_hzBwxxDeJYN8hEpgR_yR9t61htiv2anHNQclOaEZ1FdAgSE6-aRfNhRf4azhXi9E7s03_4Y_PbF2s-e3F330yo3kEkm2EXZMSRREDQ01bvTgk9FdjUjrRTj8cZEZ7fCdztg30qWrpw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nOmJikx-6KB8TxSIZAFyCBAmdvzX3PEwXKkBlNYg3-z5NhOMVoeyz4xVwbTOQlUAHlZi2tEe6hJx5iINMKgDYaJMHqKnPr1bhNXo9OHbcLIdXOQnFRb40KlW2IzDgrYBkHStlPPAeXIMPgVYjHvBf87Gq8PwVQpB3ysVam-YTTYAVhhCQw-eVNI07x3xVe8Ysr7quS-u90p_hzBwxxDeJYN8hEpgR_yR9t61htiv2anHNQclOaEZ1FdAgSE6-aRfNhRf4azhXi9E7s03_4Y_PbF2s-e3F330yo3kEkm2EXZMSRREDQ01bvTgk9FdjUjrRTj8cZEZ7fCdztg30qWrpw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-03T09:47:21+00:00</updated>
+  <updated>2026-03-03T10:43:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">🤤 На 0 делить нельзя?&#13;
+&#13;
+По следам хитрожопого жука...</title>
+    <published>2026-03-03T09:53:55+00:00</published>
+    <updated>2026-03-03T09:53:55+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3809</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3809"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosmakesmehate/3809" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosmakesmehate/3809"&gt;&lt;img src="https://cdn4.telesco.pe/file/IjwZjYG4jieBsKkiX2pI6gRNO4I6D7RQ52TFP0MtsgaoIzMod4ueW7Rz5pPd8DROaBQA9laXZWXS6uJZ0sITtRCN92hte7MB2N63aXppMOl-EyBid5BQGnhv4mplXFJSq5eHwPJpleCQTqIqP5cie3756T491R2bzAseJYJLoWsO-vPHCxbRRPtvMGht2cLjGhWEcaN7I1PUfPglpabFjxoaUq12rnCESmMWPM4fbexQsIcUdhgCltCpdvOCIc-bllKGPQsGGzew7DsHWjsRU61x-yVRxfv_NVyMu1Hh19oBqm7x_yKd1LeuqiqZ-XUmR2L7qwB-BO0HxF72Gv_yIQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5364236328173051607"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A4.png')"&gt;&lt;b&gt;🤤&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;b&gt;На 0 делить нельзя?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;По следам &lt;a href="https://t.me/iosmakesmehate/3803" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;хитрожопого жука&lt;/a&gt; пойдем дальше по цифрам.&lt;br/&gt;&lt;br/&gt;Не все это знают, но в Swift деление целых чисел на 0 приводит к крашу приложения. &lt;br/&gt;&lt;br/&gt;Почему именно краш? &lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;При делении Int на 0 Swift делает аппаратный trap: операция «деление на ноль» для целых считается недопустимой, процесс получает фатальное исключение от процессора/ОС и аварийно завершается.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Это особенно опасно когда:&lt;br/&gt;- расчитываешь размеры вручную&lt;br/&gt;- считаешь денюжки&lt;br/&gt;- работаешь с числами&lt;br/&gt;&lt;br/&gt;Особенно это часто надо ловить на код ревью. Не все анализаторы и чекеры это находят.&lt;br/&gt;&lt;br/&gt;Полезные статьи:&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://developer.apple.com/documentation/xcode/division-by-zero" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;дока от Apple Division by zero&lt;/a&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://forums.swift.org/t/where-is-the-implementation-of-dividedreportingoverflow/47246/4" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Where is the implementation of `dividedReportingOverflow`?&lt;/a&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5215438204110382731"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"&gt;&lt;b&gt;🟣&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://www.reddit.com/r/swift/comments/1dal9tp/why_division_by_zero_isnt_raising_an_error/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Тред на реддите&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">тут глава Anthropic заявил что через год программистов не...</title>
     <published>2026-03-03T05:03:07+00:00</published>
