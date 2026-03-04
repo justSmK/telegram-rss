@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/vNav1PP4oLi14oLiLlFvMob3fT0oNwQFxdc5klfIbK13zOGPjRyGkyjCS_FAMUY19EqgzxTABa7H8pnWRftb46KYQ_StZLu0wYOprWSv72EF8cnc_24pmsb--rNGhcZDOS8pDGrgBdTUyLS119eknvN5sfBpXw7jw9pRB8IlgEVMqelb-cpgqUh0TVSEppEwtUse2fbuWO-RQLCbhG_l76fGKDhVK_MREMAkeN6Tm7NAuRjmmY4fZpnaVddyIVaLE_grnjzio-SYiQo2K9HgbpuC11N0dHry_CvR8hTW47U5RAPp1h3NVp8O9Km0trgCHYRriUeT3p1Tv9-epOLiig.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/vNav1PP4oLi14oLiLlFvMob3fT0oNwQFxdc5klfIbK13zOGPjRyGkyjCS_FAMUY19EqgzxTABa7H8pnWRftb46KYQ_StZLu0wYOprWSv72EF8cnc_24pmsb--rNGhcZDOS8pDGrgBdTUyLS119eknvN5sfBpXw7jw9pRB8IlgEVMqelb-cpgqUh0TVSEppEwtUse2fbuWO-RQLCbhG_l76fGKDhVK_MREMAkeN6Tm7NAuRjmmY4fZpnaVddyIVaLE_grnjzio-SYiQo2K9HgbpuC11N0dHry_CvR8hTW47U5RAPp1h3NVp8O9Km0trgCHYRriUeT3p1Tv9-epOLiig.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-03-04T05:47:18+00:00</updated>
+  <updated>2026-03-04T06:53:29+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Q&amp;amp;A с Apple про SwiftUI&#13;
+&#13;
+Apple продолжают уходить от режима, в...</title>
+    <published>2026-03-04T06:04:49+00:00</published>
+    <updated>2026-03-04T06:04:49+00:00</updated>
+    <id>https://t.me/iosgr/4622</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4622"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Q&amp;amp;A с Apple про SwiftUI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Apple продолжают уходить от режима, в котором они общаются с разработчиками только раз в год на WWDC. Например, сейчас они пробуют новый формат – вебинары с Q&amp;amp;A. Недавно прошел такой вебинар по SwiftUI, и один из участников подбил все 100 вопросов в один пост.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;&lt;img src="https://cdn4.telesco.pe/file/l0JEgy_wj5FikNYSxQUTxPbp5gk9kjBTNukyAIyJs3OfNJ0VTBPzsoEPSKip3wQx5YptOv952hmwFW3X1Ezln_dcijCxkGoL7cJltpGLGzJNUed2-_QVG2IB4njKh4CNS7KLc6ScE69Zb-5cmuRpMKSS7xqpCjC6oxGKWRh8rs39zrZlTu0dXNRdluWlpZgkXlrucan5hDqOVfOyw-guU0oXR13LwFVw9gR_1-JPXOURiA0-bfjDZU_784mljvV8Q9wQR3GnnnQFUu2S7-H9Ld7ywnSEyZBG8vvwN44Xwd3TFp_tpv1lEpuZZjWDRKDD1fADKn7M_cJRDcNolywIrg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;
+SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A - Substack&lt;/a&gt;&lt;br&gt;Answers from Apple Engineers&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Большое исследование мобильных...</title>
     <published>2026-03-02T10:23:07+00:00</published>
@@ -261,19 +275,5 @@ Swift is a more convenient Rust - nmn.sh&lt;/a&gt;&lt;br&gt;From the Archive: Th
 	&lt;source src="https://cdn4.telesco.pe/file/2f214057a3.mp4?token=vDwPGoL_C2LBomYjGsIdyJoI-2aBtLyfUb9cRmgUjqHModMkDLoOEDAQLayIHbTfWF3DwLMhP7K8z5LIPEMX-QSN9jQ6MOEOZHFLe6aAur2QVdMKSWvShmkHWPkKInxlJpFvlq6f5xEwHQawS8uhHBvWWyV0GmfA-v86s5XN4XrCX8CoQlQq7dKQ0uQqryMEyVC_rqm0umkP_751FiJ79pb9t62e8quBrBdiw-XV9ZQITvpz_Af75G-s3Z3nnehc3YzuJK9aqKR9S1ad-X3q0-vVcW9Xdwx2q4n21dJkhOu8-5uoWcHr4nldUyYvJDDRgJDW7jHTbfnKbfZX_B0VFQ" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Со всеми этими новыми агентскими интеграциями и MCP радует, что дорогие нашему сердцу вещи в Xcode вроде вылизанного UX &lt;a href="https://x.com/camsoft2000/status/2018809022628176202?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;остаются вечными&lt;/a&gt;.&lt;/div&gt;</content>
     <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/OT8x9nDmYSaKxVPrcyaICts2RT-uQuvF0lFVLPPQDOS1Sn4aR3WLeS4CXHGv81Ze8CiHK6xeY5Gd2H0qgJkNHkV1M6TG-4cQdRjjyaUXLZGKGT7IAHRdAzv-C8725Xuebk4vWmyKmNzAJDZ-P8PDbHcpczeLdVBqmVfWEl1RSa5JCkTKVJsRFFKAhORx4JuJj6-2xMgLKGDMiKx-p6HgszcSutsDEMVkp7u5mnJSSeUQxXTueiZN-KDmyPU9fE8jCd2pS6O9bNKJYdQPUyWs7mJJgF7dkiWOgDuQjh2VziutBXjDi4ffHeBlASfAQmQJsOSL-0n9fKXxFqpmV1NAyw"/>
-  </entry>
-  <entry>
-    <title type="html">Рабочая группа Swift for Windows&#13;
-&#13;
-В проекте Swift появилась...</title>
-    <published>2026-02-09T06:02:02+00:00</published>
-    <updated>2026-02-09T06:02:02+00:00</updated>
-    <id>https://t.me/iosgr/4602</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4602"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/announcing-windows-workgroup/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Рабочая группа Swift for Windows&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;В проекте Swift появилась новая рабочая группа вдогонку к недавней по Android – она будет заниматься следующим:&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Улучшать поддержку Windows в целом&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Помогать докручивать корные Swift пакеты для того, чтобы они вписывались в идиомы Windows&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Помогать корной команде Swift принимать решения по эволюции поддержки Windows&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;Выпускать лучшие практики по тому, как интегрировать Swift и Windows APIs&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/announcing-windows-workgroup/"&gt;&lt;img src="https://cdn4.telesco.pe/file/t3ATo5Q3skCw75dTnT-9wD7jwPw2yvijStxZheayFGm7iCHDJJ5AOrOdTZYBHeMS5em9hSZLB6jUyoP-xR9KhqveeAxXGzz6bZeyTLIRWWvqNiPIitAKvYOjXIz6YFkS3XJa6Cf4VlXaIiqJpfUNktCDgJTsRmT-DpLc6pq6OzujnzE7uMKnxvTTx-SlR8K4SgGjMB_CnuKJSpqAHIAKNjLxPOrDkelbUjhPYI9qHOP9nEppWJdIj89E0ApkdC0Lft1Wd-NaFYyYBLkNHOgPO112ArHbWHIy82VcQttFQRHfyNy5BEUR-zs1YctB7QtPvYzDkFxl_zFRdbcP1_jf0g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/announcing-windows-workgroup/"&gt;
-Announcing the Windows Workgroup - Swift.org&lt;/a&gt;&lt;br&gt;We are excited to announce the creation of the Windows workgroup&amp;#33;&lt;/blockquote&gt;</content>
   </entry>
 </feed>
