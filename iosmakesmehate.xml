@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/qa8sr7S3npQwkFvW0MOU7kuApP8K9PajED8lpWG2uVYkRYBC8ixeKzu92NWPuLhl6QH2ra5_szpfwYB23OhdW73GNiYnFuinpusYmLKKy3j_Vn_AQJzMaEkZmwHBCd6ROTjiVlIXsO4CyqWAbPEq-WZ_7HwTaLvOLwtoAnSBAgdqClmPnuyjObvU4FCWG3UardeC4JQ-8jM76jeWBZMJszdR4pLYiujr89N2rXUGJJexKmP4CKbjhAEa7-sExdtQkMs9SAByFH-SwupEsA0LyGk25tolaTSf8bPn3AzWQYHl7pXoFxBNUZKxSkFHz0d4s3yJaqIppOG_IhGOmXi-Og.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/qa8sr7S3npQwkFvW0MOU7kuApP8K9PajED8lpWG2uVYkRYBC8ixeKzu92NWPuLhl6QH2ra5_szpfwYB23OhdW73GNiYnFuinpusYmLKKy3j_Vn_AQJzMaEkZmwHBCd6ROTjiVlIXsO4CyqWAbPEq-WZ_7HwTaLvOLwtoAnSBAgdqClmPnuyjObvU4FCWG3UardeC4JQ-8jM76jeWBZMJszdR4pLYiujr89N2rXUGJJexKmP4CKbjhAEa7-sExdtQkMs9SAByFH-SwupEsA0LyGk25tolaTSf8bPn3AzWQYHl7pXoFxBNUZKxSkFHz0d4s3yJaqIppOG_IhGOmXi-Og.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-04T14:39:29+00:00</updated>
+  <updated>2026-03-04T15:45:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -203,7 +203,7 @@ Mobile Interview Podcast | Интервью с iOS инженером из UBER&
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">			Важно ли уметь писать код вручную в эпоху аи-агентов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;53% - Важно, чтобы улучшать за агентами код&lt;/li&gt;&lt;li&gt;46% - Важно, чтобы развиваться самому&lt;/li&gt;&lt;li&gt;73% - Важно, чтобы иметь больше понимания и контроля&lt;/li&gt;&lt;li&gt;35% - Важно, чтобы сохранять инженерную культуру&lt;/li&gt;&lt;li&gt;8% - Неважно. Этот навык отмирает.&lt;/li&gt;&lt;li&gt;2% - Я не пишу код&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Важно ли уметь писать код вручную в эпоху аи-агентов?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;53% - Важно, чтобы улучшать за агентами код&lt;/li&gt;&lt;li&gt;47% - Важно, чтобы развиваться самому&lt;/li&gt;&lt;li&gt;74% - Важно, чтобы иметь больше понимания и контроля&lt;/li&gt;&lt;li&gt;35% - Важно, чтобы сохранять инженерную культуру&lt;/li&gt;&lt;li&gt;8% - Неважно. Этот навык отмирает.&lt;/li&gt;&lt;li&gt;2% - Я не пишу код&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Рубрика «офисная среда»&#13;
