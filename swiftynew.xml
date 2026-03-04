@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/lQNbacW0JNJSF6BMxVI1TDqwGj6IKwTusabvICloFfJJbognQPi1E3yCuiXgvXV0mfNe9MIHvARSXS7yZD-OiEvv904BZ0xWje9k8HvuI5HHpQ6o8y_twTUZfxe8vsZKC4dx7Qktkh06AJXZrWoqzKQQWDbcc27xi0X4qfTs1_B2GtlsUu_QwoAKeMx06_bPujU9_JfYk6rUE5bDOr2cwQgYwVXXAHX0fLuNErGt1mxMpvmkIkm7qjEGOZPg_Guo212GWpbJMRpR3a01uJBPEmrMRmYVKB5oyZMO2Ta-WTfvQlO7siVbGZB3faB9TwazQ4qmoQm9ulioKTSnEcyHNg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/lQNbacW0JNJSF6BMxVI1TDqwGj6IKwTusabvICloFfJJbognQPi1E3yCuiXgvXV0mfNe9MIHvARSXS7yZD-OiEvv904BZ0xWje9k8HvuI5HHpQ6o8y_twTUZfxe8vsZKC4dx7Qktkh06AJXZrWoqzKQQWDbcc27xi0X4qfTs1_B2GtlsUu_QwoAKeMx06_bPujU9_JfYk6rUE5bDOr2cwQgYwVXXAHX0fLuNErGt1mxMpvmkIkm7qjEGOZPg_Guo212GWpbJMRpR3a01uJBPEmrMRmYVKB5oyZMO2Ta-WTfvQlO7siVbGZB3faB9TwazQ4qmoQm9ulioKTSnEcyHNg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-04T08:43:06+00:00</updated>
+  <updated>2026-03-04T09:44:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;32% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
@@ -30,7 +30,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swiftynew/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/CNrMCTcShqqTEJy0gPnqDsvrs1NtXst04cpUcpGpuOJSGq-5x31n5cVs0m_uQwLJS5phps6CMyGwKE95PDRzdrDnO4bNV2EWvFTnjfWyFAdmtSSxdS-STrpPiKDoiyx6mBB9PV8Vk6ux6E_YoOE9EBiZO9VcUctMM0APlaSy_jzk6F-Em71GAc4ifTsa68Qs9craMVAQKRChBUcuXChGIJdBedFIxE5ERkfy0QyzZaTSon2tjMps6Ccgm8RdZoOh6YpT_Yw5G7uSgnkX27k2UHlRzikMD2j7AN2BoaAFcdC52c4mCZUD2nrWY_pJG5EQoJf-xGxy09eu1ydUdTWe6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swiftynew/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/uzMl34Ubhc4YlU0QE885KyCmaoDw6BG8dDUD3lqpjBaoJfjUV7H4rl7LJOENMsPSGRIzV6NfKJC3F1anFEZeE4GeWCyEJ4PkWCBFiuLRBkSgKgAmtBVuy8GNdhRNmaI7CmB1obygx4D3HKzfh_teHviJrrIyTi_vdZfpleozsxOYNu62dUrU8S-KkCeci6oPut2Rfve8o5eI3HMFm55tkSHSeppZd_UKd5sL0u_1XRAKq_SQNBMrTvM6e6av3LRkx4euBHq76V_vEp80OAVr0VAIz1NA0PqnnZR4XSPLcxIhR4skpynZ6BhwZKyG2RbstThDFMx1UxI2kjZVQqTE0Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">        Please open Telegram to view this post     VIEW IN TELEGRAM    </title>
