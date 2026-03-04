@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/n26rfsHt_zpB9B4noxf1PDVAYjgobLAiJ7_gvQ2SWzcbKrtt1Wicig3Ba4THhvHrWhSeecyB05zJhhrKCG1yZ2g7kXc2NAMhpYDdg4uymH0mwNwkl-wjGzwtEHqNew5H7g7vzseTlEwMefa7kjIrsmD9MqSbHEktWt6H9509JE2tzCpwV5APHZxDj0kWdCK8XNEi8xW8u3sDy3UJxn4LRWgKISVfnF7WYtCBDgNiLEYkKihGj3_BJnTdaFcofMjerj61NDkvk9AEqRaonAwjR9T6m44MlF0-TaQ4FQTvXpp1g0ZLarLs9Mubj2uHqOkuZF8zvrUpEZJUvie2DAUfOw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/n26rfsHt_zpB9B4noxf1PDVAYjgobLAiJ7_gvQ2SWzcbKrtt1Wicig3Ba4THhvHrWhSeecyB05zJhhrKCG1yZ2g7kXc2NAMhpYDdg4uymH0mwNwkl-wjGzwtEHqNew5H7g7vzseTlEwMefa7kjIrsmD9MqSbHEktWt6H9509JE2tzCpwV5APHZxDj0kWdCK8XNEi8xW8u3sDy3UJxn4LRWgKISVfnF7WYtCBDgNiLEYkKihGj3_BJnTdaFcofMjerj61NDkvk9AEqRaonAwjR9T6m44MlF0-TaQ4FQTvXpp1g0ZLarLs9Mubj2uHqOkuZF8zvrUpEZJUvie2DAUfOw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-04T07:39:30+00:00</updated>
+  <updated>2026-03-04T08:42:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Adjusting line height in SwiftUI on iOS 26 https://t.co/naBYTJuVbb</title>
+    <published>2026-03-04T08:32:47+00:00</published>
+    <updated>2026-03-04T08:32:47+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26081</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26081"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/K6tMpGmOR_aykTwqknu-vj7N7SICi2ToxMTig8vD3miWo3QGlxftBOfqltdO9vU-4-gdpuIAQ6ZuBlzqzAT7mVKcZY6eNHtwFM3Qm3a4IU2YHYAZ6Z_uhYEZVhe7TnZoOOqqVGnqOkUwImBt8yE8TN5NnUVzDnjMsgXfr6-cZ461W74yF-bEdk4kb__S32wy0Xuv4M8fx7hbOCz7cIjE3miD0ajIiDNbwibB9F8d8Scw8yWymPgFNxmARyljWXPMiMy9T2QzhDq-m7D1IRVk5pkYh1RubC5ZFRH9Jpk4MnPTQwaRbafSRDXg1Okqwv5Deq10WHDj9sk232Wx9JCG9Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
+Adjusting line height in SwiftUI on iOS 26 - Nil Coalescing&lt;/a&gt;&lt;br&gt;iOS 26 introduces the lineHeight(_:) modifier and AttributedString.LineHeight attribute for adjusting vertical spacing between lines of text in SwiftUI.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : DebugSwift/DebugSwift https://t.co/kXIGISIvQ0</title>
     <published>2026-03-04T02:12:47+00:00</published>
@@ -79,7 +91,7 @@ iOS System Design interviews in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Pract
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift 6 Migration Pitfalls You Should Know &lt;a href="https://t.co/uFIwFVoSOj" target="_blank" rel="noopener"&gt;https://t.co/uFIwFVoSOj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;&lt;img src="https://cdn4.telesco.pe/file/SEepCh-NTU0lEckFWPHkizJHQH3FyHU61eyjqmyWDU__Eq7y5_LXfpnnhivhYB-lBz7eGKBO1y0fIjCVeDhsFPHULPfBPCJ9pg1nYTwmiP6ahiPtnr0dav5pcv7rmDSLZTtX6Agt4AQ0zxXQssLYqq-9ZfpMx5pt-KfbYKvKLiPywYwEckpyi6bQh8P0PI0OoA2GHioeVQRaMUKroUxeXR2MbiC1y6apzTKcaG3uAkdEaK_-2w0vidWtXVGyDgRIIT8tRWZLmJnZCa1IXz3FqNs40wjCo4tfcfR2mfKvH3TDJPPG8ao7tqsqKK8tD_4nSxm8peDjiC5CxQM9eXDnLA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift 6 Migration Pitfalls You Should Know &lt;a href="https://t.co/uFIwFVoSOj" target="_blank" rel="noopener"&gt;https://t.co/uFIwFVoSOj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;&lt;img src="https://cdn4.telesco.pe/file/cffS5VR5UhgPRWGFeXiZ2HTAsl3lcZ6YXcYJ-IUUpIdIBKeDpUij2k7a5o-LmJOYDvHkQ8JF-UOT45lBaPpzuPWx4Y8SBdhWLAOHEG1FEQ2mpT2MmpCM3dxSIfSNOWt44IxKyDL2CLUOia8uLHwTyPtGjsBzcxisSHgn1swRiY5A_Fwp-I1YglHYTkKbhE8NtZZ8NMBaI9lziL6ER9JGpQ7V5nE12GyEE8zjFHhEhAqhBesY6M5CiQp89Ch9UAnG2oc7VPVnCOQyZv08n9jFs8UmOv_3_gPOJ3n_2ff3VyByiwOteMtI_4VA4c3uJPvamgj1d_HIWhmqO4GzuLx1eA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;
 Swift 6 Migration Pitfalls You Should Know - Hugh&amp;#39;s Blog&lt;/a&gt;&lt;br&gt;Real-world lessons from incrementally migrating to Swift 6—pitfalls, concurrency isolation gotchas, and practical mitigation strategies.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -237,17 +249,5 @@ GitHub - Blaizzy/mlx-audio-swift: A modular Swift SDK for audio processing with 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : rive-app/rive-ios &lt;a href="https://t.co/w8zWTYgi2f" target="_blank" rel="noopener"&gt;https://t.co/w8zWTYgi2f&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/w8zWTYgi2f"&gt;&lt;img src="https://cdn4.telesco.pe/file/BLR9GjP6Xloxfumg0OIcxB-v7AYoAQTX2IT0KIhFqvpCVnlo3VJCY_XJKwH8aevy4oEublw7AaJNjP_mCFHZ0QngqeJBzerA692Gluyp7DfuMNK5LsyPOitl2zXKwdBgXKlwmds_RKjqVPxY1jSbSdp-chviYorGAGZQnW8GD84oCXutu42FWqnEf6WQBzVQOMSpbXtu50Ipb36esASDDMd7CX_xt_goRWzNCFYjhfaPOq4uU6EJ-tCREVNZUl5n-nHgSWd1o9wGLVORXn0R9kAUbOiueghyT2-h-_o_nB3mLiaklTL8Ki5gfB0i5Nm1mYfqmNeOFBC2F3eCHQWsHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/w8zWTYgi2f"&gt;
 GitHub - rive-app/rive-ios: iOS runtime for Rive - GitHub&lt;/a&gt;&lt;br&gt;iOS runtime for Rive. Contribute to rive-app/rive-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : sunnyyoung/WeChatTweak https://t.co/iGgfOhfWpR</title>
-    <published>2026-03-02T02:02:52+00:00</published>
-    <updated>2026-03-02T02:02:52+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26061</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26061"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : sunnyyoung/WeChatTweak &lt;a href="https://t.co/iGgfOhfWpR" target="_blank" rel="noopener"&gt;https://t.co/iGgfOhfWpR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;&lt;img src="https://cdn4.telesco.pe/file/IgFVVXLgNhYZY00J5ZYoCJrfdP1A16_4zWL7E6Kvn2MHFFDG8Q_ENcMFu-_NGdlZKmEEn90LPp4gWLDkzI1LfKD1KBk6cV_AmIS0sexcJJ_3t11DI5z-W6UVfhi64g788zvoTz1eFHdy-RZ2hL2LxniFeuUdZojH3BnDe2xlVFpG462E2Xz_oNhrk0wZl_ttw3A_XhHeUF1xPEXzpA93zFv7_JHsze36q3Wz6spjdrvmmi1Vu_IMt6RHbNypUhvuwZd9LxOseQFi6ZbqRd__INs0oo5-S2tEmhANjSPZ6wTyGxs5oQy9wWWtuHgwM7Bqj94DKExbYiZDWiOMsAUDIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/iGgfOhfWpR"&gt;
-GitHub - sunnyyoung/WeChatTweak: A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨 - GitHub&lt;/a&gt;&lt;br&gt;A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨 - sunnyyoung/WeChatTweak&lt;/blockquote&gt;</content>
   </entry>
 </feed>
