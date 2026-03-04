@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/lQNbacW0JNJSF6BMxVI1TDqwGj6IKwTusabvICloFfJJbognQPi1E3yCuiXgvXV0mfNe9MIHvARSXS7yZD-OiEvv904BZ0xWje9k8HvuI5HHpQ6o8y_twTUZfxe8vsZKC4dx7Qktkh06AJXZrWoqzKQQWDbcc27xi0X4qfTs1_B2GtlsUu_QwoAKeMx06_bPujU9_JfYk6rUE5bDOr2cwQgYwVXXAHX0fLuNErGt1mxMpvmkIkm7qjEGOZPg_Guo212GWpbJMRpR3a01uJBPEmrMRmYVKB5oyZMO2Ta-WTfvQlO7siVbGZB3faB9TwazQ4qmoQm9ulioKTSnEcyHNg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/lQNbacW0JNJSF6BMxVI1TDqwGj6IKwTusabvICloFfJJbognQPi1E3yCuiXgvXV0mfNe9MIHvARSXS7yZD-OiEvv904BZ0xWje9k8HvuI5HHpQ6o8y_twTUZfxe8vsZKC4dx7Qktkh06AJXZrWoqzKQQWDbcc27xi0X4qfTs1_B2GtlsUu_QwoAKeMx06_bPujU9_JfYk6rUE5bDOr2cwQgYwVXXAHX0fLuNErGt1mxMpvmkIkm7qjEGOZPg_Guo212GWpbJMRpR3a01uJBPEmrMRmYVKB5oyZMO2Ta-WTfvQlO7siVbGZB3faB9TwazQ4qmoQm9ulioKTSnEcyHNg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-04T11:33:38+00:00</updated>
+  <updated>2026-03-04T13:03:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Всем привет😊&#13;
+Сегодня опубликовал новую статью на...</title>
+    <published>2026-03-04T12:11:29+00:00</published>
+    <updated>2026-03-04T12:11:29+00:00</updated>
+    <id>https://t.me/swiftynew/676</id>
+    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/676"/>
+    <author>
+      <name>SwiftyGroup</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/swiftynew/676" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всем привет&lt;tg-emoji emoji-id="5873067632080456721"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"&gt;&lt;b&gt;😊&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;Сегодня опубликовал новую статью на Хабре.&lt;br/&gt;&lt;br/&gt;Разобрал малоизвестную возможность Swift — for case let. Старался писать коротко и по делу, без лишних тем.&lt;br/&gt;&lt;br/&gt;В статье разобрал:&lt;br/&gt;&lt;br/&gt;• как работает for case let&lt;br/&gt;• что происходит под капотом&lt;br/&gt;• реальные production-кейсы&lt;br/&gt;&lt;br/&gt;Если вы используете switch или if case — есть шанс, что эта конструкция сделает код чище и короче.&lt;br/&gt;&lt;br/&gt;Почитать можно тут:&lt;br/&gt;&lt;a href="https://habr.com/ru/articles/1006412/" target="_blank" rel="noopener"&gt;https://habr.com/ru/articles/1006412/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://habr.com/ru/articles/1006412/?utm_campaign=28768978&amp;amp;utm_source=telegram_flows&amp;amp;utm_medium=social"&gt;&lt;img src="https://cdn4.telesco.pe/file/XjjsUJtEEfoRGrberZQWxqnCRqSHxr5KPqGDAte-F-viMl7HTugeoKEoRZRnY7snk-MCLz81m6YOrLrTJmR2ApdZ2DHJ0Zz46k5b-qPYaeWPJAkJWNh7sluvtLXxl2wY3Mek0fhMHawBEpxKKmoGgxgETOfleTHZ15fk3SmAAKZUaCFodjpfgop1SwPZvqayG-sc231MQ_sQUEXH71mHKBePxw1K4F_ipY8_cv_-zpSpEIJLbFuz7uAz_tEfprP_MtiYfYdujybIhkAdIqx1dfQBcsk7TDXLb1H70EHppYxsL0U6YT8t4Q9QMqpr5jm5_OsZ3ML4rtoJbamzHbiSNw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://habr.com/ru/articles/1006412/?utm_campaign=28768978&amp;amp;utm_source=telegram_flows&amp;amp;utm_medium=social"&gt;
+Малоизвестная возможность Swift: for case let, о которой не знают многие iOS-разработчики - Хабр&lt;/a&gt;&lt;br&gt;Swift известен системой pattern matching . Большинство разработчиков используют её в switch , иногда в if case или guard case . Но в языке есть ещё одна конструкция, которую многие никогда не видели —...&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Варианты ответа:</title>
     <published>2026-02-27T09:38:45+00:00</published>
@@ -19,7 +32,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;32% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;60% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
@@ -238,16 +251,5 @@ defer был строго...</title>
       <name>SwiftyGroup</name>
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В Swift приняли **SE-0493 — async в defer.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Раньше:&lt;br/&gt;&lt;b&gt;defer &lt;/b&gt;был строго синхронным.&lt;br/&gt;Даже внутри async-функции нельзя было написать &lt;i&gt;await&lt;/i&gt; в&lt;b&gt; defer&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Из-за этого:&lt;br/&gt;— асинхронный cleanup приходилось дублировать&lt;br/&gt;— или делать Task { } внутри defer (который не ждёт выполнения)&lt;br/&gt;&lt;br/&gt;Теперь:&lt;br/&gt;в defer можно вызывать await, если окружающий контекст async.&lt;br/&gt;&lt;pre&gt;&lt;br/&gt;func load() async {&lt;br/&gt;    await start()&lt;br/&gt;&lt;br/&gt;    defer {&lt;br/&gt;        await cleanup()&lt;br/&gt;    }&lt;br/&gt;&lt;br/&gt;    try await work()&lt;br/&gt;}&lt;br/&gt;&lt;/pre&gt;&lt;br/&gt;Что важно:&lt;br/&gt;— defer по-прежнему выполняется при выходе из scope&lt;br/&gt;— порядок defer сохраняется (LIFO)&lt;br/&gt;— await внутри defer ожидается, а не fire-and-forget&lt;br/&gt;— работает только в async-контексте&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md" target="_blank" rel="noopener"&gt;https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md&lt;/a&gt;&lt;br/&gt;Proposal принят и войдёт в Swift.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">что будет результатом выполнения?</title>
-    <published>2025-12-12T09:44:15+00:00</published>
-    <updated>2025-12-12T09:44:15+00:00</updated>
-    <id>https://t.me/swiftynew/652</id>
-    <link rel="alternate" type="text/html" href="https://t.me/swiftynew/652"/>
-    <author>
-      <name>SwiftyGroup</name>
-    </author>
-    <content type="html">			что будет результатом выполнения?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;53% - «-824»&lt;/li&gt;&lt;li&gt;7% - «24»&lt;/li&gt;&lt;li&gt;32% - «42-8»&lt;/li&gt;&lt;li&gt;7% - «42»&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
