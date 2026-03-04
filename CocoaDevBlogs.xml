@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/n26rfsHt_zpB9B4noxf1PDVAYjgobLAiJ7_gvQ2SWzcbKrtt1Wicig3Ba4THhvHrWhSeecyB05zJhhrKCG1yZ2g7kXc2NAMhpYDdg4uymH0mwNwkl-wjGzwtEHqNew5H7g7vzseTlEwMefa7kjIrsmD9MqSbHEktWt6H9509JE2tzCpwV5APHZxDj0kWdCK8XNEi8xW8u3sDy3UJxn4LRWgKISVfnF7WYtCBDgNiLEYkKihGj3_BJnTdaFcofMjerj61NDkvk9AEqRaonAwjR9T6m44MlF0-TaQ4FQTvXpp1g0ZLarLs9Mubj2uHqOkuZF8zvrUpEZJUvie2DAUfOw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/n26rfsHt_zpB9B4noxf1PDVAYjgobLAiJ7_gvQ2SWzcbKrtt1Wicig3Ba4THhvHrWhSeecyB05zJhhrKCG1yZ2g7kXc2NAMhpYDdg4uymH0mwNwkl-wjGzwtEHqNew5H7g7vzseTlEwMefa7kjIrsmD9MqSbHEktWt6H9509JE2tzCpwV5APHZxDj0kWdCK8XNEi8xW8u3sDy3UJxn4LRWgKISVfnF7WYtCBDgNiLEYkKihGj3_BJnTdaFcofMjerj61NDkvk9AEqRaonAwjR9T6m44MlF0-TaQ4FQTvXpp1g0ZLarLs9Mubj2uHqOkuZF8zvrUpEZJUvie2DAUfOw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-04T20:42:52+00:00</updated>
+  <updated>2026-03-04T21:37:53+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">This one liner to add beautiful transition between UICollectionViews https://t.co/1JMasVOENN</title>
+    <published>2026-03-04T21:27:28+00:00</published>
+    <updated>2026-03-04T21:27:28+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26085</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26085"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;This one liner to add beautiful transition between UICollectionViews &lt;a href="https://t.co/1JMasVOENN" target="_blank" rel="noopener"&gt;https://t.co/1JMasVOENN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1JMasVOENN"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1JMasVOENN"&gt;
+This one liner to add beautiful transition between UICollectionViews - Whacky Labs&lt;/a&gt;&lt;br&gt;UIKit comes with a bag full of techniques to build mind blowing animations and transitions but this one liner has to my favorite.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26...</title>
     <published>2026-03-04T19:22:40+00:00</published>
@@ -238,17 +250,5 @@ visionOS 26.4 beta 3 (23O5225f) - Releases - Apple Developer - Apple&lt;/a&gt;&l
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 3 (23T5226e) &lt;a href="https://t.co/DMsEPiiT8c" target="_blank" rel="noopener"&gt;https://t.co/DMsEPiiT8c&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DMsEPiiT8c"&gt;&lt;img src="https://cdn4.telesco.pe/file/V2fXEywtoV9jWDzEj9Ut8skurC8sVGhzgY0UUJmpwDeHVFjFB98ynMTIKtYcZOZEVbDrx8xCxogeVUjpe8dTGqK2v2ngGTE6liphT3DUhtsJbtmKEH3c0v_EpsjGxId5d4ZJZinb9GJfTPumK5YhfqlJocES6haTbxwlWaDQQ-NFrt0A09Nq2Mz1JcSp06nIBRM5dtp-D6qYAEPPV7ny5_JX6SMZgPaB4OtGNHvTtI8jq8cejB2h-dajWv_WyjP1RMGLWip_oe8-mv_QMdTn6ybJxVj0euea5v8TaCaef42iXAKhJU79ixPLwbcgCSR1N6mICRRoeROguobx0Jj4sA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DMsEPiiT8c"&gt;
 watchOS 26.4 beta 3 (23T5226e) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Using an MCP to perform product optimizations https://t.co/IfDBhPeVDn</title>
-    <published>2026-03-02T14:03:17+00:00</published>
-    <updated>2026-03-02T14:03:17+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26065</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26065"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Using an MCP to perform product optimizations &lt;a href="https://t.co/IfDBhPeVDn" target="_blank" rel="noopener"&gt;https://t.co/IfDBhPeVDn&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;&lt;img src="https://cdn4.telesco.pe/file/IRT9hMKNiS3q6v0oCmIK4N9MCMUCIin5Nf8MRCCTZugzcaENhSc5sQescR_PLEHmBWug6SWvWQFH4ZbuN6utsK4pShUbIYqbhukfKxO1PXUlubHexPap1mePrf2yFMUx6wzKi3G-3bic-9HGisZC-MlZ-xSW664wGfjNUqS9MwEAkLKpGpFVZ1RaPqj8DlX32_BTrkPcjkd7hZFVxFlFmO9cYmK7wh58B4CGiH_PPbQ3Fjw89pkUqeihXCdrAa9AYIJ6NjZWHBvXLwxwpqFg9cByzkI2dA3tGduz5Bc5Hhi5DFucYLJxpNRGl3ZBu_qxm5SaaTGTW59_12qM0J5_gQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IfDBhPeVDn"&gt;
-Using an MCP to perform product optimizations - SwiftLee&lt;/a&gt;&lt;br&gt;A Model Context Protocol (MCP) can be invaluable when used properly, especially when talking about product optimizations. I’ve personally been playing around with it for a while now, and feel like I need to share my learnings due to the impact it has. In…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
