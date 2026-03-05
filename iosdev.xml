@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/Ro1685ypQIUXGJ6yWhZdW4lIY3K6K6gMk9i5ljBUp5ysw4FjhonS4tcI4vvpgLtKRRB-gXYHzS8KPBweb10lW5rwTOjNHXmrzNyd0SYC87Ew8csL7bZpscipJdHPf7ZfirNsPfXq7bAXoHcixxhQKZI-eET-Kacb5z0vyfin2YC5JNhNh4NlWvIpW4iQ1ITZHQwH26jLvNSnRfBuQ4WKpqVyNfCDJX76qcLhR1Cr2zX-3XIyVwmQRUyvPdeNppP2BbwgSgs_UXUHEZWXatwn-A1vRHWz9eSsNjgxUnMFvLDBcUdnqT2xVQKqL6IzcYtQsQZTviwiB0uITfJ5zAn42w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Ro1685ypQIUXGJ6yWhZdW4lIY3K6K6gMk9i5ljBUp5ysw4FjhonS4tcI4vvpgLtKRRB-gXYHzS8KPBweb10lW5rwTOjNHXmrzNyd0SYC87Ew8csL7bZpscipJdHPf7ZfirNsPfXq7bAXoHcixxhQKZI-eET-Kacb5z0vyfin2YC5JNhNh4NlWvIpW4iQ1ITZHQwH26jLvNSnRfBuQ4WKpqVyNfCDJX76qcLhR1Cr2zX-3XIyVwmQRUyvPdeNppP2BbwgSgs_UXUHEZWXatwn-A1vRHWz9eSsNjgxUnMFvLDBcUdnqT2xVQKqL6IzcYtQsQZTviwiB0uITfJ5zAn42w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-03-05T13:07:08+00:00</updated>
+  <updated>2026-03-05T14:49:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Apple Music будет отмечать контент, созданный ИИ&#13;
+&#13;
+📖 Теперь...</title>
+    <published>2026-03-05T14:43:12+00:00</published>
+    <updated>2026-03-05T14:43:12+00:00</updated>
+    <id>https://t.me/iosdev/1881</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1881"/>
+    <author>
+      <name>iOS Dev</name>
+    </author>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1881" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Apple Music будет отмечать контент, созданный ИИ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"&gt;&lt;b&gt;📖&lt;/b&gt;&lt;/i&gt; &lt;a href="https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Теперь появятся специальные теги&lt;/a&gt;, которые дистрибьюторы смогут использовать для обозначения элементов песни, созданных с помощью ИИ. &lt;br/&gt;&lt;br/&gt;Среди них: обложка песни, сам трек, текст или видео, которое идёт вместе с музыкой (в Spotify был анонс схожих изменений ещё в &lt;a href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;сентябре&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5456165219766115831"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AA.png')"&gt;&lt;b&gt;💪&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Такими темпами и моя шутка про &lt;a href="https://t.me/iosdev/820" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;специальную пометку приложений, сделанных нейросетью станет реальностью&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Виды кэширования в iOS: разбор видов, возможных...</title>
     <published>2026-03-05T09:16:53+00:00</published>
@@ -243,18 +256,5 @@ Apple ежегодно обновляет API MapKit,...</title>
       <name>iOS Dev</name>
     </author>
     <content type="html">			Где iOS-разработчик быстрее деградирует?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - В аутсорсе (частое переключение контекста, да и пилишь однотипные экраны почти всегда)&lt;/li&gt;&lt;li&gt;21% - В небольшой компании с одним продуктом (так как не изучаешь новые технологии)&lt;/li&gt;&lt;li&gt;8% - В стартапе (плохой код ради скорости)&lt;/li&gt;&lt;li&gt;27% - В бигтехах (долгие согласования, одна фича за год)&lt;/li&gt;&lt;li&gt;33% - Другое/посмотреть ответы&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🤯 Telegram превращается в VibeGram?&#13;
-&#13;
-🛠 В десктопном клиенте...</title>
-    <published>2026-02-09T07:29:19+00:00</published>
-    <updated>2026-02-09T07:29:19+00:00</updated>
-    <id>https://t.me/iosdev/1858</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1858"/>
-    <author>
-      <name>iOS Dev</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1858" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosdev/1858"&gt;&lt;img src="https://cdn4.telesco.pe/file/ViUwAYm3h2a_E1IS_Jegd7iYSY_EJDrus3BbIE0pgu-zVudECA3umYdfTSubvfMHruVxzfanKV_LpBzRekKRhanAgAOKBiYBR3XoAEuPCnBZegvQVLFOEFFdq3hzNliaOzwlbPFX1kyqyjY8AjYb9REXWe_SPutxCMljUZcVOpol9VxvYruMkt06DSiEUJv9NNNvhQz7wsnu-taG8myhdTEBM8zic2IxVMZrE_M6V6PjpKF5aNveYrkPVzzjRb0XvbXNKaew-GzAxZBuJDeZWaz_0havfKaQpk2DcNXZ_MpkODX4ExllJe-nJ9VGpis1KMkDO4r3zv7w9tQY41k2NA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4AF.png')"&gt;&lt;b&gt;🤯&lt;/b&gt;&lt;/i&gt; &lt;b&gt;Telegram превращается в VibeGram?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')"&gt;&lt;b&gt;🛠&lt;/b&gt;&lt;/i&gt; В &lt;a href="https://github.com/telegramdesktop/tdesktop" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;десктопном клиенте на GitHub&lt;/a&gt; появились упоминания claude/codex и правил для агентов.&lt;br/&gt;&lt;br/&gt;Уточнение: &lt;a href="https://t.me/iosdevschat/3454" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;в комментариях&lt;/a&gt; добавили, что в iOS-клиенте это появилось &lt;a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;куда раньше&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
