@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/EiCyD4qJ0BBCZ5IJSnuIYwzLX2Fu-EJayw2bE4A4cc793X4kA2iWIanVKkFoCYtRGpv0efku4D4d1j6fWB4kCklXYLtkh0kRyRJkGoNFL_bEAR4UcdWGUBDMkB7cYo3oTIIVy2X9IQ5UmIqfiU-LYvxEZ6JEUNunSrBevvHSD4LU9W0GOFnZqqMPPAP0HLkr8-bPGXeecl15DSZuYX0R7pZcPz0khy87DeKsY32ZbAlumpJcSi8b9L4-S_2-0pOm5cXQyFTOb3h4Cc-GnkjjyGEkd8BtA1upPsxz7lmniFhIGgYyQpPfjA88HpTWaktidVKl38k6U8IOdeZ5l0ap2g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/EiCyD4qJ0BBCZ5IJSnuIYwzLX2Fu-EJayw2bE4A4cc793X4kA2iWIanVKkFoCYtRGpv0efku4D4d1j6fWB4kCklXYLtkh0kRyRJkGoNFL_bEAR4UcdWGUBDMkB7cYo3oTIIVy2X9IQ5UmIqfiU-LYvxEZ6JEUNunSrBevvHSD4LU9W0GOFnZqqMPPAP0HLkr8-bPGXeecl15DSZuYX0R7pZcPz0khy87DeKsY32ZbAlumpJcSi8b9L4-S_2-0pOm5cXQyFTOb3h4Cc-GnkjjyGEkd8BtA1upPsxz7lmniFhIGgYyQpPfjA88HpTWaktidVKl38k6U8IOdeZ5l0ap2g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@easy_dev991</id>
-  <updated>2026-03-05T07:47:25+00:00</updated>
+  <updated>2026-03-05T08:49:19+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">#xcode #simulator&#13;
+&#13;
+Праздник к нам приходит&amp;#33; Наконец...</title>
+    <published>2026-03-05T08:39:05+00:00</published>
+    <updated>2026-03-05T08:39:05+00:00</updated>
+    <id>https://t.me/easy_dev991/324</id>
+    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/324"/>
+    <author>
+      <name>easy_dev991</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/easy_dev991/324"&gt;&lt;img src="https://cdn4.telesco.pe/file/n85ggigBRognn5WhZdrcuttIM22YqI-SWrQcy0WBfOx_lOeN7AMEGYXnbClmk2tCNmooZL7UIVTF45yUb4WMYio6bet2oWlEewOWCBfO8xvHZ1WrVlR59ayXeDIeZrbgUzIbDPSkBZuF1P0gJbET0QnQ4Lp25Z_4CMKZeaX5GrfzdZzNKCCZX9SYRKgA0eaoVpzhHMaKoLazKQrJzioyBuLEedVXCPbO-oQ9ELq7sSDE1Tvg48V8QfbiUTEKuvP_AFL45kJD018Z7VDDIvpNRpBPBVmpOssnVlMQAil5028LNSXkTjd-d-jTe4j5D1n6C8hIMJlfsX1vRSL-TfwWtQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="?q=%23simulator"&gt;#simulator&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Праздник к нам приходит&amp;#33; Наконец добавили поддержку симуляторов 26.3+ в наш славный &lt;code&gt;Xcode&lt;/code&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">#xcode #bug&#13;
 &#13;
@@ -230,18 +243,5 @@ https://teletype.in/@easy_dev991/zlfw_fKJvh9</title>
     </author>
     <content type="html">			Представим, что вы мобильный разработчик, а возможно, так и есть&amp;#33;)&#13;
 Какой девайс вы предпочли бы использовать на ежедневной основе? Да, именно основной девайс, а не комбинацию.&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;43% - Айфон, потому что iOS лучше&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что он явно лучше&lt;/li&gt;&lt;li&gt;12% - Айфон, потому что привычно, фиг знает как там на андроиде&lt;/li&gt;&lt;li&gt;1% - Андроид, потому что привычно, фиг знает как там в айфонах, да еще и дорогие капец&lt;/li&gt;&lt;li&gt;32% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в айфоне мне больше нравится&lt;/li&gt;&lt;li&gt;3% - Доводилось попробовать и то, и другое, и вот конкретно UI/UX в андроиде мне больше нравится&lt;/li&gt;&lt;li&gt;8% - Все равно, лишь бы телефон ловил интернет и батарейку держал нормально в течение дня&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#mcp&#13;
-&#13;
-Нашел удобный инструмент, который делает из...</title>
-    <published>2026-01-10T14:26:56+00:00</published>
-    <updated>2026-01-10T14:26:56+00:00</updated>
-    <id>https://t.me/easy_dev991/302</id>
-    <link rel="alternate" type="text/html" href="https://t.me/easy_dev991/302"/>
-    <author>
-      <name>easy_dev991</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/easy_dev991/302?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/fhnVmuxhEmlVpNFifdU_HzhFVZvE2ZAQFZICnwde24rAwXGgpxvxOA3JMz_MHljquQez3fLdFBJH4_puW_7vjqy1c_ohN4nAnVs85KNa5o2gjICS_zirjsRqIdPqi-2Axjlwf6a05TqQ0ow-JeeuxJ4t4AqoeoWmfbqWXAi0SJFpxfK4gRa5X4i7IS1mzQunRc4z5Ugf2frY_fTizSXJYto3_Sj5aV3Ta7xsGYvGZ_OoCgzpiI9A1orm39MYB2wZT4hujZfoOQdO5rS3J3NafVVqqCs1cyGdKnqsaEHgTm8t8LIeE-2QUi1lAib-SHtloKG_AvPWdrsaSZ5_zFRaGQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.me/easy_dev991/303?single"&gt;&lt;img src="https://cdn4.telesco.pe/file/C-AhJHrFDRnPLh1jFQbn2u6NWKPEOy1pHZ_BodzScMUskiVtHEgzm5litGWCnbU4mUCVEr2SWMiSnVUFSS6IXFp1qcl14MTNj8S1OseIqZKwHCjbbjawQqmX7KqBRUFY07pNmwuc8CJZw-GeGxBeKNoJ7kyTnBJobSzBxyyAGHm1MgG-sEEEMlTg78IA5nBOPFtrWcVlIG45NZmei63knip1b2G-De-iAwANY409GrsMuC4y0_0D870ieyCQw8O3muECC7pQtM3f7H3fZLZ0rJUILBmiCk9kZk4UWva8hprWF8_ucXjONZMRopap5RLJB3GRzueNois0uFel_pLFaQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23mcp"&gt;#mcp&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Нашел &lt;a href="https://github.com/idosal/git-mcp" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;удобный инструмент&lt;/a&gt;, который делает из гитхаб-репозиториев готовый mcp-сервер, чтобы нейросеть меньше угадывала и читала реальные данные из репозитория.&lt;br/&gt;&lt;br/&gt;Потестировать можно в моих репозиториях, нажав на бейджик (на скриншоте), а бейджик в ридми для этих трех репозиториев:&lt;br/&gt;1) &lt;a href="https://github.com/easydev991/SwiftUI-Days" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;счётчик дней&lt;/a&gt;&lt;br/&gt;2) &lt;a href="https://github.com/easydev991/SwiftUI-WorkoutApp" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;площадки для тренировок&lt;/a&gt;&lt;br/&gt;3) &lt;a href="https://github.com/easydev991/SwiftUI-SotkaApp" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;программа тренировок&lt;/a&gt; (сотка)&lt;br/&gt;&lt;br/&gt;Я уже пару дней использую этот инструмент для пет-проектов, очень удобно, рекомендую &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"&gt;&lt;b&gt;👍&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;(не реклама, реально сам рекомендую)&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

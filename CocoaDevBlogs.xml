@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/jglHvqO74n0UG15h6l9y-ln-XytGIWkitg9ev2cbF3_X6CB30s9yuxrzPM96wKtUIwVXBrJT33rZlj8SmLF2ur7NJ51mQfWQcemGA4B-94kujN9DBzxV3nquDzjIAyiJ28yia5Hzi3DfdIbVOtjJNekghlRiaCENSG9ckxiq0Y_wCyT5TSeXDWGtiTOm1Adj9pcqD0d3zcKGPOjQceejqLdfiiVo52bldnV4PTh7mgcRt96ActH-XEsat91z4qcF3jXSlAjm5MZ04H9cRdxl7Cjh0kn2AN7bO2jTbhsIJHgRq4OfHAdqHMQCLmud1SkezqwMzo4yV6OGtSjFvETPBA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/jglHvqO74n0UG15h6l9y-ln-XytGIWkitg9ev2cbF3_X6CB30s9yuxrzPM96wKtUIwVXBrJT33rZlj8SmLF2ur7NJ51mQfWQcemGA4B-94kujN9DBzxV3nquDzjIAyiJ28yia5Hzi3DfdIbVOtjJNekghlRiaCENSG9ckxiq0Y_wCyT5TSeXDWGtiTOm1Adj9pcqD0d3zcKGPOjQceejqLdfiiVo52bldnV4PTh7mgcRt96ActH-XEsat91z4qcF3jXSlAjm5MZ04H9cRdxl7Cjh0kn2AN7bO2jTbhsIJHgRq4OfHAdqHMQCLmud1SkezqwMzo4yV6OGtSjFvETPBA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-05T07:47:38+00:00</updated>
+  <updated>2026-03-05T08:49:33+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -140,7 +140,7 @@ Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/K6tMpGmOR_aykTwqknu-vj7N7SICi2ToxMTig8vD3miWo3QGlxftBOfqltdO9vU-4-gdpuIAQ6ZuBlzqzAT7mVKcZY6eNHtwFM3Qm3a4IU2YHYAZ6Z_uhYEZVhe7TnZoOOqqVGnqOkUwImBt8yE8TN5NnUVzDnjMsgXfr6-cZ461W74yF-bEdk4kb__S32wy0Xuv4M8fx7hbOCz7cIjE3miD0ajIiDNbwibB9F8d8Scw8yWymPgFNxmARyljWXPMiMy9T2QzhDq-m7D1IRVk5pkYh1RubC5ZFRH9Jpk4MnPTQwaRbafSRDXg1Okqwv5Deq10WHDj9sk232Wx9JCG9Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/F2G9GCmVHE4uX0zSmTV35EpOLfvESqmR2d9RuRamMH5AQ5t2jcalyxpxWXdf2BMQUIZF0VoHDBQklqCD2w003STy07wlu6dOBXdbfvwAIllrzW06usFTxaEp4cgSaRsTolggdYhjLwrowPQZT7ze5E_kdayj35-n4ibQkXSEvyBEoAlYuvp-o9QIVmdMo2WoXqCENy-hAxQ5dhBeKuT0f6egNoGNVKVTPgh6AAHOKYRpn-389DjeG3jmVw8SP3SXpyIVFzYvTV_lza8ywi5SXb7S0g0YWRQsbXWsqafgw7qorWFBz_sP9rJhFftfGNZh1RqmEQMdxWh2kV8Q5L5Aqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
 Adjusting line height in SwiftUI on iOS 26 - Nil Coalescing&lt;/a&gt;&lt;br&gt;iOS 26 introduces the lineHeight(_:) modifier and AttributedString.LineHeight attribute for adjusting vertical spacing between lines of text in SwiftUI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -212,7 +212,7 @@ iOS System Design interviews in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Pract
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift 6 Migration Pitfalls You Should Know &lt;a href="https://t.co/uFIwFVoSOj" target="_blank" rel="noopener"&gt;https://t.co/uFIwFVoSOj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;&lt;img src="https://cdn4.telesco.pe/file/cffS5VR5UhgPRWGFeXiZ2HTAsl3lcZ6YXcYJ-IUUpIdIBKeDpUij2k7a5o-LmJOYDvHkQ8JF-UOT45lBaPpzuPWx4Y8SBdhWLAOHEG1FEQ2mpT2MmpCM3dxSIfSNOWt44IxKyDL2CLUOia8uLHwTyPtGjsBzcxisSHgn1swRiY5A_Fwp-I1YglHYTkKbhE8NtZZ8NMBaI9lziL6ER9JGpQ7V5nE12GyEE8zjFHhEhAqhBesY6M5CiQp89Ch9UAnG2oc7VPVnCOQyZv08n9jFs8UmOv_3_gPOJ3n_2ff3VyByiwOteMtI_4VA4c3uJPvamgj1d_HIWhmqO4GzuLx1eA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift 6 Migration Pitfalls You Should Know &lt;a href="https://t.co/uFIwFVoSOj" target="_blank" rel="noopener"&gt;https://t.co/uFIwFVoSOj&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;&lt;img src="https://cdn4.telesco.pe/file/Tw3ngtzCfSaDOiEW_KC-6YzBZUke7eJLUFRhCTZT5t1AXUlS_m0b0wyyap61lXnckTHEJWOx2EJavKlZpjgkQtQcF3jHy-LETYhTJDYtCMsU7Wkqf76hdWk4-6wMKiuEfmW30ZmqaRclBCIkFv0SxmPT7DYmUWB45eIptZGe324py0extaNnHYILrgKTcNsQceYHQyc3MvjPb-gu_3dHaOlZjvYxwsRpedmCsaY-g0j3cj2_lzsUYr13tL1lwxoFnmVwTQm6sNsleZW3BgNUFfF1KaXinkZZP4LQaI7w1-m85YCXXKrYurT18O0FBR0qAZCi0Ykr5EQOtOrip2Lz6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uFIwFVoSOj"&gt;
 Swift 6 Migration Pitfalls You Should Know - Hugh&amp;#39;s Blog&lt;/a&gt;&lt;br&gt;Real-world lessons from incrementally migrating to Swift 6—pitfalls, concurrency isolation gotchas, and practical mitigation strategies.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
