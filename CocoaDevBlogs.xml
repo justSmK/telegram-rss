@@ -6,10 +6,27 @@
   <icon>https://cdn4.telesco.pe/file/jglHvqO74n0UG15h6l9y-ln-XytGIWkitg9ev2cbF3_X6CB30s9yuxrzPM96wKtUIwVXBrJT33rZlj8SmLF2ur7NJ51mQfWQcemGA4B-94kujN9DBzxV3nquDzjIAyiJ28yia5Hzi3DfdIbVOtjJNekghlRiaCENSG9ckxiq0Y_wCyT5TSeXDWGtiTOm1Adj9pcqD0d3zcKGPOjQceejqLdfiiVo52bldnV4PTh7mgcRt96ActH-XEsat91z4qcF3jXSlAjm5MZ04H9cRdxl7Cjh0kn2AN7bO2jTbhsIJHgRq4OfHAdqHMQCLmud1SkezqwMzo4yV6OGtSjFvETPBA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/jglHvqO74n0UG15h6l9y-ln-XytGIWkitg9ev2cbF3_X6CB30s9yuxrzPM96wKtUIwVXBrJT33rZlj8SmLF2ur7NJ51mQfWQcemGA4B-94kujN9DBzxV3nquDzjIAyiJ28yia5Hzi3DfdIbVOtjJNekghlRiaCENSG9ckxiq0Y_wCyT5TSeXDWGtiTOm1Adj9pcqD0d3zcKGPOjQceejqLdfiiVo52bldnV4PTh7mgcRt96ActH-XEsat91z4qcF3jXSlAjm5MZ04H9cRdxl7Cjh0kn2AN7bO2jTbhsIJHgRq4OfHAdqHMQCLmud1SkezqwMzo4yV6OGtSjFvETPBA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-05T18:07:14+00:00</updated>
+  <updated>2026-03-05T19:53:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 https://t.co/YxWxAHHNbP</title>
+    <published>2026-03-05T18:12:24+00:00</published>
+    <updated>2026-03-05T18:12:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26092</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26092"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/YxWxAHHNbP" target="_blank" rel="noopener"&gt;https://t.co/YxWxAHHNbP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;&lt;img src="https://cdn4.telesco.pe/file/b0Vw0f_IBJNHJXvcojm4uJJ84mmo-GR0aIQ6xijDvc_bDRrF0IxPOyGMTg7TYFI_EiRsFI0N8zZTfycvAfVdOxeOrzvyIJBflIRlXkFgjepJRl2NPugKEmbwBY4bZ320xG7Jnc_MH-W2Zi6WbqLnF5-4SV37VsuWTfc-5qHOt0LqZ8QSFLXflhqwwMEbkaj_ZdfIoIKs6hg1wLyiWWXeCqebZIvf6F5Ua9Bh3b-69pGdyPwVK9Uz26UCaJZEe3b2IIJo7oLsWW1ACOVFLz3fu52LRcOIQjQvV_ypi1un0TiPlWofNAZmEFrQf_pwzw9iE5pmo-gjAs7eBvCLThhDkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;
+Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I plan to wrap up the smart tagging features I&amp;#39;ve been working on. Here are some of the features that I want to implement:&#13;
+&#13;
+- Renaming tags&#13;
+- Ground the model in existing tags&#13;
+- Improving the UX&#13;
+- Using Gemini 3 Flash Lite&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : facebook/facebook-ios-sdk https://t.co/JZ18MeFFhC</title>
     <published>2026-03-05T02:12:36+00:00</published>
@@ -103,7 +120,7 @@ This one liner to add beautiful transition between UICollectionViews - Whacky La
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26 &lt;a href="https://t.co/DSb0msQwaP" target="_blank" rel="noopener"&gt;https://t.co/DSb0msQwaP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;&lt;img src="https://cdn4.telesco.pe/file/KnPAGpr1pLaP_yGmwdcEdhHTrIeYtutmki6tyGgPEgr35X_I5w3s1RueSmhLTE6zpODw7S3vUZa431fp0kpr5pI80_7CEie5d_jwu2g2nEonc-sxc9Gqwvcx9H3hO0YI2RIx3GTJMIIkzJTm4vN_hUl5GPDeLMvDjbYYYP6dYO-CQFRuYEEDsJo0bqVejYMwuH-q8VJNyrr5Bg306ttIGh6Wrfrkaj42YioheW93SXG025LzBEswnU2i9PT_GJQTvFVpNiXZCrBjUxzI1LNQthI6taEf_l-X21cBhNatjDmbwRaWhj3068uZZ_d5ccCBl514gfO2vOAVo93OXWSk-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26 &lt;a href="https://t.co/DSb0msQwaP" target="_blank" rel="noopener"&gt;https://t.co/DSb0msQwaP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;&lt;img src="https://cdn4.telesco.pe/file/DBhhsPKeXICeboeU-xkHf8U9d-moxqHsvlSnlvG5vRKaaWMwhJvfPcAj1139J07-UPOxm6lBaj6qYnpiaXSoPNbWo2AveiSrinm5tHAiXEQV5mcANPErN6EaZ0xb3jwAFSOuREq_KQbNJ2ahYrBBKFcAkggCamzfW0PFe0jxa_SAXx-lfAQbSH78aREj5-27ssn4VgkQ_JG3-mak8ao6X_4IQoHec33kwWABlEAxzlS7L3t_M17OVscvUKQ4pbd0knERIyXYlwihQgCKzPzWkE1oA57nx_B5eXZhciTtciUqbtvtOnxhr5X0q1TLusPnDR6R0BkDYWdzY2_Gnp_JLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;
 iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
 In this video, I’ll demonstrate how to recreate the iOS Photos App Style Hero Transition Effect using SwiftUI | SwiftUI Hero Transitions | SwiftUI FullScreenCover Hero Effect | SwiftUI Scroll Synced Hero Transitions | SwiftUI Photos App Hero…&lt;/blockquote&gt;</content>
   </entry>
@@ -116,7 +133,7 @@ In this video, I’ll demonstrate how to recreate the iOS Photos App Style Hero 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Getting Started with iOS App Observability [FREE] &lt;a href="https://t.co/L7Mbdt011A" target="_blank" rel="noopener"&gt;https://t.co/L7Mbdt011A&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;&lt;img src="https://cdn4.telesco.pe/file/V3mLa3eA5cUf_MLkEZ2qn5YH18Q1kMxNa9O1cgFhPK4JBbrd0ctankoiVIXIGaHXhS5hiVhmuHR69EckjFEymp6juGjk7iQILzd-5N27_F5MW0-7CbMTxjdIpwAZJCd929LrmubsHoCdA2x71ZMLBRK7OoBUcI8kcFOC8cH6F4PGpfc-hpYOwpfKx13jrQ9vVRunij2Zosw9eqdiuqzf2GvBuFwan7b_k_SE3gQaONXDJxg9MouKS8cfp0l5h2Bo66lpSuz4v1OhrEHTZqoutd4u7Mh0mY6CAqWaGaySOafCl6vLGIhdsA9VjGqZxelTyGSAvqSXrJTDIC4PKY2XCA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Getting Started with iOS App Observability [FREE] &lt;a href="https://t.co/L7Mbdt011A" target="_blank" rel="noopener"&gt;https://t.co/L7Mbdt011A&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;&lt;img src="https://cdn4.telesco.pe/file/LlkEOTK062Ehl-8WN3MQVHo3mMAgSWhH9dT3hdCRYbWqiAwLgnegHKQy27KcfJT5MrBMLLv6BAk3rsRR75zlHSSl419rLHHmwoFy9LFNntl19c3G566ZoJ6pwEgnrQHlWV535NNUOW_EOWpchI9IaD64Y93UW0EU-JaegPNYw48bHdG-wo945HI7-RU1QtcX3Cr6u01vGxNNtYmQeB0-yDQbRR8Wk4jw56R4rYESyygA8idKpUa7W8g0mkbEary6EibLbVmA2oP6HAuSbnM5rTgEG4lKwXjjQBJiVQ36gkXEUherLew3ic_gVpIuw36ldW3pJbyN4-pZoV6wiAXfkw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;
 Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready to add AI to your iOS apps without privacy concerns or cloud dependencies? Apple Foundation Models brings powerful on-device language models to iOS 18+. This tutorial shows you how to build AI-powered apps with structured data generation, covering basic…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -128,7 +145,7 @@ Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/lymBZdRY3IP1G0f3Vo70RmVr8ZrWArEOj6PEPnxBQTyndvV4BWiGZJg0sCPmrG36NzHF2Via9afEEzqpcVttevCcvtPl4Inh-qwpw3jDEaHdacPvscGCWkubt9LzPuNMVYWvX3g-MIy0X14a6Oomm0Abd21vyoT0CSqRJp7PpCV8aMs_mFKUxwX6DogGU-dbs-c-32HQIMq3tqk0MhcXTD4DR1zFKDbwQ_cWkLBRe9cVBPqch2cau-tWqOPNt0HQjjqfffCcFxWTLz-PfuD4yAJS3Nyhs06MylKrvetJqOTw14CsLSgDOaaLf_LAoldFQCflzvhmDNV96u8qjeEmHQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/H0hEV2wHTPf2dRooaK76g79UC15Q66sC9zeiLOvrCFN6E82yAtwVcA_flIxeqsveAv4d5cZpJoY7k4-Wn1jdKmXbL_9pk6qJ5B4hFQdezMeRTJklj40-7nJcrdWZuNH6Zlfl4lwH_YjZbSXid4UqX4ib7g-b1fD4f1ok-DjmtLORrjPjeatTAOVSYYGF-7KNQOLo1oDCXsqYQ3FDXNNhprRlF9jN68gArHa6HJktcFrLaeHiksly5vFCpOJYIKm0F7Qt7I-QpQ8xbVMNRLVmtEvwoV3_JG2P4IiMegBs7O1RI7sw3jppafQQUibamkEnGCNyiGRthha0CBeXz0F55Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
 Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;In this edition: Join Apple at GDC, get tips on privacy and security, dive deep on coding intelligence in Xcode 26, and learn how the Speechify team is going all in on AI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -188,7 +205,7 @@ Expandable Tab Bar | Liquid Glass Morphing Effects | #animation #ios #apple - Yo
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 3 (25E5223i) &lt;a href="https://t.co/AhZB4LSKo0" target="_blank" rel="noopener"&gt;https://t.co/AhZB4LSKo0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AhZB4LSKo0"&gt;&lt;img src="https://cdn4.telesco.pe/file/g5awcUhAUrpZPoL4EAYbgQ8LJbLQ8ep2f3BS3Gm9lg6hocojHunDLC_j-lSAxCzbNv6P_uwrDNIpbRbLQ6N7xBSwweo9fJTTb4jJUXh0tQOzAFs_8mFqhKM02_lAQhttriMbhhHoS61TKcbl4iw2dcS4VpCxjfruj5cXP6_hIzP0nYcpPSJaEfoAIDtYHPJEhn87DTvoe0EBOwq2kKwIMHKLNseHP8xnxEUMgZAMzIzBojQqwvaDXEa6BZIsdaeeh7umVWjI_go3Vgms72ZMlfGC150rHqWLRk2y_7McEA5ZGCP19y-M3MD6IKbvfgPzYXo6txrijH9wZsloQe7HbA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AhZB4LSKo0"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.4 beta 3 (25E5223i) &lt;a href="https://t.co/AhZB4LSKo0" target="_blank" rel="noopener"&gt;https://t.co/AhZB4LSKo0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/AhZB4LSKo0"&gt;&lt;img src="https://cdn4.telesco.pe/file/hpMQv7oRUvT8wV6F0ShPhrjhoFGerJ64rF-yAS0b9lZa38TycgCCrnI5rrBWyWgi7gaq24AEWQHehddLHFaPINl1LN_8NnaiGvYrButXssocEt0MZOiGB5GwniFf3iasC7cyAD_dhTWXFIvrVtH-LfwQpU2kvJu_Ryx8Y70vFNVvbEW3bserH6kdQviUMQT3ZZY3S_77c_bx36JVgan1LIol2SkrEiSEpiakR7zDdOG2GJrhQFARvopma7X80Si37_2PMsKQnS_O8dHND64K0dZNZDBeYCwNl73aitwROLece4WTbxvm3OSpeXVGncqw85ckMDcSsY31mU2pnn_6gg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/AhZB4LSKo0"&gt;
 macOS 26.4 beta 3 (25E5223i) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,17 +255,5 @@ GitHub - cirruslabs/tart: macOS and Linux VMs on Apple Silicon to use in CI and 
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : automazeio/vibeproxy &lt;a href="https://t.co/XTrKARlRO1" target="_blank" rel="noopener"&gt;https://t.co/XTrKARlRO1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XTrKARlRO1"&gt;&lt;img src="https://cdn4.telesco.pe/file/Of1RbuJNqXjYi9pUGrkxzdQG1OkE1LvxbJO5-1zoNf21qkahwY5YIRt3m5Hck_-IaYikxlyipIZEQrwJKlXyHehJ9lcr7-_5REiacRugK1_osvrjREq2JE8Iz5-OhIIVEKRXJYHQk1RjGmF53ZP77bQM3Zj_Pefzo0pvCocRMeylbxUCaNIEVeGKHtUD6NmlpO8Lbm3tIbgZZvqhlA2sJ-IDX45jT3eK3y3G04L0VLfy3iQyI1yjaiLTqqw4mBe61FugdF--JjNlJGSqUKIuRV9He-QWaA132tdHYmR_th3w4Aa3ATkToFgxq0XviPfVDkEyVH_XmJ4Npk3Z-1ZvAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XTrKARlRO1"&gt;
 GitHub - automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code &amp;amp; ChatGPT subscriptions with AI coding tools … - GitHub&lt;/a&gt;&lt;br&gt;Native macOS menu bar app to use your Claude Code &amp;amp; ChatGPT subscriptions with AI coding tools - no API keys needed - automazeio/vibeproxy&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : onevcat/Kingfisher https://t.co/NBLFVoyNN0</title>
-    <published>2026-03-03T02:07:13+00:00</published>
-    <updated>2026-03-03T02:07:13+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26072</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26072"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : onevcat/Kingfisher &lt;a href="https://t.co/NBLFVoyNN0" target="_blank" rel="noopener"&gt;https://t.co/NBLFVoyNN0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NBLFVoyNN0"&gt;&lt;img src="https://cdn4.telesco.pe/file/DYEd62K_vWakHUMHgvYL042Rzu3tnnRqOS0XVY_yKoCWzN-TC_WNRfj6iTH96mBRLLyeWnhWtlPYsuCHu5xcdrrE4MFGW3BsG5uO0ims9oOcs3CbXj4a_ABH1PVKRevV1uGp-gZXeaedzTUrh_QGVHKqA2w4aM-DK034ykNDwjij7cPzZ6-Ea42YJKmGkPsU87SzS8mFyHB7ua00E2P3pR6Sc6vI6RvcsonfCZcL2HyBN6v7m4wuXcl2VP-be_LuYHavVrnNux_4TiOpamm4I6z2ZlYjQlPBKkVlE-awPKmVRwMCRaSUBx0etxJGf4pzy9J6-xU8FVD9iilr3xH05A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NBLFVoyNN0"&gt;
-GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading and caching images from the web. - GitHub&lt;/a&gt;&lt;br&gt;A lightweight, pure-Swift library for downloading and caching images from the web. - onevcat/Kingfisher&lt;/blockquote&gt;</content>
   </entry>
 </feed>
