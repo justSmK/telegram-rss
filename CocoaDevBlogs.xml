@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-06T17:37:37+00:00</updated>
+  <updated>2026-03-06T18:52:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ watchOS 26.4 beta 3 v.2 (23T5226i) - Releases - Apple Developer - Apple&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/YxWxAHHNbP" target="_blank" rel="noopener"&gt;https://t.co/YxWxAHHNbP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;&lt;img src="https://cdn4.telesco.pe/file/b0Vw0f_IBJNHJXvcojm4uJJ84mmo-GR0aIQ6xijDvc_bDRrF0IxPOyGMTg7TYFI_EiRsFI0N8zZTfycvAfVdOxeOrzvyIJBflIRlXkFgjepJRl2NPugKEmbwBY4bZ320xG7Jnc_MH-W2Zi6WbqLnF5-4SV37VsuWTfc-5qHOt0LqZ8QSFLXflhqwwMEbkaj_ZdfIoIKs6hg1wLyiWWXeCqebZIvf6F5Ua9Bh3b-69pGdyPwVK9Uz26UCaJZEe3b2IIJo7oLsWW1ACOVFLz3fu52LRcOIQjQvV_ypi1un0TiPlWofNAZmEFrQf_pwzw9iE5pmo-gjAs7eBvCLThhDkg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/YxWxAHHNbP" target="_blank" rel="noopener"&gt;https://t.co/YxWxAHHNbP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;&lt;img src="https://cdn4.telesco.pe/file/faQ22cqUy1Gi_3GLo-JHZrfqSm_9AClCW82502Ou9lmsTsohvkl_7ACD9RlYQKG2ia6rWOc8NQZKwhcUMU-IkcjUI_qjgOvVi7Tvk1sxRv-NZK-Hvs8lfyD2JwdkMfR9pioFyqWlksv_XSZNciaZN6k2yIzinS8kBxysij5kxqTylZqeX1H_Auq3zv65qJ4IDHA7H0JAhuS7nn07RIk_Ip4LZkT5BEvNWumfWueZuYu57s0BETmfzkSq7SuUvEh9d31KTadmMbSLnzQiQZBYzBXO_BshlS90QDo92UnJtbNFXloY5-hm2sojCNW3CQ8cFT-g0DdqnOamZbg8UR3ajA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;
 Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I plan to wrap up the smart tagging features I&amp;#39;ve been working on. Here are some of the features that I want to implement:&#13;
 &#13;
 - Renaming tags&#13;
@@ -229,7 +229,7 @@ Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/H0hEV2wHTPf2dRooaK76g79UC15Q66sC9zeiLOvrCFN6E82yAtwVcA_flIxeqsveAv4d5cZpJoY7k4-Wn1jdKmXbL_9pk6qJ5B4hFQdezMeRTJklj40-7nJcrdWZuNH6Zlfl4lwH_YjZbSXid4UqX4ib7g-b1fD4f1ok-DjmtLORrjPjeatTAOVSYYGF-7KNQOLo1oDCXsqYQ3FDXNNhprRlF9jN68gArHa6HJktcFrLaeHiksly5vFCpOJYIKm0F7Qt7I-QpQ8xbVMNRLVmtEvwoV3_JG2P4IiMegBs7O1RI7sw3jppafQQUibamkEnGCNyiGRthha0CBeXz0F55Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ap_Nwr2Jf_iEbBc7SNgxGEKnAnjCN8B2Qqszm6C18bDYEQwNNRUZx6rirP445WXaMNtNg71i58FZf0urMQo8LcgLFQ8LIntV5tMnwkgwIlFFA3QZUCZtfAtFYch-mviTEl2nCN9HAuWd06bNd_lJ8gUWD78s-ZQhoLYV1KJQJBpIIGEpZ6ZP3NstRh0IUKrtwiPze7J3NUetSf3efivqHo1Z9nHVxQrKLEbj1STAXHRcIvrWax_9U_2-okStTe-n116-5esCzv7p7rak-0uMxZxjyZkzFRJ-kAZkih-7MotUzRYhY33u1Lm5eH2gqb84PiBVkzOPe47GkdKTBBRilA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
 Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;In this edition: Join Apple at GDC, get tips on privacy and security, dive deep on coding intelligence in Xcode 26, and learn how the Speechify team is going all in on AI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
