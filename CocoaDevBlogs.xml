@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-06T07:40:30+00:00</updated>
+  <updated>2026-03-06T08:42:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -229,7 +229,7 @@ Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/F2G9GCmVHE4uX0zSmTV35EpOLfvESqmR2d9RuRamMH5AQ5t2jcalyxpxWXdf2BMQUIZF0VoHDBQklqCD2w003STy07wlu6dOBXdbfvwAIllrzW06usFTxaEp4cgSaRsTolggdYhjLwrowPQZT7ze5E_kdayj35-n4ibQkXSEvyBEoAlYuvp-o9QIVmdMo2WoXqCENy-hAxQ5dhBeKuT0f6egNoGNVKVTPgh6AAHOKYRpn-389DjeG3jmVw8SP3SXpyIVFzYvTV_lza8ywi5SXb7S0g0YWRQsbXWsqafgw7qorWFBz_sP9rJhFftfGNZh1RqmEQMdxWh2kV8Q5L5Aqg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/a-37PJlChHzpp4ewvAzZwucHUbvPeX6_TBg9jxsRZ-iivJ-7dTnXc63KpVTF92KWBYMbfKIMjF4AceIrnFORGp7Nwtrv6XPU1dFv8fTIBGekiWHAuhNux3r2YnG_nmjLgw1JK3vI5bK601jWz9ma2c5JBrah4gtmrdrCyEZATxHoSeDImZZUpbwbkrjn4a-4gIshjQNtOZYODJw1gj_RuB3fiHQMbcFZ7aCDqfqcsYz0zFTCAJrmYcYbYARZiQcBo8J2mVCIVqDzvlmq6uMkOJ2qibIZ_XdgaS7Pkgw_dUbPdNX4W7bfXfo1CFUhHYHdwfV_n9yzELOCpx7-0TVB6w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
 Adjusting line height in SwiftUI on iOS 26 - Nil Coalescing&lt;/a&gt;&lt;br&gt;iOS 26 introduces the lineHeight(_:) modifier and AttributedString.LineHeight attribute for adjusting vertical spacing between lines of text in SwiftUI.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
