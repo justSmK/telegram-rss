@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/bXWPgE8q89te2qHnqVfXC1Fx3rhIqeV1ceSMf5Prhe-wsTAB1ACMGFMz3MJNdxQygWwesQbkVq3DSpt-pHPkS-BToeagbn6Y_6kJmaXalcPvkj9jWlgup4Navw-DVfOuYsPu8N1NOcbDEvpBiArlbqduAjUizkDF_RcXh1ydhEqdrRpuuUGqdlaAr0uILua9hgbrWjDljMYmoPAEePV8snz8sE_9iVhnwx8yaUfKAV5eOlPmRalfyo_O3CcCWVUoHIymFeCeOWsyhmU9Wg0b5oPwdu7deu8z0zQjRrZF8l2XLw3R6usMpdUcleOlfXyTycRX4B13KA0O98djA6Pf3g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/bXWPgE8q89te2qHnqVfXC1Fx3rhIqeV1ceSMf5Prhe-wsTAB1ACMGFMz3MJNdxQygWwesQbkVq3DSpt-pHPkS-BToeagbn6Y_6kJmaXalcPvkj9jWlgup4Navw-DVfOuYsPu8N1NOcbDEvpBiArlbqduAjUizkDF_RcXh1ydhEqdrRpuuUGqdlaAr0uILua9hgbrWjDljMYmoPAEePV8snz8sE_9iVhnwx8yaUfKAV5eOlPmRalfyo_O3CcCWVUoHIymFeCeOWsyhmU9Wg0b5oPwdu7deu8z0zQjRrZF8l2XLw3R6usMpdUcleOlfXyTycRX4B13KA0O98djA6Pf3g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-06T05:48:38+00:00</updated>
+  <updated>2026-03-06T06:55:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How I Stopped Resisting AI and Started Teaching It&#13;
+&#13;
+Omar Elsayed, автор SwiftDifferently,...</title>
+    <published>2026-03-06T06:16:14+00:00</published>
+    <updated>2026-03-06T06:16:14+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3827</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3827"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;How I Stopped Resisting AI and Started Teaching It&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Omar Elsayed, автор SwiftDifferently, опубликовал забавную статью. Называется она &amp;quot;How I Stopped Resisting AI and Started Teaching It&amp;quot;. Забавное слово &lt;i&gt;resisting&lt;/i&gt;... Мне даже захотелось его глубже поразбирать. Когда мы резистимся из-за страха, сомнений.&lt;br/&gt;&lt;br/&gt;Главная мысль Омара:&lt;br/&gt;&lt;blockquote&gt;AI не должен просто писать код. Его нужно обучать тому, как именно ты хочешь писать код.&lt;/blockquote&gt;&lt;br/&gt; &lt;br/&gt;Плохо: каждый день объяснять баристе какой кофе ты пьешь&lt;br/&gt;Хорошо: один раз записать рецепт, чтобы он всегда делал правильно&lt;br/&gt;&lt;br/&gt;Он понял, что использование AI не снижает уровень разработчика, а наоборот заставляет формулировать знания, структурировать опыт, думать, почему ты принимаешь решения.&lt;br/&gt;&lt;br/&gt;Кстати, записали крутой выпуск с одним блогером. Возможно дроп на след недели.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;&lt;img src="https://cdn4.telesco.pe/file/mQYoZwB98ANk6j3qmEFPy9r0gieD4hmVWxlqFCQnelgpn-ZR-7OHj5PF5YQQeuuAGrw4Ajv-zpf6IZjdaQ9K1Q15Y-QE0p1p_V39oyphwISoYR1snW6bUxxcVwKsZTULv8n0spjccN2DI1AGxvqqcsNcl7vfchHraCcVVI-zUZ--GS5V5TS6df6m5UVqDQ8NF9kpylKcXOIIHfEKc78skM1VLezQy52UrcTTm3AwZFr-jruLWHSupDfTghNamExLSeq7yRFpYbifqDEgBNrMI19dO3QACFd2r7K7zC8_zwEQCfgYNZeCbhW4s8ZuqBV_kAj86si_WN3DOzG1Y3CMyw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;
+How I Stopped Resisting AI and Started Teaching It - SwiftDifferently&lt;/a&gt;&lt;br&gt;A year ago, if you told me I&amp;#39;d be contributing to AI tooling, I would have laughed. Today, I co-authored an open source agent skill for SwiftUI alongside Antoine van der Lee. How did I get here? Let me take you through my journey.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">кстати еще один фан факт. Больше всего вакансий...</title>
     <published>2026-03-05T15:46:45+00:00</published>
@@ -52,7 +66,7 @@
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3813"&gt;&lt;img src="https://cdn4.telesco.pe/file/cq9eiDoPsVKZLLfNypEkmvi3OK-qwi-TNAqyv8t1vgqUf4g7hTCtZbuuJlIcsmV72N9pxXe0W-zilWCw7fCczFgakyaFyK5A_Pb_mapIDy6DvbtU94-ksaZ99xfHJurn-fK8I61456qY9vT-mW7wmVlVx6OIjzPhcdAq0Ta8me9krLLaa2iIr97Jwvjd1YX6aYHQV9d_f1Ts8IA7eNHZIPVezeLfuWCF3b9MjtS_mx_y7lMLrluGJcqk15Sc9HJdsNFTwaieOD6mqq7td-fyht_S6tltdsYC3DUijU2uFXuRvRNKsVRvVL39XetKoiaQNWwAvD97tqGNaPRlGqJAnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Но походу аи правда меняет игру. И так еле окупаемая JetBrains видимо сильно пострадала после аи революции, раз столько людей теряет&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3813"&gt;&lt;img src="https://cdn4.telesco.pe/file/NtpcQLG_y3qRdxn5pQ_hBgp4sqkIEH6P-XKShTsv96SgFvCxmz3DuSvj5YhTb8SYAFOJQgNtj_VyC49oVl0vI0YpkdOD6YomjFIyKCIIrQGitOmnvN-ya0RCJHFti60U0w6qR8osKIrTdKNXmUVCu0Vb93l6j8z7MbXOiSTedFOjAvFvSjSs0GTVXjOC6nouOTb_VuAvMPcM8bIhkEOHBfQUWBaX6LZcrKl0xK5F7dEl8uao-ZH4cw2ZfVRL2gZqJPDfvMu-sWuVb9b_htjGoyjaiXYJWM6uAvocScILScSGiK5XoB0RFEG8wEbRqhi9ED1xN8_SK0v0HPVoJIRROQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Но походу аи правда меняет игру. И так еле окупаемая JetBrains видимо сильно пострадала после аи революции, раз столько людей теряет&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Apple представили новые MacBook Neo на мобильных процессорах...</title>
@@ -130,19 +144,5 @@ iOS System Design interviews in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Pract
 Media is too big&lt;br&gt;&lt;br&gt;
 VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
 &lt;img src="https://cdn4.telesco.pe/file/SpevlkqCSYy5H7ZTu7Avg_G7XpawUcXHviyjhaNfsBzYkvuqr-kR9aZWtK7D3YP7BNw6fZpRVcypN3MVobKBQlPbGdVCYQwTQbRRdmbh59l_VI8wBR50EUbiRhmix4Mb-fu1bsAd81F_UQv5EktkOU8c7H3h1ZX17YxcQaMfh-VIrYcASjHhNOp4Mn4X9kgU0ESn9hV0IvP3N2933lV6LrutfZPhu_A0MaM5n8iIG0uSqo9aymFZuCGVX8rB2EqkMpm77AlPVK2O2JBrPFOL9OYgX-0lXW4qIqrLnWHXo0NhoN4Y2CTpuy-FAZ4iZ1pgDqzrLr0E53m7Ec2Yak35ew"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Плюсую. Раньше об аи еще аккуратно говорили, но степень кринжа будто резко увеличилась&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Кто там говорит что финтехи в рф лучшие в мире? Я считаю...</title>
-    <published>2026-03-02T09:50:36+00:00</published>
-    <updated>2026-03-02T09:50:36+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3806</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3806"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/PvI-pUod2LRKRd-Kh-7R9cVLtUHEkVyXCzg_WfxmTNqgYfo2OQi4RCCmyLsfj1ZFlhnjLIDTOA-gXQstHZvvaAy2m5-jdEljco0bQn8WNToHtaIFoy1Fn0gsf6HRNxrH9p4Pax2do1wAgQ0IV9qi-Nl44oZbhsuW8atZnzO0oAO8fEEO89XHSGB4yNFUZFeiyxd29eT-rAhmOItdOg40-cd__DDyiaFVvNY5pj4aK2fx0z0l59SQ9aeUsnp8IMs3rEkxALVCCJoSp92M0k2nl_7sisPaTjW_PXPMuBPTFT730heWkXDBGaBUiOc9Wx0AppVFvysb6tcb1Q7kPq2Omg" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/0093dd23a7.mp4?token=RNRt5mqLg01-0H_qY7xsC51nd0TCgQJv3cGWkAWBFwb9bLuKACopR0Ja01dSQ1YAgD6Rp9AsSmYfdKUNa74NuwQ3lQ-xoHi4jwU-aPsZLKo19L0mn-P6t-NgtOQsGyRMhTrJOxSltSvwKawAd8Lj5R0YQlPD-jQmh4XgEEs5qxM9p-s1wIKJE-9JOATXbOYp85r1Kb3jiFEAOmKcpMH9i8yshcs52EYNULWE_RAhrfptCsVHs7j37DAiC66zxaCVGqzZaCWOU699MdcVjOfbNR3FF-kDQxgjRGFZZTkCbG3hXCyBYLtGNNvnls67iIjOEwmI0u_OVOid507_wrFESQ" type="video/mp4"&gt;
-&lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Кто там говорит что финтехи в рф лучшие в мире? Я считаю это заявление мягко говоря абсурдным.&lt;br/&gt;&lt;br/&gt;Пришел в отделение банка. Использую вебвью втб. Мне дали на подпись формы, НО Я НЕ МОГУ ИХ ПОДПИСАТЬ.&lt;br/&gt;&lt;br/&gt;Почему? Потому что банально не скроллит вниз и кнопку подписания/согласия не видно.&lt;br/&gt;&lt;br/&gt;Решили распечатать доки. Принтер не работает….&lt;br/&gt;&lt;br/&gt;Центр Москвы&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/PvI-pUod2LRKRd-Kh-7R9cVLtUHEkVyXCzg_WfxmTNqgYfo2OQi4RCCmyLsfj1ZFlhnjLIDTOA-gXQstHZvvaAy2m5-jdEljco0bQn8WNToHtaIFoy1Fn0gsf6HRNxrH9p4Pax2do1wAgQ0IV9qi-Nl44oZbhsuW8atZnzO0oAO8fEEO89XHSGB4yNFUZFeiyxd29eT-rAhmOItdOg40-cd__DDyiaFVvNY5pj4aK2fx0z0l59SQ9aeUsnp8IMs3rEkxALVCCJoSp92M0k2nl_7sisPaTjW_PXPMuBPTFT730heWkXDBGaBUiOc9Wx0AppVFvysb6tcb1Q7kPq2Omg"/>
   </entry>
 </feed>
