@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-06T19:36:08+00:00</updated>
+  <updated>2026-03-06T20:35:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service https://t.co/XIwgaGrBVy</title>
+    <published>2026-03-06T19:37:26+00:00</published>
+    <updated>2026-03-06T19:37:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26101</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26101"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service &lt;a href="https://t.co/XIwgaGrBVy" target="_blank" rel="noopener"&gt;https://t.co/XIwgaGrBVy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;&lt;img src="https://cdn4.telesco.pe/file/o4n6ridpXLPxOhAjcx3fDlkU144WKRMoLRr0lvqVoq2Al7Phytd7eGR_Vuldgx-qhwho6cA-uV9qnkifvrXKAAmpQBLUBYRbLhRjA1-5y9TjJ3P1ikgeOvWovM4fajPxezBvqmtlvIpVDq3gJq0Upcp_ZRaNRFTPUq2CN-UGndYwqz4bkGInmqwPxxsGcCKM_wreEMO0jG525ztH1BC1OwMffiXSkDkTeRwuzYril9kzMhGxDbwSfhoodegUNmEKhU4AEDz2CXnGvZyWtwTh6DILGDNgud6iy8B7fUFrqF91FfTRmDEpjSGYuuWal7reSk-RfN6SoeAvaefe6okWxg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;
+Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&gt;&lt;br&gt;TelemetryDeck is an app analytics service specifically for developers, designed to manage usage analytics that are anonymized, privacy-focused, and really easy to use. TelemetryDeck is managing the data of over 16 million people every month, helping thousands…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftOrg Blog :  https://t.co/q2ce0A1VP6</title>
     <published>2026-03-06T19:27:45+00:00</published>
@@ -79,7 +91,7 @@ GitHub - apple/swift-nio: Event-driven network application framework for high pe
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 3 v.2 (23E5223k) &lt;a href="https://t.co/ILZkQiIh9h" target="_blank" rel="noopener"&gt;https://t.co/ILZkQiIh9h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ILZkQiIh9h"&gt;&lt;img src="https://cdn4.telesco.pe/file/HfcyyMl4SZHb9DNUaehxhZMhUtIlRn_1ApE-S8WsTsJu4zlS1wHh7Lxt7BxJkh2XKNbrDo4yvrN1oMQZEJU_K1y98snZvXbe3KSzypEXJVOx0prQ8yoCi4NBx0kPiBdbpX6NDYxXCcocUK-mNzyCoMn0aDkMJdHjeoXzhUOQztu17e3HonroQKUvB7XtQYcFlQJhpjN-_si3haw8Lf4ojuG-sdMvlAdPLLqoe8FyAmLU7pFUfOIeQQ0-4KoLzwqjHVcHKjjZkes1NUKX5NAg9u7dPKZ8rL4uIiefee3ElwSlAx3Gy1Enf0ARD_jdQrPjDkI_cqBFSMBHc2_3Gjb7ww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ILZkQiIh9h"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 3 v.2 (23E5223k) &lt;a href="https://t.co/ILZkQiIh9h" target="_blank" rel="noopener"&gt;https://t.co/ILZkQiIh9h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ILZkQiIh9h"&gt;&lt;img src="https://cdn4.telesco.pe/file/VdDL7yhQ3MbBo9eHeQkaT5Ny3-D-sVJLAw2q-_UL1NWf8YE7sDaISL9zJK42wKanw_RbfOqXo0kmcTksHSUz06o-WQe7Ze-s4e0aPeerCXJyLe9PsRW4mV1I0dBF1c_7gf-6oDmDHRlza6gwf_RzB9MMrQpuciis2WelsUnCenoFX2ei2OdpYR8gXHfkOJSHOHpvBYW1_xy_15mWUIt51mGKtSCCZ3gbLPvEh5dmRDOzmEyijRTdT-y0WrHNf5U2Jjl5Hs3C9gzYVzVFgzR8JAj_55XDEoxfhUt4pz7AjRQXDYpK-w0gKewk4K1duWCJQ6I0uqly_6Yc64V1i-xZKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ILZkQiIh9h"&gt;
 iOS 26.4 beta 3 v.2 (23E5223k) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -91,7 +103,7 @@ iOS 26.4 beta 3 v.2 (23E5223k) - Releases - Apple Developer - Apple&lt;/a&gt;&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 3 v.2 (23E5223k) &lt;a href="https://t.co/8Ff6RUVv1c" target="_blank" rel="noopener"&gt;https://t.co/8Ff6RUVv1c&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8Ff6RUVv1c"&gt;&lt;img src="https://cdn4.telesco.pe/file/Lr1FAQtZFxBYCmShKP7nOyg3OepTvaVQlfWhH_4O5K47JGfWJbkN_QLso0drjRYHvmJFSFf4diUxcQ1K29pBPbRooyo54BwZGuAwIkv_CQ3XSkxnoiVKkqnUIef8a8Iroc3ipMZGst8zJGtX5D4zP0BWpVdJZiIteEo60HhJmj5d9HKMZjboU5p2h4FLl5JAiEiX6TBte4nuddTJPVVazrb7i0_-CI6GeZULJm8pU_f7L3UVlNP3lN6slx1-T-rwj6si8_VOjYkmNJ9iMFYJIczSUuiwxV_q0DDB_oU63cO8LCJElbqbstgtsNGMOzZQETRHtYX-nvLeQM36XhN8Mw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8Ff6RUVv1c"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 3 v.2 (23E5223k) &lt;a href="https://t.co/8Ff6RUVv1c" target="_blank" rel="noopener"&gt;https://t.co/8Ff6RUVv1c&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/8Ff6RUVv1c"&gt;&lt;img src="https://cdn4.telesco.pe/file/uXOGBlUJD0ABpzZ43G8VHfNib2aQfM3AXskdHuMedguZpViant_Fr383_BMb_ENbaFDy240Seysnzx-5_43g5gAik2ZjAcWG5vMgMWv21OyvMNNYY_aMjACZ-Q-blcveytiCQYHnAVE7TCZNw6UjosIDFsAFm6c7o9BpKm-37xAlVmLfY1awFiCkl6-FjAzrbNgSjHUoBcEMVcDkiQnh5fCi0H55sbecuVwb2-ti4Umo30LSOmLkBRuzOFPD9hZjnldGoMdI6w7yb52V2H_Q2KYbbsOaEDmevmyCXSjFrHBtALovhYP0V-h9bH6AA-6XvXjEfwUSp_Wy5CXfo54xGA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/8Ff6RUVv1c"&gt;
 iPadOS 26.4 beta 3 v.2 (23E5223k) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -103,7 +115,7 @@ iPadOS 26.4 beta 3 v.2 (23E5223k) - Releases - Apple Developer - Apple&lt;/a&gt;
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 3 v.2 (23T5226i) &lt;a href="https://t.co/7KH9QzNTDF" target="_blank" rel="noopener"&gt;https://t.co/7KH9QzNTDF&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7KH9QzNTDF"&gt;&lt;img src="https://cdn4.telesco.pe/file/nzEldkwqbyxZLHOBGKxy7xMF8IJoVGeW7uz-J2MadLJsAUxCUNTNqjRWzk6_z6NXdJFNOIiDe7Aw6dvPjf1xTqLIN2emG2O6EUOuPbX7ZBMYl863CZfTYfi3vZZ-qZqbbDrKKEjwUbrNLbsT4O8kN5sFBDdg5iUSnhNQgqGqA4aWaBoEnbuFxxRQI95IQpqsRtBPYb0yDmhYuy9j6W7Ck0dsJlKyNT9j43y3ZOO1XzjBP0yMK0MR2DVvxCTvT9EMXMzGRm5Gg-LQwggBjXklBLOWpCuXGuwFiUitEVDroxOgAuHHhI-Z_h7pb7o7mnHPZWIoexgLpnv_-_F3fnh-aA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7KH9QzNTDF"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 3 v.2 (23T5226i) &lt;a href="https://t.co/7KH9QzNTDF" target="_blank" rel="noopener"&gt;https://t.co/7KH9QzNTDF&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7KH9QzNTDF"&gt;&lt;img src="https://cdn4.telesco.pe/file/HpzYXSY1rB-xbquTO13cP1lsTii2xtyPoX9vLQse08nyamuEimZd1Dq5uebPR-Jl2SEEvBkvOgNFYTt6KT8rcwAzhlyUkEwERCoCYMwxYawxN2P6AxEP51WGbHmjifAuUASfqQ5SdPaHi4BrlLVZjIH-re_8dW7tHFM2bejKB3ZqWahZ-kzzRPEvd-udDF25j4-RpxiZ9hcImHncXE-Iu_BKigfslc7F56uXKOIWusf-fVXEUQgvX6bToYT4doFH9wRMMS2SWnzad9Tq_C3dzwYUPnstWj1yXmONeiTkFcoxn9BR0SlRUtBPKdhjyu5LBfir9CdYAo_Z2SW_PlJOgw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7KH9QzNTDF"&gt;
 watchOS 26.4 beta 3 v.2 (23T5226i) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -243,17 +255,5 @@ Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ap_Nwr2Jf_iEbBc7SNgxGEKnAnjCN8B2Qqszm6C18bDYEQwNNRUZx6rirP445WXaMNtNg71i58FZf0urMQo8LcgLFQ8LIntV5tMnwkgwIlFFA3QZUCZtfAtFYch-mviTEl2nCN9HAuWd06bNd_lJ8gUWD78s-ZQhoLYV1KJQJBpIIGEpZ6ZP3NstRh0IUKrtwiPze7J3NUetSf3efivqHo1Z9nHVxQrKLEbj1STAXHRcIvrWax_9U_2-okStTe-n116-5esCzv7p7rak-0uMxZxjyZkzFRJ-kAZkih-7MotUzRYhY33u1Lm5eH2gqb84PiBVkzOPe47GkdKTBBRilA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
 Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;In this edition: Join Apple at GDC, get tips on privacy and security, dive deep on coding intelligence in Xcode 26, and learn how the Speechify team is going all in on AI.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Adjusting line height in SwiftUI on iOS 26 https://t.co/naBYTJuVbb</title>
-    <published>2026-03-04T08:32:47+00:00</published>
-    <updated>2026-03-04T08:32:47+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26081</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26081"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Adjusting line height in SwiftUI on iOS 26 &lt;a href="https://t.co/naBYTJuVbb" target="_blank" rel="noopener"&gt;https://t.co/naBYTJuVbb&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;&lt;img src="https://cdn4.telesco.pe/file/a-37PJlChHzpp4ewvAzZwucHUbvPeX6_TBg9jxsRZ-iivJ-7dTnXc63KpVTF92KWBYMbfKIMjF4AceIrnFORGp7Nwtrv6XPU1dFv8fTIBGekiWHAuhNux3r2YnG_nmjLgw1JK3vI5bK601jWz9ma2c5JBrah4gtmrdrCyEZATxHoSeDImZZUpbwbkrjn4a-4gIshjQNtOZYODJw1gj_RuB3fiHQMbcFZ7aCDqfqcsYz0zFTCAJrmYcYbYARZiQcBo8J2mVCIVqDzvlmq6uMkOJ2qibIZ_XdgaS7Pkgw_dUbPdNX4W7bfXfo1CFUhHYHdwfV_n9yzELOCpx7-0TVB6w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/naBYTJuVbb"&gt;
-Adjusting line height in SwiftUI on iOS 26 - Nil Coalescing&lt;/a&gt;&lt;br&gt;iOS 26 introduces the lineHeight(_:) modifier and AttributedString.LineHeight attribute for adjusting vertical spacing between lines of text in SwiftUI.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
