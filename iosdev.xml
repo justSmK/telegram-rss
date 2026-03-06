@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/FJgE_TQ1JtwObRRa8e_f_54xO4OWHuRJ867brnyfR88r29Au5NDA5ToqMpeQIPOYnUiHv-AA99i5bQrwEMRO4p_3RSXUWoJGMlUFdd-XAQiJ39D37eYsu03bcql8_ZheMNeEd08Q-kGqLAANuqd9A_RYo1nCJwsLA-LEekJcPHCsik_pWMINqhKXuNX9-5oCvE2tM_EVPeADJx8G1JmjHvAG32zchr1Si5zKAUBlQz6_hpgfktT1E1JLqJS6vKUk2G1CbQhFO5HHeodpVzGYhyyg1DGUpYulfZAERhhh2wERVakfXpCoLtWbG8Y7qQgoEhOsXJjp8d0GPpgOpwf8fA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/FJgE_TQ1JtwObRRa8e_f_54xO4OWHuRJ867brnyfR88r29Au5NDA5ToqMpeQIPOYnUiHv-AA99i5bQrwEMRO4p_3RSXUWoJGMlUFdd-XAQiJ39D37eYsu03bcql8_ZheMNeEd08Q-kGqLAANuqd9A_RYo1nCJwsLA-LEekJcPHCsik_pWMINqhKXuNX9-5oCvE2tM_EVPeADJx8G1JmjHvAG32zchr1Si5zKAUBlQz6_hpgfktT1E1JLqJS6vKUk2G1CbQhFO5HHeodpVzGYhyyg1DGUpYulfZAERhhh2wERVakfXpCoLtWbG8Y7qQgoEhOsXJjp8d0GPpgOpwf8fA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-03-06T09:42:45+00:00</updated>
+  <updated>2026-03-06T10:39:17+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			На ваш взгляд, какая ситуация сейчас для iOS в России?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;10% - Рынок кандидата&lt;/li&gt;&lt;li&gt;90% - Рынок работодателя&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			На ваш взгляд, какая ситуация сейчас для iOS в России?&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;11% - Рынок кандидата&lt;/li&gt;&lt;li&gt;89% - Рынок работодателя&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Apple Music будет отмечать контент, созданный ИИ&#13;
