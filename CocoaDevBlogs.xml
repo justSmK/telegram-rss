@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-06T15:40:37+00:00</updated>
+  <updated>2026-03-06T16:46:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Creating overlays on a map in a SwiftUI app in iOS 26 https://t.co/sJbdrwMOQA</title>
+    <published>2026-03-06T16:12:17+00:00</published>
+    <updated>2026-03-06T16:12:17+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26099</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26099"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating overlays on a map in a SwiftUI app in iOS 26 &lt;a href="https://t.co/sJbdrwMOQA" target="_blank" rel="noopener"&gt;https://t.co/sJbdrwMOQA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;&lt;img src="https://cdn4.telesco.pe/file/CeVJGqAWrNNvpnFJRbC1alcG_A20qN1Mp9Ecq0IUFngNKiKGhqF-K2d7YeJny1nRln7uJ-PqqEybne_Ra892YDrJIfLCz2iW8CSw06LsFhqi8pnqXWS93rtwZajykVNY0VRyGBr-xFaiUAvAqqdcNcLCDwYDsd4eXp7Pz3S4a8nuRP6MJhqxAQcCBQshvTXToOobQ0Y4hWQzKATFGpW3iYe-ZmiLC32G3NKr34Q5gLGBlaGExa8i2dZFCsz0kwdXJ73oZ9-OgWnpkTlLTRyULDc9Bk0xaQxsqzc42xjQZ4g0s81ETXv43grn_Y_c95He3zoU2xGYJHLJUNt3dWwqjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;
+Creating overlays on a map in a SwiftUI app in iOS 26 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to overlay shapes on top of maps using MapKit in a modern iOS application.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to map an optional Binding to a Boolean value, and why you might not want to do so...</title>
     <published>2026-03-06T07:03:14+00:00</published>
@@ -243,17 +255,5 @@ Adjusting line height in SwiftUI on iOS 26 - Nil Coalescing&lt;/a&gt;&lt;br&gt;i
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : DebugSwift/DebugSwift &lt;a href="https://t.co/kXIGISIvQ0" target="_blank" rel="noopener"&gt;https://t.co/kXIGISIvQ0&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/kXIGISIvQ0"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZnFws6Jq3Ysfc4XoC-V9TH_QE7W0Oj2e4SMZ0jb5v48gVumJYFp9cnoivkDLoLw6fbnW4wEFydhQqZhwrnKF4N4ty8a7NYDamluxV0aIlIAofXmAaSiBkd4ZKvqCxlyAJuHzmuHaCnnevXCvmTbK5JeVN56pPxJlHhprSizCUQNuK6aNqta8EuwSDj4DGK1CtabN-b7MRdmE9WFjmOV0UJ7gBdwwU54XNA2eIxmbBD8NaWReMIk4k8QYEADNDrQ1wyE_QavK6VnzegQ8qmtEGWB_WBze3wZjqnJ_XFjKDudq-4Gk8WisjIqX3QCbYD7BRezJh4-2giRkWEfT-BzURw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/kXIGISIvQ0"&gt;
 GitHub - DebugSwift/DebugSwift: A toolkit to make debugging iOS applications easier 🚀 - GitHub&lt;/a&gt;&lt;br&gt;A toolkit to make debugging iOS applications easier 🚀 - DebugSwift/DebugSwift&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : stripe/stripe-ios https://t.co/LhgPvFoPWo</title>
-    <published>2026-03-04T02:12:46+00:00</published>
-    <updated>2026-03-04T02:12:46+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26079</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26079"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : stripe/stripe-ios &lt;a href="https://t.co/LhgPvFoPWo" target="_blank" rel="noopener"&gt;https://t.co/LhgPvFoPWo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LhgPvFoPWo"&gt;&lt;img src="https://cdn4.telesco.pe/file/TrIadq91F48kQd7T073KTsHRFQmMHxPZlJ2PGF7eK-HgIjY63KhKrX1pK4wTWlxk2pnwgvR3PzG-_7rrzcd0RzmlrTWkPO_y10A6aM8awAwPRctzvXtNy87lhUKZNHcd0hO2Caj1CFn_Qx7y17f6XNia_YkDXpdXLPxrm3gbX9uVJEEWWFwdxFoAlsU-QcXqUwPWmkfWuinj0NsJ_i6-0YrXPYZSDGiiTYu7Hfi7xgCP7RGfubLCrAlXN_5c4ouri9xAeJAHKg3UqT1ryXQVmCuB-2NI__vodVwoJCrJTZXVRcOcZgzVRS1TMdazW1JrpXRxTgY0iE8ms7WPJCMSdA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LhgPvFoPWo"&gt;
-GitHub - stripe/stripe-ios: Stripe iOS SDK - GitHub&lt;/a&gt;&lt;br&gt;Stripe iOS SDK    . Contribute to stripe/stripe-ios development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
