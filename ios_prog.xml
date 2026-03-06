@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/gjb90dsVBKHKPe37JJOPRoF5rtZR0rXWySIfyfbgEvJl7rZTF3bqJD9XPJrSinvugeaAmWtxq5RbPheMQOAlp9oTube5eJyRhLIOXkeHVan-HTqRauGewgnMvVpsYQJMcpo7qqhFMTyR-3dA43Rk9NDuA2Tg3JwI6gZ-xd59b2lj_2rWRRwHAj6PyZBic5Qc-WUDgGPG7WzlgiGVYwQwvqzuazWBlJlCOZEdXJ1VvZXeRQatRLlM2oHdWGi4V3sJImeX7OG0NFdc4vnUruDgY-kDt1cJ3D0xAddAPiAGH4am0owGoaWrfas-bWSKK0uesoDEDn20bpR1HtnMqPPb-Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gjb90dsVBKHKPe37JJOPRoF5rtZR0rXWySIfyfbgEvJl7rZTF3bqJD9XPJrSinvugeaAmWtxq5RbPheMQOAlp9oTube5eJyRhLIOXkeHVan-HTqRauGewgnMvVpsYQJMcpo7qqhFMTyR-3dA43Rk9NDuA2Tg3JwI6gZ-xd59b2lj_2rWRRwHAj6PyZBic5Qc-WUDgGPG7WzlgiGVYwQwvqzuazWBlJlCOZEdXJ1VvZXeRQatRLlM2oHdWGi4V3sJImeX7OG0NFdc4vnUruDgY-kDt1cJ3D0xAddAPiAGH4am0owGoaWrfas-bWSKK0uesoDEDn20bpR1HtnMqPPb-Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-03-06T11:32:16+00:00</updated>
+  <updated>2026-03-06T13:03:07+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Малоизвестная возможность Swift: for case let, о которой не...</title>
+    <published>2026-03-06T12:27:11+00:00</published>
+    <updated>2026-03-06T12:27:11+00:00</updated>
+    <id>https://t.me/ios_prog/720</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/720"/>
+    <author>
+      <name>iOS Такой 🍏</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_prog/720"&gt;&lt;img src="https://cdn4.telesco.pe/file/e5DumHNj3lESlq-QZVu4GXbHaTyX1y-2C8wA8zkVg0oXwRqA7qIisI30_Hq2P3Y3WmPWp_wRpperSvNOLtg3y81GFD_H6usbRpnU9ffDPpXxgQsJ_h4N4yf36e43_l5tSBj5s-TWK_J4IgZBmERwHxVPflz-rFXBqGAGTrcGjgkXHRKW28St_3CMX7kfq7e67tOvS3lHKXkVrlc2iN6VTfFjSzaVflZSrpIxw8yCHUAkFUMoS3P1wQTZ76nkRvGjqIc57H3X8WKxTWHLvJDLxkaEW-2BrRtkuO5AiABwAFPeZ9jyJBaQym7tFyug3eOGnr62jr9VGDgqFJn6VezeSg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://habr.com/ru/articles/1006412/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Малоизвестная возможность Swift: for case let, о которой не знают многие iOS-разработчики&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Swift известен системой &lt;b&gt;pattern matching&lt;/b&gt;. Большинство разработчиков используют её в &lt;i&gt;switch&lt;/i&gt;, иногда в &lt;i&gt;if case&lt;/i&gt; или &lt;i&gt;guard case&lt;/i&gt;. Но в языке есть ещё одна конструкция, которую многие никогда не видели — &lt;i&gt;for case let&lt;/i&gt;.&lt;br/&gt;Интересно, что даже разработчики с несколькими годами опыта часто о ней не знают. Более того, в официальной документации Apple она упоминается лишь вскользь, потому что технически это не отдельная фича языка, а комбинация существующих механизмов. Тем не менее, эта конструкция может заметно упростить код.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;В данной статье разбираются что это такое, как она работает и когда ее лучше использовать.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">📱 Мобильная разработка в ритме города: Day&amp;amp;Night...</title>
     <published>2026-03-04T08:58:26+00:00</published>
@@ -154,7 +165,7 @@ Apple...</title>
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В Xcode завезли нативную поддержку Claude Agent SDK.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Apple выпустила Xcode 26.3, и главное в нем - глубокая интеграция с Claude Agent SDK. Возможности Claude Code перенесли в среду разработки: агент сам управляет задачами, запускает субагентов и поддерживает плагины.&lt;br/&gt;&lt;br/&gt;Агент теперь видит не один открытый файл, а архитектуру всего проекта целиком и понимает, как связаны между собой SwiftUI, UIKit и Swift Data, сам составляет план действий и вносит правки. Claude научили пользоваться Xcode Previews и обращаться к документации Apple, если нужно разобраться в специфике API. Из полезных мелочей: добавили поддержку MCP, так что возможности Xcode теперь можно встроить в рабочий процесс через CLI.&lt;br/&gt;&lt;br/&gt;Xcode 26.3 уже доступен в release candidate для участников программы Apple Developer.&lt;br/&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;anthropic.com&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk"&gt;&lt;img src="https://cdn4.telesco.pe/file/lj9Aj5V0Scjiio-3wG7jjs8jJEamy7VFPsfNmBz8l0dhHZKFwICq7EhKWBhAgvdhdnGqek8PWlXpFquAL_JigIWOhJpRI67sFvfcTKRFs0Ms3jzMI2NHwNaeNuqtCtY5kftRmkulNQsEgxtXaX3sj3SwRQ-41ENtSyya1hoSWp5cr1hi7EYYf5-Lric_XYgUUCRhjkLOp-hjRQGLPYYghtTqifri7sfBFVpTRPCXwIrumxE6Ku8rikcrip8Qbq77ypUkm1jY8b1GO-g5-crq7Dykd-9qFvopD6J0QYTXwRvS9VPhDVVrygjvhtsBFS6Vk43FmqQDoRQCQGVz3kuoFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;В Xcode завезли нативную поддержку Claude Agent SDK.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Apple выпустила Xcode 26.3, и главное в нем - глубокая интеграция с Claude Agent SDK. Возможности Claude Code перенесли в среду разработки: агент сам управляет задачами, запускает субагентов и поддерживает плагины.&lt;br/&gt;&lt;br/&gt;Агент теперь видит не один открытый файл, а архитектуру всего проекта целиком и понимает, как связаны между собой SwiftUI, UIKit и Swift Data, сам составляет план действий и вносит правки. Claude научили пользоваться Xcode Previews и обращаться к документации Apple, если нужно разобраться в специфике API. Из полезных мелочей: добавили поддержку MCP, так что возможности Xcode теперь можно встроить в рабочий процесс через CLI.&lt;br/&gt;&lt;br/&gt;Xcode 26.3 уже доступен в release candidate для участников программы Apple Developer.&lt;br/&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;anthropic.com&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk?utm_"&gt;&lt;img src="https://cdn4.telesco.pe/file/lj9Aj5V0Scjiio-3wG7jjs8jJEamy7VFPsfNmBz8l0dhHZKFwICq7EhKWBhAgvdhdnGqek8PWlXpFquAL_JigIWOhJpRI67sFvfcTKRFs0Ms3jzMI2NHwNaeNuqtCtY5kftRmkulNQsEgxtXaX3sj3SwRQ-41ENtSyya1hoSWp5cr1hi7EYYf5-Lric_XYgUUCRhjkLOp-hjRQGLPYYghtTqifri7sfBFVpTRPCXwIrumxE6Ku8rikcrip8Qbq77ypUkm1jY8b1GO-g5-crq7Dykd-9qFvopD6J0QYTXwRvS9VPhDVVrygjvhtsBFS6Vk43FmqQDoRQCQGVz3kuoFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk?utm_"&gt;
 Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt;Anthropic is an AI safety and research company that&amp;#39;s working to build reliable, interpretable, and steerable AI systems.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -241,16 +252,5 @@ Apple’s Xcode now supports the Claude Agent SDK - Anthropic&lt;/a&gt;&lt;br&gt
       <name>iOS Такой 🍏</name>
     </author>
     <content type="html">&lt;a href="https://t.me/ios_prog/700"&gt;&lt;img src="https://cdn4.telesco.pe/file/E7RS6oTNUE58mHZoWD1XcqGMXeo9-_ucPexj1XRTMWNJiRgf9EBN32D2dU5_GPMevxJ1zGvl0PLZuVvFiCrZ9cJBPUtGschSL3UsfZbmzRPuCsgOj8uEqpwuxg0ZY4ATclj_zh3MkjnxZ1Mi8iZviWWojv9Z3OjBa2xgl309VZgk3zY4l2QpCeGSquqDot52FzTl0L0VLesqoh7uxFLLyYDW3fcWtaWSXCGqE0poRK0isTvaWGSFt4H6Wb70e1x48T5OurJgzqqoT4X0doh_CmGmJORPKX_c-mqkvypkDcMqLB9XvNDddNSXtf0dTUNoKN55xOj5cXhILldqloJM7w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет для SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В iOS 16.0+ вы можете зарезервировать место для дополнительных строк текста, чтобы высота вашего макета оставалась постоянной&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🍏 Загрузки мобильных приложений падают уже пятый год,...</title>
-    <published>2026-01-20T13:16:16+00:00</published>
-    <updated>2026-01-20T13:16:16+00:00</updated>
-    <id>https://t.me/ios_prog/699</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_prog/699"/>
-    <author>
-      <name>iOS Такой 🍏</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/ios_prog/699" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/ios_prog/699"&gt;&lt;img src="https://cdn4.telesco.pe/file/d-LjDngMzzMc8WNKoBFoRY1Ibym14JzzcOMTNb1aLDjVGW6i4PAmF4wtj-xtOSWl9MxTJztfwlkNJn4qio9IBu8MPTZx6rF2snRo--0gIADEqWiTCzwQO9eXCDE3qky4qaXoN-uyPu1JD8wdZEvYBVNSdEbWvCVGGMvhZF4zIHPsb8iA4j2P5poY95SyLfDpE6lZpuFNpZgCZmpWm2JqvnKsOawgbK3HTheJT_1b0VYXfu4FK4_DY23Q3_NQiY6n_UAvjyhuiopPvUkMKIfJG_SD8RQLkHi0IjfAH46OzhDqfN1-MimOEl1FqPuJko8Mpd-HvJowh8Jj8EtkNTVnZw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5449467351412013115"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"&gt;&lt;b&gt;🍏&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Загрузки мобильных приложений падают уже пятый год, но Apple продолжает зарабатывать и даже увеличивает доход за счёт подписок.&lt;/div&gt;</content>
   </entry>
 </feed>
