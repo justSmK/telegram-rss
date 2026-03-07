@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T18:38:16+00:00</updated>
+  <updated>2026-03-07T19:24:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ GitHub - seemoo-lab/openhaystack: Build your own &amp;#39;AirTags&amp;#39; 🏷 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service &lt;a href="https://t.co/XIwgaGrBVy" target="_blank" rel="noopener"&gt;https://t.co/XIwgaGrBVy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;&lt;img src="https://cdn4.telesco.pe/file/o4n6ridpXLPxOhAjcx3fDlkU144WKRMoLRr0lvqVoq2Al7Phytd7eGR_Vuldgx-qhwho6cA-uV9qnkifvrXKAAmpQBLUBYRbLhRjA1-5y9TjJ3P1ikgeOvWovM4fajPxezBvqmtlvIpVDq3gJq0Upcp_ZRaNRFTPUq2CN-UGndYwqz4bkGInmqwPxxsGcCKM_wreEMO0jG525ztH1BC1OwMffiXSkDkTeRwuzYril9kzMhGxDbwSfhoodegUNmEKhU4AEDz2CXnGvZyWtwTh6DILGDNgud6iy8B7fUFrqF91FfTRmDEpjSGYuuWal7reSk-RfN6SoeAvaefe6okWxg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service &lt;a href="https://t.co/XIwgaGrBVy" target="_blank" rel="noopener"&gt;https://t.co/XIwgaGrBVy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;&lt;img src="https://cdn4.telesco.pe/file/e6XwHP7fXDVVvRl13caPzOk0CELgsB3oWDwefDxPUpcDoGMFIKxisvgNsQjYx_NRBmS2jdX5_zessYaNUDgwuxq3xma-kOGgc13XH2cJ1-wTAwKT-vyV2QqRnRNAbMr2jYo0qtZlVnRbdu3BWwLQNUxjcdSHyR1b8gyvIkVVxwCfvurTwJrC1JUdyoju7uc5GreITRIlvvX5M7XR6Su6GChTq2JJIUHD7b4XR4707OEpRCWROg03z7ndVeVq4eC4zBZeYWNuBtAcLbGiaQ8BMMm6Jl3OeNl2kj4dxl5_kNNHUHmEhNpkbCnc_SlEznmfakgOjXc1JkeTc33zS60KnA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;
 Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&gt;&lt;br&gt;TelemetryDeck is an app analytics service specifically for developers, designed to manage usage analytics that are anonymized, privacy-focused, and really easy to use. TelemetryDeck is managing the data of over 16 million people every month, helping thousands…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -115,7 +115,7 @@ Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog :  &lt;a href="https://t.co/q2ce0A1VP6" target="_blank" rel="noopener"&gt;https://t.co/q2ce0A1VP6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2ce0A1VP6"&gt;&lt;img src="https://cdn4.telesco.pe/file/OIH-GIPXVinwXR3LZ8UXhGhpBrRFJw_jRImqLQImYaxDyMLuuJNXT5sHrh9OBLqnmoJ0gDiZFayZhu9NVTbkv0GrbZrQ8TuEFDo2dfttPKn13MmySDZTt0kc_FTh63FVHqv4gITLuKAvh6phQv3UnfSptrYJ0JmkRgA4AJEa_jsupqNrZhQTjUMPy0h5t07YXWB5YlYb49szPpB6tdTbE7kgIwfYxxQHH0OVxrntxJpsqYDW2JkbQJEnw1nDDGozmG9x-EfWsqYikoW8PvSp5masfT09yNme8iev_UY_HImTVp18OTsnJ3pM5rSAYpgR7bIX3ltpGODXj7hvRUfm9A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2ce0A1VP6"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog :  &lt;a href="https://t.co/q2ce0A1VP6" target="_blank" rel="noopener"&gt;https://t.co/q2ce0A1VP6&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/q2ce0A1VP6"&gt;&lt;img src="https://cdn4.telesco.pe/file/IAO9mbFpMdCahIiKF4t2Ez4YrMx3IlJJ2hMGaPwnz8dX3M_m-Ghc0_iOnW_RmRaZLt9BPzsEkEjhVKvdJC4XXg_Izc5feofZQ2lfQYk5abNz8mVQ736O18vhnTy47RAxwVTJ0zL6CO3kE7uDRbQGfOqWyNslmEOQsGTIwJcu_NS7JO6EY0rY8ZtomDalQH6nLJdQ7ce98ftaCFpzD91H3HROvBVd5T5ZCXORg7BC_FV9rafqRDcv3oFAgfQDt64GLpHgupLXmxLai-5jRDlL5E7dTA0FiNcgVxjDqhR9UvN3hM2TdCuMr5iQoqsYagNgMqXlDdRHR6pHsAFsPgu7jA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/q2ce0A1VP6"&gt;
 | Swift.org - Swift.org&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
