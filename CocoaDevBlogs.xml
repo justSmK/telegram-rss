@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T16:32:00+00:00</updated>
+  <updated>2026-03-07T17:24:34+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Swift Rocks : How my software engineering workflow has changed in the past year...</title>
+    <published>2026-03-07T16:52:38+00:00</published>
+    <updated>2026-03-07T16:52:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26108</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26108"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Swift Rocks : How my software engineering workflow has changed in the past year &lt;a href="https://t.co/uC4pEpxPEX" target="_blank" rel="noopener"&gt;https://t.co/uC4pEpxPEX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/uC4pEpxPEX"&gt;&lt;img src="https://cdn4.telesco.pe/file/NzCn5LeVq0UBlS1fw4zehPXTkG_tj__aYbTUbAGUm01KSC3ZZI_vjJm8jLEMrAyj_5nIdyUBZfr3zBiXMQj9HcpeR0OsXVn4BW96EQLRUPa_P_Q50t04WvxwyEVFZt-e5EdK8-MTGGp2kB4m71fAdK7cMlbMV_VwrVR5JTvTuL1FnTsx4THuz96tPcKWFZBxWhYyG5znCptOWRKCVuCH8VnC7tEGq4qNP1LzwdJJcGCY_j0lHgibIrnMxxAWNLldqBhQtEQZAI1jVFkyGD8cVGM45qCbnyXtd12msAB7o_33lj4xXdXj6ZM4AXa4-aeu3o5BETBmaeU1msyuqaBQkw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/uC4pEpxPEX"&gt;
+How my software engineering workflow has changed in the past year - Swiftrocks&lt;/a&gt;&lt;br&gt;Back in April 2025, I wrote a post about how AI has changed my software engineering workflow. However, the release of models like Opus 4.6 since then have changed the landscape of the industry so dramatically that most of what I wrote is already irrelevant&amp;#33;&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Zettelkasten Productivity: Books Written per Books Ingested https://t.co/1SqcLHIO1h</title>
     <published>2026-03-07T06:32:27+00:00</published>
@@ -242,17 +254,5 @@ GitHub - tuist/tuist: A virtual platform team for mobile devs who ship - GitHub&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3.1 (23D8133) &lt;a href="https://t.co/amxI5A12PG" target="_blank" rel="noopener"&gt;https://t.co/amxI5A12PG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/amxI5A12PG"&gt;&lt;img src="https://cdn4.telesco.pe/file/PxzeqUHu2VE25Bss3hSH8Yn2WGYaWUTCkrbylKKCzQjaVXmd7wAWPv81IvVuPG_Je2gst3f1GvgCJsnWxMmoJEoYJQgpZpxxoHvq619B5xvxzv2Zn8ru9vHU3agDSrtXlFMBV1JRFuMxZfWyKztlrefr96ox7w16u2NHZQo8Gv6POgnr3SbpETuo4WA1Az6tCL-h99AFx0eQ1jHUELoUZLuKZmklP8n9l4xd1cpI2N3qeZ0nSAJMVU7TWn43n97hT39IzOo19202plvg84tva6j241-7LgwIGFamCzw4rawA_7VAGTv2qLOvuctP_h164EPKXGn5-qOsgD1JduuLwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/amxI5A12PG"&gt;
 iOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 26.3.1 (23D8133) https://t.co/QoqcXU43um</title>
-    <published>2026-03-04T21:42:21+00:00</published>
-    <updated>2026-03-04T21:42:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26088</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26088"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3.1 (23D8133) &lt;a href="https://t.co/QoqcXU43um" target="_blank" rel="noopener"&gt;https://t.co/QoqcXU43um&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/QoqcXU43um"&gt;&lt;img src="https://cdn4.telesco.pe/file/OMEpJZIddLtMvuQcJ2SvXwbgzPiFMH9tFMMN_NlMnLtpblupmcsjrrWN54kz5j_guNkDynWkynWtRFi_25wL8mwsj6iUHe9Q0fWR-tBoEb0k8bGEj9bOqLIE070QV4_vOpMIrbMlyYrGr3nHx6TTB4fKknyfJ2GUyDovyKo8j24iRmRj2prJXggYgMYPS4tgPPL1z3GDPsaswMzS7kAli9LceVPFqMqgIt4tmf7b7B_qXm2bRlsYoYWNY7ZStGeOKt55xigH23P-59AesTgV_hC9K0BsfP6j8thBi1NfIeK577jrIOcYP6BwebI84wTzljpbYq6U-IkgH4ReYHg1Zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/QoqcXU43um"&gt;
-iPadOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
