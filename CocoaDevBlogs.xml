@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T17:24:34+00:00</updated>
+  <updated>2026-03-07T18:38:16+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -211,7 +211,7 @@ watchOS 26.4 beta 3 v.2 (23T5226i) - Releases - Apple Developer - Apple&lt;/a&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/YxWxAHHNbP" target="_blank" rel="noopener"&gt;https://t.co/YxWxAHHNbP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;&lt;img src="https://cdn4.telesco.pe/file/faQ22cqUy1Gi_3GLo-JHZrfqSm_9AClCW82502Ou9lmsTsohvkl_7ACD9RlYQKG2ia6rWOc8NQZKwhcUMU-IkcjUI_qjgOvVi7Tvk1sxRv-NZK-Hvs8lfyD2JwdkMfR9pioFyqWlksv_XSZNciaZN6k2yIzinS8kBxysij5kxqTylZqeX1H_Auq3zv65qJ4IDHA7H0JAhuS7nn07RIk_Ip4LZkT5BEvNWumfWueZuYu57s0BETmfzkSq7SuUvEh9d31KTadmMbSLnzQiQZBYzBXO_BshlS90QDo92UnJtbNFXloY5-hm2sojCNW3CQ8cFT-g0DdqnOamZbg8UR3ajA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/YxWxAHHNbP" target="_blank" rel="noopener"&gt;https://t.co/YxWxAHHNbP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;&lt;img src="https://cdn4.telesco.pe/file/vQaW12uzWePDNNqIrQL7O_NpRRJsfqp1eBK162b4Qzl8F9sr6V-PaEtrI7yd5zeNv-DZxL6is0c5YQlkNA6nHV71_qT9a7LGFkIQ2jA2Yam9pXR8MEilpXas7Skjd1ysDarhtl27fl5-KYK0ocmUxZyXDO1cMh4GKRP_WpoqTSe-9g0WCuc5wne_9s2OCMD8c7ItPw38032hopbED0Q36uuL8QRAemPUEywMsGnlE9ZNODu5Z2UQCpMl6NjlYVSad8rdmqcIfk8X5I6f958YgYJeNhL_e_5C1k5fJn_CISg_QhUBfPf8wKLldYSTDedaVwIK4LfJlooIArgUnZ7GGw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/YxWxAHHNbP"&gt;
 Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I plan to wrap up the smart tagging features I&amp;#39;ve been working on. Here are some of the features that I want to implement:&#13;
 &#13;
 - Renaming tags&#13;
