@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T15:27:25+00:00</updated>
+  <updated>2026-03-07T16:32:00+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -115,7 +115,7 @@ Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating overlays on a map in a SwiftUI app in iOS 26 &lt;a href="https://t.co/sJbdrwMOQA" target="_blank" rel="noopener"&gt;https://t.co/sJbdrwMOQA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;&lt;img src="https://cdn4.telesco.pe/file/CeVJGqAWrNNvpnFJRbC1alcG_A20qN1Mp9Ecq0IUFngNKiKGhqF-K2d7YeJny1nRln7uJ-PqqEybne_Ra892YDrJIfLCz2iW8CSw06LsFhqi8pnqXWS93rtwZajykVNY0VRyGBr-xFaiUAvAqqdcNcLCDwYDsd4eXp7Pz3S4a8nuRP6MJhqxAQcCBQshvTXToOobQ0Y4hWQzKATFGpW3iYe-ZmiLC32G3NKr34Q5gLGBlaGExa8i2dZFCsz0kwdXJ73oZ9-OgWnpkTlLTRyULDc9Bk0xaQxsqzc42xjQZ4g0s81ETXv43grn_Y_c95He3zoU2xGYJHLJUNt3dWwqjg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Creating overlays on a map in a SwiftUI app in iOS 26 &lt;a href="https://t.co/sJbdrwMOQA" target="_blank" rel="noopener"&gt;https://t.co/sJbdrwMOQA&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;&lt;img src="https://cdn4.telesco.pe/file/SKHjR2yCis3mE7LtQ1DFfxM41XVx0jUv5VkAjKHtxxsfU3Ri1fhlpkd4H6gh5nwVd67uWgin5MqFPQ-vAvycYB68haT9lyOZ0jE_urX5hhllSwFkKQ8_XwWM4azFbPANkNGj74UUCZiABEXgRla9Wd-yC7xjywSTg8acskwvrU8MnHzct_9XKzIv_g3uCGxv1TTJNbznsg5kw9n0WoC3anY3xtNAaHZPhA56JLMM-MhG9aAr7KPzUEkZC8Pv4SvBGrqhbeh5LUwOqc6kTHglNJkesbN1knTD6sJdGPNfehqZUEuVFEkce3Z54aDOx9wHXXePY290ZP9-g6QR0PGlhQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/sJbdrwMOQA"&gt;
 Creating overlays on a map in a SwiftUI app in iOS 26 - Create with Swift&lt;/a&gt;&lt;br&gt;Learn how to overlay shapes on top of maps using MapKit in a modern iOS application.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
