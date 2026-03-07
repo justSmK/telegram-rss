@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T05:39:06+00:00</updated>
+  <updated>2026-03-07T06:46:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Zettelkasten Productivity: Books Written per Books Ingested https://t.co/1SqcLHIO1h</title>
+    <published>2026-03-07T06:32:27+00:00</published>
+    <updated>2026-03-07T06:32:27+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26107</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26107"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Zettelkasten Productivity: Books Written per Books Ingested &lt;a href="https://t.co/1SqcLHIO1h" target="_blank" rel="noopener"&gt;https://t.co/1SqcLHIO1h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1SqcLHIO1h"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1SqcLHIO1h"&gt;
+Zettelkasten Productivity: Books Written per Books Ingested - Christian Tietze&lt;/a&gt;&lt;br&gt;Edmung Gröpl reframes writing productivity: it is not the mere output of books-per-person. Instead we should ask the question “how many books have grown out of what I’ve read”?&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : square/SquarePointOfSaleSDK-iOS https://t.co/KnhpbA50Hd</title>
     <published>2026-03-07T02:12:08+00:00</published>
@@ -242,17 +254,5 @@ iOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Vie
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.3.1 (23D8133) &lt;a href="https://t.co/QoqcXU43um" target="_blank" rel="noopener"&gt;https://t.co/QoqcXU43um&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/QoqcXU43um"&gt;&lt;img src="https://cdn4.telesco.pe/file/OMEpJZIddLtMvuQcJ2SvXwbgzPiFMH9tFMMN_NlMnLtpblupmcsjrrWN54kz5j_guNkDynWkynWtRFi_25wL8mwsj6iUHe9Q0fWR-tBoEb0k8bGEj9bOqLIE070QV4_vOpMIrbMlyYrGr3nHx6TTB4fKknyfJ2GUyDovyKo8j24iRmRj2prJXggYgMYPS4tgPPL1z3GDPsaswMzS7kAli9LceVPFqMqgIt4tmf7b7B_qXm2bRlsYoYWNY7ZStGeOKt55xigH23P-59AesTgV_hC9K0BsfP6j8thBi1NfIeK577jrIOcYP6BwebI84wTzljpbYq6U-IkgH4ReYHg1Zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/QoqcXU43um"&gt;
 iPadOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">macOS 26.3.1 (25D2128) https://t.co/tddWMJfrTg</title>
-    <published>2026-03-04T21:42:21+00:00</published>
-    <updated>2026-03-04T21:42:21+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26087</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26087"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3.1 (25D2128) &lt;a href="https://t.co/tddWMJfrTg" target="_blank" rel="noopener"&gt;https://t.co/tddWMJfrTg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tddWMJfrTg"&gt;&lt;img src="https://cdn4.telesco.pe/file/pt7Q0v8Pa3U7aQLAwM8GlEooqtAPtzq3v5wLMU7fEgkI-HxObnCIfTlRtx5PTnzR3ZnfrUDRWfE8p1m-MWEUAJ3hZPbnv25ZtpF4yg0gsuyN2AKIZg4Q4q2qNLLWBOGp0oaKDfZuduGalktgK9Z7eA3kLbqyeqRwqEOEtwkAfZd54u8VSsaeLchUga2RTBViN3ubFKt5HLkaRsNK-mDOoJzaJyORL4bXTE8XuODjtvhpy8yOq567wmLU5LXG7dNx8CaKusoIo8jx0iWiTbkWyxxkdHnRL65dghObjq_lfq-LUtFxP0N-GESL1XLLzPu2hUA1Q1hQ50u-gG0UOMzmGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tddWMJfrTg"&gt;
-macOS 26.3.1 (25D2128) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
