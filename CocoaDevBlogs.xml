@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T06:46:22+00:00</updated>
+  <updated>2026-03-07T07:31:06+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -127,7 +127,7 @@ Creating overlays on a map in a SwiftUI app in iOS 26 - Create with Swift&lt;/a&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to map an optional Binding to a Boolean value, and why you might not want to do so &lt;a href="https://t.co/VsNmbmWAf8" target="_blank" rel="noopener"&gt;https://t.co/VsNmbmWAf8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VsNmbmWAf8"&gt;&lt;img src="https://cdn4.telesco.pe/file/UiUzaUukRJbq7QiaWVUiEg1w_TVP1-FVZaNXywRHAeG8LD247XPTUdyIofDDiQKPep9rCs6e144FIcA9BsJU2sCZZp2Iho-kHLjmUjcmVOi7H6FqmVKa5Fl30sJ8725mFUG484NSx-Ylb22Qu9nCSb2rfgObp35rnbLh_7FDIisf9dnT8vCn4lN_M-JcHFr2ZNDg4dc0EQ11pktY5MIrmLkBZpXPclcYkcIFBaWLOyVA22pxBVeaLoLwhJQlpYynrgA8nHWx-kNEb3ojo95VKdGE4u2mg8JysB8cPzJ7JfJC3IqYPS1rAjZGYNA9Af7zEMRCCz02QbLoZG-VDdmRag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VsNmbmWAf8"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to map an optional Binding to a Boolean value, and why you might not want to do so &lt;a href="https://t.co/VsNmbmWAf8" target="_blank" rel="noopener"&gt;https://t.co/VsNmbmWAf8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/VsNmbmWAf8"&gt;&lt;img src="https://cdn4.telesco.pe/file/cE02BIm7bMTt2FoLxSHGcp-BL2OUJZzVB0CCCfS6ouoiL7UX31URDjkejZpAszJfv8limL-FxHx7bYmYWSfjPPsGSYX2zF5YuNyceHVheKZJnpMKro5rbOcNn2nw4w3xE-uYij2fP5JXN0J7d3QTF_hMLNtjDXcEICss5ClPzDl0MV1in_3j61zaxexmCf5drpn9gcECIXWiFZdCnPWXtfNzJkffNnM6HmlB_76B1Rn3-IJ04yPDTaMgFvPsK2x8jcDcC6DjpNkx3Vj2GalLDrH6Js8CXIXhMf2ZhtOCTGLm5n0WWT8yPitTWlLMjU_OS1vp_Tkswnutelf-_ovELg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/VsNmbmWAf8"&gt;
 How to map an optional Binding to a Boolean value, and why you might not want to do so → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;We can create an extension to the optional Binding, which will accept nil as false.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
