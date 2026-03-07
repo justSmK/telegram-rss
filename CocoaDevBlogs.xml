@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T20:29:20+00:00</updated>
+  <updated>2026-03-07T21:24:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Introducing SimRecorderX 🎉 #apple #xcode https://t.co/TOI7CnVw4P</title>
+    <published>2026-03-07T21:12:38+00:00</published>
+    <updated>2026-03-07T21:12:38+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26109</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26109"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Introducing SimRecorderX &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"&gt;&lt;b&gt;🎉&lt;/b&gt;&lt;/i&gt; &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23xcode"&gt;#xcode&lt;/a&gt; &lt;a href="https://t.co/TOI7CnVw4P" target="_blank" rel="noopener"&gt;https://t.co/TOI7CnVw4P&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/TOI7CnVw4P"&gt;&lt;img src="https://cdn4.telesco.pe/file/INPLAvjCUGKG5q2Fzy7DEWaQlmUa7IyCz7UWkpCXPjkyrVNdkiaCSMMZDHiPOM9PiwKxmlt6228M-qemdEl0ref-BOgg6Oss-jgo7MBzjT1I4eicza7KUX0Q3c8IyUrJOZZkX8_cH9L5uSRKVeZ3Wnm4jjtHeF38WTpKAajpKNsUblGfSnBXA6UZ7tz-lDls5IyjHm_HCx2kuJZILjF48a9TSNjzY3lIeCMcmmIZ0GuxwC7QHH_LqSgjuCOoqfzac_99Kd2S72EtsCQ-L0rX5YxbVT1CN0HcujkszH4fv-vG9f8UBgM1Ytbbfe_XqmDMKP4xDg3t_76mUdTIADMo6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/TOI7CnVw4P"&gt;
+Introducing SimRecorderX 🎉 #apple #xcode - YouTube&lt;/a&gt;&lt;br&gt;Introducing SimRecorderX 🎉A simple way to record Xcode Simulators using ScreenCaptureKit. Record, trim, add backgrounds, and export with ease&amp;#33;For More👇appl...&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Swift Rocks : How my software engineering workflow has changed in the past year...</title>
     <published>2026-03-07T16:52:38+00:00</published>
@@ -242,17 +254,5 @@ GitHub - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tuist/tuist &lt;a href="https://t.co/Uu2v4OW6w4" target="_blank" rel="noopener"&gt;https://t.co/Uu2v4OW6w4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;&lt;img src="https://cdn4.telesco.pe/file/fN4peexQxuaaOHIsyPypDhbAi0bH5VkyxVuYF2BsOrwqhWsq0rWOLHZ0qqaU0HzskNLrysA_zRsE4pSVIDUYZrr4k53Y6xBloTgOv7TWx_U2SzG0USc3P_Rfi6aANYFBG4PQEWdtf4VNtWT0xGRwsqD9p0_PE3ZIMx4RZ1dKzsahgClyorPRVU3B9SWgOaeWkalxHS6KNqYYtfhQZiQ-5mVRbtuN7NeYTpI4NPGnnWRPZdg25NTub_4xlMS5y-PSZAyjRpt2V-VzCRoXpSHY-qzl0_qx41CdDwytRqWor8Yf7NaY-5iz-fcV98R9AQGXqdcBpde9-RlaJWonhcB__Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;
 GitHub - tuist/tuist: A virtual platform team for mobile devs who ship - GitHub&lt;/a&gt;&lt;br&gt;A virtual platform team for mobile devs who ship . Contribute to tuist/tuist development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 26.3.1 (23D8133) https://t.co/amxI5A12PG</title>
-    <published>2026-03-04T21:42:22+00:00</published>
-    <updated>2026-03-04T21:42:22+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26089</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26089"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.3.1 (23D8133) &lt;a href="https://t.co/amxI5A12PG" target="_blank" rel="noopener"&gt;https://t.co/amxI5A12PG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/amxI5A12PG"&gt;&lt;img src="https://cdn4.telesco.pe/file/PxzeqUHu2VE25Bss3hSH8Yn2WGYaWUTCkrbylKKCzQjaVXmd7wAWPv81IvVuPG_Je2gst3f1GvgCJsnWxMmoJEoYJQgpZpxxoHvq619B5xvxzv2Zn8ru9vHU3agDSrtXlFMBV1JRFuMxZfWyKztlrefr96ox7w16u2NHZQo8Gv6POgnr3SbpETuo4WA1Az6tCL-h99AFx0eQ1jHUELoUZLuKZmklP8n9l4xd1cpI2N3qeZ0nSAJMVU7TWn43n97hT39IzOo19202plvg84tva6j241-7LgwIGFamCzw4rawA_7VAGTv2qLOvuctP_h164EPKXGn5-qOsgD1JduuLwQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/amxI5A12PG"&gt;
-iOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
