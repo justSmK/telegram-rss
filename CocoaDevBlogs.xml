@@ -6,10 +6,58 @@
   <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-06T23:30:19+00:00</updated>
+  <updated>2026-03-07T02:09:54+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : wzh4869/AppPorts https://t.co/RmLhVpfJnJ</title>
+    <published>2026-03-07T02:07:37+00:00</published>
+    <updated>2026-03-07T02:07:37+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26105</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26105"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : wzh4869/AppPorts &lt;a href="https://t.co/RmLhVpfJnJ" target="_blank" rel="noopener"&gt;https://t.co/RmLhVpfJnJ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/RmLhVpfJnJ"&gt;&lt;img src="//telegram.org/img/emoji/40/F09F93A6.png"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/RmLhVpfJnJ"&gt;
+GitHub - wzh4869/AppPorts: 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款… - GitHub&lt;/a&gt;&lt;br&gt;📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】 - wzh4869/AppPorts&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : dwarvesf/hidden https://t.co/4ESVwFfAgh</title>
+    <published>2026-03-07T02:07:36+00:00</published>
+    <updated>2026-03-07T02:07:36+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26104</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26104"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : dwarvesf/hidden &lt;a href="https://t.co/4ESVwFfAgh" target="_blank" rel="noopener"&gt;https://t.co/4ESVwFfAgh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/4ESVwFfAgh"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZmnbuVZDIIpR9-3kbjypXcrF0_uGcu0uQhqZ4T1bPSw77C4DhNUyIO_lgw9iBok-nE6Jnbyjov6FzNc6ChENdwRl8CvLiq_ij0JaQbnvToHk4TbfhlFgW8J2hjkY6lUZ_QFYu9lCA1CfejuIi4SPQW1VXmGbvAhvm7QTjbkPZTDyIvuuyE7zKPy3NfVBI4h119grm2iEP_8YLx-4Qg3tW4w_ToOCx8lP_cAF3gWe-3OfHQ1kARTk9fkaogBtPSwsjQmHvlGhYv9gIZXxc4hSiKq7jEg-Sn3kpuj_jY_L2qHZFP9ipGPkFQ4S66LwA1nvpjrboCCWSUUXE0dfAZLgHw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/4ESVwFfAgh"&gt;
+GitHub - dwarvesf/hidden: An ultra-light MacOS utility that helps hide menu bar icons - GitHub&lt;/a&gt;&lt;br&gt;An ultra-light MacOS utility that helps hide menu bar icons - dwarvesf/hidden&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : BarutSRB/OmniWM https://t.co/2turp7KvKI</title>
+    <published>2026-03-07T02:07:36+00:00</published>
+    <updated>2026-03-07T02:07:36+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26103</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26103"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : BarutSRB/OmniWM &lt;a href="https://t.co/2turp7KvKI" target="_blank" rel="noopener"&gt;https://t.co/2turp7KvKI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2turp7KvKI"&gt;&lt;img src="https://cdn4.telesco.pe/file/PcIA-lrxyTxFZeLlVEf8BWqfg3M6Cx9E1hDMIYsBY490D8Ga9jMBur0ndkrkWAfi0czBH467Ta38ytf-cEPzZlVZ0pAnKRx36x9HixgR5COlePcVXfJcPMAKY-O_Sq8uGe74p5pIbQ4FWX7aJwBKP5hugvUaFvva0e94sy8mlxGnLZqZUUi_9qulo-smPSBt_23LwQW4bOF8IzesE_UYgwoYG1Bx6FNFTTEDxvS0XCGZhrTj6aSpbjoOwiLjRozYWmuQvXed0TJdohLZge9SWr13DNZpHx5VdpyZoLS27SaP40TtrfU9i3mNfHZDSfR1mTdGiqLC6MC1brj2KCTjwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2turp7KvKI"&gt;
+GitHub - BarutSRB/OmniWM: MacOS Niri and Hyprland inspired tiling window manager that&amp;#39;s developer signed and notorized (safe for… - GitHub&lt;/a&gt;&lt;br&gt;MacOS Niri and Hyprland inspired tiling window manager that&amp;#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. - BarutSRB/OmniWM&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : seemoo-lab/openhaystack https://t.co/fkrIDFqBXy</title>
+    <published>2026-03-07T02:07:35+00:00</published>
+    <updated>2026-03-07T02:07:35+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26102</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26102"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : seemoo-lab/openhaystack &lt;a href="https://t.co/fkrIDFqBXy" target="_blank" rel="noopener"&gt;https://t.co/fkrIDFqBXy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fkrIDFqBXy"&gt;&lt;img src="https://cdn4.telesco.pe/file/PTpxjNfssvfe6ihc9bhXldvXBGvtGEtzEn8x2uBhRy7_-OCNy6hUnEBqtjL6xFGtgn7chxoaoRqlsWBG3m_GSxE_xN6fzTKoTreT-N9rfS6NAnAKMJXoWsxzG5SR_ggjnibBW7JDjO7auXOh2VwRZLIVuUW8ylXcxDhlikc3aHmxTcFplQrk9C9TvpXyHIFedIvxldV8qUQi_bbOxOaO4YH2CiI2dk60_RfxSegBElZ75M6LCXcRtboChZrNyQ6E5As12bS0j1YB48MuqZ9sYelm94M_NrawFE_15f_4UBDMpNNehKmGPRULbPIwSLjQPXpAoHtqXtIQp67HFhpdww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fkrIDFqBXy"&gt;
+GitHub - seemoo-lab/openhaystack: Build your own &amp;#39;AirTags&amp;#39; 🏷 today&amp;#33; Framework for tracking personal Bluetooth devices via Apple&amp;#39;s… - GitHub&lt;/a&gt;&lt;br&gt;Build your own &amp;#39;AirTags&amp;#39; 🏷 today&amp;#33; Framework for tracking personal Bluetooth devices via Apple&amp;#39;s massive Find My network. - seemoo-lab/openhaystack&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service https://t.co/XIwgaGrBVy</title>
     <published>2026-03-06T19:37:26+00:00</published>
@@ -67,7 +115,7 @@ How to map an optional Binding to a Boolean value, and why you might not want to
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nguyenphutrong/quotio &lt;a href="https://t.co/p6MkYSgTDX" target="_blank" rel="noopener"&gt;https://t.co/p6MkYSgTDX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p6MkYSgTDX"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zm6GQztXpImEwo4vnnzIrzyyA3_OiLBEkN2i4vrHmCqYURCRxSnkkAT8CvBN11Eqb-WYk8-ADZVUO8b1qWCzUGsVoAsbGgkhtNplDXjMNaTx-YpNyMzH2dIO3satGlbGHs8tpsdxzE5BfuOto0b_x06vOfvXsfxC5f4nX77Xenv9AEBfnxIFM7yOE0khncdyI6_ffm-o801YzLQ0nqmGleMyzq02jLQ-kyMwhf4pDMkonVemyE7udrWJ5FjGElH1hjqnOTmqxNmpJBrk8N_wS1ly0PAM01BojCc-A7CeSTuCwJZkGeWYNBdyrwkEqfH0nJLBwfmW9i9DIjDOuIvHFA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p6MkYSgTDX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : nguyenphutrong/quotio &lt;a href="https://t.co/p6MkYSgTDX" target="_blank" rel="noopener"&gt;https://t.co/p6MkYSgTDX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/p6MkYSgTDX"&gt;&lt;img src="https://cdn4.telesco.pe/file/GQ38HlA5ZKc1ep10_4CFEM575t4cV5vwGRjh07WCnMIExt8cDCKPe7K02x3aG-6SQFerIxM88yNkSHHs8QoOw6GifPO1BR2X5amWALXJ3Uvn-5jHFzGTniJ7VO_8RU5CtQeIghEQchZrxc0EQEfYu6UQbunypoYo6h1_nHIDqmYw4BY8_5itEKs6UJzvLy_xdpHcMkSTlaDEY-81lWCRVgYOhPItwwKm4EPKh7a445w2TGtmKuc_m-fJBRaMHquFGyaK7DBZv8TpfS9Y2Q9WPF9xUqOYCNL8V8RmDWNAahxqLC-QSYqSfCtcHxa7aB7LPHPcVuv4BlWOLJLOfbF09g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/p6MkYSgTDX"&gt;
 GitHub - nguyenphutrong/quotio: Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude… - GitHub&lt;/a&gt;&lt;br&gt;Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart au...&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -79,7 +127,7 @@ GitHub - nguyenphutrong/quotio: Stop juggling AI accounts. Quotio is a beautiful
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/rxqSCmRMs_DXqtp5vOnEwKJ82g-P3N-Y-RGDfp0hgvdkh50PVd9RCDbsdcv1u3pRCW1wyKIZEL0o1ZAyStt8-BaY00QbdwuR3IMcWDDidlDO0_wOnQW8yVx7du3Rg6z6uHY6T4W4AKLBcBhhgHi2uUWjBZylzI3KKDC2zLdogxzL8GFrViWPwvG3aUIploR8HuSxDrcWuAIgHO3_7qGf0Eu_iS7QtJfmnizwzO8jmTT6LXNSumnqEWCpRMaXbat70n_fTMKv3uP1TfYh15Z9LXchOfS0oJW7xlerWYHispAyoPne1ky1J_uMNUnnPl6w8CQvjVER9sBUY7alLrRBZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : apple/swift-nio &lt;a href="https://t.co/F5q32gy4no" target="_blank" rel="noopener"&gt;https://t.co/F5q32gy4no&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;&lt;img src="https://cdn4.telesco.pe/file/HtBzs-vUhLmFGA-CGX1uQiMpOihMH7X96scN4elsgmoMJnlzB0nt2sO1se1hSvfjbEh3DKSBdr8mAIgkHkn9CoU03rnX9Xs2tAmkwpFl2EiS_AgTovdcgxmrZMy8tYAwMkzEkRBNdCapZn_lsHFQIYH9qXDSEyq6Ktoy-s46_kUpx3mcia4JtAnFUbKrVps1rpH4_1kHb_Qai48pgrLTxI5Dd44MvP7BGqCUWsjbNhNDUJfkR4XuGWhZOtKbWlPf5ozTO5WzZfneG6j3yRwKkVXfFbq38FJwAEC8NtTlrRAHpCeDTHD-HfiXlSeGbPXJ1kOqrh5z8i2_1_tvliVHEw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/F5q32gy4no"&gt;
 GitHub - apple/swift-nio: Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - GitHub&lt;/a&gt;&lt;br&gt;Event-driven network application framework for high performance protocol servers &amp;amp; clients, non-blocking. - apple/swift-nio&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -144,7 +192,7 @@ Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : facebook/facebook-ios-sdk &lt;a href="https://t.co/JZ18MeFFhC" target="_blank" rel="noopener"&gt;https://t.co/JZ18MeFFhC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;&lt;img src="https://cdn4.telesco.pe/file/CAv4eE2ar413PsdIrO56fIlJDp4lJfpT6DYR8yLk5hL8ve_i-mMzdNcyzlSikJ4D2GG7OBjAQXGHwrSSinPVXs_yHisBjJd4rp5q9L8bcmpOQaoYzb1x_tR1L9hNnRfarRgpWgB4cUt0T58bO6HgKCjUt96346l9RDqwRpgFGwqkmOV-R_1sygM6nDaPOfF9VWOK3bNdnLRAw_UBnKEK_LCoiLpC_cBZpVibLlEGIVGIyN7IDftOziFKS0oG0Xln-199KGUWbKg_APaQpOwXQuMg_g4zfvYc6xI7mhCaZZNX2VpaZAUyQrhKQQRDRhODd4Kr4RhN0lj4CW26d7Jdig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : facebook/facebook-ios-sdk &lt;a href="https://t.co/JZ18MeFFhC" target="_blank" rel="noopener"&gt;https://t.co/JZ18MeFFhC&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;&lt;img src="https://cdn4.telesco.pe/file/OloDt-g3Nk-A6WJL9QnGDnz3TWq97-wnZT2NIPUoMcodlRQNZIkPiQDMsTPcRjFDHW-rXmeOC9XJOx76_sdMYCwn4l5fR0fAJgFyKE70BnnyyRPoeE0lMpoYbcp_hd6Z8z18r76GFakvCHGB-HBxmkSGx27iEKYJ1rX92HbxoPQsKy0k6fm4GGmavGrqBlVr1Pb1JSaZgZd33Fh5ue0CV8gp3iWzEegegvGuOa5uu97hHqrv05dFPGpYh5WwAzSKGC-a90mB7vENqWf5thPuy1LdiYHaU_sDiPgLiUqxY88qvQuUXPb635Cz1csD-T5WX1I-vTnO7VQ_6jQ5KMnZFQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JZ18MeFFhC"&gt;
 GitHub - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with your iOS &amp;amp; tvOS apps. - GitHub&lt;/a&gt;&lt;br&gt;Used to integrate the Facebook Platform with your iOS &amp;amp; tvOS apps. - facebook/facebook-ios-sdk&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -156,7 +204,7 @@ GitHub - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tuist/tuist &lt;a href="https://t.co/Uu2v4OW6w4" target="_blank" rel="noopener"&gt;https://t.co/Uu2v4OW6w4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;&lt;img src="https://cdn4.telesco.pe/file/Me_Ug9Ivl3cRRO_rEND3ObiEUOBQ2-ennNFGqhVRS0k4kCLIgXzULTd9SFxJ8telQRaAOp3Nno8VsrZrjmHjJKf_ClsHmF326oEvV1LnoNdg1YY0YoFuIDUUYdgislixVrRKUn9_nAjmlWwNzKUPUAjDlOQ9z97qVWwJb5LZ6cjnkQeYXd0jldHOllQjSWcScWmsS9spDj8HqTi1lJZHZKFUR_voLGCNPopJBXu025A0fMO2ngdfv0_8gUKo0S1x3ZMhPdkLy9NBbnNEs2A_vJ9qDLtKySbAD5ZQE5-j0Fa_xfXNuJdtbVhyfocrA4HuHLKvNKe2JgqQfTN8DrNVOA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tuist/tuist &lt;a href="https://t.co/Uu2v4OW6w4" target="_blank" rel="noopener"&gt;https://t.co/Uu2v4OW6w4&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;&lt;img src="https://cdn4.telesco.pe/file/fN4peexQxuaaOHIsyPypDhbAi0bH5VkyxVuYF2BsOrwqhWsq0rWOLHZ0qqaU0HzskNLrysA_zRsE4pSVIDUYZrr4k53Y6xBloTgOv7TWx_U2SzG0USc3P_Rfi6aANYFBG4PQEWdtf4VNtWT0xGRwsqD9p0_PE3ZIMx4RZ1dKzsahgClyorPRVU3B9SWgOaeWkalxHS6KNqYYtfhQZiQ-5mVRbtuN7NeYTpI4NPGnnWRPZdg25NTub_4xlMS5y-PSZAyjRpt2V-VzCRoXpSHY-qzl0_qx41CdDwytRqWor8Yf7NaY-5iz-fcV98R9AQGXqdcBpde9-RlaJWonhcB__Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Uu2v4OW6w4"&gt;
 GitHub - tuist/tuist: A virtual platform team for mobile devs who ship - GitHub&lt;/a&gt;&lt;br&gt;A virtual platform team for mobile devs who ship . Contribute to tuist/tuist development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -206,54 +254,5 @@ macOS 26.3.1 (25D2128) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;V
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 18.7.6 (22H320) &lt;a href="https://t.co/vGHEfj95LV" target="_blank" rel="noopener"&gt;https://t.co/vGHEfj95LV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vGHEfj95LV"&gt;&lt;img src="https://cdn4.telesco.pe/file/dYxPZ3cyhlmL0haxriF1tX85LMiyNiwumWYSHNa8k573g8RRbjdGH_heelSOJhgr5MMmsNaUc5tX0xqONutpJGEskVYQj2F8kGWvBN-wgx_q4hBVSHlVjEbW6dKCM3WcHj5W6xh_HfxP7xwjVoUQTSBeKyWPoWRh3p1y5QrSy5J48nh47OlFng7yexaCnWZME74CX20B6Uy-MGI1ZSW1G5mvn1Wo1sD0SJ8NpnBJil7OZmMl5YiIxwa5oVCSYP7Ixfd9IWn8tEmCDVAm9FW9IrSjqIqAi4RwYLT4fTw8tXGf2fMuedx4vrBhVtJPQtpcLdXNGpcBCUYvnMKHWUZTtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vGHEfj95LV"&gt;
 iOS 18.7.6 (22H320) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">This one liner to add beautiful transition between UICollectionViews https://t.co/1JMasVOENN</title>
-    <published>2026-03-04T21:27:28+00:00</published>
-    <updated>2026-03-04T21:27:28+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26085</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26085"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;This one liner to add beautiful transition between UICollectionViews &lt;a href="https://t.co/1JMasVOENN" target="_blank" rel="noopener"&gt;https://t.co/1JMasVOENN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/1JMasVOENN"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/1JMasVOENN"&gt;
-This one liner to add beautiful transition between UICollectionViews - Whacky Labs&lt;/a&gt;&lt;br&gt;UIKit comes with a bag full of techniques to build mind blowing animations and transitions but this one liner has to my favorite.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26...</title>
-    <published>2026-03-04T19:22:40+00:00</published>
-    <updated>2026-03-04T19:22:40+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26084</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26084"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26 &lt;a href="https://t.co/DSb0msQwaP" target="_blank" rel="noopener"&gt;https://t.co/DSb0msQwaP&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;&lt;img src="https://cdn4.telesco.pe/file/eO8X9fVId4GCP5zegjiP6mx_2oBLnxmfZI38CNT_JwgnIScD9t1Tq2nDcaLv1mpRbLu0h8pE0R10UCQ-S9ejUsrsRtiMpV7x-UluEDAMgXMKastWDSyFlB4UO9d6IhFaDPLcrxY_40mSzsJ02T-H-VCqSC_DRoK5JvZipIsDpHqYIyMLGqkjUIJXUl42H50Vg53t7i8b3eOQJCuZ3d50XHjBFDH1Zne8QdA39cCAIDAQHvgXiyrymKZdRdrE-by83rfxIUN9Wy16ihHlXus5cychLHVurehEC8xYmJ6P4aXv-YzPldCxI3aji2bB45PK0Nr8cJa1hYVX_ZtR1kVaPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DSb0msQwaP"&gt;
-iOS Photos App Style Transitions Using SwiftUI | Hero Transitions | Complex UI | Xcode 26 - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll demonstrate how to recreate the iOS Photos App Style Hero Transition Effect using SwiftUI | SwiftUI Hero Transitions | SwiftUI FullScreenCover Hero Effect | SwiftUI Scroll Synced Hero Transitions | SwiftUI Photos App Hero…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Getting Started with iOS App Observability [FREE] https://t.co/L7Mbdt011A</title>
-    <published>2026-03-04T19:07:13+00:00</published>
-    <updated>2026-03-04T19:07:13+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26083</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26083"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Getting Started with iOS App Observability [FREE] &lt;a href="https://t.co/L7Mbdt011A" target="_blank" rel="noopener"&gt;https://t.co/L7Mbdt011A&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;&lt;img src="https://cdn4.telesco.pe/file/HR6lzH2zcfx-q_Hq2OVD4GBTa1-7oHNI62jVXj1DK8sguLCCHygXyph7LyUwEJrFAz3sFWIfbIIoOd1NrkKpn7l-SteqYQ2e4mXQEP2DmW7X_-VchmU_oW-JWWfmCwOHmPPFUi4R7pSSBA7IZKLb3xORS5VuHBBQaA6Irg9bMatTEktLy6n5DOraH9r3wPOTl4HZCQbhCBUpKGMJ4JD8iw7Zxh06A9e1t4cFHb98LUo868QmqH2TwAhCnDqdjZdt3TigKy-kAniNZk6rg7MmNAeO6qJwK_UR6ZDPunj91BbSMKjGEaPYo8TF2lR8YfLWF96FhMPnBhsT-GTw0JkRMQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/L7Mbdt011A"&gt;
-Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready to add AI to your iOS apps without privacy concerns or cloud dependencies? Apple Foundation Models brings powerful on-device language models to iOS 18+. This tutorial shows you how to build AI-powered apps with structured data generation, covering basic…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Hello Developer: March 2026 https://t.co/Y7G55H1zmW</title>
-    <published>2026-03-04T18:37:26+00:00</published>
-    <updated>2026-03-04T18:37:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26082</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26082"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Hello Developer: March 2026 &lt;a href="https://t.co/Y7G55H1zmW" target="_blank" rel="noopener"&gt;https://t.co/Y7G55H1zmW&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ap_Nwr2Jf_iEbBc7SNgxGEKnAnjCN8B2Qqszm6C18bDYEQwNNRUZx6rirP445WXaMNtNg71i58FZf0urMQo8LcgLFQ8LIntV5tMnwkgwIlFFA3QZUCZtfAtFYch-mviTEl2nCN9HAuWd06bNd_lJ8gUWD78s-ZQhoLYV1KJQJBpIIGEpZ6ZP3NstRh0IUKrtwiPze7J3NUetSf3efivqHo1Z9nHVxQrKLEbj1STAXHRcIvrWax_9U_2-okStTe-n116-5esCzv7p7rak-0uMxZxjyZkzFRJ-kAZkih-7MotUzRYhY33u1Lm5eH2gqb84PiBVkzOPe47GkdKTBBRilA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Y7G55H1zmW"&gt;
-Hello Developer: March 2026 - Discover - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;In this edition: Join Apple at GDC, get tips on privacy and security, dive deep on coding intelligence in Xcode 26, and learn how the Speechify team is going all in on AI.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
