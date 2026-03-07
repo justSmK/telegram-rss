@@ -3,13 +3,25 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/XXuScoWG7ib5t1XUFe0Cmee5ycPEQ7zZpDa4Giuq_tL1wEGTn5TGRoPZ7Ojhmzw4oDdVPUQFk08kuXBqntiUgtPQTT5T2byiZbGFx9LSiTvqF769o-1h_DdPjRiO6QLW4tDEz9hAqTqGsqOPuPEY9n3WERDSG4yDZ9A96iR843wrY_k23BCcb8paMZ0jXeg296ZD0_bej-2zGVQVAaJbP6XIArrTuFSAUH46x5NLvuP_FvH9qE9CH7y7yZXSgqqa9LoG-pWiLpA3G6byWfLgYxOvgLbott1AQKpPvF4REhx92sx4Bz3llDmgw1TGP5S4tH2Ud81sJyDNLaApr5DpeA.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/q2MAmQ72ArgRNJPwHiEY0hO9iPEnYVCgxWSnj6txzGjJgF2qBZ0LX9fgYpCu3P1Eu9uIypVp3uc7mcWmej1QSJIuyc3HMXNDLVZ7094QG2AYCH6uCvuSsfjhncNhJjYkEUwwfOd_c3CGMOYl71rujT-Xctz36jzViEoLeiNZljtrf7XLMdbKIQyZaghE82poDCIIjsQqxzQSjw34CECuIX1J8IGTt9iBhSGf1k4FQnpXe-Ik2ujITw5-SdBc6y2TgUHYKylakbeFVj0q0OiK9ECb1A33hdSZlgoULmuUCtns4y7D6urHeZxKBpyCwdBCqXI8HQwvwUpt_l8L-ounvA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-07T02:09:54+00:00</updated>
+  <updated>2026-03-07T04:23:10+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : square/SquarePointOfSaleSDK-iOS https://t.co/KnhpbA50Hd</title>
+    <published>2026-03-07T02:12:08+00:00</published>
+    <updated>2026-03-07T02:12:08+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26106</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26106"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : square/SquarePointOfSaleSDK-iOS &lt;a href="https://t.co/KnhpbA50Hd" target="_blank" rel="noopener"&gt;https://t.co/KnhpbA50Hd&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/KnhpbA50Hd"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZUYqstT791pyEyLRfcN_76xnwGlSRkyLbJCCUd4n6443mbc0RXhSa_V478gKJKnLRVK2th_xP7H0lcyLFEEZUfwbMfjBKOG1L1NerdAxmE6zrVLVhCn6GVbfsrMxM4vuoNsdgrCY9wtEH6Juv7nSNByurP_jlbV91Czoja2-r5co2UgXF9AhWRu6SRPpWjS8EfsXPIhPVqHrD-QuhHirhPzmd4-Lyg7gEIGS4D5lNxykVVrq_Hyq6XCUXul_cuW85uCKhiJTL8I4sgeSmr0-TOth26GsBXAkCxaJfA3xydEdW_s6tWYsGUF3x63-RH0-zLnPRF_4P5lKVEmK5hy_vg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/KnhpbA50Hd"&gt;
+GitHub - square/SquarePointOfSaleSDK-iOS: A simple library for letting Point of Sale take in-store payments for your app using… - GitHub&lt;/a&gt;&lt;br&gt;A simple library for letting Point of Sale take in-store payments for your app using the Point of Sale API. - square/SquarePointOfSaleSDK-iOS&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : wzh4869/AppPorts https://t.co/RmLhVpfJnJ</title>
     <published>2026-03-07T02:07:37+00:00</published>
@@ -242,17 +254,5 @@ iPadOS 26.3.1 (23D8133) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3.1 (25D2128) &lt;a href="https://t.co/tddWMJfrTg" target="_blank" rel="noopener"&gt;https://t.co/tddWMJfrTg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/tddWMJfrTg"&gt;&lt;img src="https://cdn4.telesco.pe/file/pt7Q0v8Pa3U7aQLAwM8GlEooqtAPtzq3v5wLMU7fEgkI-HxObnCIfTlRtx5PTnzR3ZnfrUDRWfE8p1m-MWEUAJ3hZPbnv25ZtpF4yg0gsuyN2AKIZg4Q4q2qNLLWBOGp0oaKDfZuduGalktgK9Z7eA3kLbqyeqRwqEOEtwkAfZd54u8VSsaeLchUga2RTBViN3ubFKt5HLkaRsNK-mDOoJzaJyORL4bXTE8XuODjtvhpy8yOq567wmLU5LXG7dNx8CaKusoIo8jx0iWiTbkWyxxkdHnRL65dghObjq_lfq-LUtFxP0N-GESL1XLLzPu2hUA1Q1hQ50u-gG0UOMzmGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/tddWMJfrTg"&gt;
 macOS 26.3.1 (25D2128) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 18.7.6 (22H320) https://t.co/vGHEfj95LV</title>
-    <published>2026-03-04T21:42:20+00:00</published>
-    <updated>2026-03-04T21:42:20+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26086</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26086"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 18.7.6 (22H320) &lt;a href="https://t.co/vGHEfj95LV" target="_blank" rel="noopener"&gt;https://t.co/vGHEfj95LV&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/vGHEfj95LV"&gt;&lt;img src="https://cdn4.telesco.pe/file/dYxPZ3cyhlmL0haxriF1tX85LMiyNiwumWYSHNa8k573g8RRbjdGH_heelSOJhgr5MMmsNaUc5tX0xqONutpJGEskVYQj2F8kGWvBN-wgx_q4hBVSHlVjEbW6dKCM3WcHj5W6xh_HfxP7xwjVoUQTSBeKyWPoWRh3p1y5QrSy5J48nh47OlFng7yexaCnWZME74CX20B6Uy-MGI1ZSW1G5mvn1Wo1sD0SJ8NpnBJil7OZmMl5YiIxwa5oVCSYP7Ixfd9IWn8tEmCDVAm9FW9IrSjqIqAi4RwYLT4fTw8tXGf2fMuedx4vrBhVtJPQtpcLdXNGpcBCUYvnMKHWUZTtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/vGHEfj95LV"&gt;
-iOS 18.7.6 (22H320) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
   </entry>
 </feed>
