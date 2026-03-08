@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/nQ63BKNkgTURXIqHlCjeRxWqk50HM2k7NBm_DFQr6gMJ2SZF1TwxLGz0589Pv-57Y2zL2XMEjOVdQxiMXb4XyvIva2QwuVGIMSASRydPflNJJdohlwspiuBfeSV1UUZltW4vHvyy0sE5MKUv_q5psRKIDzSDe5kGvJsrehEtQ2b2rPI1FlafVcmAoiPVwZ6WWZGq8FTG1OUsTUATRU-DKL8yVubE0JBsmjtsXYgDBB3Iu9No0uXuZ9Mz42gsRfBX1aSPTW7LpgCwgvyrknfgPm7dsJDvmjfKPYI0hdk32tM33hxhAbDYCZ0Az0iz1Gp76GXa0tJJAGAJnB5iLaGaCg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/nQ63BKNkgTURXIqHlCjeRxWqk50HM2k7NBm_DFQr6gMJ2SZF1TwxLGz0589Pv-57Y2zL2XMEjOVdQxiMXb4XyvIva2QwuVGIMSASRydPflNJJdohlwspiuBfeSV1UUZltW4vHvyy0sE5MKUv_q5psRKIDzSDe5kGvJsrehEtQ2b2rPI1FlafVcmAoiPVwZ6WWZGq8FTG1OUsTUATRU-DKL8yVubE0JBsmjtsXYgDBB3Iu9No0uXuZ9Mz42gsRfBX1aSPTW7LpgCwgvyrknfgPm7dsJDvmjfKPYI0hdk32tM33hxhAbDYCZ0Az0iz1Gp76GXa0tJJAGAJnB5iLaGaCg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-08T06:49:33+00:00</updated>
+  <updated>2026-03-08T07:32:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Всех дам этого канала поздравляю с 8 марта&#13;
+&#13;
+Вас не...</title>
+    <published>2026-03-08T07:27:15+00:00</published>
+    <updated>2026-03-08T07:27:15+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3831</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3831"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3831"&gt;&lt;img src="https://cdn4.telesco.pe/file/QzYjXPuXJZUFZi5f5Z1yOcwBi9uvU1n5S1IAkj62p_HUWfrpmS7Yeh8m-uUDpYPEBCESamtwHQjexWMA73V_MpCQGtYHW_H_6xj-CabMuy2FN8eXncKUxdfIIh0mWZHGghWsiYw7iMnIB26BbWOYBZe91pRNDYXSTZJuEmVMVQJWCL7dM1kHQDTa55wh4WHmYvFchHSjBlpMNLAaZxslxOrj97zLta5sfdN1I-fl16aNAxaTAfHeyp75u3q4tvaNUFMrr728CN6QA1xJBrNtA0A2asXnktYR2ybCGsyAK8JQ1-ipegVYvG4ILUqZ90tkAnSaRtXv1ofRaqmrAhCIHA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех дам этого канала поздравляю с 8 марта&lt;br/&gt;&lt;br/&gt;Вас не заменит ни одна нейросеть&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Кстати, на следующей неделе записываю видос с iOS...</title>
     <published>2026-03-06T14:48:50+00:00</published>
@@ -130,16 +143,5 @@ How I Stopped Resisting AI and Started Teaching It - SwiftDifferently&lt;/a&gt;&
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://blog.jacobstechtavern.com/p/system-design-interview" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;iOS System Design interviews in 2026&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;По опросу Jacob’s Tech Tavern у многих в закрытом чате любимый блогер. Судя по линкедину он недавно поменял работу и много собесился.&lt;br/&gt;&lt;br/&gt;На основе опыта он сделал вывод &amp;quot;Самые жирные офферы всегда в компаниях с систем дизайном&amp;quot;. Я уже делал пол года назад огромную &lt;a href="https://habr.com/ru/articles/958940/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;статью про мобайл систем дизайн на хабре&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;По фидбэку, для многих в снг это все также непонятная и непопулярная тема. Где большинство путает ее с архитектурой и зубрежкой идеальных шаблонов.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;As iOS developers, it’s tempting to dive straight into SwiftUI vs UIKit, MVVM vs MV vs VIPER, and your favourite concurrency toolkit. That’s a dangerous game: the system design interview is far more about data flow and structure than UI or frameworks.&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Кстати, фанфакт. в выпуске с iOS разарбом из Убера в MAANG&amp;#39;ах на таких интервью любят спрашивать про BDUI и если ты умеешь с этим работать, то дадут доп. баллы.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://blog.jacobstechtavern.com/p/system-design-interview"&gt;&lt;img src="https://cdn4.telesco.pe/file/Qgf33GWbgVj4LT2GBprkXuMFu1xaRWbdNIxwjAuNCvVuJ91QsDS0nZhK9hUeuRWP2zrmW8koOprXmLJdjZh2msH0WAhXG3iaxlfj5WWruIzzCvwrg_et9N7qonYPabUze7qdtDAWC85pXW7rJIRUHn-dkRJ9KHbDH-yAgPTy9k36t9KafqkxacJ5BPvXhvu4v3D5c4xSVm914JHSyhAJPOYSQou6wUDw8wPJXRQtqcarGWXmVyZ-Dsm9yRJOXjAQtM5XYyp0VO-608-Fxdmy4pGMePnP316f5OdsLbdtsI3ZsZ0P-hGKBEuJ8mZxBWAIdw6YkxPLW1Uez_kL4rjupg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://blog.jacobstechtavern.com/p/system-design-interview"&gt;
 iOS System Design interviews in 2026 - Jacobstechtavern&lt;/a&gt;&lt;br&gt;Practical prep advice based on three real-world interviews&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">50 миллионов тенге как вам работа?</title>
-    <published>2026-03-03T14:13:38+00:00</published>
-    <updated>2026-03-03T14:13:38+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3810</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3810"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3810"&gt;&lt;img src="https://cdn4.telesco.pe/file/tFIoOl1Skj5uveqiOnJnlEShywXhR39AfpmE2KutMW_xnhiYsJyRviI01j3ZLNZYEk8kRDbCsoHzDmqH2gcdfeYyAbZoEriwgZp6Jpx0kbienXNU6G1I910jYq5_1t_m_Fh7GcPiOpy6byoS4XPQSzy11VS9OG47WaOLV50xTANIarhzSAg5M42i-ZW_chCa_K33QPThqbWOM53kP_Pc4JwDdlCXk7m41DJShxTa5_V4Ag7HN3pgqZntR1zZ4TATlpvwmvAWh4JttTU5FPWFoekc_tJmdtW2JErbrGEwBH7sSfs9JdHghOUVTiIVKsGLv89f62q7K3Ygaoi-FkBubg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;50 миллионов тенге как вам работа?&lt;/div&gt;</content>
   </entry>
 </feed>
