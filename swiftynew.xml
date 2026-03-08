@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/MnCsQD3vT_6qNieoXxAd4Zrmbzthgy1FSPOyO1cCXSnMDzo8oUn15sPIKelJThl1NfJYWf9Ym8j6QZz8gUYIbYeSdoN6RT8j12riwT0ecxx53l_FAmcgQdfbJEMV12HmYhikBa9jvqOdOqYSamlptRONa4yeI_iqJHbncIO02A_oQqaUcBAJpNK4DMpNWniTFLzAwvdR3vFKpKad4aSZ6qFR5LokTv4wZFT9mwoAkzI4zYsMESb3EeaVzBskOAAsIHMZabrz-r42ujsPDU05zudeHeKPmq4OgeAmuKDCCLjc0MjYzugSXwDDibQUruCL1w6WoFVavAY8krMGCVEGKA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/MnCsQD3vT_6qNieoXxAd4Zrmbzthgy1FSPOyO1cCXSnMDzo8oUn15sPIKelJThl1NfJYWf9Ym8j6QZz8gUYIbYeSdoN6RT8j12riwT0ecxx53l_FAmcgQdfbJEMV12HmYhikBa9jvqOdOqYSamlptRONa4yeI_iqJHbncIO02A_oQqaUcBAJpNK4DMpNWniTFLzAwvdR3vFKpKad4aSZ6qFR5LokTv4wZFT9mwoAkzI4zYsMESb3EeaVzBskOAAsIHMZabrz-r42ujsPDU05zudeHeKPmq4OgeAmuKDCCLjc0MjYzugSXwDDibQUruCL1w6WoFVavAY8krMGCVEGKA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-08T13:42:32+00:00</updated>
+  <updated>2026-03-08T14:28:30+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -54,7 +54,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;61% - Charlie&lt;/li&gt;&lt;li&gt;7% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Варианты ответа:&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Alice&lt;/li&gt;&lt;li&gt;1% - Bob&lt;/li&gt;&lt;li&gt;61% - Charlie&lt;/li&gt;&lt;li&gt;8% - Ошибка компиляции&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
