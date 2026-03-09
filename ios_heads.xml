@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/SYKkRVJumU6zszVDT3xpG8_UH0-zI6BvfS8V0EiVxpPyiDto8NFAs0WL0ArzJII2FmMgoFeO1ZfpDfGVDTpC6j_y16h6U0ml6BRKkjQxlAB4uT9zm1FIxHtu95_dZkvBpEwMVYXIYSapMkvgvYKFuXoJRxAniGkU_nnnIjIQCKkplCwu3e7-sByiJtODKQtNvLjTB9w5ex9hcBrKfJOfhqk_0O55VpEGRxY4g6myswmIB0BLKMRw_7OOYP4AyrDjhuewHUX2f4Y43knvDL1354ji30NeGU4FN8UptqAbNH2ThJZSp1j1iIFc9kO_CQXEyHL4T7P5tcBTO-RQqaqBxw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SYKkRVJumU6zszVDT3xpG8_UH0-zI6BvfS8V0EiVxpPyiDto8NFAs0WL0ArzJII2FmMgoFeO1ZfpDfGVDTpC6j_y16h6U0ml6BRKkjQxlAB4uT9zm1FIxHtu95_dZkvBpEwMVYXIYSapMkvgvYKFuXoJRxAniGkU_nnnIjIQCKkplCwu3e7-sByiJtODKQtNvLjTB9w5ex9hcBrKfJOfhqk_0O55VpEGRxY4g6myswmIB0BLKMRw_7OOYP4AyrDjhuewHUX2f4Y43knvDL1354ji30NeGU4FN8UptqAbNH2ThJZSp1j1iIFc9kO_CQXEyHL4T7P5tcBTO-RQqaqBxw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-03-09T11:36:30+00:00</updated>
+  <updated>2026-03-09T13:10:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Заголовок, конечно, выглядит кликбейтным, но материал...</title>
+    <published>2026-03-09T12:26:43+00:00</published>
+    <updated>2026-03-09T12:26:43+00:00</updated>
+    <id>https://t.me/ios_heads/1122</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1122"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Заголовок, конечно, выглядит кликбейтным, но материал действительно крутой и там внутри огромная куча ссылок на разные источники с материалом, как пройти от зеро ту херо&amp;#33;&lt;br/&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/" target="_blank" rel="noopener"&gt;https://swiftology.io/articles/swift-concurrency-zero-to-hero/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;&lt;img src="https://cdn4.telesco.pe/file/r6LPQNGud9PHxbJ6IAzG_28GclJknRW9kki7a0fkwGQlSkGBAAkME7jz10SJALzCgkuzT5Ud6SnGQoCAGUKY8wePIPuUv-VLX5BXuTU3FBEHu0lL8YeOyAToR2r6RL4ota-v3R_7qnMRAYbDC3kIsF2g2UA7Mmr_6du0U8cfiyOs5bo8yZXCBLRSgqFRpkebYKkSmmm6xWpVooGD13H4Epqi3053mfPiLHwjxR_8Uju5tJKuhO9jQ44Hj3KtFCPWa6bqLKRgu4SwjznOqdRJInfLMvgKkh0QiJrQKxMUURDezv344rkSu9YpnRk4hQpf-Tccx7Omxf4p-w4WKf0VEQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;
+Swift Concurrency from Zero to Hero | Reading List | Swiftology - Swiftology&lt;/a&gt;&lt;br&gt;In this short post I want to recommend an ordered reading list that will get you from Zero to Hero in Swift Concurrency&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Автор в деталях рассказывает о сложностях работы с iOS 26...</title>
     <published>2026-03-06T12:21:32+00:00</published>
@@ -19,7 +31,7 @@
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор в деталях рассказывает о сложностях работы с iOS 26 tab bar&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/ios-26-tab-bar-beef/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/"&gt;&lt;img src="https://cdn4.telesco.pe/file/l_O5vLSH_YkD4KQoy2xD-hSoYcqwhMENgqevTgUMLChfVYTmH95SqIReLO5w9uvEHvNFBo8WJjA6yQPxAm-Z5auDlqy545CEB2Rk9O2NUeaW-iEjF2y27AvZviMIM_uupwrxV56ye0mX22rNgJLCAK5CmOG_9fmrVeB0UXrIyIYW_Yi5bpYiYezpooH87orxSLSAnbmeD7ZPFXv2YgYTuFvL2_oHRD4jnqbhwvDi9VpKQmN-y_M5uxtpB3GnfGrvVjazVUO-nqFTDZYQlDqq2zxbojgA3Y9Dx6AU-Q_-sC0jRjna8qD8VoQfM60wFjatjKOegkZtuh-80_nFhsQjVw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор в деталях рассказывает о сложностях работы с iOS 26 tab bar&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/ios-26-tab-bar-beef/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/"&gt;&lt;img src="https://cdn4.telesco.pe/file/pZ1GvZHKqrPrlCeYjpoLJmGMJFafRU6ZAWyi2AdjtsDgbPGVJHHiJRVFCwWNufexqO1BERXpPq8joS35PCY_wGtt_akRgrv2dG5BPT11taTXeVzky8OOclnM6mKLyhysnrcgmb3mbz-r5RnxQoBaPaSKFY7DNUPM8KRTFVeVTFTaq2jNAkq6eCFLusQsT-V0ei_wwp4vI3duiV8uiRwlFsMLI1EQbx18-lquYRIeeHdHWmpZl7POmMn_v1Cm6dHsggYSXv1CJT49Qwc-tfgob70BYy3gHLu9c2NSpSwojTD8Z2gxGiPEB10HgHZEhkhN6ajnLpNyWxNhrlxiiN6uzw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/ios-26-tab-bar-beef/"&gt;
 My Beef with the iOS 26 Tab Bar - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;The iOS 26 search tab looks more like an action button than a tab. That&amp;#39;s causing problems for developers like me who want to follow Apple&amp;#39;s guidelines.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -43,7 +55,7 @@ SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A - Substack&lt;/a&
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, чему научился за время пользования AI.&lt;br/&gt;Советы, которые, возможно, помогут и вам.&lt;br/&gt;P.S. Дизлайки ставят те, кто отказывается принимать эволюцию или контент действительно плохой?)&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Wi9sLEurNsxEfuQhiC-neRxWX2AJv6HjzBysrJ0I3Nc05s9p-ZcIPLKcVm7II2QGWUGtklB8Ct-mF99dHLQT7jt-YbAHW1wu0aYduRfC_cScpE_fwcNUmvlXPNFnF6HVG3j3_uRmLevgBZrjEy1U_N1dWL3nuqTcs-GMrpQFq3bXBcVT7_6_fHR_sgiNiVs45tJWhH46B8bj6otvCHwC-6TXnMhdI_Dshq8uqzbLN_K2Kx2Jgtoa12zMbPtbsjVhLjQeYZSNJi-1eiBGziWsOZLUNicfc22eN--vCitZTJKoOfop3GhaZlKvlwlsC5-vTIlE-j-xzCa2NGT-nCzFnQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, чему научился за время пользования AI.&lt;br/&gt;Советы, которые, возможно, помогут и вам.&lt;br/&gt;P.S. Дизлайки ставят те, кто отказывается принимать эволюцию или контент действительно плохой?)&lt;br/&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;&lt;img src="https://cdn4.telesco.pe/file/UiQtDqiK_SWTfAEGJ9qAStal3srKGzRHkSqsPikoO6JRsto3mk3LHJb43lRlPexy0phw_dDutdM0r0nZADSNH4evxhjNWZEnzOGndEirFtP-XZ45u1rseDqS-t1oejS-8dJQglIiSr86Fm5SChQTZBdUwNTn2Coh_pinEZ2aIE3oEMZ1nj_34-QXdh7hPNDdjUQTUfHkbXKaK1APAKidhCV02qMf7RbmUCJglN1DBRNJ_XVyCqkTVwQrcFps0cC84Yw4OduYX7Ye5EcUHh6cLqQE_zoi4sUzkAdRvurIBJOB0TSmUb1zRPK4IcUMcyMMOnWxIaJcpy5yb0RIFqm_Zg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/"&gt;
 11 Things I learned after using AI Agents full-time - SwiftLee&lt;/a&gt;&lt;br&gt;Learn how AI agents and tools like Cursor have reshaped my workflow and brought new efficiencies to my app development process.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -91,7 +103,7 @@ Swift Testing Agent Skill: Write high quality tests with AI - SwiftLee&lt;/a&gt;
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, как собрал у себя цепочку на агентах, чтобы баги автоматически фиксились, пры создавались и так далее. Как раз будет чем заняться на выходных, если захотите себе такое же решение&amp;#33;&lt;br/&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q_Hx39f7UrhpbuWfr-4KhKkY4e25kZXUsQ4F9WsuPNjkMoPvxM69kzE9kabZuNAecnkSVwRWVSxbhGyMd3yP3NTJRutkSqGdKZ4xhlmp4NPLMc449Wokv-LW2-FZqy-kPGOEa7sEfIMV6jE-fdfxlXFPIjBKF9dYjfXx80K6kivNL1PGQUl7kchZnTxBLndRfSmcXRzmTo0Vu_6GBLwpKwFHr0RwUgDslLz_uNeGna1LqUvEBnMJgn-Lpr-vtr-81N-Z_nI94udssFX8snO8HdqCH_usbJoKr9dR34wjjMbADz1ejOxQfixYXLOevb5FkpE1guYJaukzaaMtRlfohQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Автор рассказывает о том, как собрал у себя цепочку на агентах, чтобы баги автоматически фиксились, пры создавались и так далее. Как раз будет чем заняться на выходных, если захотите себе такое же решение&amp;#33;&lt;br/&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/" target="_blank" rel="noopener"&gt;https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zy71_HRwSwtYLJthr-rNu_wS7xyz_bPBA1ftmb0aS-V_a_S4zPd_g5lb4WbXcrfbQojDQ4JcWNuYbOMivONQ_6IrT7nnEfcSTwQs3NjGFpKRUps-gW5UVmtMHStwKwP7gUem_oJ4rkPnIgY5yfkSZGkqeC1JN4RG85e7tirUbT1UiLv-FQxW39ksWwbe3sOG7K_q_EIPvF0lb1O451_IeARHp1RHens5w4_GAvVlG-jiA9gF6k00p5nbzgXOKLj8Bi02x8OGOUKgrhN9oRtizgwZLplTfCzzX8GTzJVRlv0uj5frfzYRS5Lt_qJ42HoupqyCHDqUzXtP7si7nZavmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/"&gt;
 Setting up a delivery pipeline for your agentic iOS projects – Donny Wals - Donny Wals&lt;/a&gt;&lt;br&gt;A while back, my app crashed mid-workout at the gym. I uploaded the crash report, gave my AI agent some context, and went back to my set. By the time I finished, there was a pull request waiting for…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -245,17 +257,5 @@ How I use Codex GPT 5.2 with Xcode (My Complete Workflow) - YouTube&lt;/a&gt;&lt
 &#13;
 LINKS&#13;
 1. Peekaboo (agent &amp;quot;eyes&amp;quot;): https…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Небольшой материал о том, что исправлять в...</title>
-    <published>2025-12-22T13:50:15+00:00</published>
-    <updated>2025-12-22T13:50:15+00:00</updated>
-    <id>https://t.me/ios_heads/1100</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1100"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Небольшой материал о том, что исправлять в сгенерированном AI Swift коде.&lt;br/&gt;То есть какие вещи они обычно делают не очень правильно и на что нужно заменить их реализацию&amp;#33;&lt;br/&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code" target="_blank" rel="noopener"&gt;https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;&lt;img src="https://cdn4.telesco.pe/file/Ng5e0Uebd9hDek3p7dy4ms84fMoFTZwmnmI1x04eCtIeaZvhXSM2DbZvh40wp3jFdD0T2j79WylMIs_Y7XAvPIf2iEmUvC1yRcGG1VraFMQ3jU3fI4YXJNCfIFdrt3pd4KlKSFt25fRa1XQCB-Rm5ZYgtCnOzipLl6fFubCnQxUUpidsHN-0k5F7_cln4vVbNMPsB-FIfb46Ziyntbp_HK4QKHUWsecpYajO4ab0BKKaaHdGCloHV955xhngsNLhlmPt4NAEDHedJ4t0iDs4jnA2j4uGqVnuT7k9lxbKfD5sif2Nb10qfdCLivNx73JLX-dRbmg_gOsmRrThlbmCfA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code"&gt;
-What to fix in AI-generated Swift code - Hacking with Swift&lt;/a&gt;&lt;br&gt;As AI-assisted coding increases in popularity, here are a handful of things I would suggest you look out for – and what to replace them with instead.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
