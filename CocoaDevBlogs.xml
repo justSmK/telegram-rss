@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/Iy7TRRUataKlHKVei_VptDZahvDRbGvA4jSlirdJIsabD-LEUcu1EOdZ6zribahYd63WCQkh5ZA7amnEZVEk-iDa0kFTJp_MR81kTJA3yvhw0HobGlovsiABQYqH5ZIb_MF6kqwW9EUMNKK2Knuwcv5K_z57Zx2E9PF8pugDDWqRcUv5Bcmv6k8pKEuj_YN9kgPJ35Z-HtZWd09c138NOD82LnqC3a6jYzHW0F8xWfaSkaljFBOC11dYc-q8QuAvNOhJG6WUu5O8CyeQ_igzbThHfov0u68RqT1119QQ6NMYi1NV4jVTXR8sGjnZ4lvr6-2-nQn6oZF65DzIF_vGZg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Iy7TRRUataKlHKVei_VptDZahvDRbGvA4jSlirdJIsabD-LEUcu1EOdZ6zribahYd63WCQkh5ZA7amnEZVEk-iDa0kFTJp_MR81kTJA3yvhw0HobGlovsiABQYqH5ZIb_MF6kqwW9EUMNKK2Knuwcv5K_z57Zx2E9PF8pugDDWqRcUv5Bcmv6k8pKEuj_YN9kgPJ35Z-HtZWd09c138NOD82LnqC3a6jYzHW0F8xWfaSkaljFBOC11dYc-q8QuAvNOhJG6WUu5O8CyeQ_igzbThHfov0u68RqT1119QQ6NMYi1NV4jVTXR8sGjnZ4lvr6-2-nQn6oZF65DzIF_vGZg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-09T20:38:27+00:00</updated>
+  <updated>2026-03-09T21:36:21+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -224,7 +224,7 @@ Scroll to hide iOS 26 Tab bar using SwiftUI | #apple #ios #animation #coding - Y
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/O7SI7dV8oR" target="_blank" rel="noopener"&gt;https://t.co/O7SI7dV8oR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;&lt;img src="https://cdn4.telesco.pe/file/hFoepPkrcP9WSGiYlX1d5Jbb2NCiGQ0ErcY2NqYuHFtIA0Oz4OgN46sAocBP8j3GFeox-MfSVGaYSvGkRI3kxS2TDhp_ZD0MapNvAl0rHwD_ux0w-SINf786CnUHeAtqviMZ2GcCj0aSzFI_h4logd2hvLL0vfHjYihDQ9-NHSQKaKhe4FDPrhodNAWLGD8qUj06xf3x8CoW0VF8M-rCUy3jhwC6cbne0QIckjZ7ZXEzpMrM5A215_GlY9KZhw2p1CCjOr4ij0yUq-kMMAJs7dvcHKY64ciBjHQipPveJ3IWfU6-soH_YjZxhGq7cX_AsuSzuhwpcPFSklgaefhyqw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/O7SI7dV8oR" target="_blank" rel="noopener"&gt;https://t.co/O7SI7dV8oR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;&lt;img src="https://cdn4.telesco.pe/file/llCnws4F_H7P8XpyeQTpWNKCvNNjgrCQ9CIClu8Oz4y5i_i-L2UMEpd4N-_t888Ps2eYvatCirOSlo2cR_o63YgG_4TOQiYrzTmJm3lUJDTHUikJHORZot5wY1MUAJsj8u4-aZDq2g5UFDWKSpQpY8C5Ih2P-fKNvcUkttiW_KPuGE5Ml6btP44tF4IyM2qix3qsl8A6SGwZI1Fh16e2rvghJhzvd_8vNSXeF3Ld15AcMTZHQP0pgDTpJczEH2R7pesfOKtJdpiqRhu-MKFdZ9I0PuO4FTdWqdHxD3WSYGMyiIqQ157MY1xsupRz4ZpQe-y34VMurG6WNT15G4co7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;
 Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I plan to wrap up the smart tagging features I&amp;#39;ve been working on. Here are some of the features that I want to implement:&#13;
 &#13;
 - Renaming tags&#13;
