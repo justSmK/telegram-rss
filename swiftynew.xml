@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/sbRDUgzo3iuu-DB3BxzU3HT4cu8ibQvPJNNAJVtUnmYj2gEFOhcGP6gFMyeCaNEOydE9BPIJHw359SWNuz6HvbipXIDX2wkmyIdzmDS1aB4q8SY-LRnp46LzhgFhI-nXZOiycWYB-QofKv1ls5-LFb29XgrCDsU9kXoxljSgHTT5CceTT1BohdbwNhXxxnf0jmF1JccRtsBNkyF6qNuKeC1Vhnw15XWoIPoAcOmn8vpO5CNkBX12LA8QYZUWDIo1HU1BcbThNFYdltKkK6vmXlDpq2dmHxukZDgJtRpnuHRWCuckR4In9FRx21d8SCipZ0V3eJmVbpiAGjW1TFMCYw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/sbRDUgzo3iuu-DB3BxzU3HT4cu8ibQvPJNNAJVtUnmYj2gEFOhcGP6gFMyeCaNEOydE9BPIJHw359SWNuz6HvbipXIDX2wkmyIdzmDS1aB4q8SY-LRnp46LzhgFhI-nXZOiycWYB-QofKv1ls5-LFb29XgrCDsU9kXoxljSgHTT5CceTT1BohdbwNhXxxnf0jmF1JccRtsBNkyF6qNuKeC1Vhnw15XWoIPoAcOmn8vpO5CNkBX12LA8QYZUWDIo1HU1BcbThNFYdltKkK6vmXlDpq2dmHxukZDgJtRpnuHRWCuckR4In9FRx21d8SCipZ0V3eJmVbpiAGjW1TFMCYw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-09T06:00:26+00:00</updated>
+  <updated>2026-03-09T07:14:50+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Что выведет этот код?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;13% - 1 nil 3 nil 5&lt;/li&gt;&lt;li&gt;40% - Optional(1) Optional(3) Optional(5)&lt;/li&gt;&lt;li&gt;40% - 1 3 5&lt;/li&gt;&lt;li&gt;7% - 1 nil 3 nil 5 nil&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Что выведет этот код?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;13% - 1 nil 3 nil 5&lt;/li&gt;&lt;li&gt;39% - Optional(1) Optional(3) Optional(5)&lt;/li&gt;&lt;li&gt;40% - 1 3 5&lt;/li&gt;&lt;li&gt;7% - 1 nil 3 nil 5 nil&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
