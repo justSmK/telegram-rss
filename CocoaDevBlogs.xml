@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/Iy7TRRUataKlHKVei_VptDZahvDRbGvA4jSlirdJIsabD-LEUcu1EOdZ6zribahYd63WCQkh5ZA7amnEZVEk-iDa0kFTJp_MR81kTJA3yvhw0HobGlovsiABQYqH5ZIb_MF6kqwW9EUMNKK2Knuwcv5K_z57Zx2E9PF8pugDDWqRcUv5Bcmv6k8pKEuj_YN9kgPJ35Z-HtZWd09c138NOD82LnqC3a6jYzHW0F8xWfaSkaljFBOC11dYc-q8QuAvNOhJG6WUu5O8CyeQ_igzbThHfov0u68RqT1119QQ6NMYi1NV4jVTXR8sGjnZ4lvr6-2-nQn6oZF65DzIF_vGZg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/Iy7TRRUataKlHKVei_VptDZahvDRbGvA4jSlirdJIsabD-LEUcu1EOdZ6zribahYd63WCQkh5ZA7amnEZVEk-iDa0kFTJp_MR81kTJA3yvhw0HobGlovsiABQYqH5ZIb_MF6kqwW9EUMNKK2Knuwcv5K_z57Zx2E9PF8pugDDWqRcUv5Bcmv6k8pKEuj_YN9kgPJ35Z-HtZWd09c138NOD82LnqC3a6jYzHW0F8xWfaSkaljFBOC11dYc-q8QuAvNOhJG6WUu5O8CyeQ_igzbThHfov0u68RqT1119QQ6NMYi1NV4jVTXR8sGjnZ4lvr6-2-nQn6oZF65DzIF_vGZg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-09T09:55:42+00:00</updated>
+  <updated>2026-03-09T10:50:59+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to use custom names for Swift properties when decoding JSON data https://t.co/b1XO5zUwof</title>
+    <published>2026-03-09T10:32:46+00:00</published>
+    <updated>2026-03-09T10:32:46+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26121</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26121"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom names for Swift properties when decoding JSON data &lt;a href="https://t.co/b1XO5zUwof" target="_blank" rel="noopener"&gt;https://t.co/b1XO5zUwof&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;&lt;img src="https://cdn4.telesco.pe/file/Gog3XojsxkeftXviXaDNwkxrAJtbbtNs1kwvymIAeFNLGbiEtjW1UyhcHva7wBOqR9Agqe55qREdeLEB5SJSUmOP5RssDnFRyytFT-FVsM5YmeusDcifupbPN8NjoAjgkgz534qGei8LGV4CpZ-4meIGt7eWJ3-evIqLv8GgED1piSRx8IUiUpRtyBdBcF0LE956b4tVKELhh_GCvD8-FhLqzDnbAhLkgdDFlEyBRlcLvVqb9KtT9I7sVH29ZVhhoiPnN_NfwgJ0bJsIj2R7TExBMHO6abk3sLX5YEMPnBuwSovrkPdadt4BRDK7OyRNkLqfC9WTqF8PfMIHl5ODew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;
+How to use custom names for Swift properties when decoding JSON data - Tanaschita&lt;/a&gt;&lt;br&gt;Swift&amp;#39;s Codable protocol makes it easy to convert JSON data to native Swift types and vice versa. In some cases though, we may want to customize how JSON keys map to Swift properties. This article shows how to do that using CodingKeys.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">A 9-Step Framework for Choosing the Right Agent Skill https://t.co/OPX0mGWX2O</title>
     <published>2026-03-09T09:02:48+00:00</published>
@@ -242,17 +254,5 @@ GitHub - BarutSRB/OmniWM: MacOS Niri and Hyprland inspired tiling window manager
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : seemoo-lab/openhaystack &lt;a href="https://t.co/fkrIDFqBXy" target="_blank" rel="noopener"&gt;https://t.co/fkrIDFqBXy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/fkrIDFqBXy"&gt;&lt;img src="https://cdn4.telesco.pe/file/tCzAwlk7lvSpU5fAAcOiSKeAgG6c7Cj7QXpjqGB8rSCa_1LMoQ9AOqmGZiSIuGmy_OAZdL1TuGzj-Xb1fmeDJk_30PSRL6WL48F6zUAgf_qTLS8QOpw4SWsHO2TZEzig5x1paE4jCbITKl3wNVhX5VcER17VFbiWcz3J9iCOorDDqXAuk446-xSK_zt2qo6CbUxUjDuoLiuzsuS3n5HmF6Ma6XKoRHhvt9la5iz6rQubeAQQ8ErgFdUFOuTbjKgTAWyGdRaXuWjo0_nXFqOIxkkLOlNNFRVB9GuqoBgGAmxhFRHbhH0_ey7gMcxtSX-aaDv7wnrR4oUWUWdRWZVTPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/fkrIDFqBXy"&gt;
 GitHub - seemoo-lab/openhaystack: Build your own &amp;#39;AirTags&amp;#39; 🏷 today&amp;#33; Framework for tracking personal Bluetooth devices via Apple&amp;#39;s… - GitHub&lt;/a&gt;&lt;br&gt;Build your own &amp;#39;AirTags&amp;#39; 🏷 today&amp;#33; Framework for tracking personal Bluetooth devices via Apple&amp;#39;s massive Find My network. - seemoo-lab/openhaystack&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service https://t.co/XIwgaGrBVy</title>
-    <published>2026-03-06T19:37:26+00:00</published>
-    <updated>2026-03-06T19:37:26+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26101</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26101"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftOrg Blog : Swift at scale: building the TelemetryDeck analytics service &lt;a href="https://t.co/XIwgaGrBVy" target="_blank" rel="noopener"&gt;https://t.co/XIwgaGrBVy&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;&lt;img src="https://cdn4.telesco.pe/file/iwD0kNffc5PtkutVQ3Jw5LIxcXiWZfGvtG_AYdH26Ujul3SJA4jm3Aece1JSMLnbKtOIcgUD8gMr_6JACVhIDjXl_RVwnUR4lsUv97oYinyWLj2Pkcp1f--2-Ja7GRZk6aEc42E_B-nBbs4xq2pbmL768Cqn66hTIjb_erwd4CREEi3ImJD3S8FVm4I9vCu1l3Kz8H7Ybcv2hv8OJWA9MFsutw6TBPDPJD4f5jasGUQqXcbPYEqQhALAFPGg9xa6KLcRfjxdPHG6LXbc7dcxqi__gJgdxrKAyc6u3WhJ5FisoVtPOtjxVGNwt-D2J66M1-6qC6AOAfj0b8JyYCUuiw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/XIwgaGrBVy"&gt;
-Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&gt;&lt;br&gt;TelemetryDeck is an app analytics service specifically for developers, designed to manage usage analytics that are anonymized, privacy-focused, and really easy to use. TelemetryDeck is managing the data of over 16 million people every month, helping thousands…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
