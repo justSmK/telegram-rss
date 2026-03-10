@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/k7FP0g3QHEGJKFsZqvK8h6svP3BaySGua--IycQaOD68cRYSQmYiL983z1svCmdrHHIco18IL2X4pUFKGV3Xd69JDj5zJSVSY0qGjLRh48kKHC_Q5mad7Zi-82KPRhHaT7zTVj9NcmmHwlRkKYd17H9NcJf4VFt3Fuqjv30E_Oh7L2F3b77M4R8L4Z5iaE4SaGqZoZYaYEdmloH5o-1nYbqW8BsS_4O-tC_yCRu0wWTSpIxby4OCUKAPqqmHDYzB0lTHCpX_QkHYpdomYDh2w_lvs6MGuNmTvoo9sbDz4GX2ylbvCtRySYAtUJ-cQwMOST4G81ywOky5N3Axcbg0yQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/k7FP0g3QHEGJKFsZqvK8h6svP3BaySGua--IycQaOD68cRYSQmYiL983z1svCmdrHHIco18IL2X4pUFKGV3Xd69JDj5zJSVSY0qGjLRh48kKHC_Q5mad7Zi-82KPRhHaT7zTVj9NcmmHwlRkKYd17H9NcJf4VFt3Fuqjv30E_Oh7L2F3b77M4R8L4Z5iaE4SaGqZoZYaYEdmloH5o-1nYbqW8BsS_4O-tC_yCRu0wWTSpIxby4OCUKAPqqmHDYzB0lTHCpX_QkHYpdomYDh2w_lvs6MGuNmTvoo9sbDz4GX2ylbvCtRySYAtUJ-cQwMOST4G81ywOky5N3Axcbg0yQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-03-10T11:35:27+00:00</updated>
+  <updated>2026-03-10T13:08:12+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">My info field is completely flooded with AI agents lately, which probably explains why there have...</title>
+    <published>2026-03-10T13:05:14+00:00</published>
+    <updated>2026-03-10T13:05:14+00:00</updated>
+    <id>https://t.me/readaggregator/1116</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1116"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;My info field is completely flooded with AI agents lately, which probably explains why there have been fewer posts here, sorry…&lt;br/&gt;&lt;br/&gt;But it also means one thing: AI tools are getting scary good&amp;#33; We’re no longer at “it writes boilerplate for me.” We’re at “it writes the code, runs it, taps the UI, and checks whether it actually works.”&lt;br/&gt;&lt;br/&gt;Three tools that make this very real:&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://github.com/cameroncooke/AXe" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;AXe&lt;/b&gt;&lt;/a&gt; — a CLI to control iOS Simulator via accessibility &amp;amp; HID functionality.&lt;br/&gt;Tap at specific coordinates. Swipe with precise velocity. Type text. Dump the accessibility tree. Record video. Chain it in scripts.&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://github.com/edwardsanchez/MotionEyes" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;MotionEyes&lt;/b&gt;&lt;/a&gt; — analyzes UI motion frame-by-frame.&lt;br/&gt;It can detect when pixels start changing and when they stop — so you can assert animation duration instead of eyeballing it.&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://www.haptix.dev/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Haptix&lt;/b&gt;&lt;/a&gt; — an actual SDK you embed into your app.&lt;br/&gt;Once integrated, your app becomes controllable via MCP — an agent can inspect UI, take screenshots, interact with elements, and run flows. Works with simulators and real devices.&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/cameroncooke/AXe"&gt;&lt;img src="https://cdn4.telesco.pe/file/VB7Jeha3YPgTEQw0hQ0z3NbPm7qOpcu836Hr489aO10roQh3nhuC5lelp_XJZbIk0oHyO5_jIRmgTOKBinN3FHA3sPEIz_sUHMm9o46c4usPnAVgRksRIWKcO1l96C1lmdxU71JU2-pvTsNwQCgAh2hvyn8cc3S_fBfprZLsp9mMAm5-cSMpEzZZ91y2L-Ewom3rtC1R5IX5JD3HxzKsBKzLxq6QhXlTlkqvK7cpTYxBeXI4-LFoKgSQqzSz4hKyGy-di77LtarWGyxvm3XQlntZMJ0mEZlp6rMIPE_Oed04dJTj4Kut6lKZmiE2gGENjpHJVxgzEdRo_l5XOMfkrA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/cameroncooke/AXe"&gt;
+GitHub - cameroncooke/AXe: AXe is a CLI tool for interacting with Simulators using Apple&amp;#39;s Private Accessibility APIs. - GitHub&lt;/a&gt;&lt;br&gt;AXe is a CLI tool for interacting with Simulators using Apple&amp;#39;s Private Accessibility APIs. - cameroncooke/AXe&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Xcode 26.3 ships agentic coding.&#13;
 &#13;
@@ -245,17 +257,5 @@ Launch HN Bitrig Demo - YouTube&lt;/a&gt;&lt;br&gt;Vibe code, test, and deploy S
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
     <content type="html">&lt;a href="https://t.me/readaggregator/1097"&gt;&lt;img src="https://cdn4.telesco.pe/file/BMegJRjTH51peioSd12JM3j2F9wuqnB4MeZ--stFcVCYWYJWVpF8uEPvGJ9AR4fDVv2Iu6mYRqUpouXQ_kkzLVJqAdLCRzGyIxkg9tPpIRa7VZpyYtLWEYstfsIkZNg3F5WE29MBDHeL_oRe3wcpuhfrBlEqoma22qkPsy7iJv5kb-J6mAnyiRIqWMRKmETB4E9Gj2ZJPeImZsHYek3Nd1fA0tjXu5Jk8OQ01jDFsbMozkHqMXmiaLnPnluGow9Gfn2RiyLA5QOhwcDi3wxB5GajFp5adaixINIEoayJ_GqeadLgvXIPzgeTc1jko9WDexsDlqVCRJwv076CxnXDqQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple’s next event is on September 9 — get your wallets ready&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"&gt;&lt;b&gt;💸&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Turns out it’s not just you struggling with trailing whitespace when using Claude Code — it’s...</title>
-    <published>2025-08-25T18:34:28+00:00</published>
-    <updated>2025-08-25T18:34:28+00:00</updated>
-    <id>https://t.me/readaggregator/1096</id>
-    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1096"/>
-    <author>
-      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Turns out it’s not just you struggling with trailing whitespace when using Claude Code — it’s an actual bug. Many thought it was about misconfigured &lt;a href="http://CLAUDE.md/" target="_blank" rel="noopener"&gt;CLAUDE.md&lt;/a&gt; or ignored instructions, but nope, the model just loves leaving those extra spaces. &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABA0.png')"&gt;&lt;b&gt;🫠&lt;/b&gt;&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;There’s a neat way to handle this using built-in hooks. Configure a PostToolUse hook to run SwiftLint, and it will automatically clean up trailing whitespace after each action. No manual cleanup needed.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/"&gt;
-How to Fix Claude Code’s Trailing Whitespace Problem for Swift - @samwize&lt;/a&gt;&lt;br&gt;If you’re using Claude Code for iOS development, you’ve probably noticed an annoying habit: it consistently adds trailing whitespace to your code. Those pesky spaces at the end of lines trigger SwiftLint warnings and clutter your git diffs.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
