@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/hW5j3iOKOuhgCerd0VHDASEQCRfOV3DVSUskRtp84lrP5scQs2Qncmw5u_QAZFWUqIXJJthA2fw4W8PdOgnSofXGCVR47YEI77MURDNDPnFIIkVtHBDm_kUVpUDsG_bZEMC_eiDGzK8asGZVeWhsAKUBTT9HL_gbuKn2aWS5-7jkgo8Nh7sAMyfFwWMr9mVm8yAWlE70oR6brIuuD8uP1cTYdF7grO-EInwiIt831jsmdvspTA2_oxiugLCqb8l7UVV75JJz3rGQix0nWK6OKiUrZiH2v7rTCiksCNYjycz9gtRomgRIdMqmm2wLSl9ygGUqLnY4ItqVXYejtyqmXw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/hW5j3iOKOuhgCerd0VHDASEQCRfOV3DVSUskRtp84lrP5scQs2Qncmw5u_QAZFWUqIXJJthA2fw4W8PdOgnSofXGCVR47YEI77MURDNDPnFIIkVtHBDm_kUVpUDsG_bZEMC_eiDGzK8asGZVeWhsAKUBTT9HL_gbuKn2aWS5-7jkgo8Nh7sAMyfFwWMr9mVm8yAWlE70oR6brIuuD8uP1cTYdF7grO-EInwiIt831jsmdvspTA2_oxiugLCqb8l7UVV75JJz3rGQix0nWK6OKiUrZiH2v7rTCiksCNYjycz9gtRomgRIdMqmm2wLSl9ygGUqLnY4ItqVXYejtyqmXw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-03-10T10:42:56+00:00</updated>
+  <updated>2026-03-10T11:35:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftBook в PDF на 600+ страниц?&#13;
+Доступен по...</title>
+    <published>2026-03-10T11:17:13+00:00</published>
+    <updated>2026-03-10T11:17:13+00:00</updated>
+    <id>https://t.me/ios_heads/1123</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1123"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftBook в PDF на 600+ страниц?&lt;br/&gt;Доступен по ссылке&amp;#33;&lt;br/&gt;&lt;a href="https://github.com/peterfriese/swift-book" target="_blank" rel="noopener"&gt;https://github.com/peterfriese/swift-book&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;&lt;img src="https://cdn4.telesco.pe/file/s9MO0yh_YhgBHouVEn9mWw3jnybC5CsssbQxJQzjbP3Fj0fqjBCpqibaIudmD1MOZvGIqOkR6v20Ivr0KyfQ7kIaZ2NukVaiK73AivQhzHdf60lm6eWg4RQrmMl_DbrW_0WSnUFe60AtyZdM9KoHJOCT2ei26LSGDWkSMBeaD91jwyA_6BI3TNToY-vlFbOxAVBtzRQ8FgtX-UrzUPP0ymjMxU1CKdYRTdNl4O4iJ7VtatJqrr5ONzOW-4kAWF17iMuID1asfSeum1wsPMatMR3RkysmYochS8E7WMeuiRblsfRYtkWIR7a7xRqjBnBYXWNC5VvnneGZlFu8hw-N_A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/peterfriese/swift-book"&gt;
+GitHub - peterfriese/swift-book: The Swift Programming Language book as a PDF&amp;#33; - GitHub&lt;/a&gt;&lt;br&gt;The Swift Programming Language book as a PDF&amp;#33; Contribute to peterfriese/swift-book development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Заголовок, конечно, выглядит кликбейтным, но материал...</title>
     <published>2026-03-09T12:26:43+00:00</published>
@@ -43,7 +56,7 @@ My Beef with the iOS 26 Tab Bar - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;The iOS 26 se
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Хороший фундаментальный разбор того, почему SwiftUI-код в реальных приложениях начинает расползаться, и какие принципы помогают держать его под контролем.&lt;br/&gt;Много всего в формате вопрос -&amp;gt; ответ.&lt;br/&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps" target="_blank" rel="noopener"&gt;https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;&lt;img src="https://cdn4.telesco.pe/file/IwQdok0sgENHbu6HUvQP-x8nXPKIOkBmgBfYgsCo4QAZhij5No6n8pNt9xP-hpYU2-UvUqw3PEw7oZk6M0dirp8QRhJkmtkh5uO-EsRgZyUVboan2A_7k-LBV86EJ9H8G0cZsr7RUWGBkrkNbFhmMil5Dsmn_9C5ZmWQl5LV_gI27AttWa6xOeut9UnQOxZ-nCY5psChNzeGXJRd2jlEPdHA_I6rJDm3ofEjJY1PvQD1DfsRyHN3ieMe2z9P0gNwT2Qwqwa8rRB-ww64HrfLJKfU5D4wVu6r2pVA5QkwvseByjHHyyyodQt0tGaJmbgFYYw8wui1y6bz5CjtElljqw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Хороший фундаментальный разбор того, почему SwiftUI-код в реальных приложениях начинает расползаться, и какие принципы помогают держать его под контролем.&lt;br/&gt;Много всего в формате вопрос -&amp;gt; ответ.&lt;br/&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps" target="_blank" rel="noopener"&gt;https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;&lt;img src="https://cdn4.telesco.pe/file/sK6FpZkiDarcIl-enPhOQeaZ2fCYK7ILdl5sf-qCOP8Nmy0PjfbNXX-mmN7Hlol2Ihs8Cqg-vBD5Eqjo9IwnZ2lhT82fqLEl0MoIEQZESBh6sJO4sYSWEQZ1LAyPZ0QEXQyJUvckOjioyYGQJHsYgNsOSfB6in6xK7ZPVOv8UK5IU09E8pyAtvuiSsH6BSVRFJNU2hSEO2fQKusWko8mL9Mc4PqAvNYm4QicGUaRWUV3E38VZZusvHmRtAKBvRkG31ZsUltMk0HYAQ4G4ukLOlOv2h0x_V7fz-cKZoH4l64Qegul7xDX2lEwEYBZHMQP0_MLZaCb61J9UGwVXd6LPA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://antongubarenko.substack.com/p/swiftui-foundations-build-great-apps"&gt;
 SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A - Substack&lt;/a&gt;&lt;br&gt;Answers from Apple Engineers&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -238,24 +251,5 @@ How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;Ho
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Давайте после перерыва сильно разгоняться не будем.&lt;br/&gt;Вот небольшой материал про опенсорсную либу на SwiftUI, которая делает новый liquid glass TabBar.&lt;br/&gt;Автор надеется, что скоро будет хорошее решение из коробки, и эта либа вам не понадобится, но пока что держите&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/introducing-fabbar/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;&lt;img src="https://cdn4.telesco.pe/file/izl7NV-Tt8idGcKNODu6V1L_UVK300pmzC-_eEvrI0KC_30bD-VElrNP6UgVytyZHfjqResDzvveEZ2VdRkPHY40D2QxlAH21lUqJe_d0lAIxeivh0WGvFiY69MjVcUQMZ37trfNFLYWFuNlWUz8TZO_An9onkZ-s3UT3MqdMC300K8DUYyQrFdW9KPP9-cIKwOcA3DuAeFF5kUm6QhZi4Ly6chMTPNAb6QNRIb4_sU9tV8L5vBLnbQpBGKxGVVUn53sqUyPtim_T11iY0BYbgF98x1J60dC6F60AgF-S7t-o5Tv0Inm0xyieBSwEUS8oCQyCfSlgmFwYECGjw10sA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;
 Introducing FabBar: The Liquid Glass Tab Bar I Wish Apple Made - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;FabBar is an open source SwiftUI library that recreates iOS 26&amp;#39;s Liquid Glass tab bar with an integrated, tinted floating action button.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Большой видеоматериал на 50 минут, где автор...</title>
-    <published>2025-12-24T11:50:06+00:00</published>
-    <updated>2025-12-24T11:50:06+00:00</updated>
-    <id>https://t.me/ios_heads/1101</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1101"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Большой видеоматериал на 50 минут, где автор рассказывает, какой воркфлоу собрал для работы с AI в Xcode&amp;#33;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=o4iKnSYlhBQ&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;&lt;img src="https://cdn4.telesco.pe/file/Oi42FUxzJKOQrQruBoKJYnPR4KPMo8XKc2b6GOvKS7VtoxlbRFV43HUD0zCtmUvQ6IFODQiOjj731Q7osZelIETuodNEHkEX5yum_puM-8Z5uDFGBXcqsYuDhPbEdKNrLsdOxrwE_hAnhrVhFEvO77XyacaV8Um5yuf4u9l0DSGON0CCMRC8bSnDu1iMHWcq8lMuq4yR1kuw97j-VyPUD25BBQHEHryTf4ywI2vscCPkOjNXjzt9FkUsl8nYgeXMUn1fLbI05crMwj3EuAWSTAiAb4O_0ID2A9e-ryB7-yb4ZFIexIQE63qMXhJJJSfkhPiKIdqrmpTZL9VmsuzmIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=o4iKnSYlhBQ"&gt;
-How I use Codex GPT 5.2 with Xcode (My Complete Workflow) - YouTube&lt;/a&gt;&lt;br&gt;3 workflow tips to keep your iOS/macOS builds green ✅. Your agent needs to have eyes to see what is happening in your app to be productive. &#13;
-&#13;
-1. Build Scripts&#13;
-2. Make Build Failures Obvious&#13;
-3. Give Your Agent Eyes&#13;
-&#13;
-LINKS&#13;
-1. Peekaboo (agent &amp;quot;eyes&amp;quot;): https…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
