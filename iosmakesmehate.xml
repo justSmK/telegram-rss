@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/XV77_ppztLZw7P_dPIJ2s_C2xIuu_ES1rccdgZ9JlOeTHq9k_3AO6HCybNouE9dMdSs3FpJxJJts6GAUl94dNM2EGDnRns_2DgquJjADVUGm8AqNl-YsQbyE1V4zGGZJ778UbOIlwqHd2Pj_AMVRomwS7NZ5PhdnnJZ0cRUPm96ETOUHjD7EqcKLZBNIE-WvMqpuKCUB6uhf6WgA5mvzSVZonGxQ0Ni9pJvh-vlmZtDexUaZfchLLyAZTEjCpm6_fG1qISty804oOzW2DrJJXATACEHz6TD4bZxnIeVVSaQbnMcfhMekU5qubw0qQX0ZycD450UR28grpcl_64hv9A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/XV77_ppztLZw7P_dPIJ2s_C2xIuu_ES1rccdgZ9JlOeTHq9k_3AO6HCybNouE9dMdSs3FpJxJJts6GAUl94dNM2EGDnRns_2DgquJjADVUGm8AqNl-YsQbyE1V4zGGZJ778UbOIlwqHd2Pj_AMVRomwS7NZ5PhdnnJZ0cRUPm96ETOUHjD7EqcKLZBNIE-WvMqpuKCUB6uhf6WgA5mvzSVZonGxQ0Ni9pJvh-vlmZtDexUaZfchLLyAZTEjCpm6_fG1qISty804oOzW2DrJJXATACEHz6TD4bZxnIeVVSaQbnMcfhMekU5qubw0qQX0ZycD450UR28grpcl_64hv9A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-10T06:55:34+00:00</updated>
+  <updated>2026-03-10T07:42:57+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">AI Code Review&#13;
+&#13;
+Недавно хотел податься с одной темой на...</title>
+    <published>2026-03-10T06:59:33+00:00</published>
+    <updated>2026-03-10T06:59:33+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3836</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3836"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://apptractor.ru/info/news/anthropic-zapustil-instrument-code-review-dlya-proverki-ii-koda.html" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;AI Code Review&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Недавно хотел податься с одной темой на стороннюю конфу. Член ПК сказал «в Яндексе самая крутая культура использования аи инструментов. Может свяжем твою тему с аи?».&lt;br/&gt;&lt;br/&gt;А ведь действительно. Если подумать, то тысячи инженеров в Яндексе юзают множество тулкитов для аи. Опережая многие компании на годы вперед.&lt;br/&gt;&lt;br/&gt;И вот я к чему. АИ код ревью было уже в Яндексе год назад, но оно так и не заменило человеческое. Пока.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://apptractor.ru/info/news/anthropic-zapustil-instrument-code-review-dlya-proverki-ii-koda.html"&gt;&lt;img src="https://cdn4.telesco.pe/file/aDgkhN_Gu5KPXsXwn2rKGsLHkYEf64XlEjk2b1m-tKfe2ZhQEZ9q_7wPcDYjo3yr-SULBWVmYL4aEUk3tLxalVqIVRazjVtXkqiGdIfK17HFMar3pDRjUq1PihKrQRX2wpVnyzk2wx1iYtNFyUskDrVzSJReFdxf6ENnQogws9OgAb4UeS41a67mj_3ugo_YoG3hWc0qAQvYnzusku5qVB042DN_F9_WsxhNtoWa3ZAxOdkPu3sO2fv2DcqZtM3je1cHAYLxfoJ1hzNzp0_n96o7SA6ebQ7wzT1z230mTHsngjaglG5h5AQMMDOwft1oc1PGKEeAD_aRkz_Pc_SOnA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://apptractor.ru/info/news/anthropic-zapustil-instrument-code-review-dlya-proverki-ii-koda.html"&gt;
+Anthropic запустил инструмент Code Review для проверки ИИ-кода - AppTractor&lt;/a&gt;&lt;br&gt;В центре внимания — исправление логических ошибок, а не стилистических.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Окей. Давайте следующие 2 недели попытаемся на канале...</title>
     <published>2026-03-09T17:19:11+00:00</published>
@@ -60,7 +74,7 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3831"&gt;&lt;img src="https://cdn4.telesco.pe/file/ESm1iV-zre1KECzgkikObomOHInEpcuDEjv2M3b5JPn5rkxwVEYVOTgOmSba1nWKuajPCTlx7KabIvT7Li0_m8stIRZEIoafMLlY0PKNMPAYrv_pAGFUfNo7IIIt17aGaOVdG3T7Q-E7j5cPBNlY6WTi-u2E1S_VP9HwjzucQTjScFE6o6bBkX07rqVN4O2mA6rLGZxa5z6ONnPChP9Uo20MFgetqFPWPD-HzJVlgS3wAsIx_BijOy7tW-MuQFef9nps6kibBb3p1-dRZ3ToX61yA4tMvIPkKO2hp9y2jCQSteaLisgrhq6o1AVrux2dwf4luVBetQTtJF33LJczDA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех дам этого канала поздравляю с 8 марта&lt;br/&gt;&lt;br/&gt;Вас не заменит ни одна нейросеть&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3831"&gt;&lt;img src="https://cdn4.telesco.pe/file/V5P0_LfFAcPNCN59qZm3fiXklwg4flzbyPJg7c_Tl_BR6L6U4ov5Q691m4d7hdOwW01Vjo1yups5uEEh5-zjFmbitnXEOzhrOEDvw3Zx3aWYNY5S70PtZxwll6FrPiCo9VvYefXH5gdSsg5fWbDcLlbl8wE9t5LIYwILu-vr6XXgStGdpR_6u0_fgTFJ8haiLOFp4RkldiBvZWdRYZrCr3RfS7LuZz7IHYYdrPGhFcMOs5GN9PSWbDIZKVKoAOwA2TrM7C9DCVcGG9oBLGDEcLcOwvhotr0byPcLMwszE8q6n3DI9puApTt0IY4Nv6NOJXsPZ7D4KtHF492ZgGzBDg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Всех дам этого канала поздравляю с 8 марта&lt;br/&gt;&lt;br/&gt;Вас не заменит ни одна нейросеть&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Кстати, на следующей неделе записываю видос с iOS...</title>
