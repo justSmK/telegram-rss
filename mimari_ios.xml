@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/APem509tbfdSIbpS_5JSnJnNUvy6E_Obv3qU479-Rgn2lUduA0at4gzr5IpR2f70zHV9CGQSDA7DV-0BlEP_1ivgwvjsO9CFZE06AWvM7FQkN4N76fNhIxWze01OuiKycUaqRWTSzgDllauMaztriCvu5lrBmHHaAP7gYHEeNQq9HZUEYMj_IFwboHyHr5RXatHHL_b2WryYf6EL_C2WA1aHCvwHUoVD2Tgc0kWPOVYg6Q5kHKGU_lGW9TXikwONdkeNpX4LYgaScEXrSSSP3hSvS_xx3IoUn2Ik77jMJLnMhb8BQ4XnovLj0Gz5wIRvtzRD_D5wfSPKyCfGrEOEww.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/APem509tbfdSIbpS_5JSnJnNUvy6E_Obv3qU479-Rgn2lUduA0at4gzr5IpR2f70zHV9CGQSDA7DV-0BlEP_1ivgwvjsO9CFZE06AWvM7FQkN4N76fNhIxWze01OuiKycUaqRWTSzgDllauMaztriCvu5lrBmHHaAP7gYHEeNQq9HZUEYMj_IFwboHyHr5RXatHHL_b2WryYf6EL_C2WA1aHCvwHUoVD2Tgc0kWPOVYg6Q5kHKGU_lGW9TXikwONdkeNpX4LYgaScEXrSSSP3hSvS_xx3IoUn2Ik77jMJLnMhb8BQ4XnovLj0Gz5wIRvtzRD_D5wfSPKyCfGrEOEww.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@mimari_ios</id>
-  <updated>2026-03-10T17:49:24+00:00</updated>
+  <updated>2026-03-10T18:55:12+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -224,7 +224,7 @@ mimari ios - Telegram&lt;/a&gt;&lt;br&gt;Проголосуйте за кана�
     <author>
       <name>mimari ios</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ПРОБЛЕМЫ МНОГОПОТОЧНОСТИ В iOS | Data Race | Race Condition&lt;br/&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8" target="_blank" rel="noopener"&gt;https://youtu.be/2KxEJ0nGna8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8"&gt;&lt;img src="https://cdn4.telesco.pe/file/f_fz-I-uaXKdN_omsvU7GGc6EXPGtXK8LQ2qugPdVhAfXB4GzwZa-Rd0FGHUUsh-YqvRVTdjcU26yy5zN3WuJqh0BLbIsjtmm9jy-E2A7IKAtgEgGKZHvp2LAjBa3IeYEfyyHq7bIJqKaMKJ1OH888oHkqqDcZzo9ucQt6lHjhNg2X_ZiuEoDgcO00zFyD0FuG4d1eaPHDEdazZ3acc5-ddw9kFaE8yq8vj_qXRfNr07kDyM-0n834T46OMwzAudehSo2ABsjBfN9UOH8tYMm-a507H4PYq2fSEqKVLB8Oe6i3TWEhDIFpHYL4tGgS4W7rU_Zwjw0M-3T8aHqQOlPA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ПРОБЛЕМЫ МНОГОПОТОЧНОСТИ В iOS | Data Race | Race Condition&lt;br/&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8" target="_blank" rel="noopener"&gt;https://youtu.be/2KxEJ0nGna8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8"&gt;&lt;img src="https://cdn4.telesco.pe/file/M5ecvvo-VV01v5yK2Y96gE5a4Ya27RlcxiV3W2PIcCzs70BE3mEjHAcnamP539PH-8U3CTVApKFbc0Ny8uZq6Q5WxrnfOUSiybpxcDzGIhgaoYQYQGSTfZ8sfylCq7W156LuHkqoGA62dX3LKpHHNByccYakI11SzesRgx4y-9qRlyJlXFO2tz4KPtULH8MMH33xOQ3xSSQW2OM9RWbvQFgp-eqAQW16dyEzsNXECgi5hqlFaBBUQYalfhdw-DJ6p0CEqupWegOj50v_SUl5CtS_j3474zAriN7MKm4IdQldzt-WaNT0B7FDUQzYgPiDl_mbTKF_DRCzd06MfUVC-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://youtu.be/2KxEJ0nGna8"&gt;
 ПРОБЛЕМЫ МНОГОПОТОЧНОСТИ В iOS | Data Race | Race Condition - YouTube&lt;/a&gt;&lt;br&gt;00:00 intro&#13;
 01:00 самая частая ошибка при работе с многопоточностью&#13;
 02:55 Deadlock&#13;
