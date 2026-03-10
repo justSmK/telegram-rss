@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/UPxIiVNvlC5d0NS5ZFAo7bTJV-4iXbxHgJCh_JVFgfZCb0RO0MZMyCs3rD-xec-IJHmyhjHnwTvROPBD7eRIpdH_mIyyw5zyHQVkeawj6jVjA9y3uoCOvg3n_xGGh2TgUZa93bFovjiM-J5othxGdOafy48CovNwUy7IA7jUJk2qKguAdgaxfyle-2__AOB8CDADp-z0lz524-3upmZx0h7u2ebW7ioOMBYiXu6GtwmyCj8jUfeo-kgC34dey1lvsSeMginndldGtphviBRg1gv90MjIhWqGRGP9Eh99o35O5KxtSPWaeM4mIhvDzFAI7JLe8JI4CGWXwH7rqueYtA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UPxIiVNvlC5d0NS5ZFAo7bTJV-4iXbxHgJCh_JVFgfZCb0RO0MZMyCs3rD-xec-IJHmyhjHnwTvROPBD7eRIpdH_mIyyw5zyHQVkeawj6jVjA9y3uoCOvg3n_xGGh2TgUZa93bFovjiM-J5othxGdOafy48CovNwUy7IA7jUJk2qKguAdgaxfyle-2__AOB8CDADp-z0lz524-3upmZx0h7u2ebW7ioOMBYiXu6GtwmyCj8jUfeo-kgC34dey1lvsSeMginndldGtphviBRg1gv90MjIhWqGRGP9Eh99o35O5KxtSPWaeM4mIhvDzFAI7JLe8JI4CGWXwH7rqueYtA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@arnoetalee</id>
-  <updated>2026-03-10T19:40:39+00:00</updated>
+  <updated>2026-03-10T20:38:23+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html"></title>
+    <published>2026-03-10T20:34:00+00:00</published>
+    <updated>2026-03-10T20:34:00+00:00</updated>
+    <id>https://t.me/arnoetalee/3052</id>
+    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3052"/>
+    <author>
+      <name>Арно Тали</name>
+    </author>
+    <content type="html"> </content>
+  </entry>
   <entry>
     <title type="html">Лезвия гильотин. &#13;
 Настоящих, мариеантуанетовских,...</title>
@@ -179,19 +190,5 @@ Klek…&lt;/blockquote&gt;</content>
       <name>Арно Тали</name>
     </author>
     <content type="html"> </content>
-  </entry>
-  <entry>
-    <title type="html">Это специальная татуза для тех, кто ценит...</title>
-    <published>2026-02-15T13:39:56+00:00</published>
-    <updated>2026-02-15T13:39:56+00:00</updated>
-    <id>https://t.me/arnoetalee/3030</id>
-    <link rel="alternate" type="text/html" href="https://t.me/arnoetalee/3030"/>
-    <author>
-      <name>Арно Тали</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Media is too big&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;a href="https://t.me/arnoetalee/3030"&gt;
-Media is too big&lt;br&gt;&lt;br&gt;
-VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
-&lt;img src="https://cdn4.telesco.pe/file/TOJinLu4a0o8otRjDfgAkr7cSkqvpAkAU1DO2AXCvSgRZ5u8sWIqTCVfqi0UDSsQFlo1nLIjsuWByhZlV7OcrtjGT_Bl5ba6gul7eMmWQ7mYJNln6wboD-aCR4_RGWxLAKLraWNodOsuLeL-woPOBaDIDX_1oJIzLSg8me78tLxtWxLU0Qh4v6j8MRK460RUhlvCLRMlPNFkl2ZYnXa01mmSq5v7BTsdxZBtm9uo036EZ7RMdSE44MHfHdCIDfhgU3Xc8avKu6bLJmqMREjVrIuBnvKot8gyclE7UhgmnnwUR3jHK7XAifAKGlrzKN9PhC1t-yfT5MOJb-hXWvhEOA"/&gt;&lt;/a&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Это специальная татуза для тех, кто ценит индивидуальность и не хочет ни иероглифы, ни знак бесконечность.&lt;br/&gt;&lt;br/&gt;У вас есть что-нибудь подобное? Ловец снов или птицы? Может, пионы... Поделитесь в каментах&lt;/div&gt;</content>
   </entry>
 </feed>
