@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/ck5QwaQwHLGikBZZfzQuXTBzHBJoejCFZRgI24myX_BH52RVkW4FjpezF0xVlw_MHLJv4ALGpjGGxTWaMtnRMCF2eRoezG4Y69neRRj_OL35pzPzBvn6p79aUKhn1uRRlmyME6l0NQMmayP9VfU7rouFGtV6FEiMaQMEpcZp0t0zUy8BzIEXCYfsIWCiV2RG-kP7j-CuSmK20b9lAc3257YbBIM489D-2l3sBvhyl-rBfvlymDsSs4i7UxhreslV6DHJLA1IiLwxm99gp9ndg7S8HMEiiBJ0lngs5ZHbM5cYrxMpD4VW5Dg-dimIVUGqCbUfjblgmI0H6UBld_Cu1w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/ck5QwaQwHLGikBZZfzQuXTBzHBJoejCFZRgI24myX_BH52RVkW4FjpezF0xVlw_MHLJv4ALGpjGGxTWaMtnRMCF2eRoezG4Y69neRRj_OL35pzPzBvn6p79aUKhn1uRRlmyME6l0NQMmayP9VfU7rouFGtV6FEiMaQMEpcZp0t0zUy8BzIEXCYfsIWCiV2RG-kP7j-CuSmK20b9lAc3257YbBIM489D-2l3sBvhyl-rBfvlymDsSs4i7UxhreslV6DHJLA1IiLwxm99gp9ndg7S8HMEiiBJ0lngs5ZHbM5cYrxMpD4VW5Dg-dimIVUGqCbUfjblgmI0H6UBld_Cu1w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-10T20:38:09+00:00</updated>
+  <updated>2026-03-10T21:32:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -30,7 +30,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Что выведет этот код?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;13% - 1 nil 3 nil 5&lt;/li&gt;&lt;li&gt;40% - Optional(1) Optional(3) Optional(5)&lt;/li&gt;&lt;li&gt;40% - 1 3 5&lt;/li&gt;&lt;li&gt;7% - 1 nil 3 nil 5 nil&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Что выведет этот код?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;13% - 1 nil 3 nil 5&lt;/li&gt;&lt;li&gt;40% - Optional(1) Optional(3) Optional(5)&lt;/li&gt;&lt;li&gt;41% - 1 3 5&lt;/li&gt;&lt;li&gt;7% - 1 nil 3 nil 5 nil&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
@@ -140,7 +140,7 @@ size — это сколько байт занимают...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;16% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;58% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;14% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;12% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;16% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;59% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;14% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;12% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">struct Diff {&#13;
@@ -178,7 +178,7 @@ size — это сколько байт занимают...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Да, размеры равны&lt;/li&gt;&lt;li&gt;53% - First больше&lt;/li&gt;&lt;li&gt;13% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			будут ли размеры равны?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;30% - Да, размеры равны&lt;/li&gt;&lt;li&gt;54% - First больше&lt;/li&gt;&lt;li&gt;13% - Second больше&lt;/li&gt;&lt;li&gt;3% - Ошибка&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">#квиз</title>
