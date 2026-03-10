@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-10T21:32:08+00:00</updated>
+  <updated>2026-03-10T22:31:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">App Store Connect API 4.3 https://t.co/liY85EKh9R</title>
+    <published>2026-03-10T21:52:37+00:00</published>
+    <updated>2026-03-10T21:52:37+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26137</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26137"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.3 &lt;a href="https://t.co/liY85EKh9R" target="_blank" rel="noopener"&gt;https://t.co/liY85EKh9R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;&lt;img src="https://cdn4.telesco.pe/file/mzsuFJP9HSG3TpEmLtNck6SNXzDs3wvlcwuEd1WVVNaWp9Ah1UKyjselQqd0LMpCKMX3EfQIdQWjJ2OW_ewRIyaziE8KWXELH3MaBMi_V47KJigeY2OW61UW3zZuPqHx6txWFxAjmZxT1HcrsFsBQYeOB4aFl-czvJhZGgqVSmpf_n-jZ5Gkd1bzI_hAZeyr7kzyTtYP6NE3MnxtOzKQ0pUrAUq0B7xIYmzQdlu3IRzYdZzv_GJ3K3tb6ssCU7beO5I6IRB4dgoBjT1eDI7LybXZdsYzvTKoJuZAO-3vJsJbETafYlkYRfAiTS4GyYBiv_3nAbn1rvlG_SaeRrK9MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;
+App Store Connect API 4.3 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">macOS 26.3.2 (25D2140) https://t.co/7xY91clrSD</title>
     <published>2026-03-10T18:07:38+00:00</published>
@@ -240,17 +252,5 @@ Yoink for iPhone and iPad v2.5.4 now available, improving its Files integration,
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Measuring Core Data and SwiftData &lt;a href="https://t.co/FqcfYuqXAS" target="_blank" rel="noopener"&gt;https://t.co/FqcfYuqXAS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;&lt;img src="https://cdn4.telesco.pe/file/vlK9UAQmYXHTWWBQ9bNi5oUfjyPxlHtu1f2XwMaz6bGoIu68D5IdxBLrVEvKOxw8RTiFmvQe7BY3xoVR1Tab7MZlOTenwhCAEfcKPiuTST-mNvEpw7i5WhUXZo6vG-JexEo91K-lOKsAGgluGaFKDwZJ4dyTg6lSMXbMNaOzCQ3qYrN_J_rVj9NFWhL7FKroTduvte1pV844_cL_8xLXEjwnpspY1BdtfVi6N0pQkmBoVZySxp2HgoIMYYRSjF8gxY8KgV_2i_Szd9xVTFIen04YYJYZLQ4lB9zkCj4I9bEJlcYAQOZOQ4np6Kr-uxsVUNJAw0osKBxE58ETSw34zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;
 Measuring Core Data and SwiftData - Yaacoub&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A https://t.co/a3lt64m3Ma</title>
-    <published>2026-03-09T06:27:07+00:00</published>
-    <updated>2026-03-09T06:27:07+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26117</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26117"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A &lt;a href="https://t.co/a3lt64m3Ma" target="_blank" rel="noopener"&gt;https://t.co/a3lt64m3Ma&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;&lt;img src="https://cdn4.telesco.pe/file/qlNcxHctCxACuu_0hk1PAY0bs436EfKPqp-L0dJ3PF-eyyHxG-4YqC4-Zhj2EHDkBFetV-4LxOTQHswbOFwhrKbI9NFGP9b-PtyM8jpjs2seSJp3PBZtyI7j920ZjCt6PmHGSU7pHv6U7kbtuIQeZKsn6nMWYiNwG2xz1kM1a5oKIT24rO_-ooY5c4CplP111N-dpX6Du3Y_3rwrKIGhEBtNO43NTViM_iyBroMlUtqZUYZHI8tqDZ4w9g5aYazCYh1SSx-xocWyDHpqFXDVETZTINWftApXPHCC9XDoDj4R-lf9vlrPkRiRb8mNtppGkWSRIR70EDUlqamurJ7XaA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;
-SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A - Substack&lt;/a&gt;&lt;br&gt;Answers from Apple Engineers&lt;/blockquote&gt;</content>
   </entry>
 </feed>
