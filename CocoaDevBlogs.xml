@@ -6,10 +6,36 @@
   <icon>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-10T05:49:13+00:00</updated>
+  <updated>2026-03-10T06:55:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">I Caught My AI Agent Fabricating Data to Look Busy https://t.co/9aNaTC0mBX</title>
+    <published>2026-03-10T06:32:39+00:00</published>
+    <updated>2026-03-10T06:32:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26134</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26134"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Caught My AI Agent Fabricating Data to Look Busy &lt;a href="https://t.co/9aNaTC0mBX" target="_blank" rel="noopener"&gt;https://t.co/9aNaTC0mBX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;&lt;img src="https://cdn4.telesco.pe/file/b1RPHHWnqf6otGLYdci31Mf-W1tRZZjwjJPSBM1F_G388YekLObNOK1DjIhBouEw82zVMDOpSAIMfTooOEt8_5ZoMjMgN7KewNfgTPU6K7fNOSKhNKJdS2vAVeeT6VJKpPSXFHCs9Tu3GWM4xjdCV2am-9-gbFCrIxenR5UMb74yPpQWFs3yTCk3TQyhdbPd5t7fNOPJ73mlg6QjEJZGzpPUqFFUKb2TgVG0Epouc6yBkp7CpzagjQDwOq3-ge31CX0At3NFMrBtMANrzb23N6C5TNGnMEuOy1jhhWHUR2L52o4a4dU87P8wNQ8zoGUQkKhthd4ms6cR49rIve0x2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;
+I Caught My AI Agent Fabricating Data to Look Busy - @samwize&lt;/a&gt;&lt;br&gt;I set up an AI agent to monitor Slack while I was on leave. It fabricated timestamps, skipped reading threads, and stored fake IDs. The root cause is a pitfall every AI agent builder should know.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">How to handle popup with WKWebView https://t.co/Pw6xqPIRqv</title>
+    <published>2026-03-10T06:17:43+00:00</published>
+    <updated>2026-03-10T06:17:43+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26133</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26133"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle popup with WKWebView &lt;a href="https://t.co/Pw6xqPIRqv" target="_blank" rel="noopener"&gt;https://t.co/Pw6xqPIRqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/FyG22bLPmDnxHbr0Q9j9Ji-uY_l78YdU6IWDioo5D_d6jleqay-dFp6D5VxLBrcQdi2mrZeI1DS1IZL7rKxJwG9EBvIh95fEjXl8o_3p_Ho98ECGvFSwCUel6b8Bsuyq3VOtVgwjkJZnyen5MovOlOl8xV-DOr0TZzxLE4W_H5w6kesM6p_EIiR_6_oADpGqTNw9y3cmpvmXf4wdjxDCOburcvV6-g8UCkHu_eqZ_L4EDpmLi1vzBVxCfdBB2Fw9qpbqdNheKy6JRs24tAfkT_tAEHRsrL-mJeWmbxXHLgwW1eRBQ61WL3TPR43LKDQlT9_hUvYo3I2yjOh3MwHKiA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;
+How to handle popup with WKWebView | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1011&#13;
+You’re building an iOS app with embedded web content. Everything works perfectly until your users need to authenticate through a third-party provider — the popup gets blocked, or the callback never makes it back.&#13;
+WKWebView’s popup handling follows…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : RoversX/LaunchNext https://t.co/7hRElUi4gS</title>
     <published>2026-03-10T02:07:32+00:00</published>
@@ -188,7 +214,7 @@ Yoink for iPhone and iPad v2.5.4 now available, improving its Files integration,
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Measuring Core Data and SwiftData &lt;a href="https://t.co/FqcfYuqXAS" target="_blank" rel="noopener"&gt;https://t.co/FqcfYuqXAS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;&lt;img src="https://cdn4.telesco.pe/file/iVui7PebarzAQvCPBwfEsiHCLlW3hn_amssFdoODU-RVUGTuQ9mXhb0nDQqC_OXmbBRbW-HNDIErv9cT6-S7pehq2ZVjImyJ6dtdqhTg4fsKM8rYbG--1wmKyuC0js7pH3ME2lCile3dnz1YlHEIBMQioQZ9jBNXXiXpimTOfuWX2lljQ95Odf4P8p803x30MXko-PHCjNCAUHzUm5GTNG1YR_jlvL3P7qji3_Mt_Li35pWy0N7cvLXE_9OcRE35_RHZ_GXGVu67grcfBWPjeN2XnMZmpgd7T-hwuQNFkRDu_HkGQdXWEAhC8a7FVCDrZVy9WyctK0hc6UP3cojUmA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Measuring Core Data and SwiftData &lt;a href="https://t.co/FqcfYuqXAS" target="_blank" rel="noopener"&gt;https://t.co/FqcfYuqXAS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;&lt;img src="https://cdn4.telesco.pe/file/vlK9UAQmYXHTWWBQ9bNi5oUfjyPxlHtu1f2XwMaz6bGoIu68D5IdxBLrVEvKOxw8RTiFmvQe7BY3xoVR1Tab7MZlOTenwhCAEfcKPiuTST-mNvEpw7i5WhUXZo6vG-JexEo91K-lOKsAGgluGaFKDwZJ4dyTg6lSMXbMNaOzCQ3qYrN_J_rVj9NFWhL7FKroTduvte1pV844_cL_8xLXEjwnpspY1BdtfVi6N0pQkmBoVZySxp2HgoIMYYRSjF8gxY8KgV_2i_Szd9xVTFIen04YYJYZLQ4lB9zkCj4I9bEJlcYAQOZOQ4np6Kr-uxsVUNJAw0osKBxE58ETSw34zw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FqcfYuqXAS"&gt;
 Measuring Core Data and SwiftData - Yaacoub&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -200,7 +226,7 @@ Measuring Core Data and SwiftData - Yaacoub&lt;/a&gt;&lt;br&gt;&lt;/blockquote&g
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A &lt;a href="https://t.co/a3lt64m3Ma" target="_blank" rel="noopener"&gt;https://t.co/a3lt64m3Ma&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;&lt;img src="https://cdn4.telesco.pe/file/DW5V6BEWqFRhxdf0yHI6Z_bpYsiWs8RWmZN-P2n5xRTOAw7wm0KZnw08fLI3Pv0Y9pFL2qqQuBTH7tV8H7VT7epvO6W1lskSe8zFAxYUetgcVeM85DIEGSL5uEBoOId-UTc9uga9RxxZZIZ-hpL4VNusICI7seFo085CyzfRTkuozwRxbnVUAKB1RdLKzn0O1uPe1ARbEndfVbAQEDo7Ql9ol_28749_pR0SJE5A9cFj550ja8gv4NRlCpWKAloJ8a6R8S-3keq8IkBcu44r1VCkw-n9saKJcH5WkqEPrOJIeiKXONyW_quuYowkxahFOEUL1eKsJPkyZJmDatei7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A &lt;a href="https://t.co/a3lt64m3Ma" target="_blank" rel="noopener"&gt;https://t.co/a3lt64m3Ma&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;&lt;img src="https://cdn4.telesco.pe/file/qlNcxHctCxACuu_0hk1PAY0bs436EfKPqp-L0dJ3PF-eyyHxG-4YqC4-Zhj2EHDkBFetV-4LxOTQHswbOFwhrKbI9NFGP9b-PtyM8jpjs2seSJp3PBZtyI7j920ZjCt6PmHGSU7pHv6U7kbtuIQeZKsn6nMWYiNwG2xz1kM1a5oKIT24rO_-ooY5c4CplP111N-dpX6Du3Y_3rwrKIGhEBtNO43NTViM_iyBroMlUtqZUYZHI8tqDZ4w9g5aYazCYh1SSx-xocWyDHpqFXDVETZTINWftApXPHCC9XDoDj4R-lf9vlrPkRiRb8mNtppGkWSRIR70EDUlqamurJ7XaA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/a3lt64m3Ma"&gt;
 SwiftUI Foundations: Build Great Apps with SwiftUI Q&amp;amp;A - Substack&lt;/a&gt;&lt;br&gt;Answers from Apple Engineers&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -226,34 +252,5 @@ GitHub - apple/swift-openapi-generator: Generate Swift client and server code fr
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : groue/GRDB.swift &lt;a href="https://t.co/i54OeYV17h" target="_blank" rel="noopener"&gt;https://t.co/i54OeYV17h&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;&lt;img src="https://cdn4.telesco.pe/file/MzhNM5Hs54uLbO_i72WZo2l0vCzqne4xVuNTjlDN7lwNjwXKFDN0Irupt5Zc1nYdtCvKVZg1pYswrdEyYeD1bTTRgjhNzoDiaGAoVoXJz9bYhpMwVXzbyrubCNHydSXWjfL-7BgF8FW5OLxe9SHPwBUxTsqRPSJgkrAmT6dREAHvKZPV4VQKW8TvV8ov79Ox64d0VKg1NjoMytgu70QNjkt_Z3qXJK7H7joZbpYQA8IiL8EukRJPrAjefZQ6ivPU66u6CISh4Sy9B6q1dnx0DFOoPactDvBk9RDwjyZYxFJHD78R9rCU8HKgghBIj9we8xIBOp8nZJCqgs6lTrxD9A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/i54OeYV17h"&gt;
 GitHub - groue/GRDB.swift: A toolkit for SQLite databases, with a focus on application development - GitHub&lt;/a&gt;&lt;br&gt;A toolkit for SQLite databases, with a focus on application development - groue/GRDB.swift&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Scroll to hide iOS 26 Tab bar using SwiftUI | #apple #ios #animation #coding https://t.co/JoMngaklKG</title>
-    <published>2026-03-08T21:52:34+00:00</published>
-    <updated>2026-03-08T21:52:34+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26114</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26114"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Scroll to hide iOS 26 Tab bar using SwiftUI | &lt;a href="?q=%23apple"&gt;#apple&lt;/a&gt; &lt;a href="?q=%23ios"&gt;#ios&lt;/a&gt; &lt;a href="?q=%23animation"&gt;#animation&lt;/a&gt; &lt;a href="?q=%23coding"&gt;#coding&lt;/a&gt; &lt;a href="https://t.co/JoMngaklKG" target="_blank" rel="noopener"&gt;https://t.co/JoMngaklKG&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/JoMngaklKG"&gt;&lt;img src="https://cdn4.telesco.pe/file/svsICf3InnMeZAmx6K1deDq4__Y6SeVOht3Bb4pto5uJLvV5u9y1tjU-ZJUjjZf8dsinRijhEGAJYP3YhCqe2due3Yn60fMJX-U6k0qmyw59IMEXYf-gn-EJ1p0QCUYkkIxxZrEHIgakWnL2sRiOrhvbigHhI72iqLs2E12Kw192EvhB_wZEQAZWaYoBBC77Ovngem6RVX4376HEOMdEAe-MAqFlA5j21pnrSlLsT0IBrkKIb3F56mHEptPDu4dHmzCzUHDATSQ9G-dPYCFcsC9slg4mnsbLEQvHJeZdMelPGGpKnn-mG1nL44tbE3t8MYBgjrSKl3UqGtwUBiwFmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/JoMngaklKG"&gt;
-Scroll to hide iOS 26 Tab bar using SwiftUI | #apple #ios #animation #coding - YouTube&lt;/a&gt;&lt;br&gt;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 https://t.co/O7SI7dV8oR</title>
-    <published>2026-03-08T20:57:33+00:00</published>
-    <updated>2026-03-08T20:57:33+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26113</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26113"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 &lt;a href="https://t.co/O7SI7dV8oR" target="_blank" rel="noopener"&gt;https://t.co/O7SI7dV8oR&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;&lt;img src="https://cdn4.telesco.pe/file/llCnws4F_H7P8XpyeQTpWNKCvNNjgrCQ9CIClu8Oz4y5i_i-L2UMEpd4N-_t888Ps2eYvatCirOSlo2cR_o63YgG_4TOQiYrzTmJm3lUJDTHUikJHORZot5wY1MUAJsj8u4-aZDq2g5UFDWKSpQpY8C5Ih2P-fKNvcUkttiW_KPuGE5Ml6btP44tF4IyM2qix3qsl8A6SGwZI1Fh16e2rvghJhzvd_8vNSXeF3Ld15AcMTZHQP0pgDTpJczEH2R7pesfOKtJdpiqRhu-MKFdZ9I0PuO4FTdWqdHxD3WSYGMyiIqQ157MY1xsupRz4ZpQe-y34VMurG6WNT15G4co7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/O7SI7dV8oR"&gt;
-Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6 - YouTube&lt;/a&gt;&lt;br&gt;In today&amp;#39;s stream, I plan to wrap up the smart tagging features I&amp;#39;ve been working on. Here are some of the features that I want to implement:&#13;
-&#13;
-- Renaming tags&#13;
-- Ground the model in existing tags&#13;
-- Improving the UX&#13;
-- Using Gemini 3 Flash Lite&lt;/blockquote&gt;</content>
   </entry>
 </feed>
