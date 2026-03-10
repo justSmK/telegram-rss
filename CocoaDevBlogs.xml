@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GVJLxER9fbJBbhD85kki_t49yWWa9_VtesLcgLSutswvuk7ITRUzhi_BztpOI8shWZ0x9O3mZ2P1FWtOUdt0aP0QhBAMzDfaBTB1TLaZnSd-fC3xGnRZWILiGH1avLy-Bghk1IIZgk8QFn-AtOa_n6hrQUFpa2jSsREdle16Khuk6_vqb885KOzsAlX5tc63um4H249kpYI298-f_FabZb9I-zu1GMOD9rZZR3Ix2CbWsnRZwvbziPvCXdnT1l6gGlWKtaXkKeuYnjL1nB_QmCBTzgx3qqjW2HdRmhABbCLsQdfVwa8lt8WDxEzX_8glIQnYajUZc51BZnoNl6I4TA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-10T09:49:58+00:00</updated>
+  <updated>2026-03-10T10:42:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -178,7 +178,7 @@ Is SwiftUI finally as fast as UIKit in iOS 26? - Jacobstechtavern&lt;/a&gt;&lt;b
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom names for Swift properties when decoding JSON data &lt;a href="https://t.co/b1XO5zUwof" target="_blank" rel="noopener"&gt;https://t.co/b1XO5zUwof&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;&lt;img src="https://cdn4.telesco.pe/file/Gog3XojsxkeftXviXaDNwkxrAJtbbtNs1kwvymIAeFNLGbiEtjW1UyhcHva7wBOqR9Agqe55qREdeLEB5SJSUmOP5RssDnFRyytFT-FVsM5YmeusDcifupbPN8NjoAjgkgz534qGei8LGV4CpZ-4meIGt7eWJ3-evIqLv8GgED1piSRx8IUiUpRtyBdBcF0LE956b4tVKELhh_GCvD8-FhLqzDnbAhLkgdDFlEyBRlcLvVqb9KtT9I7sVH29ZVhhoiPnN_NfwgJ0bJsIj2R7TExBMHO6abk3sLX5YEMPnBuwSovrkPdadt4BRDK7OyRNkLqfC9WTqF8PfMIHl5ODew.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom names for Swift properties when decoding JSON data &lt;a href="https://t.co/b1XO5zUwof" target="_blank" rel="noopener"&gt;https://t.co/b1XO5zUwof&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;&lt;img src="https://cdn4.telesco.pe/file/p8ltwgWJz8zr82eeenQA6VOYejrNg8RSCUYVSdbbSTEOdK5oxxv3t1c6FN6Zm6LaVGTzifsS-vhm_dtQEX77d2xLf6EqqR4CnRG0K7CEJ5WrtshkMpkxOVlb0qzIWOnaBLeiKuIwAAqVHnIhJoQpP3lJtGbmHNKI30VTCzdAB4x6zchBjnA_ck8wYTVox5mGuXhX_Xk_NeO9ZvJYGyNEXIJ7nzcfK94I4LleOJILQ2d8XC_G_NcSfTQfjLer7AlqO4I0mOcF0Gc_oy7u6-iKVJ-3-zI9RSD3qETJSegOfYuYiM-XFhwx__39J6kFiP2yB-YJayPHK1zlfLq6h-m2rA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/b1XO5zUwof"&gt;
 How to use custom names for Swift properties when decoding JSON data - Tanaschita&lt;/a&gt;&lt;br&gt;Swift&amp;#39;s Codable protocol makes it easy to convert JSON data to native Swift types and vice versa. In some cases though, we may want to customize how JSON keys map to Swift properties. This article shows how to do that using CodingKeys.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
