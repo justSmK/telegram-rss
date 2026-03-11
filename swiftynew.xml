@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/M3u2Arj5ZWDPDPdj_uK9hB9vbiZk4Cf6ezVPDsWaBNCtE9fWSjir8eVvs2mVwI9sVy783ILn5tQf58PRJe2vp7oI5gscMDBXiQSsF5BPNjYI0x73VljkcmGxFY-diRLPNdfz0CqObV07dWJhoLFjnCyLJIB_Hjj4xZgnNS6FOU8xAO1UwG0yoxY2_ePa7uMrNTyP3uITp0XO3cjIrET7h-B9LdTYeoMEQ7ALXmXr1brEc0Vs50vQq5DjcBv50gNExIGtfwWsnrjRJm6uV84ySS4W7WUNarvIfmSK_s-AOiI_nkgXKnqKTln3UMnngZ1bTyhVqS7A4P6x_5pcBKsf5Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/M3u2Arj5ZWDPDPdj_uK9hB9vbiZk4Cf6ezVPDsWaBNCtE9fWSjir8eVvs2mVwI9sVy783ILn5tQf58PRJe2vp7oI5gscMDBXiQSsF5BPNjYI0x73VljkcmGxFY-diRLPNdfz0CqObV07dWJhoLFjnCyLJIB_Hjj4xZgnNS6FOU8xAO1UwG0yoxY2_ePa7uMrNTyP3uITp0XO3cjIrET7h-B9LdTYeoMEQ7ALXmXr1brEc0Vs50vQq5DjcBv50gNExIGtfwWsnrjRJm6uV84ySS4W7WUNarvIfmSK_s-AOiI_nkgXKnqKTln3UMnngZ1bTyhVqS7A4P6x_5pcBKsf5Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@swiftynew</id>
-  <updated>2026-03-11T07:50:01+00:00</updated>
+  <updated>2026-03-11T08:48:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -76,7 +76,7 @@
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/swiftynew/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/NPwzd85XOdjMrdV9I9RBWkwkcdDa4aXC_rg9tYK8PKZcuSxqak6N_-Feqp5g2MHZgqA6hTEN4AjEvLilfNXnKPAfjB0gEiRrcil4LiC7AzZ2JEwDUZ7w8x74k3aaL6bK9xWDSjPF_bseGGw0mfKYyiqJo_efMI3rkhH8pHjzveYtz1Cqs_I6SBXdl4jXvHyGQaII5hg15VafZMO7utJrJBAoCqUs3fjteYH33IL_JJcuzFfO-JpoMqIFzfywiW1w1xkG_3GMLyJJYB6RHBcCySKzApHZoXVgka6E9W3KXCSezi4ZirEaAhDEQncxGQ3fRIzeKLSeo2cjzr0C_Vxe3Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/swiftynew/674"&gt;&lt;img src="https://cdn4.telesco.pe/file/N40pjyZo7ufzaIKGwZ93oe4mtyhgcR4aCTqoFefuUijgaTSRRNzGB812rWh54XOPoAe8OaTpGETijlMTg3aX5UTdJMj4eCxOQT1F56D3YxYBu3gHUEiTpvGWi16OWA4F0zPwPmiRK8l5TyVJ6zsxVS1zqow7raPBo4eKz6EmwA7gULb8OAv8q2JFiYPqbhFXVmrqMQ446OypxsdpIfn_2wmVCu6QlajawgPo7zVQlual4DHJMW0r_duSa7o6u8zkxe7qXz1jo0edqylbjxkzfg4nYF9rjLNr-VpkGZ7F1nfXlRTmW1fpI_110YPaqTD_AMLChdiX8aIUZxhKs1UUwg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="?q=%23%D0%BA%D0%B2%D0%B8%D0%B7"&gt;#квиз&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">        Please open Telegram to view this post     VIEW IN TELEGRAM    </title>
@@ -140,7 +140,7 @@ size — это сколько байт занимают...</title>
     <author>
       <name>SwiftyGroup</name>
     </author>
-    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;16% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;59% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;14% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;12% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			Чему равны выводы?&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;16% - size = 10, stride = 10&lt;/li&gt;&lt;li&gt;59% - size = 10, stride = 16&lt;/li&gt;&lt;li&gt;14% - size = 16, stride = 16&lt;/li&gt;&lt;li&gt;11% - Код не скомпилируется&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">struct Diff {&#13;
