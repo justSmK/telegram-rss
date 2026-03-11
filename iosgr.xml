@@ -6,10 +6,30 @@
   <icon>https://cdn4.telesco.pe/file/RRmtnmFgiy0kqN9n-jxcykMzjBZKIQJwD26dyR45YJwSiEcAuNK3w05hjHs-jafKqfzW-peGskMlVAhbZ3wdVBHQkfFBC4EE4ssGHoLDFhfelzD1tJn80AKyaMKY80k6Xx00Or-UuYh1Tpe-xD65gov34ptBRuk6Qldrenk__LhyLQpA1AD_S_hB4LfIvqlMaY4PE3ft1b98p_guPjKOW4uonlkxwbQhKYVE8FRL0HwiMv1Kn1aXQTUN-PrtGXMqLOAMJOIapm-PMg1aYeXAReJRlV2z3U76ClKUxLEh72HkqsVKBHmXPqmoqGmLiPHMpJTeV_h6vZ_4Sd0rTt5t1A.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/RRmtnmFgiy0kqN9n-jxcykMzjBZKIQJwD26dyR45YJwSiEcAuNK3w05hjHs-jafKqfzW-peGskMlVAhbZ3wdVBHQkfFBC4EE4ssGHoLDFhfelzD1tJn80AKyaMKY80k6Xx00Or-UuYh1Tpe-xD65gov34ptBRuk6Qldrenk__LhyLQpA1AD_S_hB4LfIvqlMaY4PE3ft1b98p_guPjKOW4uonlkxwbQhKYVE8FRL0HwiMv1Kn1aXQTUN-PrtGXMqLOAMJOIapm-PMg1aYeXAReJRlV2z3U76ClKUxLEh72HkqsVKBHmXPqmoqGmLiPHMpJTeV_h6vZ_4Sd0rTt5t1A.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-03-11T05:52:00+00:00</updated>
+  <updated>2026-03-11T06:58:27+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Sosumi.ai теперь CLI&#13;
+&#13;
+Sosumi.ai – сервис от Mattt, который упрощает...</title>
+    <published>2026-03-11T06:03:28+00:00</published>
+    <updated>2026-03-11T06:03:28+00:00</updated>
+    <id>https://t.me/iosgr/4625</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4625"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://x.com/mattt/status/2028856277972160828?s=46" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Sosumi.ai теперь CLI&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://Sosumi.ai/" target="_blank" rel="noopener"&gt;Sosumi.ai&lt;/a&gt; – сервис от Mattt, который упрощает доступ ваших агентов к документации Apple. Раньше он работал толтко через MCP, а теперь доступен и как отдельный CLI, так что пользоваться им проще.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://x.com/mattt/status/2028856277972160828?s=46"&gt;&lt;img src="https://cdn4.telesco.pe/file/NpTp2MTbT7ySU0lZ7j1cBBTrPLpmGDo_gdlrZWMSf_0pruxNIlI5XTd4MOpg70IAz1IFyRbPw6oXTjYXo3fEiwxl8J1v5LzE9IA284C0juLsspD4UtlMPgOdwnO9Ae4iGUM6AFeCclf0wbqrLqYlouOlfFaSnMET5SU0Hnae4qMfN0r_Fl1qYnrg_BGEBx6p5hAj--oDAmeps3PgT4XZCCySHOnkY4GjBYXnK2ACWvMrQeHAsfRarmDBbMAZDeglivXqa1ju_GjFswokyNBHgPDgSFjulhO1zy5FOQ_Vr-qlhawDe5DDw2m3HmM9R_Jz9-BMNsCxMnrw8hAbx4IYMw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://x.com/mattt/status/2028856277972160828?s=46"&gt;
+Mattt (@mattt) on X - X (formerly Twitter)&lt;/a&gt;&lt;br&gt;https://t.co/pb1UMcV8mC now has a CLI&#13;
+&#13;
+```&#13;
+npx @nshipster/sosumi fetch /documentation/swift/array&#13;
+```&#13;
+&#13;
+This lets you fetch and render  Developer content directly into LLM-readable Markdown, without connecting to a remote MCP server.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftUI Skill от Пола Хадсона&#13;
 &#13;
@@ -262,19 +282,5 @@ Exploring AI Driven Coding: Using Xcode 26.3 MCP Tools in Cursor, Claude Code an
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosgr/4606" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosgr/4606"&gt;&lt;img src="https://cdn4.telesco.pe/file/pdWy7GRmkMskM8ZGlLFpUifm3jTIL9oovEBOzKQqXJFDqbk2XgMHb8Boed9RBP9rFp5DXmczm9_bBS9tbvZVXI3k4lyRPZedRf3hRFtpvKn5Bd9z4SaEWdeGkkGW1S3drlXyp_gYTHILCwPIAf2pdc_wpUTbecpdwc8k6tJdft1O72MTirdRHVbpzkJ8gvpqVCvqDKg0oxLdXXW3HRlw3ymMLBkRRtJ0Czh_zpVbvMJa8xsgcsBV-nx6bpOffqEk4CYwDeQwkSBr6LoE-pFR0wCHYm3u4TPaXylZM3OkXKuKpWCVugcnqPYxqUY0uiw6dzMi_ybaz1MWojLfdkz2RQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как и куда расти мобильному разработчику в эпоху ИИ?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Предлагаем разобраться вместе с Яндекс Вертикалями (Авто.ру, Яндекс Недвижимость, Аренда и Путешествия) на Vertis Mobile Meetup в Санкт-Петербурге.&lt;br/&gt;&lt;br/&gt;В этот раз хардовых докладов не будет. Вместо них — нетворкинг, круглые столы, а также выступления о том, как работать над большими задачами, становиться продуктивнее и оставаться в балансе.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5280816763225788192"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"&gt;&lt;b&gt;📍&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Обсудим разные карьерные треки, переходы между ролями, влияние ИИ на индустрию. И обменяемся мнениями по техническим темам: KMP / CMP, DI.&lt;br/&gt;&lt;br/&gt;А после всех обсуждений участников ждёт афтепати &lt;tg-emoji emoji-id="5278222401115541898"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F90A5.png')"&gt;&lt;b&gt;🐥&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5359581893589214348"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"&gt;&lt;b&gt;🔜&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://yandex.ru/project/verticals/vertis-mobile-meetup26?utm_source=telegramg&amp;amp;amp;utm_medium=paid&amp;amp;amp;utm_campaign=iosgoodreads" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Полная программа и регистрация&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Swift – это более удобный Rust&#13;
-&#13;
-Swift и Rust очень близки с...</title>
-    <published>2026-02-12T06:01:45+00:00</published>
-    <updated>2026-02-12T06:01:45+00:00</updated>
-    <id>https://t.me/iosgr/4605</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4605"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Swift – это более удобный Rust&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Swift и Rust очень близки с точки зрения того, какие инструменты они дают в руки программисту, и того, какие задачи с их помощью можно решать. Оба языка дают удобные способы работы с памятью без компромиссов GC, оба при необходимости разрешают работать на системном уровне и оперировать напрямую указателями, оба функциональные.&lt;br/&gt;&lt;br/&gt;Что отличается – это дефолтный способ использования языка и перспектива. Rust изначально проектировался как низкоуровневый системный язык, который дает инструменты для повышения уровня абстракции. А Swift, наоборот, высокоуровневый язык для написания приложений, который при необходимости дает нырнуть в системщину.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust"&gt;
-Swift is a more convenient Rust - nmn.sh&lt;/a&gt;&lt;br&gt;From the Archive: Thoughts on Swift, while learning Rust&lt;/blockquote&gt;</content>
   </entry>
 </feed>

@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-11T05:51:59+00:00</updated>
+  <updated>2026-03-11T06:58:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">FreeBSDKit: Swift Package to Write Capability-Aware FreeBSD Apps https://t.co/LYlv7OYOQO</title>
+    <published>2026-03-11T06:02:40+00:00</published>
+    <updated>2026-03-11T06:02:40+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26142</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26142"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;FreeBSDKit: Swift Package to Write Capability-Aware FreeBSD Apps &lt;a href="https://t.co/LYlv7OYOQO" target="_blank" rel="noopener"&gt;https://t.co/LYlv7OYOQO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/LYlv7OYOQO"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/LYlv7OYOQO"&gt;
+FreeBSDKit: Swift Package to Write Capability-Aware FreeBSD Apps - Christian Tietze&lt;/a&gt;&lt;br&gt;FreeBSDKit is a Swift Package to e.g. work with FreeBSD Jails, kqueue, Capsicum sandboxing.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">TestFlight Update https://t.co/FjeoztxXWH</title>
     <published>2026-03-11T02:37:24+00:00</published>
@@ -103,7 +115,7 @@ TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View r
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Caught My AI Agent Fabricating Data to Look Busy &lt;a href="https://t.co/9aNaTC0mBX" target="_blank" rel="noopener"&gt;https://t.co/9aNaTC0mBX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;&lt;img src="https://cdn4.telesco.pe/file/b1RPHHWnqf6otGLYdci31Mf-W1tRZZjwjJPSBM1F_G388YekLObNOK1DjIhBouEw82zVMDOpSAIMfTooOEt8_5ZoMjMgN7KewNfgTPU6K7fNOSKhNKJdS2vAVeeT6VJKpPSXFHCs9Tu3GWM4xjdCV2am-9-gbFCrIxenR5UMb74yPpQWFs3yTCk3TQyhdbPd5t7fNOPJ73mlg6QjEJZGzpPUqFFUKb2TgVG0Epouc6yBkp7CpzagjQDwOq3-ge31CX0At3NFMrBtMANrzb23N6C5TNGnMEuOy1jhhWHUR2L52o4a4dU87P8wNQ8zoGUQkKhthd4ms6cR49rIve0x2g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Caught My AI Agent Fabricating Data to Look Busy &lt;a href="https://t.co/9aNaTC0mBX" target="_blank" rel="noopener"&gt;https://t.co/9aNaTC0mBX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;&lt;img src="https://cdn4.telesco.pe/file/vylWJLilV3X63Vt2LPGiib9jpOltbhc-pDIMEy8zl7J9WQeu7ExGfDWaCsMtl-UUkN2Wb6ebaELypZFX9P1sfwDO56WdZxRxslumxMXXUk4_QNfPu6Ev7ADxKuzzlvfjcp1tSf-8RRGMv_JtN0lzcvp7PdmEPnHcmECk9Ta5UmVpl0DrIGaPK3JITfeUQa7nDPjYwWt8kBZ6kDGdpAwFkkeUIydJhBNYbPP4iy01dN4zNrCaNpjF35mJwwDbLgAkNrnZmzVzDE7AP0NHkY2E-Zp9bmXcR8tT_E6OuJfaBoU_AINCKnw-ZBe4IqNLO0fV_8Idy4Tm6WF2avvoILkZAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;
 I Caught My AI Agent Fabricating Data to Look Busy - @samwize&lt;/a&gt;&lt;br&gt;I set up an AI agent to monitor Slack while I was on leave. It fabricated timestamps, skipped reading threads, and stored fake IDs. The root cause is a pitfall every AI agent builder should know.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -115,7 +127,7 @@ I Caught My AI Agent Fabricating Data to Look Busy - @samwize&lt;/a&gt;&lt;br&gt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle popup with WKWebView &lt;a href="https://t.co/Pw6xqPIRqv" target="_blank" rel="noopener"&gt;https://t.co/Pw6xqPIRqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/FyG22bLPmDnxHbr0Q9j9Ji-uY_l78YdU6IWDioo5D_d6jleqay-dFp6D5VxLBrcQdi2mrZeI1DS1IZL7rKxJwG9EBvIh95fEjXl8o_3p_Ho98ECGvFSwCUel6b8Bsuyq3VOtVgwjkJZnyen5MovOlOl8xV-DOr0TZzxLE4W_H5w6kesM6p_EIiR_6_oADpGqTNw9y3cmpvmXf4wdjxDCOburcvV6-g8UCkHu_eqZ_L4EDpmLi1vzBVxCfdBB2Fw9qpbqdNheKy6JRs24tAfkT_tAEHRsrL-mJeWmbxXHLgwW1eRBQ61WL3TPR43LKDQlT9_hUvYo3I2yjOh3MwHKiA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle popup with WKWebView &lt;a href="https://t.co/Pw6xqPIRqv" target="_blank" rel="noopener"&gt;https://t.co/Pw6xqPIRqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/p4kGRlWZgCHanvKwfCd0gUTRKr_X9t9-tO8E4pWjhi_M0leL-0GqLAjJ67vR9gH0YS05y_v_WSfQunyn2CDbE5qx2wHVsXUfSrJFlpazGjcha9ifLKbY0Td_G9VHImCDUwXxBFfL4VmQ7W7sVdoShnPFKSaU6EJx7q49RhVQoeYFE6oG8gsX4pyWsA-3MK9CMmTIUeoKhmTJQlVZHbEO1sY68hLA1a_hNJcBasZRyoojwTjCzfS78nV3B8iTt9OA_VMAXac4xd9jXv1VYRtkL0-qKjokKbkH49d11mz_x-oJzaiTOpHDIxabssOBSt7Vap1U7bu62RJvBUotphrpNg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;
 How to handle popup with WKWebView | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1011&#13;
 You’re building an iOS app with embedded web content. Everything works perfectly until your users need to authenticate through a third-party provider — the popup gets blocked, or the callback never makes it back.&#13;
 WKWebView’s popup handling follows…&lt;/blockquote&gt;</content>
@@ -240,17 +252,5 @@ visionOS 26.4 beta 4 (23O5235a) - Releases - Apple Developer - Apple&lt;/a&gt;&l
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;watchOS 26.4 beta 4 (23T5236a) &lt;a href="https://t.co/NjqropQOLM" target="_blank" rel="noopener"&gt;https://t.co/NjqropQOLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/NjqropQOLM"&gt;&lt;img src="https://cdn4.telesco.pe/file/AbeLbaEpyEFGgACosjiEXjYBeZ_b6DTfjXzN8YGSLriX5sMU0WveHHlC_GJ8d0pwTa45DKDGdl--0FVr3hlWiN7PDvHW3fejE_9nwmfoXZnyRIdVzlVOFedYYUNp2aXTEEG4-rfnu02goEtiSidWuHkFVnn5SvHa7zA1sS4QMDTHTDG3_Oa4fIUb7mUNasEU2mksrcAPDcuwPuLK2O5aMjB-DKwk3T4wHwB5HynrpTJ26g7wYNi-Oi2dgcDwsmOIsc3QnptIVuT7m_t-z4Mw3h2sDRocdmzQUIZ1Uv3EeSGzJ31zLcvW0U5bDtbUrvSBtaDXHpG39AWzNldIXw8k2w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/NjqropQOLM"&gt;
 watchOS 26.4 beta 4 (23T5236a) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Is SwiftUI finally as fast as UIKit in iOS 26? https://t.co/R3GCnBKSxx</title>
-    <published>2026-03-09T16:12:50+00:00</published>
-    <updated>2026-03-09T16:12:50+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26122</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26122"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Is SwiftUI finally as fast as UIKit in iOS 26? &lt;a href="https://t.co/R3GCnBKSxx" target="_blank" rel="noopener"&gt;https://t.co/R3GCnBKSxx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/R3GCnBKSxx"&gt;&lt;img src="https://cdn4.telesco.pe/file/XNKlrMkYuyc-QnNBrtLzst0mRK0yczl-vdM6e6yOGNB-8mgQvLRimqbhxmee5BgQDMDEx_mIixcsCB2UqYdO0FqogDScSj4pgxTDnvf_hgavA_lxhUFbzzPWXq8FHM1Y_jB8SfyZZfqgj7dGzxeyC-rz7M-vyYOftT6eZ2B0dg_KOEAgHbSPyUtPnYEpb5wCTQ3P0YjBb2xykKjcq7sliYGy451v3ZvHgFy8OGhstZ1bVaQXPMlYpWmFvD5cF8itRn0fgKKdXQrwjjXY06h2DKTZZKjOhmB2uNNlYXHnc7UIcb27hqV5hgr9PVLFpZwikiH_o9arVhmrSi7BPZ5gIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/R3GCnBKSxx"&gt;
-Is SwiftUI finally as fast as UIKit in iOS 26? - Jacobstechtavern&lt;/a&gt;&lt;br&gt;A scientific performance comparison. The final word.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
