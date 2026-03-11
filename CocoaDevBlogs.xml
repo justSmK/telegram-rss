@@ -6,10 +6,70 @@
   <icon>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-11T21:36:32+00:00</updated>
+  <updated>2026-03-11T22:29:46+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">mokacoding : iTerm2 microphone permission for Claude Code https://t.co/6UC6uDK8iT</title>
+    <published>2026-03-11T21:52:13+00:00</published>
+    <updated>2026-03-11T21:52:13+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26152</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26152"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;mokacoding : iTerm2 microphone permission for Claude Code &lt;a href="https://t.co/6UC6uDK8iT" target="_blank" rel="noopener"&gt;https://t.co/6UC6uDK8iT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6UC6uDK8iT"&gt;&lt;img src="https://cdn4.telesco.pe/file/SEgeyKgdkYWRjYvyvpznSkZ0S1GmXXsKZ1uZiFOTzJlCzuGDwpLh6Et-1pWQCex-7e7cbuCthI_jdI47vHw8nbmgqzqQYSROtmnyzLoOxUSa8DJwoCnQXD2xo8joVRgu4gXV-FS-k4-fVJ8fVIgSuJiqGVcDKBNXWi1AKC4ry-ob4KSfVjghYT8IkwEs-svblq1aC9dBVhGNehkSgTsbRGzw8sgEYv6QMFIkS_ieX3MH7yfAXdgDqTgO5wH20-XzfSeRGSd5jnYZXlwk0oIydRD72Cr-1c9b9LGYA11JhCPQ5t8eCFunTarqGIJnSQbuqfcO-iXiVO04267y6Rwyfg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6UC6uDK8iT"&gt;
+iTerm2 microphone permission for Claude Code - mokacoding&lt;/a&gt;&lt;br&gt;How to grant microphone permission to iTerm2 on macOS to use with Claude Code voice mode&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">iOS 16.7.15 (20H380) https://t.co/2OzyQvtvUp</title>
+    <published>2026-03-11T21:47:52+00:00</published>
+    <updated>2026-03-11T21:47:52+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26151</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26151"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 16.7.15 (20H380) &lt;a href="https://t.co/2OzyQvtvUp" target="_blank" rel="noopener"&gt;https://t.co/2OzyQvtvUp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2OzyQvtvUp"&gt;&lt;img src="https://cdn4.telesco.pe/file/PtcfRaMAA49Xu8LfRH8GTSoaJ0eAQ8Us2x8Xov6lUqoYJv22r2YJeiUkY3g03EoJWMoSxfqd_4t_bWmkUV6MIZmeXDwts1BXW-8nA_ylztwnik2GVT59sV5TLIKHFt8FznQyN5iHIdQyBfzrs6iz2DnwhSW_cdJpqkRf3tbAo9IhkrueBcKAIL2qZBGmUx7DdZuKgLRjGtViDPyHPLm2PeTtNsFOKMATI92y1FF5tSq19XEegiVRr30Cp26TIjtp6VGVbWkfpygKcMB0F_6qTsvNUPqSadevQIUXPMsd7g3dzgbcbywNcEfncNDfP1Rs72303MbyDsztlVs7oKJFAQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2OzyQvtvUp"&gt;
+iOS 16.7.15 (20H380) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">iPadOS 16.7.15 (20H380) https://t.co/PFcXwItOSI</title>
+    <published>2026-03-11T21:47:51+00:00</published>
+    <updated>2026-03-11T21:47:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26150</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26150"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 16.7.15 (20H380) &lt;a href="https://t.co/PFcXwItOSI" target="_blank" rel="noopener"&gt;https://t.co/PFcXwItOSI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PFcXwItOSI"&gt;&lt;img src="https://cdn4.telesco.pe/file/fYQ3FIW2IIAElG7R4sjlW4_3LJJlSB3KqHYvMZIvnT99ZMAMRsl61JBNrO8vTvopkgJlfbUSOA79H6vhZyQ_rfqNeCW6Tl-GYTr3tGUQ4_nU3o-8LDpZE-ByyfVowc47gOYVWcRG_vwjbBxp9Nm6BdgtTSWGZaCsAsPn9hS_pPvTnww4NoUMZhKzam7hu8Gp0yUPKHbEOVXAejTODzMCEprPV4FMTQ83xfQUhiZeEsjEfy785xe3AszoRrxk5ZeUYx7YeIq1_i3_amFIpe7fT6IPXE4LMZMZa8Vq9QtvTNMEtu_pHBPjoHayN09OYPqy3GbFv3jmED3Tq4T3pNvqrA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PFcXwItOSI"&gt;
+iPadOS 16.7.15 (20H380) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">iOS 15.8.7 (19H411) https://t.co/zvJPF5zMTM</title>
+    <published>2026-03-11T21:47:50+00:00</published>
+    <updated>2026-03-11T21:47:50+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26149</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26149"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 15.8.7 (19H411) &lt;a href="https://t.co/zvJPF5zMTM" target="_blank" rel="noopener"&gt;https://t.co/zvJPF5zMTM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/zvJPF5zMTM"&gt;&lt;img src="https://cdn4.telesco.pe/file/UN40R8zEgDUCGw0GSAas0ROJOUTB4cBivXYxmQi8U0malPrJxg_zfKO6fdxUa8uFiONpRnNeiQLx8cDz9pjyPgXTejYh9BoxcUxp_GZjsxqzRhZ6kNtRQuM4h8QY030NnQ3bO4ZhH1GGbDf1V298TGPkATHiVrSd_65BFk5KwnVFWeeT2LU4L5y1pZqzpajToMP7QCoD3_eEjHog6m0fNhat05o7X9SHtfzIhF5zD8KR5sWpw52rkgUYEtrtqBMsmwDEdeyt5TGmXbCLQun62pRGQT6o-ep58VESo9-R0ne5jdshC1oYfunAYrc4h1Y1u0yS5eRmA-m5Yrjew3LaTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/zvJPF5zMTM"&gt;
+iOS 15.8.7 (19H411) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">iPadOS 15.8.7 (19H411) https://t.co/DiNsqWVbLM</title>
+    <published>2026-03-11T21:47:49+00:00</published>
+    <updated>2026-03-11T21:47:49+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26148</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26148"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 15.8.7 (19H411) &lt;a href="https://t.co/DiNsqWVbLM" target="_blank" rel="noopener"&gt;https://t.co/DiNsqWVbLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/DiNsqWVbLM"&gt;&lt;img src="https://cdn4.telesco.pe/file/nk8hfbOpHSrOHt3PG9IUlji1y-yxT28ci0c5X1ZLPlNL15vDKFyDCdDw2vyASya11fSZfyfLDVJp5Si5S9-yi74Vu3entUuQjezHlGafSMcmHMC43t1YKa6MqMsiZ4VkSBRdXD9DFl4YKRq7z1MS1Ii8VjDsSPrRx9v8j6X1QuY8KpsWeszt0GHp8AgWQ771BEV3vJQYdeDWrczu5sDhDrzIv41Mzs9O73gz9kxUIUx10XWbCtBHi0v6hlsp_XRT_Hs2PdRvgDHAFbkEg-Pd4GAihwnqrU6qAFoDK_C-1ivhmBqEPVXpl9yejaKbSmyEihltX1ub2EGZTy1fTI1D-g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/DiNsqWVbLM"&gt;
+iPadOS 15.8.7 (19H411) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">How to use custom UIKit trait in SwiftUI https://t.co/UVibNCmATN</title>
     <published>2026-03-11T20:47:39+00:00</published>
@@ -141,7 +201,7 @@ GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI codin
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.3 &lt;a href="https://t.co/liY85EKh9R" target="_blank" rel="noopener"&gt;https://t.co/liY85EKh9R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;&lt;img src="https://cdn4.telesco.pe/file/mzsuFJP9HSG3TpEmLtNck6SNXzDs3wvlcwuEd1WVVNaWp9Ah1UKyjselQqd0LMpCKMX3EfQIdQWjJ2OW_ewRIyaziE8KWXELH3MaBMi_V47KJigeY2OW61UW3zZuPqHx6txWFxAjmZxT1HcrsFsBQYeOB4aFl-czvJhZGgqVSmpf_n-jZ5Gkd1bzI_hAZeyr7kzyTtYP6NE3MnxtOzKQ0pUrAUq0B7xIYmzQdlu3IRzYdZzv_GJ3K3tb6ssCU7beO5I6IRB4dgoBjT1eDI7LybXZdsYzvTKoJuZAO-3vJsJbETafYlkYRfAiTS4GyYBiv_3nAbn1rvlG_SaeRrK9MA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.3 &lt;a href="https://t.co/liY85EKh9R" target="_blank" rel="noopener"&gt;https://t.co/liY85EKh9R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;&lt;img src="https://cdn4.telesco.pe/file/pLzLwPl46ULvO3y8L5FtyK_viNml_B818YhB3E9h4tYGuhjMaOPr3Lz9czwQ0NambEI5jMnssFizFPYujUtgYiX1hRKunwT2CliCJEvLUnfWICvoM_D_mzMwj0kow_OpzBYNKjyhocgP_1SiwxVJ4kwViXaUzm4-HNxqUifa4ieTPAtqVkhbLipztykPLBr33tRcycCDazknLGSEoe6erfUF1qBFoX0_K7f9T4UbscsoIlGgt62RQkwpEi6O8NGMCWykW814Jqu4NH21kzndoQVa-o5jI5Ba_djMjNZ7CgunHDelvfPoQJwmZpiRgypf2ZyMvfHDX6rHjPhKhuDkIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;
 App Store Connect API 4.3 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -193,66 +253,5 @@ I Caught My AI Agent Fabricating Data to Look Busy - @samwize&lt;/a&gt;&lt;br&gt
 How to handle popup with WKWebView | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1011&#13;
 You’re building an iOS app with embedded web content. Everything works perfectly until your users need to authenticate through a third-party provider — the popup gets blocked, or the callback never makes it back.&#13;
 WKWebView’s popup handling follows…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : RoversX/LaunchNext https://t.co/7hRElUi4gS</title>
-    <published>2026-03-10T02:07:32+00:00</published>
-    <updated>2026-03-10T02:07:32+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26132</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26132"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : RoversX/LaunchNext &lt;a href="https://t.co/7hRElUi4gS" target="_blank" rel="noopener"&gt;https://t.co/7hRElUi4gS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;&lt;img src="https://cdn4.telesco.pe/file/FPaiaRNCJY3npYWT3RuFhWRfFqQRYHP2MLBmxqAj6MzguMilGoeHcOK3Dopbe117vHay8AzgSMWA_zSpSI_Apk_yQ8FgGBcX8FtIreJeQsVM3WEl5UVImGprjNqEz9PFutCbW_aPJRk_iyNTAnWhLtyhHW7QcZ_lnUmqv9ZrgFyyobATqhistWhDcm159pL55GLLa-ukpXunxUPt2VJVPWOZJEDAX8b5YrEc1rnEzcN2m_anwQagKGx1hFQCbeU4oMwEf03qo-w5Im0ulE-Dfv1QNE4s7aISkqfLeXxfKzEQ2_Wv-TvZ_O4O_sI8nsET5UqtzyDJoS5yHPRitK7Ing.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7hRElUi4gS"&gt;
-GitHub - RoversX/LaunchNext: Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. - GitHub&lt;/a&gt;&lt;br&gt;Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. - RoversX/LaunchNext&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">GitHub Trends Weekly : github/CopilotForXcode https://t.co/lojG2xlxWB</title>
-    <published>2026-03-10T02:07:31+00:00</published>
-    <updated>2026-03-10T02:07:31+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26131</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26131"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : github/CopilotForXcode &lt;a href="https://t.co/lojG2xlxWB" target="_blank" rel="noopener"&gt;https://t.co/lojG2xlxWB&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;&lt;img src="https://cdn4.telesco.pe/file/Q0hT2RdN78gydRE6uI9qIsxO0LAVyH_V_F30c_x_byByXqsYjLlpEhY9kLncOjw3LS0HYDixicpqZBog9iaDlF__U_WL-nsDBtDp7QyGKXwD6WwghfK6nZYkDhnkXfMPLl_BwWj0QX5LE9M49VJeLaXewDLDsZ6KctsRYMxRTKJ1X6QYEe0_IH-XVKA-wqAJjKpnnQPcZrRLONjmxCoqMQWMx3ZxkJ5OaZhAKUZHF91RcQ3uEs6HnfPDDTulfcu6quhABp-i31umRLBrii2x7qkxWR0uMu5xMPDoj06koi3_zCkwgL8GQm0yrpHZ07B_hMO363EAi2IW1w6Ct6ADdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lojG2xlxWB"&gt;
-GitHub - github/CopilotForXcode: AI coding assistant for Xcode - GitHub&lt;/a&gt;&lt;br&gt;AI coding assistant for Xcode. Contribute to github/CopilotForXcode development by creating an account on GitHub.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">YouTube Shorts Style Resizing Sheet Interaction Using SwiftUI | Xcode https://t.co/lGaxIxlpvO</title>
-    <published>2026-03-09T18:37:23+00:00</published>
-    <updated>2026-03-09T18:37:23+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26130</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26130"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;YouTube Shorts Style Resizing Sheet Interaction Using SwiftUI | Xcode &lt;a href="https://t.co/lGaxIxlpvO" target="_blank" rel="noopener"&gt;https://t.co/lGaxIxlpvO&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/lGaxIxlpvO"&gt;&lt;img src="https://cdn4.telesco.pe/file/YuIVZZ1tYgodALjtOI-DlZoc_FdNSPdM5l_GzNH5TbwV7uuhyYSCIOzy5fuYl0k0-Lg8N1hBIjDwYrj0iddFFNPut_yYMUS2mZWt7dDjLfOUwTm6OZAF7FIS8Rgw1dVCaOy2SltCchD2dmbqGXDQNLLQefZaj4VshRnvfqQoG8B1wtLrcbn1Tg088mweWnPX5_oIJa4NOll2gas-k-sHA8JBtd_rdjixUiRga3l3tMQHecisfQ7HmvN0yrY_JBfBNlrAJQnoc11Hq75VYNS_OuGrqEAVboyIbOrNrtQF6YjKCKFS0wjezd2RSzlJ4qnWVK4TQcvebXpaNw90VPTl0w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/lGaxIxlpvO"&gt;
-YouTube Shorts Style Resizing Sheet Interaction Using SwiftUI | Xcode - YouTube&lt;/a&gt;&lt;br&gt;Hello Guys 🖐🖐🖐&#13;
-In this video, I’ll demonstrate how to recreate the YouTube Shorts Style Resizing Sheet Interaction using SwiftUI | SwiftUI Resizing Sheet | SwiftUI YouTube Comment Section Sheet Interaction | SwiftUI Complex UI | SwiftUI 2026 | iOS 26 | SwiftUI…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Xcode 26.4 beta 3 (17E5179g) https://t.co/OtSx29eK7J</title>
-    <published>2026-03-09T18:07:38+00:00</published>
-    <updated>2026-03-09T18:07:38+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26129</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26129"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Xcode 26.4 beta 3 (17E5179g) &lt;a href="https://t.co/OtSx29eK7J" target="_blank" rel="noopener"&gt;https://t.co/OtSx29eK7J&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OtSx29eK7J"&gt;&lt;img src="https://cdn4.telesco.pe/file/Xieu6IyF0B7vGZPc5KESPZgSigu6kObIskuTzWA5IYIOivCOABJA1IhyAVxvn5KapjGPcB9KON8js6sLDp4OmtCxmalieDZVxy1CLKbJVyYmPeaRcnEkS2wblX4_PHVckT-POIKN9DM_BRxNXd4vUqWmfPEO6kH5NxxGlrnJ2XzKNNGD-6GshMWy5jOOJEG6Fd21QryygopMAv9Jy7SWPtHIsR27HZdPvNni4w6PXhi3T80_HZuTgF0ZgRzjeYvcRNsxBlXRwJ34zTfUxPNFlBH6wYaewPUpuDs2r0-smmXyo3Ak9r12BLpikHDnk1XmcJFcVLUKPLKTScyJZopsnw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OtSx29eK7J"&gt;
-Xcode 26.4 beta 3 (17E5179g) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 26.4 beta 4 (23E5234a) https://t.co/PacAglxxsh</title>
-    <published>2026-03-09T17:27:43+00:00</published>
-    <updated>2026-03-09T17:27:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26128</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26128"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 4 (23E5234a) &lt;a href="https://t.co/PacAglxxsh" target="_blank" rel="noopener"&gt;https://t.co/PacAglxxsh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PacAglxxsh"&gt;&lt;img src="https://cdn4.telesco.pe/file/lhpXulIhJLdevbEiyc1PbknLZqJoaDBBENyGEI3AbUdX4x4CGb5AxlACC8g3Vpp8dF-51EMQhE-Y-E_qXTqQTo-9CDNwDLZGCUEG9OO3_NMUaxDEiP_gZhg1h8slGk8X7fNG-Gut6k2sYjlrkjiY8VZPFvOhiOEwoSGgYbU083-49XNXam1d-WOeNlf8zmX-UrGKFJNuxa8mpiblSQv8uL4An0Yl5keqTXMxMhQP7wFh9OKbBc0aHlrBrZBSDM-9JQSldbmhIWmdmyiEi9Jk9JP4-dqlwFrXGAxNs5EPppeP7Zkvz68qLTZfrIj_7gOl9cRSrZBhgo-LCa9Coy5SKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PacAglxxsh"&gt;
-iOS 26.4 beta 4 (23E5234a) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
