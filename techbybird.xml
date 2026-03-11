@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/VMkr8Z_GfDgm8cnebvfoy1-GWXE3143QL5ulogjUS2Kb3U_N93kGMERVvvmtWyN-KibvZuHg4syUQMnImb4IeXjmq6OujHs3Xe69K7zEM2tA_naGCMmYFdZ8LzKzigDM6TJ5yp09FY5vjxpdaooW_5i66uoEXBnt6vTsxzMj6M2OtX1majtMV_3EgSBLVdEth-fr8V5wbFKfaVfZwz7b0CO3OC4OP_QXZQTbExxq1JkTa83fNpzAPJGUOvn6hvF4OcnylzxrztVR-vGWAL9icZ0H8dpcrbNPWHFV6kYsH7LBSOydudlxEPHnvJkBPgT60kQJyX57I_qlR0Wlf02Jeg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/VMkr8Z_GfDgm8cnebvfoy1-GWXE3143QL5ulogjUS2Kb3U_N93kGMERVvvmtWyN-KibvZuHg4syUQMnImb4IeXjmq6OujHs3Xe69K7zEM2tA_naGCMmYFdZ8LzKzigDM6TJ5yp09FY5vjxpdaooW_5i66uoEXBnt6vTsxzMj6M2OtX1majtMV_3EgSBLVdEth-fr8V5wbFKfaVfZwz7b0CO3OC4OP_QXZQTbExxq1JkTa83fNpzAPJGUOvn6hvF4OcnylzxrztVR-vGWAL9icZ0H8dpcrbNPWHFV6kYsH7LBSOydudlxEPHnvJkBPgT60kQJyX57I_qlR0Wlf02Jeg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@techbybird</id>
-  <updated>2026-03-11T06:58:52+00:00</updated>
+  <updated>2026-03-11T07:50:05+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Парадокс: не могу заменить сотрудников, которые сами...</title>
+    <published>2026-03-11T07:12:40+00:00</published>
+    <updated>2026-03-11T07:12:40+00:00</updated>
+    <id>https://t.me/techbybird/2117</id>
+    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2117"/>
+    <author>
+      <name>Воробей</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Парадокс: не могу заменить сотрудников, которые сами ищут как их может заменить нейронка&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Когда жена гордится моими финансовыми успехами — я...</title>
     <published>2026-03-02T15:50:56+00:00</published>
@@ -32,7 +43,7 @@
     <author>
       <name>Воробей</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/techbybird/2115" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;&lt;span dir="auto"&gt;Код Воробья для iOS разработчиков&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/techbybird/2115"&gt;&lt;img src="https://cdn4.telesco.pe/file/pGMt5UIFaD7y3LRk98-PQcqpOb0FeGPAiHIrnVsquiophpjeWYpsdd8S6xjHafmSiGd9MTIifahpiWA5vJ09NuSkGo99vt-MsBCiTTJMJFnF7NvyhREUXrYc3Bm-pMWVyupREa6RUPyhububpjqikKk5oBax4fi0FlXm3VjlNZZwtrdYqFdseTwLvYG6d-GEc5kHZ3gPjpWAAP2VaiRSFOTbdVKrTT62CJvAxtc9MeRGWRoPjbnZ03sC60sDB0k59fqI8WZBYoBmlZYQn0l8rRyQIBxn22EwcRwvHp-uifGdaQk0ecuU8XmgXpYU3CFNFxC8xoFwYTqOOeIQ19uj_Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Вышел &lt;/b&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5335071296915016681"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;b&gt; Xcode 26.3&lt;/b&gt; с интеграцией ChatGPT и Claude&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://developer.apple.com/documentation/Xcode/setting-up-coding-intelligence" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Где настраивается&lt;br/&gt;• &lt;/a&gt;&lt;a href="https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_26.3/Xcode_26.3_Apple_silicon.xip" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Скачать&lt;/a&gt; для Apple Silicon&lt;br/&gt;&lt;br/&gt;Вместо подписки подкидываю API-ключ. Можно, работает&lt;/div&gt;</content>
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/techbybird/2115" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; Forwarded from&amp;nbsp;&lt;span class="tgme_widget_message_forwarded_from_name"&gt;&lt;span dir="auto"&gt;Код Воробья для iOS разработчиков&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://t.me/techbybird/2115"&gt;&lt;img src="https://cdn4.telesco.pe/file/Trvgoa6achJQhHE17i0byxSJXIXjXRbTE9YBhv88m0dwQuhGsA6dp0fdeX3vtLiHBXQcYJFz2nKBggm4atzaVdVnUFB-EPr8MP0xNUlaYXr4OwtG_f6On5UOokQJafKdcVDB9l8mPqPPATnUHtcx5SqpMqaRy49MlOn-C1tU38GjYsSrNFcT49Au-7SoTx3pQiVACFfZ0NJitWcL2JUzUxVhbAh6eTNzeEnejlPmMI2_Lf_X9iTkrjgEqpnfl3LGYJ5NCDUGDbhdCw2Fic8dcyBryGdDemoJB9Gii1P6jzmEywZs3qZ0dhQNM_m_xdkjAyAY5TgzQuv8yjlgocRmHQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Вышел &lt;/b&gt;&lt;b&gt;&lt;tg-emoji emoji-id="5335071296915016681"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A8.png')"&gt;&lt;b&gt;🔨&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;/b&gt;&lt;b&gt; Xcode 26.3&lt;/b&gt; с интеграцией ChatGPT и Claude&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://developer.apple.com/documentation/Xcode/setting-up-coding-intelligence" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Где настраивается&lt;br/&gt;• &lt;/a&gt;&lt;a href="https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_26.3/Xcode_26.3_Apple_silicon.xip" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Скачать&lt;/a&gt; для Apple Silicon&lt;br/&gt;&lt;br/&gt;Вместо подписки подкидываю API-ключ. Можно, работает&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Куплю ваши пепы за 1 тон</title>
@@ -183,19 +194,5 @@ UK bank bosses plan to set up Visa and Mastercard alternative amid Trump fears -
       <name>Воробей</name>
     </author>
     <content type="html">&lt;a href="https://t.me/techbybird/2096"&gt;&lt;img src="https://cdn4.telesco.pe/file/SE6WCrj8WYWD7HNhaCB5CD3wtP1oFZiGFy7hVKlwAaIhKwGps5_hXLaLIYvXNBWjSqKmF_1GTj3GEDtXulO5XtZ1ZU9saI7jIv5v0zi9KCZUhqo15U76nyPM4vJ-N4n7us5H4wx3F-ueG2NdYL2b0l3diI3ML73s5bMF-AKJnR3NtjvjBGLQn2lwfIR5QsLWLx4mrIDpTG5ppA8vxFEnr7v4N1sDccBFqGHESx6yBRCZDKrBQMMJRNvr-ibb7azJZR-mQ--JvP5Dd2Mmi4ydMF7u1iFricbAkgFaiiVkHemdai3lQfxQ1tJhnALil7SymwPtLs2HlTo40iiKU_mVAg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Помните я вас &lt;a href="https://t.me/techbybird/2044" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;удивил с RuStore&lt;/a&gt;? Мне показалось вы мало удивились, и я пошел дальше&lt;br/&gt;&lt;br/&gt;Добро пожаловать мне в хуавей апп галери&lt;br/&gt;&lt;br/&gt;&lt;tg-spoiler&gt;Накидывайте 1к звезд на пост, и покажу сколько выплатил рустор за прошлый месяц. Там дофига&lt;/tg-spoiler&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">@techbybird posted a video</title>
-    <published>2026-01-07T13:02:44+00:00</published>
-    <updated>2026-01-07T13:02:44+00:00</updated>
-    <id>https://t.me/techbybird/2095</id>
-    <link rel="alternate" type="text/html" href="https://t.me/techbybird/2095"/>
-    <author>
-      <name>Воробей</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/RhUvbGdx-mjSjJbu65yFo5rVA6LEpNY7GbAZnirHi6gcdCQHx1-Zxyl-UEAr-m5P9bG3t-Jl7yTPRscYtHSUoyR8MiKEoufsBEP0ox-BebMWq5bctaAaenglZCO7a5qWM8PU9Sd5ki2RhaLOIHtTSG_c4mF9Cu2iw_QDRNqZuc3bmIcFX-_6nNUM4Tds_0Nup10Pb8sHPZVO9dGVrh8O6oz2lVar7VbN3hyXReH96Uchr9ioApwuZCRz5Me275aAV0hORf4R38dTB-7nAgXpKzAfI2_Z3U1IePPQFGYNlVDYhrzkUzoGzEqxgVTYUC6zFtZdet5idPBFdkcWQUHI5A" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/c973a1ed89.mp4?token=BdFil8k53oaO5cMGqw9T7KA93x_M9a2fGqoyVpZtKsfCuad1HsWphjsEvwIIZlVAZkzJRIz8h_5oFt5xXgjvDqjE60YaSnz8Pm-7S5dcOKQvwNPWZPQKBMoBlhdiq0UxzV4VjRp17mnvvpnMDm4dzw08HXQvXB1UPeWOHRkagIfuGxrb9eS8tTGt6w-87swD6o7hyLsoLCeXExT6QY4-ZB97IqXxcEKKlSs9sdJMD2zOCHqsVQXBVu1MqEnOLe625TCvZF4rQHCeXNH9pZhpF6xq_NhOrcUmMFFildO7tUeXGvqEx8Lbntewu_h4TObpktbfWBd7M_wvOUOyxACjSg" type="video/mp4"&gt;
-&lt;/video&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/RhUvbGdx-mjSjJbu65yFo5rVA6LEpNY7GbAZnirHi6gcdCQHx1-Zxyl-UEAr-m5P9bG3t-Jl7yTPRscYtHSUoyR8MiKEoufsBEP0ox-BebMWq5bctaAaenglZCO7a5qWM8PU9Sd5ki2RhaLOIHtTSG_c4mF9Cu2iw_QDRNqZuc3bmIcFX-_6nNUM4Tds_0Nup10Pb8sHPZVO9dGVrh8O6oz2lVar7VbN3hyXReH96Uchr9ioApwuZCRz5Me275aAV0hORf4R38dTB-7nAgXpKzAfI2_Z3U1IePPQFGYNlVDYhrzkUzoGzEqxgVTYUC6zFtZdet5idPBFdkcWQUHI5A"/>
   </entry>
 </feed>
