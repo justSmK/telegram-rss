@@ -6,10 +6,23 @@
   <icon>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-11T20:37:06+00:00</updated>
+  <updated>2026-03-11T21:36:32+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How to use custom UIKit trait in SwiftUI https://t.co/UVibNCmATN</title>
+    <published>2026-03-11T20:47:39+00:00</published>
+    <updated>2026-03-11T20:47:39+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26147</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26147"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom UIKit trait in SwiftUI &lt;a href="https://t.co/UVibNCmATN" target="_blank" rel="noopener"&gt;https://t.co/UVibNCmATN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;&lt;img src="https://cdn4.telesco.pe/file/lKST6L9UnJr-epK7bl5lnleXFxuvWvFTmZtO705WubVuG6x7SEnCXtmYKkQaK-UaznA9QvhmfBX-1KTTMxHc_uwVD4sCRtJMMflvQIBK1avZ-sPdub2t-8imtXnTpQe7QP9VeNCGhHmmKSCq01Ao-R6yqCdO75F2y-yyDMHH3GYNhyFg2eOWnYRqmlI36ASRCvsbog0FXbBQIXgNmN52hk1pMFzb9d_fF_Sv23odEcN9d1Wj0xJ851P0XOhphfCCNulxk2huOAQyhmQyXagLzpiQaBSYTb6r2hLKWJdnuDXh8JBL8-As7go6BULerNsqEJ8cP0jBXIm4TAEb_0pJGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;
+How to use custom UIKit trait in SwiftUI | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1013&#13;
+iOS 17 gave us custom UIKit traits. You can now propagate values through your view hierarchy using the trait collection system. But getting those same values into SwiftUI requires a bridge. The UITraitBridgedEnvironmentKey protocol provides that…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) https://t.co/71zBvAZK0P</title>
     <published>2026-03-11T18:12:08+00:00</published>
@@ -241,17 +254,5 @@ Xcode 26.4 beta 3 (17E5179g) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;b
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 26.4 beta 4 (23E5234a) &lt;a href="https://t.co/PacAglxxsh" target="_blank" rel="noopener"&gt;https://t.co/PacAglxxsh&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/PacAglxxsh"&gt;&lt;img src="https://cdn4.telesco.pe/file/lhpXulIhJLdevbEiyc1PbknLZqJoaDBBENyGEI3AbUdX4x4CGb5AxlACC8g3Vpp8dF-51EMQhE-Y-E_qXTqQTo-9CDNwDLZGCUEG9OO3_NMUaxDEiP_gZhg1h8slGk8X7fNG-Gut6k2sYjlrkjiY8VZPFvOhiOEwoSGgYbU083-49XNXam1d-WOeNlf8zmX-UrGKFJNuxa8mpiblSQv8uL4An0Yl5keqTXMxMhQP7wFh9OKbBc0aHlrBrZBSDM-9JQSldbmhIWmdmyiEi9Jk9JP4-dqlwFrXGAxNs5EPppeP7Zkvz68qLTZfrIj_7gOl9cRSrZBhgo-LCa9Coy5SKA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/PacAglxxsh"&gt;
 iOS 26.4 beta 4 (23E5234a) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iPadOS 26.4 beta 4 (23E5234a) https://t.co/coKriva2aT</title>
-    <published>2026-03-09T17:27:39+00:00</published>
-    <updated>2026-03-09T17:27:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26127</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26127"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iPadOS 26.4 beta 4 (23E5234a) &lt;a href="https://t.co/coKriva2aT" target="_blank" rel="noopener"&gt;https://t.co/coKriva2aT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/coKriva2aT"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZAOy9xWT9Z4Oz89YPSaazIJFRtqUg-j3KPgdTdD43vSymjydoLgZpzrOBZUHyysULYPHWeIlR7UhI9SAPWmIICYBwtPYl_lFOnQSxUrcSex_uGOK6DVIVcat4zobPrzrUKFuvaBUHn475_SBywatxFVgrlmC7gDvB5HXljj9hB8KXses80X7rKSjxvp6RsGdqNz9gvKqgjWEm6xuFnE_aOwxwX9pD9nzmq36hn3936rSFxfLRcA1vqMp7WBuSgNTLn0LsXDBZ7SUFaRwG4tfj0JjBh2q6SIjwwpuqqXfPPQKLQnte2hWC6NcWI0kru9Rx5_fIGPqwkkrXQ3dmxfojQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/coKriva2aT"&gt;
-iPadOS 26.4 beta 4 (23E5234a) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
