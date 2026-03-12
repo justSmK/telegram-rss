@@ -3,13 +3,61 @@
   <title type="text">iOS Development News (@CocoaDevBlogs) - Telegram</title>
   <link rel="alternate" type="text/html" href="https://t.me/s/CocoaDevBlogs"/>
   <link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs"/>
-  <icon>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</icon>
-  <logo>https://cdn4.telesco.pe/file/rXIhqnn5OXvMVXinHH6zwPjp3V23Ea8yeMHJIlqbrYqQ8HvyJMQROgCm5Bn1lujCi77eCmnG05oyl5uMcEH0jlvMouN7bG-t3CBhxM7D8hTVQKJ-kUQIv3ZhMBNgWO5fodxx8d24v8VbfLkzOGoXuwBSMfrCnTqrfFY3u9fW_6pFyiyCzckdq7NbcZzAjzCjbuLa5DXm5K03b7g96DIxcY9bFIa_4aQPHHwvyh8us7m9Kodr1yUZg_AtH1vlWiEvo_n22DZ9Tt83bYAbedUSNpjvRgjYs6kV_dwDNCnas8voLYjwqa4m_jUMz4wO5fkMZYtvdSj9L4FJHkmHjRM6lQ.jpg</logo>
+  <icon>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</icon>
+  <logo>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-12T02:26:43+00:00</updated>
+  <updated>2026-03-12T04:49:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">GitHub Trends Weekly : jdg/MBProgressHUD https://t.co/OLv0iQAasH</title>
+    <published>2026-03-12T02:32:12+00:00</published>
+    <updated>2026-03-12T02:32:12+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26156</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26156"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;img src="https://cdn4.telesco.pe/file/BaR8Ptm2hiLwhvXNk7a8Pc1X1A51zWe2MLXG3R_SZIOyY6uTxDY7VdE6BDGRDxsdfl1lBlNvY19wdtZSSHadgbOTVDbQyWIIQ9w8xE7HoZnx3X0PBaXwFXkC_qad1Kg8QE1HTvP3VVTw7yRg9epxvc84G2qilLDGX-7hSeC2w93HFFwwsDadytypNP_8VilJN9JqQOzMKnAJSQeJ-nob0X8kcOO28_DFtJzvF-lh0g9SxQgxqsCdPHaz3CqWlLq9SCu2k4G8KZPuRaY-QS_fpT13rXzeTINSqbkIIB0v-z40N-lcxXP-k4mqCnYzhA4BAyRqmIyEvHrxKUKqhL5T7g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
+GitHub - jdg/MBProgressHUD: MBProgressHUD + Customizations - GitHub&lt;/a&gt;&lt;br&gt;MBProgressHUD + Customizations. Contribute to jdg/MBProgressHUD development by creating an account on GitHub.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : Swinject/Swinject https://t.co/eaa5cQZu4M</title>
+    <published>2026-03-12T02:27:26+00:00</published>
+    <updated>2026-03-12T02:27:26+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26155</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26155"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : Swinject/Swinject &lt;a href="https://t.co/eaa5cQZu4M" target="_blank" rel="noopener"&gt;https://t.co/eaa5cQZu4M&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/eaa5cQZu4M"&gt;&lt;img src="https://cdn4.telesco.pe/file/hvHPuJZHLroe2q3AToZGaH2NoLxObla7_bt49I-SoZbDvZQz-YEmEqvBKm_MWx2WO4EXj3IJCqMX-i-DmKQJvHAmXWp-qMoFC4PpmndsdmnifOVOsQEHnJNMOtRUtrGjsuJsIg_bqyeVNWkdxF_k8QZ7ztuCaI2o3tXoTztHGuFhRTEMoriZFw1MWPIBFpY6GMgurswWs-GETlSGqpu6iNB_uzJHU_Tk52MahVn-6t63iXfuUU-Z8_97DGQyXg7em1BLvecoK-ny7TO1Cw3w6X0cUFoc0DV8Ev24S1UOZ4v2z7SC_pmuJwki5WMUQszOHi9LOpRwKK7ibJDe2vXbig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/eaa5cQZu4M"&gt;
+GitHub - Swinject/Swinject: Dependency injection framework for Swift with iOS/macOS/Linux - GitHub&lt;/a&gt;&lt;br&gt;Dependency injection framework for Swift with iOS/macOS/Linux - Swinject/Swinject&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : element-hq/element-x-ios https://t.co/jbbsn0Lrl1</title>
+    <published>2026-03-12T02:27:25+00:00</published>
+    <updated>2026-03-12T02:27:25+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26154</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26154"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : element-hq/element-x-ios &lt;a href="https://t.co/jbbsn0Lrl1" target="_blank" rel="noopener"&gt;https://t.co/jbbsn0Lrl1&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/jbbsn0Lrl1"&gt;&lt;img src="https://cdn4.telesco.pe/file/BddEAq9-ztL_nvpp2hOBtjB_r37iJZF2_Y7l42V14JOAg9HIrGPN-KQ7AOXZE4vufkiuTS4CeI00mMeUbMudDU0Q1d9cLDIW4B07GO026G1EdvPD4F8PpjQYTriiYy8jTC7LMWNeEhbiLbhWXeFGFZwfjIFR3ebRzUiZCgdujKsd8aevnoAUPIAAA4GEdo_MYloOGAZbhWwCEFga4ruqgk7uRqO6qjHHimmGZOfvkiUi9aOnmQ7ChKdtLToKWCdFEKEvKOmf27mzdZfzK74hb980pfUTJnc9ylxkLdC5DxxChoUM2Rb9g4fIu4XexzeN4HkWCVBMFVQZZT4ZZnXfXw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/jbbsn0Lrl1"&gt;
+GitHub - element-hq/element-x-ios: Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk. - GitHub&lt;/a&gt;&lt;br&gt;Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk. - element-hq/element-x-ios&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">GitHub Trends Weekly : getsentry/sentry-cocoa https://t.co/7ovVdCzx2g</title>
+    <published>2026-03-12T02:27:24+00:00</published>
+    <updated>2026-03-12T02:27:24+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26153</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26153"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : getsentry/sentry-cocoa &lt;a href="https://t.co/7ovVdCzx2g" target="_blank" rel="noopener"&gt;https://t.co/7ovVdCzx2g&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7ovVdCzx2g"&gt;&lt;img src="https://cdn4.telesco.pe/file/CVcZ5tNrMUMUBA7P_pLkz2hnNt7GHtuTDFxOupNxMebz_Abf5_VEtoMHc-rDJHK9rsm15XHUcnxpVQ86Q_XF2GhInd23th9DKhbi9251p2b7XLAFCHdTjCz0Y7air8pALWWJ0jCYRbgQGDA6DFjP-k41hQRmIjLW_0lmcUHlC0xe98Z3KbEA22FkgUxMYJPwKvRaE9x7DWo0sF1PKBR2qMKcQU1Fp69b19BJpMBp2v50vhetUYPnX51VMSFYBSoZ3HaaeAQ6SdEj6tnBxF1qjySDeItwO2dqP-Bzilz7notRx5aRci52cN0kcwLOp1h7YW7yZAM4qBeWbYptP7Ng4Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7ovVdCzx2g"&gt;
+GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. - GitHub&lt;/a&gt;&lt;br&gt;The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. - getsentry/sentry-cocoa&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">mokacoding : iTerm2 microphone permission for Claude Code https://t.co/6UC6uDK8iT</title>
     <published>2026-03-11T21:52:13+00:00</published>
@@ -153,7 +201,7 @@ FreeBSDKit: Swift Package to Write Capability-Aware FreeBSD Apps - Christian Tie
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/FjeoztxXWH" target="_blank" rel="noopener"&gt;https://t.co/FjeoztxXWH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FjeoztxXWH"&gt;&lt;img src="https://cdn4.telesco.pe/file/Pmk1lk7gPhgjV66ltM-2wxPzEWSNDwDaYplAeSI3-nMc-p6dhi311ama6A43_UwBaxOHYjJvPu8z1ujAKlCSFSVk2pdwZDcgVkildiWq8gvUMOx2IAicxe2B-7r_KIth2GzwFyeIIgwuLHPOMfpT4EKccuK3KDPjOe3dmTDDan70TSWeMOsJadek1bGNgd0Nw8BH4Jx2eQDh1YVjzbKga3Xz81teeospU3RVErdetSa1nSZsYgDHDHdCjGb-2IS60jk6BFKLnHvG1BBN4zujGuhKJmCa8zGnIJFy_I0cHjQXty9E1WJ81T_VIypZh4ZEgSNXXMU-jkVNb3XFmQ7TBw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FjeoztxXWH"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/FjeoztxXWH" target="_blank" rel="noopener"&gt;https://t.co/FjeoztxXWH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FjeoztxXWH"&gt;&lt;img src="https://cdn4.telesco.pe/file/Fq_WIriqp8bhvJxN2cxIswr4ak0b_dODlj_M76Lf3tCca0ThCWNuh9UTRFcSpYFRcL-CIeMUigFmBlnqmnH4yvBnriV1L1KiG0UKIVNsLj9JCz3XtZ595PWc9WlpaYlfg-JXK2As0XhCLmDDaHDQgxyPO_Dm6HIeQWNRJqWVIUxyUdvepU798S5nEJ8uiEBaSj6sanepxvupgyMQBlV-VGJIHHZeeZFeQ8WVdc1_HSG3m7uA1lIP-QTotjMrwYMITjRjE72o6KK6w3aoNRHVH8cEhXwuxs8Wk3PFawW27IktWFwZzvoG6jThGrPQJFqu8JSvg125J6ukKUykS9QblA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FjeoztxXWH"&gt;
 TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -203,55 +251,5 @@ GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI codin
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.3 &lt;a href="https://t.co/liY85EKh9R" target="_blank" rel="noopener"&gt;https://t.co/liY85EKh9R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;&lt;img src="https://cdn4.telesco.pe/file/pLzLwPl46ULvO3y8L5FtyK_viNml_B818YhB3E9h4tYGuhjMaOPr3Lz9czwQ0NambEI5jMnssFizFPYujUtgYiX1hRKunwT2CliCJEvLUnfWICvoM_D_mzMwj0kow_OpzBYNKjyhocgP_1SiwxVJ4kwViXaUzm4-HNxqUifa4ieTPAtqVkhbLipztykPLBr33tRcycCDazknLGSEoe6erfUF1qBFoX0_K7f9T4UbscsoIlGgt62RQkwpEi6O8NGMCWykW814Jqu4NH21kzndoQVa-o5jI5Ba_djMjNZ7CgunHDelvfPoQJwmZpiRgypf2ZyMvfHDX6rHjPhKhuDkIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;
 App Store Connect API 4.3 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">macOS 26.3.2 (25D2140) https://t.co/7xY91clrSD</title>
-    <published>2026-03-10T18:07:38+00:00</published>
-    <updated>2026-03-10T18:07:38+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26136</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26136"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;macOS 26.3.2 (25D2140) &lt;a href="https://t.co/7xY91clrSD" target="_blank" rel="noopener"&gt;https://t.co/7xY91clrSD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/7xY91clrSD"&gt;&lt;img src="https://cdn4.telesco.pe/file/X8oYBiGNlwiO-0jo7_Va9UmHMWESLnGViGlVnPPyWP5e2ynjyTuk_llngWC-gAWvlnLwwn_E23yF8RrDcK5X_Q2Z1A1ByBIYtize5M9yA5Y_iZJBJOGvtBTA_NE_tDHM0ECLSlxT7bISdS1Q7yEuYlPiJKH0PEa3iZ1HzEAfCAlXZd8xnUBHWx6u24paFbltNXMpfzjBVqVuBROHgCgvW6-FBun1D0YlfR-Asxye_AhONhQxJeH-ka1BqLYAtuwmlIky6Dzf4CH33sLIt534pMUyu6TGuk4EN7BGtI_jt0ZM-rZl_pCHfSI8MaXSvmMaWZIYRMc7531BliJObAcv_w.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/7xY91clrSD"&gt;
-macOS 26.3.2 (25D2140) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloadsView release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">TestFlight Update https://t.co/wQ1a6Lq0a9</title>
-    <published>2026-03-10T18:07:37+00:00</published>
-    <updated>2026-03-10T18:07:37+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26135</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26135"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TestFlight Update &lt;a href="https://t.co/wQ1a6Lq0a9" target="_blank" rel="noopener"&gt;https://t.co/wQ1a6Lq0a9&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/wQ1a6Lq0a9"&gt;&lt;img src="https://cdn4.telesco.pe/file/dIlAz50ZsOs5HQ6LwEMlI9kzU4cJSAoliWf8yYfKChGlDkRWCf125d098hlD_hG3snw5Ot7RKNicZjYesVxbEXBXDlhCgoQMR3I1qJJDhI_xIMhDyy2BPlD_69ZKbiIMQ8Dczp1Eh7X-NoWQApo6Jiy3G-TBDHDDPgYmy8zTz5IAVcpBKlooV8Wk9g9rSNBJPFCZi1b9JTKlSlJO4qFM4M13AfXI1vsXJfBO8MeO_pDpFLkOwHvP27JzpOfJsKPHHP3W0Ndz4xYyKuPzRW5GkCZCKPJJUgm6mz4J9yfok8DEgDO9BiqMPxRYk25V4UD2kjhSfPiuSCpPoDbtJBE4Yg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/wQ1a6Lq0a9"&gt;
-TestFlight Update - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View release notes&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">I Caught My AI Agent Fabricating Data to Look Busy https://t.co/9aNaTC0mBX</title>
-    <published>2026-03-10T06:32:39+00:00</published>
-    <updated>2026-03-10T06:32:39+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26134</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26134"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;I Caught My AI Agent Fabricating Data to Look Busy &lt;a href="https://t.co/9aNaTC0mBX" target="_blank" rel="noopener"&gt;https://t.co/9aNaTC0mBX&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;&lt;img src="https://cdn4.telesco.pe/file/vylWJLilV3X63Vt2LPGiib9jpOltbhc-pDIMEy8zl7J9WQeu7ExGfDWaCsMtl-UUkN2Wb6ebaELypZFX9P1sfwDO56WdZxRxslumxMXXUk4_QNfPu6Ev7ADxKuzzlvfjcp1tSf-8RRGMv_JtN0lzcvp7PdmEPnHcmECk9Ta5UmVpl0DrIGaPK3JITfeUQa7nDPjYwWt8kBZ6kDGdpAwFkkeUIydJhBNYbPP4iy01dN4zNrCaNpjF35mJwwDbLgAkNrnZmzVzDE7AP0NHkY2E-Zp9bmXcR8tT_E6OuJfaBoU_AINCKnw-ZBe4IqNLO0fV_8Idy4Tm6WF2avvoILkZAw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/9aNaTC0mBX"&gt;
-I Caught My AI Agent Fabricating Data to Look Busy - @samwize&lt;/a&gt;&lt;br&gt;I set up an AI agent to monitor Slack while I was on leave. It fabricated timestamps, skipped reading threads, and stored fake IDs. The root cause is a pitfall every AI agent builder should know.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How to handle popup with WKWebView https://t.co/Pw6xqPIRqv</title>
-    <published>2026-03-10T06:17:43+00:00</published>
-    <updated>2026-03-10T06:17:43+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26133</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26133"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle popup with WKWebView &lt;a href="https://t.co/Pw6xqPIRqv" target="_blank" rel="noopener"&gt;https://t.co/Pw6xqPIRqv&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;&lt;img src="https://cdn4.telesco.pe/file/p4kGRlWZgCHanvKwfCd0gUTRKr_X9t9-tO8E4pWjhi_M0leL-0GqLAjJ67vR9gH0YS05y_v_WSfQunyn2CDbE5qx2wHVsXUfSrJFlpazGjcha9ifLKbY0Td_G9VHImCDUwXxBFfL4VmQ7W7sVdoShnPFKSaU6EJx7q49RhVQoeYFE6oG8gsX4pyWsA-3MK9CMmTIUeoKhmTJQlVZHbEO1sY68hLA1a_hNJcBasZRyoojwTjCzfS78nV3B8iTt9OA_VMAXac4xd9jXv1VYRtkL0-qKjokKbkH49d11mz_x-oJzaiTOpHDIxabssOBSt7Vap1U7bu62RJvBUotphrpNg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/Pw6xqPIRqv"&gt;
-How to handle popup with WKWebView | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1011&#13;
-You’re building an iOS app with embedded web content. Everything works perfectly until your users need to authenticate through a third-party provider — the popup gets blocked, or the callback never makes it back.&#13;
-WKWebView’s popup handling follows…&lt;/blockquote&gt;</content>
   </entry>
 </feed>
