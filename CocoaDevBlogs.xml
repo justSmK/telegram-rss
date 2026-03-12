@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-12T11:33:56+00:00</updated>
+  <updated>2026-03-12T13:07:22+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -164,7 +164,7 @@ Recent Website Updates - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This bl
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle callback in ASWebAuthenticationSession &lt;a href="https://t.co/IC0Xn0cWXc" target="_blank" rel="noopener"&gt;https://t.co/IC0Xn0cWXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/mtVLtiaJNLpFNiwStuGW5y4qly-mjWV3nWUa5WhEbp8fUwVWLmnbR5ckGVwsnA9Wj4QXbbu4xWsGkT1Wg7Or2FR9lJCNh82l5YJope_fU8dr4W6-coD-ge5omgf8btMwf4xpsh6bIUhKa9mO70moWc5b8MvJFSIbHclQ4-1YJRvoDYC3TMrrglZIcSWeBOMl8k4dhDR3n1thSTTussxNeGAzxkS6yZAFSTJ7FEdCKjTU08ILzPD5xYhEU6mh8JrnscgE-H4VP-lvk6O1vGysJg2jRb2W20KG5Z-6pp471RoZaKUDStyZk2F6GIjtBtP-jqDUyxsSzXT6DyInBlEVag.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle callback in ASWebAuthenticationSession &lt;a href="https://t.co/IC0Xn0cWXc" target="_blank" rel="noopener"&gt;https://t.co/IC0Xn0cWXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/B_FZ6xc-6EsjcPvLGIl1h-e2JKit3Rm6OqPCaT60g9dki3YsPdRTYivYs-BMhW0IF_Moq-4qJc0M5IfdezzMlDijvgjl_7vsbbDLy4YPga1nflAyM1M3RG9STKrkClFV6lWeuLiX5axoUBdxfrtKsWzGWDIe0I9dlqe6EYb7cyJoQ-ioI4g1X9voUFP5pOELFZ2mQqpmXmIqHXlYml3V-yfy9wHTsfIHsNHqhMFE2MnGTBjLM4Y8MpBndtP6Q6tszvjNJ5oBAoUn1PalOGFIRl8Jp_oRzKnFAEDgvhXnoB42RYLPlKlWinWHlw4t4JAcqPFcjYYZnpVeoyyvL32JZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;
 How to handle callback in ASWebAuthenticationSession | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1012&#13;
 Web-based authentication flows require your app to hand control to Safari, let the user authenticate, and then return to your app with the results. ASWebAuthenticationSession manages this handoff, but you need to tell it how to recognize when…&lt;/blockquote&gt;</content>
   </entry>
@@ -177,7 +177,7 @@ Web-based authentication flows require your app to hand control to Safari, let t
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship &lt;a href="https://t.co/OUANQAfPEx" target="_blank" rel="noopener"&gt;https://t.co/OUANQAfPEx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;&lt;img src="https://cdn4.telesco.pe/file/TjF1rzMJ1p5TI4eJ0vd73heL_m8X4fy-Ea9b9MhSaEsmpiPSXGZbLU0omRS3FA-d9aQrg_Yh9_nYjeONG9ZdEes-ITG9IqZfpETgAPTA1IBaZyrOkVnEtsuZ_6Ca9Jc80dgNvVZF3TixTzCKCwkXJ3Ep5aaqLje91sSl3mKyEgDfNKAUyPj62G--6RmGmcXmSAQpH07iyZkdyjfjE-CqO7K2_yHgUczLoQXcBzsYAGgtmrKVa_y9oh3hm3Y1SbLqAjcumMmuDks8kuSb22a1rB2y9mSC-bSzri6xQsbe9hJMjEoZuHw65HgpAnFJch6K8K7e3GL-llZOh9ozLYNY6g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship &lt;a href="https://t.co/OUANQAfPEx" target="_blank" rel="noopener"&gt;https://t.co/OUANQAfPEx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;&lt;img src="https://cdn4.telesco.pe/file/Kb8y-v2W5IzNVH_tY8Gq1f-haSk9haTP0ayMBihhhQ2Yz3JgM7aMppXFv_krBVyoTUJV5kG6O6cjNJJ4hg7Do3JwrJA23GQl4KIMGl0RJfXud9ub_IwVwJ_dpsBVLYHvd7t1vZSjuVbtjQGUImBd3LrU2bYx3qcxAAVlwD11S6Dyh332uewzjMXsdEngmlgo194pJgME6X-iGTHfH4UMHb6sakpQZx7GwxCJht_7gpfYV79E4lV9178tzls1i5YchjUFVwtPlz7_StSLlKeRmKHESXaC3QzgrWfQ-q-j3dCid1Wer3Fp1Lhal1b9pgVIw1pS3wm_13iolElZ3S5wYA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;
 Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship - @samwize&lt;/a&gt;&lt;br&gt;I tried both Apple Xcode MCP and XcodeBuild MCP on the same iOS project. One can build. The other can actually close the loop.&lt;/blockquote&gt;</content>
   </entry>
   <entry>

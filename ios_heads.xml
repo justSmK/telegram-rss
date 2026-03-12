@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/o61LxDF_8wm1wDQ9ehozUaEuGdYIkkElyyGJdoqVKTssS9uC_YY02cprsyIiFWRwUwRP7xx-X-LLRUkssSh8-EruCbaVUBPCk9u8qIgXD9wGREDrtRrmY1G3WBy1FAAQsgJnqo-cUskNTk8IX_2vHNzWmLn1kF6tFoXgCh92Bw9txFmqr2JB3f7u5zrNzM4HkrH23khkvcGWJ4qJlQqXkRh9o5Roq5PRsLVDdlbbUl3pi5doZirxAwPUwEKHwuWs6l25tMJeZ8fBb1-c_h0A2wk8zgVJULLbW1wPQJtRdTBuPewwZ2UkW72Jo82YqNYxQ1Uhok9qnT1oQBIwRZN8iQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/o61LxDF_8wm1wDQ9ehozUaEuGdYIkkElyyGJdoqVKTssS9uC_YY02cprsyIiFWRwUwRP7xx-X-LLRUkssSh8-EruCbaVUBPCk9u8qIgXD9wGREDrtRrmY1G3WBy1FAAQsgJnqo-cUskNTk8IX_2vHNzWmLn1kF6tFoXgCh92Bw9txFmqr2JB3f7u5zrNzM4HkrH23khkvcGWJ4qJlQqXkRh9o5Roq5PRsLVDdlbbUl3pi5doZirxAwPUwEKHwuWs6l25tMJeZ8fBb1-c_h0A2wk8zgVJULLbW1wPQJtRdTBuPewwZ2UkW72Jo82YqNYxQ1Uhok9qnT1oQBIwRZN8iQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_heads</id>
-  <updated>2026-03-12T11:34:04+00:00</updated>
+  <updated>2026-03-12T13:07:31+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Немного статистики по популярности версий iOS на начало...</title>
+    <published>2026-03-12T12:10:01+00:00</published>
+    <updated>2026-03-12T12:10:01+00:00</updated>
+    <id>https://t.me/ios_heads/1124</id>
+    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1124"/>
+    <author>
+      <name>iOS.Devs</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/ios_heads/1124"&gt;&lt;img src="https://cdn4.telesco.pe/file/sL-l94u5-HW5uS7FLGaYkqXlelvxnskyz0kPTbbXQAjlnP8F-VVYVsAQwO7eMiwZJ9QwX2dtmNF7A25O0tv0P3sOTrbkbcPn6LNRTFWonKU8shmTKkyZwuJiVkCuHCHrAKHcmTo1Q6_0cNr4kUx8Yva6lZaUOaCCjQplaLWE-N2foRur7B1H473o5gKCpJ6gbyDx9hGvnPqlhD6p0H2uaC_eVLt_8u7itb9zVeuqx5Rc-I7PkqHrSOsopBWWNhb0mvPd8dQ2JJ2KubEwj3ivW_FwCTJKawZ3p6sUDYlB0Ezk0AVQI8TSfaCBIvZxTxX6lq8wIPZrNKyfow_nLMX5_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Немного статистики по популярности версий iOS на начало года (самое начало).&lt;br/&gt;Ну и немного сравнения по фичам в разных версиях iOS&lt;br/&gt;&lt;a href="https://telemetrydeck.com/survey/apple/iOS/majorSystemVersions/" target="_blank" rel="noopener"&gt;https://telemetrydeck.com/survey/apple/iOS/majorSystemVersions/&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">SwiftBook в PDF на 600+ страниц?&#13;
 Доступен по...</title>
@@ -32,7 +43,7 @@ GitHub - peterfriese/swift-book: The Swift Programming Language book as a PDF&am
     <author>
       <name>iOS.Devs</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Заголовок, конечно, выглядит кликбейтным, но материал действительно крутой и там внутри огромная куча ссылок на разные источники с материалом, как пройти от зеро ту херо&amp;#33;&lt;br/&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/" target="_blank" rel="noopener"&gt;https://swiftology.io/articles/swift-concurrency-zero-to-hero/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;&lt;img src="https://cdn4.telesco.pe/file/NkLq2NZBsPU16-39vvaGTJyoogi576Dwv742M1Iy3OmWUwajNWmnZVT0urA2Wo62hDeIYfIMR7kxn3HA_D1Z8WHD2zF_ON6bmuqNSmmxLkK-N_35KYigoLD8r1m7IEsVEIRneOl4T6GQEQIy1AMPAk0FiXDsVpC6u07B5AOc6_wl7mZCj6XLawkhlKw9LNltWZy9GbVj4B28iA_2hca_ga4oGViybsbKCFIgPiR-3mAW3mMbqDfF6DGZVgiUv4eiXcU8x8Q3LWklCNiaDiQMrMa9n0O8II6X-qyIuPpx0DCdGg7rR8iKB51VXb66FCH2aLDLFygS1CMRnsYHmgtLrA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Заголовок, конечно, выглядит кликбейтным, но материал действительно крутой и там внутри огромная куча ссылок на разные источники с материалом, как пройти от зеро ту херо&amp;#33;&lt;br/&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/" target="_blank" rel="noopener"&gt;https://swiftology.io/articles/swift-concurrency-zero-to-hero/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;&lt;img src="https://cdn4.telesco.pe/file/jDPUCRc2HyRT8WxcupJHQsDTQsCV4D7OPu4igl4dOO-SmyeG0odNx5aDKDAOt9R9Oz4UtCJXkSNsNJdWn0cuLaPMLMJaRh07PkPxAsBeIbGTJTtKmjKvAm4YUibb1kEIop84UN9uEmW6fRNIQJtPagIbsdu3ezgTDqxqrqxdvPaHpwO_QPSuXuZF8l0wjr-k2d3T2PqMYJdbKafyRBwPSC6_IJ9zeFw5CNrlzcjpm9VrJgZq-KjcQSHP0hxOtPKLnwCVtCpX7Bk0JLw5c37kdxIf87HoqgxIgxPJ1LWkxg4Pucz5w6456CXH8BjEtB5jgRi1JajaMGG6bQ2b5glD0A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;
 Swift Concurrency from Zero to Hero | Reading List | Swiftology - Swiftology&lt;/a&gt;&lt;br&gt;In this short post I want to recommend an ordered reading list that will get you from Zero to Hero in Swift Concurrency&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -239,17 +250,5 @@ Modern Navigation in SwiftUI - DEV Community&lt;/a&gt;&lt;br&gt;Navigation in Sw
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Практическое руководство по структурированию SwiftUI-проекта так, чтобы он был поддерживаемым и масштабируемым в продакшне: фичевая организация, разделение на модули, четкие ViewModel/Views/Models, и чистая архитектура вместо «ContentView.swift» с кучей кода.&lt;br/&gt;Скорее для новичков, но тем не менее&amp;#33;&lt;br/&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8" target="_blank" rel="noopener"&gt;https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;&lt;img src="https://cdn4.telesco.pe/file/FtRElMQ4QT2dKV6G0JDaox_H8BDpbYwUXnI3-wwaApi6PhJeGqWv0ovIQMh0go_TZY6PsAUpFzI2Xb5DKZuRDIcNHnHfa27-8zd7NiJuQh8k2vAs5qoUIkv2MbJ7s-n5n48a_NA1_RV90AvxKYbhYgkkw1FqxWYvioymoVbY7bjHcOIYiZc951quD3-XGf1qn7-bzAN6ypj3h3r9K5C2hQtwpULXDzs8ImBwcKMVRRGoVfHagQrsIGIe3CpY1tUcrP5LT1Mjgqo61_KYUxeoCMkGZmHPbb3sh9rh2QpxQ67vYLgMRn4TyjhBD_uaV8GY6vzVNFHCHiG6EupGPCoxug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8"&gt;
 How to Structure a SwiftUI Project in 2026 - DEV Community&lt;/a&gt;&lt;br&gt;How to Structure a SwiftUI Project in 2026   Starting a new SwiftUI project? The default...&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Давайте после перерыва сильно разгоняться не...</title>
-    <published>2026-02-02T11:55:15+00:00</published>
-    <updated>2026-02-02T11:55:15+00:00</updated>
-    <id>https://t.me/ios_heads/1102</id>
-    <link rel="alternate" type="text/html" href="https://t.me/ios_heads/1102"/>
-    <author>
-      <name>iOS.Devs</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Давайте после перерыва сильно разгоняться не будем.&lt;br/&gt;Вот небольшой материал про опенсорсную либу на SwiftUI, которая делает новый liquid glass TabBar.&lt;br/&gt;Автор надеется, что скоро будет хорошее решение из коробки, и эта либа вам не понадобится, но пока что держите&amp;#33;&lt;br/&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/" target="_blank" rel="noopener"&gt;https://ryanashcraft.com/introducing-fabbar/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;&lt;img src="https://cdn4.telesco.pe/file/B21_zMD_CD0VHGjH0HfulQ1swOvFCzf7jhnrHl6CleSSXr-3PHLKvrekelmCNoEUAlv8CoctbD4Jc58MmmG37qEALj_rRpvjqB6v-5YZvk06pDJaKQUIvrIBrDu0vdG9KGr1aSxfvMWAxsZ_7BVFyFNtMqGo-blPKDhHoalhRjcf3qBv0eWintcbOIR5MgEIhh1PqFmwrGqgg1QMnGXM2mNxWetwJ_4y-HWNt5k0PuYv8ZUnK3bHlM88zbWQ-ouGxjtSU9Nj0WvUrjPNkFmv9ybkXlPmcndJnwN93cIpJpSLwHC-M8lO2lM7SvXjOlvmUWGRP4Q6v8gLR-IgQ5zemQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://ryanashcraft.com/introducing-fabbar/"&gt;
-Introducing FabBar: The Liquid Glass Tab Bar I Wish Apple Made - Ryan Ashcraft&lt;/a&gt;&lt;br&gt;FabBar is an open source SwiftUI library that recreates iOS 26&amp;#39;s Liquid Glass tab bar with an integrated, tinted floating action button.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
