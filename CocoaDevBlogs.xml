@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-12T17:50:46+00:00</updated>
+  <updated>2026-03-12T18:58:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -152,7 +152,7 @@ iOS 17 gave us custom UIKit traits. You can now propagate values through your vi
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) &lt;a href="https://t.co/71zBvAZK0P" target="_blank" rel="noopener"&gt;https://t.co/71zBvAZK0P&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;&lt;img src="https://cdn4.telesco.pe/file/ObCHYybUI6InG5LB_Cs-KPbWzWWC0wiq9q-jcAel9nXqKIf44Ey36q1-gsr2ANW4jLx5cRdRCPVlhVF8DhxlOmpMlpuQpst8etYO3pYi2CB27QNAiFriPXrl8Scg7o8xtcMram39wMlnKkUoYXe3T5P9ofTNMzB9vFuQA62DFRF4yZQxNdcALAPBFNtIVXB9-yh8MN2pKmjCapm276gGybpXBGtcwepjhF_L7I7iS25igl2xDoC08SKeraOWKZvRHT5ehyvBtznIrJkl9TWLv3vprjaqKtGF5QE42_MPtrjuVnxcaEYHra05ZHJMIji8VxJ1iCsJBQOwaI9_VfedTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) &lt;a href="https://t.co/71zBvAZK0P" target="_blank" rel="noopener"&gt;https://t.co/71zBvAZK0P&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;&lt;img src="https://cdn4.telesco.pe/file/YIuNKb1Ok3PoShg91rQ_0H86KJ1E344T2Sb9jwSFXT3oLs7TuNLCGIMAab2KM8NDaz6ZgnqsJxb75EiYaMI1kblRsSlFytb6CqZl_qBBu4YKCkeKrfsNn3omyfokqrXsWFy7mAMx9vic1klfz6QbTYxj_x5nX37Rk2anrf1DCHRJstbnouGIQqiSHXP48pm9CgyJbtRFyNwJohZC2PrdpuRt54Sd1rKqo9mZ3ojoOvmQKuhcFu-IFdSkXR5dUh5gD8JRIuGL4JFSwQ9I9S9fJK2EZbwfV7MtYYJOh1yGMYUJT5pJ-zA2aslUphHLpSR7VkKcUiQjx7kNGaEHtOopCA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;
 Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) - YouTube&lt;/a&gt;&lt;br&gt;The Gemini CLI just got a major power-up&amp;#33; 🚀 In this video, I’m showing you how to use the brand-new slash commands feature to activate custom Agent Skills. To demonstrate this, I am using the excellent SwiftUI Agent Skill created by Paul Hudson (@twostraws).…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
