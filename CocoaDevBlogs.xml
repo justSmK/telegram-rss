@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/UvK7_aji5Fa9zb5D_CQ_0Raygxpwsa8ToCIEYEMn-eDATP9UEmd2OiVoudoSHMZbcrN5NZ1VC5wRWLEUQb02H2WWVAzAUNgX6Wsk-91JgCnB2QTO0SISiqGTyVEvkPXxYaXILEuNh-aQVQocHj2FR8EuhQNbW0Q-0-4tWjsDLTu7amPyBvB0SVyavoCyBFI-oBvJiMicU9vPqlDJIGC6wsaCZOdqRr-8DRhq-IOOiGcJQt6o6OZZWbQkGaCjpZSMXElWeSepZWfcR0q-hPRQRij6YhZH-gr5Bw-6uK1tEQuWzT9nDlbobLbmiUC7Dkz7dxRYrHSheyjMHP56rSm7vg.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-12T13:07:22+00:00</updated>
+  <updated>2026-03-12T14:52:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates https://t.co/FWp3Ino2vD</title>
+    <published>2026-03-12T14:32:51+00:00</published>
+    <updated>2026-03-12T14:32:51+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26157</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26157"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates &lt;a href="https://t.co/FWp3Ino2vD" target="_blank" rel="noopener"&gt;https://t.co/FWp3Ino2vD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;&lt;img src="https://cdn4.telesco.pe/file/llNi5zNPgreVtvdkhlWAxt7cXZgjFwr5-kiWKb0EZV1vnmPhC6ReYYh2Xb-JSE3b-G0QnsbpYKIjVjF2-v0GfZ_rWCqakfLoG9Aa8tzRM6j-m2dzxz7bfuiDsH48_4dH5GWvQovRo4uzarSHbjcdPpoX3xpObLUv8ZlqfU9bDBt-TueziwUcdtLAxVh4WRt4Ip2mkGKl-0ZjXNaGuRFCQPOxARhktk2X4SrTXjcGN6YaXqfwlU-W2K_VSY8M3FT8ljxCMMb7pwkzXcVRR96dACxgLGGDfGsdjOUNYvC-6VgKyqkje3yol_gV7pRGARr9rtJ1RhrTM3Sb2-uvOTFTPw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;
+SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates - YouTube&lt;/a&gt;&lt;br&gt;Most SwiftUI developers have no idea what actually happens after they write @State. SwiftUI feels like magic — change a variable, the UI updates. But how? What&amp;#39;s actually running under the hood? And more importantly, what hidden mistakes are silently killing…&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : jdg/MBProgressHUD https://t.co/OLv0iQAasH</title>
     <published>2026-03-12T02:32:12+00:00</published>
@@ -19,7 +31,7 @@
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;img src="https://cdn4.telesco.pe/file/BaR8Ptm2hiLwhvXNk7a8Pc1X1A51zWe2MLXG3R_SZIOyY6uTxDY7VdE6BDGRDxsdfl1lBlNvY19wdtZSSHadgbOTVDbQyWIIQ9w8xE7HoZnx3X0PBaXwFXkC_qad1Kg8QE1HTvP3VVTw7yRg9epxvc84G2qilLDGX-7hSeC2w93HFFwwsDadytypNP_8VilJN9JqQOzMKnAJSQeJ-nob0X8kcOO28_DFtJzvF-lh0g9SxQgxqsCdPHaz3CqWlLq9SCu2k4G8KZPuRaY-QS_fpT13rXzeTINSqbkIIB0v-z40N-lcxXP-k4mqCnYzhA4BAyRqmIyEvHrxKUKqhL5T7g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : jdg/MBProgressHUD &lt;a href="https://t.co/OLv0iQAasH" target="_blank" rel="noopener"&gt;https://t.co/OLv0iQAasH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OLv0iQAasH"&gt;
 GitHub - jdg/MBProgressHUD: MBProgressHUD + Customizations - GitHub&lt;/a&gt;&lt;br&gt;MBProgressHUD + Customizations. Contribute to jdg/MBProgressHUD development by creating an account on GitHub.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -152,7 +164,7 @@ Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) - YouTube&lt
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Eternal Storms : Recent Website Updates &lt;a href="https://t.co/gyHrK4AVMS" target="_blank" rel="noopener"&gt;https://t.co/gyHrK4AVMS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;&lt;img src="https://cdn4.telesco.pe/file/O9KYygQOdc_tPTIjMMGg4ULGboPBxs_HklTWkdTYN6-B8EkErCA34odJ3__0fxP1Mcd--3j-VgrrN3qp3k2jMZkV--wWHDUuzE2cLzq2b6m5TSz6b0Df0ZyRQhB_V9ivkevy3VA-ZFlRzCprZktkY1tD5S65pmoozxfxRkfV8Q9jyBsczmqLgD6InnrDXVuU7j__WFnQN7PptkaMC7vmVhxVE4o5tHP_WwlHmiwjwz-GcJM8VQ34bKQua4eNB4PeIIvH23JE_Ht_0SFZ30E1Yrf1kDEeXgBIhrNlU_kpCSWGjCeQW8lD8ifWoUdbHyzQh6uOvI4ZVY1Mlcktm4gyMg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Eternal Storms : Recent Website Updates &lt;a href="https://t.co/gyHrK4AVMS" target="_blank" rel="noopener"&gt;https://t.co/gyHrK4AVMS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;&lt;img src="https://cdn4.telesco.pe/file/s2fmECcC6LMFgyLhpnxb3gX4Y6ZbcUTluJ3MxOGE2pzmN39dsxZhARA9vg0HQM-0WWHn4RqjN96YNI5AKosNt_hY-zrHSXf5fJ7XhnrLOBiynnrCWaVKFUekPCvNn9RXmBK9vitnzQ8IiUdjNkTj_ONiBQZiIT4cceoekjE-5Ew8krF8YhDleXmUNKkQr1JsHISA3ia7IDcXurEDxL2_9CtqSz_B1BlzPIhD3UVCaoTaJ4R0pevBZjxAYVigugPlKKjB8C-qMtlWkja2MjC2cNHXmZ92TywB-iTKv6WAIqwlcHLEv_7S-0DBsNOfE_H7pLGVn7e00hDkx26R4q9UtQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;
 Recent Website Updates - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This blog has moved. You can find the blog post here. – Matthias | contact &amp;amp; connect&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -239,17 +251,5 @@ GitHub - pointfreeco/sqlite-data: A fast, lightweight replacement for SwiftData,
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;GitHub Trends Weekly : tddworks/ClaudeBar &lt;a href="https://t.co/ReJSDdA3fH" target="_blank" rel="noopener"&gt;https://t.co/ReJSDdA3fH&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/ReJSDdA3fH"&gt;&lt;img src="https://cdn4.telesco.pe/file/WNEZxFNkB_EBbaAJ1WuapMW46-CcXT2OQM38iSNK5Y49ThOW3zFgyMM84IA0FAoe45H18xkXdOp5JIMFGyFLmjJ72yAk7LRehEeIf_WaXrNUreEbLolP6yzr11YBhrVmWVBmxd5hFevVlCTp_ixxDt09tIe5J9d3qVQC8TtKHFb6LJSekVoPuVFSbPtmt-mYDr82oSvgVQtqf59JPOOdRj5UtrZubIcDoazh88TRey5MFKkV4r1dsAMUc23ouILhEQAq8mX0v8HwHlW8HL_o5ngIpxZdH8ZmqJPKC2OeaFW8I6i7qGL4naT7knmIGRe4Ov3lK6qblL5qWgfhtJ6bFg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/ReJSDdA3fH"&gt;
 GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude… - GitHub&lt;/a&gt;&lt;br&gt;A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. - tddworks/ClaudeBar&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">App Store Connect API 4.3 https://t.co/liY85EKh9R</title>
-    <published>2026-03-10T21:52:37+00:00</published>
-    <updated>2026-03-10T21:52:37+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26137</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26137"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;App Store Connect API 4.3 &lt;a href="https://t.co/liY85EKh9R" target="_blank" rel="noopener"&gt;https://t.co/liY85EKh9R&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;&lt;img src="https://cdn4.telesco.pe/file/pLzLwPl46ULvO3y8L5FtyK_viNml_B818YhB3E9h4tYGuhjMaOPr3Lz9czwQ0NambEI5jMnssFizFPYujUtgYiX1hRKunwT2CliCJEvLUnfWICvoM_D_mzMwj0kow_OpzBYNKjyhocgP_1SiwxVJ4kwViXaUzm4-HNxqUifa4ieTPAtqVkhbLipztykPLBr33tRcycCDazknLGSEoe6erfUF1qBFoX0_K7f9T4UbscsoIlGgt62RQkwpEi6O8NGMCWykW814Jqu4NH21kzndoQVa-o5jI5Ba_djMjNZ7CgunHDelvfPoQJwmZpiRgypf2ZyMvfHDX6rHjPhKhuDkIA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/liY85EKh9R"&gt;
-App Store Connect API 4.3 - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;Download fileView release notes&lt;/blockquote&gt;</content>
   </entry>
 </feed>
