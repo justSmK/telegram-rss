@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-13T11:33:58+00:00</updated>
+  <updated>2026-03-13T13:05:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -248,7 +248,7 @@ Recent Website Updates - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This bl
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle callback in ASWebAuthenticationSession &lt;a href="https://t.co/IC0Xn0cWXc" target="_blank" rel="noopener"&gt;https://t.co/IC0Xn0cWXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/B_FZ6xc-6EsjcPvLGIl1h-e2JKit3Rm6OqPCaT60g9dki3YsPdRTYivYs-BMhW0IF_Moq-4qJc0M5IfdezzMlDijvgjl_7vsbbDLy4YPga1nflAyM1M3RG9STKrkClFV6lWeuLiX5axoUBdxfrtKsWzGWDIe0I9dlqe6EYb7cyJoQ-ioI4g1X9voUFP5pOELFZ2mQqpmXmIqHXlYml3V-yfy9wHTsfIHsNHqhMFE2MnGTBjLM4Y8MpBndtP6Q6tszvjNJ5oBAoUn1PalOGFIRl8Jp_oRzKnFAEDgvhXnoB42RYLPlKlWinWHlw4t4JAcqPFcjYYZnpVeoyyvL32JZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle callback in ASWebAuthenticationSession &lt;a href="https://t.co/IC0Xn0cWXc" target="_blank" rel="noopener"&gt;https://t.co/IC0Xn0cWXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/aA3YOEsRvJht7buTQ2XoTNc9Xk13z-JRWgz4HlnQgFJb5astX47cWW52aEZeVDRSTFnnJQaPvG2BCZSlqMjEfO999Xvqojnta_fBwLqHDUS2R6GRcqct-qTzHSXcZ97MZEr01lL4Cz5JnHAxsgUqIcaDSmH8ppdNnVwxk8AIuKwewPgXx1ofYXUIpqmE2YqVdWD5FbSh4d1jJRqF2ybDYZtIoTFiwiZkGBI5hpEjYRx-E2Dee4z6LoT266P69ptc7x_YHRFqcVMLT5iRtI58T8RTm0mvaoIwU7y5Z2knPtNc5Qm2IqVnn4WGVrgRR1BmUFT3pht-xg2GffGUksmOpg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;
 How to handle callback in ASWebAuthenticationSession | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1012&#13;
 Web-based authentication flows require your app to hand control to Safari, let the user authenticate, and then return to your app with the results. ASWebAuthenticationSession manages this handoff, but you need to tell it how to recognize when…&lt;/blockquote&gt;</content>
   </entry>

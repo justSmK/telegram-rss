@@ -6,10 +6,32 @@
   <icon>https://cdn4.telesco.pe/file/g-BQGtz_K3Mr4FcxTn0P-xhGjUCLIdeM0l9M5tCc-Tj0oGmN_acqcMGFK9-CO_ikNa6009TJFYfmZ9ATWEJUu2VJRM2G6nDMwWu8cLJdkEewP5g9dlAESrLg9u6D18gZwpppFjylpMD6qwspnPL0w5SdIdz4Q7jCMqolAm88idqcFnkL3_PMZ0esFkfE5CvYg-XC-3iMRnIr7Kh0yZntpOG593JwJitcBH9-CvJKXLPiDZkjkIcluNCrn-50hMHTgJp7QpPGUQoBXvob-D35bZBiKtpGdtY5fImzbgCiVwFwb5gr_YgoHfrHC7uNJMsVcrErnxI_VdWzun7KE2fpxA.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/g-BQGtz_K3Mr4FcxTn0P-xhGjUCLIdeM0l9M5tCc-Tj0oGmN_acqcMGFK9-CO_ikNa6009TJFYfmZ9ATWEJUu2VJRM2G6nDMwWu8cLJdkEewP5g9dlAESrLg9u6D18gZwpppFjylpMD6qwspnPL0w5SdIdz4Q7jCMqolAm88idqcFnkL3_PMZ0esFkfE5CvYg-XC-3iMRnIr7Kh0yZntpOG593JwJitcBH9-CvJKXLPiDZkjkIcluNCrn-50hMHTgJp7QpPGUQoBXvob-D35bZBiKtpGdtY5fImzbgCiVwFwb5gr_YgoHfrHC7uNJMsVcrErnxI_VdWzun7KE2fpxA.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosmakesmehate</id>
-  <updated>2026-03-13T11:34:02+00:00</updated>
+  <updated>2026-03-13T13:05:51+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">а вообще мне очень нужна ваша помощь. Кто шарит за...</title>
+    <published>2026-03-13T12:50:24+00:00</published>
+    <updated>2026-03-13T12:50:24+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3849</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3849"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;а вообще мне очень нужна ваша помощь. Кто шарит за велосипеды для города. Какие лучше брать новичку? На что обращать внимание? Прайс просто трындец&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Вопросы на собеседованиях, от которых галлюцинирует...</title>
+    <published>2026-03-13T11:58:20+00:00</published>
+    <updated>2026-03-13T11:58:20+00:00</updated>
+    <id>https://t.me/iosmakesmehate/3848</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3848"/>
+    <author>
+      <name>iOS Makes Me Hate</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3848"&gt;&lt;img src="https://cdn4.telesco.pe/file/gy6krqyoJXLru3XUiaLFvL-YWr1qTrHYSMeUDdAVLpAwUF4FixNneUzzDw9LH9O4XD6JAM0DjBzBLsaDEfHNJZAQdBwwbTC7E7m5QHwkNLIPu1DBjxSK8BkPmbT_yAEXiHh9h3qEdcug3XfgVQLWtcCjWXYv4boXQaGUVEkL6SLyD04HDj3x8CE4ALfVuQ4jcDbmbmiflXIqkBPObB-xN3aIByqR4fqFbyBxMScSJOrUKASIbMQJQoUwN40fT1yquGLqqnhGeRp0VxAcotlvF16Uo0YmQLcpR-lo88eNwRKzp8f3pdOsQIlCZPEgqaQMJj2bJpONJJTWTnoYkqKgxg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Вопросы на собеседованиях, от которых галлюцинирует нейронка&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;В нашем чате мы не редко обсуждаем собесы. И в последнее время начал замечать новую тенденцию где компании начали задавать анти-AI вопросы.&lt;br/&gt;&lt;br/&gt;Звучат они как тюремные загадки а-ля &amp;quot;есть два стула&amp;quot;. Определенного ответа в них нет, и все зависит от контекста. Этот контекст кандидат и должен оценить.&lt;br/&gt;&lt;br/&gt;Например есть вопрос &amp;quot;Может ли CALayer жить без UIView?&amp;quot;. Но какой контекст.&lt;br/&gt;&lt;br/&gt;В теории может жить. Но вот наше приложение живет в UIWindow, а он — UIView. Вопрос с подвохом...&lt;br/&gt;&lt;br/&gt;Решил собрать подборку разных трики задач. Че еще предложите?&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Ну что, как вам такое будущее?&#13;
 &#13;
@@ -96,7 +118,7 @@ https://hh.ru/vacancy/131038521?from=share_ios</title>
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3841"&gt;&lt;img src="https://cdn4.telesco.pe/file/uQagyVRolhk4VXiCSdwQgd0pKc4F-lvdjkRQGIQwscAR54jDukEW0c1aFXic7o6VbwnYfFnn-VNAoouzGS7JXJmxSYKuwOh2UZIBqPB-QiagjsT6kDSqViT30kqeOnhHTl1dyCA8zkcPA-bY2m1apVlflgPJoXPPfVQLQ8x4sPKIJBHogS_DX6o1QgYWWChZoEQQWg_ZqmYWQ5hyD8mgWg5crrM7Yds_iAjJFVk3UQgaxHag4zam9q6QCTcTioFQ81X7IoqZfWc7Ez0yvbslR-pXEUR1a_0O7Aks0bWXYBuX9sQiYV-fDQJWHh8OCnp87aainf0bQZV-wS52rOViLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Это не шутки&lt;br/&gt;&lt;br/&gt;&lt;a href="https://hh.ru/vacancy/131038521?from=share_ios" target="_blank" rel="noopener"&gt;https://hh.ru/vacancy/131038521?from=share_ios&lt;/a&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3841"&gt;&lt;img src="https://cdn4.telesco.pe/file/AKtCjDMBnWnQ0WNnZ_g2FGFwPdUBPUB6Fke1ennqbenPcjD4XzrCE0I_seFXaerMOEtDF61DTBNGklDCY4Q-bBeUGflBGRweFzyX91AdZTw5Akmv91-58RnA46R_q7ZQMXWvWtddGzGWymfA0AFlOyv_WGgeOWweMoYxlR702HcKS1uBTSahdFs76wZ4hJ1kn-kF5zgBMflpi4hzoQSOu6uLMN6aBj1iHGJnbZ_GN3SxL-HLK07_N4kgLCaXhyDcbtSHny_-hpSvsyHyI2EKlbdWbX3tfsRfQBOg6cC0WQxRKpT4ielRHsLj3VxAuZ0OClcwCuC2Vb1yf1l_rh2sEw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Это не шутки&lt;br/&gt;&lt;br/&gt;&lt;a href="https://hh.ru/vacancy/131038521?from=share_ios" target="_blank" rel="noopener"&gt;https://hh.ru/vacancy/131038521?from=share_ios&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">программист в 2к26</title>
@@ -148,10 +170,10 @@ How my software engineering workflow has changed in the past year - Swiftrocks&l
     <author>
       <name>iOS Makes Me Hate</name>
     </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/otJZ6EEAnkzTJpWbeQLBLx1F8wje6_0t7Nz29Z-7wvUpyZZmJP5F_F7vKFH2t6_5jRf6Zk0KTboVMq1R3bQcI3xhY-vEn17mmLrH8T6Qopk9BR1cxyKvFzdRqGyvUsWSwYU30IyuMhNopXK2fMpBNIqo7fPDhCf9Ugi0XW0NnVfmDPK2OgTRlF2nrKXQw7VzIscu_gUnD8T4QMveFwnj87PDgtXvqapQTaTc510eBBCmJJF1IREd8yH3ikE3HQoMwdmN_cvMSzBz7pijG-vTspukulqf6O7hrFWtFRRb7aNDC9lgGeubWG6CydOADho9NDWx7fZ3R7Ciet_9mDSobA" style="max-width:100%;"&gt;
-	&lt;source src="https://cdn4.telesco.pe/file/d245559e0b.mp4?token=sZyJi2bzkv7Zn6Rydp4ExRvphr0wQyWP-8FNzKrRXrGiO0s9LPODhU-RW99CMvL46CheBrgi4UXOVBTZirUfcPuRWmb1iSsC5YQbB6UKQe_p7Q1DPu9F1kIR39AOKpEQRxAV4B2XDsvez5BRoQ8JhpUNQWqk8DQ-SqGGGxpgLtIGALg1eWhnjypuGOFcdoRdQa9oSd0aMAz_tTCCSkQ0WB3bJJbS-1C6Uit_EYo7JzJa6dfh-7Xc7auB16cCRYGk-HPtucTPHuUlRaBY5JwdPNBbvVLUfWRfyiPgKEw8E1zfk52607IuFGYfU1YKaxmWkn4MS_bDv-JfozHESdF-pY8vOBHr3Fo_Z8h7iuX_FacN_9TwNujf4dZTpLX5u8ZJb5hbppsde38FRlnCZ6O5Y2auc4KYd9GY4ymsO2_7C325Dk7t6nrPikJxiQsnahPihYvDa0N9R-h7QgtoM4t1XwFriBiPCfsImaTX2oIvf0tQTqdwrJjHOfBPWdUx_5qgd5l44iWdNnMJD_08pjsRI7gVKYKscbpqX3vKAARB0jNaQjMS-4EF8aZwZjcs3NytNZdTq6m01Zy---xhtiMbfUzr44tmzWNxDoYnQ7KSBhjnNlsdedB3VQcmK2z0WRWqnWX_JkkB-9jfdt7CVrqGQYthz_PLHaLHkOI6x321lIU" type="video/mp4"&gt;
+    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;This media is not supported in your browser&lt;/div&gt;     &lt;span class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/span&gt;   &lt;/div&gt; &lt;video controls="" poster="https://cdn4.telesco.pe/file/uw2kZQLU35f8ZG9nbVymuvYujIMVD-m8ukTsiGYznC7ApdifYMVqgi7xfcXOToGLn7_LEIiEfA-GpDH9s59Qw_NDhxILJMO6e_T1m7-4laip5NsgUpMC2OfXi-8funh-nwNON9ELZqEUSKevVfjofPzQKPlOdFwh7CJi3Q7J9JeXkHtuYJdYZMxKYAAAhPETSvKN2jX6DzfKIwa9WhaMFQBdzghvP4gtI3Ri3XrRxRlirwp26a_uymvd8X4nLT_g-Rqb9V4ugNoZDj0EL2eccqHCpqrhqQMaFDyztEW4bbVMCefXkcSdMhnRD67-2n-9KESDCCh0o2Ml7CAvbO1Kbg" style="max-width:100%;"&gt;
+	&lt;source src="https://cdn4.telesco.pe/file/d245559e0b.mp4?token=sZyJi2bzkv7Zn6Rydp4ExRvphr0wQyWP-8FNzKrRXrGiO0s9LPODhU-RW99CMvL46CheBrgi4UXOVBTZirUfcPuRWmb1iSsC5YQbB6UKQe_p7Q1DPu9F1kIR39AOKpEQRxAV4B2XDsvez5BRoQ8JhpUNQWqk8DQ-SqGGGxpgLtIGALg1eWhnjypuGOFcdoRdQa9oSd0aMAz_tTCCSkQ0WB3bJJbS-1C6Uit_EYo7JzJa6dfh-7Xc7auB16cCRYGk-HPtucTPHuUlRaBY5JwdPNBbvVLUfWRfyiPgKEw8E1zfk52607IuFGYfU1YKaxmWkn4MS_bDv-JfozHESdF-pWie_fcp-NfMhi8WKgYOiID8ThRWy2KQWL9QmscS1y2VLTKASWXP1wvi0kUhk6aXX1rVvQFUpifU8PfdB8xbq8H_fl0lnM93PwdG0TqBjaTpNozoG40HeM07NwmZI1FKCF39g5SsdeOs3Ucu8gynm1LzxiVTGc9YQSwHf8RZCzahmFHoFgdCyIWaUuJCEk_z9nEeXWW9cVf6v9JJUcYBi_2lCINyHJ7Qt_qS0wZ4aD6qOIVI7CoH1lsT0UAqTmSe4ZsPEST5mPgCfk_LlEcLNzGeQECDivGONiTfm1b8DnUaD4NtOum-q9zanuxMViLji6b6-hDBBnhAt37Y-21w6nY" type="video/mp4"&gt;
 &lt;/video&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Ладно. Я очень люблю авито и это все еще самая крутая компания &lt;br/&gt;&lt;br/&gt;Но бл&amp;#036;€яяяя. Когда еще в 2023 году готовились к выпилу из стора, то были разговоры, что Web и PWA отлично заменит натив.&lt;br/&gt;&lt;br/&gt;Любимое мое авито. Это не так. Очень неприятно пользоваться.&lt;br/&gt;&lt;br/&gt;Ставь лайк если тебе норм &lt;tg-emoji emoji-id="5287379550563477182"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F929A.png')"&gt;&lt;b&gt;💚&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; и череп &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9280.png')"&gt;&lt;b&gt;💀&lt;/b&gt;&lt;/i&gt; если нет&lt;/div&gt;</content>
-    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/otJZ6EEAnkzTJpWbeQLBLx1F8wje6_0t7Nz29Z-7wvUpyZZmJP5F_F7vKFH2t6_5jRf6Zk0KTboVMq1R3bQcI3xhY-vEn17mmLrH8T6Qopk9BR1cxyKvFzdRqGyvUsWSwYU30IyuMhNopXK2fMpBNIqo7fPDhCf9Ugi0XW0NnVfmDPK2OgTRlF2nrKXQw7VzIscu_gUnD8T4QMveFwnj87PDgtXvqapQTaTc510eBBCmJJF1IREd8yH3ikE3HQoMwdmN_cvMSzBz7pijG-vTspukulqf6O7hrFWtFRRb7aNDC9lgGeubWG6CydOADho9NDWx7fZ3R7Ciet_9mDSobA"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://cdn4.telesco.pe/file/uw2kZQLU35f8ZG9nbVymuvYujIMVD-m8ukTsiGYznC7ApdifYMVqgi7xfcXOToGLn7_LEIiEfA-GpDH9s59Qw_NDhxILJMO6e_T1m7-4laip5NsgUpMC2OfXi-8funh-nwNON9ELZqEUSKevVfjofPzQKPlOdFwh7CJi3Q7J9JeXkHtuYJdYZMxKYAAAhPETSvKN2jX6DzfKIwa9WhaMFQBdzghvP4gtI3Ri3XrRxRlirwp26a_uymvd8X4nLT_g-Rqb9V4ugNoZDj0EL2eccqHCpqrhqQMaFDyztEW4bbVMCefXkcSdMhnRD67-2n-9KESDCCh0o2Ml7CAvbO1Kbg"/>
   </entry>
   <entry>
     <title type="html">AI Code Review&#13;
@@ -242,30 +264,5 @@ VIEW IN TELEGRAM&lt;br&gt;&lt;br&gt;
       <name>iOS Makes Me Hate</name>
     </author>
     <content type="html">&lt;a href="https://t.me/iosmakesmehate/3829"&gt;&lt;img src="https://cdn4.telesco.pe/file/uui9pWfMCwb30BMlCJuYYNciy0UIMcuf-4k9SG-53YclsKN8QRDAuLg-jVl_cSTjfYJY3J8lyeg1lLuO9ZvbLGKWLtqE8u132q8d91MEPAEc6JRTBcYvHbF7gJL5YsOV26jEj_IOeSPC75BaYDipt65q7E4dVd2ccVoRWYqDDuAc-gDEBbaCR4AoS6P9Pjt880ULElwKYdh5jjjLssS6xzRKsZZg0r3JPPzo1Y0cMvOgDpCruR5q5C_snwpqSeIXcHdLbdVeHMuznXxl5fjJO5Z--h9mUrn5OpRCVsLtXMEJCDMgGhQUjff1mZJvIFfeZSIYpQ2mtiv3mqTKBqEOAA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Рубрика «корпоративная пятница»&lt;br/&gt;&lt;br/&gt;Поздравьте своих коллег хрупкого пола. Их и так осталось мало.&lt;br/&gt;&lt;br/&gt;Девушки, вы самые лучшие.&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">А кто-то покоряет и превозмогает, пока вы не...</title>
-    <published>2026-03-06T11:02:47+00:00</published>
-    <updated>2026-03-06T11:02:47+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3828</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3828"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/iosmakesmehate/3828"&gt;&lt;img src="https://cdn4.telesco.pe/file/G2onCsiIDTpZZi-CZ329DoNXfsboWV2xB8qUYeEpRfGzt7YYvDg3-AguxdAwB0SWySx_UX7A_NQ4SNli82bgO-BtMdOLJzhCzNwQ3nxARAW4FNnpWGPnTBTfzoYZq7fd33LMFyJb87geok-P-Nxc0wsSOvtRyA4wq8FkgI4vrLWSyYFBYqHEHYlITa_u3ybSePDg7A-_u1SJH8fb2gOCouHW9DHoEahzC_BfxWGsMpPW4B_0nsdxIhl3xBMMePDLv2M7BKLqWHE9v8JTPuQGuOvIaNc1-PbJWY-QotP60a_6C6ebrRzXDdXi2PpsM1rHgcwgzR1hTJiONQtJaqqlEA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;А кто-то покоряет и превозмогает, пока вы не смотрите&amp;#33; Ребята из Спортмастера собрали тест: 5 вопросов помогут вам узнать, где искать свою точку опоры в &lt;s&gt;мире без тг&lt;/s&gt; для любой дистанции.&lt;br/&gt;&lt;br/&gt;Вместе с результатами — мини-гайд о вашей сильной стороне и участие в розыгрыше призов. Свои полезные советы найдёте в конце &lt;a href="https://talents.sportmaster.ru/powerorbalance?utm_source=tg&amp;amp;amp;utm_medium=cpc&amp;amp;amp;utm_campaign=ios&amp;amp;amp;erid=2W5zFG6XDuj" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;теста.&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">How I Stopped Resisting AI and Started Teaching It&#13;
-&#13;
-Omar Elsayed, автор SwiftDifferently,...</title>
-    <published>2026-03-06T06:16:14+00:00</published>
-    <updated>2026-03-06T06:16:14+00:00</updated>
-    <id>https://t.me/iosmakesmehate/3827</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosmakesmehate/3827"/>
-    <author>
-      <name>iOS Makes Me Hate</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;How I Stopped Resisting AI and Started Teaching It&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Omar Elsayed, автор SwiftDifferently, опубликовал забавную статью. Называется она &amp;quot;How I Stopped Resisting AI and Started Teaching It&amp;quot;. Забавное слово &lt;i&gt;resisting&lt;/i&gt;... Мне даже захотелось его глубже поразбирать. Когда мы резистимся из-за страха, сомнений.&lt;br/&gt;&lt;br/&gt;Главная мысль Омара:&lt;br/&gt;&lt;blockquote&gt;AI не должен просто писать код. Его нужно обучать тому, как именно ты хочешь писать код.&lt;/blockquote&gt;&lt;br/&gt; &lt;br/&gt;Плохо: каждый день объяснять баристе какой кофе ты пьешь&lt;br/&gt;Хорошо: один раз записать рецепт, чтобы он всегда делал правильно&lt;br/&gt;&lt;br/&gt;Он понял, что использование AI не снижает уровень разработчика, а наоборот заставляет формулировать знания, структурировать опыт, думать, почему ты принимаешь решения.&lt;br/&gt;&lt;br/&gt;Кстати, записали крутой выпуск с одним блогером. Возможно дроп на след недели.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;&lt;img src="https://cdn4.telesco.pe/file/MAsDxlDynPf2VYi6Mv9nmg4i79u4hCHu12FKno1wN9HfpnQM_4wLgnyGLJzsUmL0S7TwySmJoNWp9DqsUF_-Y-O5i_er6E1aPEJWpyfs_2Mugrivk-A-6iC9NA0JKIthhOI1QOAdXAgH5SxNfybOHXKn6uEPBovyvtz0PVOdsEeQreeBS4r67MdPrl_5Kp7olULZS_vSVCc_PfI-YfLsV-apWk5o4kZnKhHhX8zxqMoX7erbNFqNNcs7zM-hDwnY0Tzyc8B02B4S8dt76pRwzLnoMznfl0OEFlrpkI7_d87Kh5Q37sYmyYk4mIAgcBUucyq_OVYrkrHpNBsF3risTA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;
-How I Stopped Resisting AI and Started Teaching It - SwiftDifferently&lt;/a&gt;&lt;br&gt;A year ago, if you told me I&amp;#39;d be contributing to AI tooling, I would have laughed. Today, I co-authored an open source agent skill for SwiftUI alongside Antoine van der Lee. How did I get here? Let me take you through my journey.&lt;/blockquote&gt;</content>
   </entry>
 </feed>
