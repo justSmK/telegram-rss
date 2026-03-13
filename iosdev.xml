@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/n8LCsnkVz3R_4vHFP1VEpsDgISs6CB6015lFi56Rqhy_bwZ7YsDh7KvcF9L-lnSe4-xXLlvHofMOiZUwEPLozWbkqZLvJUV0qXIAYAApjPGr1TePo8uAaT7yoMGnKhSA4C_wBO7VjsJFqUChoUKEILdibqJgJ6co3AZtikMsGeoTAzML__DjHN-ujxByJKnG6eXnAfZP9d6D0oC8lQnvnVr-wfTCX8lsy7ugHeZuX0claOjGIRUeXOq1iV_F2InVb8SPMXeNMRQ9vozjMuKJAa-5sjVZzIimQWXiRICd-bYIOusBZjHaiJUGzYspJhk5_Nn1k_oxDrY15zyQRGlK9Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/n8LCsnkVz3R_4vHFP1VEpsDgISs6CB6015lFi56Rqhy_bwZ7YsDh7KvcF9L-lnSe4-xXLlvHofMOiZUwEPLozWbkqZLvJUV0qXIAYAApjPGr1TePo8uAaT7yoMGnKhSA4C_wBO7VjsJFqUChoUKEILdibqJgJ6co3AZtikMsGeoTAzML__DjHN-ujxByJKnG6eXnAfZP9d6D0oC8lQnvnVr-wfTCX8lsy7ugHeZuX0claOjGIRUeXOq1iV_F2InVb8SPMXeNMRQ9vozjMuKJAa-5sjVZzIimQWXiRICd-bYIOusBZjHaiJUGzYspJhk5_Nn1k_oxDrY15zyQRGlK9Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-03-13T13:05:44+00:00</updated>
+  <updated>2026-03-13T14:44:16+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">За последний месяц время проверки приложений в App Store для вас</title>
+    <published>2026-03-13T14:19:40+00:00</published>
+    <updated>2026-03-13T14:19:40+00:00</updated>
+    <id>https://t.me/iosdev/1887</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1887"/>
+    <author>
+      <name>iOS Dev</name>
+    </author>
+    <content type="html">			За последний месяц время проверки приложений в App Store для вас&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;34% - Увеличилось&lt;/li&gt;&lt;li&gt;6% - Уменьшилось&lt;/li&gt;&lt;li&gt;17% - Не изменилось&lt;/li&gt;&lt;li&gt;43% - Интересны ответы&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title type="html">Анимация принтера в 30 строчек кода&#13;
 &#13;
@@ -241,18 +252,5 @@ Apple ежегодно обновляет API MapKit,...</title>
       <name>iOS Dev</name>
     </author>
     <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1866" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosdev/1866"&gt;&lt;img src="https://cdn4.telesco.pe/file/LcqatQ4jFKXdvyepEZZcs07JX4pp9UaDkBko9jy1BUR-KJ_dCMSbl3SqmEZmX5CYOqDdlrWV7SCeSyXuJKdtxmZwYsRDiSrhn9YV8rgIWBRmuEUkgHdPpDIf6YQeS3tVbx-WNDLUJrQv8caSPl9sK5IXRYnOFry0C9t7pRjF1dv0cUN8r5gVW0y6YZAzLeLN7ZGPg0pNFOPDL4ekNEzNp4kY0incIJk8Xah3sS1vM56kSfMCZDtQP4yrRdGqlFXIfZn1Oi4Ht9hPND9-URxd6lpkat_u0OAzFdg3RuKLPhW85nMe5nLaMyv_ZXD0Cwn3r9vW243O3DCTKGta9Is6wg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Зарплаты IT-специалистов во второй половине 2025: рост остановился&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AA.png')"&gt;&lt;b&gt;💪&lt;/b&gt;&lt;/i&gt; Зарплаты разработчиков в Objective-С &lt;b&gt;всё ещё держат пальму первенства&lt;/b&gt;, даже с учетом того, что во второй половине 2025 медиана снизилась на 7%, до 355 000 ₽. &lt;br/&gt;&lt;br/&gt;На втором месте зарплаты в Elixir — 335 000 ₽, а на третьем в Golang — 320 000 ₽. &lt;br/&gt;&lt;br/&gt;Больше всего во втором полугодии 2025 года IT-специалистам платили в «Авито» — медиана 369 000 ₽. Также в пятерке лидеров «Райффайзен Банк», VK и X5 Tech.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5974492756494519709"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"&gt;&lt;b&gt;🔗&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/iosdev/1684" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Прошлые исследования Хабр.Карьеры&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5357198422963143215"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"&gt;&lt;b&gt;✅&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; Сравнение зарплат с европейскими - &lt;a href="https://t.me/iosdev/1708" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;здесь&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Clean room design - конец опенсорсу?&#13;
-&#13;
-Как вы знаете, я...</title>
-    <published>2026-02-17T10:58:47+00:00</published>
-    <updated>2026-02-17T10:58:47+00:00</updated>
-    <id>https://t.me/iosdev/1865</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdev/1865"/>
-    <author>
-      <name>iOS Dev</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosdev/1865" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Clean room design - конец опенсорсу?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Как вы знаете, я &lt;a href="https://t.me/iosdev/1780" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;неравнодушен&lt;/a&gt;, когда дело касается &lt;a href="https://t.me/iosdev/870" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;идей/копирайта&lt;/a&gt;/повторения.&lt;br/&gt;&lt;br/&gt;Оказывается, есть специальный термин, буквально методология создания продуктов, с чем можно сравнить и тысячи поделок, которые сейчас фигачат как на конвейере.&lt;br/&gt;&lt;br/&gt;Суть вот в чём: команда разработчиков работает в «чистой» среде, без допзнаний о скрытых/защищенных авторским правом технологиях у своих конкурентов.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;Это способ копирования дизайна с помощью реверс-инжинирнга, не нарушающий авторских прав и коммерческих тайн, связанных с оригиналом. Он базируется на независимом изобретении и может быть использован для защиты от авторских прав и коммерческих тайн, но не применим при патентных ограничениях (&lt;a href="https://ru.wikipedia.org/wiki/Clean_room_design" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;почитать можно тут&lt;/a&gt;).&lt;/blockquote&gt;&lt;br/&gt;&lt;br/&gt;Так вот, уже был пример 2025 году, когда MongoDB использовала ИИ-агент для извлечения тысяч строк кода из проекта с копилефтом и с помощью Cursor воссоздала и перелицензировала его под Apache. Команды, использованные для этого, были оставлены в репозитории.&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"&gt;&lt;b&gt;📖&lt;/b&gt;&lt;/i&gt; &lt;a href="https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_source_together_with_this_one_simple_trick/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Интересный доклад&lt;/a&gt;, в котором рассмотрено, к чему это приведет при большем масштабе, что это значит для опенсорса и для сообщества в целом.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5246793797538425300"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9883.png')"&gt;&lt;b&gt;😃&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/+ajof-VO5Sr5kNDMy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;iOS Dev&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
