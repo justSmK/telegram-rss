@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-13T18:48:40+00:00</updated>
+  <updated>2026-03-13T19:32:56+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">iOS Dev Weekly: Issue 745 https://t.co/YaInkznSM9</title>
+    <published>2026-03-13T19:12:18+00:00</published>
+    <updated>2026-03-13T19:12:18+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26165</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26165"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS Dev Weekly: Issue 745 &lt;a href="https://t.co/YaInkznSM9" target="_blank" rel="noopener"&gt;https://t.co/YaInkznSM9&lt;/a&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions https://t.co/xtyapJ93Qo</title>
     <published>2026-03-13T14:02:32+00:00</published>
@@ -238,17 +249,5 @@ iOS 17 gave us custom UIKit traits. You can now propagate values through your vi
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) &lt;a href="https://t.co/71zBvAZK0P" target="_blank" rel="noopener"&gt;https://t.co/71zBvAZK0P&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;&lt;img src="https://cdn4.telesco.pe/file/qt4edhbbfobfIsWoYDsqbUpMsZ-2CfDZwTcJBnBE-vvp2-OnGs4jTP9KP2iwIFHu1gwOJ_JPQvSH131QTRI5AbRe8CGL1G5W-R0Qj2WeUNnoCJwwd-D2lSBMPYGIaMOS9-3BrHozJKB3Zv1fiBwlwQtgPaV7DBtV9U-TfPQUsdBW455OClfrEEK8r2BYMmrwPekzmYYDgVEAHubAVemWeF2TRKzgRquotc4Ol0kFv1_LitKkLrOgEcxesz5jJkWdvZ21IA_5_tuh19kOfA9tSduqpIPqkmymd7CgJe69bykS5u_BEegLVOy69U3SPSF62G4mN7j1ddehlduU7KU9yA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/71zBvAZK0P"&gt;
 Gemini CLI: How to activate Agent Skills (NEW: Slash command-style) - YouTube&lt;/a&gt;&lt;br&gt;The Gemini CLI just got a major power-up&amp;#33; 🚀 In this video, I’m showing you how to use the brand-new slash commands feature to activate custom Agent Skills. To demonstrate this, I am using the excellent SwiftUI Agent Skill created by Paul Hudson (@twostraws).…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Eternal Storms : Recent Website Updates https://t.co/gyHrK4AVMS</title>
-    <published>2026-03-11T14:12:45+00:00</published>
-    <updated>2026-03-11T14:12:45+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26145</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26145"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Eternal Storms : Recent Website Updates &lt;a href="https://t.co/gyHrK4AVMS" target="_blank" rel="noopener"&gt;https://t.co/gyHrK4AVMS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;&lt;img src="https://cdn4.telesco.pe/file/W8ZEgvwunuGY-AlVrmUS-abuDf4W0T5CPoJepA-_wKnc0vnsmtt7DHMXnrMfEyMLm5shiKdaRUz6bmuAHXYo3eoeJNCXhwxwAwJezdsDG3QkeE1vbVxhYubt76lHZPQ5KeYnL2OZpMLib3lgUTla5QcWv0z9auHAsrySH4GAsHMYx42NPWUt13bVK61HS2Aq9T4jTNmcNENEG9m2E1RzsuuzAbK4YJkLIw5e8bP06Rsdpf_J-njt6MFjmsDH8HkIDmJajelvWAFZ35xpKEILGcy2zTuYntFTQtCJF-u3dVKPdbwrcAZd9-7NpZ9bGqRSyOKjddzg4mBKMGPl8msvsA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/gyHrK4AVMS"&gt;
-Recent Website Updates - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This blog has moved. You can find the blog post here. – Matthias | contact &amp;amp; connect&lt;/blockquote&gt;</content>
   </entry>
 </feed>
