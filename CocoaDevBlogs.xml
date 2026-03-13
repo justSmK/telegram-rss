@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-13T19:32:56+00:00</updated>
+  <updated>2026-03-13T20:38:41+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -234,7 +234,7 @@ iPadOS 15.8.7 (19H411) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;V
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom UIKit trait in SwiftUI &lt;a href="https://t.co/UVibNCmATN" target="_blank" rel="noopener"&gt;https://t.co/UVibNCmATN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;&lt;img src="https://cdn4.telesco.pe/file/Raf8zFLYKqvivfxVVRgTzCtwEvTr7YvjA4zkmgR-ZUhPkNLtcrU1_KzNp2n_3TbyOOXVNEMG9ma9hmJuLtVRBTnzIcHJpZhV0q7w-lNfTDrpjPo0gBkYSgM7O8zKfkQ0tAtRB6ZY_lYKORHP-wxFUSQya7gYG_Tzddc6tZHVCX4v5MJNpNgWOK_0ngykMSiNCVx0QfqAveZdM2AsRMwxPglm4GeIFzpzO8dL8i4NxEubkfnHLKHIQpxS-_l1exn1wa0A_DigvJBxN6sJdtGjql-19v9ZHaFgytVLkgSH-z-EJx5sbuYck209j6GpvkWm4SAmGfebB408lO2yW9p5_Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to use custom UIKit trait in SwiftUI &lt;a href="https://t.co/UVibNCmATN" target="_blank" rel="noopener"&gt;https://t.co/UVibNCmATN&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;&lt;img src="https://cdn4.telesco.pe/file/IUxmA-1tmQ8f45HTSgXd63tavtNlPFS4engReyemQQvl9QHku-LoLefg4ezjZOYt2DyInCY4-tHC8m9gcJPLVAmKz6KOy40l3nGsfbCkUdCCVeA51nyItANmQeJ0TYCRtbtjvjprVSlfpCnz7w9s4oISZIGUtV4wmkuJ2UR7MUlfIpjXnU4D032jIqy278m_l6ug3TjrIa2PLPYp3QLRd4X_1-BRdCSI2sOh4ehO2UD4hrmoypoQUBeKwIP9kWwLQma6BbEAEcXWCyl5lEa6iOYbOarRSUthxZVfzyPsR7_V1DjHQQ9VsZ_Qg8M28--lggWNe7icdQVDol9_CR-20Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/UVibNCmATN"&gt;
 How to use custom UIKit trait in SwiftUI | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1013&#13;
 iOS 17 gave us custom UIKit traits. You can now propagate values through your view hierarchy using the trait collection system. But getting those same values into SwiftUI requires a bridge. The UITraitBridgedEnvironmentKey protocol provides that…&lt;/blockquote&gt;</content>
   </entry>
