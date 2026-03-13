@@ -6,10 +6,166 @@
   <icon>https://cdn4.telesco.pe/file/oiSlkRVH-TaiclB5xLkvxM9AHosREctKahD2eKBl8OQ1agFqRQJrym-NVjWaCKnGo8uUtK9guu9oXx_UzSPU2NhL4fijpu5hCKYHLVDilS7tNtQ7x278iJ35hiQBhw9vRDhs_sFw7s87Ryqerc8KTQdH24wfwwTzWXcGrPNLYCqDzZFmCY8wrPjOBZXEGlrKUrO3EfAB4cHbqHBsTWtoUrglPvEpJWdlc1FVVSFtn3ZFBFXUBjoEV1r-ihYe7tQGTKwfnGZat1hM2frrCmAlmw-6Qcd0q3ISnICkTSQAjUoquti3e1iupYly_CEGefD5ZuKfqGuOvlexC27oRbq_SQ.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/oiSlkRVH-TaiclB5xLkvxM9AHosREctKahD2eKBl8OQ1agFqRQJrym-NVjWaCKnGo8uUtK9guu9oXx_UzSPU2NhL4fijpu5hCKYHLVDilS7tNtQ7x278iJ35hiQBhw9vRDhs_sFw7s87Ryqerc8KTQdH24wfwwTzWXcGrPNLYCqDzZFmCY8wrPjOBZXEGlrKUrO3EfAB4cHbqHBsTWtoUrglPvEpJWdlc1FVVSFtn3ZFBFXUBjoEV1r-ihYe7tQGTKwfnGZat1hM2frrCmAlmw-6Qcd0q3ISnICkTSQAjUoquti3e1iupYly_CEGefD5ZuKfqGuOvlexC27oRbq_SQ.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdevio</id>
-  <updated>2026-03-13T09:42:09+00:00</updated>
+  <updated>2026-03-13T10:40:35+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">https://fatbobman.com/en/posts/sendable-nsmanagedobjectcontext/</title>
+    <published>2026-03-13T10:27:02+00:00</published>
+    <updated>2026-03-13T10:27:02+00:00</updated>
+    <id>https://t.me/iosdevio/6291</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6291"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-nsmanagedobjectcontext/" target="_blank" rel="noopener"&gt;https://fatbobman.com/en/posts/sendable-nsmanagedobjectcontext/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-nsmanagedobjectcontext/"&gt;&lt;img src="https://cdn4.telesco.pe/file/gptESTN9VYT0vrFcEeUu_x-z_M9B6hPwEU_nRe44a4lyeqqNY4TdKlkY0HdN2oUrDTC1mjVJu9AkCcdLg_rfebwbnYLe_HP2VVN3-l4HVRlaqP9DAxXyONWGdL4mO0WA5-EsGAfH__Kg7LEcO27N4yIJ_UC4qx5O2gcASmMrufG-z_i3UK3TXb3WSGxRjxDk6cXg7M0kHvw0NFu9TEJU2Z9nAIOJwYXPkzzE6PHO1mXM6_v0-E-v9X-dVo1kdY5d2EKks9auGPbLONk-ggezGaFW3JWq3goRxNAcfzzZ35T9KtTCNhq8aodc6kRmCD2d4gGpMxxaHL6pyccO-tqhmQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fatbobman.com/en/posts/sendable-nsmanagedobjectcontext/"&gt;
+Why Does Passing NSManagedObjectContext Across Isolation Domains No Longer Error in Swift 6.2? The Real Change Isn&amp;#39;t in the Compiler - fatbobman.com&lt;/a&gt;&lt;br&gt;Why NSManagedObjectContext no longer triggers concurrency errors in Swift 6.2? The real change lies in Core Data’s SDK import semantics, not the compiler itself. NSManagedObjectContext is now marked with NS_SWIFT_SENDABLE and NS_SWIFT_NONISOLATED in Xcode…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency</title>
+    <published>2026-03-13T10:26:57+00:00</published>
+    <updated>2026-03-13T10:26:57+00:00</updated>
+    <id>https://t.me/iosdevio/6290</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6290"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency" target="_blank" rel="noopener"&gt;https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency"&gt;&lt;img src="https://cdn4.telesco.pe/file/TGzkekW2ksE91iBEGwx7ZQAupNeWEKjgslyUOSydA8dVLf4kFUkYzX6eBavFEtxZl9ChACP8_u_G074I25h7ojU1tIjn6ZkaYEQTyfnVcBoF-eIP3_k4zh9fCrErp4cHpa0gha-hDBWV2nNhUww8Om7ZKppiGYHScpHobCDfX1mqGL1pm4xyxwfZEbB-4K8ef-HLfIHunhsCJjtJpHPzVhL2ICToDwsXs5L-7LPN0RHzmFwNeH8GWgf3Lr-sugr2KeRWi6spW3hl_7SKDER4UebV-6vng_7E-w8R3SPinxggpqQnsZlY2DT5bsZcO4stcH0_XKB4PzJB9JxZX8qK7A.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency"&gt;
+Get Rid of Your SwiftGen Dependency - appleboy.tech&lt;/a&gt;&lt;br&gt;Learn how to leverage modern Xcode features like String Catalogs and Asset Symbol generation to achieve compile-time safety for your resources without external dependencies.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://salgara.substack.com/p/swiftui-swift-effects-a-beautiful</title>
+    <published>2026-03-13T10:26:54+00:00</published>
+    <updated>2026-03-13T10:26:54+00:00</updated>
+    <id>https://t.me/iosdevio/6289</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6289"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://salgara.substack.com/p/swiftui-swift-effects-a-beautiful" target="_blank" rel="noopener"&gt;https://salgara.substack.com/p/swiftui-swift-effects-a-beautiful&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://salgara.substack.com/p/swiftui-swift-effects-a-beautiful"&gt;&lt;img src="https://cdn4.telesco.pe/file/Utbeakh96Wv7tDPHkTiRhwwZpBoMV-YARMcl-B09-dIErq-4lxgVn7odV3qKYFYpVBnf2Xxw-GWBQhfAQ_V-BfCAAnMkkIQnuNBj_vqUN1V9TkVSL0sgS0xGAi0Vuqn-EnMMETRegKegvT7ZbnpPaxdaWydn6zBTJ2Mdp-TfO_522HQBJbbTNz-IpiaxVmbTdf-_kJQV5-cj8mHIyVrQSELpQyqq1W1_duySn5xD4MiGIPzTyBKXXVgJr85JBySy9fdeSLIuoggf_jmCsQZMbcvRO3iq3GAaFPdFP_QVy3QvsIXDm4hC0Zsihoh14wlUXj59gqGfJg1f1mVpvbbD_Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://salgara.substack.com/p/swiftui-swift-effects-a-beautiful"&gt;
+SwiftUI, Swift Effects: A Beautiful Onion Architecture - Substack&lt;/a&gt;&lt;br&gt;Swift + SwiftUI + Type-Driven Design + Swift Effect.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://www.kodeco.com/49535198-getting-started-with-ios-app-observability#toc-anchor-001</title>
+    <published>2026-03-13T10:26:51+00:00</published>
+    <updated>2026-03-13T10:26:51+00:00</updated>
+    <id>https://t.me/iosdevio/6288</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6288"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.kodeco.com/49535198-getting-started-with-ios-app-observability#toc-anchor-001" target="_blank" rel="noopener"&gt;https://www.kodeco.com/49535198-getting-started-with-ios-app-observability#toc-anchor-001&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.kodeco.com/49535198-getting-started-with-ios-app-observability"&gt;&lt;img src="https://cdn4.telesco.pe/file/tGmZAPZ50BGR--vIMiPIugZJQejLWECsTRk-cCJIlJrcX_6Xo_8E5CurSMe7QmHUCzis6hX-madFAk-jNjSjt0l9-xcV5hKOXFSzo1962MayVO4vvXDqZ5W4DHI4IN1I47ph3YQBNHNVMXTf2R6mS3xs5l4ivX5f1kopUtIwxt1ERkOrjlJ_CHuypcqdnuucS0ouyn9nFcN8h4m04SQScjcuL8kUfuI32CvPzGmLjJ3Y0rnjG5l1g20gx4CS1jUeSGhyj3aDEJ8pt31hpppqB7JabGrXJqDUbvDPcwB9AE5H_V681bCtDbh_Gp5n5wkCTXHHDR8PZjKPOpk6vWlf_g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.kodeco.com/49535198-getting-started-with-ios-app-observability"&gt;
+Getting Started with iOS App Observability - kodeco.com&lt;/a&gt;&lt;br&gt;Ready to add AI to your iOS apps without privacy concerns or cloud dependencies? Apple Foundation Models brings powerful on-device language models to iOS 18+. This tutorial shows you how to build AI-powered apps with structured data generation, covering basic…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://kylebrowning.com/posts/wrapping-third-party-dependencies/</title>
+    <published>2026-03-13T10:26:47+00:00</published>
+    <updated>2026-03-13T10:26:47+00:00</updated>
+    <id>https://t.me/iosdevio/6287</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6287"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://kylebrowning.com/posts/wrapping-third-party-dependencies/" target="_blank" rel="noopener"&gt;https://kylebrowning.com/posts/wrapping-third-party-dependencies/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://kylebrowning.com/posts/wrapping-third-party-dependencies/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://kylebrowning.com/posts/wrapping-third-party-dependencies/"&gt;
+Wrapping Third-Party Dependencies in Swift - Kyle Browning&lt;/a&gt;&lt;br&gt;How closure-based service wrappers protect your app from vendor lock-in and make third-party SDKs testable.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://www.sagarunagar.com/blog/thread-safety-in-swift/</title>
+    <published>2026-03-13T10:26:44+00:00</published>
+    <updated>2026-03-13T10:26:44+00:00</updated>
+    <id>https://t.me/iosdevio/6286</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6286"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.sagarunagar.com/blog/thread-safety-in-swift/" target="_blank" rel="noopener"&gt;https://www.sagarunagar.com/blog/thread-safety-in-swift/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.sagarunagar.com/blog/thread-safety-in-swift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/k--q90iYryVY8oGLKpXC2dSPjpndojPG0I5cEjY63eRjR5-As9EaOn2I04ny3IqFPopaxjJMkcamf6asDVGgJob9Tw7hfpzIiYh0jILc068Tky0ymG7LBgwY-wit7zHehf3V1_Q6BKLPldjvVlgjJ1fXg6prtMgNo3GQ4Kavpm2R_CmWLFNgnKx-eeCRy9y28kDWFC1sCfbLxQ-vgdp-VkEnZmR_CLOv-fz52nDIKRcWH_3v8fcbD16gcCNTq8aUcP5e2oYVWUMxcn64QRPHtz3LB3-G96qh6S4HaXnZYjZiQWnETv20cXorsvPX8qkmw5q8YcjN6iST1YkQMGJhmg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.sagarunagar.com/blog/thread-safety-in-swift/"&gt;
+Thread Safety in Swift - Preventing Data Races with Locks, Queues, and Actors - Sagarunagar&lt;/a&gt;&lt;br&gt;Learn how thread safety works in Swift. Understand data races, synchronization techniques like locks and dispatch queues, and how Swift actors prevent concurrency bugs.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://www.sagarunagar.com/blog/geometry-in-swiftui/</title>
+    <published>2026-03-13T10:26:41+00:00</published>
+    <updated>2026-03-13T10:26:41+00:00</updated>
+    <id>https://t.me/iosdevio/6285</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6285"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.sagarunagar.com/blog/geometry-in-swiftui/" target="_blank" rel="noopener"&gt;https://www.sagarunagar.com/blog/geometry-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.sagarunagar.com/blog/geometry-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/jHodVGbrsh_ob4wc7D3byQaqmTCmCG-6uGO0RD4m1UV1fxUOxPBb3OD8sGcblyvMcCmQQb1Ux5Qd9zD8pJ_6H9T0ZhFzfMGJMOL9eq3vIaPPaUdLVmIT3nm2QkX1YpasgeHjHmnbwPIsJkdzigRHRQNrVOMdlnoswxuSw7-zEBWCgwTvU_Jha7shNqb5LUQ4HtmBDWdE6j3-Lg0Lbrn27LhkP9uUuvBZHrOKp_ziuJ2Hp3LT0Ka--XS5u7gLvOfJD0gzg1AX-PgXgx00o7JX0Cgf_CtHUrk-1fUaS20Mbcg7odk5ve5sSw41U0cHMIqB5YLQ-vJk47hLCUS39CQmRA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.sagarunagar.com/blog/geometry-in-swiftui/"&gt;
+Mastering Geometry in SwiftUI - GeometryReader, GeometryProxy &amp;amp; onGeometryChange - Sagarunagar&lt;/a&gt;&lt;br&gt;A complete, modern guide to geometry in SwiftUI. Learn layout fundamentals, GeometryProxy, coordinate spaces, and onGeometryChange with examples.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://livsycode.com/swiftui/preventing-swiftui-refreshable-from-affecting-child-scroll-views/</title>
+    <published>2026-03-13T10:26:37+00:00</published>
+    <updated>2026-03-13T10:26:37+00:00</updated>
+    <id>https://t.me/iosdevio/6284</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6284"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/preventing-swiftui-refreshable-from-affecting-child-scroll-views/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/preventing-swiftui-refreshable-from-affecting-child-scroll-views/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/preventing-swiftui-refreshable-from-affecting-child-scroll-views/"&gt;&lt;img src="https://cdn4.telesco.pe/file/igbrvWNasQ59OBjiSWQrHbr-eaRe6yemLI0DsqHZK_W4k7YHO0AlLrUxWYOUtLmy_OcANl5ORNtkkELLQU-vdLP9cJmm8hpKRXr1rAE6M25UFIpkPmaoyd-xUkwfA-V4IQ0L17whwwdHJGACOUOihzDBRnPwLUpEl8TuPHHrHI8T3VWrXYm4GQKjgaOZF9yfYXAlQdfspFCb-fwRAMVwxWefnEpVifwNklqUC0FItqxA3AS4jHPxZ4rX30u6nmhue5s5TbwbHwU86bJJld4wJqodmDTtK1gNw_sFw1wJ13WgWEW3DBmcRaDEk83batD6ucLwysmV1v-vR2n_8CpETw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/preventing-swiftui-refreshable-from-affecting-child-scroll-views/"&gt;
+Preventing SwiftUI .refreshable from Affecting Child ScrollViews → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; SwiftUI’s .refreshable looks deceptively simple: attach it to a List or ScrollView, implement a refresh closure, and you get pull-to-refresh for free. However, there is a detail that often surprises developers the first time they build…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://livsycode.com/best-practices/nscache-in-swift-a-practical-guide/</title>
+    <published>2026-03-13T10:26:34+00:00</published>
+    <updated>2026-03-13T10:26:34+00:00</updated>
+    <id>https://t.me/iosdevio/6283</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6283"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/best-practices/nscache-in-swift-a-practical-guide/" target="_blank" rel="noopener"&gt;https://livsycode.com/best-practices/nscache-in-swift-a-practical-guide/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/best-practices/nscache-in-swift-a-practical-guide/"&gt;&lt;img src="https://cdn4.telesco.pe/file/l7d7jFHiBvYyb7VAuA3Ee7EdbUKYESrPac3ten-iv0j96tIuw24xfj9_pYBEkt4FKy3_m7i-zAMXFTFCW4s-Od2MOGgMQ_R8ZD1U34f5fyisOHWuguBYE0T8B6BdcnPbGZJ9ouNuvSwD5quYZdM58hN301ephjEuu5wtvMHkBm320eG_1wXepfjkx5i0f0pr7tZHQu_WDiFoNmuLJiaUl5_96z7Nzt8yfERDOfSi0yNn2aYKu0UNEevw5Mxwc6YXlYBgjjDVsfsdyhuT-bvz1RGQf2q4qxxDgP_aUAIie-qQmOQoiI54MJMMJKikdTmasaWLjf9JzjZzU1-MFqz7Ig.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/best-practices/nscache-in-swift-a-practical-guide/"&gt;
+NSCache in Swift: A Practical Guide → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; Caching rarely looks like a hard problem—until an app starts rendering heavy feeds, repeatedly mapping rich text, or decoding the same assets on every scroll. At that point, the difference between “working” and “smooth” is often a cache…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://whackylabs.com/swift/ios/uikit/2026/03/04/simple-uicollectionview-transitions/</title>
+    <published>2026-03-13T10:26:30+00:00</published>
+    <updated>2026-03-13T10:26:30+00:00</updated>
+    <id>https://t.me/iosdevio/6282</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6282"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/2026/03/04/simple-uicollectionview-transitions/" target="_blank" rel="noopener"&gt;https://whackylabs.com/swift/ios/uikit/2026/03/04/simple-uicollectionview-transitions/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/2026/03/04/simple-uicollectionview-transitions/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/2026/03/04/simple-uicollectionview-transitions/"&gt;
+This one liner to add beautiful transition between UICollectionViews - Whacky Labs&lt;/a&gt;&lt;br&gt;UIKit comes with a bag full of techniques to build mind blowing animations and transitions but this one liner has to my favorite.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://whackylabs.com/swift/ios/uikit/dynamics/2026/03/02/juice-it-up-with-uikit-dynamics/</title>
+    <published>2026-03-13T10:26:27+00:00</published>
+    <updated>2026-03-13T10:26:27+00:00</updated>
+    <id>https://t.me/iosdevio/6281</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6281"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/dynamics/2026/03/02/juice-it-up-with-uikit-dynamics/" target="_blank" rel="noopener"&gt;https://whackylabs.com/swift/ios/uikit/dynamics/2026/03/02/juice-it-up-with-uikit-dynamics/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/dynamics/2026/03/02/juice-it-up-with-uikit-dynamics/"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://whackylabs.com/swift/ios/uikit/dynamics/2026/03/02/juice-it-up-with-uikit-dynamics/"&gt;
+Juice it up with UIKit Dynamics - Whacky Labs&lt;/a&gt;&lt;br&gt;One of my favorite framework on iOS has to be UIKit Dynamics and not enough people talk about it. But this is going to change today. Let’s build a color palette generator and have some fun with UIKit Dynamics along the way.&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://www.swift.org/blog/building-privacy-first-analytics-with-swift/</title>
+    <published>2026-03-13T10:26:22+00:00</published>
+    <updated>2026-03-13T10:26:22+00:00</updated>
+    <id>https://t.me/iosdevio/6280</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6280"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/building-privacy-first-analytics-with-swift/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/building-privacy-first-analytics-with-swift/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/building-privacy-first-analytics-with-swift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/B7PpYO7QJnvSBpo9sAGzKoH8kQQ4Gzj4uCf1fiTjZSP3tjoOtv-d7mMFht5pWf-X_DYrxVMHCCBzzOvn-CtUwRg32DQ8SfnTzqZgQ_wBmjWBxI1W-SnaIGntxqf9FisBQpf8N1qNwQ1Z4AD701XOvuG0H186tg9eEWWoRcdrqzc2phdIRzHyIseydi197HozxQmJ7lYVb1debtbXLID5XCWoFgGhhDlatnvl9PJ1ddskCv5Pjz2N3u2z3PtJ-BYGQS7qGRVfuRRW6Bi9KLoPpVpor9lBOlI7iR5lHjeHuehll3_sKv94jvfnFByUlkJbd1vKbvQ1tGOd-XaxafUyGg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/building-privacy-first-analytics-with-swift/"&gt;
+Swift at scale: building the TelemetryDeck analytics service - Swift.org&lt;/a&gt;&lt;br&gt;TelemetryDeck is an app analytics service specifically for developers, designed to manage usage analytics that are anonymized, privacy-focused, and really easy to use. TelemetryDeck is managing the data of over 16 million people every month, helping thousands…&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">https://www.swift.org/blog/whats-new-in-swift-february-2026/</title>
+    <published>2026-03-13T10:26:18+00:00</published>
+    <updated>2026-03-13T10:26:18+00:00</updated>
+    <id>https://t.me/iosdevio/6279</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6279"/>
+    <author>
+      <name>iOS dev</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-february-2026/" target="_blank" rel="noopener"&gt;https://www.swift.org/blog/whats-new-in-swift-february-2026/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-february-2026/"&gt;&lt;img src="https://cdn4.telesco.pe/file/XS7e5IfxXWgTtxzQbOvsngzqR9-08Hzbv-k6JfTgaQ_Bu9R3qiQM5YYm7vhBtotvrkUShJ_OtNGpSNGlGmDbnivp4Zgb2jqfRLbt4c0slVxql9B8_jjAuj7E3LHLSdCkNk2H98O8qG-1WMYMjmhYKuHCyHa7q-8Y7hDZiAza_AqAYe1lfmACN-6VQWIV3yRdDNRxZJXVSvZ3W3Pt2epUnGL0gTZ8ul2LUU-E9GVO2Q9mL-Tfa5Mz419D-yGI5G4HTAwp2D-dgu8V-T2niP2ac6NKcHhGopU2--FtdD7OzNbOrhi6dI21GhG79Cs4mSVt2Jh4LJQ5cwL0r2pxWwa7cw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swift.org/blog/whats-new-in-swift-february-2026/"&gt;
+What&amp;#39;s new in Swift: February 2026 Edition - Swift.org&lt;/a&gt;&lt;br&gt;Welcome to this edition of “What’s New in Swift,” where we share interesting projects and updates in the Swift community that deserve visibility to a broader audience.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">https://kyleye.top/posts/debugreplaceableview-multiple-type-erasers/</title>
     <published>2026-02-27T15:37:31+00:00</published>
@@ -93,163 +249,5 @@ Swift Testing Agent Skill: Write high quality tests with AI - SwiftLee&lt;/a&gt;
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swift/array-expression-trailing-closures-in-swift/" target="_blank" rel="noopener"&gt;https://livsycode.com/swift/array-expression-trailing-closures-in-swift/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swift/array-expression-trailing-closures-in-swift/"&gt;&lt;img src="https://cdn4.telesco.pe/file/qXOzPnwNAfRFp1mpcVe993qQSNPG62QgHfAa-mQkUSUvIuaKyOLptjkaLVK-_PuG9LIS-Xd5j7XDWWmBzCpbn0OgMr22eiZ_MOlSK5KE54My15sEvieO4HBwjeMWT3w4M0KfX-cBmVK5rZG7aof_vRjKIL6W3OQfTp3Lq_PzB79DHWHnrL7FRupPddM03FoEZwnu5aZyaqQvN4QzhqLG-X5_JdRjfb8IH0Tc3cmRUa1odktUDj319OJIfCRa2aylVXhuvy-Tiuu001CvLDXJkVh4cZJ6FW2yfSWAW0rhwQoGzyHKGBVN4nJi-1lS1EU7-hT3Nimx_ynK4d_mx2belw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swift/array-expression-trailing-closures-in-swift/"&gt;
 Array expression trailing closures in Swift → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; Swift’s syntax around trailing closures has steadily evolved over the years. For most types, writing Type { ... } feels natural and predictable. Until recently, however, arrays and dictionaries were a special case. If you tried to attach…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://livsycode.com/swiftui/why-your-observable-class-init-runs-multiple-times-in-swiftui/</title>
-    <published>2026-02-27T15:37:03+00:00</published>
-    <updated>2026-02-27T15:37:03+00:00</updated>
-    <id>https://t.me/iosdevio/6271</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6271"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/swiftui/why-your-observable-class-init-runs-multiple-times-in-swiftui/" target="_blank" rel="noopener"&gt;https://livsycode.com/swiftui/why-your-observable-class-init-runs-multiple-times-in-swiftui/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://livsycode.com/swiftui/why-your-observable-class-init-runs-multiple-times-in-swiftui/"&gt;&lt;img src="https://cdn4.telesco.pe/file/r-kQcOu9XFD_T7r7_cQQe4-Cm6vTn1Mm7JfsEss43PS8w124LFG3JynB-PkB4M3g7z4BLrGMFqjFWTZG1OR34hwEyjXoMjUT3ict-zUmKPuIOmaQuZIsHbIaiR2g9RIDZyqy8xolwY6_X7J31CDdrQCa5R-C8YzjBzehGC8a9IfxId92mRl9UCCnfL42Fdyr8KaBczWgqFZ_Sa_rjhh6wXAFpxjfbRaPXLzfvPTedYTOS1e6gLyjOCo1hJaoqynY5_GpAAQs5RDWRYTc7Z90PH_7tPaHIaxSXk9ZDHmzwK3Ba9SdziyCZmM-UkLwBXQBWSMj6Cz0B9lFvp3VG_8w2Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://livsycode.com/swiftui/why-your-observable-class-init-runs-multiple-times-in-swiftui/"&gt;
-Why Your @Observable Class init() Runs Multiple Times in SwiftUI → Livsy Code - Livsy Code → Learn Swift the smart way&lt;/a&gt;&lt;br&gt;Greetings, traveler&amp;#33; SwiftUI encourages a lightweight view layer. Views are value types, rebuilt frequently, and expected to be cheap. This mental model becomes tricky when you start storing reference types in @State, especially after adopting the Observation…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://livsycode.com/best-practices/container-based-dependency-injection/&#13;
-&#13;
-Container-Based...</title>
-    <published>2026-02-27T15:36:31+00:00</published>
-    <updated>2026-02-27T15:36:31+00:00</updated>
-    <id>https://t.me/iosdevio/6270</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6270"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://livsycode.com/best-practices/container-based-dependency-injection/" target="_blank" rel="noopener"&gt;https://livsycode.com/best-practices/container-based-dependency-injection/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Container-Based Dependency Injection&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://developer.apple.com/swift-student-challenge/</title>
-    <published>2026-02-27T15:36:26+00:00</published>
-    <updated>2026-02-27T15:36:26+00:00</updated>
-    <id>https://t.me/iosdevio/6269</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6269"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://developer.apple.com/swift-student-challenge/" target="_blank" rel="noopener"&gt;https://developer.apple.com/swift-student-challenge/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://developer.apple.com/swift-student-challenge/"&gt;&lt;img src="https://cdn4.telesco.pe/file/kV0-g9uVndKrRnpN8STzGcYSDuwm43vPkEEI6x1F5BQvQvr0nm7uAttkN2ryLLDDxsqJwlrCSYKAX_ApOkK-W9SgJMvLvQdqW0t09Lsj83bf_Zf8xOR0QgFU1g5NyT0U8ReJZDjSpqmwZ7UKsR7m3jrGhe4kk-an5ik3H21blnF1sTqxLF9VPXC-n-ZJqqK6V5etbEd3Csy5XXwN6_kyYbsW3NsUgCKY9ipjVTC7Cud6mVS2RgPdb-T4B9B08OSIGF3AN83vjDEIV1ffyP_AIXYtc4s5WrzOGOJ7mef7VhGoC8Xvvh5-6txmYaPORJalWh8-KvWhAJGlCMz9bnfGsw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://developer.apple.com/swift-student-challenge/"&gt;
-Swift Student Challenge - Apple Developer&lt;/a&gt;&lt;br&gt;Showcase your love of coding by submitting your app playground to the Swift Student Challenge.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://fatbobman.com/en/posts/xcode-263-claude/</title>
-    <published>2026-02-12T15:25:38+00:00</published>
-    <updated>2026-02-12T15:25:38+00:00</updated>
-    <id>https://t.me/iosdevio/6268</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6268"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fatbobman.com/en/posts/xcode-263-claude/" target="_blank" rel="noopener"&gt;https://fatbobman.com/en/posts/xcode-263-claude/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fatbobman.com/en/posts/xcode-263-claude/"&gt;&lt;img src="https://cdn4.telesco.pe/file/uiNTam0R8YADYHmMm_xijWx-Wc2IHsFJvm-1QJpqlZ7699f7MFnSOvWZK5hnCOxs-mk8CZH9tJt33H479eJetrdVIP7Jv0B7QOjbsCa9m6dR-Gt5G1E7JHeGKysdLZguL_4x74Is6SdIgU8MsYJo6k4NqWyH3n30ypkGNaFFbFantpFd0ZcZLFkorr0cuy3_k8uDPIy8jjuAbWnHQb793Z_esX1AxzvC2HN58lg0Y54Z8wVx55mlKSLI0lyT2NPCObP603ADfs2tYody9-mh55hFRXyUqn1phIHtscy2lmwPdNvcnUzBE7L31vO5XaNUbJ3VIYWDD1Jk4jRR9sVX8Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fatbobman.com/en/posts/xcode-263-claude/"&gt;
-Xcode 26.3 + Claude Agent - Model Swapping,MCP, Skills, and Adaptive Configuration - fatbobman.com&lt;/a&gt;&lt;br&gt;This article shares practical tips for configuring Claude Agent in Xcode 26.3, including how to inject MCP support, install Skills, and write adaptive CLAUDE.md files to help developers use AI assistants more efficiently for Swift development.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/</title>
-    <published>2026-02-12T15:25:35+00:00</published>
-    <updated>2026-02-12T15:25:35+00:00</updated>
-    <id>https://t.me/iosdevio/6267</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6267"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/" target="_blank" rel="noopener"&gt;https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/"&gt;&lt;img src="https://cdn4.telesco.pe/file/I28ssbQ5vXSUjRhdbsKGDwGh-ZLVdfzcneSRf2FNgolmolUdG1LhiD07-gKmk4c87lh4nqmgIUOXHeMZIcU0wFLdfc8-5HWvvYUtngu2fFv-PNMsgEVjwtQR31mbGVHIG8J9Q9Abn6i-sfr-tL5dcCmYmncKlKDm36Op6os8IpIC6WXxBhqwV4fLwURJ0S-t3sEAm1PB-mY-5iGGyCq7E9m4_VnuUNuL-VkKZJax7AKjydy0sqhFkPP3AxOXElgEHmpZV3nZsg7GBlTqk64XP1FNyVHqAQQa3REf70KNUxxMEawuWlVMYekc0BiK2Mf9aj6QqxVyL3psl2OHr4kbCw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/"&gt;
-From Pixel Capture to Metadata - Reimagining Screen Recording Architecture on macOS - fatbobman.com&lt;/a&gt;&lt;br&gt;Build a macOS screen recorder with ScreenSage Pro&amp;#39;s dev log. Learn to master ScreenCaptureKit, Metal, fix SCK error -3821, and optimize SwiftUI performance with @Observable.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it</title>
-    <published>2026-02-12T15:25:32+00:00</published>
-    <updated>2026-02-12T15:25:32+00:00</updated>
-    <id>https://t.me/iosdevio/6266</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6266"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it" target="_blank" rel="noopener"&gt;https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;&lt;img src="https://cdn4.telesco.pe/file/I0uLzJoiKV7HDMSoypG9fby0Z9K20SwjtLPu5zlP0VPiN25Je6VC7TW0I7Kcb7B96TBHE_HAMhJ4PtvsKspETwOUqesi78owBJq4Do68-sm1KeSaR_VH5dKG0vo71gP2qveyFG4Pbn-Bs64FKQwEWhdeUL_YOUd39DprH8eu_kyVsCZMyCHSqxBjz_kwzQ3FfJhYgMs4ZEoSPzT_LfKgAJTsCVxOTiAM7Hc20IrKPAikxaBiOmgWg3LJv84mbZEu4t7LdIAM2ooQqCv33QJm-kE872l9FCuEGdINWib0NFo8YcYNKJcDqBqljiS-JTSgsLDzoGZcJtrLRuDiUzXJOg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.swiftdifferently.com/blog/swiftui/How%20I%20stopped-resisting-ai-and-atarted-teaching-it"&gt;
-How I Stopped Resisting AI and Started Teaching It - SwiftDifferently&lt;/a&gt;&lt;br&gt;A year ago, if you told me I&amp;#39;d be contributing to AI tooling, I would have laughed. Today, I co-authored an open source agent skill for SwiftUI alongside Antoine van der Lee. How did I get here? Let me take you through my journey.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://www.avanderlee.com/ai-development/core-data-agent-skill-now-available-open-source/</title>
-    <published>2026-02-12T15:25:29+00:00</published>
-    <updated>2026-02-12T15:25:29+00:00</updated>
-    <id>https://t.me/iosdevio/6265</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6265"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.avanderlee.com/ai-development/core-data-agent-skill-now-available-open-source/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/core-data-agent-skill-now-available-open-source/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/core-data-agent-skill-now-available-open-source/"&gt;&lt;img src="https://cdn4.telesco.pe/file/jPkLhegXsynBAhyB697X5AXsrvyB1b7LvAfrvxXTeEoxBEfX_ao3-wK8W9yIMu1ZvkX7RSyIkHtU0Fs7xG6Jrz2NF2z6Ud3Lvxw7Vhm8yZ3LMK3eHUkSUSfirzZLLKXvVOadaBV8d0GM6B6XovjknPjqLeXzd5nzOJ9cQoQXJrmsDAXIADpaOjRDkZdNs26GaplHyMN07a1WKCF5Xf_f_a-By0cLuGaJjy-QdLxG4x-L00-LGzaqr17Weq46FDjFn3HDqNxFsJ1jSoDMwFLDo2QvuQVAj1OVHW8oj5Lkq8gws-QDeyT4HB1LSo2wKC_pdwCDSnt7D9I6oWlQ11gRtg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/core-data-agent-skill-now-available-open-source/"&gt;
-Core Data Agent Skill: Now available open-source - SwiftLee&lt;/a&gt;&lt;br&gt;Learn about the Core Data Agent Skill, a resource for developers using the traditional Core Data framework effectively.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/</title>
-    <published>2026-02-12T15:25:26+00:00</published>
-    <updated>2026-02-12T15:25:26+00:00</updated>
-    <id>https://t.me/iosdevio/6264</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6264"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/" target="_blank" rel="noopener"&gt;https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;&lt;img src="https://cdn4.telesco.pe/file/ca6G1yafg90yVgJMMwc9POGBMwcYjJL7Dvo3yQ-33vRHwEc0s2PfPjLeREaDPiighGplWgV2OtpxbOzlu680xofwxgFxBMUIoQgp9wP5735BfVu00orCusYuiHzDxa7x8vI0lx_uphw7fzczIeGYwmTWr3_LOkmbiB-_gqgvb4s7Wx_cAY0gstSdFUuC7mwEi8lNbx5dJwFg_PRZ8-TRD4rDTZsYafn_sB7RuTmk4rNfAc6yhffXF0ApFDlJlNoAUtH8nRxsv8g9oc6T4WVAKwv2dwTxXNKiJ6kqEssKYCFTDaZO1bYEnS5rtgAAnftUFp43juWocx_R2DZLSl4a_Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"&gt;
-SwiftUI Agent Skill: Build better views with AI - SwiftLee&lt;/a&gt;&lt;br&gt;Explore the SwiftUI Agent Skill that transforms view building and refactoring. Improve your code with this open-source solution.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://serialcoder.dev/text-tutorials/swiftui/morphing-sheets-out-of-buttons-in-swiftui/&#13;
-&#13;
-Morphing...</title>
-    <published>2026-02-12T15:25:08+00:00</published>
-    <updated>2026-02-12T15:25:08+00:00</updated>
-    <id>https://t.me/iosdevio/6263</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6263"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://serialcoder.dev/text-tutorials/swiftui/morphing-sheets-out-of-buttons-in-swiftui/" target="_blank" rel="noopener"&gt;https://serialcoder.dev/text-tutorials/swiftui/morphing-sheets-out-of-buttons-in-swiftui/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Morphing Sheets Out of Buttons in SwiftUI&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://azamsharp.com/2026/02/01/do-you-really-need-dtos.html</title>
-    <published>2026-02-12T15:25:02+00:00</published>
-    <updated>2026-02-12T15:25:02+00:00</updated>
-    <id>https://t.me/iosdevio/6262</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6262"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://azamsharp.com/2026/02/01/do-you-really-need-dtos.html" target="_blank" rel="noopener"&gt;https://azamsharp.com/2026/02/01/do-you-really-need-dtos.html&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://azamsharp.com/2026/02/01/do-you-really-need-dtos.html"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://azamsharp.com/2026/02/01/do-you-really-need-dtos.html"&gt;
-Do You Really Need Dtos - AzamSharp&lt;/a&gt;&lt;br&gt;Do You Really Need DTOs or Are You Just Copying JSON&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://captainswiftui.substack.com/p/objectively-better-observably-trickier</title>
-    <published>2026-02-12T15:24:58+00:00</published>
-    <updated>2026-02-12T15:24:58+00:00</updated>
-    <id>https://t.me/iosdevio/6261</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6261"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://captainswiftui.substack.com/p/objectively-better-observably-trickier" target="_blank" rel="noopener"&gt;https://captainswiftui.substack.com/p/objectively-better-observably-trickier&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://captainswiftui.substack.com/p/objectively-better-observably-trickier"&gt;&lt;img src="https://cdn4.telesco.pe/file/Unn3Io7k2oEI-GECZ_Ym4TGE9M1JTolM6Y3PgsxQB8E1uUAA8Jpem3v2YTzsBkkLCQWuntK9jaG1tFsX8ii4W-O6hub4Nq8qUh5I7AcFDEQhUZ_ZrzfU-Uyywhz8y8lDfpuJ86A7qDjMKkTVCYElpXE5sg2LZ1VPZADoOKBTvC8Luvmg0C-QGZYfxu9GA-lNm_QOvy3z6PgpGsbVRObQHdC3kdH4MGZnO0G--qJQvBgW2LLk5-gHY9w-i23nxWqH1bRE0rtu7hmKzeKl15Xj7mfx7llprzqWx7oBzSXr2QkQdf7ybQMi1cEAVOU0mBqbVCH1um9IEsTJjS5GcIQHfQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://captainswiftui.substack.com/p/objectively-better-observably-trickier"&gt;
-Objectively Better, Observably Trickier - Substack&lt;/a&gt;&lt;br&gt;The Observation Framework is great... once you figure out how it actually works&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode/</title>
-    <published>2026-02-12T15:24:55+00:00</published>
-    <updated>2026-02-12T15:24:55+00:00</updated>
-    <id>https://t.me/iosdevio/6260</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6260"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode/" target="_blank" rel="noopener"&gt;https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode/"&gt;&lt;img src="https://cdn4.telesco.pe/file/QcbDujQCzOSBfx-zS5TOThi0a0y9smFYtOWu39vYNHq3HvMjFSvILSdHN8pI1cI-x946hHLFRi8ARP034BopgV55JTxiV8Q0jcQDGO5Rff_sTaTnPq2QSXOOSf2vmx3FZ5MiBjr6BcJ7D59HSDCMuk2iJPojEbXYAPdOJmzNjPGgGhvTGmSOOscvG9naVwh8mjkuDtUIkR8U2cRnvR3QELGGj6BgeRLXuagFImp176wQHAkr6_pfPc_8cdrMxZXbEZ3HxQtk0gs241wYrAe2_IA5bjZxVyl_x2C70OEVsRStAY0bcaGawQp3zia-EINxPmD3oFWUsXn-PpbyqbUwQg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode/"&gt;
-Agentic coding in Xcode - Swift with Majid&lt;/a&gt;&lt;br&gt;Apple has finally released Xcode 26.3, which now supports agentic coding. In this article, I’ll guide you through configuring Xcode 26.3 and utilizing the latest best practices when using agentic tools for building apps on Apple platforms.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">https://swiftology.io/articles/swift-concurrency-zero-to-hero/</title>
-    <published>2026-02-12T15:24:51+00:00</published>
-    <updated>2026-02-12T15:24:51+00:00</updated>
-    <id>https://t.me/iosdevio/6259</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosdevio/6259"/>
-    <author>
-      <name>iOS dev</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/" target="_blank" rel="noopener"&gt;https://swiftology.io/articles/swift-concurrency-zero-to-hero/&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;&lt;img src="https://cdn4.telesco.pe/file/vmb35WwgxmyHAOKZSreUYzgTFTuySX8VA_b5F02evXpF1dMoDSzm1N6w7E8B9saWCcgP2Rn_n4EmIDC6jTTYC063D4PiXs0WhUa34-lqAv_4vZHtrn4CfvifKzihLd68zRKydoJenVhA5U7ewhDj3Ypy9OOXgHu-aghjlyv8KNWKPGtIgWpLXISn5bwXGeUfOnT0XPYJA-0G7UWhKkrTtp3bekYdV2rF9Xc-ueu7ETPDgSVwpf5HZwAE2QRSQhiOFRCaPu17LTQJq-7fS6dsZeTjeQbJfbnQlO4OeKINuZsDpRWgcYwBC7nh6bFG9ZMzQPsK4LRTXVyA3x3fJUcohA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://swiftology.io/articles/swift-concurrency-zero-to-hero/"&gt;
-Swift Concurrency from Zero to Hero | Reading List | Swiftology - Swiftology&lt;/a&gt;&lt;br&gt;In this short post I want to recommend an ordered reading list that will get you from Zero to Hero in Swift Concurrency&lt;/blockquote&gt;</content>
   </entry>
 </feed>
