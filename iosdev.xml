@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/n8LCsnkVz3R_4vHFP1VEpsDgISs6CB6015lFi56Rqhy_bwZ7YsDh7KvcF9L-lnSe4-xXLlvHofMOiZUwEPLozWbkqZLvJUV0qXIAYAApjPGr1TePo8uAaT7yoMGnKhSA4C_wBO7VjsJFqUChoUKEILdibqJgJ6co3AZtikMsGeoTAzML__DjHN-ujxByJKnG6eXnAfZP9d6D0oC8lQnvnVr-wfTCX8lsy7ugHeZuX0claOjGIRUeXOq1iV_F2InVb8SPMXeNMRQ9vozjMuKJAa-5sjVZzIimQWXiRICd-bYIOusBZjHaiJUGzYspJhk5_Nn1k_oxDrY15zyQRGlK9Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/n8LCsnkVz3R_4vHFP1VEpsDgISs6CB6015lFi56Rqhy_bwZ7YsDh7KvcF9L-lnSe4-xXLlvHofMOiZUwEPLozWbkqZLvJUV0qXIAYAApjPGr1TePo8uAaT7yoMGnKhSA4C_wBO7VjsJFqUChoUKEILdibqJgJ6co3AZtikMsGeoTAzML__DjHN-ujxByJKnG6eXnAfZP9d6D0oC8lQnvnVr-wfTCX8lsy7ugHeZuX0claOjGIRUeXOq1iV_F2InVb8SPMXeNMRQ9vozjMuKJAa-5sjVZzIimQWXiRICd-bYIOusBZjHaiJUGzYspJhk5_Nn1k_oxDrY15zyQRGlK9Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosdev</id>
-  <updated>2026-03-13T16:44:26+00:00</updated>
+  <updated>2026-03-13T17:37:40+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Dev</name>
     </author>
-    <content type="html">			За последний месяц время проверки приложений в App Store для вас&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;32% - Увеличилось&lt;/li&gt;&lt;li&gt;7% - Уменьшилось&lt;/li&gt;&lt;li&gt;17% - Не изменилось&lt;/li&gt;&lt;li&gt;43% - Интересны ответы&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			За последний месяц время проверки приложений в App Store для вас&lt;br&gt;&lt;small&gt;Anonymous Poll&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;31% - Увеличилось&lt;/li&gt;&lt;li&gt;7% - Уменьшилось&lt;/li&gt;&lt;li&gt;18% - Не изменилось&lt;/li&gt;&lt;li&gt;44% - Интересны ответы&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Анимация принтера в 30 строчек кода&#13;
