@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/AZMCYCzfzlkPPtBCEiIWQ7gWrGm5kAucvQsLHimC89j3b_9ERJX1VdLB_X1lSHyQbnolabY3h5du0s6emDeEeRMSHbgtNeoW46E3ygWvNlLcEXYDiENNIbCQdKYoE-6FH_hzTh50OZHkRro_HhNdDgh8luhcUKTRlgMNi0WPkq5eJEH25NKfBiz8k2kcKR1mnPuaewM3jxfbC-Z2gSeRPqK6HcUDCtcfnu7tMUiD8M7X2c40yY9RxH2aZhoUru4npWI5UyhGYgpZGcDvuzsRgY4WS2JgGWZXLwd-wXIe58WtU4VfFXSXocYNcPJ41CVl2Sf9NWPreRaelrqiOITY1Q.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/AZMCYCzfzlkPPtBCEiIWQ7gWrGm5kAucvQsLHimC89j3b_9ERJX1VdLB_X1lSHyQbnolabY3h5du0s6emDeEeRMSHbgtNeoW46E3ygWvNlLcEXYDiENNIbCQdKYoE-6FH_hzTh50OZHkRro_HhNdDgh8luhcUKTRlgMNi0WPkq5eJEH25NKfBiz8k2kcKR1mnPuaewM3jxfbC-Z2gSeRPqK6HcUDCtcfnu7tMUiD8M7X2c40yY9RxH2aZhoUru4npWI5UyhGYgpZGcDvuzsRgY4WS2JgGWZXLwd-wXIe58WtU4VfFXSXocYNcPJ41CVl2Sf9NWPreRaelrqiOITY1Q.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@ios_prog</id>
-  <updated>2026-03-13T08:45:13+00:00</updated>
+  <updated>2026-03-13T09:42:18+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -21,7 +21,7 @@
     <author>
       <name>iOS Такой 🍏</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/ios_prog/721"&gt;&lt;img src="https://cdn4.telesco.pe/file/kwQOt7mTTSrq4C6DP9zkgiPnTCzHbxsTSy5J7MvekUKBL_jLsGF66b6Zy0pwirZHX-Q3Cr6JndfMP5sm0o_pYBYBoltZFOuziVxCrkSdtkdXeafSqQzqRl1eo7mkwWvNcjsmYEV01TR7N-Fcnj1YfAwBBJuqqeI9WPpUBtksUTgo_vtVy83mfHDY6717IRm4ZMBQlXtlJNRdkv3LosrkAjVIOt6sSS0EM3MDlejxvQf47cjURz725eflnBZGmpjQ-WgfObJ0VfpVhMLeZRJOBpu36O0KVSnIvaPYjeqixv1JACFU87TEESD8Hj-dIXMQkHs3sgexZq5YapD-MUdQuQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет для SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Используйте &lt;code&gt;.redacted(reason: .placeholder)&lt;/code&gt;, чтобы показывать skeleton-интерфейс (плейсхолдер UI) во время загрузки данных, а когда данные будут готовы - уберите его.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/ios_prog/721"&gt;&lt;img src="https://cdn4.telesco.pe/file/WtMK-6Qip3cBXFk5IvvCecbD1c32wv1R7g-QqgCPIXdSP8zZyvBifY5McaVprxpiEFE4a4g5cpnYm9_Sq5z6WY26AmecrkcMzkBEJXqo6TpNuCNcSrAd8iBtqQdVZBPkXYsXH9JJlHpSZvuE2AeyFWo40u5YpQ8SsULCvS42arBWd2JQYuhT5cv7DwK5qZEGJF6spbCGHSynrradxSpr7_hI4FpvtgBPwvZn9rQyO_VbeByKUceDI7x7ye56l4GF_K7iIoT9yDm4_nYSQP8dFdUTv1DCA6_wKIwnPlbrBtlW22sQS2hCiwXJS6iUu22mDPaflgeYNKUPXKlKMF4YLQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Совет для SwiftUI&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Используйте &lt;code&gt;.redacted(reason: .placeholder)&lt;/code&gt;, чтобы показывать skeleton-интерфейс (плейсхолдер UI) во время загрузки данных, а когда данные будут готовы - уберите его.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Малоизвестная возможность Swift: for case let, о которой не...</title>
