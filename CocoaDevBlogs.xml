@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/SqrNohaOQUS7IIyCjyE0ImmzV5VdKLNsEnykS5sN5Hh1z_RscElyocF_jX3BWncyuxuDuUSNOE_fiup3h87VQOygaT3DJ02ML1FmLdzy-F4WnCk5jMMjf0HanrBG4g-GbuD48Hn0ymPPc8VGphhXf_cYLDRbQI29od0DVVg-66h5bEbegcXozoZX2JkQOwLVksEayuTzwUwotaiaHTIxoveODrQuKSaomCCT0i4yfAgDYfxppkdH587cJLvww5wTTaNtuK9ExEXgI9mjVoV_MOVgkWm4WzzXQ1ZTJ2ESl6bNR19-quOj-1ZN1yqjI_S5_jcMnmt8qipa8LFKjR_q2w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-13T05:51:46+00:00</updated>
+  <updated>2026-03-13T06:58:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">TUIkit: Terminal UI Framework for Swift https://t.co/x1lnzdTlLi</title>
+    <published>2026-03-13T06:17:48+00:00</published>
+    <updated>2026-03-13T06:17:48+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26163</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26163"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TUIkit: Terminal UI Framework for Swift &lt;a href="https://t.co/x1lnzdTlLi" target="_blank" rel="noopener"&gt;https://t.co/x1lnzdTlLi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;&lt;img src="https://cdn4.telesco.pe/file/gO_bnxd3Z6GWJdFHW6HLAUflQr-mF0Z5ttVnZa9tGZxSv3a-XjgU44hHbRb38bOkpbT6cZo5NVbfqw6gU63VRdYtbuCN_3KyKc_keeIHRPt2YWJ8S9WNHbOZqeNPdCYveLA9u3QUqAXOyw_c7wV2-Y4arQkA_3bIfgRbiI03eEZ8_OOqzvey4gXLYIYdaurjP-hfp9KSDPHs-EXumMdmDhf8cRIcVbS33Sor4msKlfIf_KDHD3dJ1hNFGn0dN2itonYNet_aizlrng88OIs7o31yKDcis4W5Ud0OflHXBk9izvjwGODOMhXqXI_BJwpLQFudAgAYVe1aXTyjY91LCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;
+TUIkit: Terminal UI Framework for Swift - TUIkit&lt;/a&gt;&lt;br&gt;Build terminal apps with SwiftUI-like syntax. Pure Swift, no ncurses.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : OneSignal/OneSignal-iOS-SDK https://t.co/Luew2SM8bL</title>
     <published>2026-03-13T02:12:37+00:00</published>
@@ -239,17 +251,5 @@ Recent Website Updates - Eternal Storms Software Blog&lt;/a&gt;&lt;br&gt;This bl
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How to handle callback in ASWebAuthenticationSession &lt;a href="https://t.co/IC0Xn0cWXc" target="_blank" rel="noopener"&gt;https://t.co/IC0Xn0cWXc&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;&lt;img src="https://cdn4.telesco.pe/file/B_FZ6xc-6EsjcPvLGIl1h-e2JKit3Rm6OqPCaT60g9dki3YsPdRTYivYs-BMhW0IF_Moq-4qJc0M5IfdezzMlDijvgjl_7vsbbDLy4YPga1nflAyM1M3RG9STKrkClFV6lWeuLiX5axoUBdxfrtKsWzGWDIe0I9dlqe6EYb7cyJoQ-ioI4g1X9voUFP5pOELFZ2mQqpmXmIqHXlYml3V-yfy9wHTsfIHsNHqhMFE2MnGTBjLM4Y8MpBndtP6Q6tszvjNJ5oBAoUn1PalOGFIRl8Jp_oRzKnFAEDgvhXnoB42RYLPlKlWinWHlw4t4JAcqPFcjYYZnpVeoyyvL32JZg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/IC0Xn0cWXc"&gt;
 How to handle callback in ASWebAuthenticationSession | Swift Discovery - Onmyway133&lt;/a&gt;&lt;br&gt;Issue #1012&#13;
 Web-based authentication flows require your app to hand control to Safari, let the user authenticate, and then return to your app with the results. ASWebAuthenticationSession manages this handoff, but you need to tell it how to recognize when…&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship https://t.co/OUANQAfPEx</title>
-    <published>2026-03-11T12:42:27+00:00</published>
-    <updated>2026-03-11T12:42:27+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26143</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26143"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship &lt;a href="https://t.co/OUANQAfPEx" target="_blank" rel="noopener"&gt;https://t.co/OUANQAfPEx&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;&lt;img src="https://cdn4.telesco.pe/file/Kb8y-v2W5IzNVH_tY8Gq1f-haSk9haTP0ayMBihhhQ2Yz3JgM7aMppXFv_krBVyoTUJV5kG6O6cjNJJ4hg7Do3JwrJA23GQl4KIMGl0RJfXud9ub_IwVwJ_dpsBVLYHvd7t1vZSjuVbtjQGUImBd3LrU2bYx3qcxAAVlwD11S6Dyh332uewzjMXsdEngmlgo194pJgME6X-iGTHfH4UMHb6sakpQZx7GwxCJht_7gpfYV79E4lV9178tzls1i5YchjUFVwtPlz7_StSLlKeRmKHESXaC3QzgrWfQ-q-j3dCid1Wer3Fp1Lhal1b9pgVIw1pS3wm_13iolElZ3S5wYA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/OUANQAfPEx"&gt;
-Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship - @samwize&lt;/a&gt;&lt;br&gt;I tried both Apple Xcode MCP and XcodeBuild MCP on the same iOS project. One can build. The other can actually close the loop.&lt;/blockquote&gt;</content>
   </entry>
 </feed>

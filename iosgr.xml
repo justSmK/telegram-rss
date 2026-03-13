@@ -6,10 +6,21 @@
   <icon>https://cdn4.telesco.pe/file/gullo5bYH3fPx4RyhJipmvYCugPli87OB4LP-J5qBLJcCvRWUJtqC9x_5m5fTxi13G7zLP5QvhAv2WZ_4xAULIP2gx-apVQq-DzEZ0Y0xn9GsQRRzMCZjDCxMVV9CHilI5AbxKzclPUuoQUmYFx3i20GG1LXgAxhgRk6PePqTVnacaLuSjtWv9udLzHDqMNnIIwz6xp1XPYCIysQSqoJeVAToMXAcu__lJ5tKI10Ce3YiZB2EPUqbVHeyOGmkyrqg4eF6kqcMVf_uWhNyz4N2SHB4Wx4d0qeqRA7GpGfs9Gm6NNPaptgzNlFMMcwbQOVjNyuzMLmItMO1Cf7Rn25uw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/gullo5bYH3fPx4RyhJipmvYCugPli87OB4LP-J5qBLJcCvRWUJtqC9x_5m5fTxi13G7zLP5QvhAv2WZ_4xAULIP2gx-apVQq-DzEZ0Y0xn9GsQRRzMCZjDCxMVV9CHilI5AbxKzclPUuoQUmYFx3i20GG1LXgAxhgRk6PePqTVnacaLuSjtWv9udLzHDqMNnIIwz6xp1XPYCIysQSqoJeVAToMXAcu__lJ5tKI10Ce3YiZB2EPUqbVHeyOGmkyrqg4eF6kqcMVf_uWhNyz4N2SHB4Wx4d0qeqRA7GpGfs9Gm6NNPaptgzNlFMMcwbQOVjNyuzMLmItMO1Cf7Rn25uw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-03-13T05:51:48+00:00</updated>
+  <updated>2026-03-13T06:58:49+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">TUIkit – библиотека для SwiftUI-like консольных...</title>
+    <published>2026-03-13T06:05:53+00:00</published>
+    <updated>2026-03-13T06:05:53+00:00</updated>
+    <id>https://t.me/iosgr/4626</id>
+    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4626"/>
+    <author>
+      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
+    </author>
+    <content type="html">&lt;a href="https://t.me/iosgr/4626"&gt;&lt;img src="https://cdn4.telesco.pe/file/C5IjbSqYvp07-jeI2SYYc8A_EtLfZZhweBIUEwuSm0BG3QO0RfEgnbq4-ufTP6D9RD_d42qlhRHHoJVzunAUaWWyxlb1zk2_9fhKVUGQtAHLOA0IWQff_XMrIIF9yMAO_OHoYF1wPNA27QaY6b61FNsErIo4W-pwF2-4V98NVYbo2iGrxS3eBQY0Zi9QvSM3t0OrcDR84iwECA9R7r5y7U11NGKVRT0UXQXSZkfd3VSc733YbFSVVggjzNx9AuzdRN76KX-eEbhHz5d9K4PYvtc2PAHauWbp5RPtAiOJ6RSHcoRZyDQ7pnrp-ZSMBhPoEnRlZoRrkEmQhSx2i_9-rg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuikit.dev/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;TUIkit – библиотека для SwiftUI-like консольных интерфейсов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;TUIkit – библиотека, которая дает знакомые вам примитивы вроде VStack, HStack, Text, Button и других, для того, чтобы собирать из них красивые консольные интерфейсы. Из интересного – встроенные темы, работа с фокусом и клавиатурой, ноль сторонних зависимостей.&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title type="html">Sosumi.ai теперь CLI&#13;
 &#13;
@@ -271,16 +282,5 @@ Sentry acquires XcodeBuildMCP - Sentry&lt;/a&gt;&lt;br&gt;Sentry acquires XcodeB
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;Работа с Xcode MCP&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Подробная инструкция по настройке встроенного в новый Xcode MCP сервера, подключению его к Claude Code / Cursor, и особенеостям работы со всеми доступными тулами.&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;&lt;img src="https://cdn4.telesco.pe/file/vPEysuGA9QwNEe4phZoWUuoPCI-pCO2nwnZR5Fi35q4sc6rV57cvK3_CIiR8vkdhRB5cN3DFgdjVPIug2IUaOqZ0vtwbdzPz_bDJPqW654uBFWwaYzeCoeaioZPaYHR_V0wGXR7utIF7NBD1J2wT0NmvOQftNzUce6H_Ed2V_5pB2MvoUGpYjC744l6SSUHAw5xJb204DqCmiBa4gsy6F_JVuyR34ytQY7otxzwwAN1Lvd4equ5b64PE3dHlMrByvxjp61gsbkQ0dBMjouJVgsxorpH_uzMmyzHfHWJ9XzLxy98vsoXZz9mwfKoT-qdvfGr_YIDF5JcIs_awEtNNIw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://rudrank.com/exploring-xcode-using-mcp-tools-cursor-external-clients"&gt;
 Exploring AI Driven Coding: Using Xcode 26.3 MCP Tools in Cursor, Claude Code and Codex - Rudrank&lt;/a&gt;&lt;br&gt;Xcode 26.3 ships with 20 native MCP tools for AI agents. Learn how to use Xcode&amp;#39;s DocumentationSearch, BuildProject, RenderPreview, and more from Cursor, Claude CLI, or any MCP client using the mcpbridge.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Как и куда расти мобильному разработчику в эпоху...</title>
-    <published>2026-02-12T15:00:40+00:00</published>
-    <updated>2026-02-12T15:00:40+00:00</updated>
-    <id>https://t.me/iosgr/4606</id>
-    <link rel="alternate" type="text/html" href="https://t.me/iosgr/4606"/>
-    <author>
-      <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
-    </author>
-    <content type="html">   &lt;div class="message_media_not_supported"&gt;     &lt;div class="message_media_not_supported_label"&gt;Please open Telegram to view this post&lt;/div&gt;     &lt;a href="https://t.me/iosgr/4606" class="message_media_view_in_telegram"&gt;VIEW IN TELEGRAM&lt;/a&gt;   &lt;/div&gt; &lt;a href="https://t.me/iosgr/4606"&gt;&lt;img src="https://cdn4.telesco.pe/file/ZUKQqg1M65lcqH3iwR3GoWpC6a6sH9_F7BUXxT75UWYpDBHcwsu3M7IIbJ9JIIASa2mxPAMlxpz57AIrysXdfGss7nUm9wxpTWRTi-IIienJDKVK6AorTkmugpmK0JnsJ4_Wv_RgnKaTHO4lVwUXBgyhzilhi_WfWI3KoNDN3A6JUkEublcfLNjljXrvVJTMSlCg8karqrCq7RqWki-XXIWotRn7PRMBV_JmpCNKaXUQq_Mzbkg_EyKMpDVWm458gnaS_qGBCF-PNtxE-S-nLU8tXgu6JuV-rnxhRFtl1YfrBWf5o-Gn7X9ubBb0E8XiqdFvB6Sl7phU02QGoN23Nw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Как и куда расти мобильному разработчику в эпоху ИИ?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Предлагаем разобраться вместе с Яндекс Вертикалями (Авто.ру, Яндекс Недвижимость, Аренда и Путешествия) на Vertis Mobile Meetup в Санкт-Петербурге.&lt;br/&gt;&lt;br/&gt;В этот раз хардовых докладов не будет. Вместо них — нетворкинг, круглые столы, а также выступления о том, как работать над большими задачами, становиться продуктивнее и оставаться в балансе.&lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5280816763225788192"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"&gt;&lt;b&gt;📍&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;Обсудим разные карьерные треки, переходы между ролями, влияние ИИ на индустрию. И обменяемся мнениями по техническим темам: KMP / CMP, DI.&lt;br/&gt;&lt;br/&gt;А после всех обсуждений участников ждёт афтепати &lt;tg-emoji emoji-id="5278222401115541898"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F90A5.png')"&gt;&lt;b&gt;🐥&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;br/&gt;&lt;br/&gt;&lt;tg-emoji emoji-id="5359581893589214348"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"&gt;&lt;b&gt;🔜&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://yandex.ru/project/verticals/vertis-mobile-meetup26?utm_source=telegramg&amp;amp;amp;utm_medium=paid&amp;amp;amp;utm_campaign=iosgoodreads" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;Полная программа и регистрация&lt;/a&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
