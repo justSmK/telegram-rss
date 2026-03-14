@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-14T05:48:47+00:00</updated>
+  <updated>2026-03-14T06:52:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions - C
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TUIkit: Terminal UI Framework for Swift &lt;a href="https://t.co/x1lnzdTlLi" target="_blank" rel="noopener"&gt;https://t.co/x1lnzdTlLi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;&lt;img src="https://cdn4.telesco.pe/file/gO_bnxd3Z6GWJdFHW6HLAUflQr-mF0Z5ttVnZa9tGZxSv3a-XjgU44hHbRb38bOkpbT6cZo5NVbfqw6gU63VRdYtbuCN_3KyKc_keeIHRPt2YWJ8S9WNHbOZqeNPdCYveLA9u3QUqAXOyw_c7wV2-Y4arQkA_3bIfgRbiI03eEZ8_OOqzvey4gXLYIYdaurjP-hfp9KSDPHs-EXumMdmDhf8cRIcVbS33Sor4msKlfIf_KDHD3dJ1hNFGn0dN2itonYNet_aizlrng88OIs7o31yKDcis4W5Ud0OflHXBk9izvjwGODOMhXqXI_BJwpLQFudAgAYVe1aXTyjY91LCQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;TUIkit: Terminal UI Framework for Swift &lt;a href="https://t.co/x1lnzdTlLi" target="_blank" rel="noopener"&gt;https://t.co/x1lnzdTlLi&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;&lt;img src="https://cdn4.telesco.pe/file/lOKyUjOjiYw2aU-tSL9qLd9hDHzsOQ-DjY9L5jo8ETDXxHE-mzHlwE1kyU7MDC8mN475FGj5ez59mu94pdXWQ9mHAVs-MQdXSAiwtmN41VJnAMt6_BZMlyvQ4YYoHr5Cl1Droh30mJ432v2sxjtlg13dbkAWplu21slteO1Mfo2AapFok8zLUBpfIY_krQBxJWAAQlz5JFFGOsCDbahhqv1I0hn-X0bp8cpUQNGbJcV3ZwlODOgtvZPSvJbq1fyKNDX9F6-U7x7zvyWO-OJsiTPO6cXqvd40Aj6nCBjuuVIKnS0Jcvy7BrGAH1k1waibG5b1U1Kfes7liVREftBnng.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/x1lnzdTlLi"&gt;
 TUIkit: Terminal UI Framework for Swift - TUIkit&lt;/a&gt;&lt;br&gt;Build terminal apps with SwiftUI-like syntax. Pure Swift, no ncurses.&lt;/blockquote&gt;</content>
   </entry>
   <entry>

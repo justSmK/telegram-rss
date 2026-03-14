@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/D7wNmXdoCtV-56H34A4EtZmKkfmXEr3_JrKNfkIedz345fukSMdFNo50WfUh0YuJlPmnAP4MgoY7QAeUnCAsvRH57S5ZXU_91lYIKJBo8Ncj0bej69hA6YChNhf1c8TE4CohJYiBWpQ5Ef6u8IRE4sgZ8uDIpRRD11hwmhxdd7ZapXYSkAI9xzxzo3pEWAdX664vCLA1HuqT5Hy732TwdZc-XehPUSkiGBui9Z7Kkl2Z6Cf6zPhFNPe6TAa4L_1AW-DvWvdIlk5FOGZFa6I4YlLHr0oyFpmzGfEg61SPh1Rzg2Xz2fYdh5fFp9J0Aw-Hn_poixeGVaFn-Bys1efj1g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/D7wNmXdoCtV-56H34A4EtZmKkfmXEr3_JrKNfkIedz345fukSMdFNo50WfUh0YuJlPmnAP4MgoY7QAeUnCAsvRH57S5ZXU_91lYIKJBo8Ncj0bej69hA6YChNhf1c8TE4CohJYiBWpQ5Ef6u8IRE4sgZ8uDIpRRD11hwmhxdd7ZapXYSkAI9xzxzo3pEWAdX664vCLA1HuqT5Hy732TwdZc-XehPUSkiGBui9Z7Kkl2Z6Cf6zPhFNPe6TAa4L_1AW-DvWvdIlk5FOGZFa6I4YlLHr0oyFpmzGfEg61SPh1Rzg2Xz2fYdh5fFp9J0Aw-Hn_poixeGVaFn-Bys1efj1g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iosgr</id>
-  <updated>2026-03-14T05:48:49+00:00</updated>
+  <updated>2026-03-14T06:52:47+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT</name>
     </author>
-    <content type="html">&lt;a href="https://t.me/iosgr/4626"&gt;&lt;img src="https://cdn4.telesco.pe/file/C5IjbSqYvp07-jeI2SYYc8A_EtLfZZhweBIUEwuSm0BG3QO0RfEgnbq4-ufTP6D9RD_d42qlhRHHoJVzunAUaWWyxlb1zk2_9fhKVUGQtAHLOA0IWQff_XMrIIF9yMAO_OHoYF1wPNA27QaY6b61FNsErIo4W-pwF2-4V98NVYbo2iGrxS3eBQY0Zi9QvSM3t0OrcDR84iwECA9R7r5y7U11NGKVRT0UXQXSZkfd3VSc733YbFSVVggjzNx9AuzdRN76KX-eEbhHz5d9K4PYvtc2PAHauWbp5RPtAiOJ6RSHcoRZyDQ7pnrp-ZSMBhPoEnRlZoRrkEmQhSx2i_9-rg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuikit.dev/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;TUIkit – библиотека для SwiftUI-like консольных интерфейсов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;TUIkit – библиотека, которая дает знакомые вам примитивы вроде VStack, HStack, Text, Button и других, для того, чтобы собирать из них красивые консольные интерфейсы. Из интересного – встроенные темы, работа с фокусом и клавиатурой, ноль сторонних зависимостей.&lt;/div&gt;</content>
+    <content type="html">&lt;a href="https://t.me/iosgr/4626"&gt;&lt;img src="https://cdn4.telesco.pe/file/S1a29qiaOAEwIdEslsY8f4YuGIqjyVv0Wfu3lMEGLy14TesKqStBakt6_tfxlDYBBvoQ_gpY15Hh_jbadDS1OP5fWA_W8_e00kbVi7S2fRkNcLm4rYzmKEC-x0vcWVfTV5tZ2Q9muyvRg_op2zjvVq8FVKe6XkAa_8hp0XLZCop-2KZTo7PhMVqCh2jYyUG2pMHZrgH7cocRtCvhgw5vaZnhJeExc7xgtMEOyAbRYg42qKdwbEVsw1PfEAIh1ZPmpo7n-VNLSWnycN5kgv-ScywKNSPiiEtxhQ_2j9LJ7fqSZGXbj3S6Eg5F_WdPBxaToGgDkKDFsNRQ9B6mTTgxdg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://tuikit.dev/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"&gt;&lt;b&gt;TUIkit – библиотека для SwiftUI-like консольных интерфейсов&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;TUIkit – библиотека, которая дает знакомые вам примитивы вроде VStack, HStack, Text, Button и других, для того, чтобы собирать из них красивые консольные интерфейсы. Из интересного – встроенные темы, работа с фокусом и клавиатурой, ноль сторонних зависимостей.&lt;/div&gt;</content>
   </entry>
   <entry>
     <title type="html">Sosumi.ai теперь CLI&#13;
