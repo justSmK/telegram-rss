@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-14T13:51:34+00:00</updated>
+  <updated>2026-03-14T14:32:44+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -103,7 +103,7 @@ In this video, I’ll demonstrate how to recreate the AppleTV App&amp;#39;s Anim
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions &lt;a href="https://t.co/xtyapJ93Qo" target="_blank" rel="noopener"&gt;https://t.co/xtyapJ93Qo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xtyapJ93Qo"&gt;&lt;img src="https://cdn4.telesco.pe/file/OhHdgPbCcId4ugmy7ycyOQlJMB1MHRYQKAL6GiVs5bVys_g_t-tkZeOFyQ3mCL-kmUiwhr0dXYVyI1DuuAjyRYf8LOi2ObnawXSpASuqOUJRyB2mLrElQPbAVcDs7CFycEQmUXyvFIMMyhGkEfuVu6oDoWhLW1SLOYRqwQGTmBinHEvJgPQfmUk25J3T_f0htb0HGKhyz7JElx548P3XTSxuLVwzvZzR7Dm-ZoFOrCsqAcp3389TdWAtCcsKj-V4Z-HTQyXSqwa6_3N8-TxoxUoHbRtAWl-fKyx8hgoYCFTfOhzIYXnqWTrN7TR9tT_C3dT54cl575kD5oCwEHwx3g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xtyapJ93Qo"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions &lt;a href="https://t.co/xtyapJ93Qo" target="_blank" rel="noopener"&gt;https://t.co/xtyapJ93Qo&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/xtyapJ93Qo"&gt;&lt;img src="https://cdn4.telesco.pe/file/X0clETlpqRMpYh0fWiTjJ1DZeLrbpt4j5hUKhYhOsM-ay7IB4CY0tSoqtP8FSy6L5KRHlOwOpVncAps74FQfqW_hI7s48BlvlIL_N1UcLiu4oGUsazw8ayK3j5ndg45lrDn73ognip50Uy4gxRjBd82xJvHuXZ85zhGGeCNC705yitbbciPwR3Q__UgUNPI5VOKAY5UHkPwEE-OdZN8UV1oKTt3QAhnQZC_bpdpqWY8CPpAZiYKF2fNaAjCsrW3xROrz30fhdq7yUqB96DIYsvzkJ0SCOdUzANDXdq13iNQSnyygkFv55uPK967rXWm1klpJOZtqhMkf65XoCvFMNQ.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/xtyapJ93Qo"&gt;
 Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions - Create with Swift&lt;/a&gt;&lt;br&gt;Reflect upon the possible environmental impact of design choices in your app features and user interace design.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
@@ -187,7 +187,7 @@ Adjustments to the China storefront of the App Store on iOS and&amp;nbsp;iPadOS 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates &lt;a href="https://t.co/FWp3Ino2vD" target="_blank" rel="noopener"&gt;https://t.co/FWp3Ino2vD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;&lt;img src="https://cdn4.telesco.pe/file/Zjb7LKvBjIchxJ4_Q2BGVjnwXAAhfUUrkRyCOrAWrVpl_QDiNlboYbHJeAdz-GBOxJCmO1pHIHV7e7AvKTbK4w-uMsLXzb9PrSAGeZvqUt2UZrv8ffZt0jKEwXuM5e-2JxyZcHD8DXAc5wqkKWDagGVVMNmKOqtJ6tYNGKIV2jwzzhwCMOZjQmb0fA3KOAr_k0PaeZpV-aOoMO07m92ROjwGxpmvY7lUePPfQo7B5qFMN5Q3xHopDu0x7gSkE5RvLgppHw0mufnEmmVbQ7nOWjkJ71wbnZSDNStgculeCHwVfJZgJGxOc9uyLuuFQI0Tw6fsxWziueN8B7J4ClCeww.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates &lt;a href="https://t.co/FWp3Ino2vD" target="_blank" rel="noopener"&gt;https://t.co/FWp3Ino2vD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;&lt;img src="https://cdn4.telesco.pe/file/r5XNoPdis-IF_0C_4G7JTADkOKLojugz92LChcTRuAFaM6r6EGSutIuZQ8DVBsgesHc2sITLB7S5SGVoQTNv4VM9_lu2-okh83M-cMLE-e7OQ-GqgGQ2_hz0fTBkT1iOtPPnDTYsOFd_DTIxT3d1SgeCc76XuorH2cDGkwZfIJQBvCi_Fr7P1j8GPkHQznyz3S5mXYjDdItYWtHN3N1VLWm_KDt7ZxCKpppl6QprQL0YvI23pS3RfPEES83ieaQ9S3y90awnFhFxUlVOt4f1FlSGkItVyBKeVgOX9sxJeDWSdouaUyftN1iRnLDBKGSQDzcxYGNHS7MLMQN42uXkIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;
 SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates - YouTube&lt;/a&gt;&lt;br&gt;Most SwiftUI developers have no idea what actually happens after they write @State. SwiftUI feels like magic — change a variable, the UI updates. But how? What&amp;#39;s actually running under the hood? And more importantly, what hidden mistakes are silently killing…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
