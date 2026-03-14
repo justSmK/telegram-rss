@@ -6,10 +6,22 @@
   <icon>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/C6Klc2tQaJEzY-TVYNpWE1BSaqcVTVmQqVzCmVdbuLcNb4DUQSz3dX0CBo8JyzAUOTOtcjhmcjZNyruBEk-Gyg7rs0Tyxt-Dk_BYl8TIi0M7YcfSEnRGymOLTSMazR6s_dznVpXIU4OUg_BLKtkiMYRNMFF452enhutGvPdPCounkQAARIlst_3tR0ioY0ZdCBmYDYOWb4LT2o48sccRHRARYHNKFwnh8c0_GI4vSf6H0OfLxALRA2bii5RTxtKIfWe-7idAOF7juhlvBdqnRxTOyXdzeQrKRFV57YuXvrDIn4mTeyPzB4C7RGiMGTP5N4P77U9qHpnHyYJCy1zqIw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-14T08:39:12+00:00</updated>
+  <updated>2026-03-14T09:36:45+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">How I Got Claude Code to Run Forever (Well, Almost) https://t.co/QS4pleFOyg</title>
+    <published>2026-03-14T08:42:15+00:00</published>
+    <updated>2026-03-14T08:42:15+00:00</updated>
+    <id>https://t.me/CocoaDevBlogs/26171</id>
+    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26171"/>
+    <author>
+      <name>iOS Development News</name>
+    </author>
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How I Got Claude Code to Run Forever (Well, Almost) &lt;a href="https://t.co/QS4pleFOyg" target="_blank" rel="noopener"&gt;https://t.co/QS4pleFOyg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;&lt;img src="https://cdn4.telesco.pe/file/rgPWnOY0LF611sAgU-gIKCmkqFTxfSz8OQDBzPrEJIlwlmR7INbjZwmpI-BpARtqE106WQMQJ5AsjdW8K73lzvF7F4BpdVrpSdSRPgn_V6e6zd48Rq6KH3l7hljABq4Qf9M_yU7Gam-M1osXiorEjUm7vuwS9K8pydwSiDAES6kJNPMZVKxy-VEZGzGIkakzr57quh6G92KqsjOQazNGciNVs7WeU3urCe4cQYlj2jNBpQ8aeVfmEqlfM3WC9l6RucZolzneYqxbZ-275J_bym13lKjnhCIgVsV1CMqzOS7efZPmbOaJAsjvLEiVPmBsCCdCZYgH3kj7U9-nuw0Kvg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;
+How I Got Claude Code to Run Forever (Well, Almost) - @samwize&lt;/a&gt;&lt;br&gt;Claude Code’s /loop expires after 3 days. Here’s how I worked around it with persistent memory, tmux, and macOS launchctl to keep an AI agent running indefinitely.&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">GitHub Trends Weekly : Sequel-Ace/Sequel-Ace https://t.co/WccnCcdDd7</title>
     <published>2026-03-14T02:07:14+00:00</published>
@@ -237,17 +249,5 @@ GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, w
     </author>
     <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;mokacoding : iTerm2 microphone permission for Claude Code &lt;a href="https://t.co/6UC6uDK8iT" target="_blank" rel="noopener"&gt;https://t.co/6UC6uDK8iT&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/6UC6uDK8iT"&gt;&lt;img src="https://cdn4.telesco.pe/file/ipihcyIYMBQUBDCAA8zR8PfYqHlD3IOhaUf-8gSdbqwwSTsIhQltUTXHl082IQpICsF7_IRh_0tHRTst0Ger7zsKvy7nzbRPj215LNo4EyjcrHkfK7rmqRKDsCVwPWNhIKJCZPtdmBeORjXUcqi-ItIUuaBMW13IOsx8sMI-3rOhWshcN6sFGaUjShW_tnoRAvjwBMfUJrve51XYSjfsncwK8IAj5ivYG9_6bKbXqzjnD6tRY7041jNRexdo2oip_5GrmiPZQAIBKN4Bi8fY70AB9PCApW6bUz5Hs2T_FY1DVVn8haeIBZDbejzXMm2pUPgIDdxNSPdYR7V6RfbO3g.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/6UC6uDK8iT"&gt;
 iTerm2 microphone permission for Claude Code - mokacoding&lt;/a&gt;&lt;br&gt;How to grant microphone permission to iTerm2 on macOS to use with Claude Code voice mode&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">iOS 16.7.15 (20H380) https://t.co/2OzyQvtvUp</title>
-    <published>2026-03-11T21:47:52+00:00</published>
-    <updated>2026-03-11T21:47:52+00:00</updated>
-    <id>https://t.me/CocoaDevBlogs/26151</id>
-    <link rel="alternate" type="text/html" href="https://t.me/CocoaDevBlogs/26151"/>
-    <author>
-      <name>iOS Development News</name>
-    </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;iOS 16.7.15 (20H380) &lt;a href="https://t.co/2OzyQvtvUp" target="_blank" rel="noopener"&gt;https://t.co/2OzyQvtvUp&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/2OzyQvtvUp"&gt;&lt;img src="https://cdn4.telesco.pe/file/pooe9hwop68Vb9s-_po1az9gbnzwlIZ-D8akmFmLscQJGLt3jiT6MsmFaM6zCAeuKtKep5Q8anfHS5RtfaIhC0J9vSExKRkn4nwB4s_haYIZBZTx8xdiDjpSz7V_kUnyYriUNfTU3x626UYpxhLYgog88aCCyW3YgxPleltX3xyStaMUOpmVKzSlD-OwEO2iekPrOwPePDaQ5G6yxOvMidYaRbTZI2dnK1S2-05BFxJtC225ijcIOptjLBJQgswRtgG6k3iU_-doIRXp637v1PdaoLDVhsQkOWg0dmtCoxb3ae7tvlzlFUrrHw1AF66jkBzAFOrw5x-SbW092NplFw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/2OzyQvtvUp"&gt;
-iOS 16.7.15 (20H380) - Releases - Apple Developer - Apple&lt;/a&gt;&lt;br&gt;View downloads&lt;/blockquote&gt;</content>
   </entry>
 </feed>
