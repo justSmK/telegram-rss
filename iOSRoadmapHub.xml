@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/frQuCld41Q1O6jgkCLoBT2sRdQ2-q98Cl06eN2X16iVJdy5chhPBRGElxCMQ2sobz6JYbRI5lIkfmis_gyU1YZul3rqNLXQahFWzj0RiLCnJr7FyhDYQRaKO2S4Qsk8owkJf2iiOlTGHzpsRErwPUU7Wj0Xi2SgERMy7o9nZ1l2JjhNfqrkSpWPXLpjvHMMGdDp1Ptdsmkhi_gbjBnQckWl26kUWCbySOXgMPlSZvN-pTc3CSGf5oIuGpUci1L-D5RZ-N7ezkt-cuzgHX89iDHESLYUBSGyaZTQ1FTN_tS_g8Y30sk3JwGndKBvNaeLXCP2SLyJGQ8Baf79BhBE1kw.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/frQuCld41Q1O6jgkCLoBT2sRdQ2-q98Cl06eN2X16iVJdy5chhPBRGElxCMQ2sobz6JYbRI5lIkfmis_gyU1YZul3rqNLXQahFWzj0RiLCnJr7FyhDYQRaKO2S4Qsk8owkJf2iiOlTGHzpsRErwPUU7Wj0Xi2SgERMy7o9nZ1l2JjhNfqrkSpWPXLpjvHMMGdDp1Ptdsmkhi_gbjBnQckWl26kUWCbySOXgMPlSZvN-pTc3CSGf5oIuGpUci1L-D5RZ-N7ezkt-cuzgHX89iDHESLYUBSGyaZTQ1FTN_tS_g8Y30sk3JwGndKBvNaeLXCP2SLyJGQ8Baf79BhBE1kw.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@iOSRoadmapHub</id>
-  <updated>2026-03-14T12:58:41+00:00</updated>
+  <updated>2026-03-14T13:51:38+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -19,7 +19,7 @@
     <author>
       <name>iOS Roadmap - Полезное | Swift, SwiftUI, Интервью</name>
     </author>
-    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;37% - Start fetching... =&amp;gt; Data received: 123 =&amp;gt; Fetching finished&lt;/li&gt;&lt;li&gt;26% - Start fetching... =&amp;gt; Fetching finished =&amp;gt; Data received: 123&lt;/li&gt;&lt;li&gt;11% - Выведет Start fetching... и приложение зависнет навсегда: Freeze&lt;/li&gt;&lt;li&gt;21% - Выведет Start fetching... и приложение упадёт с ошибкой: Deadlock&lt;/li&gt;&lt;li&gt;5% - Data received: 123 =&amp;gt; Start fetching... =&amp;gt; Fetching finished&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">			-&lt;br&gt;&lt;small&gt;Anonymous Quiz&lt;/small&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;38% - Start fetching... =&amp;gt; Data received: 123 =&amp;gt; Fetching finished&lt;/li&gt;&lt;li&gt;26% - Start fetching... =&amp;gt; Fetching finished =&amp;gt; Data received: 123&lt;/li&gt;&lt;li&gt;10% - Выведет Start fetching... и приложение зависнет навсегда: Freeze&lt;/li&gt;&lt;li&gt;21% - Выведет Start fetching... и приложение упадёт с ошибкой: Deadlock&lt;/li&gt;&lt;li&gt;5% - Data received: 123 =&amp;gt; Start fetching... =&amp;gt; Fetching finished&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title type="html">Давай проверим твою интуицию и знание того, как...</title>
