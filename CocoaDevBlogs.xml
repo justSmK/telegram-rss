@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/mUC9-YNHkBHjUAw39S1VIxQAOxVpVQt8FAylBcmMxflYle5aq0qIX2gFhBoP5V8_doCDHLLvXAPStgZCmxlfkbVg9czT7gji7ASQmCUbLxaoZC9wRd4VYs43kGZqF8O93GL8KSSP2TbmvwnB92EA-nZWY2uxwc3Qf5El8qokscUgInynRxyqBUhiaGD8KaK_0syl6l71-7_Fv5_RCeJhlwfDEnE0zYSb87AjxW1dkWxIvSmpXEkzu2QqbpwCu6lszqHUdsOf3MvQnUDWC3v5wq4Ylh5i9gBkl3oQwOuT-BEQ3Jgm9tHTtNR7U6tjYRdlhxYbhFJJCcgwYHP5TEQE_w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/mUC9-YNHkBHjUAw39S1VIxQAOxVpVQt8FAylBcmMxflYle5aq0qIX2gFhBoP5V8_doCDHLLvXAPStgZCmxlfkbVg9czT7gji7ASQmCUbLxaoZC9wRd4VYs43kGZqF8O93GL8KSSP2TbmvwnB92EA-nZWY2uxwc3Qf5El8qokscUgInynRxyqBUhiaGD8KaK_0syl6l71-7_Fv5_RCeJhlwfDEnE0zYSb87AjxW1dkWxIvSmpXEkzu2QqbpwCu6lszqHUdsOf3MvQnUDWC3v5wq4Ylh5i9gBkl3oQwOuT-BEQ3Jgm9tHTtNR7U6tjYRdlhxYbhFJJCcgwYHP5TEQE_w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-15T07:02:09+00:00</updated>
+  <updated>2026-03-15T08:40:37+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -67,7 +67,7 @@ Your Mac and a Canon Printer • furbo.org - Furbo.org by Craig Hockenberry&lt;/
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How I Got Claude Code to Run Forever (Well, Almost) &lt;a href="https://t.co/QS4pleFOyg" target="_blank" rel="noopener"&gt;https://t.co/QS4pleFOyg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;&lt;img src="https://cdn4.telesco.pe/file/rgPWnOY0LF611sAgU-gIKCmkqFTxfSz8OQDBzPrEJIlwlmR7INbjZwmpI-BpARtqE106WQMQJ5AsjdW8K73lzvF7F4BpdVrpSdSRPgn_V6e6zd48Rq6KH3l7hljABq4Qf9M_yU7Gam-M1osXiorEjUm7vuwS9K8pydwSiDAES6kJNPMZVKxy-VEZGzGIkakzr57quh6G92KqsjOQazNGciNVs7WeU3urCe4cQYlj2jNBpQ8aeVfmEqlfM3WC9l6RucZolzneYqxbZ-275J_bym13lKjnhCIgVsV1CMqzOS7efZPmbOaJAsjvLEiVPmBsCCdCZYgH3kj7U9-nuw0Kvg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;How I Got Claude Code to Run Forever (Well, Almost) &lt;a href="https://t.co/QS4pleFOyg" target="_blank" rel="noopener"&gt;https://t.co/QS4pleFOyg&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;&lt;img src="https://cdn4.telesco.pe/file/YGyrub5c-_l1U8nKJbKISnt8pMBkC-6D44Dbwm75f2tz-f_-7jm3eR3XaKEg0g9ycT1uGKL5kYT4n30UdbdvbD9OkNaghl4zipPllGvLSyyyPkr7Rru-1ZimoZei97bimUlTdVME2FPnh7aFHucxiBZgb9BpIMVLmX61MppU6wBl2bbNmCshfaH-sAcscdJRuxJopW65_l9FKM8PcUF4O9KyEr1dkuxQoBEqY7PXWYd1idGyXmGiNUKJLDmAOq5SjS_KEtAeu3o9OmOmZNLEU2Dng_ku6VWKYNFoBXxrDDK53Lk1JtoH1NPIkcEhOL-DDJIfzUddj08Y_eGpBs29Ug.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/QS4pleFOyg"&gt;
 How I Got Claude Code to Run Forever (Well, Almost) - @samwize&lt;/a&gt;&lt;br&gt;Claude Code’s /loop expires after 3 days. Here’s how I worked around it with persistent memory, tmux, and macOS launchctl to keep an AI agent running indefinitely.&lt;/blockquote&gt;</content>
   </entry>
   <entry>
