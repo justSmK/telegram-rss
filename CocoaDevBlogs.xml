@@ -6,7 +6,7 @@
   <icon>https://cdn4.telesco.pe/file/mUC9-YNHkBHjUAw39S1VIxQAOxVpVQt8FAylBcmMxflYle5aq0qIX2gFhBoP5V8_doCDHLLvXAPStgZCmxlfkbVg9czT7gji7ASQmCUbLxaoZC9wRd4VYs43kGZqF8O93GL8KSSP2TbmvwnB92EA-nZWY2uxwc3Qf5El8qokscUgInynRxyqBUhiaGD8KaK_0syl6l71-7_Fv5_RCeJhlwfDEnE0zYSb87AjxW1dkWxIvSmpXEkzu2QqbpwCu6lszqHUdsOf3MvQnUDWC3v5wq4Ylh5i9gBkl3oQwOuT-BEQ3Jgm9tHTtNR7U6tjYRdlhxYbhFJJCcgwYHP5TEQE_w.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/mUC9-YNHkBHjUAw39S1VIxQAOxVpVQt8FAylBcmMxflYle5aq0qIX2gFhBoP5V8_doCDHLLvXAPStgZCmxlfkbVg9czT7gji7ASQmCUbLxaoZC9wRd4VYs43kGZqF8O93GL8KSSP2TbmvwnB92EA-nZWY2uxwc3Qf5El8qokscUgInynRxyqBUhiaGD8KaK_0syl6l71-7_Fv5_RCeJhlwfDEnE0zYSb87AjxW1dkWxIvSmpXEkzu2QqbpwCu6lszqHUdsOf3MvQnUDWC3v5wq4Ylh5i9gBkl3oQwOuT-BEQ3Jgm9tHTtNR7U6tjYRdlhxYbhFJJCcgwYHP5TEQE_w.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@CocoaDevBlogs</id>
-  <updated>2026-03-15T13:53:12+00:00</updated>
+  <updated>2026-03-15T14:33:58+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
@@ -235,7 +235,7 @@ Adjustments to the China storefront of the App Store on iOS and&amp;nbsp;iPadOS 
     <author>
       <name>iOS Development News</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates &lt;a href="https://t.co/FWp3Ino2vD" target="_blank" rel="noopener"&gt;https://t.co/FWp3Ino2vD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;&lt;img src="https://cdn4.telesco.pe/file/r5XNoPdis-IF_0C_4G7JTADkOKLojugz92LChcTRuAFaM6r6EGSutIuZQ8DVBsgesHc2sITLB7S5SGVoQTNv4VM9_lu2-okh83M-cMLE-e7OQ-GqgGQ2_hz0fTBkT1iOtPPnDTYsOFd_DTIxT3d1SgeCc76XuorH2cDGkwZfIJQBvCi_Fr7P1j8GPkHQznyz3S5mXYjDdItYWtHN3N1VLWm_KDt7ZxCKpppl6QprQL0YvI23pS3RfPEES83ieaQ9S3y90awnFhFxUlVOt4f1FlSGkItVyBKeVgOX9sxJeDWSdouaUyftN1iRnLDBKGSQDzcxYGNHS7MLMQN42uXkIg.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates &lt;a href="https://t.co/FWp3Ino2vD" target="_blank" rel="noopener"&gt;https://t.co/FWp3Ino2vD&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;&lt;img src="https://cdn4.telesco.pe/file/SMT8-V47YV4L0OsrSDY1YbyQ6bs-SeOoNOFm_fBcnricZDLRJ2VHPsqFVbjdkC_VwJ1_dA2hc7VvIvJ4PnYVaBzpClKeKxxAdTxI7CRwR3kDBz4loNQD1t2Z3tdecl-oQ68ZLeD0S1EA-Kb2FtnXkLRF1vSyFOb0ExdZiapALqwSiabvENgElHRm9TmxAwOSe7bIVRGoz6c1tAi8Z4KpNCAlJmzJCFkBH03rlpBsu27uLGrMEVCJEHg30W41iTso_WAkkZv4h76M1D5neI7_4JEjBZbmo_Sj12QBGqeAG5aXmQjJeVcIx_mqTq-oEUT0g_cxLtZshyTzSlpsgxXJvw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://t.co/FWp3Ino2vD"&gt;
 SwiftUI Under The Hood: What&amp;#39;s Really Happening When You iOS Updates - YouTube&lt;/a&gt;&lt;br&gt;Most SwiftUI developers have no idea what actually happens after they write @State. SwiftUI feels like magic — change a variable, the UI updates. But how? What&amp;#39;s actually running under the hood? And more importantly, what hidden mistakes are silently killing…&lt;/blockquote&gt;</content>
   </entry>
   <entry>
