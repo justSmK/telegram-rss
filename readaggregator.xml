@@ -6,10 +6,24 @@
   <icon>https://cdn4.telesco.pe/file/GSwtf6gl9naZtXJswotp0QoCkXX5lUd9_dInFS1ykVN3qHFL53GHGwVA_gaQnVJqKlhASyWrSqfhxvD16HJVvkImNDEpL3AjCy2W1Ri1PT1dhh7hRNmtyRVGtu8TUwMO2a58OZoTZ3TYSFGtHp39FO4Nr49S7P6xg-hjIBl69zGWz1SSKy1YdHzkGoMf3r_l6aSRhza_qdf0KSV1RSx1X8Z3TQy4Cr1Udfms6hL7qu2ioGrzl8NL5sZ8KFotRBFslNajm_S64wDIe80_0LVvnKhya0myWBiU6T1kTMAVWEOlmea5xACFZzXLPlFmOZ9ZHWcJKsCwq335cTkxpo6T9g.jpg</icon>
   <logo>https://cdn4.telesco.pe/file/GSwtf6gl9naZtXJswotp0QoCkXX5lUd9_dInFS1ykVN3qHFL53GHGwVA_gaQnVJqKlhASyWrSqfhxvD16HJVvkImNDEpL3AjCy2W1Ri1PT1dhh7hRNmtyRVGtu8TUwMO2a58OZoTZ3TYSFGtHp39FO4Nr49S7P6xg-hjIBl69zGWz1SSKy1YdHzkGoMf3r_l6aSRhza_qdf0KSV1RSx1X8Z3TQy4Cr1Udfms6hL7qu2ioGrzl8NL5sZ8KFotRBFslNajm_S64wDIe80_0LVvnKhya0myWBiU6T1kTMAVWEOlmea5xACFZzXLPlFmOZ9ZHWcJKsCwq335cTkxpo6T9g.jpg</logo>
   <id>http://localhost:8080/?action=display&amp;bridge=Telegram&amp;format=Atom&amp;username=@readaggregator</id>
-  <updated>2026-03-15T12:59:52+00:00</updated>
+  <updated>2026-03-15T13:53:25+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Some time ago I mentioned sosumi — a neat tool that makes Apple docs readable for LLMs. But today...</title>
+    <published>2026-03-15T13:26:50+00:00</published>
+    <updated>2026-03-15T13:26:50+00:00</updated>
+    <id>https://t.me/readaggregator/1117</id>
+    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1117"/>
+    <author>
+      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;Readaggregator - iOS, Swift, Apple, Programming, Mobile&lt;br&gt;
+Apple docs are already frustrating and often not very helpful for developers, and on top of that, LLMs can barely make sense of them: try loading a page with an LLM and all it sees is a JavaScript error: “This page requires JavaScript. Please turn it on and…
+&lt;a href="https://t.me/readaggregator/1101"&gt;https://t.me/readaggregator/1101&lt;/a&gt;&lt;/blockquote&gt;&lt;hr&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Some time ago I mentioned sosumi — a neat tool that makes Apple docs readable for LLMs. But today I ran into another one that approaches the same problem differently:&lt;br/&gt;&lt;br/&gt;Instead of fixing the website, it works with the documentation that already ships inside Xcode.&lt;br/&gt;&lt;br/&gt;• indexes local Xcode documentation&lt;br/&gt;• runs entirely on-device (requires Xcode 26.3)&lt;br/&gt;• answers almost instantly&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/BitrigApp/XCDocs/" target="_blank" rel="noopener"&gt;https://github.com/BitrigApp/XCDocs/&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23LLM"&gt;#LLM&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://github.com/BitrigApp/XCDocs"&gt;&lt;img src="https://cdn4.telesco.pe/file/tBj8xQKjEQsZurJAXpb5fP1tK85xa8rpqQbDR1OWFp5ukZHiRJb_ps5Gzm22tkqgB90k3Mm2bQPb658rx2kHH5qtjhnglDPA4J2xx8hTm9XxZ5U1mkL63aetHKfpNpro3aUyzoxDqqTvvedISpFTRCrnNwRBZnalphnaFe_3oM34WqRrMcV37l7ahFPd7abWvHpKPvrnG3NMqiit3pp5I8ciixBC3JdLlzFbQffsQQlzVDXyEdJrL3LuUAsZV2k0mHrlQwmOu8STrA4FU-lAgP_OG22S3x9w7KVE2G1ijol9-aSPX9l3qAuzDaJBxhSqOtN_hvnk4dNPmknpSbuGkA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://github.com/BitrigApp/XCDocs"&gt;
+GitHub - BitrigApp/XCDocs: Apple&amp;#39;s developer docs as a Swift package and CLI. - GitHub&lt;/a&gt;&lt;br&gt;Apple&amp;#39;s developer docs as a Swift package and CLI. - BitrigApp/XCDocs&lt;/blockquote&gt;</content>
+  </entry>
   <entry>
     <title type="html">My info field is completely flooded with AI agents lately, which probably explains why there have...</title>
     <published>2026-03-10T13:05:14+00:00</published>
@@ -244,18 +258,7 @@ Swift Assist: typing…...</title>
     <author>
       <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
     </author>
-    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with an agent to create Swift apps, and thanks to an embedded Swift interpreter, it compiles everything on-device.&lt;br/&gt;&lt;br/&gt;The wild part? You can instantly push your build to TestFlight from the app. Super cool… but also, why?&lt;br/&gt;&lt;br/&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=CUlWhF3ERME&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://news.ycombinator.com/item?id=45041185" target="_blank" rel="noopener"&gt;https://news.ycombinator.com/item?id=45041185&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AI"&gt;#AI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;&lt;img src="https://cdn4.telesco.pe/file/Kp4UJsKcya9DoAFHZxtV6z07qw2fzsJJmmGKr4Ly7l2gvsQP02CHW5zjspGW_o2H939TonascViPBk2_NWMDJbB2eqyuxZxuqOaIwaBZFoIAp4RBNymfnjNSK7FstwqNMgW1tqXZNU2y5tgNt8yndQDMmWgOT6gDyf5MpFl1HAGeQR1pShP_rRy_2E_ezQMd6vTAvcSuIlWdYBTQrTcSjZKyePppq2Pz6oqmqimtmMe4eFHKuBTYUEi4Ez_RUDMEaOIh00rwnPCk3kTTJBLgRwP-HBdQv_YbrJnpsanWy2s2Gk2kjNi7I6ypS2FFJKNCcy3blMKfKsjOv2ZvL30kLw.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;
+    <content type="html">&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Former Apple engineers built an AI-powered IDE that runs entirely on your iPhone. You can chat with an agent to create Swift apps, and thanks to an embedded Swift interpreter, it compiles everything on-device.&lt;br/&gt;&lt;br/&gt;The wild part? You can instantly push your build to TestFlight from the app. Super cool… but also, why?&lt;br/&gt;&lt;br/&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=CUlWhF3ERME&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://news.ycombinator.com/item?id=45041185" target="_blank" rel="noopener"&gt;https://news.ycombinator.com/item?id=45041185&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23AI"&gt;#AI&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;&lt;img src="https://cdn4.telesco.pe/file/Rg1_YoCkk_rvdSwPRzmU3gnDZmydXz3m5GI-N_RZTiKfiDZOQsEHr3ARyguoNvxZj5ztGd1goJAbJesxqdC0kvexMMoieXYmMIRBydAsqQL1qDgSFivX_WCg1OsVVammPG6dH-GyuYKBeVVH5iteTgi-a6542P-0nTdb2ur8_WmgsqRc6V1idYgztMtrHJUCX-a0UlRnIwUWU_gNPn9vAR7I-jZ0DT9LT6W-yQkzGJVJ01VuFTBH72YgqkPFqjzZS1_Ef0NM6Tmq8iS7WLgutANRDp7xv39KN6LHghXgTuA9fKZhZc9HXH4tWzYPMRARIaa1hPfxsyHyeLpQwBes6Q.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=CUlWhF3ERME"&gt;
 Launch HN Bitrig Demo - YouTube&lt;/a&gt;&lt;br&gt;Vibe code, test, and deploy Swift apps. All from your iPhone.&lt;/blockquote&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Apple’s next event is on September 9 — get your wallets ready&amp;#33; 💸</title>
-    <published>2025-08-26T17:16:49+00:00</published>
-    <updated>2025-08-26T17:16:49+00:00</updated>
-    <id>https://t.me/readaggregator/1097</id>
-    <link rel="alternate" type="text/html" href="https://t.me/readaggregator/1097"/>
-    <author>
-      <name>Readaggregator - iOS, Swift, Apple, Programming, Mobile</name>
-    </author>
-    <content type="html">&lt;a href="https://t.me/readaggregator/1097"&gt;&lt;img src="https://cdn4.telesco.pe/file/CbQNFO-qXYtATrHwbd8VvPpbzSkNwt5itPGKBQZucu2O5hx7W8wCZid8NfZnAJcQyMLqIN518Hia90dbx30liSKBynfTxe2Q2vdVxzYkOeSlrLrLQbR2LJgLGDLlY7XiZgzRzucuMLthksDCHE4RozD-VKNvzzO7rd1Iv3fO7LfG77ftv6l2wNMAtggYOaFj-8aatHHOVSJbsVl1AcICErJ0FqkJlj1FW8bFDrkFQung0VsjAYdWEA6R86s6GY4IuRRqaAYUrRSXe4sG7iBeiwXBnfijyD6UZViZ5EyWo4bbcESW0DQvQ5yoVsKIqg9qCb-xigLcGMLpPew6Jv0xvA.jpg"/&gt;&lt;/a&gt;&lt;br&gt;&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Apple’s next event is on September 9 — get your wallets ready&amp;#33; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"&gt;&lt;b&gt;💸&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
