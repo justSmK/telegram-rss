@@ -1,4 +1,3 @@
-@contravariance
 @lazy_var
 @easy_dev991
 @swift_ioss
