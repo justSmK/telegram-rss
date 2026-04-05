@@ -4,6 +4,8 @@ body {
   margin: 2rem auto;
   padding: 0 1rem 3rem;
   line-height: 1.5;
+  color: #1f2937;
+  background: linear-gradient(180deg, #fcfcf8 0%, #ffffff 14rem);
 }
 
 h1 {
@@ -21,15 +23,81 @@ h1 {
   margin-top: 1rem;
 }
 
+.feed-section {
+  margin-bottom: 1.4rem;
+}
+
+.feed-section-new {
+  padding: 1rem;
+  border: 1px solid #f0d48a;
+  border-radius: 16px;
+  background:
+    linear-gradient(135deg, rgba(255, 244, 214, 0.95), rgba(255, 249, 236, 0.95));
+  box-shadow: 0 14px 30px rgba(199, 145, 31, 0.08);
+}
+
+.feed-section-removed {
+  padding: 1rem;
+  border: 1px solid #efb4b4;
+  border-radius: 16px;
+  background:
+    linear-gradient(135deg, rgba(255, 235, 235, 0.96), rgba(255, 246, 246, 0.96));
+  box-shadow: 0 14px 30px rgba(185, 55, 55, 0.08);
+}
+
+.feed-section-header {
+  margin-bottom: 0.8rem;
+}
+
+.feed-section-heading-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+}
+
+.feed-section-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.feed-section-subtitle {
+  margin: 0.2rem 0 0;
+  color: #6b7280;
+  font-size: 0.92rem;
+}
+
+.feed-section-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
 .feed {
   border: 1px solid #ddd;
-  border-radius: 10px;
+  border-radius: 14px;
   padding: 0.8rem 1rem;
-  margin-bottom: 0.7rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+}
+
+.feed-new {
+  border-color: #e8bf5d;
+  background: linear-gradient(135deg, #fff7dd, #fffdf7);
+  box-shadow: 0 10px 24px rgba(209, 153, 20, 0.14);
+}
+
+.feed-removed {
+  border-color: #e6a3a3;
+  background: linear-gradient(135deg, #fff0f0, #fff9f9);
+  box-shadow: 0 10px 24px rgba(179, 52, 52, 0.1);
 }
 
 .feed-main {
@@ -37,8 +105,33 @@ h1 {
   min-width: 200px;
 }
 
+.feed-title-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .feed-name {
   font-weight: 600;
+}
+
+.feed-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: #b45309;
+  color: #fffdf5;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.feed-badge-removed {
+  background: #b42318;
+  color: #fff5f5;
 }
 
 .feed-url {
@@ -46,6 +139,11 @@ h1 {
   font-size: 0.85rem;
   word-break: break-all;
   color: #444;
+}
+
+.feed-status {
+  font-size: 0.9rem;
+  color: #8f2d2d;
 }
 
 .buttons {
@@ -69,6 +167,41 @@ button.copy-btn:hover {
   background: #e9e9e9;
 }
 
+.section-btn {
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #d19b2f;
+  border-radius: 999px;
+  background: #fff7dd;
+  color: #8a4b08;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.section-btn:hover {
+  background: #ffedb3;
+}
+
+.section-btn-danger {
+  border-color: #d46b6b;
+  background: #fff0f0;
+  color: #9f1c1c;
+}
+
+.section-btn-danger:hover {
+  background: #ffdede;
+}
+
+.feed-new .copy-btn {
+  border-color: #e0b252;
+  background: #fff2c4;
+}
+
+.feed-new .copy-btn:hover {
+  background: #fde7a0;
+}
+
 .error-box {
   margin-top: 1.5rem;
   padding: 0.8rem 1rem;
@@ -81,4 +214,22 @@ button.copy-btn:hover {
 .error-box code,
 .error-box pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+@media (max-width: 640px) {
+  body {
+    margin: 1.2rem auto;
+  }
+
+  .feed-section-new {
+    padding: 0.85rem;
+  }
+
+  .feed-section-removed {
+    padding: 0.85rem;
+  }
+
+  .feed {
+    padding: 0.75rem 0.85rem;
+  }
 }
