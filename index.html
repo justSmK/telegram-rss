@@ -49,7 +49,15 @@
 
     function loadSavedState() {
       try {
-        return JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return null;
+
+        const parsed = JSON.parse(raw);
+        if (!Array.isArray(parsed?.acknowledgedChannels)) return null;
+
+        return {
+          acknowledgedChannels: normalizeChannels(parsed.acknowledgedChannels),
+        };
       } catch {
         return null;
       }
@@ -57,14 +65,12 @@
 
     function saveAcknowledgedState(channels) {
       const normalizedChannels = normalizeChannels(channels);
-      const acknowledgedSignature = normalizedChannels.join('\n');
 
       try {
         localStorage.setItem(
           STORAGE_KEY,
           JSON.stringify({
             acknowledgedChannels: normalizedChannels,
-            acknowledgedSignature,
           })
         );
       } catch (e) {
@@ -73,7 +79,6 @@
 
       return {
         acknowledgedChannels: normalizedChannels,
-        acknowledgedSignature,
       };
     }
 
@@ -262,26 +267,16 @@
           .map(l => l.trim())
           .filter(l => l.length > 0 && !l.startsWith('#'));
 
-        const hasAcknowledgedState =
-          Array.isArray(saved?.acknowledgedChannels) || Array.isArray(saved?.channels);
+        let acknowledgedChannels = saved?.acknowledgedChannels || [];
 
-        let acknowledgedChannels = normalizeChannels(saved?.acknowledgedChannels);
-
-        // Migrate the previous storage format where current channels were saved on load.
-        if (acknowledgedChannels.length === 0 && Array.isArray(saved?.channels)) {
-          acknowledgedChannels = normalizeChannels(saved.channels);
-        }
-
-        if (!hasAcknowledgedState) {
+        if (!saved) {
           const persistedState = saveAcknowledgedState(lines);
           acknowledgedChannels = persistedState.acknowledgedChannels;
         }
 
         const acknowledgedSet = new Set(acknowledgedChannels);
 
-        const lastModifiedDate =
-          parseValidDate(resp.headers.get('last-modified')) ||
-          parseValidDate(document.lastModified);
+        const lastModifiedDate = parseValidDate(resp.headers.get('last-modified'));
 
         if (lastModifiedDate) {
           const relative = formatRelativeTime(lastModifiedDate);
