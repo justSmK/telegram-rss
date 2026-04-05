@@ -14,6 +14,8 @@
   <div id="errors"></div>
 
   <script>
+    const STORAGE_KEY = 'telegramRssState';
+
     // ---- Relative time formatting ----
     function formatRelativeTime(date) {
       const now = new Date();
@@ -30,26 +32,225 @@
       return 'more than 30 days ago';
     }
 
+    function parseValidDate(value) {
+      if (!value) return null;
+      const date = new Date(value);
+      return Number.isNaN(date.getTime()) ? null : date;
+    }
+
+    function normalizeChannels(channels) {
+      return Array.isArray(channels)
+        ? channels
+            .filter(channel => typeof channel === 'string')
+            .map(channel => channel.trim())
+            .filter(channel => channel.length > 0)
+        : [];
+    }
+
+    function loadSavedState() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
+      } catch {
+        return null;
+      }
+    }
+
+    function saveAcknowledgedState(channels) {
+      const normalizedChannels = normalizeChannels(channels);
+      const acknowledgedSignature = normalizedChannels.join('\n');
+
+      try {
+        localStorage.setItem(
+          STORAGE_KEY,
+          JSON.stringify({
+            acknowledgedChannels: normalizedChannels,
+            acknowledgedSignature,
+          })
+        );
+      } catch (e) {
+        console.warn('Failed to save state to localStorage', e);
+      }
+
+      return {
+        acknowledgedChannels: normalizedChannels,
+        acknowledgedSignature,
+      };
+    }
+
+    function createFeedCard(item) {
+      const cardClasses = ['feed'];
+      if (item.isNew) cardClasses.push('feed-new');
+      if (item.isRemoved) cardClasses.push('feed-removed');
+
+      const feedDiv = document.createElement('div');
+      feedDiv.className = cardClasses.join(' ');
+
+      const mainDiv = document.createElement('div');
+      mainDiv.className = 'feed-main';
+
+      const titleRow = document.createElement('div');
+      titleRow.className = 'feed-title-row';
+
+      const nameDiv = document.createElement('div');
+      nameDiv.className = 'feed-name';
+      nameDiv.textContent = item.channel;
+
+      titleRow.appendChild(nameDiv);
+
+      if (item.isNew) {
+        const badge = document.createElement('span');
+        badge.className = 'feed-badge';
+        badge.textContent = 'New';
+        titleRow.appendChild(badge);
+      }
+
+      if (item.isRemoved) {
+        const badge = document.createElement('span');
+        badge.className = 'feed-badge feed-badge-removed';
+        badge.textContent = 'Removed';
+        titleRow.appendChild(badge);
+      }
+
+      const detailsDiv = document.createElement('div');
+      detailsDiv.className = item.isRemoved ? 'feed-status' : 'feed-url';
+      detailsDiv.textContent = item.isRemoved
+        ? 'This channel was in your last acknowledged list, but is no longer in channels.txt.'
+        : item.feedUrl;
+
+      mainDiv.appendChild(titleRow);
+      mainDiv.appendChild(detailsDiv);
+
+      if (!item.isRemoved) {
+        const buttonsDiv = document.createElement('div');
+        buttonsDiv.className = 'buttons';
+
+        const copyBtn = document.createElement('button');
+        copyBtn.className = 'copy-btn';
+        copyBtn.textContent = 'Copy URL';
+        copyBtn.dataset.url = item.feedUrl;
+
+        buttonsDiv.appendChild(copyBtn);
+
+        feedDiv.appendChild(mainDiv);
+        feedDiv.appendChild(buttonsDiv);
+      } else {
+        feedDiv.appendChild(mainDiv);
+      }
+
+      return feedDiv;
+    }
+
+    function createFeedsSection(title, subtitle, items, options = {}) {
+      const { tone = 'default', action = null } = options;
+      const section = document.createElement('section');
+      const sectionClasses = ['feed-section'];
+      if (tone === 'new') sectionClasses.push('feed-section-new');
+      if (tone === 'removed') sectionClasses.push('feed-section-removed');
+      section.className = sectionClasses.join(' ');
+
+      const header = document.createElement('div');
+      header.className = 'feed-section-header';
+
+      const headingRow = document.createElement('div');
+      headingRow.className = 'feed-section-heading-row';
+
+      const titleEl = document.createElement('h2');
+      titleEl.className = 'feed-section-title';
+      titleEl.textContent = title;
+
+      headingRow.appendChild(titleEl);
+
+      if (action) {
+        headingRow.appendChild(action);
+      }
+
+      header.appendChild(headingRow);
+
+      if (subtitle) {
+        const subtitleEl = document.createElement('p');
+        subtitleEl.className = 'feed-section-subtitle';
+        subtitleEl.textContent = subtitle;
+        header.appendChild(subtitleEl);
+      }
+
+      const list = document.createElement('div');
+      list.className = 'feed-section-list';
+
+      for (const item of items) {
+        list.appendChild(createFeedCard(item));
+      }
+
+      section.appendChild(header);
+      section.appendChild(list);
+
+      return section;
+    }
+
+    function renderFeeds(feedsEl, items, onAcknowledgeNew) {
+      feedsEl.innerHTML = '';
+
+      const sortedItems = [...items].sort((a, b) => a.channel.localeCompare(b.channel));
+      const newItems = sortedItems.filter(item => item.isNew);
+      const removedItems = sortedItems.filter(item => item.isRemoved);
+      const existingItems = sortedItems.filter(item => !item.isNew && !item.isRemoved);
+
+      if (newItems.length > 0) {
+        const acknowledgeButton = document.createElement('button');
+        acknowledgeButton.className = 'section-btn';
+        acknowledgeButton.textContent = 'Mark changes as seen';
+        acknowledgeButton.addEventListener('click', onAcknowledgeNew);
+
+        feedsEl.appendChild(
+          createFeedsSection(
+            `New channels (${newItems.length})`,
+            'These stay here until you explicitly mark changes as seen.',
+            newItems,
+            {
+              tone: 'new',
+              action: acknowledgeButton,
+            }
+          )
+        );
+      }
+
+      if (removedItems.length > 0) {
+        const acknowledgeButton = document.createElement('button');
+        acknowledgeButton.className = 'section-btn section-btn-danger';
+        acknowledgeButton.textContent = 'Mark changes as seen';
+        acknowledgeButton.addEventListener('click', onAcknowledgeNew);
+
+        feedsEl.appendChild(
+          createFeedsSection(
+            `Removed channels (${removedItems.length})`,
+            'These were present in your last acknowledged list and have now been removed.',
+            removedItems,
+            {
+              tone: 'removed',
+              action: acknowledgeButton,
+            }
+          )
+        );
+      }
+
+      if (existingItems.length > 0 || (newItems.length === 0 && removedItems.length === 0)) {
+        feedsEl.appendChild(
+          createFeedsSection(
+            newItems.length > 0 || removedItems.length > 0 ? 'Current channels' : 'All channels',
+            newItems.length > 0 || removedItems.length > 0 ? 'The current active feed list.' : '',
+            existingItems
+          )
+        );
+      }
+    }
+
     // ---- Main loader ----
     async function loadFeeds() {
       const metaEl = document.getElementById('meta');
       const feedsEl = document.getElementById('feeds');
       const errorsEl = document.getElementById('errors');
 
-      const buildId = document.lastModified;
-
       // load localStorage state
-      let saved = null;
-      try {
-        saved = JSON.parse(localStorage.getItem('telegramRssState') || 'null');
-      } catch {
-        saved = null;
-      }
-
-      const prevBuildId = saved?.buildId || null;
-      const prevChannels = Array.isArray(saved?.channels) ? saved.channels : [];
-      const isNewBuild = prevBuildId && prevBuildId !== buildId;
-      const prevSet = new Set(prevChannels);
+      const saved = loadSavedState();
 
       try {
         const resp = await fetch('channels.txt');
@@ -61,15 +262,40 @@
           .map(l => l.trim())
           .filter(l => l.length > 0 && !l.startsWith('#'));
 
-        const lastModifiedDate = new Date(buildId);
-        const relative = formatRelativeTime(lastModifiedDate);
-        const absolute = lastModifiedDate.toLocaleString();
+        const hasAcknowledgedState =
+          Array.isArray(saved?.acknowledgedChannels) || Array.isArray(saved?.channels);
 
-        metaEl.textContent = `Channels: ${lines.length} · Updated ${relative} (${absolute})`;
+        let acknowledgedChannels = normalizeChannels(saved?.acknowledgedChannels);
+
+        // Migrate the previous storage format where current channels were saved on load.
+        if (acknowledgedChannels.length === 0 && Array.isArray(saved?.channels)) {
+          acknowledgedChannels = normalizeChannels(saved.channels);
+        }
+
+        if (!hasAcknowledgedState) {
+          const persistedState = saveAcknowledgedState(lines);
+          acknowledgedChannels = persistedState.acknowledgedChannels;
+        }
+
+        const acknowledgedSet = new Set(acknowledgedChannels);
+
+        const lastModifiedDate =
+          parseValidDate(resp.headers.get('last-modified')) ||
+          parseValidDate(document.lastModified);
+
+        if (lastModifiedDate) {
+          const relative = formatRelativeTime(lastModifiedDate);
+          const absolute = lastModifiedDate.toLocaleString();
+          metaEl.textContent = `Channels: ${lines.length} · Updated ${relative} (${absolute})`;
+        } else {
+          metaEl.textContent = `Channels: ${lines.length}`;
+        }
+
+        errorsEl.innerHTML = '';
 
         // Build items with new-channel detection
         const items = lines.map(channel => {
-          const isNewChannel = isNewBuild && !prevSet.has(channel);
+          const isNewChannel = !acknowledgedSet.has(channel);
           const safe = channel.replace('@', '');
           const basePath =
             window.location.origin +
@@ -79,60 +305,22 @@
           return { channel, safe, feedUrl, isNew: isNewChannel };
         });
 
-        // Sort: new channels first, then alphabetical
-        items.sort((a, b) => {
-          if (a.isNew && !b.isNew) return -1;
-          if (!a.isNew && b.isNew) return 1;
-          return a.channel.localeCompare(b.channel);
-        });
+        const currentSet = new Set(lines);
+        const removedItems = acknowledgedChannels
+          .filter(channel => !currentSet.has(channel))
+          .map(channel => ({
+            channel,
+            isRemoved: true,
+          }));
 
-        // Render feed list
-        for (const item of items) {
-          const feedDiv = document.createElement('div');
-          feedDiv.className = 'feed';
-
-          const mainDiv = document.createElement('div');
-          mainDiv.className = 'feed-main';
-
-          const nameDiv = document.createElement('div');
-          nameDiv.className = 'feed-name';
-          nameDiv.textContent = item.channel + (item.isNew ? '  (new)' : '');
-
-          const urlDiv = document.createElement('div');
-          urlDiv.className = 'feed-url';
-          urlDiv.textContent = item.feedUrl;
-
-          mainDiv.appendChild(nameDiv);
-          mainDiv.appendChild(urlDiv);
-
-          const buttonsDiv = document.createElement('div');
-          buttonsDiv.className = 'buttons';
-
-          const copyBtn = document.createElement('button');
-          copyBtn.className = 'copy-btn';
-          copyBtn.textContent = 'Copy URL';
-          copyBtn.dataset.url = item.feedUrl;
-
-          buttonsDiv.appendChild(copyBtn);
-
-          feedDiv.appendChild(mainDiv);
-          feedDiv.appendChild(buttonsDiv);
-
-          feedsEl.appendChild(feedDiv);
-        }
-
-        // Save state (for next build comparison)
-        try {
-          localStorage.setItem(
-            'telegramRssState',
-            JSON.stringify({
-              buildId,
-              channels: lines,
-            })
+        renderFeeds(feedsEl, [...items, ...removedItems], () => {
+          saveAcknowledgedState(lines);
+          renderFeeds(
+            feedsEl,
+            items.map(item => ({ ...item, isNew: false })),
+            null
           );
-        } catch (e) {
-          console.warn('Failed to save state to localStorage', e);
-        }
+        });
 
         // ---- Errors block ----
         try {
