@@ -112,7 +112,7 @@ jobs:
           cp channels.txt out/channels.txt
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./out
 
