@@ -82,6 +82,10 @@
       };
     }
 
+    function mergeChannels(...channelGroups) {
+      return [...new Set(channelGroups.flatMap(normalizeChannels))];
+    }
+
     function createFeedCard(item) {
       const cardClasses = ['feed'];
       if (item.isNew) cardClasses.push('feed-new');
@@ -191,7 +195,8 @@
       return section;
     }
 
-    function renderFeeds(feedsEl, items, onAcknowledgeNew) {
+    function renderFeeds(feedsEl, items, actions = {}) {
+      const { onAcknowledgeNew = null, onAcknowledgeRemoved = null } = actions;
       feedsEl.innerHTML = '';
 
       const sortedItems = [...items].sort((a, b) => a.channel.localeCompare(b.channel));
@@ -222,7 +227,7 @@
         const acknowledgeButton = document.createElement('button');
         acknowledgeButton.className = 'section-btn section-btn-danger';
         acknowledgeButton.textContent = 'Mark changes as seen';
-        acknowledgeButton.addEventListener('click', onAcknowledgeNew);
+        acknowledgeButton.addEventListener('click', onAcknowledgeRemoved);
 
         feedsEl.appendChild(
           createFeedsSection(
@@ -274,8 +279,6 @@
           acknowledgedChannels = persistedState.acknowledgedChannels;
         }
 
-        const acknowledgedSet = new Set(acknowledgedChannels);
-
         const lastModifiedDate = parseValidDate(resp.headers.get('last-modified'));
 
         if (lastModifiedDate) {
@@ -288,34 +291,49 @@
 
         errorsEl.innerHTML = '';
 
-        // Build items with new-channel detection
-        const items = lines.map(channel => {
-          const isNewChannel = !acknowledgedSet.has(channel);
-          const safe = channel.replace('@', '');
-          const basePath =
-            window.location.origin +
-            window.location.pathname.replace(/\/[^\/]*$/, '');
-          const feedUrl = `${basePath}/${safe}.xml`;
-
-          return { channel, safe, feedUrl, isNew: isNewChannel };
-        });
-
         const currentSet = new Set(lines);
-        const removedItems = acknowledgedChannels
-          .filter(channel => !currentSet.has(channel))
-          .map(channel => ({
-            channel,
-            isRemoved: true,
-          }));
+        const basePath =
+          window.location.origin +
+          window.location.pathname.replace(/\/[^\/]*$/, '');
 
-        renderFeeds(feedsEl, [...items, ...removedItems], () => {
-          saveAcknowledgedState(lines);
-          renderFeeds(
-            feedsEl,
-            items.map(item => ({ ...item, isNew: false })),
-            null
-          );
-        });
+        function renderCurrentFeeds() {
+          const acknowledgedSet = new Set(acknowledgedChannels);
+
+          // Build items with new-channel detection
+          const items = lines.map(channel => {
+            const isNewChannel = !acknowledgedSet.has(channel);
+            const safe = channel.replace('@', '');
+            const feedUrl = `${basePath}/${safe}.xml`;
+
+            return { channel, safe, feedUrl, isNew: isNewChannel };
+          });
+
+          const removedItems = acknowledgedChannels
+            .filter(channel => !currentSet.has(channel))
+            .map(channel => ({
+              channel,
+              isRemoved: true,
+            }));
+
+          renderFeeds(feedsEl, [...items, ...removedItems], {
+            onAcknowledgeNew: () => {
+              const persistedState = saveAcknowledgedState(
+                mergeChannels(acknowledgedChannels, lines)
+              );
+              acknowledgedChannels = persistedState.acknowledgedChannels;
+              renderCurrentFeeds();
+            },
+            onAcknowledgeRemoved: () => {
+              const persistedState = saveAcknowledgedState(
+                acknowledgedChannels.filter(channel => currentSet.has(channel))
+              );
+              acknowledgedChannels = persistedState.acknowledgedChannels;
+              renderCurrentFeeds();
+            },
+          });
+        }
+
+        renderCurrentFeeds();
 
         // ---- Errors block ----
         try {
