@@ -118,46 +118,68 @@ jobs:
           path: ./out
 
       - name: Deduplicate GitHub Pages artifacts
+        uses: actions/github-script@v9
         env:
-          GH_TOKEN: ${{ github.token }}
-          REPO: ${{ github.repository }}
-          RUN_ID: ${{ github.run_id }}
           ARTIFACT_NAME: github-pages
-        run: |
-          set -euo pipefail
+          GITHUB_API_VERSION: "2026-03-10"
+        with:
+          github-token: ${{ github.token }}
+          retries: 3
+          script: |
+            const artifactName = process.env.ARTIFACT_NAME;
+            const runId = Number(process.env.GITHUB_RUN_ID);
+            const requestHeaders = {
+              "X-GitHub-Api-Version": process.env.GITHUB_API_VERSION,
+            };
+            const { owner, repo } = context.repo;
 
-          artifacts_json=$(curl -fsS \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "https://api.github.com/repos/${REPO}/actions/runs/${RUN_ID}/artifacts?name=${ARTIFACT_NAME}&per_page=100")
+            const artifacts = await github.paginate(github.rest.actions.listWorkflowRunArtifacts, {
+              owner,
+              repo,
+              run_id: runId,
+              name: artifactName,
+              per_page: 100,
+              headers: requestHeaders,
+            });
 
-          count=$(jq '.total_count' <<< "${artifacts_json}")
-          if [ "${count}" -le 1 ]; then
-            echo "Found ${count} ${ARTIFACT_NAME} artifact; nothing to deduplicate."
-            exit 0
-          fi
+            const matchingArtifacts = artifacts.filter((artifact) => artifact.name === artifactName);
+            if (matchingArtifacts.length <= 1) {
+              core.info(`Found ${matchingArtifacts.length} ${artifactName} artifact; nothing to deduplicate.`);
+              return;
+            }
 
-          missing_digest_count=$(jq '[.artifacts[] | select(.digest == null or .digest == "")] | length' <<< "${artifacts_json}")
-          unique_payload_count=$(jq '[.artifacts[] | {digest, size_in_bytes}] | unique | length' <<< "${artifacts_json}")
+            const artifactDetails = matchingArtifacts
+              .map((artifact) => `id=${artifact.id} size=${artifact.size_in_bytes} digest=${artifact.digest ?? "missing"} created_at=${artifact.created_at}`)
+              .join("\n");
+            const missingDigestCount = matchingArtifacts.filter((artifact) => !artifact.digest).length;
+            const uniquePayloadCount = new Set(
+              matchingArtifacts.map((artifact) => `${artifact.digest}\u0000${artifact.size_in_bytes}`)
+            ).size;
 
-          if [ "${missing_digest_count}" -ne 0 ] || [ "${unique_payload_count}" -ne 1 ]; then
-            echo "Found ${count} ${ARTIFACT_NAME} artifacts, but they are not proven identical. Refusing to delete any artifact."
-            jq -r '.artifacts[] | "id=\(.id) size=\(.size_in_bytes) digest=\(.digest // "missing") created_at=\(.created_at)"' <<< "${artifacts_json}"
-            exit 1
-          fi
+            if (missingDigestCount !== 0 || uniquePayloadCount !== 1) {
+              throw new Error(
+                `Found ${matchingArtifacts.length} ${artifactName} artifacts, but they are not proven identical. Refusing to delete any artifact.\n${artifactDetails}`
+              );
+            }
 
-          keep_id=$(jq -r '.artifacts | sort_by(.created_at) | reverse | .[0].id' <<< "${artifacts_json}")
-          echo "Found ${count} identical ${ARTIFACT_NAME} artifacts; keeping artifact ${keep_id}."
+            const [artifactToKeep] = [...matchingArtifacts].sort((left, right) => {
+              return new Date(right.created_at).getTime() - new Date(left.created_at).getTime() || right.id - left.id;
+            });
+            core.info(`Found ${matchingArtifacts.length} identical ${artifactName} artifacts; keeping artifact ${artifactToKeep.id}.`);
 
-          jq -r --argjson keep_id "${keep_id}" '.artifacts[] | select(.id != $keep_id) | .id' <<< "${artifacts_json}" | while read -r artifact_id; do
-            echo "Deleting duplicate artifact ${artifact_id}."
-            curl -fsS -X DELETE \
-              -H "Authorization: Bearer ${GH_TOKEN}" \
-              -H "Accept: application/vnd.github+json" \
-              -H "X-GitHub-Api-Version: 2022-11-28" \
-              "https://api.github.com/repos/${REPO}/actions/artifacts/${artifact_id}"
-          done
+            for (const artifact of matchingArtifacts) {
+              if (artifact.id === artifactToKeep.id) {
+                continue;
+              }
+
+              core.info(`Deleting duplicate artifact ${artifact.id}.`);
+              await github.rest.actions.deleteArtifact({
+                owner,
+                repo,
+                artifact_id: artifact.id,
+                headers: requestHeaders,
+              });
+            }
 
   deploy:
     runs-on: ubuntu-latest
