@@ -1,0 +1,76 @@
+# Rules are checked against every RSS/Atom item after RSS-Bridge generates it.
+# If any matcher inside a rule matches, the whole item is removed from the feed.
+#
+# Supported matcher fields:
+# - text_patterns: regexes checked against decoded XML/HTML text and visible post text.
+# - link_patterns: regexes checked against decoded href/src URLs.
+# - link_query_params: exact URL query/fragment parameter names, case-insensitive.
+# - link_query_param_patterns: regexes checked against URL query/fragment parameter names.
+# - link_query_param_value_patterns: inline tables with param or param_pattern + value_pattern.
+# - link_domains: exact domain or suffix matches, e.g. "example.com" also matches "a.example.com".
+# - link_domain_patterns: regexes checked against URL hosts.
+
+[[rules]]
+id = "unsupported_media"
+description = "Telegram circle/video placeholders that RSS readers cannot render."
+text_patterns = [
+  "This media is not supported in your browser",
+]
+
+[[rules]]
+id = "erid"
+description = "Russian ad token. Treat as guaranteed advertising when present in text or links."
+text_patterns = [
+  "\\berid\\b\\s*[:=]",
+]
+link_query_params = [
+  "erid",
+]
+link_patterns = [
+  "(^|[?&#;/\\s])erid\\b\\s*=",
+]
+
+[[rules]]
+id = "ad_disclosure"
+description = "Explicit advertising disclosure in the post text."
+text_patterns = [
+  "(^|[\\s.;!?])(?:реклама|на правах рекламы|рекламодатель)\\s*[:.]",
+]
+
+[[rules]]
+id = "giveaway"
+description = "Giveaways and prize draws are treated as advertising."
+text_patterns = [
+  "розыгрыш",
+  "розыгрыва\\w*",
+  "разыгрыва\\w*",
+  "разыгра(?:ем|ют|ли|ть)",
+  "giveaway",
+  "выигра(?:й|йте|ть|ете)",
+  "победител\\w*.{0,80}(?:получ|забер|приз|подар)",
+  "приз\\w*.{0,80}(?:получ|забер|победител)",
+  "дарим.{0,80}(?:доступ|билет|подпис|промокод|сертификат|книг|курс)",
+]
+
+[[rules]]
+id = "commercial_cta"
+description = "Commercial event/course calls to action."
+text_patterns = [
+  "за билет(?:ом|ами)?",
+  "забрать билет",
+  "купить билет",
+  "минимальн\\w*\\s+цен\\w*\\s+участ",
+  "цена\\s+участ",
+  "стоимост\\w*\\s+участ",
+  "промокод",
+  "скидк\\w*.{0,50}(?:%|промокод|билет|участ|курс)",
+  "(?:получишь|получите|доступ|курс|материалы|подписка|пакет).{0,120}за\\s+\\d+\\s*(?:₽|руб|\\$|€)",
+]
+
+[[rules]]
+id = "paid_tracking_link"
+description = "Links whose tracking parameters look promotional."
+link_query_param_value_patterns = [
+  { param = "utm_medium", value_pattern = "paid|cpc|cpm|cpa|ads?|advert|sponsor|promo|promocode|sale" },
+  { param_pattern = "^utm_", value_pattern = "paid|cpc|cpm|cpa|ads?|advert|sponsor|promo|promocode|early[_-]?bird|sale" },
+]
