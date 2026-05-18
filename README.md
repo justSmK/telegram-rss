@@ -3,9 +3,15 @@
 
 Telegram channels → RSS (via rss-bridge).
 
+Generated feeds are post-processed before publishing:
+
+- `scripts/filter_feed.py` removes unwanted ad-like posts.
+- `scripts/normalize_feed.py` keeps entry titles and content from repeating
+  the same leading Telegram text in RSS readers.
+
 ## Feed filtering
 
-Generated feeds are filtered before publishing. Rules live in
+Filtering rules live in
 [`config/ad_filters.toml`](config/ad_filters.toml), so new ad patterns can be
 added without changing Python code.
 

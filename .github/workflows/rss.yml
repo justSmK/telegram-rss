@@ -68,6 +68,7 @@ jobs:
             SAFE_NAME=$(echo "$CHANNEL" | tr -d '@')
             URL="http://localhost:8080/?action=display&bridge=Telegram&format=Atom&username=${CHANNEL}"
             TMP_FILE="out/${SAFE_NAME}.xml.tmp"
+            FILTERED_FILE="out/${SAFE_NAME}.xml.filtered"
 
             echo "Fetching ${CHANNEL} -> out/${SAFE_NAME}.xml"
 
@@ -84,25 +85,29 @@ jobs:
                   && ! grep -Eq 'Bridge returned error|cURL error' "$TMP_FILE"; then
                   if python3 scripts/filter_feed.py \
                        "$TMP_FILE" \
-                       "out/${SAFE_NAME}.xml" \
+                       "$FILTERED_FILE" \
                        --channel "$CHANNEL" \
                        --config config/ad_filters.toml \
-                       --log out/_filtered.log; then
-                    rm -f "$TMP_FILE"
+                       --log out/_filtered.log \
+                    && python3 scripts/normalize_feed.py \
+                       "$FILTERED_FILE" \
+                       "out/${SAFE_NAME}.xml" \
+                       --channel "$CHANNEL"; then
+                    rm -f "$TMP_FILE" "$FILTERED_FILE"
                     echo "OK: ${CHANNEL} (attempt ${attempt})"
                     success=true
                     break
                   else
-                    echo "FILTER_FAIL: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
-                    rm -f "$TMP_FILE"
+                    echo "POSTPROCESS_FAIL: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
+                    rm -f "$TMP_FILE" "$FILTERED_FILE"
                   fi
                 else
                   echo "INVALID: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
-                  rm -f "$TMP_FILE"
+                  rm -f "$TMP_FILE" "$FILTERED_FILE"
                 fi
               else
                 echo "FAIL: ${CHANNEL} (attempt ${attempt})" | tee -a out/_errors.log
-                rm -f "$TMP_FILE"
+                rm -f "$TMP_FILE" "$FILTERED_FILE"
                 # небольшая пауза перед повтором
                 sleep $((5 * attempt))
               fi
